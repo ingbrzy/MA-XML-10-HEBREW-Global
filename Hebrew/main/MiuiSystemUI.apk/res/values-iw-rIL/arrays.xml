@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="aqi_title_prefix">
-        <item>מדד איכות האויר %1$s</item>
-        <item>מדד איכות האויר %1$s</item>
-        <item>מדד איכות האויר %1$s</item>
-        <item>מדד איכות האויר %1$s</item>
-        <item>מדד איכות האויר %1$s</item>
-        <item>מדד איכות האויר %1$s</item>
-        <item>מדד איכות האויר %1$s</item>
-    </string-array>
     <string-array name="battery_options">
         <item>תמיד הצג אחוזים</item>
         <item>הצג אחוזים בזמן טעינה (ברירת המחדל)</item>
