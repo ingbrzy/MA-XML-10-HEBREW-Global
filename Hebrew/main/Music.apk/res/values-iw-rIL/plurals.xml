@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">%d שירים בסה\"כ</item>
+        <item quantity="one">שיר %d בסה\"כ</item>
+        <item quantity="two">%d שירים בסה\"כ</item>
+        <item quantity="many">%d שירים בסה\"כ</item>
+    </plurals>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">מחפש עטיפות אלבומים ומילות שירים (%1$d/%2$d)</item>
+        <item quantity="one">מחפש עטיפות אלבומים ומילות שירים (%1$d/%2$d)</item>
+        <item quantity="two">מחפש עטיפות אלבומים ומילות שירים (%1$d/%2$d)</item>
+        <item quantity="many">מחפש עטיפות אלבומים ומילות שירים (%1$d/%2$d)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">מגבה שירים, %1$d שירים נותרו (%2$.1fMB)</item>
+        <item quantity="one">מגבה שירים, שיר %1$d נותר (%2$.1fMB)</item>
+        <item quantity="two">מגבה שירים, %1$d שירים נותרו (%2$.1fMB)</item>
+        <item quantity="many">מגבה שירים, %1$d שירים נותרו (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">הנגן יעצור בעוד %d דקות</item>
+        <item quantity="one">הנגן יעצור בעוד דקה %d</item>
+        <item quantity="two">הנגן יעצור בעוד %d דקות</item>
+        <item quantity="many">הנגן יעצור בעוד %d דקות</item>
+    </plurals>
+    <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">בחר שלא למצוא עטיפות אלבומים ומלל עבור שירים מקומיים באופן אוטומטי. למחוק פרטים עבור %d שירים?</item>
+        <item quantity="one">בחר שלא למצוא עטיפות אלבומים ומלל עבור שירים מקומיים באופן אוטומטי. למחוק פרטים עבור שיר %d?</item>
+        <item quantity="two">בחר שלא למצוא עטיפות אלבומים ומלל עבור שירים מקומיים באופן אוטומטי. למחוק פרטים עבור %d שירים?</item>
+        <item quantity="many">בחר שלא למצוא עטיפות אלבומים ומלל עבור שירים מקומיים באופן אוטומטי. למחוק פרטים עבור %d שירים?</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">נוצרה ב- %1$s | סהכ %2$d שירים</item>
+        <item quantity="one">נוצרה ב- %1$s | שיר %2$d בסה\"כ</item>
+        <item quantity="two">נוצרה ב- %1$s | סהכ %2$d שירים</item>
+        <item quantity="many">נוצרה ב- %1$s | סהכ %2$d שירים</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">%d שירים לא גובו ב-Mi Cloud. לעצור כעת?</item>
+        <item quantity="one">שיר %d לא גובה ב-Mi Cloud. לעצור כעת?</item>
+        <item quantity="two">%d שירים לא גובו ב-Mi Cloud. לעצור כעת?</item>
+        <item quantity="many">%d שירים לא גובו ב-Mi Cloud. לעצור כעת?</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d שירים נוספו לרשימת ההשמעה</item>
+        <item quantity="one">שיר %d נוסף לרשימת ההשמעה</item>
+        <item quantity="two">%d שירים נוספו לרשימת ההשמעה</item>
+        <item quantity="many">%d שירים נוספו לרשימת ההשמעה</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d שירים</item>
+        <item quantity="one">שיר %d</item>
+        <item quantity="two">%d שירים</item>
+        <item quantity="many">%d שירים</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d שירים הוסרו מרשימת ההשמעה</item>
+        <item quantity="one">שיר %d הוסר מרשימת ההשמעה</item>
+        <item quantity="two">%d שירים הוסרו מרשימת ההשמעה</item>
+        <item quantity="many">%d שירים הוסרו מרשימת ההשמעה</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d שירים דומים</item>
+        <item quantity="one">שיר דומה %d</item>
+        <item quantity="two">%d שירים דומים</item>
+        <item quantity="many">%d שירים דומים</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">%1$d שירים לא גובו (%2$.1fMB)</item>
+        <item quantity="one">שיר %1$d לא גובה (%2$.1fMB)</item>
+        <item quantity="two">%1$d שירים לא גובו (%2$.1fMB)</item>
+        <item quantity="many">%1$d שירים לא גובו (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">גבה %1$d שירים (%2$.1fMB)</item>
+        <item quantity="one">גבה שיר %1$d (%2$.1fMB)</item>
+        <item quantity="two">גבה %1$d שירים (%2$.1fMB)</item>
+        <item quantity="many">גבה %1$d שירים (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d הערות</item>
+        <item quantity="one">הערה %d</item>
+        <item quantity="two">%d הערות</item>
+        <item quantity="many">%d הערות</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">למחוק %d פריטים?</item>
+        <item quantity="one">למחוק פריט %d?</item>
+        <item quantity="two">למחוק %d פריטים?</item>
+        <item quantity="many">למחוק %d פריטים?</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"Delete %d items?
+Note: Files will be deleted from this device as well."</item>
+        <item quantity="one">"Delete %d item?
+Note: File will be deleted from this device as well."</item>
+        <item quantity="two">"Delete %d items?
+Note: Files will be deleted from this device as well."</item>
+        <item quantity="many">"Delete %d items?
+Note: Files will be deleted from this device as well."</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">למחוק %d שירים?</item>
+        <item quantity="one">למחוק שיר %d?</item>
+        <item quantity="two">למחוק %d שירים?</item>
+        <item quantity="many">למחוק %d שירים?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">להסיר %d שירים?</item>
+        <item quantity="one">להסיר שיר %d?</item>
+        <item quantity="two">להסיר %d שירים?</item>
+        <item quantity="many">להסיר %d שירים?</item>
+    </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">למחוק %d שירים מ-Mi Cloud? הם ימחקו גם מרשימות ההשמעה המקומיות.</item>
+        <item quantity="one">למחוק שיר %d מ-Mi Cloud? הוא ימחק גם מרשימות ההשמעה המקומיות.</item>
+        <item quantity="two">למחוק %d שירים מ-Mi Cloud? הם ימחקו גם מרשימות ההשמעה המקומיות.</item>
+        <item quantity="many">למחוק %d שירים מ-Mi Cloud? הם ימחקו גם מרשימות ההשמעה המקומיות.</item>
+    </plurals>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d שירים&lt;/font> ירדו</item>
+        <item quantity="one">&lt;font color==\"red\">שיר %d&lt;/font> ירד</item>
+        <item quantity="two">&lt;font color=\"red\">%d שירים&lt;/font> ירדו</item>
+        <item quantity="many">&lt;font color=\"red\">%d שירים&lt;/font> ירדו</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d הורדות הוסרו</item>
+        <item quantity="one">הורדה %d הוסרה</item>
+        <item quantity="two">%d הורדות הוסרו</item>
+        <item quantity="many">%d הורדות הוסרו</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\">%d שירים&lt;/font> בתהליך הורדה</item>
+        <item quantity="one">&lt;font color==\"red\">שיר %d&lt;/font> בתהליך הורדה</item>
+        <item quantity="two">&lt;font color=\"red\">%d שירים&lt;/font> בתהליך הורדה</item>
+        <item quantity="many">&lt;font color=\"red\">%d שירים&lt;/font> בתהליך הורדה</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d פריטים נבחרו</item>
+        <item quantity="one">פריט %d נבחר</item>
+        <item quantity="two">%d פריטים נבחרו</item>
+        <item quantity="many">%d פריטים נבחרו</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d עוקבים</item>
+        <item quantity="one">עוקב %d</item>
+        <item quantity="two">%d עוקבים</item>
+        <item quantity="many">%d עוקבים</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d שירים ישלחו</item>
+        <item quantity="one">שיר %d ישלח</item>
+        <item quantity="two">%d שירים ישלחו</item>
+        <item quantity="many">%d שירים ישלחו</item>
+    </plurals>
+    <plurals name="skipped_online_songs_tips">
+        <item quantity="other">"%d שירים דולגו. הפעל את השירותים המקוונים ב'הגדרות' על מנת להאזין להם."</item>
+        <item quantity="one">"שיר %d דולג. הפעל את השירותים המקוונים ב'הגדרות' על מנת להאזין לו."</item>
+        <item quantity="two">"%d שירים דולגו. הפעל את השירותים המקוונים ב'הגדרות' על מנת להאזין להם."</item>
+        <item quantity="many">"%d שירים דולגו. הפעל את השירותים המקוונים ב'הגדרות' על מנת להאזין להם."</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">השירים נוספו למועדפים.</item>
+        <item quantity="one">השיר נוסף למועדפים.</item>
+        <item quantity="two">השירים נוספו למועדפים.</item>
+        <item quantity="many">השירים נוספו למועדפים.</item>
+    </plurals>
+    <plurals name="songs_count">
+        <item quantity="other">%d שירים</item>
+        <item quantity="one">שיר %d</item>
+        <item quantity="two">%d שירים</item>
+        <item quantity="many">%d שירים</item>
+    </plurals>
+</resources>

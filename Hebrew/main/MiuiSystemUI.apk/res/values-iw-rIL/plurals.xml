@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">"'לאחרונה' נפתח, יישומים זמינים: %d."</item>
+        <item quantity="one">"'לאחרונה' נפתח, יישום זמין: %d."</item>
+        <item quantity="two">"'לאחרונה' נפתח, יישומים זמינים: %d."</item>
+        <item quantity="many">"'לאחרונה' נפתח, יישומים זמינים: %d."</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">"'לאחרונה' נפתח, יישומים זמינים: %d. החלק מעלה להסרה, החלק מטה לנעילה."</item>
+        <item quantity="one">"'לאחרונה' נפתח, יישום זמין: %d. החלק מעלה להסרה, החלק מטה לנעילה."</item>
+        <item quantity="two">"'לאחרונה' נפתח, יישומים זמינים: %d. החלק מעלה להסרה, החלק מטה לנעילה."</item>
+        <item quantity="many">"'לאחרונה' נפתח, יישומים זמינים: %d. החלק מעלה להסרה, החלק מטה לנעילה."</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">מסתיר התראות מ- %1$s &amp; %2$d יישומים.</item>
+        <item quantity="one">מסתיר התראות מיישום %1$s &amp; %2$d.</item>
+        <item quantity="two">מסתיר התראות מ- %1$s &amp; %2$d יישומים.</item>
+        <item quantity="many">מסתיר התראות מ- %1$s &amp; %2$d יישומים.</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">להסתיר התראות של %d יישומים?</item>
+        <item quantity="one">להסתיר התראות של יישום זה?</item>
+        <item quantity="two">להסתיר התראות של %d יישומים?</item>
+        <item quantity="many">להסתיר התראות של %d יישומים?</item>
+    </plurals>
+    <plurals name="fold_tips_title">
+        <item quantity="other">%d הודעות לא חשובות</item>
+        <item quantity="one">הודעה לא חשובה %d</item>
+        <item quantity="two">%d הודעות לא חשובות</item>
+        <item quantity="many">%d הודעות לא חשובות</item>
+    </plurals>
+    <plurals name="notification_channels_list_desc_2_and_others">
+        <item quantity="other">%1$s, %2$s, and %3$d אחרים</item>
+        <item quantity="one">%1$s, %2$s, and %3$d אחר</item>
+        <item quantity="two">%1$s, %2$s, and %3$d אחרים</item>
+        <item quantity="many">%1$s, %2$s, and %3$d אחרים</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s הודעות נוספות בפנים.</item>
+        <item quantity="one">הודעה נוספת %s בפנים.</item>
+        <item quantity="two">%s הודעות נוספות בפנים.</item>
+        <item quantity="many">%s הודעות נוספות בפנים.</item>
+    </plurals>
+    <plurals name="notification_num_channels_desc">
+        <item quantity="other">1 מתוך %d קטגוריות של הודעות מהאפליקציה הזו</item>
+        <item quantity="one">1 מתוך קטגוריה %d של הודעות מהאפליקציה הזו</item>
+        <item quantity="two">1 מתוך %d קטגוריות של הודעות מהאפליקציה הזו</item>
+        <item quantity="many">1 מתוך %d קטגוריות של הודעות מהאפליקציה הזו</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">פעילים %1$d מתגים מעל סרגל זה</item>
+        <item quantity="one">פעיל מתג %1$d מעל סרגל זה</item>
+        <item quantity="two">פעילים %1$d מתגים מעל סרגל זה</item>
+        <item quantity="many">פעילים %1$d מתגים מעל סרגל זה</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d מסכים בסקירה הכללית</item>
+        <item quantity="one">מסך 1 בסקירה הכללית</item>
+        <item quantity="two">%d מסכים בסקירה הכללית</item>
+        <item quantity="many">%d מסכים בסקירה הכללית</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">בהיר</item>
+        <item quantity="one">בהיר</item>
+        <item quantity="two">בהיר</item>
+        <item quantity="many">בהיר</item>
+    </plurals>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%1$s לא סונכרנו</item>
+        <item quantity="one">%1$s לא סונכרן</item>
+        <item quantity="two">%1$s לא סונכרנו</item>
+        <item quantity="many">%1$s לא סונכרנו</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s תיקיות</item>
+        <item quantity="one">תיקיה %1$s</item>
+        <item quantity="two">%1$s תיקיות</item>
+        <item quantity="many">%1$s תיקיות</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s פתקים</item>
+        <item quantity="one">פתק %1$s</item>
+        <item quantity="two">%1$s פתקים</item>
+        <item quantity="many">%1$s פתקים</item>
+    </plurals>
+</resources>

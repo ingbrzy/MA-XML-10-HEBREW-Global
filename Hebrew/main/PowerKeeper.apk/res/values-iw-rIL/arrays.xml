@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_groups">
+        <item>מותאם אישית</item>
+        <item>חסכון בסוללה</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>ברירת מחדל עבור מצב בקרת טמפרטורה</item>
+        <item>מצב ביצועים</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>מצב בקרת טמפרטורה נוכחי</item>
+        <item>מצב ביצועים נוכחי</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>ביצועים</item>
+        <item>מאוזן</item>
+    </string-array>
+</resources>

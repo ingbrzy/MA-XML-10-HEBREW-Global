@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adblock_notification">
+        <item quantity="other">%d מודעות נחסמו</item>
+        <item quantity="one">מודעה %d נחסמה</item>
+        <item quantity="two">%d מודעות נחסמו</item>
+        <item quantity="many">%d מודעות נחסמו</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d פריטים נחסמו</item>
+        <item quantity="one">פריט %d נחסם</item>
+        <item quantity="two">%d פריטים נחסמו</item>
+        <item quantity="many">%d פריטים נחסמו</item>
+    </plurals>
+    <plurals name="articles_updated_amount">
+        <item quantity="other">מאמר %1$d עודכן עבורך</item>
+        <item quantity="one">מאמר %1$d עודכן עבורך</item>
+        <item quantity="two">%1$dמאמרים עודכנו עבורך</item>
+        <item quantity="many">%1$dמאמרים עודכנו עבורך</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">למחוק %d משימות?</item>
+        <item quantity="one">למחוק משימה %d?</item>
+        <item quantity="two">למחוק %d משימות?</item>
+        <item quantity="many">למחוק %d משימות?</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d התאמות</item>
+        <item quantity="one">התאמה %d</item>
+        <item quantity="two">%d התאמות</item>
+        <item quantity="many">%d התאמות</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">עמוד חדש יווצר באופן אוטומטי לאחר %d שניות</item>
+        <item quantity="one">עמוד חדש יווצר באופן אוטומטי לאחר שניה %d</item>
+        <item quantity="two">עמוד חדש יווצר באופן אוטומטי לאחר %d שניות</item>
+        <item quantity="many">עמוד חדש יווצר באופן אוטומטי לאחר %d שניות</item>
+    </plurals>
+    <plurals name="pref_adblock_counts">
+        <item quantity="other">%d נחסמו</item>
+        <item quantity="one">%d נחסם</item>
+        <item quantity="two">%d נחסמו</item>
+        <item quantity="many">%d נחסמו</item>
+    </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">%d שירים</item>
+        <item quantity="one">שיר %d</item>
+        <item quantity="two">%d שירים</item>
+        <item quantity="many">%d שירים</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">%d אלבומים</item>
+        <item quantity="one">אלבום %d</item>
+        <item quantity="two">%d אלבומים</item>
+        <item quantity="many">%d אלבומים</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">%d שירים פופולריים</item>
+        <item quantity="one">שיר פופולרי %d</item>
+        <item quantity="two">%d שירים פופולריים</item>
+        <item quantity="many">%d שירים פופולריים</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">נגן סרטון בעוד שנייה %1$d</item>
+        <item quantity="one">נגן סרטון בעוד שנייה %1$d</item>
+        <item quantity="two">נגן סרטון בעוד %1$d שניות</item>
+        <item quantity="many">נגן סרטון בעוד %1$d שניות</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d נבחרו</item>
+        <item quantity="one">%1$d נבחרה</item>
+        <item quantity="two">%1$d נבחרו</item>
+        <item quantity="many">%1$d נבחרו</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">הסרת סרטון וידאו %1$d בוצעה בהצלחה.</item>
+        <item quantity="one">הסרת סרטון וידאו %1$d בוצעה בהצלחה.</item>
+        <item quantity="two">הסרת %1$d סרטונים בוצעה בהצלחה.</item>
+        <item quantity="many">הסרת %1$d סרטונים בוצעה בהצלחה.</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">לנקות %1$d סרטוני וידאו?</item>
+        <item quantity="one">לנקות סרטון וידאו %1$d?</item>
+        <item quantity="two">לנקות %1$d סרטוני וידאו?</item>
+        <item quantity="many">לנקות %1$d סרטוני וידאו?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d פריטים נמחקו מההיסטוריה.</item>
+        <item quantity="one">פריט %1$d נמחק מההיסטוריה.</item>
+        <item quantity="two">%1$d פריטים נמחקו מההיסטוריה.</item>
+        <item quantity="many">%1$d פריטים נמחקו מההיסטוריה.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">למחוק %1$d פריטים מההיסטוריה?</item>
+        <item quantity="one">למחוק פריט %1$d מההיסטוריה?</item>
+        <item quantity="two">למחוק %1$d פריטים מההיסטוריה?</item>
+        <item quantity="many">למחוק %1$d פריטים מההיסטוריה?</item>
+    </plurals>
+    <plurals name="video_push_multi_message">
+        <item quantity="other">%1$d updates available.</item>
+        <item quantity="one">%1$d update available.</item>
+        <item quantity="two">%1$d updates available.</item>
+        <item quantity="many">%1$d updates available.</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">%d דקות נותרו</item>
+        <item quantity="one">דקה %d נותרה</item>
+        <item quantity="two">%d דקות נותרו</item>
+        <item quantity="many">%d דקות נותרו</item>
+    </plurals>
+    <plurals name="videos_updated_amount">
+        <item quantity="other">סרטון %1$d עודכן עבורך</item>
+        <item quantity="one">סרטון %1$d עודכן עבורך</item>
+        <item quantity="two">%1$d סרטונים עודכנו עבורך</item>
+        <item quantity="many">%1$d סרטונים עודכנו עבורך</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">בהיר</item>
+        <item quantity="one">בהיר</item>
+        <item quantity="two">בהיר</item>
+        <item quantity="many">בהיר</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">הוקלטו %d שיחות.</item>
+        <item quantity="one">הוקלטה שיחה %d.</item>
+        <item quantity="two">הוקלטו %d שיחות.</item>
+        <item quantity="many">הוקלטו %d שיחות.</item>
+    </plurals>
+</resources>

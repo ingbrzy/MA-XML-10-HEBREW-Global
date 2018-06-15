@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">הכתוביות הועברו %.1f שניות קדימה</item>
+        <item quantity="one">הכתוביות הועברו שניה %.1f קדימה</item>
+        <item quantity="two">הכתוביות הועברו %.1f שניות קדימה</item>
+        <item quantity="many">הכתוביות הועברו %.1f שניות קדימה</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">הכתוביות מושהות למשך %.1f שניות</item>
+        <item quantity="one">הכתוביות מושהות למשך שניה %.1f</item>
+        <item quantity="two">הכתוביות מושהות למשך %.1f שניות</item>
+        <item quantity="many">הכתוביות מושהות למשך %.1f שניות</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">גודל: %.2fKG</item>
+        <item quantity="one">גודל: %.2fKG</item>
+        <item quantity="two">גודל: %.2fKG</item>
+        <item quantity="many">גודל: %.2fKG</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d סרטונים</item>
+        <item quantity="one">סרטון %d</item>
+        <item quantity="two">%d סרטונים</item>
+        <item quantity="many">%d סרטונים</item>
+    </plurals>
+</resources>

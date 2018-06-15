@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">לעולם אל תשבית עבור %d יישומים</item>
+        <item quantity="one">לעולם אל תשבית עבור יישום 1</item>
+        <item quantity="two">לעולם אל תשבית עבור %d יישומים</item>
+        <item quantity="many">לעולם אל תשבית עבור %d יישומים</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">השבת תמיד עבור %d יישומים</item>
+        <item quantity="one">השבת תמיד עבור יישום 1</item>
+        <item quantity="two">השבת תמיד עבור %d יישומים</item>
+        <item quantity="many">השבת תמיד עבור %d יישומים</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">הרשאת הפעלה אוטומטית ניתנה ל-%d יישומים</item>
+        <item quantity="one">הרשאת הפעלה אוטומטית ניתנה ליישום %d</item>
+        <item quantity="two">הרשאת הפעלה אוטומטית ניתנה ל-%d יישומים</item>
+        <item quantity="many">הרשאת הפעלה אוטומטית ניתנה ל-%d יישומים</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d יישומים יכולים להתחבר לרשת</item>
+        <item quantity="one">יישום %d יכול להתחבר לרשת</item>
+        <item quantity="two">%d יישומים יכולים להתחבר לרשת</item>
+        <item quantity="many">%d יישומים יכולים להתחבר לרשת</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d יישומים לא יכולים להתחבר לרשת</item>
+        <item quantity="one">יישום %d לא יכול להתחבר לרשת</item>
+        <item quantity="two">%d יישומים לא יכולים להתחבר לרשת</item>
+        <item quantity="many">%d יישומים לא יכולים להתחבר לרשת</item>
+    </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d התקנים</item>
+        <item quantity="one">התקן %d</item>
+        <item quantity="two">%d התקנים</item>
+        <item quantity="many">%d התקנים</item>
+    </plurals>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">החיבור הוגבל עבור %s יישומים</item>
+        <item quantity="one">החיבור הוגבל עבור יישום %s</item>
+        <item quantity="two">החיבור הוגבל עבור %s יישומים</item>
+        <item quantity="many">החיבור הוגבל עבור %s יישומים</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d אנשים מחוברים</item>
+        <item quantity="one">אדם %1$d מחובר</item>
+        <item quantity="two">%1$d אנשים מחוברים</item>
+        <item quantity="many">%1$d אנשים מחוברים</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">על קוד ה-PIN להיות באורך %d ספרות</item>
+        <item quantity="one">על קוד ה-PIN להיות באורך ספרה %d</item>
+        <item quantity="two">על קוד ה-PIN להיות באורך %d ספרות</item>
+        <item quantity="many">על קוד ה-PIN להיות באורך %d ספרות</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">קוד ה-PIN יכול להכיל עד %d ספרות</item>
+        <item quantity="one">קוד ה-PIN יכול להכיל עד ספרה %d</item>
+        <item quantity="two">קוד ה-PIN יכול להכיל עד %d ספרות</item>
+        <item quantity="many">קוד ה-PIN יכול להכיל עד %d ספרות</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">קוד ה-PIN צריך להכיל %d ספרות</item>
+        <item quantity="one">קוד ה-PIN צריך להכיל ספרה %d</item>
+        <item quantity="two">קוד ה-PIN צריך להכיל %d ספרות</item>
+        <item quantity="many">קוד ה-PIN צריך להכיל %d ספרות</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">חבר לפחות %d נקודות. נסה שוב.</item>
+        <item quantity="one">חבר לפחות נקודה %d. נסה שוב.</item>
+        <item quantity="two">חבר לפחות %d נקודות. נסה שוב.</item>
+        <item quantity="many">חבר לפחות %d נקודות. נסה שוב.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">יותר מדי ניסיונות שגויים. נסה שוב בעוד %d שניות.</item>
+        <item quantity="one">יותר מדי ניסיונות שגויים. נסה שוב בעוד שנייה %d.</item>
+        <item quantity="two">יותר מדי ניסיונות שגויים. נסה שוב בעוד %d שניות.</item>
+        <item quantity="many">יותר מדי ניסיונות שגויים. נסה שוב בעוד %d שניות.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">חכה %d שניות ונסה שוב.</item>
+        <item quantity="one">חכה שנייה %d ונסה שוב.</item>
+        <item quantity="two">חכה %d שניות ונסה שוב.</item>
+        <item quantity="many">חכה %d שניות ונסה שוב.</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>
+        <item quantity="one">"מתג %1$d יופיע ב'לוח ההתראות'"</item>
+        <item quantity="two">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>
+        <item quantity="many">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
+        <item quantity="one">הינך נמצא צעד %1$d לפני כניסה ל-CIT.</item>
+        <item quantity="two">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
+        <item quantity="many">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">הינך נמצא %1$d צעדים לפני כניסה לפרטי הטלפון.</item>
+        <item quantity="one">הינך נמצא צעד %1$d לפני כניסה לפרטי הטלפון.</item>
+        <item quantity="two">הינך נמצא %1$d צעדים לפני כניסה לפרטי הטלפון.</item>
+        <item quantity="many">הינך נמצא %1$d צעדים לפני כניסה לפרטי הטלפון.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">הינך נמצא %1$d צעדים לפני דיווח על שגיאה.</item>
+        <item quantity="one">הינך נמצא צעד %1$d לפני דיווח על שגיאה.</item>
+        <item quantity="two">הינך נמצא %1$d צעדים לפני דיווח על שגיאה.</item>
+        <item quantity="many">הינך נמצא %1$d צעדים לפני דיווח על שגיאה.</item>
+    </plurals>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">%d יישומים לא יכולים להציג התראות</item>
+        <item quantity="one">יישום %d לא יכול להציג התראות</item>
+        <item quantity="two">%d יישומים לא יכולים להציג התראות</item>
+        <item quantity="many">%d יישומים לא יכולים להציג התראות</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%d יישומים יכולים להציג התראות</item>
+        <item quantity="one">יישום %d יכול להציג התראות</item>
+        <item quantity="two">%d יישומים יכולים להציג התראות</item>
+        <item quantity="many">%d יישומים יכולים להציג התראות</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d סיכונים נמצאו</item>
+        <item quantity="one">סיכון %d נמצא</item>
+        <item quantity="two">%d סיכונים נמצאו</item>
+        <item quantity="many">%d סיכונים נמצאו</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d רשתות שותפו</item>
+        <item quantity="one">רשת %d שותפה</item>
+        <item quantity="two">%d רשתות שותפו</item>
+        <item quantity="many">%d רשתות שותפו</item>
+    </plurals>
+</resources>
