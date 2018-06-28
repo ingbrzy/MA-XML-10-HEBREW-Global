@@ -432,6 +432,7 @@
     <string name="managed_user_title">כל יישומי העבודה</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
@@ -955,6 +956,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"יישום זה עשוי להאט
 את מכשירך"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">להסיר את התקנת %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">הסר התקנת יישום זה על מנת לתקן בעיות שימוש בסוללה.</string>
     <string name="om_ill_proc_type_wakelock_title">"היישום חוסם את 'מצב שינה' וזולל סוללה"</string>
@@ -1013,6 +1015,7 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">נתונים סלולריים שנשלחו</string>
     <string name="usage_type_no_coverage">זמן ללא אות</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="power_screen">מסך</string>
     <string name="power_wifi">רשת אלחוטית</string>
@@ -1358,6 +1361,7 @@ Rolled over extra data"</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1732,6 +1736,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -2079,7 +2084,7 @@ Rolled over extra data"</string>
     <string name="app_manager_open_show_all_apps_immediate">הצג את כל התוצאות</string>
     <string name="app_manager_mobile_slot1">נתונים סלולריים (SIM 1)</string>
     <string name="app_manager_mobile_slot2">נתונים סלולריים (SIM 2)</string>
-    <string name="app_manager_details_title">App info</string>
+    <string name="app_manager_details_title">פרטי האפליקציה</string>
     <string name="ad_btn_default_text">מידע נוסף</string>
     <string name="open_activity_err">היישום לא נמצא</string>
     <string name="low_memory_warning_dialog_title">אין מספיק שטח פנוי</string>
@@ -2266,6 +2271,9 @@ Rolled over extra data"</string>
     <string name="screenrecord_not_find">התקן את הגרסה האחרונה של מקליט המסך ונסה שוב.</string>
     <string name="gamebox_qq_not_find">התקן את QQ ונסה שוב.</string>
     <string name="gamebox_wechat_not_find">התקן את WeChat ונסה שוב.</string>
+    <string name="gamebox_type_close">לא להציג</string>
+    <string name="gamebox_type_float">קיצור קבוע</string>
+    <string name="gamebox_type_gesture">העבר אצבע כדי להציג</string>
     <string name="power_center_consume_rank">שימוש בסוללה</string>
     <string name="power_center_custom_title">פרופילי צריכת חשמל</string>
     <string name="power_center_auto_shutdown_summary_default">כיבוי והדלקה של המכשיר בשעה שנקבעה מראש</string>

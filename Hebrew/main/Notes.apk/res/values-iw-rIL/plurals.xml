@@ -18,4 +18,16 @@
         <item quantity="two">%1$s פתקים</item>
         <item quantity="many">%1$s פתקים</item>
     </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">%d seconds left</item>
+        <item quantity="one">%d second left</item>
+        <item quantity="two">%d seconds left</item>
+        <item quantity="many">%d seconds left</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">%s characters</item>
+        <item quantity="one">%s character</item>
+        <item quantity="two">%s characters</item>
+        <item quantity="many">%s characters</item>
+    </plurals>
 </resources>

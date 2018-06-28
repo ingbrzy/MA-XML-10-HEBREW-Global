@@ -387,15 +387,15 @@
     <string name="second_space_desktop_tips_dialog_title">עדכון חשוב</string>
     <string name="second_space_desktop_tips_dialog_positive_text">הבנתי</string>
     <string name="second_space_desktop_tips_dialog_message">"לאחר העדכון הנוכחי, האייקונים עבור העברת נתונים וניהול 'שטח שני' לא יוצגו עוד ב'מסך הבית'. תוכל לגשת לתכונות אלה ב'הגדרות'."</string>
-    <string name="green_guard">Parental controls</string>
-    <string name="bind_device">Add devices</string>
+    <string name="green_guard">בקרת הורים</string>
+    <string name="bind_device">הוספת מכשירים</string>
     <string name="green_guard_des1">הוסף מכשירים על מנת לנהל אותם מרחוק</string>
     <string name="green_guard_title2">הצגת פרטי המיקום</string>
     <string name="green_guard_des2">דע תמיד היכן בדיוק נמצאים כל המכשירים המנוהלים</string>
     <string name="green_guard_title3">ניהול יישומים</string>
     <string name="green_guard_des3">שלוט ביישומים המותקנים והגבל את השימוש</string>
     <string name="experience_more_features">הוסף מכשיר לצפיה בכל התמונות</string>
-    <string name="can_not_switch_when_green_kid_active">Switching to Second space is restricted by parental controls</string>
+    <string name="can_not_switch_when_green_kid_active">בקרת הורים מגבילה מעבר אל Second Space</string>
     <string name="need_network_when_bind">התחבר לרשת לפני הוספת מכשירים</string>
-    <string name="this_function_can_not_use_in_second_space">This feature can only be used in First space</string>
+    <string name="this_function_can_not_use_in_second_space">ניתן להשתמש במאפיין זה רק ב-First Space</string>
 </resources>

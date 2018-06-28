@@ -142,7 +142,7 @@
     <string name="call_recording_notification_message_sd_unmounted">כרטיס הזכרון הוסר.</string>
     <string name="call_recording_deny_permission_msg">סירבת להרשאת הקלטה. לא ניתן להקליט.</string>
     <string name="call_contacts_deny_permission_msg">סירבת להרשאת קריאת אנשי קשר. לא ניתן להציג מידע אודות אנשי קשר.</string>
-    <string name="conference_call_recorder_title">Conference call</string>
+    <string name="conference_call_recorder_title">שיחת ועידה</string>
     <string name="antispam_marked_count">דווח על ידי %1$d משתמשי MIUI</string>
     <string name="antispam_local_marked">סומנה ברמה המקומית</string>
     <string name="antispam_provider">זוהה על ידי %s</string>

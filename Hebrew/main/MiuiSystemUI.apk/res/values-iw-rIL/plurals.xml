@@ -42,6 +42,12 @@
         <item quantity="two">%s הודעות נוספות בפנים.</item>
         <item quantity="many">%s הודעות נוספות בפנים.</item>
     </plurals>
+    <plurals name="notification_num_channels">
+        <item quantity="other">%d קטגוריות התראה</item>
+        <item quantity="one">קטגוריית התראה %d</item>
+        <item quantity="two">%d קטגוריות התראה</item>
+        <item quantity="many">%d קטגוריות התראה</item>
+    </plurals>
     <plurals name="notification_num_channels_desc">
         <item quantity="other">1 מתוך %d קטגוריות של הודעות מהאפליקציה הזו</item>
         <item quantity="one">1 מתוך קטגוריה %d של הודעות מהאפליקציה הזו</item>

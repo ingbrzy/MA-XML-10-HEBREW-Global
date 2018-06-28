@@ -92,6 +92,7 @@
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">More apps</string>
     <string name="default_folder_title_security">מערכת</string>
+    <string name="default_folder_title_services">שירותים</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">כלים</string>
     <string name="default_screen_preview_title">לחץ להגדרת מסך ברירת המחדל</string>
@@ -235,6 +236,7 @@
     <string name="open_personal_assistant_dialog_btn_cancel">ביטול</string>
     <string name="open_personal_assistant_dialog_btn_confirm">כיבוי</string>
     <string name="open_personal_assistant_dialog_desc">"לא תוכל להשתמש ב'כספת היישומים' ולקבל את העדכונים שלה. לכבות כעת?"</string>
+    <string name="open_personal_assistant_dialog_desc_international">"You won't be able to use App vault cards (Stocks, Shortcuts, etc.) and receive updates after you turn this feature off."</string>
     <string name="open_personal_assistant_dialog_title">"כיבוי 'כספת היישומים'"</string>
     <string name="open_personal_assistant_title">App vault</string>
     <string name="out_of_space">אין עוד מקום פנוי בדף מסך הבית הזה</string>
@@ -342,6 +344,4 @@
     <string name="widget_gadget_player">מוסיקה</string>
     <string name="widget_global_search">חיפוש</string>
     <string name="widget_quick_function">פונקציות מהירות</string>
-    <string name="default_folder_title_services">שירותים</string>
-    <string name="open_personal_assistant_dialog_desc_international">"You won't be able to use App vault cards (Stocks, Shortcuts, etc.) and receive updates after you turn this feature off."</string>
 </resources>

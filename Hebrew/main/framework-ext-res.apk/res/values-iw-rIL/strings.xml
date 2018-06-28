@@ -113,10 +113,6 @@
     <string name="maml_component_customization_title">הגדרות</string>
     <string name="default_name">ברירת מחדל</string>
     <string name="resource_select">בחר</string>
-    <string name="group_name_contacts">אנשי קשר</string>
-    <string name="group_name_friends">חברים</string>
-    <string name="group_name_family">משפחה</string>
-    <string name="group_name_coworkers">עמיתים</string>
     <string name="fp_nav_center_action_choose_dlg_title">"הפעל את 'הקשה מהירה'"</string>
     <string name="fp_nav_center_action_choose_dlg_msg">"באפשרותך לחזור ל'מסך הבית' על ידי הקשה עדינה על לחצן ה'בית'. תוכל להפעיל ולכבות הגדרה זו ב'הגדרות' > 'הגדרות נוספות' > 'לחצנים' > 'הקש על לחצן הבית למעבר למסך הבית'."</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">הפעלה</string>
@@ -175,5 +171,5 @@
     <string name="super_resolution_maintain_tips">רזולוציית-על עדיין לא זמינה.</string>
     <string name="wifi_assistant_wifi_no_internet">אין ברשת אלחוטית זו גישה לאינטרנט</string>
     <string name="wifi_assistant_wifi_no_internet_detail">הקש לצפייה בפרטים</string>
-    <string name="resolver_app_recommend_flag">Recommend</string>
+    <string name="resolver_app_recommend_flag">המלץ</string>
 </resources>

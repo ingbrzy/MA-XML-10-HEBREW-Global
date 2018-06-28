@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
 גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">לא ניתן היה להתחיל את ההורדה, ודא כי מנהל ההורדות עובד כראוי.</string>
     <string name="app_name">גיבוי</string>
     <string name="local_app_name">גיבוי</string>
@@ -225,13 +228,14 @@
     <string name="restore_backup">שחזור</string>
     <string name="enable_encrypt_description">הצפנה</string>
     <string name="disable_encrypt_description">ביטול הצפנה</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
     <string name="abort_restore_confirm">השחזור לא הסתיים. לעצור בכל זאת?</string>
     <string name="feature_title_call_log">יומן שיחות</string>
-    <string name="feature_title_contacts">Contacts</string>
-    <string name="feature_title_sms">Messages</string>
+    <string name="feature_title_contacts">אנשי קשר</string>
+    <string name="feature_title_sms">הודעות</string>
     <string name="feature_title_mms">הודעת מולטימדיה (MMS)</string>
     <string name="feature_title_account">חשבון Mi</string>
     <string name="feature_title_antispam">רשימת החסומים</string>
@@ -294,7 +298,7 @@
 אל תכבה את החיבור לנקודה החמה של הרשת האלחוטית.
 השאר את המכשירים קרובים האחד לשני."</string>
     <string name="trans_time_spent">זמן שעבר: %s</string>
-    <string name="trans_restoring_no_items">Getting info…</string>
+    <string name="trans_restoring_no_items">מקבל מידע…</string>
     <string name="trans_detail_category_sysdata">נתוני מערכת (כולל הודעות, אנשי קשר והיסטורית שיחות)</string>
     <string name="trans_detail_category_userdata">יישומים</string>
     <string name="trans_detail_category_account">חשבונות ואנשי קשר</string>
@@ -342,8 +346,8 @@
     <string name="trans_connecting_toast">מתחבר…</string>
     <string name="trans_switching_5g">מחליף לרשת אלחוטית 5GHz…</string>
     <string name="trans_connect_failed_toast">לא ניתן היה להתחבר</string>
-    <string name="trans_open_camera_failed_title">"Couldn't connect to Camera"</string>
-    <string name="trans_open_camera_failed_message">Reboot your device or check whether Mi Mover is allowed to use &lt;b>Camera&lt;/b>.</string>
+    <string name="trans_open_camera_failed_title">לא ניתן להתחבר למצלמה</string>
+    <string name="trans_open_camera_failed_message">אתחל את המכשיר שלך או בדוק האם יש ל-Mi Mover הרשאה להשתמש &lt;b>במצלמה&lt;/b>.</string>
     <string name="trans_generate_qr_code_failed">לא ניתן היה ליצור קוד QR</string>
     <string name="trans_scan_invalid_qrcode">קוד ה-QR אינו חוקי</string>
     <string name="trans_scan_qr_code_tips">סרוק את קוד ה-QR באמצעות המכשיר החדש</string>
@@ -357,7 +361,7 @@
 2. פתח את היישום ולחץ 'התחל'
 3. סרוק את קוד ה-QR במכשירך הישן"</string>
     <string name="trans_operate_old_phone_tips2">עבור אל הגדרות > הגדרות נוספות > Mi Mover, לחץ [אני השולח]</string>
-    <string name="trans_operate_tip_for_other_android">Open Mi Mover on your old phone, tap \"Start\" and scan the QR code above.</string>
+    <string name="trans_operate_tip_for_other_android">פתח את Mi Mover בטלפון הישן שלך, הקש על \"התחל\" וסרוק את קוד ה-QR שמופיע למעלה.</string>
     <string name="trans_operate_reconnect_new_tips">"המתן עד לאחר שהטלפון החדש מציג את ההודעה \"החיבור נקטע\".
 לאחר מכן לחץ על \"התחבר שוב\" על מנת ליצור קוד QR."</string>
     <string name="trans_operate_reconnect_old_tips">"המתן עד לאחר שהטלפון הישן מציג את ההודעה \"החיבור נקטע\".
@@ -374,9 +378,9 @@
     <string name="trans_select_data_too_large">"בחרת בפריטים רבים מידי להעברה.
 בחר בפריטים חשובים בלבד על מנת להפוך את ההעברה למהירה יותר."</string>
     <string name="trans_calculating">מחשב…</string>
-    <string name="trans_calculating_tip">Calculating %s…</string>
-    <string name="trans_calculating_media_description">Media files</string>
-    <string name="trans_calculating_app_sd_description">Data on SD card</string>
+    <string name="trans_calculating_tip">מחשב את %s…</string>
+    <string name="trans_calculating_media_description">קובצי מדיה</string>
+    <string name="trans_calculating_app_sd_description">נתונים על כרטיס SD</string>
     <string name="trans_native_no_space">"אין מספיק מקום פנוי בשטח האחסון של ההתקן הישן (%s זמינים).
 פנה מקום או העבר פריטים חשובים בלבד."</string>
     <string name="trans_please_waiting">רק רגע…</string>
@@ -384,14 +388,14 @@
     <string name="trans_old_phone_low_space_msg">Mi Mover זקוק לשטח אחסון פנוי לצורך אריזת הנתונים המועברים, אך נראה כי אין מספיק שטח אחסון פנוי על גבי ההתקן הישן. נקה שטח אחסון ב\"אבטחה\" או העבר פריטים חשובים בלבד.</string>
     <string name="button_clean_garbage">פינוי שטח</string>
     <string name="button_quit">יציאה</string>
-    <string name="trans_install_guide_page_title">Install Mi Mover on your old phone</string>
-    <string name="trans_install_guide_scan_install_tip">"Scan this QR code with your old phone
-to download and install Mi Mover."</string>
-    <string name="trans_install_guide_step1_title">Step 1</string>
-    <string name="trans_install_guide_step1_content">Scan the QR code with your old phone to download and install \"Mi Mover\".</string>
-    <string name="trans_install_guide_step2_title">Step 2</string>
-    <string name="trans_install_guide_step2_content">After the installation is complete, tap \"Start\" below.</string>
-    <string name="trans_install_guide_button_start">Start</string>
+    <string name="trans_install_guide_page_title">התקן את Mi Mover בטלפון הישן שלך</string>
+    <string name="trans_install_guide_scan_install_tip">"סרוק את קוד QR זה לטלפון הישן שלך
+כדי להוריד ולהתקין את Mi Mover."</string>
+    <string name="trans_install_guide_step1_title">שלב 1</string>
+    <string name="trans_install_guide_step1_content">סרוק את קוד ה-QR לטלפון הישן שלך כדי להוריד ולהתקין את Mi Mover.</string>
+    <string name="trans_install_guide_step2_title">שלב 2</string>
+    <string name="trans_install_guide_step2_content">אחרי השלמת ההתקנה, הקש על \"התחל\" למטה.</string>
+    <string name="trans_install_guide_button_start">התחל</string>
     <string name="size_byte">B</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
@@ -415,12 +419,12 @@ to download and install Mi Mover."</string>
     <string name="trans_intro_desc_new">לחץ על \"אני נמען\". קוד QR יווצר.</string>
     <string name="trans_intro_title_old">בטלפון ישן:</string>
     <string name="trans_intro_desc_old">לחץ על \"אני השולח\". סרוק את קוד ה-QR המופיע בטלפון החדש, המתן עד לאחר ש-Mi Mover יזהה אילו קבצים עליו לשלוח, ואז לחץ על \"שליחה\".</string>
-    <string name="trans_intro_desc_old_market">Tap \"Start\". Scan the QR code on the new phone, wait until Mi Mover figures out which files to send, and tap \"Send\".</string>
+    <string name="trans_intro_desc_old_market">הקש על \"התחל\". סרוק את קוד ה-QR לטלפון החדש, המתן עד שאפליקציית Mi Mover תזהה אילו קבצים צריך לשלוח, והקש על \"שלח\".</string>
     <string name="trans_intro_question_3">%d. מה עלי לעשות במידה ו-Mi Mover נתקע בשלב מסויים?</string>
     <string name="trans_intro_desc_3">בטל את ההעברה, צא מ-Mi Mover והתחל מחדש. קבצים אשר הועברו כבר יכתבו מחדש במהלך ההעברה החדשה.</string>
     <string name="trans_intro_question_4">%d. מדוע אינני יכול להשתמש ברשת האלחוטית במהלך ההעברות?</string>
     <string name="trans_intro_desc_4">Mi Mover משתמש ברשת האלחוטית לצורך העברת קבצים. זוהי הסיבה לכך שאינך יכול להתחבר לאינטרנט באמצעות רשת אלחוטית באף אחד משני המכשירים במהלך ההעברה. עדיין תוכל להשתמש ברשת הנתונים הסלולרית. עם זאת, מכשירים חדשים מסויימים (Mi 6 לדוגמה) יוכלו להתחבר לאינטרנט באמצעות הרשת האלחוטית במהלך ההעברות.</string>
-    <string name="trans_intro_desc_4_market">"Mi Mover uses Wi-Fi to transfer files. That's why you can't connect to the internet using Wi-Fi on either device during a transfer. You can still use mobile data, though."</string>
+    <string name="trans_intro_desc_4_market">Mi Mover משתמשת באינטרנט אלחוטי להעברת קבצים. לכן, לא ניתן להתחבר לאינטרנט באמצעות חיבור אלחוטי באף אחד משני המכשירים בזמן העברת קבצים. עם זאת, עדיין אפשר להשתמש בגלישה סלולרית.</string>
     <string name="trans_intro_question_5">%d. מדוע Mi Mover טוען שאין מספיק שטח אחסון פנוי על גבי הטלפון הישן שלי?</string>
     <string name="trans_intro_desc_5">שטח אחסון על גבי מכשירים ישנים משמש ליצירת חבילות העברה. ודא כי יש ברשותך לפחות 500MB-1GB של שטח אחסון זמין על גבי הטלפון הישן שלך לפני שתתחיל לבצע העברה.</string>
     <string name="trans_intro_question_6">%d. מדוע יישומים מסויימים אינם מועברים בהצלחה?</string>
@@ -438,13 +442,13 @@ to download and install Mi Mover."</string>
     <string name="trans_intro_desc_multiuser">"Mi Mover אינו יכול לגשת לפריטים ב'שטח שני'. העבר פריטים ל'שטח ראשון' תחילה והתחל שם את הפעלת Mi Mover."</string>
     <string name="trans_intro_title_multiapp">"נתוני 'יישומים משוכפלים':"</string>
     <string name="trans_intro_desc_multiapp">"Mi Mover אינו מעביר נתוני 'יישומים משוכפלים' על מנת להימנע מסתירות בין קבצים."</string>
-    <string name="trans_intro_question_9_market">%d. Feedback.</string>
-    <string name="trans_intro_desc_9_method_1_title">1. Share your feedback using the \"Feedback\" app.</string>
-    <string name="trans_intro_desc_9_method_1_dec">Go to Home screen > Tools > Feedback.</string>
-    <string name="trans_intro_desc_9_method_2_title">2. Send us an email</string>
-    <string name="trans_intro_desc_9_method_2_dec">Send your feedback to miui-mover@xiaomi.com.</string>
-    <string name="trans_intro_desc_9_method_3_title">3. Report issues in QQ</string>
-    <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Group: 687338378"</string>
+    <string name="trans_intro_question_9_market">%d. משוב.</string>
+    <string name="trans_intro_desc_9_method_1_title">1. שתף את המשוב שלך באמצעות אפליקציית \"משוב\".</string>
+    <string name="trans_intro_desc_9_method_1_dec">עבור אל מסך הבית> כלים > משוב.</string>
+    <string name="trans_intro_desc_9_method_2_title">2. שלח לנו הודעת אימייל</string>
+    <string name="trans_intro_desc_9_method_2_dec">שלח את המשוב שלך לכתובת miui-mover@xiaomi.com.</string>
+    <string name="trans_intro_desc_9_method_3_title">3. דווח על בעיות ב-QQ</string>
+    <string name="trans_intro_desc_9_method_3_dec">קבוצת QQ של Mi Mover: 687338378</string>
     <string name="btn_got_it">הבנתי</string>
     <string name="backup_security_tips_title">הגיבוי עשוי לא להצליח</string>
     <string name="backup_security_tips_message">יתכן שגיבוי או שחזור של יישומים מסויימים לא יצליח.</string>
@@ -455,9 +459,9 @@ to download and install Mi Mover."</string>
     <string name="trans_disconnected_tips_title">ההתקן השני מנותק</string>
     <string name="trans_disconnected_tips_message">ההתקן השני מנותק. התחבר שוב באופן ידני או בטל את ההעברה.</string>
     <string name="trans_button_cancel">ביטול</string>
-    <string name="trans_success_dialog_market_comment_title">"Your new device feels like home now.
-Did you like Mi Mover?"</string>
-    <string name="trans_success_dialog_button_market_favourable_comment">Rate Mi Mover</string>
+    <string name="trans_success_dialog_market_comment_title">"עכשיו המכשיר החדש שלך מרגיש כמו הבית.
+האם אהבת את Mi Mover?"</string>
+    <string name="trans_success_dialog_button_market_favourable_comment">דרג את Mi Mover</string>
     <string name="trans_failed_details_page_title">העברות שנכשלו</string>
     <string name="close_twice_auth_tutor">כיבוי האימות הדו-שלבי של Apple ID</string>
     <string name="close_twice_auth_steps">עקוב אחר השלבים הבאים על מנת לכבות את האימות הדו-שלבי עבור Apple ID:</string>
@@ -471,8 +475,8 @@ Did you like Mi Mover?"</string>
 https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
     <string name="platform_chooser_title">בחר מכשיר ישן</string>
     <string name="platform_chooser_item_ios">ייבוא מהתקן iOS</string>
-    <string name="platform_chooser_item_android_mi">Mi phone</string>
-    <string name="platform_chooser_item_android_others">Other brands</string>
+    <string name="platform_chooser_item_android_mi">טלפון Mi</string>
+    <string name="platform_chooser_item_android_others">מותגים אחרים</string>
     <string name="icloud_need_wifi_title">התחבר לרשת אלחוטית</string>
     <string name="icloud_need_wifi_message">אינך מחובר לרשת האלחוטית כעת. על מנת שתוכל לייבא נתונים מ-iCloud, התחבר לרשת האלחוטית.</string>
     <string name="icloud_login_title">היכנס אל iCloud</string>
@@ -526,6 +530,7 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
 עליך ליצור גיבוי iCloud תחילה."</string>
     <string name="list_footer_tip_title">טיפים:</string>
     <string name="import_tip_summary">עקב בעיות תאימות, באפשרותך להעביר נתונים חלקיים בלבד בלבד מהתקני iOS. ודא כי יצרת גיבוי iCloud לפני התחלת ההעברה.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">ייבוא</string>
     <string name="select_empty">בחירת פריטים לייבוא</string>
     <string name="select_item_summary_wait">ממתין…</string>
@@ -566,36 +571,36 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite מבקש הרשאה לשחזור פריטים בטלפון שלך. לאפשר?</string>
     <string name="alert_button_deny">דחה</string>
     <string name="alert_button_agree_and_continue">אפשר</string>
-    <string name="trans_open_location_button">Turn on</string>
-    <string name="trans_open_location_title">Turn on location services</string>
-    <string name="trans_open_location_message">Turn on location services to get the list of available Wi-Fi networks.</string>
-    <string name="perm_camera">Camera</string>
-    <string name="perm_read_contacts">Read contacts</string>
-    <string name="perm_location">Location</string>
-    <string name="perm_read_phone_state">"Read phone's status"</string>
-    <string name="perm_read_call_log">Read call history</string>
-    <string name="perm_read_sms">Read SMS</string>
-    <string name="perm_storage">Read and write on external storage</string>
-    <string name="lack_perm_title">Permissions required</string>
-    <string name="lack_perm_msg">Mi Mover needs the following permissions: &lt;b>%s&lt;/b>.</string>
-    <string name="flash_drive_backup_restore">USB backups</string>
-    <string name="flash_drive_backup_note">"Back up apps to a USB drive.
-Make sure the USB drive has enough storage space before you start."</string>
-    <string name="flash_drive_backup_btn">Back up to USB drive</string>
-    <string name="flash_drive_restore_btn">Restore from USB drive</string>
-    <string name="usb_backup_select_data_too_large">"Selected files are big. Make sure the USB drive has enough storage space.
-Transfer only important items."</string>
-    <string name="flash_drive_search_backup_files">"Searching for the USB backup…
-Don't change or rename backup files."</string>
-    <string name="flash_drive_connection_failed">USB drive disconnected</string>
-    <string name="storage_sd_card">SD card</string>
-    <string name="storage_usb">USB drive</string>
-    <string name="usb_trans_select_data_no_space">"Only %s is available on your USB drive.
-Free up space or transfer only important items."</string>
-    <string name="usb_restore_select_data_too_large">"Backup files are big. It might take a while to restore them.
-Restoring only important items will be faster."</string>
-    <string name="usb_trans_native_no_space">"Only %s is available on your device.
-Free up space or make multiple smaller transfers."</string>
-    <string name="usb_trans_old_phone_low_space_title">Not enough storage space</string>
-    <string name="usb_trans_old_phone_low_space_msg">"Additional storage is required to package your backups. There's not enough storage space to continue the transfer. You can free up space and delete unnecessary files in Security or try tranfering only important items."</string>
+    <string name="trans_open_location_button">הפעל</string>
+    <string name="trans_open_location_title">הפעל את שירותי המיקום</string>
+    <string name="trans_open_location_message">הפעל את שירותי המיקום כדי לקבל את רשימת הרשתות האלחוטיות הזמינות.</string>
+    <string name="perm_camera">מצלמה</string>
+    <string name="perm_read_contacts">קריאת אנשי הקשר</string>
+    <string name="perm_location">מיקום</string>
+    <string name="perm_read_phone_state">קריאת מצב הטלפון</string>
+    <string name="perm_read_call_log">קריאת יומן השיחות</string>
+    <string name="perm_read_sms">קריאת מסרונים</string>
+    <string name="perm_storage">קריאה וכתיבה בזיכרון חיצוני</string>
+    <string name="lack_perm_title">נדרשות הרשאות</string>
+    <string name="lack_perm_msg">Mi Mover זקוקה להרשאות הבאות: &lt;b>%s&lt;/b>.</string>
+    <string name="flash_drive_backup_restore">גיבוי USB</string>
+    <string name="flash_drive_backup_note">"גיבוי אפליקציות לכונן USB.
+לפני שתתחיל, ודא שיש בכונן ה-USB מספיק נפח אחסון."</string>
+    <string name="flash_drive_backup_btn">גיבוי לכונן USB</string>
+    <string name="flash_drive_restore_btn">שחזור מכונן USB</string>
+    <string name="usb_backup_select_data_too_large">"הקבצים שנבחרו גדולים. ודא שיש בכונן ה-USB מספיק נפח אחסון.
+מומלץ להעביר רק קבצים חשובים."</string>
+    <string name="flash_drive_search_backup_files">"מחפש גיבוי על כונן ה-USB…
+אל תשנה את קובצי הגיבוי או את השמות שלהם."</string>
+    <string name="flash_drive_connection_failed">כונן ה-USB נותק</string>
+    <string name="storage_sd_card">כרטיס SD</string>
+    <string name="storage_usb">כונן USB</string>
+    <string name="usb_trans_select_data_no_space">"נפח האחסון הפנוי בכונן ה-USB שלך הוא %s בלבד.
+פנה נפח אחסון, או העבר רק קבצים חשובים."</string>
+    <string name="usb_restore_select_data_too_large">"קובצי הגיבוי הם גדולים. ייתכן ששחזורם ייקח זמן מה.
+אם תשחזר רק את הקבצים החשובים, התהליך יהיה מהיר יותר."</string>
+    <string name="usb_trans_native_no_space">"נפח האחסון הפנוי במכשירך הוא %s בלבד.
+פנה נפח אחסון, או בצע מספר העברות של קבצים קטנים יותר."</string>
+    <string name="usb_trans_old_phone_low_space_title">אין מספיק נפח אחסון</string>
+    <string name="usb_trans_old_phone_low_space_msg">נדרש נפח אחסון נוסף כדי לארוז את הגיבויים שלך. אין מספיק נפח אחסון כדי להמשיך בהעברה. ניתן לפנות נפח אחסון ולמחוק קבצים שלא נדרשים באפליקציית האבטחה, או לנסות להעביר רק קבצים חשובים.</string>
 </resources>

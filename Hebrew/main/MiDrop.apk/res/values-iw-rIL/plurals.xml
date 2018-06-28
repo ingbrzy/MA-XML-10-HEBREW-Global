@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="delete_confirm_multiple_files">
+        <item quantity="other">Delete %d selected files?</item>
+        <item quantity="one">Delete %d selected file?</item>
+        <item quantity="two">Delete %d selected files?</item>
+        <item quantity="many">Delete %d selected files?</item>
+    </plurals>
     <plurals name="notif_receive_cancel">
         <item quantity="other">ההעברה מ-%1$s בוטלה</item>
         <item quantity="one">ההעברה מ-%1$s בוטלה</item>
@@ -24,10 +30,28 @@
         <item quantity="two">%2$d קבצים מאת %1$s</item>
         <item quantity="many">%2$d קבצים מאת %1$s</item>
     </plurals>
+    <plurals name="selected_file_num">
+        <item quantity="other">Selected %d items</item>
+        <item quantity="one">Selected %d item</item>
+        <item quantity="two">Selected %d items</item>
+        <item quantity="many">Selected %d items</item>
+    </plurals>
     <plurals name="sender_file_num">
         <item quantity="other">%1$d פריטים</item>
         <item quantity="one">פריט %1$d</item>
         <item quantity="two">%1$d פריטים</item>
         <item quantity="many">%1$d פריטים</item>
+    </plurals>
+    <plurals name="transfer_list_received_header">
+        <item quantity="other">קבלת %1$d קבצים (%2$s)</item>
+        <item quantity="one">קבלת קובץ %1$d (%2$s)</item>
+        <item quantity="two">קבלת %1$d קבצים (%2$s)</item>
+        <item quantity="many">קבלת %1$d קבצים (%2$s)</item>
+    </plurals>
+    <plurals name="transfer_list_sent_header">
+        <item quantity="other">שליחת %1$d קבצים (%2$s)</item>
+        <item quantity="one">שליחת קובץ %1$d (%2$s)</item>
+        <item quantity="two">שליחת %1$d קבצים (%2$s)</item>
+        <item quantity="many">שליחת %1$d קבצים (%2$s)</item>
     </plurals>
 </resources>

@@ -21,14 +21,104 @@
         <item>סוף שבוע</item>
         <item>מותאם אישית</item>
     </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>כיבוי הנפשה</item>
+        <item>קנה מידה להנפשה 0.5x</item>
+        <item>קנה מידה להנפשה 1x</item>
+        <item>קנה מידה להנפשה 1.5x</item>
+        <item>קנה מידה להנפשה 2x</item>
+        <item>קנה מידה להנפשה 5x</item>
+        <item>קנה מידה להנפשה 10x</item>
+    </string-array>
     <string-array name="ap_identify">
         <item>ברירת מחדל</item>
         <item>נקודה חמה ניידת</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>מגבלה רגילה</item>
+        <item>אין תהליכי רקע</item>
+        <item>תהליך 1 לכל היותר</item>
+        <item>2 תהליכים לכל היותר</item>
+        <item>3 תהליכים לכל היותר</item>
+        <item>4 תהליכים לכל היותר</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>גרפי</item>
         <item>אחוזים</item>
         <item>בר עליון</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>השתמש בבחירת המערכת (ברירת מחדל)</item>
+        <item>16 ביטים/דגימה</item>
+        <item>24 ביטים/דגימה</item>
+        <item>32 ביטים/דגימה</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>השתמש בבחירת המערכת (ברירת מחדל)</item>
+        <item>16 ביטים/דגימה</item>
+        <item>24 ביטים/דגימה</item>
+        <item>32 ביטים/דגימה</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>השתמש בבחירת המערכת (ברירת מחדל)</item>
+        <item>מונו</item>
+        <item>סטריאו</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>השתמש בבחירת המערכת (ברירת מחדל)</item>
+        <item>מונו</item>
+        <item>סטריאו</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>מיועל עבור איכות השמע</item>
+        <item>איכות שמע וחיבור מאוזנת</item>
+        <item>מיועל עבור איכות החיבור</item>
+        <item>אפקט מירבי (קצב ביטים משתנה)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>מיועל עבור איכות שמע (990kbps/909kbps)</item>
+        <item>איכות שמע וחיבור מאוזנת (660kbps/606kbps)</item>
+        <item>מיועל עבור איכות חיבור (330kbps/303kbps)</item>
+        <item>אפקט מירבי (קצב ביטים משתנה)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>השתמש בבחירת המערכת (ברירת מחדל)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>השתמש בבחירת המערכת (ברירת מחדל)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>השתמש בבחירת המערכת (ברירת מחדל)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>אפשר קודים אופציונליים</item>
+        <item>השבת קודים אופציונליים</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>השתמש בבחירת המערכת (ברירת מחדל)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>אפשר קודים אופציונליים</item>
+        <item>השבת קודים אופציונליים</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (ברירת מחדל)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>שניה 1</item>
@@ -345,6 +435,16 @@
         <item>פרמריבו</item>
         <item>קיטו</item>
     </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>צבעים מחוזקים</item>
+        <item>צבעים טבעיים כפי שנקלטים בעין</item>
+        <item>צבעים מיועלים עבור תוכן דיגיטלי</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>ויברנט (ברירת מחדל)</item>
+        <item>טבעי</item>
+        <item>רגיל</item>
+    </string-array>
     <string-array name="common_password_business_names">
         <item>מסך הנעילה</item>
         <item>סיסמת פרטיות</item>
@@ -356,6 +456,21 @@
     <string-array name="connect_mode_entries">
         <item>תאימות</item>
         <item>מהירות גבוהה</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>כיבוי</item>
+        <item>הצג אזורי משיכת יתר</item>
+        <item>"הצגת אזורים עבור 'עיוורון צבעים'"</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (ברירת מחדל)</item>
+        <item>OpenGL (Skia)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>ללא</item>
+        <item>Logcat</item>
+        <item>Systrace (גרפיקה)</item>
+        <item>מחסנית קריאות ב-glGetError</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>לאתחל את המכשיר על מנת להחיל הגדרה זו?</item>
@@ -379,6 +494,16 @@
         <item>חלש</item>
         <item>בינוני</item>
         <item>חזק</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>לעולם אל תעשה שימוש בבדיקת HDCP</item>
+        <item>השתמש בבדיקת HDCP עבור תוכן DRM בלבד</item>
+        <item>השתמש תמיד בבדיקת HDCP</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>אל תבדוק לעולם</item>
+        <item>בדוק עבור תוכן DRM בלבד</item>
+        <item>בדוק תמיד</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>כחול</item>
@@ -519,6 +644,20 @@
         <item>zm</item>
         <item>zw</item>
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>ללא</item>
+        <item>480p</item>
+        <item>480p (מאובטח)</item>
+        <item>720p</item>
+        <item>720p (מאובטח)</item>
+        <item>1080p</item>
+        <item>1080p (מאובטח)</item>
+        <item>4K</item>
+        <item>4K (מאובטח)</item>
+        <item>4K (משודרג)</item>
+        <item>4K (משודרג, מאובטח)</item>
+        <item>720p, 1080p (מסך כפול)</item>
+    </string-array>
     <string-array name="perm_hips_action">
         <item>אפשר</item>
         <item>שאל</item>
@@ -599,6 +738,45 @@
         <item>10 דקות</item>
         <item>לעולם לא</item>
     </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>כבוי</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>כבוי</item>
+        <item>64K לכל לוג בפר</item>
+        <item>256K לכל לוג בפר</item>
+        <item>1M לכל לוג בפר</item>
+        <item>4M לכל לוג בפר</item>
+        <item>16M לכל לוג בפר</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>כבוי</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>כבוי</item>
+        <item>כל הלוג בפרים</item>
+        <item>הכל מלבד לוג בפרים של רדיו</item>
+        <item>לוג בפר ליבה בלבד</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>כבוי</item>
+        <item>הכל</item>
+        <item>הכל מלבד רדיו</item>
+        <item>ליבה בלבד</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>כיבוי</item>
+        <item>צייר אזור גזיר שאינו מלבני בכחול</item>
+        <item>הדגש פקודות ציור שנבדקו בירוק</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>תמיד</item>
         <item>30 דקות</item>
@@ -610,10 +788,43 @@
         <item>אשר</item>
         <item>דחה</item>
     </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>כיבוי</item>
+        <item>על המסך כשורות</item>
+        <item>בעוד adb shell dumpsys gfxinfo</item>
+    </string-array>
     <string-array name="traffic_balance_entries">
         <item>כיבוי</item>
         <item>רגיל</item>
         <item>מהיר מאוד</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>כיבוי הנפשה</item>
+        <item>קנה מידה להנפשה 0.5x</item>
+        <item>קנה מידה להנפשה 1x</item>
+        <item>קנה מידה להנפשה 1.5x</item>
+        <item>קנה מידה להנפשה 2x</item>
+        <item>קנה מידה להנפשה 5x</item>
+        <item>קנה מידה להנפשה 10x</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>לאט מאוד</item>
+        <item>לאט</item>
+        <item>רגיל</item>
+        <item>מהר</item>
+        <item>מהר יותר</item>
+        <item>מהר מאוד</item>
+        <item>מהיר</item>
+        <item>מהיר מאוד</item>
+        <item>המהיר ביותר</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>טוען</item>
+        <item>MTP (פרוטוקול העברת מדיה)</item>
+        <item>PTP (פרוטוקול העברת תמונות)</item>
+        <item>RNDIS (אתרנט USB)</item>
+        <item>מקור שמע</item>
+        <item>MIDI</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>שאל בעת חיבור</item>
@@ -649,16 +860,41 @@
         <item>התחבר באופן אוטומטי</item>
         <item>התחבר באופן ידני</item>
     </string-array>
-    <string-array name="device_global_support_face">
-        <item>whyred</item>
-        <item>polaris</item>
-        <item>ysl</item>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>סורק…</item>
+        <item>מתחבר…</item>
+        <item>מאמת…</item>
+        <item>מקבל כתובת …IP</item>
+        <item>מחובר</item>
+        <item>מושעה</item>
+        <item>מתנתק…</item>
+        <item>מנותק</item>
+        <item>נכשל</item>
+        <item>נחסם</item>
+        <item>חיבור באיכות ירודה נמנע באופן זמני</item>
     </string-array>
-    <string-array name="region_support_face">
-        <item>IN</item>
-        <item>ID</item>
-        <item>RU</item>
-        <item>HK</item>
-        <item>TW</item>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>סורק…</item>
+        <item>מתחבר אל %1$s…</item>
+        <item>מבצע אימות עם %1$s…</item>
+        <item>מקבל כתובת IP מ-%1$s…</item>
+        <item>מחובר אל %1$s</item>
+        <item>מושעה</item>
+        <item>מתנתק מ-%1$s…</item>
+        <item>מנותק</item>
+        <item>נכשל</item>
+        <item>נחסם</item>
+        <item>חיבור באיכות ירודה נמנע באופן זמני</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>כיבוי הנפשה</item>
+        <item>קנה מידה להנפשה 0.5x</item>
+        <item>קנה מידה להנפשה 1x</item>
+        <item>קנה מידה להנפשה 1.5x</item>
+        <item>קנה מידה להנפשה 2x</item>
+        <item>קנה מידה להנפשה 5x</item>
+        <item>קנה מידה להנפשה 10x</item>
     </string-array>
 </resources>

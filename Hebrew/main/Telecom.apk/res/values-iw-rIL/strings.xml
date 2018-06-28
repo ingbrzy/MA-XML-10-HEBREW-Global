@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="unknown">לא ידוע</string>
-    <string name="telecommAppLabel">Manage calls</string>
+    <string name="telecommAppLabel">ניהול שיחות</string>
     <string name="userCallActivityLabel">טלפון</string>
     <string name="notification_missedCallTitle">שיחה שלא נענתה</string>
     <string name="notification_missedWorkCallTitle">שיחת עבודה שלא נענתה</string>
@@ -11,7 +11,7 @@
     <string name="notification_missedCall_call_back">התקשר בחזרה</string>
     <string name="notification_missedCall_message">הודעה</string>
     <string name="accessibility_call_muted">השיחה הושתקה.</string>
-    <string name="accessibility_speakerphone_enabled">Speakerphone is on</string>
+    <string name="accessibility_speakerphone_enabled">הרמקול מופעל</string>
     <string name="respond_via_sms_canned_response_1">לא יכול/ה לדבר כעת. מה קורה?</string>
     <string name="respond_via_sms_canned_response_2">תכף אחזור אליך.</string>
     <string name="respond_via_sms_canned_response_3">אתקשר מאוחר יותר.</string>
@@ -23,14 +23,14 @@
     <string name="respond_via_sms_confirmation_format">ההודעה נשלחה אל %s.</string>
     <string name="enable_account_preference_title">חשבונות חיוג</string>
     <string name="outgoing_call_not_allowed_user_restriction">שיחות חירום בלבד מאופשרות.</string>
-    <string name="outgoing_call_not_allowed_no_permission">"This app can't make outgoing calls without the required permissions."</string>
+    <string name="outgoing_call_not_allowed_no_permission">אפליקציה זו לא יכולה לבצע שיחות יוצאות בלי ההרשאות הנדרשות.</string>
     <string name="outgoing_call_error_no_phone_number_supplied">הזן מספר חוקי כדי לבצע שיחה.</string>
-    <string name="duplicate_video_call_not_allowed">"Can't add more calls"</string>
+    <string name="duplicate_video_call_not_allowed">לא ניתן להוסיף שיחות נוספות</string>
     <string name="no_vm_number">מספר תא קולי חסר</string>
     <string name="no_vm_number_msg">לא קיים מספר תא קולי בכרטיס ה-SIM.</string>
     <string name="add_vm_number_str">הוסף מספר</string>
     <string name="change_default_dialer_dialog_title">להפוך את %s לאפליקציית ברירת המחדל לשיחות טלפון?</string>
-    <string name="change_default_dialer_dialog_affirmative">Set as default Phone app</string>
+    <string name="change_default_dialer_dialog_affirmative">הגדר כאפליקציית ברירת המחדל עבור שיחות טלפון</string>
     <string name="change_default_dialer_dialog_negative">ביטול</string>
     <string name="change_default_dialer_warning_message">%s תוכל לבצע שיחות ולנהל את כל היבטי השיחות. עליך להגדיר רק אפליקציות אמינות כאפליקציית ברירת המחדל לשיחות טלפון.</string>
     <string name="blocked_numbers">מספרים שנחסמו</string>
@@ -43,7 +43,7 @@
     <string name="block_button">חסימה</string>
     <string name="non_primary_user">רק בעל המכשיר יכול לנהל את המספרים החסומים.</string>
     <string name="delete_icon_description">ביטול חסימה</string>
-    <string name="blocked_numbers_butter_bar_title">Blocklist is off</string>
+    <string name="blocked_numbers_butter_bar_title">רשימת החסומים מושבתת</string>
     <string name="blocked_numbers_butter_bar_body">אחרי חיוג או שליחת הודעת טקסט למספר חירום, החסימה מבוטלת כדי להבטיח ששירותי החירום יוכלו לפנות אליך.</string>
     <string name="blocked_numbers_butter_bar_button">הפעל מחדש עכשיו</string>
     <string name="blocked_numbers_number_blocked_message">%1$s נחסם</string>
@@ -70,9 +70,9 @@
     <string name="answering_ends_other_managed_video_call">מענה יסיים את שיחת הווידאו שלך שמתנהלת עכשיו</string>
     <string name="answer_incoming_call">מענה</string>
     <string name="decline_incoming_call">דחייה</string>
-    <string name="cant_call_due_to_ongoing_call">"Can't place a call. %1$s other call is ongoing."</string>
-    <string name="cant_call_due_to_ongoing_calls">"Can't place a call. %1$s other calls are ongoing."</string>
-    <string name="cant_call_due_to_ongoing_unknown_call">"Can't place a call due to a call in another app."</string>
+    <string name="cant_call_due_to_ongoing_call">לא ניתן לבצע שיחה. %1$s מתבצעת שיחה אחרת.</string>
+    <string name="cant_call_due_to_ongoing_calls">לא ניתן לבצע שיחה. %1$s מתבצעות שיחות אחרות.</string>
+    <string name="cant_call_due_to_ongoing_unknown_call">לא ניתן לבצע שיחה כי מתבצעת שיחה באמצעות אפליקציה אחרת.</string>
     <string name="notification_channel_incoming_call">שיחות נכנסות</string>
     <string name="notification_channel_missed_call">שיחות שלא נענו</string>
     <string name="alert_outgoing_call">ביצוע שיחה זו יסיים את השיחה שלך עם %1$s.</string>

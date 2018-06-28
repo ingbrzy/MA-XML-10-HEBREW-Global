@@ -17,6 +17,16 @@
         <item>כתובת</item>
         <item>פתק</item>
     </string-array>
+    <string-array name="first_guide_contents">
+        <item>Welcome to Notes!</item>
+        <item>Take notes</item>
+        <item>You can use text, images, and voice recordings in your notes. A rich library of styles and fonts will make your simple scribbles look stunning.</item>
+        <item>Checklists and reminders come to help when you need basic and effective tools for planning your next trip or putting together a grocery list.</item>
+        <item>Share notes</item>
+        <item>You can generate scrolling screenshots in Notes automatically, and them share them with your friends.</item>
+        <item>Create &amp; switch between folders</item>
+        <item>Press the arrow below to create a new folder or switch between existing ones.</item>
+    </string-array>
     <string-array name="folder_operations">
         <item>שינוי שם</item>
         <item>מחיקה</item>
@@ -31,48 +41,8 @@
         <item>על פי תאריך יצירה</item>
         <item>על פי תאריך שינוי אחרון</item>
     </string-array>
-    <string-array name="welcome_notes_content">
-        <item>"ברוכים הבאים אל 'פתקים'
-"</item>
-        <item>"צור פתק
-לחץ על סימן הפלוס ליצירת פתק."</item>
-        <item>"בחר תבניות
-השתמש בתבניות לשינוי הרקע והסגנון של הפתקים שלך.
-לחץ על המקש השמאלי בתחתית הפתק לבחירת תבנית."</item>
-        <item>"צור תיקיות
-ארגן את הפתקים שלך בתיקיות.
-ישנן 2 דרכים ליצירת תיקיות:
-1. לחץ על סמל התיקיה בפינה השמאלית העליונה, ואז לחץ על סימן הפלוס.
-2. לחץ והחזק פתק עד להופעת חלון קופץ, ובחר \"העבר אל\"- \"תיקיה חדשה\"."</item>
-        <item>"הסתר פתקים
-הגן על פתקים פרטיים על ידי סיסמה.
- ישנן 2 דרכים להסתרת פתק:
-1. לחץ על מקש \"עוד\" בפינה השמאלית העליונה של הפתק, ואז בחר \"הסתר\".
-2. לחץ והחזק פתק עד להופעת חלון קופץ, ואז בחר \"הסתר\"."</item>
-        <item>"ותכונות מדהימות נוספות!
- - תמונות, רשימות תיוג, תזכורות.
-
-הוסף תמונות
-לחץ על סמל התמונה בתחתית הפתק להוספת תמונה.
-תוכל לצלם תמונה או לבחור מה'גלריה'.
-כאשר פתק מכיל תמונה, היא תשמש כמיניאטורה שלו בתצוגה.
-
-צור רשימות תיוג
-תיבת-סימון הינה כלי שימושי ברשימות To-do.
-לחץ על לחץ על סמל תיבת הסימון בתחתית הפתק להוספת תיבת-סימון לפיסקה.
-סמן את התיבה לאחר ביצוע.
-
-הגדר תזכורות
-הגדר תזכורות ישירות מתוך פתקים.
-לחץ על מקש \"עוד\" בפינה השמאלית העליונה של הפתק, בחר \"תזכורות\", הגדר זמן.
-"</item>
-    </string-array>
-    <string-array name="welcome_notes_image">
-        <item>guide_1</item>
-        <item></item>
-        <item>guide_3_1</item>
-        <item></item>
-        <item></item>
-        <item></item>
+    <string-array name="second_guide_contents">
+        <item>Voice notes</item>
+        <item>Create notes using our built-in speech-to-text engine attaching the original recordings of your voice to the notes.</item>
     </string-array>
 </resources>

@@ -228,7 +228,7 @@
     <string name="compat_mode_off">מתח למידות המסך</string>
     <string name="compat_mode_on">הגדל למידות המסך</string>
     <string name="confirm">הבנתי</string>
-    <string name="data_connection_no_internet">No internet</string>
+    <string name="data_connection_no_internet">אין חיבור לאינטרנט</string>
     <string name="data_saver">חיסכון תעבורת נתונים</string>
     <string name="data_usage_disabled_dialog">"הגעת למגבלת תעבורת הנתונים שהוגדרה. השימוש בגלישה סלולרית הושבת.
 
@@ -265,9 +265,6 @@
     <string name="dock_non_resizeble_failed_to_dock_text">האפליקציה לא תומכת במסך מפוצל.</string>
     <string name="drag_to_add_tiles">גרור להוספת אריחים</string>
     <string name="drive_mode_tip">מופעל מצב רכב</string>
-    <string name="drive_mode_tip_idle">הקש ליציאה ממצב רכב</string>
-    <string name="drive_mode_tip_idle_notch">יציאה ממצב רכב</string>
-    <string name="drive_mode_tip_notch">מצב רכב מופעל</string>
     <string name="enable_bluetooth_message">"כדי לחבר את המקלדת לטאבלט, קודם הפעל את פונקציית בלוטות'."</string>
     <string name="enable_bluetooth_title">"להפעיל בלוטות'?"</string>
     <string name="enable_demo_mode">אפשר מצב המחשה</string>
@@ -484,18 +481,19 @@
     <string name="no_weather_description">קבל מידע אודות מזג האויר ></string>
     <string name="not_support_multi_window">"היישום הנוכחי אינו תומך ב'מסך מפוצל'"</string>
     <string name="notification_app_settings">התאמה אישית עבור:%1$s</string>
+    <string name="notification_channel_battery">סוללה</string>
     <string name="notification_channel_controls_closed_accessibility">נסגרה בקרת הודעות עבור %1$s</string>
     <string name="notification_channel_controls_opened_accessibility">נפתחה בקרת הודעות עבור %1$s</string>
     <string name="notification_channel_disabled">לא תקבל יותר הודעות מסוג זה.</string>
     <string name="notification_channel_location">מיקום</string>
-    <string name="notification_channel_screenbutton">ScreenButton</string>
+    <string name="notification_channel_screenbutton">מקשים</string>
     <string name="notification_channel_switch_accessibility">אפשר הודעות מערוץ זה</string>
     <string name="notification_default_channel_desc">אין באפליקציה הזו קטגוריות של הודעות</string>
     <string name="notification_done">בוצע</string>
     <string name="notification_group_collapse_button_text">קיפול</string>
     <string name="notification_group_overflow_indicator">+%s</string>
     <string name="notification_header_title">התראות</string>
-    <string name="notification_hidden_by_policy_text">Contents hidden by policy</string>
+    <string name="notification_hidden_by_policy_text">התוכן מוסתר</string>
     <string name="notification_hidden_text">התקבלה הודעה חדשה</string>
     <string name="notification_info_channel_disabled_text">לא תקבל %2$s הודעות מ-%1$s.</string>
     <string name="notification_info_channel_enabled_text">תקבל %2$s הודעות מ-%1$s.</string>
@@ -572,6 +570,10 @@
 "<b>רמה 0</b>" 
 - לחסום את כל ההודעות מהאפליקציה הזו"</string>
     <string name="profile_owned_footer">ייתכן שמתבצע ניטור הפרופיל</string>
+    <string name="prompt_danger">סכנה</string>
+    <string name="prompt_detecting">מזהה</string>
+    <string name="prompt_safe">בטוח</string>
+    <string name="prompt_unknown">לא ידוע</string>
     <string name="qs_customize_title">עריכה</string>
     <string name="qs_dnd_prompt_app">מצב \"לא להפריע\" הושבת על-ידי אפליקציה (%s).</string>
     <string name="qs_dnd_prompt_auto_rule">מצב \"לא להפריע\" הושבת על-ידי כלל אוטומטי (%s).</string>
@@ -617,6 +619,7 @@
     <string name="quick_settings_dnd_label">לא להפריע</string>
     <string name="quick_settings_dnd_priority_label">קדימות בלבד</string>
     <string name="quick_settings_drivemode_label">מצב רכב</string>
+    <string name="quick_settings_dual_location_label">GPS כפול</string>
     <string name="quick_settings_edit_label">עריכה</string>
     <string name="quick_settings_hotspot_label">נקודה חמה</string>
     <string name="quick_settings_location_off_label">איתור מיקום כבוי</string>
@@ -624,6 +627,9 @@
     <string name="quick_settings_mute_label">השתקה</string>
     <string name="quick_settings_nfc_off">NFC מושבת</string>
     <string name="quick_settings_nfc_on">NFC מופעל</string>
+    <string name="quick_settings_night_secondary_label_on_at">יופעל בשעה %s</string>
+    <string name="quick_settings_night_secondary_label_on_at_sunset">יופעל עם זריחה</string>
+    <string name="quick_settings_night_secondary_label_until_sunrise">עד השקיעה</string>
     <string name="quick_settings_papermode_label">מצב קריאה</string>
     <string name="quick_settings_powermode_label">מצב ביצועים</string>
     <string name="quick_settings_quietmode_label">לא להפריע</string>
@@ -635,6 +641,7 @@
     <string name="quick_settings_screenbutton_label">לחצנים</string>
     <string name="quick_settings_screenlock_label">מסך נעילה</string>
     <string name="quick_settings_screenshot_label">צילום מסך</string>
+    <string name="quick_settings_secondary_label_until">עד השעה%s</string>
     <string name="quick_settings_sync_label">סנכרון</string>
     <string name="quick_settings_tethering_label">שיתוף החיבור לאינטרנט</string>
     <string name="quick_settings_time_label">זמן</string>
@@ -749,6 +756,10 @@ d MMMM"</string>
     <string name="status_bar_recent_memory_info1">זמינים %2$sB | %1$sB בסה\"כ</string>
     <string name="status_bar_recording_back">חזרה לרשמקול</string>
     <string name="status_bar_recording_pause">הרשמקול עצר</string>
+    <string name="status_bar_safepay_risk">זוהו סיכוני תשלום</string>
+    <string name="status_bar_safepay_safe">לא זוהו סיכוני תשלום</string>
+    <string name="status_bar_safepay_scanning">מתבצעת בדיקה של סביבת התשלום…</string>
+    <string name="status_bar_safepay_unknown">לא ניתן לבדוק את סביבת התשלום</string>
     <string name="status_bar_settings_airplane">מצב טיסה</string>
     <string name="status_bar_settings_auto_rotation">סיבוב מסך אוטומטי</string>
     <string name="status_bar_settings_notifications">הודעות</string>
@@ -868,5 +879,4 @@ d MMMM"</string>
     <string name="zen_priority_introduction">לא יפריעו לך צלילים ורטט, למעט שעון מעורר, תזכורות, אירועים ומתקשרים שהגדרת. עדיין תשמע את כל מה שתשמיע, כולל מוזיקה, סרטונים ומשחקים.</string>
     <string name="zen_silence_introduction">פעולה זו תחסום את כל הצלילים והרטט, כולל שעון מעורר, מוזיקה, סרטונים ומשחקים.</string>
     <string name="zen_silence_introduction_voice">פעולה זו תשתיק את כל הצלילים והרטט, כולל שעון מעורר, מוזיקה, סרטונים ומשחקים. עדיין תוכל לנהל שיחות טלפון.</string>
-    <string name="notification_num_channels">%d קטגוריות של הודעות</string>
 </resources>
