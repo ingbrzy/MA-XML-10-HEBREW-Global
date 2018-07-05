@@ -24,12 +24,6 @@
         <item quantity="two">הנגן יעצור בעוד %d דקות</item>
         <item quantity="many">הנגן יעצור בעוד %d דקות</item>
     </plurals>
-    <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">בחר שלא למצוא עטיפות אלבומים ומלל עבור שירים מקומיים באופן אוטומטי. למחוק פרטים עבור %d שירים?</item>
-        <item quantity="one">בחר שלא למצוא עטיפות אלבומים ומלל עבור שירים מקומיים באופן אוטומטי. למחוק פרטים עבור שיר %d?</item>
-        <item quantity="two">בחר שלא למצוא עטיפות אלבומים ומלל עבור שירים מקומיים באופן אוטומטי. למחוק פרטים עבור %d שירים?</item>
-        <item quantity="many">בחר שלא למצוא עטיפות אלבומים ומלל עבור שירים מקומיים באופן אוטומטי. למחוק פרטים עבור %d שירים?</item>
-    </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">נוצרה ב- %1$s | סהכ %2$d שירים</item>
         <item quantity="one">נוצרה ב- %1$s | שיר %2$d בסה\"כ</item>
@@ -91,14 +85,14 @@
         <item quantity="many">למחוק %d פריטים?</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message_with_file">
-        <item quantity="other">"Delete %d items?
-Note: Files will be deleted from this device as well."</item>
-        <item quantity="one">"Delete %d item?
-Note: File will be deleted from this device as well."</item>
-        <item quantity="two">"Delete %d items?
-Note: Files will be deleted from this device as well."</item>
-        <item quantity="many">"Delete %d items?
-Note: Files will be deleted from this device as well."</item>
+        <item quantity="other">"למחוק %d פריטים?
+שים לב: הקובץ ימחק גם ממכשיר זה."</item>
+        <item quantity="one">"למחוק פריט %d?
+שים לב: הקובץ ימחק גם ממכשיר זה."</item>
+        <item quantity="two">"למחוק %d פריטים?
+שים לב: הקובץ ימחק גם ממכשיר זה."</item>
+        <item quantity="many">"למחוק %d פריטים?
+שים לב: הקובץ ימחק גם ממכשיר זה."</item>
     </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">למחוק %d שירים?</item>
@@ -171,5 +165,11 @@ Note: Files will be deleted from this device as well."</item>
         <item quantity="one">שיר %d</item>
         <item quantity="two">%d שירים</item>
         <item quantity="many">%d שירים</item>
+    </plurals>
+    <plurals name="video_play_count">
+        <item quantity="other">%1$s views</item>
+        <item quantity="one">%1$s view</item>
+        <item quantity="two">%1$s views</item>
+        <item quantity="many">%1$s views</item>
     </plurals>
 </resources>

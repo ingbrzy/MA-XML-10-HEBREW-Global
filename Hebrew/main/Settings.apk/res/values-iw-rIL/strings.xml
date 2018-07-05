@@ -795,18 +795,8 @@
     <string name="got_it">הבנתי</string>
     <string name="gsm_to_wifi_connect_type_title">GSM לרשת אלחוטית</string>
     <string name="gxzw_add_fingerprint_continue">המשך</string>
-    <string name="gxzw_add_fingerprint_edge_message">הזז את האצבע כדי שהחיישן יצליח לקלוט את קצות טביעת האצבע.</string>
-    <string name="gxzw_add_fingerprint_edge_title">הזז מעט את האצבע</string>
-    <string name="gxzw_add_fingerprint_finish">סיום</string>
-    <string name="gxzw_add_fingerprint_indicate">לחץ כאן חזק יותר</string>
     <string name="gxzw_add_fingerprint_know">הבנתי</string>
-    <string name="gxzw_add_fingerprint_message">שמור על ניקיון האצבעות ופני המסך</string>
     <string name="gxzw_add_fingerprint_move_indicate">הזז מעט את האצבע</string>
-    <string name="gxzw_add_fingerprint_move_message">לא ניתן לקלוט את האזורים הנותרים של טביעת האצבע. הזז מעט את האצבע</string>
-    <string name="gxzw_add_fingerprint_move_title">הזז מעט את האצבע</string>
-    <string name="gxzw_add_fingerprint_put_finger_message">לחץ מעט יותר חזק והרם את האצבע אחרי שתחוש רטט. חזור על הפעולה מספר פעמים.</string>
-    <string name="gxzw_add_fingerprint_put_finger_title">לחץ חזק יותר והרם את האצבע אחרי שתחוש רטט</string>
-    <string name="gxzw_add_fingerprint_title">הוספת טביעת אצבע</string>
     <string name="handy_mode">מצב יד אחת</string>
     <string name="handy_mode_enable">מצב יד אחת</string>
     <string name="handy_mode_size">גודל המסך</string>
@@ -1619,7 +1609,6 @@
     <string name="screen_paper_mode_off_apps_title">"אל תשתמש ב'מצב קריאה'"</string>
     <string name="screen_paper_mode_range_title">הגדרות</string>
     <string name="screen_paper_mode_set_apps_title">"יישומים ב'מצב קריאה'"</string>
-    <string name="screen_paper_mode_summary">הפחת את פליטת אור התצוגה הכחול</string>
     <string name="screen_paper_mode_time_summary">"תזמן את ההפעלה והכיבוי של 'מצב קריאה'"</string>
     <string name="screen_paper_mode_time_title">תזמון</string>
     <string name="screen_paper_mode_title">מצב קריאה</string>
@@ -2696,5 +2685,4 @@
     <string name="wifi_tethering_title">נקודה חמה של Wi-Fi</string>
     <string name="wifi_wps_fail_error">הגדרה מוגנת של Wi-Fi נכשלה, נסה שוב.</string>
     <string name="hotknot_charging_warning">%s פעילות המכשיר עלולה להיות מושפעת בעת טעינה באמצעות ה-USB</string>
-    <string name="sim_management_title_cr_kolbi">כרטיס SIM &amp; רשתות סלולריות</string>
 </resources>

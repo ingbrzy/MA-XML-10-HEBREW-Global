@@ -93,6 +93,7 @@
     <string name="activate_popup_confirm_error_device_id">נסה שוב</string>
     <string name="activate_feature_mx">הודעות Mi</string>
     <string name="activate_feature_mx_and_voip">הודעות Mi וקול Mi</string>
+    <string name="activate_feature_voip">Mi Message Voice</string>
     <string name="activate_feature_mms_sync">סנכרון הודעות</string>
     <string name="activate_feature_call_log_sync">סנכרון יומן שיחות</string>
     <string name="activate_feature_find_device">איתור המכשיר</string>
@@ -117,4 +118,10 @@
     <string name="agree">אפשר</string>
     <string name="privacy_revoke_tips">"לאחר שתשלול את ההרשאה, היישום יפסיק לאסוף את הנתונים שלך וימחק את כל הנתונים שלך מהשרתים שלו. הסנכרון עם Mi Cloud, הודעות Mi ותכונות נוספות של 'הודעות' לא יהיו זמינות עוד. לשלול את ההרשאה בכל זאת?"</string>
     <string name="privacy_revoke_failed_msg">"על מנת שתוכל לבצע הפעלה, יישום ה'הודעות' זקוק להרשאה לקבלת מספר הטלפון שלך."</string>
+    <string name="waiting_sim_in_service">waiting sim in service</string>
+    <string name="checking_client">checking client env</string>
+    <string name="error_sim_not_in_service">sim not in service</string>
+    <string name="error_checking_client">client env error</string>
+    <string name="error_network_io">network error</string>
+    <string name="error_no_send_sms_permission">no send sms permission</string>
 </resources>

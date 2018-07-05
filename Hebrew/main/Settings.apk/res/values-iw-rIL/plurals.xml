@@ -55,16 +55,16 @@
         <item quantity="many">על קוד ה-PIN להיות באורך %d ספרות</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">קוד ה-PIN יכול להכיל עד %d ספרות</item>
-        <item quantity="one">קוד ה-PIN יכול להכיל עד ספרה %d</item>
-        <item quantity="two">קוד ה-PIN יכול להכיל עד %d ספרות</item>
-        <item quantity="many">קוד ה-PIN יכול להכיל עד %d ספרות</item>
+        <item quantity="other">You can enter up to %d digits</item>
+        <item quantity="one">You can enter up to %d digit</item>
+        <item quantity="two">You can enter up to %d digits</item>
+        <item quantity="many">You can enter up to %d digits</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">קוד ה-PIN צריך להכיל %d ספרות</item>
-        <item quantity="one">קוד ה-PIN צריך להכיל ספרה %d</item>
-        <item quantity="two">קוד ה-PIN צריך להכיל %d ספרות</item>
-        <item quantity="many">קוד ה-PIN צריך להכיל %d ספרות</item>
+        <item quantity="other">Enter at least %d digits</item>
+        <item quantity="one">Enter at least %d digit</item>
+        <item quantity="two">Enter at least %d digits</item>
+        <item quantity="many">Enter at least %d digits</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">חבר לפחות %d נקודות. נסה שוב.</item>
