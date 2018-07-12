@@ -1365,9 +1365,7 @@ Rolled over extra data"</string>
     <string name="menu_text_antispam">רשימת החסומים</string>
     <string name="menu_text_license_manager">הרשאות</string>
     <string name="menu_text_garbage_cleanup">מנקה</string>
-    <string name="menu_text_garbage_cleanup_danger">%s מעבר</string>
     <string name="menu_text_power_manager">שימוש בסוללה</string>
-    <string name="menu_text_power_percent_title">סוללה %s</string>
     <string name="menu_text_power_percent_title_default">סוללה</string>
     <string name="last_check_canceled">הסריקה הקודמת בוטלה</string>
     <string name="examination_score_100">הכל נראה תקין!</string>
