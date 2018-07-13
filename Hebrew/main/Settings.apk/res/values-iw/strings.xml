@@ -2534,7 +2534,6 @@ Voice over Wi-Fi:‏ %3$s
     <string name="sim_reenter_new">הקלד שוב את קוד הגישה החדש</string>
     <string name="sim_select_card">‏בחר כרטיס SIM</string>
     <string name="sim_selection_required_pref">יש לציין בחירה</string>
-    <string name="sim_settings_summary">%1$s ‏- %2$s</string>
     <string name="sim_settings_title">‏כרטיסי SIM</string>
     <string name="sim_setup_wizard_title">‏כרטיסי SIM</string>
     <string name="sim_signal_strength">‏%1$d dBm ‏%2$d asu</string>
@@ -2578,7 +2577,6 @@ Voice over Wi-Fi:‏ %3$s
     <string name="starting_android">‏מפעיל את Android…</string>
     <string name="status_awaiting_tap">הקש על תג כדי לכתוב...</string>
     <string name="status_awake_time">משך פעילות</string>
-    <string name="status_bar_notification_info_overflow">‎999+‎</string>
     <string name="status_bt_address">‏כתובת Bluetooth</string>
     <string name="status_data_state">מצב רשת סלולרית</string>
     <string name="status_failed_to_write">‏לא ניתן לכתוב נתונים לתג NFC. אם הבעיה נמשכת, נסה תג אחר</string>
