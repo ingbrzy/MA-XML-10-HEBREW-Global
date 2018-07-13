@@ -30,7 +30,9 @@
     <string name="alert_reminder_expired">פג תוקף</string>
     <string name="alert_title">התראות לוח שנה</string>
     <string name="anniversary_event_title">יום השנה: %1$s</string>
+    <string name="anniversary_secondary_tag">יום השנה</string>
     <string name="app_label">לוח שנה</string>
+    <string name="birthday_born">Birth date</string>
     <string name="birthday_calendar_display_name">תזכורת ימי הולדת</string>
     <string name="birthday_event_description_a_week_ago">שבוע שעבר</string>
     <string name="birthday_event_description_a_week_later">נותר שבוע ל-</string>
@@ -70,6 +72,7 @@
     <string name="countdown_event_title">ספירה לאחור: %1$s</string>
     <string name="countdown_notify_before_3_day_title">ספירה לאחור: %1$s בעוד 3 ימים</string>
     <string name="countdown_notify_title">ספירה לאחור: %1$s</string>
+    <string name="countdown_secondary_tag">ספירה לאחור</string>
     <string name="countdown_today">היום</string>
     <string name="create_an_account_desc">"'לוח שנה' עובד טוב יותר עם חשבון Mi.
 
@@ -116,6 +119,7 @@
     <string name="edit_event_birthday_import_from_contact">ייבא ימי הולדת מאנשי קשר</string>
     <string name="edit_event_birthday_name_empty_hint">הזן שם</string>
     <string name="edit_event_birthday_name_hint">שם</string>
+    <string name="edit_event_birthday_reminder_3_days_before">הזכירו לי גם 3 ימים מראש</string>
     <string name="edit_event_birthday_reminder_time">זמן תזכורת</string>
     <string name="edit_event_calendar_label">לוח שנה</string>
     <string name="edit_event_choose_date">בחר תאריך</string>
@@ -176,6 +180,10 @@
     <string name="global_football_final">גמר</string>
     <string name="global_football_no_match">אין משחקי כדורגל היום.</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="guide_card_import">יבוא</string>
+    <string name="guide_card_primary_text">"Import your friends' birthdays"</string>
+    <string name="guide_card_second_text">Never miss important dates</string>
+    <string name="guide_card_title">יבוא ימי ההולדת</string>
     <string name="hint_attendees">אורחים</string>
     <string name="hint_description">תאור</string>
     <string name="hint_what">שם אירוע</string>
@@ -413,12 +421,4 @@
     <string name="xiaomi_calendar_display_name">לוח שנה של חשבון Mi</string>
     <string name="yearly">שנתי (בכל %s)</string>
     <string name="yearly_plain">שנתי</string>
-    <string name="anniversary_secondary_tag">יום השנה</string>
-    <string name="birthday_born">Birth date</string>
-    <string name="countdown_secondary_tag">ספירה לאחור</string>
-    <string name="edit_event_birthday_reminder_3_days_before">הזכירו לי גם 3 ימים מראש</string>
-    <string name="guide_card_import">יבוא</string>
-    <string name="guide_card_primary_text">"Import your friends' birthdays"</string>
-    <string name="guide_card_second_text">Never miss important dates</string>
-    <string name="guide_card_title">יבוא ימי ההולדת</string>
 </resources>

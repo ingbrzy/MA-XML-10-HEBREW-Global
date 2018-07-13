@@ -1974,7 +1974,6 @@
     <string name="status_bar_settings_show_carrier_summary">שם ספק הרשת יוצג בשורת המצב ובמסך הנעילה כאשר תכונה זו מושבתת</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">הצג את ספק הרשת כשהמכשיר נעול</string>
     <string name="status_bar_settings_show_floating_notification">התראות צפות</string>
-    <string name="status_bar_settings_show_floating_notification_summary">התראות צפות ייעלמו אוטומטית לאחר הצגתן בחלק העליון של המסך</string>
     <string name="status_bar_settings_show_flow_info">הצג שימוש בנתונים</string>
     <string name="status_bar_settings_show_home_message">מונה התראות על גבי אייקון יישום</string>
     <string name="status_bar_settings_show_keyguard_notification">התראות מסך נעילה</string>

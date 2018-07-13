@@ -178,6 +178,7 @@
     <string name="adb_warning_title">לאפשר ניפוי שגיאות USB?</string>
     <string name="add_tile">הוסף כותרת</string>
     <string name="adjust_button_width">שנה את רוחב הלחצן</string>
+    <string name="airplane_mode">Airplane mode</string>
     <string name="alarm_template_far">ב- %1$s</string>
     <string name="allow_mock_location">אפשר דימוי מיקומים</string>
     <string name="allow_mock_location_summary">אפשר דימוי מיקומים</string>
@@ -187,6 +188,7 @@
     <string name="apn_settings_not_available">"הגדרות 'שם של נקודת גישה' אינן זמינות עבור משתמש זה"</string>
     <string name="app_info">פרטי האפליקציה</string>
     <string name="app_label">ממשק המערכת</string>
+    <string name="app_name">Keyguard</string>
     <string name="app_process_limit_title">מגבלת תהליך רקע</string>
     <string name="as_important">חשובות</string>
     <string name="as_unimportant">לא חשובות</string>
@@ -379,8 +381,8 @@
     <string name="dlg_error_title">פעולת USB נכשלה</string>
     <string name="dlg_ok">אישור</string>
     <string name="dnd_is_off">מצב \"לא להפריע\" מושבת</string>
-    <string name="do_disclosure_generic">מכשיר זה מנוהל על-ידי הארגון שלך</string>
-    <string name="do_disclosure_with_name">מכשיר זה מנוהל על-ידי %s</string>
+    <string name="do_disclosure_generic">This device is managed by your organization</string>
+    <string name="do_disclosure_with_name">This device is managed by %s</string>
     <string name="do_not_silence_block">לא להשתיק ולא לחסום</string>
     <string name="dock_forced_resizable">ייתכן שהאפליקציה לא תעבוד במסך מפוצל.</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">"'מסך מפוצל' אינו נתמך ב'מסך הנעילה'."</string>
@@ -423,6 +425,7 @@
     <string name="ext_media_unmountable_notification_title">אחסון USB פגום</string>
     <string name="external_source_trusted">מאופשר</string>
     <string name="failed_to_open_app_settings_toast">לא ניתן היה לפתוח את ההגדרות עבור %1$s</string>
+    <string name="fingerprint_not_recognized">Not recognized</string>
     <string name="float_incall_ignore">התעלם</string>
     <string name="float_incall_message">הודעה</string>
     <string name="force_allow_on_external">אלץ יישומים לכתוב על גבי הזכרון החיצוני</string>
@@ -524,11 +527,95 @@
     <string name="keyboard_shortcut_group_system_notifications">התראות</string>
     <string name="keyboard_shortcut_group_system_recents">לאחרונה</string>
     <string name="keyboard_shortcut_group_system_shortcuts_helper">קיצורי מקלדת</string>
+    <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
+    <string name="keyguard_accessibility_pin_area">PIN area</string>
+    <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
+    <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
+    <string name="keyguard_carrier_default">No service.</string>
+    <string name="keyguard_charged">Charged</string>
     <string name="keyguard_indication_charging_time">בטעינה (%s לטעינה מלאה)</string>
     <string name="keyguard_indication_charging_time_fast">בטעינה מהירה (%s לטעינה מלאה)</string>
     <string name="keyguard_indication_charging_time_slowly">בטעינה איטית (%s לטעינה מלאה)</string>
     <string name="keyguard_indication_trust_disabled">המכשיר יישאר נעול עד לביטול נעילה ידני</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
+    <string name="keyguard_low_battery">Connect your charger.</string>
+    <string name="keyguard_missing_sim_instructions">Insert a SIM card.</string>
+    <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
+    <string name="keyguard_missing_sim_message">No SIM card in phone.</string>
+    <string name="keyguard_missing_sim_message_short">No SIM card</string>
+    <string name="keyguard_network_locked_message">Network locked</string>
+    <string name="keyguard_password_enter_password_code">Type password to unlock</string>
+    <string name="keyguard_password_enter_pin_code">Type PIN code</string>
+    <string name="keyguard_password_enter_pin_password_code">Type PIN to unlock</string>
+    <string name="keyguard_password_enter_pin_prompt">New SIM PIN code</string>
+    <string name="keyguard_password_enter_puk_code">Type SIM PUK and new PIN code</string>
+    <string name="keyguard_password_enter_puk_prompt">SIM PUK code</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Touch to type password</font></string>
+    <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
+ Contact your wireless service provider for another SIM card."</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
+    <string name="keyguard_plugged_in">Charging</string>
+    <string name="keyguard_plugged_in_charging_fast">Charging rapidly</string>
+    <string name="keyguard_plugged_in_charging_slowly">Charging slowly</string>
+    <string name="keyguard_sim_locked_message">SIM card is locked.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
     <string name="keyguard_unlock">העבר אצבע כלפי מעלה לביטול נעילה</string>
+    <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
+    <string name="kg_failed_attempts_almost_at_login">"You have incorrectly drawn your unlock pattern %1$d times. After %2$d more unsuccessful attempts, you will be asked to unlock your phone using an email account.
+
+ Try again in %3$d seconds."</string>
+    <string name="kg_failed_attempts_almost_at_wipe">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, this phone will be reset, which will delete all its data.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the phone %d times. The work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the phone %d times. This user will be removed, which will delete all user data.</string>
+    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. This phone will be reset, which will delete all its data.</string>
+    <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
+    <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
+    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
+    <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
+    <string name="kg_password_instructions">Enter Password</string>
+    <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
+    <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
+    <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
+    <string name="kg_pattern_instructions">Draw your pattern</string>
+    <string name="kg_pin_accepted">Code Accepted!</string>
+    <string name="kg_pin_instructions">Enter PIN</string>
+    <string name="kg_prompt_reason_device_admin">Device locked by admin</string>
+    <string name="kg_prompt_reason_restart_password">Enter password to unlock</string>
+    <string name="kg_prompt_reason_restart_pattern">Draw your pattern to unlock</string>
+    <string name="kg_prompt_reason_restart_pin">Enter PIN to unlock</string>
+    <string name="kg_prompt_reason_switch_profiles_password">Password required when you switch profiles</string>
+    <string name="kg_prompt_reason_switch_profiles_pattern">Pattern required when you switch profiles</string>
+    <string name="kg_prompt_reason_switch_profiles_pin">PIN required when you switch profiles</string>
+    <string name="kg_prompt_reason_timeout_password">Password required for additional security</string>
+    <string name="kg_prompt_reason_timeout_pattern">Pattern required for additional security</string>
+    <string name="kg_prompt_reason_timeout_pin">PIN required for additional security</string>
+    <string name="kg_prompt_reason_user_request">Device was locked manually</string>
+    <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
+    <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
+    <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
+    <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
+    <string name="kg_sim_pin_instructions_multi">Enter SIM PIN for \"%1$s\"</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+    <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message">"You have incorrectly typed your password %1$d times. 
+
+Try again in %2$d seconds."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"You have incorrectly drawn your unlock pattern %1$d times. 
+
+Try again in %2$d seconds."</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">"You have incorrectly typed your PIN %1$d times. 
+
+Try again in %2$d seconds."</string>
+    <string name="kg_wrong_password">Wrong Password</string>
+    <string name="kg_wrong_pattern">Wrong Pattern</string>
+    <string name="kg_wrong_pin">Wrong PIN</string>
     <string name="kilobyte_per_second">"ק\"ב/ש'"</string>
     <string name="launch_defaults_some">ברירות מחדל מסויימות הוגדרו</string>
     <string name="left_icon">צלמית שמאלית</string>

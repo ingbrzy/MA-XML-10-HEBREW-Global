@@ -146,7 +146,7 @@
     <string name="passport_license_host_unreachable">לא ניתן להתחבר לרשת. ניתן להציג דף זה ב- %s.</string>
     <string name="passport_login_failed">לא ניתן להיכנס</string>
     <string name="passport_reg_failed">לא ניתן להגדיר את החשבון</string>
-    <string name="passport_verification_failed">האימות נכשל</string>
+    <string name="passport_verification_failed">"Couldn't verify account"</string>
     <string name="passport_reset_fail_title">לא ניתן לאפס</string>
     <string name="passport_identification_expired">פג תוקף קוד האימות, התחל מחדש</string>
     <string name="passport_bad_authentication">שם משתמש או סיסמה לא חוקיים</string>

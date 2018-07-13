@@ -54,6 +54,7 @@
     <string name="album_name_people">אנשים</string>
     <string name="album_name_recent_discovery">לאחרונה</string>
     <string name="album_name_tags">תגיות</string>
+    <string name="album_notes">הערות</string>
     <string name="album_others_share_baby_info_format">אלבום תינוקות מ-%s</string>
     <string name="album_others_share_info_format">מ-%s</string>
     <string name="album_owner_share">שותף</string>
@@ -160,7 +161,7 @@
     <string name="backup_no_network_title">לא ניתן להתחבר ל-Mi Cloud</string>
     <string name="backup_no_wifi_btn_text">השתמש בנתונים</string>
     <string name="backup_no_wifi_desc">באפשרותך לגבות פריטים גם באמצעות שימוש בנתונים סלולריים</string>
-    <string name="backup_no_wifi_title">Sync will resume after you connect to Wi-Fi</string>
+    <string name="backup_no_wifi_title">הסנכרון יתחדש לאחר שתתחבר ל-Wi-Fi</string>
     <string name="backup_only_in_wifi">השתמש בחיבור רשת אלחוטית בלבד לגבוי תמונות וסרטונים</string>
     <string name="backup_only_in_wifi_summary">לעולם אל תשתמש בחיבור נתונים סלולרי לגיבוי של תמונות או סרטונים</string>
     <string name="backup_only_wifi_dialog_message">להשתמש בחיבור נתונים סלולרי לגיבוי של תמונות וסרטונים?</string>
@@ -206,8 +207,8 @@
     <string name="change_to_face_mode">הצג פנים בלבד</string>
     <string name="change_to_photo_mode">הצג תצוגות מקדימות מלאות</string>
     <string name="change_to_visible">לשחזר אדם זה?</string>
-    <string name="checked">Selected</string>
-    <string name="checked_something">Selected %s</string>
+    <string name="checked">נבחר/ו</string>
+    <string name="checked_something">%s נבחר/ו</string>
     <string name="choose_baby_sexy">מין</string>
     <string name="choose_owner_relation">קרבה</string>
     <string name="choose_people">בחר אלבום של אדם</string>
@@ -373,8 +374,7 @@
     <string name="enable_cloud_for_sharing">הפעל את אלבומי Mi Cloud על מנת לצפות בתמונות ששותפו.</string>
     <string name="enable_face_album_summary">מיין תמונות אוטומטית על פי האנשים המופיעים בהן</string>
     <string name="enable_face_album_title">מיון לפי אנשים</string>
-    <string name="enabling_face_feature">רק רגע…</string>
-    <string name="enter_choice_mode">Entered Share dialog</string>
+    <string name="enter_choice_mode">"נכנס לתיבת דו שיח 'שיתוף'"</string>
     <string name="enter_email_hint">הזן כתובת דוא\"ל</string>
     <string name="error_album_not_exist">האלבום לא קיים</string>
     <string name="error_build_thumbnail_action">הורדת קובץ המקור</string>
@@ -438,7 +438,7 @@
     <string name="error_unknown_msg">אירעה שגיאה. שלח לנו את המשוב שלך.</string>
     <string name="error_unknown_tip">אירעה שגיאה.</string>
     <string name="exit">יציאה</string>
-    <string name="exit_choice_mode">Left Share dialog</string>
+    <string name="exit_choice_mode">"יצא מתיבת דו שיח 'שיתוף'"</string>
     <string name="exit_share">צא מהאלבום</string>
     <string name="exit_share_failed">לא ניתן היה לצאת מ-%1$s</string>
     <string name="exit_share_in_process">יוצא מאלבום \"%s\"…</string>
@@ -446,7 +446,6 @@
     <string name="exit_video_play">יציאה</string>
     <string name="expand_desc">עוד</string>
     <string name="expand_people">הצג עוד אנשים</string>
-    <string name="face_album_detecting_tip">רק רגע…</string>
     <string name="face_album_empty">"אין מספיק תמונות לביצוע זיהוי אנשים.
 צלם יותר תמונות של חברים שלך!"</string>
     <string name="face_album_empty_syncing">מסנכרן נתונים, חזור בקרוב</string>
@@ -454,7 +453,6 @@
     <string name="face_album_long_tap_tip">על מנת לבחור במספר אנשים או לשנות הגדרות קבוצה, לחץ &amp; החזק תמונת פרופיל</string>
     <string name="face_album_new_name_hint">שם חדש</string>
     <string name="face_album_not_named">ללא שם</string>
-    <string name="face_album_pending_enable_tip">מיון התמונות יחל עם חיבור לרשת אלחוטית</string>
     <string name="face_album_rename_hint">הזן שם</string>
     <string name="face_album_title">תמונות עם %s</string>
     <string name="face_album_use_tip">מיין תמונות אוטומטית על פי האנשים המופיעים בהן.</string>
@@ -465,6 +463,7 @@
     <string name="face_name_edit">עריכה</string>
     <string name="face_name_input">הזן שם</string>
     <string name="face_recommend">המלצות</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">לא ניתן היה להשלים את התהליך</string>
     <string name="fail_to_pick_email">כתובת דוא\"ל לא חוקית</string>
     <string name="fail_to_sync_album">לא ניתן היה לסנכרן את האלבום. בדוק את חיבור הנתונים שלך ונסה שוב.</string>
@@ -472,7 +471,10 @@
     <string name="fancy_color_desc">צבעים</string>
     <string name="fast_share_auto_render">ייפוי</string>
     <string name="fast_share_auto_render_finish">יופה</string>
-    <string name="feature_guidance_photo_effects">Photo effects</string>
+    <string name="feature_guidance_photo_effects">"אפקטים חדשים לתמונות
+זמינים כעת"</string>
+    <string name="feature_guidance_video_editor_smart_effects">אפקטים חדשים זמינים כעת</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_memory">זכרון</string>
     <string name="filter_bi_mono">מונו</string>
     <string name="filter_bi_pink">ורוד</string>
@@ -541,6 +543,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">הגדר</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
  על מנת שתוכל לעבוד באופן תקין, לחץ 'הגדר' על מנת לעבור אל 'הרשאות'."</string>
@@ -575,8 +578,8 @@
     <string name="image_invalid_path">נתיב לא חוקי</string>
     <string name="image_not_found">לא ניתן היה למצוא את התמונה</string>
     <string name="image_quota_fulfiled">מספר רב מידי של תמונות. מחק כמה מהם ונסה שוב.</string>
-    <string name="image_with_time">Photo taken on %s</string>
-    <string name="image_with_time_and_location">Photo taken on %1$s. Location: %2$s.</string>
+    <string name="image_with_time">התמונה צולמה ב-%s</string>
+    <string name="image_with_time_and_location">התמונה צולמה ב-%1$s. מיקום: %2$s.</string>
     <string name="impunity_declaration_settings">התראת חיבור אינטרנט</string>
     <string name="impunity_declaration_summary">"הצג התראת חיבור אינטרנט בכל פעם שתפתח את 'גלריה'"</string>
     <string name="initializing_cloud">מאתחל…</string>
@@ -736,6 +739,7 @@
     <string name="people_mark_mode_title_no_mark_name">בחר אדם</string>
     <string name="people_page_label">אנשים</string>
     <string name="people_page_unname">ללא שם</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">תמונות חיות מחמד</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">תמונות</string>
@@ -810,7 +814,13 @@
     <string name="photo_print_package_installing">טוען הרחבה…</string>
     <string name="photo_save_to_msg">נשמר ב-%s</string>
     <string name="photomovie_audio_custom">מקומי</string>
+    <string name="photomovie_audio_default">זיכרון</string>
+    <string name="photomovie_audio_kawaii">רומנטי</string>
+    <string name="photomovie_audio_light">בלדה</string>
+    <string name="photomovie_audio_linear">רוק</string>
     <string name="photomovie_audio_none">ללא</string>
+    <string name="photomovie_audio_soft">יוקליילי</string>
+    <string name="photomovie_audio_sport">טכנו</string>
     <string name="photomovie_cancel_download">ביטול</string>
     <string name="photomovie_delete_disable">יש צורך ב-3 תמונות לפחות ליצירת קליפ.</string>
     <string name="photomovie_download">הורדה</string>
@@ -832,6 +842,11 @@
     <string name="photomovie_tab_music">מוסיקה</string>
     <string name="photomovie_tab_template">תבנית</string>
     <string name="photomovie_template_default">איטית</string>
+    <string name="photomovie_template_kawaii">קסם</string>
+    <string name="photomovie_template_light">בריזה</string>
+    <string name="photomovie_template_linear">דרך</string>
+    <string name="photomovie_template_soft">נוער</string>
+    <string name="photomovie_template_sport">עוצמה</string>
     <string name="pick_from_contact">בחר מתוך אנשי הקשר</string>
     <string name="pick_too_many_recipients">יותר מדי נמענים</string>
     <string name="picker_cancel_download">ביטול הורדה</string>
@@ -844,6 +859,7 @@
     <string name="picker_image_will_download">%d מהתמונות שנבחרו אינן על המכשיר. תתבצע הורדה.</string>
     <string name="picker_no_network_message">התחבר לרשת על מנת להוריד</string>
     <string name="picker_origin_need_download">%1$d מהתמונות שנבחרו (%2$dMB) אינן על המכשיר. להוריד באמצעות שימוש בנתונים סלולריים?</string>
+    <string name="picker_origin_request_progress_message">מכין קבצים מקוריים (%1$d/%2$d)…</string>
     <string name="picker_title_format">בחר %1$d עד %2$d תמונות</string>
     <string name="picker_title_selection_format">תמונות נבחרות: %d</string>
     <string name="picker_title_selection_format_multiple">בחר %1$d עד %2$d תמונות (%3$d)</string>
@@ -957,12 +973,12 @@
     <string name="search_net_error">אירעה שגיאת רשת. התחבר לרשת אחרת ונסה שוב.</string>
     <string name="search_request_applied">הוחל</string>
     <string name="search_request_open">הצטרפות לצוות הבדיקה</string>
+    <string name="search_request_requesting">הוחל. המתן זמן מה לפני שתתחיל.</string>
     <string name="search_result_empty">לא ניתן היה למצוא דבר</string>
     <string name="search_retry">נסה שוב</string>
     <string name="search_select_network">בחירת רשת</string>
     <string name="search_set_network_connection">הגדרות רשת</string>
     <string name="search_setting_sub_title">חיפוש אחר אנשים, מקומות, ועצמים בתמונות שלך.</string>
-    <string name="search_setting_sub_title_open">הוחל. המתן רגע לפני שתתחיל.</string>
     <string name="search_setting_title">"מצא תמונות ב'גלריה'"</string>
     <string name="search_syncing">מסנכרן נתונים, חזור בקרוב</string>
     <string name="search_title_album">אלבום</string>
@@ -975,6 +991,9 @@
     <string name="search_title_recommend">מומלץ</string>
     <string name="search_title_suggestion">הצעות</string>
     <string name="search_title_tag">אובייקטים</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">מחפש מקרן…</string>
     <string name="secret_album_card_description">המקום הבטוח ביותר עבור כל הסודות הקטנים שלך</string>
     <string name="secret_album_card_title">נסה אלבום מוסתר</string>
@@ -992,6 +1011,7 @@
     <string name="secret_reason_too_large">הקובץ גדול מדי</string>
     <string name="secret_reason_type_not_support">סוג קובץ זה אינו נתמך</string>
     <string name="secret_reason_unknow_reasons">שגיאה לא מוכרת</string>
+    <string name="secret_reason_video_not_support">לא ניתן להוסיף סרטונים לאלבום מוסתר</string>
     <string name="see_ignore_faces">צפה באנשים שהתעלמת מהם</string>
     <string name="select_item_face">"האם זה '%s'?"</string>
     <string name="select_origin_tip">קובץ מקורי (%s)</string>
@@ -1062,7 +1082,7 @@
     <string name="sticker_words">מילים</string>
     <string name="storage_description_primary">אחסון פנימי</string>
     <string name="storage_description_sdcard">כרטיס זכרון</string>
-    <string name="storage_description_usb">USB storage</string>
+    <string name="storage_description_usb">אחסון USB</string>
     <string name="storage_description_xspace">"נתוני 'יישומים משוכפלים'"</string>
     <string name="storage_no_space">אין מספיק מקום</string>
     <string name="sub_discard_confirm_message">לשמור את השינויים?</string>
@@ -1128,8 +1148,8 @@
     <string name="turn_off_and_move">כבה והעבר</string>
     <string name="turn_on_and_remove">הפעל והסר</string>
     <string name="turn_on_sync">הפעל סנכרון</string>
-    <string name="unchecked">Deselected</string>
-    <string name="unchecked_something">Deselected %s</string>
+    <string name="unchecked">לא נבחר/ו</string>
+    <string name="unchecked_something">%s לא נבחר/ו</string>
     <string name="unpublish_failed">לא ניתן היה להסיר מפרסום</string>
     <string name="unpublish_succeeded">האלבום הוסר מפרסום</string>
     <string name="unpublishing">מבטל…</string>
@@ -1205,7 +1225,7 @@
     <string name="video_editor_smart_effect_fastslow">תנועה</string>
     <string name="video_editor_smart_effect_freesze">אנימציית סטופ-מושן</string>
     <string name="video_editor_smart_effect_halo">הילה</string>
-    <string name="video_editor_smart_effect_high_iframes_text">האפקט הזה עובד בצורה הטובה ביותר בסרטונים עם קצב פריימים גבוה.</string>
+    <string name="video_editor_smart_effect_high_iframes_text">אפקט זה מיטבי עבור סרטוני 120 fps (פריימים/שנייה).</string>
     <string name="video_editor_smart_effect_movie">סרט</string>
     <string name="video_editor_smart_effect_none">ללא</string>
     <string name="video_editor_smart_effect_radical">שמח</string>
@@ -1233,16 +1253,17 @@
     <string name="video_editor_unsupport_audio_file">קובץ שמע לא נתמך</string>
     <string name="video_editor_unzip_file_fail">לא ניתן לשלוף את הסרטון.</string>
     <string name="video_editor_video_is_short">לא ניתן לערוך סרטון זה.</string>
+    <string name="video_editor_video_loading">מכין סרטון, המתן מעט ונסה שוב.</string>
     <string name="video_editor_watermark">סימן מים</string>
     <string name="video_err">לא ניתן להפעיל וידאו</string>
     <string name="video_not_exist">הוידאו לא קיים</string>
-    <string name="video_with_time">Video taken on %s</string>
-    <string name="video_with_time_and_location">Video taken on %1$s. Location: %2$s.</string>
+    <string name="video_with_time">הסרטון צולם ב-%s</string>
+    <string name="video_with_time_and_location">הסרטון צולם ב-%1$s. מיקום: %2$s.</string>
     <string name="view_by_gallery_tip">גלרית MIUI</string>
     <string name="view_face_album">צפה באלבום</string>
     <string name="view_more_face_desc">הצג אנשים נוספים</string>
-    <string name="view_queuing_status">בדוק סטטוס</string>
     <string name="voice_assistant">קלט קולי</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">ברוכים הבאים ל-MiCloud</string>
     <string name="where_is_barcode">איפה קוד ה-QR?</string>
     <string name="who_is_this">מי זה?</string>

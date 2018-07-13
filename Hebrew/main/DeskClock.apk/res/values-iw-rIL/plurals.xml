@@ -48,22 +48,4 @@
         <item quantity="two">%1$d שניות</item>
         <item quantity="many">%1$d שניות</item>
     </plurals>
-    <plurals name="auto_silence_summary">
-        <item quantity="other">השעונים המעוררים יושתקו לאחר %d דקות</item>
-        <item quantity="one">השעונים המעוררים יושתקו לאחר דקה %d</item>
-        <item quantity="two">השעונים המעוררים יושתקו לאחר %d דקות</item>
-        <item quantity="many">השעונים המעוררים יושתקו לאחר %d דקות</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d דקות</item>
-        <item quantity="one">דקה 1</item>
-        <item quantity="two">%1$d דקות</item>
-        <item quantity="many">%1$d דקות</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d שניות</item>
-        <item quantity="one">שניה 1</item>
-        <item quantity="two">%1$d שניות</item>
-        <item quantity="many">%1$d שניות</item>
-    </plurals>
 </resources>
