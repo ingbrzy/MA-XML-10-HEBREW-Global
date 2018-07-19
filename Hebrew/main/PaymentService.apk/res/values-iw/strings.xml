@@ -19,5 +19,4 @@
     <string name="abc_shareactionprovider_share_with">שתף עם</string>
     <string name="abc_shareactionprovider_share_with_application">‏שתף עם %s</string>
     <string name="abc_toolbar_collapse_description">כווץ</string>
-    <string name="status_bar_notification_info_overflow">‎999+‎</string>
 </resources>
