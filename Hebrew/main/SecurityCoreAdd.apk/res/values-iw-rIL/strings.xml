@@ -298,7 +298,7 @@
     <string name="xspace_default_setting_label">יישום ברירת מחדל</string>
     <string name="xspace_default_app_title">יישום ברירת מחדל</string>
     <string name="xspace_default_app_summary">הגדר יישומי ברירת מחדל עבור תשלומים, שיתוף, מועדפים ועוד.</string>
-    <string name="xspace_default_setting_dialog_title">ברירת מחדל</string>
+    <string name="xspace_default_setting_dialog_title"> default</string>
     <string name="xspace_default_guide_notification_content">לחץ לשינוי</string>
     <string name="xspace_default_guide_notification_main_title">שימוש ביישום ברירת המחדל</string>
     <string name="xspace_default_guide_notification_xspace_title">שימוש ביישום המשוכפל</string>

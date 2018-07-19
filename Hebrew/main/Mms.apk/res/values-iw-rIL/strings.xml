@@ -191,6 +191,7 @@
     <string name="file_size">גודל:</string>
     <string name="file_title">שם:</string>
     <string name="file_width_height">גודל:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">הודעה חדשה</string>
     <string name="forward_from">העבר מ:</string>
     <string name="forward_prefix">"הועבר: "</string>
@@ -395,7 +396,7 @@
     <string name="pref_show_blocked_messages_summary">הצג מסרונים שנחסמו ברשימת השיחות</string>
     <string name="pref_show_list_avatar_summary">הצג תמונות פרופיל ופרטי איש קשר כרשימה</string>
     <string name="pref_show_photo_word_summary">הקצה אוטומטית תמונה לאנשי קשר ללא תמונה</string>
-    <string name="pref_show_sms_template_entry_summary">Detect one-time passwords and show quick menus</string>
+    <string name="pref_show_sms_template_entry_summary">אתר סיסמאות חד פעמיות והצג תפריטים מהירים</string>
     <string name="pref_show_sms_template_in_summary">זיהוי אוטומטי של סיסמאות חד-פעמיות במסרונים</string>
     <string name="pref_show_sms_template_summary">"הפעל על מנת להשתמש בתכונות חכמות של הודעות Mi, כגון העתקת קודים, בדיקת יתרה וכו'."</string>
     <string name="pref_smart_messages_settings">הודעות חכמות</string>
@@ -542,6 +543,7 @@
     <string name="send_signature_confirm_dialog_title">שלח הודעה</string>
     <string name="send_sms">שלח הודעה</string>
     <string name="send_to">אל:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">נשלח ב: %1s</string>
     <string name="sent_label">"נשלח: "</string>
     <string name="service_message_not_found">תוקף ההודעה פג או שאינה זמין</string>
@@ -624,7 +626,7 @@
     <string name="title_show_blocked_messages">הצג מסרונים שנחסמו</string>
     <string name="title_show_list_avatar">הצג תמונות פרופיל</string>
     <string name="title_show_photo_word">הקצה תמונות איש קשר</string>
-    <string name="title_show_sms_template">Smart Messaging</string>
+    <string name="title_show_sms_template">שליחת הודעות חכמה</string>
     <string name="title_show_sms_template_in">חיפוש OTP במסרון</string>
     <string name="title_timed_message_dialog">הגדר הודעה מתוזמנת</string>
     <string name="title_use_gsm_alphabet">השתמש באלפבית של GSM</string>

@@ -31,16 +31,16 @@
         <item quantity="many">%d התאמות</item>
     </plurals>
     <plurals name="mw_last_num_days">
-        <item quantity="other">Last %d days</item>
-        <item quantity="one">Last %d days</item>
-        <item quantity="two">Last %d days</item>
-        <item quantity="many">Last %d days</item>
+        <item quantity="other">ב-%d הימים האחרונים</item>
+        <item quantity="one">ביום האחרון (%d)</item>
+        <item quantity="two">ב-%d ימים האחרונים</item>
+        <item quantity="many">ב-%d ימים האחרונים</item>
     </plurals>
     <plurals name="mw_matches_found">
-        <item quantity="other">%1$d of %2$d</item>
-        <item quantity="one">1 match</item>
-        <item quantity="two">%1$d of %2$d</item>
-        <item quantity="many">%1$d of %2$d</item>
+        <item quantity="other">%1$d מתוך %2$d</item>
+        <item quantity="one">התאמה אחת</item>
+        <item quantity="two">%1$d מתוך %2$d</item>
+        <item quantity="many">%1$d מתוך %2$d</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">עמוד חדש יווצר באופן אוטומטי לאחר %d שניות</item>
@@ -109,10 +109,10 @@
         <item quantity="many">למחוק %1$d פריטים מההיסטוריה?</item>
     </plurals>
     <plurals name="video_push_multi_message">
-        <item quantity="other">%1$d updates available.</item>
+        <item quantity="other">קיימים %1$d עדכונים זמינים.</item>
         <item quantity="one">%1$d update available.</item>
-        <item quantity="two">%1$d updates available.</item>
-        <item quantity="many">%1$d updates available.</item>
+        <item quantity="two">קיימים %1$d עדכונים זמינים.</item>
+        <item quantity="many">קיימים %1$d עדכונים זמינים.</item>
     </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d דקות נותרו</item>

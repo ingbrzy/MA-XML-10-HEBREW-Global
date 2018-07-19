@@ -35,7 +35,7 @@
     <string name="already_download">מוריד…</string>
     <string name="already_download_btn">מוריד…</string>
     <string name="already_favorited">כבר נוסף למועדפים</string>
-    <string name="always_use_metered">Always use mobile data</string>
+    <string name="always_use_metered">השתמש תמיד בנתונים סלולריים</string>
     <string name="app_label">הורדות</string>
     <string name="artist">אמנים</string>
     <string name="artist_album">אלבומים</string>
@@ -61,8 +61,6 @@
     <string name="asset_sync_power_alert_message">חבר מטען על מנת לגבות שירים.</string>
     <string name="asset_sync_power_alert_title">סוללה חלשה</string>
     <string name="audio_picker_title">בחר שיר</string>
-    <string name="auto_payment">חידוש אוטומטי</string>
-    <string name="auto_payment_date">התשלום הבא: %s</string>
     <string name="available_playlist_name_format">רשימת השמעה חדשה %d</string>
     <string name="avoid_to_use_traffic_summary">אל תשתמש ברשת סלולרית על מנת להזרים מוסיקה</string>
     <string name="avoid_to_use_traffic_title">התרע בעת שימוש בנתונים סלולריים לנגינת שירים</string>
@@ -71,8 +69,6 @@
     <string name="backup_empty_button">לא נבחרו שירים</string>
     <string name="backup_immediate">גיבוי</string>
     <string name="backup_song_title">בחר שירים לגיבוי</string>
-    <string name="being_disable_auto_payment">מכבה…</string>
-    <string name="being_enable_auto_payment">מפעיל…</string>
     <string name="bluetooth_device">התקן שמע Bluetooth</string>
     <string name="buffering">מאחזר…</string>
     <string name="button_cancel_download">ביטול</string>
@@ -107,11 +103,12 @@
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="confirm">אישור</string>
     <string name="confirm_exit">לשמור את השינויים?</string>
-    <string name="connect_now">Connect</string>
+    <string name="connect_now">התחבר</string>
     <string name="connecting_apk">מתחבר…</string>
     <string name="continue_backup">המשך</string>
     <string name="cp_info_first">"שירות הזרמת מוסיקה מקוונת
 מופעל בעיקר על ידי Ultimate Inc."</string>
+    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">לא ניתן היה לבצע הזמנה, נסה שוב.</string>
     <string name="create_playlist">צור רשימת השמעה</string>
     <string name="create_playlist_failure">לא ניתן היה ליצור רשימת השמעה</string>
@@ -165,13 +162,9 @@
     <string name="dialog_title_not_available">לא ניתן היה להוריד</string>
     <string name="dialog_title_queued_body">הקובץ עדיין לא זמין</string>
     <string name="dialog_title_remove_tracks">הסרה</string>
-    <string name="disable_auto_payment_fail">לא ניתן היה לכבות</string>
-    <string name="disable_auto_payment_fail_message">לא ניתן היה לכבות את החידוש האוטומטי</string>
-    <string name="disable_auto_payment_success">כובה</string>
-    <string name="disable_auto_payment_success_message">החידוש האוטומטי כובה. לאחר שתוקף המנוי הנוכחי שלך יפוג, יהיה עליך לבצע הרשמה מחודשת על מנת להוריד שירים.</string>
     <string name="disallow_add_to_fm">לא ניתן להוסיף שירים לרדיו FM</string>
     <string name="disallow_add_to_personal_radio">"לא ניתן להוסיף שירים ל'רדיו אישי'"</string>
-    <string name="do_not_remind_this_version">"Don't remind me about this version"</string>
+    <string name="do_not_remind_this_version">אל תזכיר לי עבור גרסה זו</string>
     <string name="download">הורדה</string>
     <string name="download_added_to_list">נוסף לרשימת ההורדות</string>
     <string name="download_apk_desktop_installing">מתקין</string>
@@ -194,8 +187,8 @@
     <string name="download_completed">ההורדה הושלמה</string>
     <string name="download_confirm_button_text">התקנה</string>
     <string name="download_confirm_text">Mi מוסיקה יבצע הורדה והתקנה של \"%s\"</string>
-    <string name="download_connect_wifi_dialog_message">You need Wi-Fi to download this song. Connect now?</string>
-    <string name="download_connect_wifi_dialog_title">Connect to Wi-Fi</string>
+    <string name="download_connect_wifi_dialog_message">עליך להיות מחובר ל-Wi-Fi כדי להוריד שיר זה. להתחבר עכשיו?</string>
+    <string name="download_connect_wifi_dialog_title">התחבר ל-Wi-Fi</string>
     <string name="download_done_btn">ירד</string>
     <string name="download_error">ההורדה נכשלה</string>
     <string name="download_error_insufficient_space">אין מספיק מקום</string>
@@ -208,6 +201,7 @@
     <string name="download_method">הורדה</string>
     <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
     <string name="download_paused_in_power_save_mode">"ההורדות מופסקות בעת שימוש במצב 'חסכון בסוללה'"</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">מוריד…</string>
     <string name="download_quality">איכות הורדה</string>
     <string name="download_quality_summary">הגדרות נוספות עבור הורדות שירים</string>
@@ -246,10 +240,6 @@
     <string name="edit_playlist_info">עריכת רשימת ההשמעה</string>
     <string name="empty_page_no_album">אין אלבומים.</string>
     <string name="empty_page_no_artist">אין אמנים.</string>
-    <string name="enable_auto_payment_fail">לא ניתן היה להפעיל</string>
-    <string name="enable_auto_payment_fail_message">לא ניתן היה להפעיל את החידוש האוטומטי</string>
-    <string name="enable_auto_payment_success">חדש אוטומטית</string>
-    <string name="enable_auto_payment_success_message">החידוש האוטומטי מופעל. תאריך התשלום הבא: %s.</string>
     <string name="enabled">מאופשר</string>
     <string name="enter_garbage_clean">פנה מקום בשטח האחסון הפנימי.</string>
     <string name="eq_auto">מותאם אישית</string>
@@ -335,15 +325,15 @@
     <string name="global_search_title_prenatal">מוסיקה טרום לידתית</string>
     <string name="global_search_title_radar">זיהוי מוסיקה</string>
     <string name="handle_later">לא כעת</string>
-    <string name="headset_and_audio_effect_category">Headphones &amp; audio effects</string>
-    <string name="headset_and_audio_effect_summary">Headphones &amp; equalizer</string>
-    <string name="headset_and_audio_effect_title">Headphones &amp; audio effects</string>
+    <string name="headset_and_audio_effect_category">אוזניות ואפקטים קוליים</string>
+    <string name="headset_and_audio_effect_summary">אוזניות ואקולייזר</string>
+    <string name="headset_and_audio_effect_title">אוזניות ואפקטים קוליים</string>
     <string name="hide_album">הסתרת עטיפת האלבום</string>
     <string name="hide_lyric">הסתרת מילות השיר</string>
     <string name="higher_quality_music">שמע באיכות גבוהה</string>
     <string name="higher_quality_music_summary">הזרם והורד קבצים בעלי קצב גבוה יותר</string>
     <string name="home_tab_local">המוסיקה שלי</string>
-    <string name="home_tab_online">Online music</string>
+    <string name="home_tab_online">מוזיקה מקוונת</string>
     <string name="hot_icon_in_fast_indexer">חם</string>
     <string name="hungama_subscribe_message">"רכוש 'חברות PRO' על מנת שתוכל להוריד מוסיקה באיכות גבוהה."</string>
     <string name="hungama_subscribe_positive_button">"רכישת 'חברות PRO'"</string>
@@ -435,8 +425,9 @@
     <string name="modify_song_info_success">פרטי השיר עודכנו</string>
     <string name="more">עוד</string>
     <string name="more_add_song_list">הוספת שירים לתור</string>
+    <string name="more_milink">Mi Link</string>
     <string name="more_settings">הגדרות מתקדמות</string>
-    <string name="more_settings_summary">"הורד הגדרות, טיימר שינה, ניהול נתונים סלולריים, סננים לקבצים, וכו'"</string>
+    <string name="more_settings_summary">Sleep timer, filters for files, etc.</string>
     <string name="more_share">שיתוף</string>
     <string name="music_browser_label">מוסיקה</string>
     <string name="music_filter">סנן קבצי שמע</string>
@@ -525,8 +516,8 @@
     <string name="play_mode_play_all">נגן הכל</string>
     <string name="play_mode_shuffle_all">ערבוב</string>
     <string name="play_next">נגן את הבא</string>
-    <string name="play_video_with_traffic">CONTINUE</string>
-    <string name="play_video_with_traffic_toast">"You're using mobile data now."</string>
+    <string name="play_video_with_traffic">המשך</string>
+    <string name="play_video_with_traffic_toast">אתה משתמש עכשיו בנתונים סלולריים.</string>
     <string name="playlist_empty">לא נמצאו רשימות השמעה.</string>
     <string name="playlist_title">שם רשימת ההשמעה</string>
     <string name="playlist_title_is_empty">יש להזין שם לרשימת ההשמעה</string>
@@ -544,6 +535,7 @@
     <string name="priority_storage">השתמש בכרטיס זכרון חיצוני</string>
     <string name="priority_storage_summary">הורד באופן אוטומטי אל כרטיס הזכרון החיצוני במידה וזמין</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="project_device">טלפון Mi</string>
     <string name="prompt_grant_write_settings_permission">אפשר שינוי של הגדרות המערכת</string>
     <string name="pulluprefreshrecyclerview_loading_error">לא ניתן היה לטעון</string>
@@ -570,7 +562,7 @@
     <string name="request_share_info">רק רגע…</string>
     <string name="request_subscription_status">רק רגע…</string>
     <string name="restart_immediate">הפעלה מחדש</string>
-    <string name="retry">Try again</string>
+    <string name="retry">נסה שוב</string>
     <string name="retry_after_network_available">לא ניתן להתחבר לרשת. בדוק את החיבור ונסה שוב.</string>
     <string name="retry_download">נסה שוב</string>
     <string name="ringtone_not_support">הפורמט של שיר זה אינו נתמך</string>
@@ -628,7 +620,7 @@
     <string name="shuffle_off_notif">העירבוב כבוי.</string>
     <string name="shuffle_on_notif">העירבוב מופעל.</string>
     <string name="similar_songs">שירים דומים</string>
-    <string name="similar_videos">Similar videos</string>
+    <string name="similar_videos">סרטונים דומים</string>
     <string name="sleep_mode">"טיימר 'מצב שינה'"</string>
     <string name="sleep_mode_canceled">"'מצב שינה' כובה"</string>
     <string name="sleep_mode_summary">עצור את הנגן לאחר פרק זמן מסוים</string>
@@ -684,7 +676,7 @@
     <string name="terms_of_service">תנאי השירות</string>
     <string name="ticket_summary">קנה כרטיסים למופעים, קונצרטים, הצגות, ואירועים אחרים</string>
     <string name="ticket_title">הצג כרטיסים</string>
-    <string name="time_to_upgrade">An update is available</string>
+    <string name="time_to_upgrade">קיים עדכון זמין</string>
     <string name="title_online_fm_recommend">תחנות FM מומלצות</string>
     <string name="title_online_recommend">רשימות השמעה נבחרות</string>
     <string name="title_search_history">הסטורית חיפוש</string>
@@ -702,16 +694,17 @@
     <string name="ultra_high_quality">הגבוה ביותר</string>
     <string name="unknown_album_name">אלבום לא ידוע</string>
     <string name="unknown_artist_name">אמן לא ידוע</string>
-    <string name="update_now">UPDATE NOW</string>
+    <string name="update_now">עדכן עכשיו</string>
     <string name="upgrade_music">"עדכן את 'מוסיקה'"</string>
     <string name="upgrade_music_message">העדכונים מוכנים. הפעל מחדש לעדכון.</string>
     <string name="upgrading_in_backstage">מעדכן ברקע</string>
     <string name="user_agreement">הסכם המשתמש</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">גרסה</string>
-    <string name="video_play_cellular">"Your device isn't connected to Wi-Fi. Use mobile data?"</string>
-    <string name="video_replay_btn">Play again</string>
-    <string name="video_retry_btn">Try again</string>
-    <string name="view_album">View album</string>
+    <string name="video_play_cellular">מכשירך אינו מחובר ל-Wi-Fi. להשתמש בנתונים סלולריים?</string>
+    <string name="video_replay_btn">נגן שוב</string>
+    <string name="video_retry_btn">נסה שוב</string>
+    <string name="view_album">צפה באלבום</string>
     <string name="vip_after_tomorrow_auto_renew_message">"מנוי ה'מוסיקה' שלך יחודש באופן אוטומטי מחרתיים בערב. ודא כי יש לך מספיק נקודות Mi בחשבונך על מנת להשלים את ביצוע תשלום זה."</string>
     <string name="vip_after_tomorrow_renew_message">לא תוכל להזרים שמע באיכות גבוהה, אולם שירים מסויימים יהיו זמינים באיכות רגילה.</string>
     <string name="vip_auto_renew_message">"מנוי ה'מוסיקה' שלך יתחדש באופן אוטומטי הערב. ודא כי יש לך מספיק נקודות Mi בחשבונך על מנת להשלים את ביצוע תשלום זה."</string>

@@ -15,7 +15,7 @@
     <string name="hide_touch_assistant_intro">"הסתר את 'כדור מהיר' ביישומים שנבחרו."</string>
     <string name="hide_when_fullscreen">הזז הצידה בעת תצוגת מסך מלא</string>
     <string name="hide_when_fullscreen_intro">"הזז הצידה בעת מעבר למצב 'מסך מלא'."</string>
-    <string name="mi_wallet_summary">Transport card/Mi Pay/Key card</string>
+    <string name="mi_wallet_summary">כרטיס תחבורה/Mi Pay/כרטיס מפתח</string>
     <string name="motion_behavior">מחווה מועדפת</string>
     <string name="name_alipay_payment_code">תשלום Alipay</string>
     <string name="name_alipay_scan">סורק Alipay</string>
