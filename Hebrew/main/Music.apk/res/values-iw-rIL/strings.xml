@@ -108,7 +108,6 @@
     <string name="continue_backup">המשך</string>
     <string name="cp_info_first">"שירות הזרמת מוסיקה מקוונת
 מופעל בעיקר על ידי Ultimate Inc."</string>
-    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">לא ניתן היה לבצע הזמנה, נסה שוב.</string>
     <string name="create_playlist">צור רשימת השמעה</string>
     <string name="create_playlist_failure">לא ניתן היה ליצור רשימת השמעה</string>
@@ -201,7 +200,6 @@
     <string name="download_method">הורדה</string>
     <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
     <string name="download_paused_in_power_save_mode">"ההורדות מופסקות בעת שימוש במצב 'חסכון בסוללה'"</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">מוריד…</string>
     <string name="download_quality">איכות הורדה</string>
     <string name="download_quality_summary">הגדרות נוספות עבור הורדות שירים</string>
@@ -535,7 +533,6 @@
     <string name="priority_storage">השתמש בכרטיס זכרון חיצוני</string>
     <string name="priority_storage_summary">הורד באופן אוטומטי אל כרטיס הזכרון החיצוני במידה וזמין</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="project_device">טלפון Mi</string>
     <string name="prompt_grant_write_settings_permission">אפשר שינוי של הגדרות המערכת</string>
     <string name="pulluprefreshrecyclerview_loading_error">לא ניתן היה לטעון</string>
@@ -699,7 +696,6 @@
     <string name="upgrade_music_message">העדכונים מוכנים. הפעל מחדש לעדכון.</string>
     <string name="upgrading_in_backstage">מעדכן ברקע</string>
     <string name="user_agreement">הסכם המשתמש</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">גרסה</string>
     <string name="video_play_cellular">מכשירך אינו מחובר ל-Wi-Fi. להשתמש בנתונים סלולריים?</string>
     <string name="video_replay_btn">נגן שוב</string>
