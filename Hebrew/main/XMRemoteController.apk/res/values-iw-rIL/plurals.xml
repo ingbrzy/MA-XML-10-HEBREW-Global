@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d קבצי APK</item>
+        <item quantity="one">קובץ APK %d</item>
+        <item quantity="two">%d קבצי APK</item>
+        <item quantity="many">%d קבצי APK</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s הורדות</item>
+        <item quantity="one">הורדה %1$s</item>
+        <item quantity="two">%1$s הורדות</item>
+        <item quantity="many">%1$s הורדות</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s משתמשים</item>
+        <item quantity="one">משתמש %1$s</item>
+        <item quantity="two">%1$s משתמשים</item>
+        <item quantity="many">%1$s משתמשים</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">לפני %1$d ימים</item>
+        <item quantity="one">לפני יום %1$d</item>
+        <item quantity="two">לפני %1$d ימים</item>
+        <item quantity="many">לפני %1$d ימים</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">לפני %1$d שעות</item>
+        <item quantity="one">לפני שעה %1$d</item>
+        <item quantity="two">לפני %1$d שעות</item>
+        <item quantity="many">לפני %1$d שעות</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d מותגים זמינים</item>
+        <item quantity="one">מותג זמין 1</item>
+        <item quantity="two">%d מותגים זמינים</item>
+        <item quantity="many">%d מותגים זמינים</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">לפני %1$d דקות</item>
+        <item quantity="one">לפני דקה %1$d</item>
+        <item quantity="two">לפני %1$d דקות</item>
+        <item quantity="many">לפני %1$d דקות</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d פרקים</item>
+        <item quantity="one">פרק %d</item>
+        <item quantity="two">%d פרקים</item>
+        <item quantity="many">%d פרקים</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d סרטונים</item>
+        <item quantity="one">סרטון %d</item>
+        <item quantity="two">%d סרטונים</item>
+        <item quantity="many">%d סרטונים</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">הפעלת פרק %d</item>
+        <item quantity="one">הפעלת פרק %d</item>
+        <item quantity="two">הפעלת פרק %d</item>
+        <item quantity="many">הפעלת פרק %d</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">נמצאו %d סרטונים</item>
+        <item quantity="one">נמצא סרטון %d</item>
+        <item quantity="two">נמצאו %d סרטונים</item>
+        <item quantity="many">נמצאו %d סרטונים</item>
+    </plurals>
+</resources>

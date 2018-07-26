@@ -11,9 +11,9 @@
     <string name="the_following_is_your_mdm">האפליקציה הבאה תצטרך לגשת לפרופיל זה:</string>
     <string name="the_following_is_your_mdm_for_device">האפליקציה הבאה תנהל את המכשיר שלך:</string>
     <string name="next">הבא</string>
-    <string name="setting_up_workspace">מגדיר את פרופיל העבודה שלך…</string>
+    <string name="setting_up_workspace">המערכת מגדירה פרופיל עבודה…</string>
     <string name="admin_has_ability_to_monitor_profile">מנהל המערכת יכול לנטר ולנהל הגדרות, גישה ארגונית, אפליקציות, הרשאות ונתונים המשויכים לפרופיל זה, כולל הפעילות שלך ברשת, וכן את מיקום המכשיר, את היסטוריית השיחות ואת היסטוריית החיפושים של אנשי הקשר.&lt;br>&lt;br>פנה למנהל המערכת לקבלת מידע נוסף, כולל מידע על מדיניות הפרטיות של הארגון.</string>
-    <string name="admin_has_ability_to_monitor_device">מנהל המערכת יכול לנטר ולנהל הגדרות, גישה ארגונית, אפליקציות, הרשאות ונתונים המשויכים למכשיר זה, כולל הפעילות שלך ברשת, וכן את מיקום המכשיר, את היסטוריית השיחות ואת היסטוריית החיפושים של אנשי הקשר.&lt;br>&lt;br>פנה למנהל המערכת לקבלת מידע נוסף, כולל מידע על מדיניות הפרטיות של הארגון.</string>
+    <string name="admin_has_ability_to_monitor_device">מנהל המערכת יכול לנטר ולנהל הגדרות, גישה ארגונית, אפליקציות, הרשאות ונתונים המשויכים למכשיר הזה, כולל הפעילות שלך ברשת, מיקום המכשיר, היסטוריית השיחות והיסטוריית החיפושים של אנשי הקשר.&lt;br>&lt;br>אפשר לפנות למנהל המערכת לקבלת מידע נוסף, כולל מידע על מדיניות הפרטיות של הארגון.</string>
     <string name="theft_protection_disabled_warning">כדי להשתמש בתכונות הגנה מפני גניבה, נדרשת נעילת מסך המוגנת על ידי סיסמה במכשיר.</string>
     <string name="contact_your_admin_for_more_info">פנה למנהל המערכת לקבלת מידע נוסף, כולל מדיניות הפרטיות של הארגון.</string>
     <string name="learn_more_link">למידע נוסף</string>
@@ -27,7 +27,7 @@
     <string name="default_managed_profile_name">פרופיל עבודה</string>
     <string name="default_first_meat_user_name">משתמש ראשי</string>
     <string name="delete_profile_title">למחוק את הפרופיל הקיים?</string>
-    <string name="opening_paragraph_delete_profile">כבר יש לך פרופיל עבודה, והאפליקציה הבאה מנהלת אותו:</string>
+    <string name="opening_paragraph_delete_profile">כבר הגדרת פרופיל עבודה. הוא מנוהל דרך האפליקציה הבאה:</string>
     <string name="read_more_delete_profile"><a href="#read_this_link">קרא את המידע שכאן</a> לפני שתמשיך.</string>
     <string name="sure_you_want_to_delete_profile">אם תמשיך, כל האפליקציות והנתונים בפרופיל זה יימחקו.</string>
     <string name="delete_profile">מחק</string>
@@ -40,17 +40,15 @@
     <string name="continue_provisioning_notify_text">הקש כדי להמשיך בהגדרת פרופיל העבודה שלך</string>
     <string name="managed_provisioning_error_text">‏לא ניתן להגדיר את פרופיל העבודה שלך. צור קשר עם מחלקת ה-IT או נסה שוב מאוחר יותר.</string>
     <string name="cant_add_work_profile">לא ניתן להוסיף פרופיל עבודה</string>
-    <string name="user_cant_have_work_profile_contact_admin">למשתמש זה לא יכול להיות פרופיל עבודה. לקבלת עזרה, פנה למנהל המערכת.</string>
-    <string name="user_cannot_have_work_profiles_contact_admin">למשתמש זה לא יכול להיות פרופיל עבודה. פנה למנהל המערכת.</string>
-    <string name="device_owner_exists">לא ניתן להגדיר פרופילים של עבודה במכשיר מנוהל</string>
-    <string name="too_many_users_on_device_remove_user_try_again">ייתכן שיש יותר מדי משתמשים במכשיר. הסר משתמש אחד ונסה שוב.</string>
+    <string name="cant_replace_or_remove_work_profile">לא ניתן להחליף או להסיר את פרופיל העבודה</string>
+    <string name="work_profile_cant_be_added_contact_admin">לא ניתן להוסיף פרופיל עבודה למכשיר הזה. אם יש לך שאלות, פנה למנהל המערכת.</string>
     <string name="change_device_launcher">שנה את מפעיל האפליקציות במכשיר</string>
     <string name="launcher_app_cant_be_used_by_work_profile">פרופיל העבודה שלך לא יכול להשתמש במפעיל האפליקציות הזה</string>
     <string name="cancel_provisioning">ביטול</string>
     <string name="pick_launcher">אישור</string>
     <string name="user_setup_incomplete">הגדרת המשתמש אינה מלאה</string>
     <string name="default_owned_device_username">משתמש של מכשיר עבודה</string>
-    <string name="setup_work_device">הגדרת מכשיר עבודה</string>
+    <string name="setup_work_device">המערכת מגדירה מכשיר לעבודה…</string>
     <string name="progress_data_process">מעבד נתונים להגדרה…</string>
     <string name="progress_connect_to_wifi">‏מתחבר ל-Wi-Fi…</string>
     <string name="progress_download">מוריד את אפליקציית הניהול…</string>

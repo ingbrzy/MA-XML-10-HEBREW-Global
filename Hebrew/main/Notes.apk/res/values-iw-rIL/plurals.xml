@@ -19,15 +19,15 @@
         <item quantity="many">%1$s פתקים</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">%d seconds left</item>
-        <item quantity="one">%d second left</item>
-        <item quantity="two">%d seconds left</item>
-        <item quantity="many">%d seconds left</item>
+        <item quantity="other">%d שניות נותרו</item>
+        <item quantity="one">שנייה אחת (%d) נותרה</item>
+        <item quantity="two">%d שניות נותרו</item>
+        <item quantity="many">%d שניות נותרו</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%s characters</item>
-        <item quantity="one">%s character</item>
-        <item quantity="two">%s characters</item>
-        <item quantity="many">%s characters</item>
+        <item quantity="other">%s תווים</item>
+        <item quantity="one">תו אחד (%s)</item>
+        <item quantity="two">%s תווים</item>
+        <item quantity="many">%s תווים</item>
     </plurals>
 </resources>

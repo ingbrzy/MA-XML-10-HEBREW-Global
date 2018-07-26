@@ -236,9 +236,9 @@
     <string name="open_personal_assistant_dialog_btn_cancel">ביטול</string>
     <string name="open_personal_assistant_dialog_btn_confirm">כיבוי</string>
     <string name="open_personal_assistant_dialog_desc">"לא תוכל להשתמש ב'כספת היישומים' ולקבל את העדכונים שלה. לכבות כעת?"</string>
-    <string name="open_personal_assistant_dialog_desc_international">"You won't be able to use App vault cards (Stocks, Shortcuts, etc.) and receive updates after you turn this feature off."</string>
+    <string name="open_personal_assistant_dialog_desc_international">"כיבוי תכונה זו יגרום לכך שלא תוכל להשתמש בכרטיסי ה'כספת היישומים' (מניות, קיצורי דרך ועוד) ולקבל עדכונים."</string>
     <string name="open_personal_assistant_dialog_title">"כיבוי 'כספת היישומים'"</string>
-    <string name="open_personal_assistant_title">App vault</string>
+    <string name="open_personal_assistant_title">כספת היישומים</string>
     <string name="out_of_space">אין עוד מקום פנוי בדף מסך הבית הזה</string>
     <string name="permdesc_install_shortcut">אפשר ליישום להוסיף קיצורי דרך ללא התערבות המשתמש.</string>
     <string name="permdesc_install_widget">"אפשר ליישום להוסיף ווידג'טים ללא התערבות המשתמש."</string>
@@ -280,11 +280,11 @@
     <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, tap this folder's name."</string>
     <string name="recommend_loading">טוען</string>
     <string name="refresh">רענן</string>
-    <string name="reset_description_first_time">You can restore the layout from %1$s within 2 hours</string>
-    <string name="reset_description_others">You can restore the layout from %1$s</string>
-    <string name="reset_fail">"Couldn't restore"</string>
+    <string name="reset_description_first_time">ניתן לשחזר את הפריסה מ-%1$sבתוך שעתיים</string>
+    <string name="reset_description_others">ניתן לשחזר את הפריסה מ-%1$s</string>
+    <string name="reset_fail">לא ניתן היה לשחזר</string>
     <string name="reset_scene_prompt">פריסת המסך תאופס לברירת מחדל.</string>
-    <string name="reset_title">Restore</string>
+    <string name="reset_title">שחזר</string>
     <string name="screen_cells_config_title">"פריסת 'מסך הבית'"</string>
     <string name="screen_locked_toast">Home screen layout is locked.</string>
     <string name="screen_number">%d מסך</string>

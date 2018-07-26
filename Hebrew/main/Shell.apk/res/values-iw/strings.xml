@@ -22,6 +22,6 @@
     <string name="bugreport_info_name">שם קובץ</string>
     <string name="bugreport_info_title">כותרת הבאג</string>
     <string name="bugreport_info_description">סיכום הבאג</string>
-    <string name="save">שמור</string>
+    <string name="save">שמירה</string>
     <string name="bugreport_intent_chooser_title">שיתוף דוח על באג</string>
 </resources>

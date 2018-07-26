@@ -12,9 +12,9 @@
     <string name="video_camera_label">מצלמת וידאו</string>
     <string name="wait">רק רגע…</string>
     <string name="no_storage">הכנס כרטיס זכרון לפני הפעלת המצלמה</string>
-    <string name="not_enough_space">אחסון פנימי מלא</string>
-    <string name="preparing_sd">בודק אחסון פנימי…</string>
-    <string name="access_sd_fail">לא ניתן היה לגשת לאחסון USB.</string>
+    <string name="not_enough_space">כרטיס הזכרון מלא</string>
+    <string name="preparing_sd">בודק כרטיס זכרון…</string>
+    <string name="access_sd_fail">לא ניתן היה לגשת לכרטיס הזכרון.</string>
     <string name="confirm_restore_title">שחזר הגדרות ברירת מחדל</string>
     <string name="confirm_restore_message">לשחזר הגדרות ברירת מחדל של המצלמה?</string>
     <string name="confirm_location_title">לזכור את המיקום בו צולמה התמונה?</string>
@@ -431,6 +431,7 @@
     <string name="portrait_mode_depth_effect_success_hint">אפקט עומק</string>
     <string name="portrait_mode_use_hint">"מצב 'דיוקן' מעמעם את הרקע
  ומדגיש את האנשים בקידמה."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">מרובע</string>
     <string name="simple_mode_button_text_square">"כבה את 'מרובע'"</string>
     <string name="face_beauty_smart">חכם</string>
@@ -445,6 +446,7 @@
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">מצבים</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>

@@ -191,6 +191,7 @@
     <string name="file_size">גודל:</string>
     <string name="file_title">שם:</string>
     <string name="file_width_height">גודל:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">הודעה חדשה</string>
     <string name="forward_from">העבר מ:</string>
     <string name="forward_prefix">"הועבר: "</string>
@@ -359,8 +360,6 @@
     <string name="no_subject_view">(ללא נושא)</string>
     <string name="non_english_subject_limit">לא יותר מ-13 תווים</string>
     <string name="nosend_message">אל תשלח</string>
-    <string name="notification_channel_description">הודעות מערוץ ההודעות</string>
-    <string name="notification_channel_name">ערוץ ההודעות</string>
     <string name="notification_copy">העתק את OTP</string>
     <string name="notification_failed_multiple">לא ניתן היה לשלוח %s הודעות</string>
     <string name="notification_failed_multiple_title">ההודעות לא נשלחו</string>
@@ -542,6 +541,7 @@
     <string name="send_signature_confirm_dialog_title">שלח הודעה</string>
     <string name="send_sms">שלח הודעה</string>
     <string name="send_to">אל:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">נשלח ב: %1s</string>
     <string name="sent_label">"נשלח: "</string>
     <string name="service_message_not_found">תוקף ההודעה פג או שאינה זמין</string>
@@ -673,4 +673,6 @@
     <string name="wild_msg_title">בחר מספרי טלפון לסנכרון</string>
     <string name="yes">אישור</string>
     <string name="yesterday">אתמול</string>
+    <string name="notification_channel_description">הודעות מערוץ ההודעות</string>
+    <string name="notification_channel_name">ערוץ ההודעות</string>
 </resources>

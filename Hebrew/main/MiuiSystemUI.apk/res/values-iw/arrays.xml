@@ -17,6 +17,11 @@
         <item>3 תהליכים לכל היותר</item>
         <item>4 תהליכים לכל היותר</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="battery_options">
         <item>הצג תמיד באחוזים</item>
         <item>הצג באחוזים בזמן טעינה (ברירת מחדל)</item>
@@ -90,6 +95,11 @@
         <item>‏הפעלה של Codecs אופציונליים</item>
         <item>‏השבתה של Codecs אופציונליים</item>
     </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>‏AVRCP 1.4 (ברירת המחדל)</item>
         <item>AVRCP 1.5</item>
@@ -161,6 +171,7 @@
         <item>‏4K (משופר, מאובטח)</item>
         <item>‏720p‏, 1080p (מסך כפול)</item>
     </string-array>
+    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>כבוי</item>
         <item>64K</item>

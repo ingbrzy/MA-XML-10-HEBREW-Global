@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">נווט לדף הבית</string>
-    <string name="abc_action_bar_home_description_format">‏%1$s‏, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">‏%1$s‏, %2$s‏, %3$s</string>
     <string name="abc_action_bar_up_description">נווט למעלה</string>
     <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
     <string name="abc_action_mode_done">בוצע</string>
@@ -10,14 +8,14 @@
     <string name="abc_activitychooserview_choose_application">בחר אפליקציה</string>
     <string name="abc_capital_off">כבוי</string>
     <string name="abc_capital_on">פועל</string>
-    <string name="abc_search_hint">חפש…</string>
+    <string name="abc_search_hint">חיפוש…</string>
     <string name="abc_searchview_description_clear">מחק שאילתה</string>
     <string name="abc_searchview_description_query">שאילתת חיפוש</string>
-    <string name="abc_searchview_description_search">חפש</string>
+    <string name="abc_searchview_description_search">חיפוש</string>
     <string name="abc_searchview_description_submit">שלח שאילתה</string>
     <string name="abc_searchview_description_voice">חיפוש קולי</string>
     <string name="abc_shareactionprovider_share_with">שתף עם</string>
-    <string name="abc_shareactionprovider_share_with_application">‏שתף עם %s</string>
+    <string name="abc_shareactionprovider_share_with_application">שתף עם %s</string>
     <string name="abc_toolbar_collapse_description">כווץ</string>
     <string name="accessibility_accessibility_button">נגישות</string>
     <string name="accessibility_action_divider_bottom_full">מסך תחתון מלא</string>
@@ -56,10 +54,18 @@
     <string name="accessibility_compatibility_zoom_button">לחצן מרחק מתצוגה של תאימות.</string>
     <string name="accessibility_compatibility_zoom_example">שנה מרחק מתצוגה של מסך קטן לגדול יותר.</string>
     <string name="accessibility_data_connection_1x">‎1 X</string>
+    <string name="accessibility_data_connection_3.5g">3.5G</string>
+    <string name="accessibility_data_connection_3g">3G</string>
+    <string name="accessibility_data_connection_4g">4G</string>
     <string name="accessibility_data_connection_4g_plus">+4G</string>
+    <string name="accessibility_data_connection_cdma">CDMA</string>
     <string name="accessibility_data_connection_edge">קצה</string>
+    <string name="accessibility_data_connection_gprs">GPRS</string>
+    <string name="accessibility_data_connection_hspa">HSPA</string>
+    <string name="accessibility_data_connection_lte">LTE</string>
     <string name="accessibility_data_connection_lte_plus">+LTE</string>
     <string name="accessibility_data_connection_roaming">נדידה</string>
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_data_one_bar">פס אחד של נתונים.</string>
     <string name="accessibility_data_saver_off">‏חוסך הנתונים (Data Saver) כבוי</string>
     <string name="accessibility_data_saver_on">‏חוסך הנתונים (Data Saver) פועל</string>
@@ -129,6 +135,7 @@
     <string name="accessibility_quick_settings_alarm">ההתראה נקבעה ל-%s.</string>
     <string name="accessibility_quick_settings_alarm_set">הגדרת התראה.</string>
     <string name="accessibility_quick_settings_battery">סוללה %s.</string>
+    <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
     <string name="accessibility_quick_settings_bluetooth_changed_off">‏Bluetooth נכבה.</string>
     <string name="accessibility_quick_settings_bluetooth_changed_on">‏Bluetooth הופעל.</string>
     <string name="accessibility_quick_settings_bluetooth_connected">‏Bluetooth מחובר.</string>
@@ -173,6 +180,7 @@
     <string name="accessibility_quick_settings_rotation_value">מצב %s</string>
     <string name="accessibility_quick_settings_settings">פתיחת הגדרות.</string>
     <string name="accessibility_quick_settings_user">מחובר בתור %s</string>
+    <string name="accessibility_quick_settings_wifi">%1$s.</string>
     <string name="accessibility_quick_settings_wifi_changed_off">‏Wifi כבוי.</string>
     <string name="accessibility_quick_settings_wifi_changed_on">‏Wifi מופעל.</string>
     <string name="accessibility_quick_settings_work_mode_changed_off">מצב עבודה הושבת.</string>
@@ -185,6 +193,7 @@
     <string name="accessibility_recents_item_launched">מפעיל את %s.</string>
     <string name="accessibility_recents_item_open_app_info">פתח מידע על האפליקציה %s.</string>
     <string name="accessibility_recents_item_will_be_dismissed">סגור את %s.</string>
+    <string name="accessibility_recents_task_header">%1$s %2$s</string>
     <string name="accessibility_remove_notification">נקה התראה</string>
     <string name="accessibility_ringer_silent">צלצול שקט.</string>
     <string name="accessibility_ringer_vibrate">צלצול ורטט.</string>
@@ -432,6 +441,7 @@
     <string name="do_not_silence_block">לא להשתיק או לחסום</string>
     <string name="dock_forced_resizable">ייתכן שהיישום לא יפעל עם מסך מפוצל.</string>
     <string name="dock_non_resizeble_failed_to_dock_text">האפליקציה אינה תומכת במסך מפוצל.</string>
+    <string name="doze_pickup_subtype_performs_proximity_check" />
     <string name="drag_to_add_tiles">ניתן לגרור כדי להוסיף או להסיר משבצות</string>
     <string name="drag_to_remove_tiles">גרור לכאן כדי להסיר</string>
     <string name="empty_shade_text">אין הודעות</string>
@@ -447,6 +457,7 @@
     <string name="enable_terminal_summary">הפעל אפליקציית מסוף המציעה גישה מקומית למעטפת</string>
     <string name="enable_terminal_title">מסוף מקומי</string>
     <string name="enabled_by_admin">מופעל על ידי מנהל המכשיר</string>
+    <string name="ethernet_label">Ethernet</string>
     <string name="expanded_header_battery_charged">טעון</string>
     <string name="expanded_header_battery_charging">טוען</string>
     <string name="expanded_header_battery_charging_with_time">%s עד למילוי</string>
@@ -532,6 +543,7 @@
     <string name="keyboard_key_dpad_left">שמאלה</string>
     <string name="keyboard_key_dpad_right">ימינה</string>
     <string name="keyboard_key_dpad_up">למעלה</string>
+    <string name="keyboard_key_enter">Enter</string>
     <string name="keyboard_key_forward_del">מחיקה</string>
     <string name="keyboard_key_home">דף הבית</string>
     <string name="keyboard_key_insert">הזן</string>
@@ -556,6 +568,7 @@
     <string name="keyboard_shortcut_group_applications_contacts">אנשי קשר</string>
     <string name="keyboard_shortcut_group_applications_email">אימייל</string>
     <string name="keyboard_shortcut_group_applications_music">מוזיקה</string>
+    <string name="keyboard_shortcut_group_applications_sms">SMS</string>
     <string name="keyboard_shortcut_group_applications_youtube">‏YouTube</string>
     <string name="keyboard_shortcut_group_system">מערכת</string>
     <string name="keyboard_shortcut_group_system_back">הקודם</string>
@@ -564,6 +577,8 @@
     <string name="keyboard_shortcut_group_system_recents">מהזמן האחרון</string>
     <string name="keyboard_shortcut_group_system_shortcuts_helper">מקשי קיצור במקלדת</string>
     <string name="keyboard_shortcut_group_system_switch_input">החלפת שיטת קלט</string>
+    <string name="keyboardview_keycode_delete">Delete</string>
+    <string name="keyboardview_keycode_enter">Enter</string>
     <string name="keyguard_accessibility_next_alarm">ההתראה הבאה נקבעה ל-%1$s</string>
     <string name="keyguard_accessibility_pin_area">אזור לקוד הגישה</string>
     <string name="keyguard_accessibility_sim_pin_area">‏אזור לקוד הגישה של כרטיס ה-SIM</string>
@@ -580,6 +595,7 @@
     <string name="keyguard_missing_sim_instructions_long">‏כרטיס ה-SIM חסר או שלא ניתן לקרוא אותו. הכנס כרטיס SIM.</string>
     <string name="keyguard_missing_sim_message">‏אין כרטיס SIM בטלפון.</string>
     <string name="keyguard_missing_sim_message_short">‏אין כרטיס SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">הרשת נעולה</string>
     <string name="keyguard_password_enter_password_code">הזן סיסמה לביטול הנעילה</string>
     <string name="keyguard_password_enter_pin_code">הזן את קוד הגישה</string>
@@ -659,6 +675,7 @@
     <string name="left_icon">סמל שמאלי</string>
     <string name="left_keycode">קוד מפתח שמאלי</string>
     <string name="left_nav_bar_button_type">סוג נוסף של לחצן שמאלי</string>
+    <string name="legacy_vpn_name">VPN</string>
     <string name="local_backup_password_summary_change">הקש כדי לשנות או להסיר את הסיסמה לגיבויים מלאים בשולחן העבודה</string>
     <string name="local_backup_password_summary_none">גיבויים מלאים בשולחן העבודה אינם מוגנים כעת</string>
     <string name="local_backup_password_title">סיסמת גיבוי שולחן העבודה</string>
@@ -693,12 +710,14 @@
 
 למידע נוסף, פנה למנהל המערכת."</string>
     <string name="monitoring_description_ca_cert_settings">פתח את פרטי הכניסה המהימנים</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">במכשיר זה מותקנת רשות אישורים. ניתן לעקוב אחר התנועה ברשת המאובטחת או לשנות אותה.</string>
     <string name="monitoring_description_do_body">מנהל המערכת יכול לנטר ולנהל הגדרות, גישה ארגונית, אפליקציות, נתונים המשויכים למכשיר ומידע על מיקום המכשיר.</string>
     <string name="monitoring_description_do_body_vpn">אתה מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
     <string name="monitoring_description_do_header_generic">המכשיר שלך מנוהל על ידי %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s משתמש באפליקציה %2$s כדי לנהל את מכשירך.</string>
     <string name="monitoring_description_do_learn_more">למידע נוסף</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">הארגון שלך התקין רשות אישורים בפרופיל העבודה. ניתן לעקוב אחר התנועה ברשת המאובטחת או לשנות אותה.</string>
     <string name="monitoring_description_managed_profile_named_vpn">פרופיל העבודה שלך מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
     <string name="monitoring_description_management">"המכשיר מנוהל על ידי הארגון שלך.
@@ -730,8 +749,10 @@
 
 בנוסף, אתה מחובר ל-VPN, שגם באמצעותו ניתן לעקוב אחרי הפעילות שלך ברשת."</string>
     <string name="monitoring_description_vpn_settings">‏פתח את הגדרות ה-VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">‏אישורי CA</string>
     <string name="monitoring_subtitle_network_logging">רישום התנועה ברשת</string>
+    <string name="monitoring_subtitle_vpn">VPN</string>
     <string name="monitoring_title">מעקב אחר פעילות ברשת</string>
     <string name="monitoring_title_device_owned">ניהול מכשירים</string>
     <string name="monitoring_title_profile_owned">מעקב אחר פרופיל</string>
@@ -750,10 +771,12 @@
     <string name="notification_channel_storage">אחסון</string>
     <string name="notification_channel_switch_accessibility">התר הודעות מערוץ זה</string>
     <string name="notification_channel_tv_pip">תמונה בתוך תמונה</string>
+    <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
     <string name="notification_default_channel_desc">האפליקציה הזו לא תומכת בקטגוריות של הודעות</string>
     <string name="notification_done">סיום</string>
     <string name="notification_group_overflow_indicator">+ %s</string>
     <string name="notification_header_default_channel">הודעות</string>
+    <string name="notification_menu_accessibility">%1$s %2$s</string>
     <string name="notification_menu_gear_description">בקרת הודעות</string>
     <string name="notification_menu_snooze_description">אפשרויות של דחיית הודעות לטיפול בהמשך</string>
     <string name="notification_more_settings">הגדרות נוספות</string>
@@ -815,6 +838,7 @@
     <string name="power_remaining_charging_duration_only">%1$s עד לטעינה מלאה</string>
     <string name="power_remaining_duration_only">עוד %1$s בקירוב</string>
     <string name="power_remaining_duration_only_short">נותרו %1$s</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">ייתכן שהפרופיל נתון למעקב</string>
     <string name="qs_dnd_keep">שמור</string>
     <string name="qs_dnd_prompt_app">"מצב 'נא לא להפריע' הופעל על ידי אפליקציה (%s)."</string>
@@ -826,6 +850,7 @@
     <string name="qs_rearrange">סידור מחדש של הגדרות מהירות</string>
     <string name="quick_settings">הגדרות מהירות</string>
     <string name="quick_settings_bluetooth_detail_empty_text">אין מכשירים מותאמים זמינים</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">‏Bluetooth ‏(%d מכשירים)</string>
     <string name="quick_settings_bluetooth_off_label">‏Bluetooth מופסק</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">אוטומטי</string>
@@ -834,6 +859,7 @@
     <string name="quick_settings_cast_detail_empty_text">אין מכשירים זמינים</string>
     <string name="quick_settings_cast_device_default_description">מוכן להעביר</string>
     <string name="quick_settings_cast_device_default_name">מכשיר ללא שם</string>
+    <string name="quick_settings_cast_title">Cast</string>
     <string name="quick_settings_casting">מעביר</string>
     <string name="quick_settings_cellular_detail_data_limit">הגבלה של %s</string>
     <string name="quick_settings_cellular_detail_data_usage">שימוש בנתונים</string>
@@ -873,6 +899,7 @@
     <string name="quick_settings_location_off_label">מיקום כבוי</string>
     <string name="quick_settings_media_device_label">מכשיר מדיה</string>
     <string name="quick_settings_more_settings">הגדרות נוספות</string>
+    <string name="quick_settings_nfc_label">NFC</string>
     <string name="quick_settings_nfc_off">‏NFC מושבת</string>
     <string name="quick_settings_nfc_on">‏NFC מופעל</string>
     <string name="quick_settings_night_display_label">תאורת לילה</string>
@@ -885,6 +912,7 @@
     <string name="quick_settings_rotation_locked_portrait_label">לאורך</string>
     <string name="quick_settings_rotation_unlocked_label">סיבוב אוטומטי</string>
     <string name="quick_settings_rssi_emergency_only">שיחות חירום בלבד</string>
+    <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_settings_label">הגדרות</string>
     <string name="quick_settings_tethering_label">שיתוף אינטרנט בין ניידים</string>
     <string name="quick_settings_time_label">שעה</string>
@@ -892,6 +920,7 @@
     <string name="quick_settings_user_new_user">משתמש חדש</string>
     <string name="quick_settings_user_title">משתמש</string>
     <string name="quick_settings_wifi_detail_empty_text">‏אין רשתות Wi-Fi זמינות</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_no_network">אין רשת</string>
     <string name="quick_settings_wifi_not_connected">אין חיבור</string>
     <string name="quick_settings_wifi_off_label">‏Wi-Fi כבוי</string>
@@ -950,7 +979,7 @@
     <string name="screenshot_saving_text">מתבצעת שמירה של צילום המסך.</string>
     <string name="screenshot_saving_ticker">שומר צילום מסך...</string>
     <string name="screenshot_saving_title">שומר צילום מסך...</string>
-    <string name="search_menu_title">חפש</string>
+    <string name="search_menu_title">חיפוש</string>
     <string name="select_application">בחר אפליקציה</string>
     <string name="select_logd_size_dialog_title">בחר גדלים של יוצר יומן לכל מאגר יומן</string>
     <string name="select_logd_size_title">גדלי מאגר של יומן רישום</string>
@@ -1001,7 +1030,6 @@
     <string name="status_bar_no_notifications_title">אין התראות</string>
     <string name="status_bar_no_recent_apps">המסכים האחרונים מופיעים כאן</string>
     <string name="status_bar_notification_app_settings_title">הגדרות %s</string>
-    <string name="status_bar_notification_info_overflow">‎999+‎</string>
     <string name="status_bar_notification_inspect_item_title">הגדרות עבור הודעות</string>
     <string name="status_bar_ongoing_events_title">מתמשך</string>
     <string name="status_bar_recent_inspect_item_title">פרטי אפליקציה</string>
@@ -1013,10 +1041,12 @@
     <string name="status_bar_settings_settings_button">הגדרות</string>
     <string name="status_bar_settings_signal_meter_disconnected">אין חיבור לאינטרנט</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">‏Wi-Fi מחובר</string>
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_use_physical_keyboard">מקלדת פיזית</string>
     <string name="status_bar_work">פרופיל עבודה</string>
     <string name="stream_accessibility">נגישות</string>
     <string name="stream_alarm">שעון מעורר</string>
+    <string name="stream_bluetooth_sco">Bluetooth</string>
     <string name="stream_dtmf">‏טון זוגי מרובה תדרים (DTMF)</string>
     <string name="stream_music">מדיה</string>
     <string name="stream_notification">הודעה</string>
@@ -1027,6 +1057,7 @@
     <string name="strict_mode_summary">גרום למסך להבהב כאשר אפליקציות מבצעות פעולות ארוכות בשרשור הראשי</string>
     <string name="switch_bar_off">כבוי</string>
     <string name="switch_bar_on">פועל</string>
+    <string name="system_ui_tuner">System UI Tuner</string>
     <string name="telephony_monitor_switch">Telephony Monitor</string>
     <string name="telephony_monitor_switch_summary">‏TelephonyMonitor יאסוף מידע ביומנים כשיזהה בעיה בפונקציונליות של טלפוניה/מודם. הוא ישלח הודעה למשתמש כדי שיוכל להגיש דוח על באג</string>
     <string name="tether_settings_title_all">נקודה לשיתוף אינטרנט</string>
@@ -1043,6 +1074,7 @@
 \u0009• תשתמש בטלפון בטמפרטורות גבוהות"</string>
     <string name="thermal_shutdown_message">הטלפון פועל כרגיל עכשיו</string>
     <string name="thermal_shutdown_title">הטלפון כבה עקב התחממות</string>
+    <string name="time_zone_gmt">GMT</string>
     <string name="title_convert_fbe">המרה להצפנה מבוססת קבצים</string>
     <string name="title_usb_accessory">‏אביזר USB</string>
     <string name="track_frame_time">‏עיבוד פרופיל ב-GPU</string>

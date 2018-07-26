@@ -11,7 +11,7 @@
     <string name="permdesc_downloadManagerAdvanced">"מאפשר ליישום לגשת להגדרות המתקדמות של יישום ה'הורדות'. יישומים זדוניים עלולים להשתמש בו על מנת להפריע להורדות ולגשת לפרטיך האישיים."</string>
     <string name="permlab_downloadCompletedIntent">שליחת התראות אודות הורדות.</string>
     <string name="permdesc_downloadCompletedIntent">מאפשר ליישום לשלוח התראות אודות הורדות שהושלמו. יישומים זדוניים עלולים להשתמש בזה על מנת לבלבל יישומים אחרים אשר מורידים קבצים.</string>
-    <string name="permlab_seeAllExternal">צפיה בכל ההורדות באחסון ה-USB</string>
+    <string name="permlab_seeAllExternal">צפיה בכל ההורדות בכרטיס הזכרון</string>
     <string name="permdesc_seeAllExternal">מאפשר ליישום לצפות בכל ההורדות בכרטיס הזכרון, ללא קשר ליישום שהוריד אותן.</string>
     <string name="permlab_downloadCacheNonPurgeable">שמירת מקום במטמון ההורדה</string>
     <string name="permdesc_downloadCacheNonPurgeable">מאפשר ליישום להוריד קבצים אל מטמון ההורדה, אשר אינו יכול להימחק באופן אוטומטי כאשר מנהל ההורדות זקוק לשטח אחסון נוסף.</string>

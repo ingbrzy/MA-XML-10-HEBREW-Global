@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>קירור</item>
+        <item>חימום</item>
+        <item>הפחתת לחות</item>
+        <item>מאוורר</item>
+    </string-array>
+    <string-array name="answer">
+        <item>המכשיר שלך יכול לבצע צימוד עם טלוויזית Mi, Mi Box ומכשירי אנדרואיד רבים אחרים באמצעות שימוש ברשת אלחוטית.</item>
+        <item>וודא כי בחרת את דגם המזגן המתאים בתהליך הצימוד. עקוב אחר ההוראות במכשירך עד שהצימוד יושלם בהצלחה.</item>
+        <item>לא. כעת באפשרותך להשתמש ב- Mi 4, Mi 4c ו- Redmi Note 2 כשלטי אינפרא אדום.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
+    </string-array>
+    <string-array name="question">
+        <item>מדוע הטלפון שלי ממשיך לחפש אחר התקנים אלחוטיים?</item>
+        <item>מדוע אני יכול להפעיל את המזגן שלי אך איני יכול לכבות אותו?</item>
+        <item>אני יכול להשתמש ב- Mi 3, Mi 2, ו- Redmi כשלט אינפרא אדום?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>הפעל את מזגן Haier בסלון</item>
+        <item>הגדר את הטמפרטורה ל-25 מעלות</item>
+        <item>הגדר את כיוון הרוח ל\"למעלה\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>הפעל את מזגן Gree</item>
+        <item>עבור למצב משב רוח דינמי</item>
+        <item>הגבר את עוצמת משב הרוח</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>הפעל את הממיר האינטראקטיבי</item>
+        <item>אני רוצה לצפות ב-Hunan TV</item>
+        <item>חזרה לערוץ 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>הפעלת המזגן</item>
+        <item>אני רוצה לצפות ב-Shenzhen TV</item>
+        <item>חזרה לערוץ 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>הפעל את הטלויזיה בחדר השינה</item>
+        <item>כבה את הטלויזיה</item>
+        <item>הגבר את עוצמת השמע של הטלויזיה</item>
+    </string-array>
+</resources>
