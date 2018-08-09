@@ -19,8 +19,8 @@
         <item quantity="many">למחוק את אזור הזמן הנבחר?</item>
     </plurals>
     <plurals name="second">
-        <item quantity="other">%d seconds</item>
-        <item quantity="one">%d second</item>
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">שנייה אחת (%d)</item>
         <item quantity="two">%d seconds</item>
         <item quantity="many">%d seconds</item>
     </plurals>
@@ -33,7 +33,7 @@
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d שעות "</item>
         <item quantity="one">"שעה %1$d "</item>
-        <item quantity="two">"שעתיים "</item>
+        <item quantity="two">"%1$d hours "</item>
         <item quantity="many">"%1$d שעות "</item>
     </plurals>
     <plurals name="timer_message_minute">

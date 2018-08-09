@@ -45,19 +45,30 @@
     <string name="ime_privacy_policy">"'מדיניות הפרטיות' עבור מקלדת הנבחרת"</string>
     <string name="ime_privacy_policy_no_network">"אין חיבור לרשת. הצג את 'מדיניות הפרטיות' עבור מקלדת זו ב- %s."</string>
     <string name="terms_of_use">תנאי השימוש</string>
-    <string name="terms_of_use_label">"הפרטיות שלך חשובה לנו מאוד. קרא את תנאי השירות ואת מדיניות הפרטיות שלנו כדי להבין אילו נתונים אנו אוספים, איך אנו משתמשים בהם ומה באפשרותך לבחור.
+    <string name="terms_of_use_label">"פרטיותך חשובה לנו מאוד. אנא קרא את 'תנאי השירות' ואת 'מדיניות הפרטיות' שלנו כדי להבין איזה מידע אנו אוספים, כיצד אנו משתמשים בו ומהן האפשרויות העומדות בפניך.
 
-עליך להסכים לתנאי השירות ולמדיניות הפרטיות כדי להתחיל להשתמש ב-MIUI. שירותי Mi, שירותי הפעלת סים של Mi, Mi Cloud, שירות החיפוש, מסך הבית, מרכז המשחקים, MAB, רכיבי MIUI Daemon ומערכת MSA, שירותי התרגום, אפליקציות מהירות, כספת האפליקציות, סטטיסטיקה, כרטיסים חכמים, רכיבי Mi Link וחשבון Mi יתחברו לאינטרנט ויזהו את המיקום שלך."</string>
-    <string name="terms_of_use_label_gms">"הפרטיות שלך חשובה לנו מאוד. קרא את תנאי השירות ואת מדיניות הפרטיות שלנו כדי להבין אילו נתונים אנו אוספים, איך אנו משתמשים בהם ומה באפשרותך לבחור
+כדי שתוכל להשתמש ב-MIUI עליך להסכים קודם ל'תנאי השירות' ו'מדיניות הפרטיות' שלנו. %s ורכיבי החשבון של Mi יתחברו לאינטרנט וידרשו את המיקום שלך."</string>
+    <string name="terms_of_use_lable_apps">שירותי Mi, שירותי Mi SIM, Mi Cloud, איתור המכשיר שלך, מסך הבית, מרכז משחקים, MAB, MIUI Daemon ורכיבי מערכת MSA, שירותי תרגום, יישומים מהירים, כספת יישומים, סטטיסטיקה, Mi Link</string>
+    <string name="terms_of_use_lable_gms">, שירותי Google Play</string>
+    <string name="terms_of_use_label_systemhelper">, שירות רישום עצמי</string>
+    <string name="terms_of_use_lable_smart_cards">, כרטיסים חכמים</string>
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
 
-עליך להסכים לתנאי השירות ולמדיניות הפרטיות כדי להתחיל להשתמש ב-MIUI. שירותי Mi, שירותי הפעלת סים של Mi, Mi Cloud, שירות איתור המכשיר, מסך הבית, מרכז המשחקים, MAB, רכיבי MIUI Daemon ומערכת MSA, שירותי התרגום, אפליקציות מהירות, כספת האפליקציות, סטטיסטיקה, כרטיסים חכמים, רכיבי השירות של Mi Link, חשבון Mi ו-Google Play יתחברו לאינטרנט ויזהו את המיקום שלך."</string>
+עליך להסכים למדיניות הפרטיות של Facemoji לפני שתוכל להשתמש בתכונה זו."</string>
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
+עליך להסכים למדיניות הפרטיות של Kika לפני שתוכל להשתמש בתכונה זו."</string>
     <string name="user_agreement">תנאי השירות</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
+    <string name="terms_privacy_policy_input_method_kika">מדיניות הפרטיות של Kika</string>
+    <string name="terms_privacy_policy_input_method_facemoji">מדיניות הפרטיות של Facemoji</string>
     <string name="application_permissions">הרשאות של יישומים</string>
     <string name="agree">מסכים</string>
     <string name="disagree">ביטול</string>
     <string name="setting_locale">מגדיר אזור…</string>
     <string name="agree_terms">קראתי ואני מסכים לתנאי השירות ומדיניות הפרטיות.</string>
+    <string name="agree_terms_input_method_facemoji">קראתי ואני מסכים למדיניות הפרטיות של Facemoji.</string>
+    <string name="agree_terms_input_method_kika">קראתי ואני מסכים למדיניות הפרטיות של Kika.</string>
     <string name="miui_terms_no_network">"אין ברשותך חיבור לאינטרנט. הצג את 'תנאי השירות' ב-%s."</string>
     <string name="miui_privacy_policy_no_network">"אין ברשותך חיבור לאינטרנט. הצג את 'מדיניות הפרטיות' ב-%s."</string>
     <string name="locale_picker_title">בחר את האזור שלך</string>
@@ -72,7 +83,7 @@
     <string name="desc_international_fingerprint">השתמש בטביעת האצבע שלך לביטול נעילת המכשיר, או על מנת להיכנס ליישומים ושירותים.</string>
     <string name="content_description_start">התחלה</string>
     <string name="start_up_slogan">נועדה לחוויית מסך מלא</string>
-    <string name="content_description_miui_version">MIUI 9</string>
+    <string name="content_description_miui_version">MIUI 10</string>
     <string name="content_description_complete">הסתיים</string>
     <string name="language_picker_other_languages_title">שפות נוספות</string>
     <string name="language_settings">בחירת שפה</string>
@@ -89,4 +100,5 @@
     <string name="continue_to_enable_accessibility">המשך להחזיק באמצעות שתי אצבעות כלפי מטה על מנת לאפשר את הנגישות.</string>
     <string name="voice_assist_title">הער באמצעות קול</string>
     <string name="voice_assist_desp">אמור \"Mi AI\" אל תוך מיקרופון הטלפון שלך. Mi AI יזהה את הקול שלך ויוכל לשלוט על המכשיר.</string>
+    <string name="voice_assist_desp_screen_light">לאחר שהמסך יידלק, אמור לטלפון שלך \"Mi AI\". Mi AI יזהה את הקול שלך ויוכל לשלוט על המכשיר שלך.</string>
 </resources>

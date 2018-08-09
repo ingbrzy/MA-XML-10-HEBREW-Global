@@ -86,4 +86,7 @@
     <string name="sleepmode_privacy_link">למד עוד אודות פרטיות ואבטחה</string>
     <string name="sleepmode_disclaimer_cancel">ביטול</string>
     <string name="sleepmode_disclaimer_agree">מסכים</string>
+    <string name="appconfig_active_app_dialog_title">נהל יישומים פעילים</string>
+    <string name="config_classify">מיין לפי הגדרות יישום</string>
+    <string name="active_classify">מיין לפי סטטוס פעילות</string>
 </resources>

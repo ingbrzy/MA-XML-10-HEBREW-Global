@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
 גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">לא ניתן היה להתחיל את ההורדה, ודא כי מנהל ההורדות עובד כראוי.</string>
     <string name="app_name">גיבוי</string>
     <string name="local_app_name">גיבוי</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">שחזור</string>
     <string name="enable_encrypt_description">הצפנה</string>
     <string name="disable_encrypt_description">ביטול הצפנה</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -248,7 +252,7 @@
     <string name="err_filesystem_mount">לא ניתן לגשת לאחסון הנתב</string>
     <string name="err_router_disconnected">בדוק את חיבור הנתב שלך ונסה שוב.</string>
     <string name="err_router_files_delete">לא ניתן היה למחוק קבצי גיבוי מהשרת</string>
-    <string name="err_acquire_system_service">"Couldn't start system service."</string>
+    <string name="err_acquire_system_service">לא ניתן היה להפעיל את שירות המערכת.</string>
     <string name="err_not_allow">לא נתמך</string>
     <string name="err_bakfile_not_exist">קובץ גיבוי אינו קיים.</string>
     <string name="err_pkg_not_exist">לא ניתן היה למצוא את היישום.</string>
@@ -451,12 +455,12 @@
     <string name="backup_security_tips_message">יתכן שגיבוי או שחזור של יישומים מסויימים לא יצליח.</string>
     <string name="trans_security_tips_title">תאימות Mi Mover</string>
     <string name="trans_security_tips_message">יישומים מסויימים אינם תומכים ב-Mi Mover.</string>
-    <string name="trans_cancel_selection_title">Stay in Mi Mover</string>
-    <string name="trans_cancel_selection_message">If you exit Mi Mover, the ongoing transfer will be interrupted. Wait until the transfer is complete.</string>
-    <string name="trans_select_notification_title">Mi Mover is working…</string>
-    <string name="trans_select_notification_message">Tap to view</string>
-    <string name="trans_button_stay">Stay</string>
-    <string name="trans_button_exit">Exit</string>
+    <string name="trans_cancel_selection_title">הישאר ב-Mi Mover</string>
+    <string name="trans_cancel_selection_message">אם תצא מ-Mi Mover, ההעברה הנוכחית תיעצר. המתן עד לסיום ההעברה.</string>
+    <string name="trans_select_notification_title">Mi Mover פועל…</string>
+    <string name="trans_select_notification_message">לחץ לצפייה</string>
+    <string name="trans_button_stay">הישאר</string>
+    <string name="trans_button_exit">יציאה</string>
     <string name="trans_wlan_tips_title">הימנע מכיבוי החיבור לרשת האלחוטית</string>
     <string name="trans_wlan_tips_message">הימנע מכיבוי החיבור לרשת האלחוטית או החלפת רשתות במהלך ההעברה. אחרת, Mi Mover לא יוכל להעביר נתונים.</string>
     <string name="trans_disconnected_tips_title">ההתקן השני מנותק</string>
@@ -533,6 +537,7 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
 עליך ליצור גיבוי iCloud תחילה."</string>
     <string name="list_footer_tip_title">טיפים:</string>
     <string name="import_tip_summary">עקב בעיות תאימות, באפשרותך להעביר נתונים חלקיים בלבד בלבד מהתקני iOS. ודא כי יצרת גיבוי iCloud לפני התחלת ההעברה.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">ייבוא</string>
     <string name="select_empty">בחירת פריטים לייבוא</string>
     <string name="select_item_summary_wait">ממתין…</string>

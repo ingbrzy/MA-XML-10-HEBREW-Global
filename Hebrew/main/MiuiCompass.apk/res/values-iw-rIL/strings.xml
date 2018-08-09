@@ -57,8 +57,8 @@
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="app_description_title">אודות המצפן</string>
     <string name="app_description_content">המצפן משמש לניווט והתמצאות ומציג עבורך את כיווני השמיים. ודא כי באפשרותך להסתדר ללא תכונות אלה לפני הסרת היישום.</string>
-    <string name="open_perm_msg">Compass needs access to location info and camera. This is necessary to determine coordinates and provide live previews. Allow?</string>
-    <string name="open_perm_title">Permissions required</string>
-    <string name="cancel">Cancel</string>
-    <string name="allow">Allow</string>
+    <string name="open_perm_msg">המצפן זקוק לגישה לנתוני המיקום והמצלמה שלך כדי לקבוע קואורדינטות ולהציג תצוגות מקדימות בזמן אמת. לאפשר?</string>
+    <string name="open_perm_title">נדרשות הרשאות</string>
+    <string name="cancel">ביטול</string>
+    <string name="allow">אפשר</string>
 </resources>

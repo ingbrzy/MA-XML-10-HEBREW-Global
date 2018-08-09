@@ -128,6 +128,8 @@
     <string name="select_sim_hint">לא ניתן להשתמש בSIM %2$d,כאשר SIM %1$d נמצא בשימוש.</string>
     <string name="select_one_sim_title">ניתן להשתמש ב-SIM %1$d בלבד</string>
     <string name="can_not_use">לא ניתן לשימוש</string>
+    <string name="sim1_description">SIM1</string>
+    <string name="sim2_description">SIM2</string>
     <string name="call_description_recording">מקליט/u2026</string>
     <string name="call_recording_error_privacy">לא ניתן להקליט במצב אורח</string>
     <string name="call_recording_error_sd_access">לא ניתן לגשת לכרטיס הזכרון</string>
@@ -171,7 +173,7 @@
     <string name="close_camera_requesting">מכבה את המצלמה…</string>
     <string name="close_camera_failed">לא ניתן היה לכבות את המצלמה…</string>
     <string name="change_to_voice_tips_when_background">הצד השני החליף לשיחה קולית</string>
-    <string name="video_crbt_title">%s צליל חיוג וידאו</string>
+    <string name="video_crbt_title">צלצול הווידאו של הצד השני פועל</string>
     <string name="crbt_second_hold_prompt">%s נמצא בהחזק…</string>
     <string name="crbt_second_hold_prompt_no_name">השיחה הקודמת נמצאת בהחזק…</string>
     <string name="crbt_second_hold_prompt_conference">שיחת הועידה נמצאת בהחזק…</string>

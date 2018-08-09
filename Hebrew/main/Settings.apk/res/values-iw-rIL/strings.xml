@@ -46,7 +46,7 @@
     <string name="add_back_fingerprint_instruction_msg">הנח אצבע על החיישן</string>
     <string name="add_facerecoginition_text">הוספת נתוני פנים</string>
     <string name="add_fingerprint_cancel_button_text">הקודם</string>
-    <string name="add_fingerprint_dirty_fingerprint">Make sure the surface of the screen is clean. Try recording your fingerprint again.</string>
+    <string name="add_fingerprint_dirty_fingerprint">ודא שהמסך נקי. נסה להקליט שוב את טביעת האצבע שלך.</string>
     <string name="add_fingerprint_done_msg">עכשיו תוכל לבטל את נעילת המכשיר באמצעות טביעת אצבע.</string>
     <string name="add_fingerprint_done_title">אתה מוכן לצאת לדרך!</string>
     <string name="add_fingerprint_edge_instruction_msg">הזז את האצבע כדי שהחיישן יוכל לקלוט את קצות טביעת האצבע.</string>
@@ -55,7 +55,7 @@
     <string name="add_fingerprint_finished_button_text">בוצע</string>
     <string name="add_fingerprint_instruction_msg">חיישן טביעת האצבע מובנה בלחצן מסך הבית במכשירך.</string>
     <string name="add_fingerprint_instruction_title">הוסף את טביעת האצבע</string>
-    <string name="add_fingerprint_move_fast">Keep your finger on the screen a bit longer</string>
+    <string name="add_fingerprint_move_fast">השאר את האצבע על המסך מעט יותר זמן</string>
     <string name="add_fingerprint_name_suggest_text">שם טביעת האצבע</string>
     <string name="add_fingerprint_put_finger_edge_msg">הזז מעט את האצבע והנח אותה שוב על החיישן כדי להוסיף את החלקים השונים של טביעת האצבע.</string>
     <string name="add_fingerprint_put_finger_msg">הנח אצבע על החיישן והרם אותה אחרי שתחוש רטט.</string>
@@ -110,7 +110,7 @@
     <string name="app_floating_window_dlg_disable">הגדרות כיבוי חלונות צפים עבור %1$s דורשות הפעלה מחדש של היישום.</string>
     <string name="app_floating_window_dlg_enable">הגדרות הפעלת חלונות צפים עבור %1$s דורשות הפעלה מחדש של היישום.</string>
     <string name="app_invisible">יישומים בלתי ניראים</string>
-    <string name="app_mobile">סלולרי</string>
+    <string name="app_mobile">נתונים סלולריים</string>
     <string name="app_name_na">נתונים בשימוש</string>
     <string name="app_notifications_switch_label">התראה מותאמת אישית</string>
     <string name="app_process_limit_title">מגבלת תהליך רקע</string>
@@ -130,7 +130,7 @@
     <string name="apply_now_button_text">עדכן</string>
     <string name="apply_password_to_category_title">דרוש ביטול נעילה</string>
     <string name="apply_update_fail">לא ניתן היה לעדכן</string>
-    <string name="approve_title">אימות</string>
+    <string name="approve_title">תעודה</string>
     <string name="ask_for_delete">למחוק חוק זה?</string>
     <string name="attempt_other_network">החלף רשת</string>
     <string name="audio_profile_settings_title">פרופילי שמע</string>
@@ -343,6 +343,8 @@
     <string name="bootloader_locked_answer_2">"1. ודא שכבר הכנסת כרטיס סים אל מכשירך.
 2. הקש על \"הוספת חשבון\" למטה כדי לקשר בין חשבון ה-Mi שלך למכשיר זה.
 3. הורד את הכלי לביטול נעילה מהאתר שלנו. לתשומת לבך, צריך להשתמש במחשב כדי לבטל נעילת מכשיר. הקישור להורדה:"</string>
+    <string name="bootloader_locked_answer_2_no_sim">"1. Tap \"Add account\" below to associate your Mi Account with this device.
+2. Download the unlock tool from our website. Note that you should unlock devices using a computer. Download here:"</string>
     <string name="bootloader_locked_check_status">הוספת חשבון ומכשיר</string>
     <string name="bootloader_locked_question_1">למה מכשירים צריכים להיות נעולים?</string>
     <string name="bootloader_locked_question_2">אני מבין את הסיכונים, אבל עדיין רוצה לבטל את נעילת המכשיר שלי.</string>
@@ -359,6 +361,7 @@
     <string name="bootloader_status_unlocked">הנעילה בוטלה</string>
     <string name="bootloader_status_unlocked_info">מכשיר זה אינו נעול</string>
     <string name="bootloader_summary">צרוב את מכשירך באמצעות USB</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">צבע הנורית</string>
     <string name="breathing_light_color_summary">צבע הנורית בעת קבלת התראה חדשה</string>
     <string name="breathing_light_freq_summary">הבהב בקבלת התראות חדשות</string>
@@ -367,17 +370,17 @@
     <string name="brightness_auto_adjust_on">תאורת המסך תיועל בהתאם לתאורת הסביבה.</string>
     <string name="bt_hci_snoop_log">רישום Bluetooth HCI snoop</string>
     <string name="bt_hci_snoop_log_summary">לכידת כל חבילות Bluetooth HCI בקובץ</string>
-    <string name="bt_ldac_declaration">When the Bluetooth device supports LDAC, it will be connected by default. LDAC provides a high-quality audio experience and also brings higher power consumption. Playback may occur due to Bluetooth hardware limitations</string>
-    <string name="bt_ldac_dialog_summary">"LDAC provides a high-quality audio experience and also brings higher power consumption
-This feature can be turned off in [Settings]"</string>
-    <string name="bt_ldac_dialog_title">The current device supports LDAC, which has been connected by default:</string>
-    <string name="bt_ldac_open_dialog_summary">LDAC provides a high-quality audio experience and also brings higher power consumption. Playback may occur due to Bluetooth hardware limitations</string>
-    <string name="bt_ldac_open_dialog_title">Are you sure to turn on LDAC?</string>
-    <string name="bt_ldac_pre_summary">Provide a high-quality audio experience</string>
+    <string name="bt_ldac_declaration">כברירת מחדל, אם מכשיר ה-Bluetooth תומך בטכנולוגיית LDAC הוא יחובר אליה אוטומטית. LDAC מציעה חוויית שמע באיכות גבוהה, אך גם צורכת יותר חשמל. מגבלות בחומרה של מכשיר ה-Bluetooth עלולות לגרום לבעיות בהשמעה.</string>
+    <string name="bt_ldac_dialog_summary">"טכנולוגיית LDAC מעניקה חוויית שמע באיכות גבוהה אך גם צורכת יותר חשמל
+ניתן לכבות את התכונה בהגדרות [Settings]"</string>
+    <string name="bt_ldac_dialog_title">המכשיר הנוכחי תומך בטכנולוגיית LDAC, וכבר מחובר אליה כברירת מחדל:</string>
+    <string name="bt_ldac_open_dialog_summary">טכנולוגיית LDAC מציעה חוויית שמע באיכות גבוהה, אך גם צורכת יותר חשמל. מגבלות בחומרה של מכשיר ה-Bluetooth עלולות לגרום לבעיות בהשמעה.</string>
+    <string name="bt_ldac_open_dialog_title">להפעיל את LDAC?</string>
+    <string name="bt_ldac_pre_summary">חוויית שמע באיכות גבוהה</string>
     <string name="bt_ldac_pre_title">LDAC</string>
-    <string name="bt_ldac_property">Attributes</string>
-    <string name="bt_ldac_remember_choice">Remember choice</string>
-    <string name="bt_ldac_settings">Settings</string>
+    <string name="bt_ldac_property">תכונות</string>
+    <string name="bt_ldac_remember_choice">אל תזכיר לי יותר</string>
+    <string name="bt_ldac_settings">הגדרות</string>
     <string name="bt_rarely_used_device_title">התקנים בשימוש נדיר (%d)</string>
     <string name="bt_trace_log">רישום עקבות Bluetooth</string>
     <string name="bt_trace_log_summary">רישום עקבות Bluetooth</string>
@@ -624,6 +627,7 @@ This feature can be turned off in [Settings]"</string>
     <string name="dndm_auto_button_title">"חזרה על תזמון מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_setting_group">מתוזמן</string>
     <string name="dndm_auto_time_setting">הגדר שעה</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">עד</string>
     <string name="dndm_auto_time_turn_off_title">"כבה אוטומטית את מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_time_turn_on">מ:</string>
@@ -737,7 +741,7 @@ This feature can be turned off in [Settings]"</string>
     <string name="failed_to_open_app_settings_toast">לא ניתן היה לפתוח את ההגדרות עבור %1$s</string>
     <string name="failed_to_shut_down_find_device_content">"לא ניתן היה לכבות את 'איתור המכשיר'. המתן דקה או שתיים ונסה שוב."</string>
     <string name="failed_to_shut_down_find_device_title">לא ניתן היה לכבות</string>
-    <string name="fallback_home_title">Just a sec…</string>
+    <string name="fallback_home_title">רק רגע…</string>
     <string name="file_privacy_password_role_instruction">הקבצים הפרטיים שלך יאוחסנו כאן.</string>
     <string name="filter_apps_cached">מוטמן</string>
     <string name="find_my_device">איתור המכשיר</string>
@@ -785,8 +789,8 @@ This feature can be turned off in [Settings]"</string>
     <string name="firewall_wifi">רשת אלחוטית</string>
     <string name="firewall_wifi_dialog_message">היישום המותקן לא יוכל להתחבר לאינטרנט באמצעות רשת אלחוטית כאשר מתג זה כבוי.</string>
     <string name="firmware_version">גרסת אנדרואיד</string>
-    <string name="flash_drive_backup_restore">Back up or restore using USB</string>
-    <string name="flash_drive_backup_restore_summary">Connect a USB drive</string>
+    <string name="flash_drive_backup_restore">גיבוי ושחזור באמצעות USB</string>
+    <string name="flash_drive_backup_restore_summary">חבר כונן USB</string>
     <string name="floating_window_switch_label">הפעל חלונות צפים</string>
     <string name="floating_window_switch_label_disable">כבה חלונות צפים</string>
     <string name="fluency_mode">אנימציות מערכת</string>
@@ -824,6 +828,12 @@ This feature can be turned off in [Settings]"</string>
     <string name="force_touch_enable_tips">"לחץ לחיצה מאומצת על אייקונים של יישומים ב'משגר היישומים' על מנת להציג תפריטים של קיצורי דרך כאשר 'מגע 3D' מופעל."</string>
     <string name="foreground_traffic">חזית %s</string>
     <string name="forget_password_button_text"><u>שכחתי את הסיסמה</u></string>
+    <string name="forget_password_dialog_button_text">Back</string>
+    <string name="forget_password_dialog_content_four"><Data>2. Select &lt;font color=#e6e6e6>[Wipe data]&lt;/font>, and wait until your device reboots.</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>"If you forget your password, you won't be able to restore it. However, you can reset your password after you &lt;font color=#ec2700>erase all data on your device&lt;/font> (including photos, contacts, etc.). Back up all important data before this."</Data></string>
+    <string name="forget_password_dialog_content_three"><Data>"1. Turn off your device. Press the &lt;font color=#e6e6e6>[Power]&lt;/font> button and the &lt;font color=#e6e6e6>[Volume+]&lt;/font> button simultaneously, and hold them until you see the &lt;img src=''> icon."</Data></string>
+    <string name="forget_password_dialog_content_two">Follow these steps to erase data:</string>
+    <string name="forget_password_dialog_title">Reset your password</string>
     <string name="forget_pattern"><u>שכחת את התבנית?</u></string>
     <string name="forget_privacy_password_setting">הוספת חשבון Mi</string>
     <string name="forget_privacy_password_summary">השתמש בחשבון Mi לאיפוס הסיסמה שלך</string>
@@ -871,18 +881,18 @@ This feature can be turned off in [Settings]"</string>
     <string name="got_it">הבנתי</string>
     <string name="gsm_to_wifi_connect_type_title">GSM לרשת אלחוטית</string>
     <string name="gxzw_add_fingerprint_continue">המשך</string>
-    <string name="gxzw_add_fingerprint_edge_message">Move your finger to record the edges of your fingerprint</string>
-    <string name="gxzw_add_fingerprint_edge_title">Adjust your grip</string>
-    <string name="gxzw_add_fingerprint_finish">Done!</string>
-    <string name="gxzw_add_fingerprint_indicate">Press this area lightly</string>
+    <string name="gxzw_add_fingerprint_edge_message">הזז את האצבע כדי לקלוט את הקצוות של טביעת האצבע שלך</string>
+    <string name="gxzw_add_fingerprint_edge_title">התאם את האחיזה שלך</string>
+    <string name="gxzw_add_fingerprint_finish">בוצע</string>
+    <string name="gxzw_add_fingerprint_indicate">לחץ קלות על האזור</string>
     <string name="gxzw_add_fingerprint_know">הבנתי</string>
-    <string name="gxzw_add_fingerprint_message">Make sure both your finger and the screen are clean</string>
+    <string name="gxzw_add_fingerprint_message">ודא שהאצבע והמסך שלך נקיים</string>
     <string name="gxzw_add_fingerprint_move_indicate">הזז מעט את האצבע</string>
-    <string name="gxzw_add_fingerprint_move_message">Move your finger to record all parts of your fingerprint</string>
-    <string name="gxzw_add_fingerprint_move_title">Move your finger a little</string>
-    <string name="gxzw_add_fingerprint_put_finger_message">Press the screen and lift your finger after you feel vibration. Repeat several times.</string>
-    <string name="gxzw_add_fingerprint_put_finger_title">Press and lift after vibration</string>
-    <string name="gxzw_add_fingerprint_title">Add your fingerprint</string>
+    <string name="gxzw_add_fingerprint_move_message">הזז את האצבע כדי לקלוט את כל החלקים של טביעת האצבע שלך</string>
+    <string name="gxzw_add_fingerprint_move_title">הזז מעט את האצבע שלך</string>
+    <string name="gxzw_add_fingerprint_put_finger_message">לחץ על המסך, והרם את האצבע שלך לאחר שתרגיש רטט. חזור על הפעולה מספר פעמים.</string>
+    <string name="gxzw_add_fingerprint_put_finger_title">לחץ, והרם לאחר שתרגיש רטט</string>
+    <string name="gxzw_add_fingerprint_title">הוסף את טביעת האצבע</string>
     <string name="handy_mode">מצב יד אחת</string>
     <string name="handy_mode_enable">מצב יד אחת</string>
     <string name="handy_mode_size">גודל המסך</string>
@@ -935,7 +945,7 @@ This feature can be turned off in [Settings]"</string>
     <string name="install_preinstall_app">טוען יישומים…</string>
     <string name="install_whole_rom">הורד ROM</string>
     <string name="instruction_privacy_password">הסיסמה הזו מגינה על הפריטים הבאים</string>
-    <string name="instruction_title">Important safety information</string>
+    <string name="instruction_title">מידע בטיחות חשוב</string>
     <string name="item_system_app">יישומי מערכת</string>
     <string name="keep_legacy_fingerprint">שמירה</string>
     <string name="keep_screen_on">הישאר עירני</string>
@@ -1075,7 +1085,7 @@ This feature can be turned off in [Settings]"</string>
     <string name="lockpassword_choose_your_pin_header">הגדר את קוד ה-PIN שלך</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"הגדר PIN 
  עבור 'שטח שני'"</string>
-    <string name="lockpassword_choose_your_pin_title">Enter 4-16 digits</string>
+    <string name="lockpassword_choose_your_pin_title">הזן 4 עד 16 ספרות</string>
     <string name="lockpassword_confirm_for_second_user">"אשר את סיסמת ה'שטח שני' שלך"</string>
     <string name="lockpassword_confirm_passwords_dont_match">הסיסמאות אינן תואמות</string>
     <string name="lockpassword_confirm_pins_dont_match">קודי ה-PIN אינם תואמים</string>
@@ -1205,6 +1215,9 @@ This feature can be turned off in [Settings]"</string>
     <string name="miui_lab_features">מאפייני מעבדת MIUI</string>
     <string name="miui_lab_gallery_search_desc">חיפוש תמונות משופר</string>
     <string name="miui_lab_gallery_search_title">"מצא תמונות ב'גלריה'"</string>
+    <string name="miui_lab_install_drive_mode_error">לא ניתן היה להתקין. נסה שוב.</string>
+    <string name="miui_lab_install_drive_mode_summary">מצב רכב הוא יישום מערכת. אין צורך בחיבור לאינטרנט כדי להתקין אותו.</string>
+    <string name="miui_lab_install_drive_mode_title">"התקן את 'מצב רכב'"</string>
     <string name="miui_lab_settings">מעבדת MIUI</string>
     <string name="miui_lab_slogan">ללמוד. לחקור. לגלות.</string>
     <string name="miui_lab_super_resolution_desc">הופכת את התמונות לחדות יותר</string>
@@ -1323,8 +1336,6 @@ This feature can be turned off in [Settings]"</string>
     <string name="navigation_guide_app_title">פעולת יישום טריגר</string>
     <string name="navigation_guide_appswitch_summary">העבר אצבע שמאלה או ימינה מקצה המסך והחזק אותה במשך זמן מה</string>
     <string name="navigation_guide_appswitch_title">עבור לאפליקציה הקודמת</string>
-    <string name="navigation_guide_back_anim_summary">הצג הנפשות בעת החלקה מקצה המסך</string>
-    <string name="navigation_guide_back_anim_title">"הנפשת מחוות 'חזרה'"</string>
     <string name="navigation_guide_back_summary">החלקה שמאלה או ימינה מקצה המסך</string>
     <string name="navigation_guide_back_title">חזרה</string>
     <string name="navigation_guide_dialog_dont_show_again">אל תציג שוב</string>
@@ -1398,7 +1409,7 @@ This feature can be turned off in [Settings]"</string>
     <string name="notification_reboot_summary_hm">לחץ על מנת לאתחל את מכשירך.</string>
     <string name="notification_reboot_title">אתחל את המכשיר להחלת העדכון</string>
     <string name="notification_reboot_title_hm">אתחל את המכשיר להחלת העדכון</string>
-    <string name="notification_sound_title">צלילים עבור מסרים והודעות</string>
+    <string name="notification_sound_title">צליל ברירת מחדל להתראות</string>
     <string name="notification_update_new_version">קיים עדכון זמין</string>
     <string name="notification_update_now">עדכן כעת</string>
     <string name="now">אתחל כעת</string>
@@ -1514,6 +1525,7 @@ This feature can be turned off in [Settings]"</string>
     <string name="pick_up_gesture_wakeup_title">הרם על מנת להעיר</string>
     <string name="picture_color_mode">מצב צבע תמונה</string>
     <string name="picture_color_mode_desc">השתמש ב-sRGB</string>
+    <string name="play_pause_description">לחצן נגן/השהה</string>
     <string name="please_type_passphrase">סיסמה</string>
     <string name="pointer_location">מיקום המצביע</string>
     <string name="pointer_location_summary">הצג קואורדינטות מגע</string>
@@ -1649,6 +1661,7 @@ This feature can be turned off in [Settings]"</string>
     <string name="private_sms_need_to_unlock">דרושה סיסמה:</string>
     <string name="private_sms_recording_intro_header">צייר תבנית לפתיחה:</string>
     <string name="private_sms_reset_by_account">על מנת לאפס את סיסמתך, היכנס לחשבון Mi שלך</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">פעיל</string>
     <string name="provision_back">הקודם</string>
     <string name="provision_next">הבא</string>
@@ -1702,7 +1715,7 @@ This feature can be turned off in [Settings]"</string>
     <string name="retail_demo_reset_next">הבא</string>
     <string name="retail_demo_reset_title">דרושה סיסמה</string>
     <string name="retry">נסה שוב</string>
-    <string name="rgb_manage_facerecoginition_text">Manage 2D face data</string>
+    <string name="rgb_manage_facerecoginition_text">ניהול נתוני פנים דו ממדיים</string>
     <string name="ringtone_slot_setting_title">הגדרות SIM יחיד</string>
     <string name="ringtone_uniform_setting_title">הגדרות SIM כפול</string>
     <string name="root">הרשאות Root</string>
@@ -1754,7 +1767,7 @@ This feature can be turned off in [Settings]"</string>
     <string name="screen_paper_mode_off_apps_title">"אל תשתמש ב'מצב קריאה'"</string>
     <string name="screen_paper_mode_range_title">הגדרות</string>
     <string name="screen_paper_mode_set_apps_title">"יישומים ב'מצב קריאה'"</string>
-    <string name="screen_paper_mode_summary">Reading mode makes the colors of your display warmer allowing your eyes to relax.</string>
+    <string name="screen_paper_mode_summary">מצב קריאה הופך את הצבעים שבמסך שלך לחמים יותר ומאפשר לעיניים שלך להירגע.</string>
     <string name="screen_paper_mode_time_summary">"תזמן את ההפעלה והכיבוי של 'מצב קריאה'"</string>
     <string name="screen_paper_mode_time_title">תזמון</string>
     <string name="screen_paper_mode_title">מצב קריאה</string>
@@ -1974,9 +1987,9 @@ This feature can be turned off in [Settings]"</string>
     <string name="second_space">שטח שני</string>
     <string name="secondspace_category">שטח שני</string>
     <string name="secondspace_delete_space_title">"מחיקת 'שטח שני'"</string>
-    <string name="secspace_fod_finger_tips">"Couldn't verify. Try again."</string>
-    <string name="secspace_fod_finger_title">Verify your fingerprint</string>
-    <string name="secspace_fod_use_password">Enter password</string>
+    <string name="secspace_fod_finger_tips">האימות נכשל. נסה שוב.</string>
+    <string name="secspace_fod_finger_title">אמת את טביעת האצבע שלך</string>
+    <string name="secspace_fod_use_password">הזן סיסמה</string>
     <string name="secure_keyguard_business_title">הגדר נעילת מסך</string>
     <string name="security_encryption_alert_dialog_info_first">הגדר סיסמה עבור מסך הנעילה על מנת להפעיל תכונה זו. יהיה עליך להזין את סיסמת מסך הנעילה לאחר כל אתחול על מנת לפענח את הצפנת המכשיר ולהשתמש בו באופן תקין.</string>
     <string name="security_encryption_alert_dialog_title_first">הגדר שיטה לנעילת המסך תחילה</string>
@@ -1985,6 +1998,7 @@ This feature can be turned off in [Settings]"</string>
     <string name="security_encryption_attention_3">יהיה עליך להגדיר סיסמה חדשה עבור מסך הנעילה.</string>
     <string name="security_encryption_attention_4">הקפד לזכור את סיסמת מסך הנעילה שלך, אחרת יהיה עליך לבצע איפוס מלא ולמחוק את כל הנתונים במכשיר זה.</string>
     <string name="security_encryption_attention_info">באפשרותך להצפין חשבונות, הגדרות, יישומים שהורדו ונתונים שלהם, מדיה וקבצים אחרים.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">חשוב</string>
     <string name="security_encryption_close_dialog_info">בחירה שלא להצפין את המכשיר באמצעות סיסמת מסך הנעילה עשויה לגרום לשירותי Google מסויימים להיות לא זמינים.</string>
     <string name="security_encryption_close_dialog_title">חזור אל הגנה באמצעות סיסמה כברירת מחדל</string>
@@ -1994,6 +2008,8 @@ This feature can be turned off in [Settings]"</string>
     <string name="security_encryption_progress_dialog_open">מצפין…</string>
     <string name="security_encryption_rejected_via_home_manager">תכונה זו אינה נתמכת בגרסת הדמו.</string>
     <string name="security_encryption_title">הצפן את המכשיר באמצעות סיסמת מסך הנעילה</string>
+    <string name="security_input">Security input</string>
+    <string name="security_input_hint">Using security keyboard enter password</string>
     <string name="security_keyguard_category_name">מסך נעילה</string>
     <string name="security_password_category_name">נעילת מסך</string>
     <string name="security_privacy_settings_title">פרטיות</string>
@@ -2073,7 +2089,7 @@ This feature can be turned off in [Settings]"</string>
     <string name="sim_lock_settings_category">הגדר נעילת SIM</string>
     <string name="sim_lock_settings_title">נעילת SIM</string>
     <string name="sim_management_title">כרטיסי SIM &amp; רשתות סלולריות</string>
-    <string name="sim_management_title_singlesim">SIM card &amp; mobile networks</string>
+    <string name="sim_management_title_singlesim">כרטיסי SIM &amp; רשתות סלולריות</string>
     <string name="sim_radio_off">כבוי</string>
     <string name="sim_status_title">מצב SIM</string>
     <string name="simulate_color_space">צור הדמיה של מרחב צבעים</string>
@@ -2084,6 +2100,7 @@ This feature can be turned off in [Settings]"</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">"התראות, לחצני בקרת נגן המוסיקה וקיצורי דרך לא יוצגו ב'מסך הנעילה'."</string>
     <string name="skip_step">דלג</string>
@@ -2098,8 +2115,8 @@ This feature can be turned off in [Settings]"</string>
     <string name="sms_received_sound_title">קבלת הודעה</string>
     <string name="sound_category_call_ringtone_vibrate_title">צלצולים &amp; צלילי התראות</string>
     <string name="sound_settings">צלילים</string>
-    <string name="sound_stereo_mode_summary">Only available when you play sound with speaker</string>
-    <string name="sound_stereo_mode_title">Stereo sound</string>
+    <string name="sound_stereo_mode_summary">עובד רק עם הרמקול</string>
+    <string name="sound_stereo_mode_title">צליל סטריאו</string>
     <string name="sound_vibrate_settings">צלילים &amp; רטט</string>
     <string name="spellchecker_switch_title">הפעלת בודק האיות</string>
     <string name="split_screen">"פתיחת 'מסך מפוצל'"</string>
@@ -2126,6 +2143,7 @@ This feature can be turned off in [Settings]"</string>
     <string name="status_bar_settings_all_app_display_loading">רק רגע…</string>
     <string name="status_bar_settings_app_notification_preferences">הגדרות יישומים</string>
     <string name="status_bar_settings_basic_settings">הגדרות בסיסיות</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">ערוך שם ספק רשת</string>
     <string name="status_bar_settings_custom_wifi_name">ערוך שם רשת אלחוטית</string>
     <string name="status_bar_settings_enable_notification">הצג התראות</string>
@@ -2136,18 +2154,18 @@ This feature can be turned off in [Settings]"</string>
     <string name="status_bar_settings_notification_led">נורית התראה</string>
     <string name="status_bar_settings_notification_priority">עדיפות</string>
     <string name="status_bar_settings_notification_priority_summary">הצג התראות בראש הרשימה</string>
-    <string name="status_bar_settings_notification_shade_shortcut">Notification shade shortcut</string>
+    <string name="status_bar_settings_notification_shade_shortcut">"קיצור דרך ב'לוח ההתראות'"</string>
     <string name="status_bar_settings_notification_sound">צליל</string>
     <string name="status_bar_settings_notification_vibrate">רטט</string>
     <string name="status_bar_settings_show_carrier">הצג שם ספק רשת</string>
     <string name="status_bar_settings_show_carrier_summary">שם ספק הרשת יוצג בשורת המצב ובמסך הנעילה כאשר תכונה זו מושבתת</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">הצג את ספק הרשת כשהמכשיר נעול</string>
     <string name="status_bar_settings_show_floating_notification">התראות צפות</string>
-    <string name="status_bar_settings_show_floating_notification_summary">Allow important notifications at top of the screen</string>
+    <string name="status_bar_settings_show_floating_notification_summary">אפשר הצגת התראות חשובות בחלק העליון של המסך</string>
     <string name="status_bar_settings_show_flow_info">הצג שימוש בנתונים</string>
     <string name="status_bar_settings_show_home_message">מונה התראות על גבי אייקון יישום</string>
     <string name="status_bar_settings_show_keyguard_notification">התראות מסך נעילה</string>
-    <string name="status_bar_settings_show_keyguard_notification_summary">Allow important notifications on the Lock screen</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">אפשר הצגת התראות חשובות במסך הנעילה</string>
     <string name="status_bar_settings_show_network_speed">הצג מהירות חיבור</string>
     <string name="status_bar_settings_show_notification_icon">הצג אייקונים של התראות</string>
     <string name="status_bar_settings_show_wifi_name">הצג שם רשת אלחוטית</string>
@@ -2178,9 +2196,9 @@ This feature can be turned off in [Settings]"</string>
     <string name="strict_mode">"'מצב קפדני' מאופשר"</string>
     <string name="strict_mode_summary">הבזק את המסך כאשר יישומים מבצעים פעולות בתהליך הראשי</string>
     <string name="structure_add_facerecoginition_text">הוסף נתוני פנים תלת-ממדיים</string>
-    <string name="structure_face_enroll_not_able_low_electric_itle">"Can't use this feature due to low battery"</string>
-    <string name="structure_face_enroll_not_able_low_electric_msg">Battery must be at least 5% charged to start recording.</string>
-    <string name="structure_manage_facerecoginition_text">Manage 3D face data</string>
+    <string name="structure_face_enroll_not_able_low_electric_itle">לא ניתן להשתמש בתכונה זו עקב סוללה חלשה</string>
+    <string name="structure_face_enroll_not_able_low_electric_msg">כדי להתחיל בהקלטה, רמת הטעינה של הסוללה חייבת להיות לפחות 5%.</string>
+    <string name="structure_manage_facerecoginition_text">ניהול נתוני פנים תלת ממדיים</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">יישומים אלה עובדים בצורה הטובה ביותר במצב מסך מלא</string>
     <string name="suggestion_for_phone_recycled">הוסף מספר טלפון שונה</string>
     <string name="super_resolution_access_title">אפליקציות נגישות</string>
@@ -2250,7 +2268,8 @@ This feature can be turned off in [Settings]"</string>
     <string name="toast_lockscreen_glogin_empty_password">הזן סיסמה</string>
     <string name="toast_need_login">היכנס לחשבון Mi שלך</string>
     <string name="total">נא לא להפריע</string>
-    <string name="total_info">השתק את כל הצלילים%1$sלמעט שעון מעורר</string>
+    <string name="total_info">השתקת צלילים וכיבוי הרטט - למעט עבור השעונים המעוררים</string>
+    <string name="total_info_no_vibrator">השתקת כל הצלילים - למעט שעונים מעוררים</string>
     <string name="total_size">%s סה\"כ</string>
     <string name="touch_assistant">כדור מהיר</string>
     <string name="touch_sensitive_summary">הפוך את המסך לרגיש במיוחד ללחץ</string>
@@ -2473,21 +2492,21 @@ This feature can be turned off in [Settings]"</string>
     <string name="wallpaper_live">טפט חי</string>
     <string name="wallpaper_lockscreen">מסך הנעילה</string>
     <string name="wapi_auto_sel_cert">בחר באופן אוטומטי</string>
-    <string name="wapi_auto_sel_cert_fail">Can not select certificate automatically. Please select a certificate from the list, and then try to connect.</string>
-    <string name="wapi_cert_is_not_selected">Please select the certificate first</string>
-    <string name="wapi_cert_manage_summary">Add or delete the WAPI certificate</string>
+    <string name="wapi_auto_sel_cert_fail">לא ניתן לבחור תעודות באופן אוטומטי. בחר תעודה מהרשימה ולאחר מכן נסה להתחבר.</string>
+    <string name="wapi_cert_is_not_selected">בחר קודם את התעודה</string>
+    <string name="wapi_cert_manage_summary">הוסף או מחק תעודת WAPI</string>
     <string name="wapi_cert_manage_title">ניהול תעודות WAPI</string>
-    <string name="wapi_cert_select">WAPI certificate</string>
-    <string name="wapi_no">no</string>
-    <string name="wapi_no_vaild_cert">No available certificates, install it now?</string>
-    <string name="wapi_password_empty">Please input the password</string>
-    <string name="wapi_password_hex_format_invalid">Invalid hexadecimal characters</string>
-    <string name="wapi_password_hex_length_invalid">The count of hexadecimal characters must be even number</string>
-    <string name="wapi_password_length_invalid">The password must be: 8-64 characters</string>
-    <string name="wapi_psk_type">Password type</string>
+    <string name="wapi_cert_select">תעודות WAPI</string>
+    <string name="wapi_no">לא</string>
+    <string name="wapi_no_vaild_cert">נראה שהתעודות הדרושות אינן מותקנות. להתקין עכשיו?</string>
+    <string name="wapi_password_empty">הזן סיסמה</string>
+    <string name="wapi_password_hex_format_invalid">תבנית סיסמה לא חוקית</string>
+    <string name="wapi_password_hex_length_invalid">כמות התווים ההקסדצימליים חייבת להיות זוגית</string>
+    <string name="wapi_password_length_invalid">הסיסמה צריכה להיות באורך שבין 8 ל-64 תווים</string>
+    <string name="wapi_psk_type">סוג סיסמה</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
-    <string name="wapi_psk_type_hex">Hexadecimal</string>
-    <string name="wapi_yes">yes</string>
+    <string name="wapi_psk_type_hex">הקסדצימלי</string>
+    <string name="wapi_yes">כן</string>
     <string name="warm_color">חם</string>
     <string name="welcome">ברוכים הבאים</string>
     <string name="wfd_available_devices">התקנים זמינים</string>
@@ -2620,15 +2639,17 @@ This feature can be turned off in [Settings]"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_wapi_cert">WAPI-Cert</string>
-    <string name="wifi_security_wapi_psk">WAPI-PSK</string>
+    <string name="wifi_security_wapi_cert">WAPI CERT</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
@@ -2775,7 +2796,6 @@ This feature can be turned off in [Settings]"</string>
     <string name="audio_profile_bes_surround_summary">סראונד</string>
     <string name="audio_profile_bes_surround_title">BesSurround</string>
     <string name="bg_power_saving_title">חיסכון חכם בחשמל בהמתנה</string>
-    <string name="cancel_description">Cancel</string>
     <string name="card_emulation_settings_category_title">אלמנט אבטחה זמין</string>
     <string name="card_emulation_settings_no_element_found">אין אלמנט אבטחה זמין</string>
     <string name="card_emulation_settings_off_text">לצפייה באלמנטי אבטחה זמינים, הפעל אמולציית כרטיס.</string>
@@ -2786,7 +2806,6 @@ This feature can be turned off in [Settings]"</string>
     <string name="card_emulation_turning_on_text">מפעיל אמולציית כרטיס...</string>
     <string name="card_emulation_two_sim_not_supported_message">SIM1, ‏SIM2 לא תומכים בפונקציית האמולציה של כרטיס ה-NFC.</string>
     <string name="clear_motion_summary">משפר זרימת הווידאו</string>
-    <string name="confirm_description">Confirm</string>
     <string name="custom_build_version">גרסה שנבנתה בהתאמה אישית</string>
     <string name="data_saving_title">שמירת נתונים</string>
     <string name="data_usage_menu_cellular_data_control">שליטה בדאטה סלולר</string>
@@ -2865,7 +2884,6 @@ This feature can be turned off in [Settings]"</string>
     <string name="status_imei_slot2">IMEI(חריץ2)‎</string>
     <string name="tethering_apn_settings_summary">מגדיר את תצורת APN עבור שיתוף אינטרנט</string>
     <string name="tethering_apn_settings_title">הגדרות APN</string>
-    <string name="total_info_sub">והשבת רטט</string>
     <string name="two_cdma_dialog_msg">חריץ 1 וחריץ 2 לא תומכים בו-זמנית ב-CDMA.</string>
     <string name="usb_bicr_summary">הצג כונן תקליטורים וירטואלי המכיל תוכנות שימושיות.</string>
     <string name="usb_ums_summary">מומלץ ל-XP. מאפשר להעביר קבצים בין המחשב להתקן ה-USB ‏Android.</string>

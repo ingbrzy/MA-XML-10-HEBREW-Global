@@ -84,7 +84,7 @@
     <string name="sum_loading_settings">טוען הגדרות…</string>
     <string name="sum_hide_caller_id">מספר מוסתר בשיחות יוצאות</string>
     <string name="sum_show_caller_id">מספר מוצג בשיחות יוצאות</string>
-    <string name="sum_default_caller_id">Use default carrier settings to display my number in outgoing calls</string>
+    <string name="sum_default_caller_id">השתמש בהגדרות ברירת המחדל של ספק הרשת כדי להציג את המספר שלי בשיחות יוצאות</string>
     <string name="labelCW">שיחה ממתינה</string>
     <string name="sum_cw_enabled">במהלך שיחה, הודע לי על שיחות נכנסות</string>
     <string name="sum_cw_disabled">במהלך שיחה, הודע לי על שיחות נכנסות</string>
@@ -99,6 +99,7 @@
     <string name="sum_cfu_disabled">מושבתת</string>
     <string name="set_time_period">הגדר פרק הזמן</string>
     <string name="all_day">" כל היום "</string>
+    <string name="time_interval_char">:</string>
     <string name="time_start">" מ: "</string>
     <string name="time_start_hour">time start hour</string>
     <string name="time_start_minute">time start minute</string>
@@ -112,12 +113,12 @@
     <string name="messageCFB">מספר להפניה כשתפוס</string>
     <string name="sum_cfb_enabled">מפנה אל {0}</string>
     <string name="sum_cfb_disabled">כבוי</string>
-    <string name="disable_cfb_forbidden">"Your carrier doesn't support turning off call forwarding when your phone is busy."</string>
+    <string name="disable_cfb_forbidden">ספק הרשת שלך אינו תומך בכיבוי העברת שיחות כאשר הטלפון תפוס.</string>
     <string name="labelCFNRy">כאשר אין מענה</string>
     <string name="messageCFNRy">מספר להפניה כשאין מענה</string>
     <string name="sum_cfnry_enabled">מפנה אל {0}</string>
     <string name="sum_cfnry_disabled">כבוי</string>
-    <string name="disable_cfnry_forbidden">"Your carrier doesn't support turning off call forwarding when your phone doesn't answer."</string>
+    <string name="disable_cfnry_forbidden">ספק הרשת שלך אינו תומך בכיבוי הפניית שיחות כשאין מענה בטלפון שלך.</string>
     <string name="labelCFNRc">כאשר אינך זמין</string>
     <string name="messageCFNRc">מספר לחיוג כאשר אינך זמין</string>
     <string name="sum_cfnrc_enabled">מפנה אל {0}</string>
@@ -282,9 +283,9 @@
     <string name="enable_disable_atr">דוחות תנועה מהאזור</string>
     <string name="atr_enable">פונקציית דוחות תנועה מהאזור מופעלת</string>
     <string name="atr_disable">פונקציית דוחות תנועה מהאזור מושבתת</string>
-    <string name="enable_disable_lafs">Local airport flight schedules</string>
-    <string name="lafs_enable">Local airport flight schedules are on</string>
-    <string name="lafs_disable">Local airport flight schedules are off</string>
+    <string name="enable_disable_lafs">לוחות זמנים של נמלי תעופה מקומיים</string>
+    <string name="lafs_enable">"'לוחות זמנים של נמלי תעופה מקומיים' מופעל"</string>
+    <string name="lafs_disable">"'לוחות זמנים של נמלי תעופה מקומיים' כבוי"</string>
     <string name="enable_disable_restaurants">מסעדות</string>
     <string name="restaurants_enable">פונקציית המסעדות מופעלת</string>
     <string name="restaurants_disable">פונקציית המסעדות מושבתת</string>
@@ -414,7 +415,7 @@
     <string name="card_title_incoming_call">שיחה נכנסת</string>
     <string name="card_title_call_ended">השיחה הסתיימה</string>
     <string name="card_title_on_hold">בהחזק</string>
-    <string name="card_title_hanging_up">"Hanging up "</string>
+    <string name="card_title_hanging_up">"מנתק "</string>
     <string name="card_title_in_call">בשיחה</string>
     <string name="card_title_unconditionalCF">הפניית שיחות בלתי מותנית מופעלת</string>
     <string name="card_title_conditionalCF">הפניית שיחות מותנית מופעלת</string>
@@ -428,7 +429,7 @@
     <string name="card_title_MTcall_forwarding">מתבצעת הפניית שיחה נכנסת</string>
     <string name="card_title_forwarded_MTcall">שיחה נכנסת שהופנתה</string>
     <string name="card_title_callonhold">העבר להמתנה</string>
-    <string name="card_title_callretrieved">Call retrieved</string>
+    <string name="card_title_callretrieved">השיחה שוחזרה</string>
     <string name="card_title_multipartycall">שיחה רבת משתתפים</string>
     <string name="card_title_callonhold_released">השיחה שוחררה</string>
     <string name="card_title_forwardcheckreceived">התקבל אימות הפנייה</string>
@@ -553,6 +554,10 @@
     <string name="accessibility_settings_activity_title">נגישות</string>
     <string name="status_hint_label_incoming_wifi_call">שיחת רשת אלחוטית מ:</string>
     <string name="status_hint_label_wifi_call">שיחת רשת אלחוטית</string>
+    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
+    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
+    <string name="tty_mode_key">button_tty_mode_key</string>
+    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="emergency_action_launch_hint">לחץ שוב לפתיחה</string>
     <string name="message_decode_error">אירעה שגיאה בעת פענוח ההודעה.</string>
     <string name="callFailed_cdma_activation">כרטיס SIM הפעיל את השירות שלך, ועידכן את יכולות הנדידה של הטלפון שלך.</string>
@@ -599,6 +604,38 @@
 פנה לספק התקשורת שלך."</string>
     <string name="search_app_name">"טלפון;הקלטת שיחות;הפנית שיחות;הפניה;שיחה ממתינה;רשימת החסומים;קידומת מדינה;קוד אזור;אזור חיוג;קידומות מדינה;קודי אזורים;הקלט שיחות;הקלט שיחה;לוח מקשים;שיחה;שיחות;טלפוניה;VoIP;VoLTE;שיחה שלא נענתה;שיחות שלא נענו;SIP;T9;טלפונית IP;'מספרי חיוג קבועים'"</string>
     <string name="search_antispam_setting">רשימת החסומים</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_autoip_phone">@string/autoip_phone</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_sip_settings">@string/sip_settings</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
     <string name="path_app_name">יישומי מערכתלפון</string>
     <string name="path_call_record_setting">יישומי מערכתלפוןקלטת שיחה</string>
     <string name="path_call_forwarding_settings">יישומי מערכתלפוןגדרות הפנית שיחה</string>
@@ -1016,6 +1053,8 @@
     <string name="vice_slot_volte_data_switch_title">השתמש בנתונים סלולריים במהלך שיחות VoLTE באמצעות ה-SIM המשני</string>
     <string name="vice_slot_volte_data_switch_summary">במהלך שיחות VoLTE, המכשיר יתחבר לרשת נתונים סלולרית באמצעות ה-SIM המשני</string>
     <string name="vice_slot_volte_data_switch_prompt">מכשירך יתחבר לרשת נתונים סלולרית באמצעות ה-SIM המשני בעת ביצוע שיחות VoLTE. הדבר עשוי לגרום לחיובים נוספים בגין שימוש בנתונים. פנה לספק הרשת שלך על מנת לקבל מידע אודות תכנית הנתונים שלך.</string>
+    <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s only supports 4G. To make sure your SIM card works normally, dual 4G was turned on.</string>
+    <string name="change_data_sim_4g_only_prompt">"SIM %1$s only supports 4G. When SIM %2$s isn't your default SIM for mobile data, SIM card might not work normally. Switch now?"</string>
     <string name="call_settings_primary_user_only">הגדרות השיחה ניתנות לשינוי על ידי המשתמש הראשי בלבד.</string>
     <string name="roaming_notification_title">נראה כי נדידת הנתונים מופעלת</string>
     <string name="roaming_notification_content">באפשרותך להוסיף קידומות מדינה באופן אוטומטי ובכך להפוך את החיוג לנוח יותר.</string>
@@ -1034,7 +1073,8 @@
     <string name="sim_roaming_settings_title">נדידת Mi</string>
     <string name="sim_roaming_settings_summary">התחבר לרשתות נתונים סלולריות בעת נדידה</string>
     <string name="lable_network_not_supported">הרשת אינה נתמכת</string>
-    <string name="change_data_preference_4g_only_prompt">נראה כי ברשותך כרטיס SIM התומך ב-4G בלבד. להגדיר אותו כברירת המחדל עבור שימוש בנתונים סלולריים?</string>
+    <string name="change_data_preference_4g_only_prompt">Looks like you have a 4G only SIM card. To make sure it works normally, set it as default for mobile data. Set now?</string>
+    <string name="opened_dual_4g_confirm_prompt">Looks like you have a 4G only SIM card. Dual 4G was turned on automatically.</string>
     <string name="dialpad_zero">0</string>
     <string name="dialpad_one">1</string>
     <string name="dialpad_two">2</string>
@@ -1089,27 +1129,27 @@
     <string name="voice_service_switch_title">שימוש בשירותי שיחה VoLTE</string>
     <string name="voice_service_switch_summary">הפעל כדי לקבל אפשרות להשתמש בפונקציה של שיחות VoLTE ברשתות VoLTE</string>
     <string name="voice_service_warning_dialog_title">שיחות VoLTE</string>
-    <string name="voice_service_warning_dialog_body">"This tablet supports VoLTE calls in 4G networks. Make sure the networks that your device is connected to support this functionality. VoLTE services are provided by your carrier. Contact your local carrier to learn whether VoLTE is supported in your area.
+    <string name="voice_service_warning_dialog_body">"טאבלט זה תומך בשיחות VoLTE ברשתות 4G. ודא שהרשתות שהמכשיר שלך מחובר אליהן תומכות בתפקודיות זו. שירותי VoLTE ניתנים על ידי ספק הרשת שלך. פנה לספק הסלולר המקומי שלך כדי לבדוק האם יש תמיכה ב-VoLTE באזור שלך.
 
-If you see _ in your status bar, VoLTE calls aren't available. If you can't make or receive calls, or your calls are interrupted, make sure your network is compatible with VoLTE.
+אם מופיע קו תחתון בשורת המצב, אז שיחות VoLTE אינן זמינות. אם אינך יכול לבצע או לקבל שיחות, או אם קיימות הפרעות בשיחות, ודא שהרשת שלך תומכת ב-VoLTE.
 
-This tablet doesn't have an earpiece. You can switch to hands-free mode or use earphones to make calls."</string>
+ לטאבלט זה אין אפרכסת שמע. כדי לבצע שיחות תוכל לעבור למצב רמקול או להשתמש באוזניות."</string>
     <string name="voice_service_warning_dialog_cancel">ביטול</string>
     <string name="voice_service_warning_dialog_ok_timer">הבנתי (%d)</string>
     <string name="voice_service_warning_dialog_ok">הבנתי</string>
     <string name="voice_service_cannot_call_notification_title">לא ניתן לבצע שיחות ברשת הקיימת</string>
     <string name="voice_service_cannot_call_notification_content">ייתכן שתיתקל בבעיות קישוריות כשתנסה לבצע שיחות.</string>
-    <string name="wificall_switch_title">Make calls using Wi-Fi</string>
-    <string name="wificall_switch_summary">Your device will switch between Wi-Fi and VoLTE when connection is poor</string>
+    <string name="wificall_switch_title">בצע שיחות באמצעות Wi-Fi</string>
+    <string name="wificall_switch_summary">אם איכות החיבור תהיה גרועה, המכשיר יעבור בין ה-Wi-Fi וה-VoLTE</string>
     <string name="preferred_wificall_title">העדפות רשת</string>
-    <string name="wfcmode_wifi_only">Wi-Fi only</string>
-    <string name="wfcmode_wifi_preferred">Prefer Wi-Fi</string>
-    <string name="wfcmode_mobile_preferred">Prefer mobile networks</string>
-    <string name="wifi_call_setting">Wi-Fi calls</string>
+    <string name="wfcmode_wifi_only">Wi-Fi בלבד</string>
+    <string name="wfcmode_wifi_preferred">העדף Wi-Fi</string>
+    <string name="wfcmode_mobile_preferred">העדף רשתות סלולריות</string>
+    <string name="wifi_call_setting">שיחות Wi-Fi</string>
     <string name="cloud_sim_enabled_preferred_network_summary">לא ניתן לשנות את העדפות הרשת בזמן שימוש בנדידת Mi</string>
     <string name="cloud_sim_enabled_dual_4g_summary">לא ניתן לכבות את המאפיין של 4G כפול בזמן שימוש בנדידת Mi</string>
     <string name="dc_alert_dialog_title">אזהרת ניצול נתונים</string>
     <string name="dc_alert_dialog_message">אפליקציות מסוימות זקוקות לחיבור לאינטרנט באמצעות לגישה סלולרית. תוכל לפנות לספק התקשורת שלך כדי לברר אילו %s זמינות עבורך.</string>
     <string name="do_not_show_again">לא להציג שוב</string>
-    <string name="data_plan">תכניות גלישה סלולרית</string>
+    <string name="data_plan">תוכניות נתונים סלולריים</string>
 </resources>

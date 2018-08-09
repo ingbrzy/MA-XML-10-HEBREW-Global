@@ -55,16 +55,16 @@
         <item quantity="many">על קוד ה-PIN להיות באורך %d ספרות</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">You can enter up to %d digits</item>
-        <item quantity="one">You can enter up to %d digit</item>
-        <item quantity="two">You can enter up to %d digits</item>
-        <item quantity="many">You can enter up to %d digits</item>
+        <item quantity="other">ניתן להזין עד %d ספרות</item>
+        <item quantity="one">ניתן להזין ספרה אחת בלבד (%d)</item>
+        <item quantity="two">ניתן להזין עד %d ספרות</item>
+        <item quantity="many">ניתן להזין עד %d ספרות</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">Enter at least %d digits</item>
-        <item quantity="one">Enter at least %d digit</item>
-        <item quantity="two">Enter at least %d digits</item>
-        <item quantity="many">Enter at least %d digits</item>
+        <item quantity="other">הזן את %d הספרות האחרונות</item>
+        <item quantity="one">הזן את הספרה האחרונה (%d)</item>
+        <item quantity="two">הזן את %d הספרות האחרונות</item>
+        <item quantity="many">הזן את %d הספרות האחרונות</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">חבר לפחות %d נקודות. נסה שוב.</item>
@@ -109,10 +109,10 @@
         <item quantity="many">הינך נמצא %1$d צעדים לפני דיווח על שגיאה.</item>
     </plurals>
     <plurals name="show_reset_countdown">
-        <item quantity="other">Complete %1$d steps to perform a factory reset</item>
-        <item quantity="one">Complete %1$d step to perform a factory reset</item>
-        <item quantity="two">Complete %1$d steps to perform a factory reset</item>
-        <item quantity="many">Complete %1$d steps to perform a factory reset</item>
+        <item quantity="other">השלם %1$d צעדים כדי לבצע איפוס להגדרות היצרן</item>
+        <item quantity="one">השלם צעד אחד (%1$d) כדי לבצע איפוס להגדרות היצרן</item>
+        <item quantity="two">השלם %1$d צעדים כדי לבצע איפוס להגדרות היצרן</item>
+        <item quantity="many">השלם %1$d צעדים כדי לבצע איפוס להגדרות היצרן</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d יישומים לא יכולים להציג התראות</item>

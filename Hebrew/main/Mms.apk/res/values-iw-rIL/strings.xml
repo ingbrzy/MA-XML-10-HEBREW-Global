@@ -191,6 +191,7 @@
     <string name="file_size">גודל:</string>
     <string name="file_title">שם:</string>
     <string name="file_width_height">גודל:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">הודעה חדשה</string>
     <string name="forward_from">העבר מ:</string>
     <string name="forward_prefix">"הועבר: "</string>
@@ -359,9 +360,18 @@
     <string name="no_subject_view">(ללא נושא)</string>
     <string name="non_english_subject_limit">לא יותר מ-13 תווים</string>
     <string name="nosend_message">אל תשלח</string>
+    <string name="notification_channel_msg_description">התראות על הודעות</string>
+    <string name="notification_channel_msg_name">הודעות</string>
+    <string name="notification_channel_other_description">התראות אחרות</string>
+    <string name="notification_channel_other_name">אחר</string>
+    <string name="notification_channel_sim1_description">התראות על הודעות בכרטיס SIM 1</string>
+    <string name="notification_channel_sim1_name">הודעות בכרטיס SIM 1</string>
+    <string name="notification_channel_sim2_description">התראות על הודעות בכרטיס SIM 2</string>
+    <string name="notification_channel_sim2_name">הודעות בכרטיס SIM 2</string>
     <string name="notification_copy">העתק את OTP</string>
     <string name="notification_failed_multiple">לא ניתן היה לשלוח %s הודעות</string>
     <string name="notification_failed_multiple_title">ההודעות לא נשלחו</string>
+    <string name="notification_group_name">שליחת הודעות</string>
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">הודעות חדשות</string>
     <string name="number_add_hint">הזן מספר טלפון</string>
@@ -396,7 +406,7 @@
     <string name="pref_show_sms_template_entry_summary">אתר סיסמאות חד פעמיות והצג תפריטים מהירים</string>
     <string name="pref_show_sms_template_in_summary">זיהוי אוטומטי של סיסמאות חד-פעמיות במסרונים</string>
     <string name="pref_show_sms_template_summary">"הפעל על מנת להשתמש בתכונות חכמות של הודעות Mi, כגון העתקת קודים, בדיקת יתרה וכו'."</string>
-    <string name="pref_smart_messages_settings">הודעות חכמות</string>
+    <string name="pref_smart_messages_settings">שליחת הודעות חכמה</string>
     <string name="pref_sms_storage_title">אחסון</string>
     <string name="pref_sms_theme_title">תצוגה</string>
     <string name="pref_summary_allow_si_sl_push">אפשר להודעות לטעון תוכן מאתרים</string>
@@ -540,6 +550,7 @@
     <string name="send_signature_confirm_dialog_title">שלח הודעה</string>
     <string name="send_sms">שלח הודעה</string>
     <string name="send_to">אל:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">נשלח ב: %1s</string>
     <string name="sent_label">"נשלח: "</string>
     <string name="service_message_not_found">תוקף ההודעה פג או שאינה זמין</string>
@@ -651,6 +662,7 @@
     <string name="unstick">בטל נעיצה</string>
     <string name="unstick_conversation">בטל נעיצת שיחה נוכחית</string>
     <string name="unsticked_conversation">נעיצת השיחה בוטלה כבר</string>
+    <string name="unsubscribe">ביטול הרשמה</string>
     <string name="unsupported_media_format">פורמט %1$s לא נתמך.</string>
     <string name="url_fraud_dangerous_alert">"האתר בו הינך מנסה לבקר עלול להוות סכנה למכשירך ולפגוע בנתונים שלך. לבקר בו בכל מקרה?
 %s"</string>
@@ -671,6 +683,4 @@
     <string name="wild_msg_title">בחר מספרי טלפון לסנכרון</string>
     <string name="yes">אישור</string>
     <string name="yesterday">אתמול</string>
-    <string name="notification_channel_description">הודעות מערוץ ההודעות</string>
-    <string name="notification_channel_name">ערוץ ההודעות</string>
 </resources>

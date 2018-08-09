@@ -31,118 +31,100 @@
         <item quantity="many">%d הודעות לא חשובות</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">Incorrect PIN code, %d attempts remaining</item>
-        <item quantity="one">Incorrect PIN code, %d attempt remaining</item>
-        <item quantity="two">Incorrect PIN code, %d attempts remaining</item>
-        <item quantity="many">Incorrect PIN code, %d attempts remaining</item>
+        <item quantity="other">קוד PIN שגוי, %d נסיונות נותרו</item>
+        <item quantity="one">קוד PIN שגוי, נסיון %d נותר</item>
+        <item quantity="two">קוד PIN שגוי, %d נסיונות נותרו</item>
+        <item quantity="many">קוד PIN שגוי, %d נסיונות נותרו</item>
     </plurals>
     <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">Incorrect PUK code, %d attempts remaining</item>
-        <item quantity="one">Incorrect PUK code, %d attempt remaining</item>
-        <item quantity="two">Incorrect PUK code, %d attempts remaining</item>
-        <item quantity="many">Incorrect PUK code, %d attempts remaining</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">About %d hours until full</item>
-        <item quantity="one">About %d hour until full</item>
-        <item quantity="two">About %d hours until full</item>
-        <item quantity="many">About %d hours until full</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">About %d minutes until full​</item>
-        <item quantity="one">About %d minute until full​</item>
-        <item quantity="two">About %d minutes until full​</item>
-        <item quantity="many">About %d minutes until full​</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">About %1$d h %2$d m until full</item>
-        <item quantity="one">About %1$d h %2$d m until full</item>
-        <item quantity="two">About %1$d h %2$d m until full</item>
-        <item quantity="many">About %1$d h %2$d m until full</item>
+        <item quantity="other">קוד PUK שגוי, %d נסיונות נותרו</item>
+        <item quantity="one">קוד PUK שגוי, נסיון %d נותר</item>
+        <item quantity="two">קוד PUK שגוי, %d נסיונות נותרו</item>
+        <item quantity="many">קוד PUK שגוי, %d נסיונות נותרו</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">About %d hours left</item>
-        <item quantity="one">About %d hour left</item>
-        <item quantity="two">About %d hours left</item>
-        <item quantity="many">About %d hours left</item>
+        <item quantity="other">"כ-%d  שעות נותרו"</item>
+        <item quantity="one">"נותרה כשעה %d "</item>
+        <item quantity="two">"כ-%d  שעות נותרו"</item>
+        <item quantity="many">"כ-%d  שעות נותרו"</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">About %d minutes left</item>
-        <item quantity="one">About %d minute left</item>
-        <item quantity="two">About %d minutes left</item>
-        <item quantity="many">About %d minutes left</item>
+        <item quantity="other">"כ-%d  דקות נותרו"</item>
+        <item quantity="one">"נותרה כדקה %d "</item>
+        <item quantity="two">"כ-%d  דקות נותרו"</item>
+        <item quantity="many">"כ-%d  דקות נותרו"</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">About %1$d h %2$d m left</item>
-        <item quantity="one">About %1$d h %2$d m left</item>
-        <item quantity="two">About %1$d h %2$d m left</item>
-        <item quantity="many">About %1$d h %2$d m left</item>
+        <item quantity="other">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
+        <item quantity="one">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
+        <item quantity="two">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
+        <item quantity="many">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d hours</item>
-        <item quantity="one">%d hour</item>
-        <item quantity="two">%d hours</item>
-        <item quantity="many">%d hours</item>
+        <item quantity="other">"%d  שעות"</item>
+        <item quantity="one">"שעה %d "</item>
+        <item quantity="two">"%d  שעות"</item>
+        <item quantity="many">"%d  שעות"</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">%d minute</item>
-        <item quantity="two">%d minutes</item>
-        <item quantity="many">%d minutes</item>
+        <item quantity="other">"%d  דקות"</item>
+        <item quantity="one">"דקה %d "</item>
+        <item quantity="two">"%d  דקות"</item>
+        <item quantity="many">"%d  דקות"</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d h %2$d m</item>
-        <item quantity="one">%1$d h %2$d m</item>
-        <item quantity="two">%1$d h %2$d m</item>
-        <item quantity="many">%1$d h %2$d m</item>
+        <item quantity="other">"%1$d  שעות ו-%2$d  דקות"</item>
+        <item quantity="one">"%1$d  שעות ו-%2$d  דקות"</item>
+        <item quantity="two">"%1$d  שעות ו-%2$d  דקות"</item>
+        <item quantity="many">"%1$d  שעות ו-%2$d  דקות"</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Enter SIM PIN, you have %d remaining attempts.</item>
-        <item quantity="one">Enter SIM PIN, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
-        <item quantity="two">Enter SIM PIN, you have %d remaining attempts.</item>
-        <item quantity="many">Enter SIM PIN, you have %d remaining attempts.</item>
+        <item quantity="other">הזן את קוד ה-PIN של ה-SIM, תוכל לנסות עוד %d פעמים לפני שתצטרך ליצור קשר עם ספק הרשת שלך כדי לפתוח את הנעילה של המכשיר.</item>
+        <item quantity="one">הזן את קוד ה-PIN של ה-SIM, תוכל לנסות עוד פעם אחת (%d) לפני שתצטרך ליצור קשר עם ספק הרשת שלך כדי לפתוח את הנעילה של המכשיר.</item>
+        <item quantity="two">הזן את קוד ה-PIN של ה-SIM, תוכל לנסות עוד %d פעמים לפני שתצטרך ליצור קשר עם ספק הרשת שלך כדי לפתוח את הנעילה של המכשיר.</item>
+        <item quantity="many">הזן את קוד ה-PIN של ה-SIM, תוכל לנסות עוד %d פעמים לפני שתצטרך ליצור קשר עם ספק הרשת שלך כדי לפתוח את הנעילה של המכשיר.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempts before SIM becomes permanently unusable. Contact carrier for details.</item>
-        <item quantity="one">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempt before SIM becomes permanently unusable. Contact carrier for details.</item>
-        <item quantity="two">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempts before SIM becomes permanently unusable. Contact carrier for details.</item>
-        <item quantity="many">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempts before SIM becomes permanently unusable. Contact carrier for details.</item>
+        <item quantity="other">ה-SIM מושבת כעת. הזן קוד PUK כדי להמשיך. תוכל לנסות עוד %d פעמים לפני שה-SIM יהפוך לבלתי שמיש לצמיתות. צור קשר עם ספק הרשת שלך לקבלת פרטים.</item>
+        <item quantity="one">ה-SIM מושבת כעת. הזן קוד PUK כדי להמשיך. תוכל לנסות עוד פעם אחת (%d) לפני שה-SIM יהפוך לבלתי שמיש לצמיתות. צור קשר עם ספק הרשת שלך לקבלת פרטים.</item>
+        <item quantity="two">ה-SIM מושבת כעת. הזן קוד PUK כדי להמשיך. תוכל לנסות עוד %d פעמים לפני שה-SIM יהפוך לבלתי שמיש לצמיתות. צור קשר עם ספק הרשת שלך לקבלת פרטים.</item>
+        <item quantity="many">ה-SIM מושבת כעת. הזן קוד PUK כדי להמשיך. תוכל לנסות עוד %d פעמים לפני שה-SIM יהפוך לבלתי שמיש לצמיתות. צור קשר עם ספק הרשת שלך לקבלת פרטים.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
-        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
-        <item quantity="two">Incorrect SIM PIN code, you have %d remaining attempts.</item>
-        <item quantity="many">Incorrect SIM PIN code, you have %d remaining attempts.</item>
+        <item quantity="other">קוד ה-PIN של ה-SIM שגוי. תוכל לנסות עוד %d פעמים לפני שתצטרך ליצור קשר עם ספק הרשת שלך כדי לפתוח את הנעילה של המכשיר שלך.</item>
+        <item quantity="one">קוד ה-PIN של ה-SIM שגוי. תוכל לנסות עוד פעם אחת (%d) לפני שתצטרך ליצור קשר עם ספק הרשת שלך כדי לפתוח את הנעילה של המכשיר שלך.</item>
+        <item quantity="two">קוד ה-PIN של ה-SIM שגוי. תוכל לנסות עוד %d פעמים לפני שתצטרך ליצור קשר עם ספק הרשת שלך כדי לפתוח את הנעילה של המכשיר שלך.</item>
+        <item quantity="many">קוד ה-PIN של ה-SIM שגוי. תוכל לנסות עוד %d פעמים לפני שתצטרך ליצור קשר עם ספק הרשת שלך כדי לפתוח את הנעילה של המכשיר שלך.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">Incorrect SIM PUK code, you have %d remaining attempts before SIM becomes permanently unusable.</item>
-        <item quantity="one">Incorrect SIM PUK code, you have %d remaining attempt before SIM becomes permanently unusable.</item>
-        <item quantity="two">Incorrect SIM PUK code, you have %d remaining attempts before SIM becomes permanently unusable.</item>
-        <item quantity="many">Incorrect SIM PUK code, you have %d remaining attempts before SIM becomes permanently unusable.</item>
+        <item quantity="other">קוד ה-PUK של ה-SIM שגוי. תוכל לנסות עוד %d פעמים לפני שכרטיס ה-SIM יהפוך לבלתי שמיש לצמיתות.</item>
+        <item quantity="one">קוד ה-PUK של ה-SIM שגוי. תוכל לנסות עוד פעם אחת (%d) לפני שכרטיס ה-SIM יהפוך לבלתי שמיש לצמיתות.</item>
+        <item quantity="two">קוד ה-PUK של ה-SIM שגוי. תוכל לנסות עוד %d פעמים לפני שכרטיס ה-SIM יהפוך לבלתי שמיש לצמיתות.</item>
+        <item quantity="many">קוד ה-PUK של ה-SIM שגוי. תוכל לנסות עוד %d פעמים לפני שכרטיס ה-SIM יהפוך לבלתי שמיש לצמיתות.</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm password."</item>
-        <item quantity="one">"Device hasn't been unlocked for %d hour. Confirm password."</item>
-        <item quantity="two">"Device hasn't been unlocked for %d hours. Confirm password."</item>
-        <item quantity="many">"Device hasn't been unlocked for %d hours. Confirm password."</item>
+        <item quantity="other">עברו %d שעות מאז פתיחת הנעילה של המכשיר בפעם האחרונה. אשר סיסמה.</item>
+        <item quantity="one">עברה שעה אחת (%d) מאז פתיחת הנעילה של המכשיר בפעם האחרונה. אשר סיסמה.</item>
+        <item quantity="two">עברו %d שעות מאז פתיחת הנעילה של המכשיר בפעם האחרונה. אשר סיסמה.</item>
+        <item quantity="many">עברו %d שעות מאז פתיחת הנעילה של המכשיר בפעם האחרונה. אשר סיסמה.</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm pattern."</item>
-        <item quantity="one">"Device hasn't been unlocked for %d hour. Confirm pattern."</item>
-        <item quantity="two">"Device hasn't been unlocked for %d hours. Confirm pattern."</item>
-        <item quantity="many">"Device hasn't been unlocked for %d hours. Confirm pattern."</item>
+        <item quantity="other">עברו %d שעות מאז פתיחת הנעילה של המכשיר בפעם האחרונה. אשר סיסמה.</item>
+        <item quantity="one">עברה שעה אחת (%d) מאז פתיחת הנעילה של המכשיר בפעם האחרונה. אשר תבנית.</item>
+        <item quantity="two">עברו %d שעות מאז פתיחת הנעילה של המכשיר בפעם האחרונה. אשר סיסמה.</item>
+        <item quantity="many">עברו %d שעות מאז פתיחת הנעילה של המכשיר בפעם האחרונה. אשר סיסמה.</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">"Device hasn't been unlocked for %d hours. Confirm PIN."</item>
-        <item quantity="one">"Device hasn't been unlocked for %d hour. Confirm PIN."</item>
-        <item quantity="two">"Device hasn't been unlocked for %d hours. Confirm PIN."</item>
-        <item quantity="many">"Device hasn't been unlocked for %d hours. Confirm PIN."</item>
+        <item quantity="other">עברו %d שעות מאז פתיחת הנעילה של המכשיר בפעם האחרונה. אשר קוד PIN.</item>
+        <item quantity="one">עברה שעה אחת (%d) מאז פתיחת הנעילה של המכשיר בפעם האחרונה. אשר קוד PIN.</item>
+        <item quantity="two">עברו %d שעות מאז פתיחת הנעילה של המכשיר בפעם האחרונה. אשר קוד PIN.</item>
+        <item quantity="many">עברו %d שעות מאז פתיחת הנעילה של המכשיר בפעם האחרונה. אשר קוד PIN.</item>
     </plurals>
     <plurals name="new_notifications_msg">
-        <item quantity="other">%d new notifications</item>
-        <item quantity="one">%d new notification</item>
-        <item quantity="two">%d new notifications</item>
-        <item quantity="many">%d new notifications</item>
+        <item quantity="other">%d התראות חדשות</item>
+        <item quantity="one">התראה חדשה %d</item>
+        <item quantity="two">%d התראות חדשות</item>
+        <item quantity="many">%d התראות חדשות</item>
     </plurals>
     <plurals name="notification_channels_list_desc_2_and_others">
         <item quantity="other">%1$s, %2$s, and %3$d אחרים</item>
@@ -169,16 +151,16 @@
         <item quantity="many">1 מתוך %d קטגוריות של הודעות מהאפליקציה הזו</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
-        <item quantity="other">Try again in %d minutes</item>
-        <item quantity="one">Try again in %d minute</item>
-        <item quantity="two">Try again in %d minutes</item>
-        <item quantity="many">Try again in %d minutes</item>
+        <item quantity="other">נסה שוב בעוד %d דקות</item>
+        <item quantity="one">נסה שוב בעוד דקה %d</item>
+        <item quantity="two">נסה שוב בעוד %d דקות</item>
+        <item quantity="many">נסה שוב בעוד %d דקות</item>
     </plurals>
     <plurals name="phone_locked_timeout_seconds_string">
-        <item quantity="other">Try again in %d seconds</item>
-        <item quantity="one">Try again in %d second</item>
-        <item quantity="two">Try again in %d seconds</item>
-        <item quantity="many">Try again in %d seconds</item>
+        <item quantity="other">נסה שוב בעוד %d שניות</item>
+        <item quantity="one">נסה שוב בעוד שניה %d</item>
+        <item quantity="two">נסה שוב בעוד %d שניות</item>
+        <item quantity="many">נסה שוב בעוד %d שניות</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">פעילים %1$d מתגים מעל סרגל זה</item>

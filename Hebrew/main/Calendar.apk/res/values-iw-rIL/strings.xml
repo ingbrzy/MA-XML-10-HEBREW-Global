@@ -32,7 +32,7 @@
     <string name="anniversary_event_title">יום השנה: %1$s</string>
     <string name="anniversary_secondary_tag">יום השנה</string>
     <string name="app_label">לוח שנה</string>
-    <string name="birthday_born">Birth date</string>
+    <string name="birthday_born">תאריך לידה</string>
     <string name="birthday_calendar_display_name">תזכורת ימי הולדת</string>
     <string name="birthday_event_description_a_week_ago">שבוע שעבר</string>
     <string name="birthday_event_description_a_week_later">נותר שבוע ל-</string>
@@ -49,7 +49,7 @@
     <string name="birthday_notification_title_today">%3$s של %1$s</string>
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">יום ההולדת נשמר</string>
-    <string name="birthday_term">Birthday</string>
+    <string name="birthday_term">יום הולדת</string>
     <string name="button_day">יום</string>
     <string name="button_month">חודש</string>
     <string name="button_week">שבוע</string>
@@ -181,8 +181,8 @@
     <string name="global_football_no_match">אין משחקי כדורגל היום.</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="guide_card_import">יבוא</string>
-    <string name="guide_card_primary_text">"Import your friends' birthdays"</string>
-    <string name="guide_card_second_text">Never miss important dates</string>
+    <string name="guide_card_primary_text">ייבא את ימי הולדת של החברים שלך</string>
+    <string name="guide_card_second_text">לעולם אל תפספס תאריכים חשובים</string>
     <string name="guide_card_title">יבוא ימי ההולדת</string>
     <string name="hint_attendees">אורחים</string>
     <string name="hint_description">תאור</string>
@@ -421,4 +421,5 @@
     <string name="xiaomi_calendar_display_name">לוח שנה של חשבון Mi</string>
     <string name="yearly">שנתי (בכל %s)</string>
     <string name="yearly_plain">שנתי</string>
+    <string name="discard_label">Cancel</string>
 </resources>

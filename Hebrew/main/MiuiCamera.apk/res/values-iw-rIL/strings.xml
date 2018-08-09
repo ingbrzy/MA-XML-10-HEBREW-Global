@@ -381,7 +381,7 @@
     <string name="pref_camera_beauty">ייפוי</string>
     <string name="pref_camera_beauty_deep">ייפוי מקצועי</string>
     <string name="pref_camera_asd_night_title">שפר אוטומטית תמונה עם תאורה חלשה</string>
-    <string name="pref_camera_super_resolution_title">Turn on SR</string>
+    <string name="pref_camera_super_resolution_title">הפעל את SR</string>
     <string name="simple_mode_button_text_scene">"כיבוי מצב 'סצינה'"</string>
     <string name="pref_camera_peak_title">מיקוד מירבי</string>
     <string name="pref_camera_peak_entry_off">כבוי</string>
@@ -427,10 +427,11 @@
     <string name="pref_camera_portrait_mode_entry_on">"מצב 'דיוקן' מופעל"</string>
     <string name="portrait_mode_lowlight_hint">חשוך מידי כעת</string>
     <string name="portrait_mode_too_close_hint">הרחק מהעצם</string>
-    <string name="portrait_mode_too_far_hint">Place object within 2 meters</string>
+    <string name="portrait_mode_too_far_hint">מקם את האובייקט בטווח של 2 מטרים</string>
     <string name="portrait_mode_depth_effect_success_hint">אפקט עומק</string>
     <string name="portrait_mode_use_hint">"מצב 'דיוקן' מעמעם את הרקע
  ומדגיש את האנשים בקידמה."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">מרובע</string>
     <string name="simple_mode_button_text_square">"כבה את 'מרובע'"</string>
     <string name="face_beauty_smart">חכם</string>
@@ -445,6 +446,7 @@
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">מצבים</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>
@@ -490,6 +492,7 @@
     <string name="beauty_fragment_tab_name_makeup">מתקדם</string>
     <string name="beauty_fragment_tab_name_3d_beauty">יופי</string>
     <string name="beauty_fragment_tab_name_3d_remodeling">מידול מחדש</string>
+    <string name="beauty_fragment_tab_name_3d_makeup">מייקאפ/איפור</string>
     <string name="edit_skin_white">גוון</string>
     <string name="edit_skin_smooth">חלק</string>
     <string name="edit_eye_large">עיניים גדולות</string>
@@ -503,6 +506,10 @@
     <string name="edit_smile">חיוך</string>
     <string name="edit_slim_nose">אף</string>
     <string name="popup_tip_3d_beauty_intro_text">יופי תלת-ממדי</string>
+    <string name="edit_eyebrow_dye">גבות</string>
+    <string name="edit_pupil_line">אייליינר</string>
+    <string name="edit_jelly_lips">שפתון מבריק</string>
+    <string name="edit_blusher">סומק</string>
     <string name="sticker_tab1">חמוד</string>
     <string name="sticker_tab2">מצחיק</string>
     <string name="user_agreement2">תנאי השירות</string>
@@ -539,17 +546,17 @@
     <string name="lens_dirty_detected_title_front">עדשת המצלמה הקדמית מלוכלכת</string>
     <string name="lens_dirty_detected_content">"נראה שעדשת המצלמה במכשירך מלוכלכת.
 נקה את העדשה לקבלת תמונה טובה יותר."</string>
-    <string name="lighting_hint_title">Studio lighting</string>
-    <string name="lighting_hint_usage">"You can use studio lighting effects
-in Portrait mode"</string>
-    <string name="lighting_hint_needed">Place your object in the spotlight</string>
-    <string name="lighting_hint_too_far">Bring the camera closer</string>
-    <string name="lighting_hint_too_close">Move the camera further away</string>
-    <string name="lighting_pattern_nature">Natural</string>
-    <string name="lighting_pattern_stage">Stage</string>
-    <string name="lighting_pattern_movie">Movie</string>
-    <string name="lighting_pattern_rainbow">Rainbow</string>
-    <string name="lighting_pattern_leaf">Leaves</string>
-    <string name="lighting_pattern_dot">Dots</string>
-    <string name="lighting_pattern_shutter">Blinds</string>
+    <string name="lighting_hint_title">תאורת סטודיו</string>
+    <string name="lighting_hint_usage">"במצב 'דיוקן' ניתן להשתמש באפקטים של 
+תאורת סטודיו"</string>
+    <string name="lighting_hint_needed">מקם את האובייקט שלך במרכז</string>
+    <string name="lighting_hint_too_far">קרב את המצלמה שלך</string>
+    <string name="lighting_hint_too_close">הרחק עוד יותר את המצלמה שלך</string>
+    <string name="lighting_pattern_nature">טבעי</string>
+    <string name="lighting_pattern_stage">במה</string>
+    <string name="lighting_pattern_movie">סרט</string>
+    <string name="lighting_pattern_rainbow">קשת</string>
+    <string name="lighting_pattern_leaf">צמחייה</string>
+    <string name="lighting_pattern_dot">נקודות</string>
+    <string name="lighting_pattern_shutter">תריסים</string>
 </resources>

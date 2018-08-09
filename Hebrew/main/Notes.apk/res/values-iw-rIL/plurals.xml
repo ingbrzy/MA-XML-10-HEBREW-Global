@@ -25,9 +25,9 @@
         <item quantity="many">%d שניות נותרו</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%s תווים</item>
-        <item quantity="one">תו אחד (%s)</item>
-        <item quantity="two">%s תווים</item>
-        <item quantity="many">%s תווים</item>
+        <item quantity="other">%d characters</item>
+        <item quantity="one">%d character</item>
+        <item quantity="two">%d characters</item>
+        <item quantity="many">%d characters</item>
     </plurals>
 </resources>

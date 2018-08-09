@@ -38,5 +38,4 @@
     <string name="download_running">מתבצע</string>
     <string name="download_error">נכשל</string>
     <string name="download_running_percent">מתבצע, %s</string>
-    <string name="common_google_play_services_unknown_issue">‏%1$s נתקלה בבעיה בשירותי Google Play. נסה שוב.</string>
 </resources>

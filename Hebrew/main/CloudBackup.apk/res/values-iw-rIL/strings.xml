@@ -163,12 +163,12 @@
     <string name="notification_channel_remind">תזכורת</string>
     <string name="done_remove">הוסר בהצלחה</string>
     <string name="doing_restore_home">"משחזר את 'מסך הבית' וההגדרות…"</string>
-    <string name="title_alert_cancel_restore">Stop restoring</string>
-    <string name="msg_alert_cancel_restore">Cloud backup is restoring, stop it?</string>
-    <string name="btn_restore_cancel">Cancel</string>
-    <string name="btn_restore_resume">Resume</string>
-    <string name="title_alert_restore_error">Restore failed</string>
-    <string name="msg_alert_restore_error">Restore cloud backup failed, try again please.</string>
-    <string name="btn_restore_retry">Retry</string>
-    <string name="btn_restore_abort">Cancel</string>
+    <string name="title_alert_cancel_restore">עצור שחזור</string>
+    <string name="msg_alert_cancel_restore">משחזר פריטים. לעצור עכשיו?</string>
+    <string name="btn_restore_cancel">ביטול</string>
+    <string name="btn_restore_resume">המשך</string>
+    <string name="title_alert_restore_error">לא ניתן היה לשחזר</string>
+    <string name="msg_alert_restore_error">לא ניתן היה לשחזר פריטים מ-Mi Cloud. נסה שוב.</string>
+    <string name="btn_restore_retry">נסה שוב</string>
+    <string name="btn_restore_abort">ביטול</string>
 </resources>

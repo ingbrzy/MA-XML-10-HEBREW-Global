@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>מדד איכות האויר %1$s</item>
+        <item>מדד איכות האויר %1$s</item>
+        <item>מדד איכות האויר %1$s</item>
+        <item>מדד איכות האויר %1$s</item>
+        <item>מדד איכות האויר %1$s</item>
+        <item>מדד איכות האויר %1$s</item>
+        <item>מדד איכות האויר %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -168,10 +186,10 @@
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
         <item>כבוי</item>
-        <item>30 minutes</item>
+        <item>30 דקות</item>
         <item>שעה אחת</item>
         <item>שעתיים</item>
-        <item>8 hours</item>
+        <item>8 שעות</item>
     </string-array>
     <string-array name="nav_bar_buttons">
         <item>לוח גזירים</item>

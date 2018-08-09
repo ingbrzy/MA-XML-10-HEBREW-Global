@@ -86,7 +86,7 @@
     <string name="can_not_dial_vt_while_voice_prompt">לא ניתן לבצע שיחת וידאו במהלך ביצוע שיחה קולית</string>
     <string name="voice_dial_out">שיחה קולית</string>
     <string name="notification_AllMissedCallTitle">כל השיחות שלא נענו</string>
-    <string name="close">Turn off</string>
+    <string name="close">כיבוי</string>
     <string name="callFailed_simError">שגיאת כרטיס SIM</string>
     <string name="incall_error_supp_service_unknown">שירות זה אינו נתמך.</string>
     <string name="incall_error_power_off">"כבה את 'מצב טיסה' על מנת לבצע שיחה."</string>
