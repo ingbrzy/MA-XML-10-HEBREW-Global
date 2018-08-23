@@ -423,10 +423,10 @@
         <item quantity="many">נמצאו %d יישומים</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">Factory reset(%ds)</item>
-        <item quantity="one">Factory reset(%ds)</item>
-        <item quantity="two">Factory reset(%ds)</item>
-        <item quantity="many">Factory reset(%ds)</item>
+        <item quantity="other">איפוס להגדרות היצרן(%ds)</item>
+        <item quantity="one">איפוס להגדרות היצרן(%ds)</item>
+        <item quantity="two">איפוס להגדרות היצרן(%ds)</item>
+        <item quantity="many">איפוס להגדרות היצרן(%ds)</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d יישומים נעולים ממתינים להסרה</item>
@@ -511,5 +511,29 @@
         <item quantity="one">"בוצע צ'ק אין פעם %d"</item>
         <item quantity="two">"בוצע צ'ק אין %d ימים ברצף"</item>
         <item quantity="many">"בוצע צ'ק אין %d ימים ברצף"</item>
+    </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d תווים נוספים</item>
+        <item quantity="one">    +תו נוסף %1$d</item>
+        <item quantity="two">    +%1$d תווים נוספים</item>
+        <item quantity="many">    +%1$d תווים נוספים</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">לא ניתן להסתיר %d אפליקציות</item>
+        <item quantity="one">לא ניתן להסתיר אפליקציה %d</item>
+        <item quantity="two">לא ניתן להסתיר %d אפליקציות</item>
+        <item quantity="many">לא ניתן להסתיר %d אפליקציות</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d אפליקציות מוסתרות</item>
+        <item quantity="one">אפליקציה %d מוסתרת</item>
+        <item quantity="two">%d אפליקציות מוסתרות</item>
+        <item quantity="many">%d אפליקציות מוסתרות</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d בעיות שדורשות מיטוב</item>
+        <item quantity="one">בעיה %1$d שדורשת מיטוב</item>
+        <item quantity="two">%1$d בעיות שדורשות מיטוב</item>
+        <item quantity="many">%1$d בעיות שדורשות מיטוב</item>
     </plurals>
 </resources>

@@ -35,6 +35,8 @@
     <string name="mx_sub_dspt_provision_with_voip">שיחות אינטרנט</string>
     <string name="phone_number_required_dspt_provision">"שירות זה דורש את מספר הטלפון שלך. "</string>
     <string name="sync_dspt_provision">"סנכרן את התמונות שלך, אנשי קשר, פתקים, ועוד על כל ההתקנים שלך או גש אליהם ב "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"תוכל להפעיל או לבטל תכונה זו בכל עת בהגדרות.
 "</string>
     <string name="sync_dspt_entrance_provision">"סנכרן את התמונות, אנשי הקשר, יומן השיחות וההודעות שלך בכל המכשירים שלך. גש לדברים שסינכרנת מכל דפדפן ב: %s. "</string>
@@ -45,6 +47,8 @@
     <string name="sync_dspt_entrance_provision_skip">דלג על שלב זה</string>
     <string name="sync_dspt_entrance_provision_network">יישום זה זקוק לחיבור לאינטרנט על מנת שיוכל לעבוד באופן תקין. דרושים חיבור נתונים סלולרי והפעלת חיבור הרשת האלחוטית על מנת לסנכרן נתונים.</string>
     <string name="find_device_dspt_provision">"במידה ותאבד את מכשירך, תוכל לאתר, לנעול או לאפס אותו ב-%s. ניתן להפעיל או לכבות תכונה זו ב'הגדרות' בכל עת."</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">במידה ותחליף כרטיס SIM, מסרון נוסף להפעלה מחודשת של תכונה זו ישלח אליך אוטומטית.</string>
     <string name="mx_dspt_provision">"הודעות Mi מאפשר לך לשלוח הודעות להתקנים אחרים של MIUI ללא תשלום כאשר קיים חיבור לרשת אלחוטית.
 
@@ -85,7 +89,7 @@
     <string name="micloud_dspt">השתמש ב-Mi Cloud לסנכרון נתונים ואיתור מכשירך</string>
     <string name="micloud_sec_dspt">ושיתוף דברים עם חברים.</string>
     <string name="micloud_dspt_provision">השתמש Mi Cloud לסנכרון נתונים, איתור מכשירך ושיתוף דברים עם החברים שלך.</string>
-    <string name="micloud_dspt_provision_xms">Use Mi Cloud to sync data.</string>
+    <string name="micloud_dspt_provision_xms">השתמש ב-Mi Cloud כדי לסנכרן נתונים.</string>
     <string name="micloud_proceed">המשך</string>
     <string name="master_alert_notif_title">הפעל סנכרון עם Mi Cloud</string>
     <string name="master_alert_notif_content">לא ניתן לסנכרן</string>
@@ -156,7 +160,7 @@
  השתמש בחשבון אחר."</string>
     <string name="micloud_main_cancel_sync">ביטול הסנכרון</string>
     <string name="micloud_main_query_again">שליחת בקשה נוספת</string>
-    <string name="micloud_main_cancel_sync_now">Canceling…</string>
+    <string name="micloud_main_cancel_sync_now">מבטל…</string>
     <string name="micloud_main_wait_wlan">ממתין לחיבור רשת אלחוטית</string>
     <string name="micloud_main_wait_wlan_charge_sleep">התחבר לרשת האלחוטית, כבה את המסך וטען את הסוללה במלואה על מנת להמשיך את הסנכרון.</string>
     <string name="micloud_main_wait_wlan_charge">התחבר לרשת האלחוטית וטען את הסוללה במלואה על מנת להמשיך את הסנכרון.</string>
@@ -166,11 +170,11 @@
     <string name="micloud_main_button_set_internet">הגדרות</string>
     <string name="micloud_main_button_activate">הפעלה</string>
     <string name="micloud_main_button_authorize">הענק הרשאה</string>
-    <string name="micloud_main_simple_synced">Synced</string>
-    <string name="micloud_main_simple_syncing">Syncing</string>
-    <string name="micloud_main_simple_pending">Pending</string>
-    <string name="micloud_main_simple_off">Sync Off</string>
-    <string name="micloud_main_simple_last_sync_time">Last sync time： %s</string>
+    <string name="micloud_main_simple_synced">סונכרן</string>
+    <string name="micloud_main_simple_syncing">מסנכרן</string>
+    <string name="micloud_main_simple_pending">בהמתנה</string>
+    <string name="micloud_main_simple_off">סנכרון מבוטל</string>
+    <string name="micloud_main_simple_last_sync_time">זמן הסנכרון האחרון： %s</string>
     <string name="micloud_detail_syncing">מסנכרן</string>
     <string name="micloud_detail_pending">ממתין</string>
     <string name="micloud_detail_success">סונכרן</string>
@@ -286,6 +290,7 @@
     <string name="micloud_find_device_opened">איתור מכשיר מופעל</string>
     <string name="micloud_find_device_open_fail">לא ניתן היה להפעיל איתור מכשיר</string>
     <string name="micloud_find_device_opened_content">אתר את המכשיר שלך ב %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">"לא ניתן היה להפעיל מחדש את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_close_fail">"לא ניתן היה לכבות את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_finish">בוצע</string>
@@ -352,6 +357,8 @@
     <string name="micloud_main_head_menu_state_close">כבוי</string>
     <string name="micloud_main_head_menu_state_unavailable">לא נתמך</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">"'איתור המכשיר' אינו זמין ב'שטח שני', תוכל להשתמש בתכונה זו ב'שטח ראשון'."</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">תשלומים באמצעות טביעת אצבע</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>
@@ -378,8 +385,8 @@
     <string name="member_menu_vipname_premium">פרימיום</string>
     <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_ultra">אולטרה</string>
-    <string name="micloud_storage_unit_mb">%sMB</string>
-    <string name="micloud_storage_unit_gb">%sGB</string>
+    <string name="micloud_storage_unit_mb">%s מ\"ב</string>
+    <string name="micloud_storage_unit_gb">%s ג\"ב</string>
     <string name="micloud_main_memory_low_title">האחסון הפנימי של הטלפון כמעט מלא</string>
     <string name="micloud_notif_title_memory_low">לא ניתן לסנכרן עם Mi Cloud</string>
     <string name="find_device_service_title">איתור המכשיר</string>

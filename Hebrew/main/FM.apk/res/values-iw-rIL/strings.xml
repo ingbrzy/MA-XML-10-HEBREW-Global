@@ -12,6 +12,7 @@
     <string name="menu_save_station_presets">הוסף לרשימת התחנות</string>
     <string name="menu_speaker">עבור לרמקול</string>
     <string name="menu_headset">עבור לאוזניות</string>
+    <string name="menu_privacy">מדיניות הפרטיות</string>
     <string name="menu_exit">יציאה</string>
     <string name="dialog_sleep_title">"הגדר טיימר 'מצב שינה'"</string>
     <string name="search_dialog_title">סרוק תחנות</string>

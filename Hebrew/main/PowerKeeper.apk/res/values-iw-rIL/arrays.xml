@@ -12,6 +12,10 @@
         <item>יישומים פעילים</item>
         <item>יישומים במצב שינה</item>
     </string-array>
+    <string-array name="emode_app_groups">
+        <item>אפליקציות מערכת</item>
+        <item>אפליקציות אחרות</item>
+    </string-array>
     <string-array name="thermal_entries">
         <item>ברירת מחדל עבור מצב בקרת טמפרטורה</item>
         <item>מצב ביצועים</item>

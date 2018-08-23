@@ -95,6 +95,7 @@
     <string name="error_sdcard_unmounted">הכנס כרטיס זכרון כעת</string>
     <string name="record_back_pressed_hint">"לעצירת ההקלטה, לחץ שוב על 'חזרה'"</string>
     <string name="record_mark_point">סמן את %s</string>
+    <string name="record_format_preference_title">פורמט הקלטה</string>
     <string name="record_quliaty_preference_title">איכות הקלטה</string>
     <string name="cloud_record_tip">סנכרן הקלטות עם-Mi Cloud.</string>
     <string name="cloud_record_open">סנכרן הקלטות</string>
@@ -152,4 +153,5 @@
     <string name="head_set_tip_dialog_ok">הבנתי</string>
     <string name="rename_fail_tip">לא ניתן היה לשנות את השם. פריט בעל שם זהה קיים כבר.</string>
     <string name="dialog_privacy_revoke_tips">לאחר שלילת ההרשאה, היישום יפסיק לאסוף נתונים וכל הנתונים הקשורים ימחקו מהשרתים. הדבר עשוי להפוך את היישום לבלתי שמיש וירטואלית. לשלול את ההרשאה בכל זאת? על מנת להבטיח את אבטחת החשבון שלך, היכנס אל i.mi.com לפני שלילת ההרשאה עבור שירותי Mi Cloud.</string>
+    <string name="privacy_policy_title">מדיניות הפרטיות</string>
 </resources>

@@ -54,6 +54,12 @@
         <item quantity="two">%1$d אנשי קשר יובאו</item>
         <item quantity="many">%1$d אנשי קשר יובאו</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">יובאו %1$d אנשי קשר</item>
+        <item quantity="one">יובא איש קשר %1$d</item>
+        <item quantity="two">יובאו %1$d אנשי קשר</item>
+        <item quantity="many">יובאו %1$d אנשי קשר</item>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">לחסום %1$d מספרי טלפון?</item>
         <item quantity="one">לחסום מספר טלפון %1$d?</item>

@@ -61,4 +61,6 @@
     <string name="open_perm_title">נדרשות הרשאות</string>
     <string name="cancel">ביטול</string>
     <string name="allow">אפשר</string>
+    <string name="preference_other">אחר</string>
+    <string name="preference_privacy_title">מדיניות הפרטיות</string>
 </resources>

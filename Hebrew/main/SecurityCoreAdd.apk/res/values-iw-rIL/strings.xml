@@ -68,6 +68,7 @@
     <string name="xspace_setting_label">הגדרות יישומים משוכפלים</string>
     <string name="xspace_account">חשבונות יישומים משוכפלים</string>
     <string name="declare_dialog_title">אודות יישומים משוכפלים</string>
+    <string name="menu_item_about_privacy_title">מדיניות הפרטיות</string>
     <string name="stop_xspace_alert_title">מחיקת חשבונות של יישומים משוכפלים</string>
     <string name="stop_xspace_alert_content">מחקת את כל היישומים המשוכפלים. למחוק גם את החשבונות המשוכפלים ונתוני היישומים? לאחר מכן, יהיה עליך ליצור מחדש את היישומים המשוכפלים כשתצטרך אותם.</string>
     <string name="xspace_loading_msg">טוען יישומים…</string>
@@ -398,4 +399,37 @@
     <string name="can_not_switch_when_green_kid_active">בקרת הורים מגבילה מעבר אל Second Space</string>
     <string name="need_network_when_bind">התחבר לרשת לפני הוספת מכשירים</string>
     <string name="this_function_can_not_use_in_second_space">ניתן להשתמש במאפיין זה רק ב-First Space</string>
+    <string name="enterprise_mode">מצב ארגוני</string>
+    <string name="ent_app_verified">נראה שמותקנות בטלפון שלך אפליקציות ארגוניות. להפעיל את מצב ארגוני?</string>
+    <string name="activate_ent_mode">הפעל מצב ארגוני</string>
+    <string name="about_ent_mode">אודות מצב ארגוני</string>
+    <string name="ent_mode_activated">מצב ארגוני מופעל</string>
+    <string name="ent_activation_hint">הזן את קוד הארגון שלך לצד קוד הרישיון כדי להפעיל את המצב הארגוני. לאחר מכן יופעלו שירותים ארגוניים מותאמים אישית.</string>
+    <string name="ent_activation_hint_whit_licence">"הפעל את המצב הארגוני כדי לאפשר שירותים ארגוניים בהתאמה אישית.
+ודא ששם הארגון שלך שהוזן הוא נכון. לפני הפעלת מצב זה, עליך לקרוא את מדיניות הפרטיות הרלוונטית ולהסכים לה."</string>
+    <string name="ent_agency_code">קוד הארגון</string>
+    <string name="ent_agency_code_hint">הזן את קוד הארגון</string>
+    <string name="ent_agency_code_invalid">קוד הארגון שהזנת אינו חוקי.</string>
+    <string name="ent_licence_code_invalid">קוד הארגון שהזנת אינו חוקי.</string>
+    <string name="ent_licence_code">קוד הרישיון</string>
+    <string name="ent_licence_code_hint">הזן את קוד הרישיון</string>
+    <string name="ent_next_step">הבא</string>
+    <string name="ent_get_code_hint">ניתן לקבל את קוד הארגון וקוד הרישיון מהמנהל שלך</string>
+    <string name="ent_agree_privacy_policy">קראתי והסכמתי למדיניות הפרטיות</string>
+    <string name="ent_activation">הפעל</string>
+    <string name="ent_activating">מפעיל…</string>
+    <string name="ent_installing">מתקין…</string>
+    <string name="ent_network_error">לא ניתן להתחבר לאינטרנט. בדוק את הגדרות הרשת ונסה שוב.</string>
+    <string name="ent_invalid_qr">קוד ה-QR אינו חוקי.</string>
+    <string name="ent_invalid_agency">קוד הארגון אינו חוקי.</string>
+    <string name="ent_privacy_policy_notice">* במצב זה איסוף הנתונים מתבצע על-פי המדיניות שקבע הארגון שלך. Xiaomi אינה אוספת נתונים במצב זה.</string>
+    <string name="ent_confirm_dialog_content">לאחר הפעלת המצב הארגוני לא תוכל להחזיר את מערכת ההפעלה שלך למצב הנוכחי. עם זאת, כל הנתונים שלך עדיין יאוחסנו במכשיר הזה. כדי להפעיל את המצב הארגוני תצטרך לאתחל את המכשיר. להפעיל עכשיו?</string>
+    <string name="ent_error_dialog_content">לפחות אחד מהקודים שהזנת אינו נכון. בדוק את קוד הארגון ואת קוד הרישיון שלך והזן אותם שוב.</string>
+    <string name="ent_download_install_dialog_content">כדי להפעיל את המצב הארגוני, עליך להתקין אפליקציות ארגוניות. להתקין עכשיו?</string>
+    <string name="ent_download_install_dialog_title">הורד אפליקציות ארגוניות</string>
+    <string name="ent_downloading_message">מתבצעת הורדה %d%%</string>
+    <string name="install">התקן</string>
+    <string name="install_error">לא ניתן להתקין. נסה שוב.</string>
+    <string name="ent_install_dialog_content">להתקין את האפליקציות ולאתחל את המכשיר עכשיו?</string>
+    <string name="ent_disallow_running">אסור להפעיל את האפליקציה הזו</string>
 </resources>

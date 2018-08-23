@@ -200,6 +200,7 @@
     <string name="tap_to_exposure">לחץ להתאמת החשיפה באופן ידני</string>
     <string name="accessibility_shutter_button">לחצן הצילום</string>
     <string name="accessibility_intent_done_apply">בוצע</string>
+    <string name="accessibility_intent_done_retry">צלם מחדש</string>
     <string name="accessibility_review_thumbnail">תמונה חדשה ביותר</string>
     <string name="accessibility_camera_picker">החלפת מצלמה קדמית ואחורית</string>
     <string name="accessibility_stereo_button">התאמת מיקוד</string>
@@ -431,6 +432,7 @@
     <string name="portrait_mode_depth_effect_success_hint">אפקט עומק</string>
     <string name="portrait_mode_use_hint">"מצב 'דיוקן' מעמעם את הרקע
  ומדגיש את האנשים בקידמה."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">מרובע</string>
     <string name="simple_mode_button_text_square">"כבה את 'מרובע'"</string>
     <string name="face_beauty_smart">חכם</string>
@@ -445,6 +447,7 @@
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">מצבים</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>
@@ -557,4 +560,5 @@
     <string name="lighting_pattern_leaf">צמחייה</string>
     <string name="lighting_pattern_dot">נקודות</string>
     <string name="lighting_pattern_shutter">תריסים</string>
+    <string name="view_privacy_policy">עיין במדיניות הפרטיות</string>
 </resources>

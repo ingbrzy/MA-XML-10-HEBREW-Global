@@ -24,6 +24,8 @@
     <string name="description_title">"אודות 'מקליט המסך'"</string>
     <string name="deselect_all">הסר בחירה מהכל</string>
     <string name="error_open_file_failed_no_app_found">לא ניתן היה למצוא יישום לפתיחת קובץ זה</string>
+    <string name="first_using_mic_dialog_message">מקליט המסך זקוק להרשאת גישה למיקרופון שלך כדי להקליט שמע. לאפשר?</string>
+    <string name="first_using_mic_dialog_title">נדרשות הרשאות</string>
     <string name="fixed_frame_rate">קצב פריימים קבוע</string>
     <string name="fixed_frame_rate_summary">הקלטת סרטונים בקצב פריימים קבוע משפרת את הפעלתם ברשתות החברתיות ומאריכה את חיי הסוללה.</string>
     <string name="frames">קצב הפריימים</string>
@@ -82,4 +84,6 @@
     <string name="storage_location_summary">בחירת שיטת האחסון המועדפת עליך</string>
     <string name="timer_format">%s</string>
     <string name="unchecked">לא נבחר</string>
+    <string name="using_record_confirm_cancel">הגבל</string>
+    <string name="using_record_confirm_ok">אפשר</string>
 </resources>

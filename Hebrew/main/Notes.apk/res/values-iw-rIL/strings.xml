@@ -114,6 +114,7 @@
     <string name="menu_title_select_folder">בחר תיקיה</string>
     <string name="menu_unhide">בטל הסתרה</string>
     <string name="menu_unstick">בטל נעיצה</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">לא כעת</string>
     <string name="note_description_content">"היישום 'פתקים' הוא כלי נהדר לרישום של הרעיונות שלך. הוא כולל אפשרות מובנית ליצירת תזכורות ומסנכרן את הפריטים שלך עם Mi Cloud כך שתוכל לגשת אליהם מכל מקום ובכל זמן. ודא כי אתה מסוגל להסתדר ללא תכונות אלה לפני הסרת היישום."</string>
     <string name="note_description_title">"אודות 'פתקים'"</string>
@@ -125,6 +126,7 @@
     <string name="note_sort_way">בחר כיצד למיין את ההערות שלך</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">תזכורת לפתק</string>
     <string name="permdesc_accessNote">יישומים זדוניים עשויים לעשות בכך שימוש על מנת לגשת לנתוניך האישיים.</string>
     <string name="permlab_accessNote">גישה לפתקים</string>
@@ -159,6 +161,8 @@
     <string name="search_setting_description">חיפוש טקסט בפתקים שלך</string>
     <string name="select_account_prompt">סנכרן פתקים</string>
     <string name="set_alarm_description">הגדרת שעון מעורר</string>
+    <string name="setting_other">אחר</string>
+    <string name="setting_privacy">מדיניות הפרטיות</string>
     <string name="snippet_audio_stub">פתק קולי</string>
     <string name="snippet_image_stub">פתק תמונה</string>
     <string name="snippet_image_template">[תמונה %1$s]</string>
@@ -197,7 +201,6 @@
     <string name="toast_cancel_to_insert_image">לא ניתן היה להוסיף את התמונה.</string>
     <string name="toast_message_add_image_fail">לא ניתן היה להוסיף את התמונה</string>
     <string name="toast_notes_delete_success">נמחק בהצלחה</string>
-    <string name="toast_notes_hidden">הוסתר בהצלחה</string>
     <string name="toast_notes_hidden_count">הסתרת %1$s בוצעה בהצלחה</string>
     <string name="toast_notes_unhidden">ההסתרה בוטלה בהצלחה</string>
     <string name="toast_notes_unhidden_count">ביטול הסתרת %1$s בוצע בהצלחה</string>
@@ -221,4 +224,5 @@
     <string name="unknown_source">מקור לא ידוע</string>
     <string name="widget_content_loading">רק רגע…</string>
     <string name="widget_havenot_content">"לחץ ליצירת פתק. לחץ והחזק ווידג'ט לשינוי הגודל."</string>
+    <string name="toast_notes_hidden">הוסתר בהצלחה</string>
 </resources>

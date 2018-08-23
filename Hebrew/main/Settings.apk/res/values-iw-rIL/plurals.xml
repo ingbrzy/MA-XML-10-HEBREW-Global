@@ -90,11 +90,29 @@
         <item quantity="two">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>
         <item quantity="many">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>
     </plurals>
+    <plurals name="show_audio_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get audio log</item>
+        <item quantity="one">%1$d step left before you can get audio log</item>
+        <item quantity="two">%1$d steps left before you can get audio log</item>
+        <item quantity="many">%1$d steps left before you can get audio log</item>
+    </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
         <item quantity="one">הינך נמצא צעד %1$d לפני כניסה ל-CIT.</item>
         <item quantity="two">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
         <item quantity="many">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
+    </plurals>
+    <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get GPS log</item>
+        <item quantity="one">%1$d step left before you can get GPS log</item>
+        <item quantity="two">%1$d steps left before you can get GPS log</item>
+        <item quantity="many">%1$d steps left before you can get GPS log</item>
+    </plurals>
+    <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get modem log</item>
+        <item quantity="one">%1$d step left before you can get modem log</item>
+        <item quantity="two">%1$d steps left before you can get modem log</item>
+        <item quantity="many">%1$d steps left before you can get modem log</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">הינך נמצא %1$d צעדים לפני כניסה לפרטי הטלפון.</item>

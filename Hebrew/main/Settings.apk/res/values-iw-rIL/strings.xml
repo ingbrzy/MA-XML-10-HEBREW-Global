@@ -343,8 +343,8 @@
     <string name="bootloader_locked_answer_2">"1. ודא שכבר הכנסת כרטיס סים אל מכשירך.
 2. הקש על \"הוספת חשבון\" למטה כדי לקשר בין חשבון ה-Mi שלך למכשיר זה.
 3. הורד את הכלי לביטול נעילה מהאתר שלנו. לתשומת לבך, צריך להשתמש במחשב כדי לבטל נעילת מכשיר. הקישור להורדה:"</string>
-    <string name="bootloader_locked_answer_2_no_sim">"1. Tap \"Add account\" below to associate your Mi Account with this device.
-2. Download the unlock tool from our website. Note that you should unlock devices using a computer. Download here:"</string>
+    <string name="bootloader_locked_answer_2_no_sim">"1. הקש על \"הוסף חשבון\" למטה כדי לקשר את חשבון ה-Mi שלך למכשיר זה.
+2. הורד את הכלי לביטול נעילה מאתר האינטרנט שלנו. לתשומת לבך, נעילת המכשיר צריכה להתבצע באמצעות מחשב. הורד כאן:"</string>
     <string name="bootloader_locked_check_status">הוספת חשבון ומכשיר</string>
     <string name="bootloader_locked_question_1">למה מכשירים צריכים להיות נעולים?</string>
     <string name="bootloader_locked_question_2">אני מבין את הסיכונים, אבל עדיין רוצה לבטל את נעילת המכשיר שלי.</string>
@@ -361,6 +361,7 @@
     <string name="bootloader_status_unlocked">הנעילה בוטלה</string>
     <string name="bootloader_status_unlocked_info">מכשיר זה אינו נעול</string>
     <string name="bootloader_summary">צרוב את מכשירך באמצעות USB</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">צבע הנורית</string>
     <string name="breathing_light_color_summary">צבע הנורית בעת קבלת התראה חדשה</string>
     <string name="breathing_light_freq_summary">הבהב בקבלת התראות חדשות</string>
@@ -542,6 +543,7 @@
     <string name="delete_or_keep_legacy_passwords_confirm_msg">למחוק את טביעת האצבע הזאת?</string>
     <string name="delete_rule">הסרת חוקים</string>
     <string name="delete_saved_network">מחק רשתות שנשמרו</string>
+    <string name="delete_sound_effect">צליל \"מחיקה\"</string>
     <string name="deleted_apps">יישומים שנמחקו</string>
     <string name="demo_mode">מצב דמו</string>
     <string name="demo_mode_summary">הצג אייקון דמו בשורת המצב</string>
@@ -626,6 +628,7 @@
     <string name="dndm_auto_button_title">"חזרה על תזמון מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_setting_group">מתוזמן</string>
     <string name="dndm_auto_time_setting">הגדר שעה</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">עד</string>
     <string name="dndm_auto_time_turn_off_title">"כבה אוטומטית את מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_time_turn_on">מ:</string>
@@ -695,6 +698,7 @@
     <string name="enabled_by_admin">אופשר על ידי המנהל</string>
     <string name="enalbe_identify_iPhone">זהות המכשיר</string>
     <string name="encryption_progress_summary">מצפין, נא לא לאתחל את המכשיר.</string>
+    <string name="enterprise_mode">מצב ארגוני</string>
     <string name="eq_auto">מותאם אישית</string>
     <string name="eq_blues">בלוז</string>
     <string name="eq_cancel">ביטול</string>
@@ -826,12 +830,12 @@
     <string name="force_touch_enable_tips">"לחץ לחיצה מאומצת על אייקונים של יישומים ב'משגר היישומים' על מנת להציג תפריטים של קיצורי דרך כאשר 'מגע 3D' מופעל."</string>
     <string name="foreground_traffic">חזית %s</string>
     <string name="forget_password_button_text"><u>שכחתי את הסיסמה</u></string>
-    <string name="forget_password_dialog_button_text">Back</string>
-    <string name="forget_password_dialog_content_four"><Data>2. Select &lt;font color=#e6e6e6>[Wipe data]&lt;/font>, and wait until your device reboots.</Data></string>
-    <string name="forget_password_dialog_content_one"><Data>"If you forget your password, you won't be able to restore it. However, you can reset your password after you &lt;font color=#ec2700>erase all data on your device&lt;/font> (including photos, contacts, etc.). Back up all important data before this."</Data></string>
-    <string name="forget_password_dialog_content_three"><Data>"1. Turn off your device. Press the &lt;font color=#e6e6e6>[Power]&lt;/font> button and the &lt;font color=#e6e6e6>[Volume+]&lt;/font> button simultaneously, and hold them until you see the &lt;img src=''> icon."</Data></string>
-    <string name="forget_password_dialog_content_two">Follow these steps to erase data:</string>
-    <string name="forget_password_dialog_title">Reset your password</string>
+    <string name="forget_password_dialog_button_text">הקודם</string>
+    <string name="forget_password_dialog_content_four"><Data>2. בחר באפשרות &lt;font color=#e6e6e6>[מחק נתונים]&lt;/font>, והמתן לאתחול המכשיר.</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>"אם תשכח את הסיסמה, לא תוכל לשחזר אותה. עם זאת, ניתן לאפס את סיסמתך אחרי &lt;font color=#ec2700>מחיקה של כל הנתונים במכשירך&lt;/font> (כולל התמונות, אנשי הקשר וכד'). לפני כן עליך לגבות את כל הנתונים החשובים."</Data></string>
+    <string name="forget_password_dialog_content_three"><Data>"1. כבה את מכשירך. לחץ על הכפתור &lt;font color=#e6e6e6>[Power]&lt;/font> ועל כפתור &lt;font color=#e6e6e6>[העלאת עוצמת הקול]&lt;/font> בו-זמנית, והמשך ללחוץ עליהם עד שתראה את הצלמית &lt;img src=''> icon."</Data></string>
+    <string name="forget_password_dialog_content_two">בצע את הצעדים הבאים כדי למחוק את הנתונים:</string>
+    <string name="forget_password_dialog_title">אפס את הסיסמה שלך</string>
     <string name="forget_pattern"><u>שכחת את התבנית?</u></string>
     <string name="forget_privacy_password_setting">הוספת חשבון Mi</string>
     <string name="forget_privacy_password_summary">השתמש בחשבון Mi לאיפוס הסיסמה שלך</string>
@@ -969,6 +973,8 @@
     <string name="keyboard_and_input_methods_category">מקלדת</string>
     <string name="keyboard_settings_category">שיטות קלט</string>
     <string name="keyguard_advance_setting_title">הגדרות מתקדמות</string>
+    <string name="keyguard_security_setting_others">אחרים</string>
+    <string name="keyguard_security_setting_privacy_policy">מדיניות הפרטיות</string>
     <string name="keywords_airplane">מטוס;מצב מטוס;אוירון; מצב אוירון; טיסה;מצב טיסה</string>
     <string name="keywords_auto_rotate">סיבוב;סיבוב מסך;כיוון;כיוון מסך;מצב דיוקן;מצב נוף;אופקי;רוחבי</string>
     <string name="keywords_bluetooth">"Bluetooth;bluetooth;blue tooth;בלוטות;בלוטות'"</string>
@@ -1659,6 +1665,7 @@
     <string name="private_sms_need_to_unlock">דרושה סיסמה:</string>
     <string name="private_sms_recording_intro_header">צייר תבנית לפתיחה:</string>
     <string name="private_sms_reset_by_account">על מנת לאפס את סיסמתך, היכנס לחשבון Mi שלך</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">פעיל</string>
     <string name="provision_back">הקודם</string>
     <string name="provision_next">הבא</string>
@@ -1723,6 +1730,7 @@
     <string name="saved_network">נשמר על ידי %1$s</string>
     <string name="saved_wifi">ניהול רשתות שנשמרו</string>
     <string name="saved_wifi_delete">מחיקה</string>
+    <string name="sccret_code_error">The code you entered is incorrect.</string>
     <string name="screen">מסך</string>
     <string name="screen_button">לחצני המסך</string>
     <string name="screen_button_tips">החלק מטה להסתרת לחצני המסך</string>
@@ -1995,6 +2003,7 @@
     <string name="security_encryption_attention_3">יהיה עליך להגדיר סיסמה חדשה עבור מסך הנעילה.</string>
     <string name="security_encryption_attention_4">הקפד לזכור את סיסמת מסך הנעילה שלך, אחרת יהיה עליך לבצע איפוס מלא ולמחוק את כל הנתונים במכשיר זה.</string>
     <string name="security_encryption_attention_info">באפשרותך להצפין חשבונות, הגדרות, יישומים שהורדו ונתונים שלהם, מדיה וקבצים אחרים.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">חשוב</string>
     <string name="security_encryption_close_dialog_info">בחירה שלא להצפין את המכשיר באמצעות סיסמת מסך הנעילה עשויה לגרום לשירותי Google מסויימים להיות לא זמינים.</string>
     <string name="security_encryption_close_dialog_title">חזור אל הגנה באמצעות סיסמה כברירת מחדל</string>
@@ -2004,8 +2013,8 @@
     <string name="security_encryption_progress_dialog_open">מצפין…</string>
     <string name="security_encryption_rejected_via_home_manager">תכונה זו אינה נתמכת בגרסת הדמו.</string>
     <string name="security_encryption_title">הצפן את המכשיר באמצעות סיסמת מסך הנעילה</string>
-    <string name="security_input">Security input</string>
-    <string name="security_input_hint">Using security keyboard enter password</string>
+    <string name="security_input">קלט מאובטח</string>
+    <string name="security_input_hint">הזן סיסמה באמצעות מקלדת מאובטחת</string>
     <string name="security_keyguard_category_name">מסך נעילה</string>
     <string name="security_password_category_name">נעילת מסך</string>
     <string name="security_privacy_settings_title">פרטיות</string>
@@ -2096,6 +2105,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">"התראות, לחצני בקרת נגן המוסיקה וקיצורי דרך לא יוצגו ב'מסך הנעילה'."</string>
     <string name="skip_step">דלג</string>
@@ -2138,6 +2148,7 @@
     <string name="status_bar_settings_all_app_display_loading">רק רגע…</string>
     <string name="status_bar_settings_app_notification_preferences">הגדרות יישומים</string>
     <string name="status_bar_settings_basic_settings">הגדרות בסיסיות</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">ערוך שם ספק רשת</string>
     <string name="status_bar_settings_custom_wifi_name">ערוך שם רשת אלחוטית</string>
     <string name="status_bar_settings_enable_notification">הצג התראות</string>
@@ -2177,6 +2188,9 @@
     <string name="status_summary">לחץ לצפיה בפרטים.</string>
     <string name="status_wifi_mac_address">כתובת MAC של רשת אלחוטית</string>
     <string name="statusbar_permission_desc">ההרשאות שלהלן תקפות עבור התראות חשובות בלבד.</string>
+    <string name="stop_upload_audio_log">Finish getting audio log</string>
+    <string name="stop_upload_gps_log">Finish getting GPS log</string>
+    <string name="stop_upload_modem_log">Finish getting modem log</string>
     <string name="storage_format">פורמט</string>
     <string name="storage_internal_title">אחסון לא מערכתי</string>
     <string name="storage_usb">אחסון USB</string>
@@ -2362,8 +2376,11 @@
     <string name="unrestrict_max_aspect_ratio_title">יישומים אלה עובדים ביעילות במצב מסך מלא</string>
     <string name="update_new_version">קיים עדכון זמין</string>
     <string name="update_progress_for_updates">מעדכן (%s)</string>
+    <string name="upload_audio_log">Start getting audio log</string>
     <string name="upload_debug_log_summary">סטטיסטיקות השימוש אשר מסייעות לנו לאתר ולפתור בעיות עשויות להכיל את פרטיך האישיים</string>
     <string name="upload_debug_log_title">שלח נתוני אבחון באופן אוטומטי</string>
+    <string name="upload_gps_log">Start getting GPS log</string>
+    <string name="upload_modem_log">Start getting modem log</string>
     <string name="usage_log">סטטיסטיקות שימוש ביישומים</string>
     <string name="usage_type_data_wifi_recv">נתוני רשת אלחוטית שהתקבלו</string>
     <string name="usage_type_data_wifi_send">נתוני רשת אלחוטית שנשלחו</string>
@@ -2633,9 +2650,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
