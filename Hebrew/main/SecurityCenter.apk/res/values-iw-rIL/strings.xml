@@ -433,6 +433,7 @@
     <string name="managed_user_title">כל יישומי העבודה</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
@@ -959,6 +960,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"יישום זה עשוי להאט
 את מכשירך"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">להסיר את התקנת %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">הסר התקנת יישום זה על מנת לתקן בעיות שימוש בסוללה.</string>
     <string name="om_ill_proc_type_wakelock_title">"היישום חוסם את 'מצב שינה' וזולל סוללה"</string>
@@ -1017,6 +1019,7 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">נתונים סלולריים שנשלחו</string>
     <string name="usage_type_no_coverage">זמן ללא אות</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="power_screen">מסך</string>
     <string name="power_wifi">רשת אלחוטית</string>
@@ -1211,7 +1214,7 @@ Rolled over extra data"</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="auto_task_manage_new_task">משימה אוטומטית חדשה</string>
     <string name="extreme_power_save_mode_title">חיסכון קיצוני בסוללה</string>
-    <string name="extreme_power_save_mode_summary">המצב של חיסכון קיצוני בסוללה מגביל את הפעילות ברקע, מפסיק סנכרון ומצמצם את צבעי התצוגה.</string>
+    <string name="extreme_power_save_mode_summary">Extreme battery saver restricts background activity, and stops sync.</string>
     <string name="extreme_power_save_description"><li>המצב של חיסכון קיצוני בסוללה מפסיק את כל פעילות הרקע של אפליקציה לאחר סגירת האפליקציה וחזרה אל מסך הבית. האפליקציה הזו לא תוכל לשלוח לך הודעות או לקבל עדכונים.</li>"
 "<li>אם אתה מעוניין שאפליקציה תמשיך לפעול ברקע, נעל אותה תחת אפליקציות בשימוש לאחרונה או הוסף אותה לרשימת האפליקציות המוחרגות שמופיעה למטה, כך שהיא תוכל לפעול ברקע. עד 4 אפליקציות יכולות לפעול ברקע במצב חיסכון קיצוני בסוללה.</li>"
 "<li>המצב של חיסכון קיצוני בסוללה מכבה את NFC כברירת המחדל. ניתן לשנות זאת בהגדרות.</li>"
@@ -1374,11 +1377,13 @@ Rolled over extra data"</string>
     <string name="menu_text_optimize_manage">האצת מהירות</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_summary_networkassistants">נהל את תכנית הנתונים שלך</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">חריגה ממגבלת הנתונים</string>
     <string name="menu_summary_networkassistants_3">נותר מספיק נפח גלישה</string>
     <string name="menu_summary_networkassistants_4">חבילת הגלישה נגמרת</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1391,12 +1396,14 @@ Rolled over extra data"</string>
     <string name="menu_summary_garbage_cleanup">אין אשפה</string>
     <string name="menu_summary_garbage_cleanup_2">נפח האשפה</string>
     <string name="menu_summary_garbage_cleanup_3">נקה את האשפה עכשיו</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">שימוש בסוללה</string>
     <string name="menu_summary_power_manager">מצב חיסכון בסוללה מאפשר זמן שימוש ארוך יותר בין טעינות</string>
     <string name="menu_summary_power_manager_1">הסוללה טעונה במלואה</string>
     <string name="menu_summary_power_manager_2">%s נותרו</string>
     <string name="menu_summary_power_manager_3">חבר מטען</string>
     <string name="menu_summary_power_manager_4">%s לטעינה מלאה</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">הסריקה הקודמת בוטלה</string>
     <string name="examination_score_100">הכל נראה תקין!</string>
     <string name="examination_score_80_100">מספר פריטים ניתנים לייעול</string>
@@ -1770,6 +1777,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -2319,10 +2327,12 @@ Rolled over extra data"</string>
     <string name="gb_create_icon_summary">"יצירת קיצור דרך ב'מסך הבית'"</string>
     <string name="title_reply">רשום הערה</string>
     <string name="title_like">סמן ב\"אהבתי\"</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">גלישה סלולרית</string>
     <string name="game_wid_viewpoint_buttom">קח הפסקה קצרה.</string>
     <string name="video_repeat">נגן שוב</string>
     <string name="game_video_network_eror">לא ניתן להתחבר לאינטרנט. בדוק את הגדרות הרשת ונסה שוב.</string>
+    <string name="see_more_content">Update game center to see more highlights</string>
     <string name="notify_channel_name_security">אבטחת מערכת</string>
     <string name="privacy_apps_category_title">אפליקציות נסתרות</string>
     <string name="privacy_apps">אפליקציות נסתרות</string>

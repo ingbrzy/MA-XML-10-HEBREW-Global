@@ -38,7 +38,9 @@
     <string name="aqi_quality_ambient_air_quality">איכות אויר בקרבת מקום</string>
     <string name="aqi_quality_co_desc">פחמן חד-חמצני</string>
     <string name="aqi_quality_detail_15_days">תחזית עבור 15 ימים</string>
+    <string name="aqi_quality_detail_24_hours">תחזית ל-24 שעות</string>
     <string name="aqi_quality_detail_48_hours">תחזית עבור 48 שעות</string>
+    <string name="aqi_quality_detail_5_days">תחזית ל-5 ימים</string>
     <string name="aqi_quality_major_pollutants">מזהמים עיקריים</string>
     <string name="aqi_quality_map_title">מפת איכות האויר</string>
     <string name="aqi_quality_no2_desc">חנקן דו-חמצני</string>
@@ -62,7 +64,7 @@
     <string name="button_sure_abandon">לבטל שינויים?</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">בדוק את חיבור הרשת שלך ונסה שוב</string>
-    <string name="china_version_first_start_network_msg">על ידי שימוש במוצר זה, הינך מסכים ל%1$s ול%2$s של Xiaomi. יישום זה זקוק לחיבור לאינטרנט ולגישה למיקומך על מנת שיוכל לעבוד באופן תקין.</string>
+    <string name="china_version_first_start_network_msg">שימוש במוצר זה מהווה הסכמה ל-%1$s ול-%2$s של Xiaomi. כדי לעזור לך לקבל מידע מדויק יותר על מזג האוויר, אפליקציית מזג האוויר זקוקה לפרטי המיקום שלך, ולשם כך נדרש חיבור לאינטרנט. האם אתה מסכים?</string>
     <string name="city_exceeded_warning">באפשרותך להוסיף עד 10 ערים</string>
     <string name="common_loading_text">רק רגע…</string>
     <string name="connect_fail">לא ניתן היה להתחבר לרשת, נסה שוב</string>
@@ -81,11 +83,13 @@
     <string name="daily_forecast_add_city_message">עקוב אחר מזג האוויר ב-%1$s כדי לקבל תחזית מפורטת יותר.</string>
     <string name="daily_forecast_add_city_title">עקוב אחר מזג האוויר בעזרת %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"לא ניתן היה לקבל את פרטי מזג האויר
 החלק מטה לרענון או בדוק את הגדרות הרשת"</string>
     <string name="data_provided_by">הנתונים מסופקים על ידי</string>
     <string name="edit_city">ערוך עיר</string>
-    <string name="eu_region_version_first_start_network_msg">"על ידי שימוש במוצר זה, הינך מסכים לכך ש-Xiaomi תאסוף, תעבד ותשתמש בפרטים האישיים שלך, כולל הקואורדינטות של הערים אשר הינך מחפש וסוגים שונים של מידע המצויינים ב'מדיניות הפרטיות' שלנו. קרא את 'מדיניות הפרטיות' שלנו על מנת ללמוד כיצד אנו אוספים ומעבדים מידע. על ידי לחיצה על \"מסכים\", הינך מסכים ל%1$s ול%2$s של Xiaomi."</string>
+    <string name="empty">" "</string>
+    <string name="eu_region_version_first_start_network_msg">שימושך במוצר זה מהווה הסכמה לכך שהמוצר יתחבר לאינטרנט, יאסוף ויעבד נתונים אישיים שלך וישתמש בהם, כולל פרטי הערים שבהן אתה עורך חיפושים וסוגי נתונים אחרים שמפורטים במדיניות הפרטיות שלנו. עיין במדיניות הפרטיות שלנו כדי לגלות איך אנחנו אוספים ומעבדים מידע. הקשה על \"מסכים\" מהווה הסכמה ל-%1$s ול-%2$s של Xiaomi.</string>
     <string name="feedback_heavy_rain">גשם כבד</string>
     <string name="feedback_heavy_snow">שלג</string>
     <string name="feedback_light_rain">גשם קל</string>
@@ -97,6 +101,8 @@
     <string name="first_start_network_title">חיבור לאינטרנט וגישה לנתוני מיקום</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">כעת</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">תחזית ל-24 שעות</string>
     <string name="hourly_forecast_title_hourly_desc">תחזית שעתית</string>
@@ -110,10 +116,12 @@
     <string name="indices_title_feel">הרגשה אמיתית</string>
     <string name="indices_title_pressure">לחץ</string>
     <string name="install">התקן</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">לחץ</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">פרטים</string>
     <string name="international_details_uv_index_title">מדד UV</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">רוח</string>
     <string name="it_is_going_to_rain">עומד לרדת גשם</string>
     <string name="locate_fail_detail_err">"לא ניתן לאתר את המכשיר
@@ -158,6 +166,7 @@
     <string name="privacy_grant_failed">לא ניתן היה להעניק הרשאה. המתן דקה או שתיים ונסה שוב.</string>
     <string name="privacy_grant_or_revoke_settings">הענקה ושלילת הרשאה</string>
     <string name="privacy_grant_success">ההרשאה הוענקה בהצלחה</string>
+    <string name="privacy_policy">מדיניות הפרטיות</string>
     <string name="privacy_revoke_failed">לא ניתן היה לשלול הרשאה. המתן דקה או שתיים ונסה שוב.</string>
     <string name="privacy_revoke_success">ההרשאה נשללה בהצלחה</string>
     <string name="privacy_settings">מדיניות הפרטיות</string>
@@ -185,6 +194,7 @@
     <string name="share_menu_title">שיתוף</string>
     <string name="share_subject">שתף</string>
     <string name="share_weather_desc">\#מזג אויר MIUI#היום %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">לא ניתן היה לבצע צילום מסך</string>
     <string name="some_where_on_earth">איפה שהוא בכדור הארץ</string>
@@ -220,6 +230,7 @@
     <string name="update_setting_title_text">עדכן את המידע אודות מזג האויר</string>
     <string name="updated_a_moment_ago">עודכן לפני חודש</string>
     <string name="updating">מעדכן…</string>
+    <string name="user_agreement">תנאי השירות</string>
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
     <string name="video_dialog_subtitle" />

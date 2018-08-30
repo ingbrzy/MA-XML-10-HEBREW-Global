@@ -61,7 +61,6 @@
     <string name="add_to_quicklink">עמוד הבית</string>
     <string name="added_to_bookmarks">נוסף לסימניות</string>
     <string name="adjust_text_zoom_toast">שינוי גודל הטקסט עשוי לגרום לאתרי אינטרנט מסוימים להיות מוצגים באופן שגוי</string>
-    <string name="adx_loading_str">רק רגע…</string>
     <string name="agree">מסכים</string>
     <string name="agree_permissions_request">לאפשר</string>
     <string name="alert_tips">אתר זה עשוי להוות סיכון אבטחה</string>
@@ -77,7 +76,6 @@
     <string name="aqi_quality_index_moderate">מתון</string>
     <string name="aqi_quality_index_pure">מצוין</string>
     <string name="aqi_quality_index_unhealthy">לא בריא</string>
-    <string name="articles_updated">%1$d מאמרים עודכנו</string>
     <string name="autoSwithcingSearchEngineTips">מנוע החיפוש הוחלף למנוע החיפוש השכיח</string>
     <string name="autologin_bar_error">לא ניתן היה להיכנס</string>
     <string name="autologin_bar_hide_text">הסתרה</string>
@@ -322,6 +320,7 @@
     <string name="ignore_add_pwa_dialog_today">לא להציג היום</string>
     <string name="in_incognito">אתה גולש במצב נסתר! דפים בהם תצפה בתוית זו לא יופיעו בהיסטורית הדפדפן שלך.</string>
     <string name="in_secureaccess">"ה'דפדפן' עבר ל'מצב בטוח'"</string>
+    <string name="into_info_flow_guide">הצג מאמרים נוספים</string>
     <string name="isReplacePage">הקובץ קיים כבר, להחליף?</string>
     <string name="is_first_history_item">"זהו העמוד הראשון בהיסטורית ה'דפדפן'"</string>
     <string name="is_first_tab">זוהי התוית הראשונה</string>
@@ -445,8 +444,8 @@
     <string name="mw_color_picker_value">ערך</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">ההעתקה ללוח נכשלה</string>
-    <string name="mw_data_traffic_prompt_change">שימוש באינטרנט הסלולרי שלך לצפייה בסרטונים יגדיל את השימוש שלך בנתונים. אם תחרוג מנפח הגלישה הכלול בתוכנית שלך, ייתכן שספק התקשורת הסלולרית שלך יגבה תשלומים נוספים.</string>
-    <string name="mw_data_traffic_prompt_message">שימוש באינטרנט הסלולרי שלך לדפדוף בסרטונים יגדיל את השימוש שלך בנתונים. אם תחרוג מנפח הגלישה הכלול בתוכנית שלך, ייתכן שספק התקשורת הסלולרית שלך יגבה תשלומים נוספים.</string>
+    <string name="mw_data_traffic_prompt_change">שימוש באינטרנט הסלולרי שלך לצפייה בסרטונים יגדיל את צריכת הנתונים שלך. אם תחרוג מנפח הגלישה הכלול בתוכנית שלך, ייתכן שספק התקשורת הסלולרית שלך יגבה ממך תשלומים נוספים.</string>
+    <string name="mw_data_traffic_prompt_message">שימוש באינטרנט הסלולרי שלך לדפדוף בסרטונים יגדיל את צריכת הנתונים שלך. אם תחרוג מנפח הגלישה הכלול בתוכנית שלך, ייתכן שספק התקשורת הסלולרית שלך יגבה ממך תשלומים נוספים.</string>
     <string name="mw_data_traffic_prompt_message_short">שימוש באינטרנט סלולרי להזרמה וצפייה בסרטונים עלול לגרום לחריגה מנפח הגלישה הכלול בתוכנית שלך.</string>
     <string name="mw_data_traffic_prompt_title">אזהרת שימוש בנתונים</string>
     <string name="mw_date_picker_dialog_clear">נקה</string>
@@ -461,7 +460,7 @@
     <string name="mw_http_post_warning_resend">המשך</string>
     <string name="mw_js_dialog_before_unload">"%s
 
-בטוח שאתה רוצה לנווט החוצה מדף זה?"</string>
+לצאת מדף זה?"</string>
     <string name="mw_js_dialog_before_unload_negative_button">הישאר בעמוד זה</string>
     <string name="mw_js_dialog_before_unload_positive_button">צא מעמוד זה</string>
     <string name="mw_js_dialog_before_unload_title">אשר ניווט</string>
@@ -475,8 +474,8 @@
     <string name="mw_login_dialog_username_field">שם משתמש</string>
     <string name="mw_low_memory_error">לא ניתן להשלים את הפעולה האחרונה מכיוון שאין מספיק זיכרון פנוי</string>
     <string name="mw_media_player_error_button">אישור</string>
-    <string name="mw_media_player_error_text_invalid_progressive_playback">מצטערים, לא ניתן להזרים את הסרטון במכשיר זה.</string>
-    <string name="mw_media_player_error_text_unknown">מצטערים, לא ניתן לנגן את הסרטון.</string>
+    <string name="mw_media_player_error_text_invalid_progressive_playback">לא ניתן להזרים את הסרטון במכשיר זה.</string>
+    <string name="mw_media_player_error_text_unknown">לא ניתן לנגן את הסרטון.</string>
     <string name="mw_media_player_error_title">לא ניתן לנגן את הסרטון</string>
     <string name="mw_media_player_loading_video">טוען סרטון</string>
     <string name="mw_miui_content_copy">העתק</string>
@@ -641,7 +640,7 @@
     <string name="mw_payments_edit_contact_details_label">ערוך פרטי יצירת קשר</string>
     <string name="mw_payments_email_invalid_validation_message">הזן כתובת דוא\"ל חוקית</string>
     <string name="mw_payments_email_required">דוא\"ל נדרש</string>
-    <string name="mw_payments_error_message">אירעה שגיאה במהלך עיבוד הזמנתך. אנא נסה שוב.</string>
+    <string name="mw_payments_error_message">אירעה שגיאה בעיבוד ההזמנה שלך. נסה שוב.</string>
     <string name="mw_payments_field_required_validation_message">שדה נדרש</string>
     <string name="mw_payments_invalid_address">הזן כתובת חוקית</string>
     <string name="mw_payments_loading_message">טוען</string>
@@ -675,13 +674,13 @@
     <string name="mw_payments_unsupported_shipping_address">לא ניתן לשלוח לכתובת זו. בחר כתובת אחרת.</string>
     <string name="mw_payments_unsupported_shipping_option">שיטת המשלוח לא זמינה. נסה שיטת משלוח אחרת.</string>
     <string name="mw_payments_updated_label">מעודכן</string>
-    <string name="mw_permission_alert_window">כדי להשתמש בתכונה זו, אנא פתח את אפשרות המערכת הצג חלון קופץ.</string>
+    <string name="mw_permission_alert_window">כדי להשתמש בתכונה זו יש לפתוח את הצג חלון קופץ.</string>
     <string name="mw_permission_unknown">אפשרות לא ידועה</string>
     <string name="mw_photo_picker_browse">עיון</string>
     <string name="mw_photo_picker_camera">מצלמה</string>
     <string name="mw_photo_picker_select_images">בחר תמונות</string>
     <string name="mw_private_browsing_warning">אפשרות זו אינה נתמכת בגרסה זו של אנדרואיד.</string>
-    <string name="mw_profiler_error_toast">התחלת יצירת פרופיל נכשלה</string>
+    <string name="mw_profiler_error_toast">לא ניתן היה להפעיל את יוצר הפרופילים.</string>
     <string name="mw_profiler_no_storage_toast">לא ניתן להתחיל ביצירת הפרופיל מאחר והתקן האחסון החיצוני אינו מוכן</string>
     <string name="mw_profiler_started_toast">יצירת פרופיל החלה</string>
     <string name="mw_profiler_stopped_toast">יצירת הפרופיל הסתיימה. התוצאות נמצאות ב: %1$s.</string>
@@ -699,13 +698,15 @@
     <string name="mw_sad_tab_send_feedback_label">שלח משוב</string>
     <string name="mw_sad_tab_title">אוי לא!</string>
     <string name="mw_sad_tab_uma_optin">שלח אוטומטית סטטיסטיקות שימוש ודוחות קריסה אל Google</string>
-    <string name="mw_save_password_message">האם אתה רוצה שהדפדפן יזכור את הסיסמה הזו?</string>
+    <string name="mw_save_password_message">לזכור סיסמה זו?</string>
     <string name="mw_save_password_never">לעולם לא</string>
     <string name="mw_save_password_notnow">לא עכשיו</string>
     <string name="mw_save_password_remember">זכור</string>
     <string name="mw_snippets_disabled_generic_prompt">קבל תוכן מותאם אישית</string>
     <string name="mw_snippets_disabled_signed_out_instructions">היכנס לדפדפן Chrome כדי לקבל תוכן מותאם אישית המוצע על ידי Google.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">הגדר זמן</string>
@@ -723,9 +724,8 @@
     <string name="nav_bottom_bar_new_tab">תוית חדשה</string>
     <string name="nav_screen_container_tab_incognito">תוית אנונימית</string>
     <string name="nav_screen_container_tab_normal">תוית רגילה</string>
-    <string name="nav_screen_incognito_message">"היסטורית הגלישה והחיפוש שלך לא תישמר במצב 'גלישה בסתר'.
-זכור כי הקבצים שתוריד והסימניות שתוסיף עדיין ישמרו."</string>
-    <string name="nav_screen_incognito_title">מצב גלישה בסתר</string>
+    <string name="nav_screen_incognito_message">במצב אנונימי היסטוריית הגלישה והחיפושים שלך לא תישמר. זכור שהקבצים שהורדת והסימניות שהוספת עדיין נשמרים.</string>
+    <string name="nav_screen_incognito_title"> מצב גלישה בסתר</string>
     <string name="navigation_delete_all">החלק שמאלה או ימינה לסגירת כל התויות</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">ביטול</string>
     <string name="navigationbar_rightbutton_actiontext_go">המשך</string>
@@ -778,11 +778,12 @@
     <string name="pref_accessibility_url_shortcut_enter_summary">ניתן להזין צירופי אותיות נפוצים בהקשה אחת בשורת הכתובת</string>
     <string name="pref_accessibility_url_shortcut_enter_title">הזנה מהירה של כתובת אתר</string>
     <string name="pref_adblock_title">חוסם המודעות</string>
+    <string name="pref_auto_update">עדכן אוטומטית</string>
     <string name="pref_auto_update_under_wifi">עדכן בעת חיבור לרשת אלחוטית</string>
     <string name="pref_automatic_matching_searchengines_title">החלף למנוע החיפוש השכיח</string>
     <string name="pref_card_setting">ארגון האתרים המובילים</string>
     <string name="pref_category_hint">קטגוריה</string>
-    <string name="pref_check_recommendation_app_quicklink">מוצעים עבורך</string>
+    <string name="pref_check_recommendation_app_quicklink">מומלץ עבורך</string>
     <string name="pref_check_security_url_summary">שלח כתובת אתר זה אל שרתי Mi לצורך בדיקת אבטחה</string>
     <string name="pref_check_security_url_summary_international">"אפשר ל'דפדפן' לגשת אל כתובות ה-URL של האתרים בהם הינך גולש על מנת לקבל המלצות רלוונטיות נוספות."</string>
     <string name="pref_check_security_url_title">בדוק אבטחה של כתובת אתר</string>
@@ -927,6 +928,7 @@
     <string name="readmodelist_bookmarks_to_show">רשימת קריאה</string>
     <string name="refresh">רענון</string>
     <string name="refresh_fail">לא ניתן היה לטעון את המידע</string>
+    <string name="refresh_guide">חזרה למעלה</string>
     <string name="refreshing">מרענן…</string>
     <string name="refuse_permissions_request">להגביל</string>
     <string name="release_to_refresh">שחרר לרענון</string>
@@ -1089,6 +1091,7 @@
     <string name="version_check_button_resume_download">המשך הורדה</string>
     <string name="version_check_button_update">עדכון</string>
     <string name="version_check_failed">לא ניתן היה לבדוק זמינות עדכונים</string>
+    <string name="version_dialog_4G_checkbox">ניתן לעדכן יישומי מערכת באמצעות שימוש בנתונים סלולריים. כתוצאה מכך ייתכנו חיובי גלישה נוספים.</string>
     <string name="version_dialog_buttion_ok">אישור</string>
     <string name="version_dialog_buttion_update">עדכון</string>
     <string name="version_update_file_download_toast">מוריד</string>
@@ -1191,6 +1194,7 @@
     <string name="date_picker_dialog_set">הגדר</string>
     <string name="date_picker_dialog_title">הגדר תאריך</string>
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
+    <string name="external_app_restricted_access_error">אין ל-Mi Browser גישה למשאב המבוקש.</string>
     <string name="find_next">מצא את הבא</string>
     <string name="find_previous">מצא את הקודם</string>
     <string name="js_dialog_before_unload">"%s

@@ -13,10 +13,10 @@
         <item quantity="many">%d פריטים נחסמו</item>
     </plurals>
     <plurals name="articles_updated_amount">
-        <item quantity="other">מאמר %1$d עודכן עבורך</item>
-        <item quantity="one">מאמר %1$d עודכן עבורך</item>
-        <item quantity="two">%1$dמאמרים עודכנו עבורך</item>
-        <item quantity="many">%1$dמאמרים עודכנו עבורך</item>
+        <item quantity="other">בדוק %1$d מאמרים חדשים</item>
+        <item quantity="one">בדוק מאמר חדש אחד (%1$d)</item>
+        <item quantity="two">בדוק %1$d מאמרים חדשים</item>
+        <item quantity="many">בדוק %1$d מאמרים חדשים</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">למחוק %d משימות?</item>
@@ -121,10 +121,10 @@
         <item quantity="many">%d דקות נותרו</item>
     </plurals>
     <plurals name="videos_updated_amount">
-        <item quantity="other">סרטון %1$d עודכן עבורך</item>
-        <item quantity="one">סרטון %1$d עודכן עבורך</item>
-        <item quantity="two">%1$d סרטונים עודכנו עבורך</item>
-        <item quantity="many">%1$d סרטונים עודכנו עבורך</item>
+        <item quantity="other">בדוק %1$d סרטוני וידאו חדשים</item>
+        <item quantity="one">בדוק סרטון וידאו חדש אחד (%1$d)</item>
+        <item quantity="two">בדוק %1$d סרטוני וידאו חדשים</item>
+        <item quantity="many">בדוק %1$d סרטוני וידאו חדשים</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">בהיר</item>
