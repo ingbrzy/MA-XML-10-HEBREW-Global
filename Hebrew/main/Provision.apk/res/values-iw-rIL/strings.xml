@@ -67,6 +67,7 @@
     <string name="disagree">ביטול</string>
     <string name="setting_locale">מגדיר אזור…</string>
     <string name="agree_terms">קראתי ואני מסכים לתנאי השירות ומדיניות הפרטיות.</string>
+    <string name="poco_agree_terms_other">(מדיניות האבטחה והסכם המשתמש כוללים את השימוש ב POCO LAUNCHER)</string>
     <string name="agree_terms_input_method_facemoji">קראתי ואני מסכים למדיניות הפרטיות של Facemoji.</string>
     <string name="agree_terms_input_method_kika">קראתי ואני מסכים למדיניות הפרטיות של Kika.</string>
     <string name="miui_terms_no_network">"אין ברשותך חיבור לאינטרנט. הצג את 'תנאי השירות' ב-%s."</string>
@@ -100,5 +101,16 @@
     <string name="continue_to_enable_accessibility">המשך להחזיק באמצעות שתי אצבעות כלפי מטה על מנת לאפשר את הנגישות.</string>
     <string name="voice_assist_title">הער באמצעות קול</string>
     <string name="voice_assist_desp">אמור \"Mi AI\" אל תוך מיקרופון הטלפון שלך. Mi AI יזהה את הקול שלך ויוכל לשלוט על המכשיר.</string>
-    <string name="voice_assist_desp_screen_light">לאחר שהמסך יידלק, אמור לטלפון שלך \"Mi AI\". Mi AI יזהה את הקול שלך ויוכל לשלוט על המכשיר שלך.</string>
+    <string name="voice_assist_condition">"You'll be able to use Mi AI in these cases:
+1. When the screen is on.
+2. When you're listening to music with your screen off."</string>
+    <string name="voice_assist_advice">Mi AI allows you to use voice controls, but it consumes more power (+1% every hour).</string>
+    <string name="ai_button_title">About AI button</string>
+    <string name="ai_button_desc">Use this button to trigger Mi AI and complete tasks on your phone using just your voice</string>
+    <string name="ai_button_long_press">Press and hold</string>
+    <string name="ai_button_long_press_desc">Say your command and release the button</string>
+    <string name="ai_button_single_press">Press</string>
+    <string name="ai_button_single_press_desc">Trigger Mi AI</string>
+    <string name="ai_button_double_press">Double press</string>
+    <string name="ai_button_double_press_desc">Set up Mi AI features</string>
 </resources>

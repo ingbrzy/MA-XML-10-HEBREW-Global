@@ -42,6 +42,12 @@
         <item quantity="two">%d הודעות</item>
         <item quantity="many">%d הודעות</item>
     </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Marked as %2$s by %1$d people</item>
+        <item quantity="one">Marked as %2$s by %1$d people</item>
+        <item quantity="two">Marked as %2$s by %1$d people</item>
+        <item quantity="many">Marked as %2$s by %1$d people</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s הודעות</item>
         <item quantity="one">הודעה %1$s</item>

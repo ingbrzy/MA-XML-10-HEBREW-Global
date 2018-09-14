@@ -55,7 +55,6 @@
     <string name="btn_split_contact">הפרד</string>
     <string name="button_cancel_scan">הפסק</string>
     <string name="button_join_service_number">הוסף מספר שירות</string>
-    <string name="button_my_center">פרופיל</string>
     <string name="button_scan">סרוק מחדש</string>
     <string name="caching_vcard_message">מטמין vCard במכשיר…</string>
     <string name="caching_vcard_title">מטמין</string>
@@ -99,6 +98,7 @@
     <string name="call_sim_menu_title_suffix">(עיקרי)</string>
     <string name="call_telex">התקשר לטלקס</string>
     <string name="call_tty_tdd">התקשר ל-TTY/TDD</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">התקשר לעבודה</string>
     <string name="call_work_mobile">התקשר לנייד בעבודה</string>
@@ -191,6 +191,7 @@
     <string name="composer_failed_to_get_database_infomation">לא ניתן היה לקבל מידע ממסד הנתונים.</string>
     <string name="composer_has_no_exportable_contact">אין אנשי קשר ליצוא. במידה ויש לך אנשי קשר על גבי המכשיר, יתכן וספקי נתונים מסוימים אינם מאפשרים יצוא של אנשי הקשר מהמכשיר.</string>
     <string name="composer_not_initialized">יוצר קבצי vCard לא הופעל בצורה תקינה.</string>
+    <string name="conference_call_disable_tip">"Can't make calls. Make sure your device is connected to a 4G network with VoLTE support."</string>
     <string name="confirm_delete_contact_all_call_logs">למחוק את כל ההיסטוריה של %s?</string>
     <string name="confirm_delete_selected_all_call_logs">לנקות את יומן השיחות?</string>
     <string name="confirm_delete_sim_entry_miui_title">מחק</string>
@@ -398,6 +399,7 @@
     <string name="dialer_menu_description">הצג תפריטים</string>
     <string name="dialer_menu_title">אפשרויות תפריט</string>
     <string name="dialer_returnToInCallScreen">חזור לשיחה הפעילה</string>
+    <string name="dialer_title_divider">" ｜ "</string>
     <string name="dialer_useDtmfDialpad">השתמש בלוח מקשים צלילי</string>
     <string name="dialog_import">ייבא אנשי קשר</string>
     <string name="dialog_import_export">ייבא/ייצא אנשי קשר</string>
@@ -485,8 +487,8 @@
     <string name="firewall_setting">רשימת החסומים</string>
     <string name="force_touch_miprofile">כרטיס איש קשר</string>
     <string name="force_touch_new_contact">איש קשר חדש</string>
-    <string name="foundTooManyContacts">יותר מ %d נמצאו.</string>
     <string name="frequentList">שכיח</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">שם</string>
     <string name="gallery">גלריה</string>
     <string name="generic_no_account_prompt">שמור את אנשי הקשר שלך בטוחים גם אם תאבד את הטלפון שלך: סנכרן אותם באמצעות שרות מקוון.</string>
@@ -654,7 +656,6 @@
     <string name="menu_splitAggregate">הפרד</string>
     <string name="menu_sync_remove">הסר קבוצת סנכרון</string>
     <string name="menu_viewContact">צפיה באיש קשר</string>
-    <string name="merge_contact_message">%1$d אנשי קשר עם מידע זהה חלקית</string>
     <string name="messageShortcutActivityTitle">בחר מספר למשלוח הודעה</string>
     <string name="miprofile_account_type">כרטיסי איש קשר</string>
     <string name="miprofile_alertdialog_edit">הכנס שם</string>
@@ -668,6 +669,7 @@
     <string name="miprofile_contact_header">אנשי קשר עם כרטיסי איש קשר</string>
     <string name="miprofile_contact_meaasge">אנשי קשר מקומיים</string>
     <string name="miprofile_contact_verifying">מאמת</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ערוך פרופיל</string>
     <string name="miprofile_error_accept_self">לא ניתן להחליף את כרטיס איש הקשר האישי שלך</string>
     <string name="miprofile_error_no_miaccount">היכנס לחשבון Mi שלך</string>
@@ -821,7 +823,10 @@
     <string name="path_wipe_data">יישומי מערכתנשי קשררגן אנשי קשרקה נתונים</string>
     <string name="payphone">טלפון ציבורי</string>
     <string name="people">אנשי קשר</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">טלפון</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
     <string name="phone_primary">עיקרי</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות על גבי המכשיר.</string>
@@ -1016,8 +1021,6 @@
     <string name="search_wipe_data">ארגן;אנשי קשר</string>
     <string name="searching_vcard_message">מחפש נתוני vCard במכשיר…</string>
     <string name="select_all">בחר הכל</string>
-    <string name="select_all_exceed">בחר לא יותר מ-%1$d, לא ניתן לבחור הכל</string>
-    <string name="select_exceed">בחר לא יותר מ-%1$d</string>
     <string name="select_groups">בחר קבוצות</string>
     <string name="select_none">לא נבחרו פריטים</string>
     <string name="select_show_contacts">רשימת איש קשר</string>
@@ -1070,6 +1073,7 @@
     <string name="sim_unloaded">כרטיס ה-SIM אינו מותקן</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">אין חברי קבוצה</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">חברות</string>
     <string name="smart_group_company_unavailable">אין פרטי חברה</string>
     <string name="smart_group_frequency_1">בחודש האחרון</string>
@@ -1204,6 +1208,7 @@
     <string name="voip_audio_description">שיחת VoiP</string>
     <string name="voip_video_description">שיחת וידאו VoiP</string>
     <string name="websiteLabelsGroup">אתר</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">נקה נתונים</string>
     <string name="yellowPageNavigationIconLabel">דפי זהב</string>
     <string name="yellowPageNavigationLabel">דפי זהב</string>
@@ -1230,4 +1235,5 @@
     <string name="yellowpage_search_the_yellowpage">חיפוש בדפי זהב</string>
     <string name="yellowpage_user_profile">פרופיל</string>
     <string name="zero_items_selected">בחר פריטים</string>
+    <string name="button_my_center">פרופיל</string>
 </resources>

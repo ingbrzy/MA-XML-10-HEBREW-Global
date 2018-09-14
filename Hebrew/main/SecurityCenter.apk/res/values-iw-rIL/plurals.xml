@@ -182,6 +182,18 @@
         <item quantity="two">%d בעיות סוללה התגלו, תקן אותן</item>
         <item quantity="many">%d בעיות סוללה התגלו, תקן אותן</item>
     </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">items</item>
+        <item quantity="one">item</item>
+        <item quantity="two">items</item>
+        <item quantity="many">items</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Add %d minutes</item>
+        <item quantity="one">Add %d minute</item>
+        <item quantity="two">Add %d minutes</item>
+        <item quantity="many">Add %d minutes</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">הורד על ידי %1$d אנשים</item>
         <item quantity="one">הורד על ידי אדם %1$d</item>
@@ -423,10 +435,10 @@
         <item quantity="many">נמצאו %d יישומים</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">איפוס להגדרות היצרן(%ds)</item>
-        <item quantity="one">איפוס להגדרות היצרן(%ds)</item>
-        <item quantity="two">איפוס להגדרות היצרן(%ds)</item>
-        <item quantity="many">איפוס להגדרות היצרן(%ds)</item>
+        <item quantity="other">Factory reset (%ds)</item>
+        <item quantity="one">Factory reset (%ds)</item>
+        <item quantity="two">Factory reset (%ds)</item>
+        <item quantity="many">Factory reset (%ds)</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d יישומים נעולים ממתינים להסרה</item>
@@ -529,6 +541,12 @@
         <item quantity="one">אפליקציה %d מוסתרת</item>
         <item quantity="two">%d אפליקציות מוסתרות</item>
         <item quantity="many">%d אפליקציות מוסתרות</item>
+    </plurals>
+    <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d apps may be displayed incorrectly. Restrict floating notifications.</item>
+        <item quantity="one">%d app may be displayed incorrectly. Restrict floating notifications.</item>
+        <item quantity="two">%d apps may be displayed incorrectly. Restrict floating notifications.</item>
+        <item quantity="many">%d apps may be displayed incorrectly. Restrict floating notifications.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d בעיות שדורשות מיטוב</item>

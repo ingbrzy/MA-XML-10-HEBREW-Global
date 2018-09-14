@@ -57,6 +57,7 @@
     <string name="save_pic_success">התמונה נשמרה ב- %s</string>
     <string name="save_pic_fail">לא ניתן היה לשמור את התמונה, בדוק את כרטיס הזכרון שלך</string>
     <string name="pic_not_exist">תמונה זו אינה קיימת</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">בחר מוצר</string>
     <string name="michat_skillset_business_type_title">בחר שירות</string>
     <string name="michat_close_text">"הצ'אט הסתיים"</string>
@@ -161,13 +162,16 @@
     <string name="cta_cancel">ביטול</string>
     <string name="cta_confirm">אישור</string>
     <string name="submit_dialog_title">שלח דו\"ח</string>
-    <string name="submit_dialog_content">המשוב שלך, יחד עם קבצים מצורפים ויומנים, ישלח לשרתי MIUI. המשוב עשוי להכיל מידע אישי ואת נתוני המיקום שלך.</string>
-    <string name="submit_dialog_content_global">המשוב שלך, יחד עם הקבצים המצורפים (במידה ויש) והיומנים (באפשרותך לבטל את סימון התיבות עבור הפריטים אשר אינך מעוניין להעלות) ישלחו אל שרתי MIUI ואל חלקה מוגבלת עבור מפתחים של פורום MIUI. גם המידע אודות השרשורים והפעילות שלך בפורום יאסף לצורך ניתוח והתקשרות נוספת. היומנים עשויים להכיל פרטים אישיים ואת נתוני המיקום שלך.</string>
+    <string name="submit_dialog_content"><Data>המשוב שלך, לצד הקבצים המצורפים והיומנים, יישלחו לשרתי MIUI. ייתכן שהחומר שנשלח יכיל מידע אישי ופרטי המיקום שלך. המשמעות של בחירה באפשרות \"מסכים\" היא שקראת והסכמת &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">למדיניות הפרטיות&lt;/a> וגם &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">להסכם המשתמש&lt;/a> שלנו.</Data></string>
+    <string name="submit_dialog_content_global"><Data>המשוב שלך, לצד הקבצים המצורפים (אם יש) והיומנים (ניתן לבטל את הסימון בתיבות הרלוונטיות עבור הפריטים שאינך רוצה להעלות) יישלחו לשרתי MIUI ולחלק מוגבל של פורום MIUI למפתחים. ייאסף גם מידע לגבי השרשורים והפעילות שלך בפורום לצורך ניתוח והמשך התקשורת אתך. היומנים עשויים להכיל מידע אישי ופרטי המיקום שלך. המשמעות של בחירה באפשרות \"מסכים\" היא שקראת והסכמת &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">למדיניות הפרטיות&lt;/a> וגם &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">להסכם המשתמש&lt;/a> שלנו.</Data></string>
     <string name="submit_dialog_cancel">לא מסכים</string>
     <string name="submit_dialog_confirm">מסכים</string>
+    <string name="tab_title_preferences">הגדרות</string>
+    <string name="privacy_policy_title">מדיניות הפרטיות</string>
+    <string name="privacy_category_title">פרטיות</string>
     <string name="mobile_data_note_dialog_title">אזהרת שימוש בנתונים</string>
-    <string name="mobile_data_note_dialog_content">שימוש בנתונים סלולריים להעלאת יומנים עשוי לגרום לחיובים נוספים.</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">העלאת יומנים באמצעות חיבור הנתונים הסלולרי תזדקק ל-%sMB של נתונים.</string>
+    <string name="mobile_data_note_dialog_content">נראה שאתה מחובר לרשת בתשלום. העלאת יומנים עשויה לגרום לחיובים נוספים.</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">נראה שאתה מחובר לרשת בתשלום. העלאת יומנים תצרוך %sMB של נתונים סלולריים.</string>
     <string name="mobile_data_note_dialog_cancel">המתן לחיבור רשת אלחוטית</string>
     <string name="mobile_data_note_dialog_confirm">העלאה</string>
     <string name="modem_tool_log_dumping_title">לוכד יומני מודם</string>
@@ -177,7 +181,7 @@
     <string name="modem_tool_log_finish_title">יומן המודם נרשם</string>
     <string name="modem_tool_log_finish_desc">היומן נשמר כ-%s</string>
     <string name="bugreport_dialog_not_show_again">אל תציג שוב</string>
-    <string name="bugreport_dialog_submit_content">הינך שומר יומני תוכנה על גבי מכשיר זה כעת. היומנים עשויים להכיל פרטים אישיים ואת נתוני המיקום שלך. הימנע משיתוף יומנים עם אנשים אחרים על מנת למנוע חשיפה של מידע זה.</string>
+    <string name="bugreport_dialog_submit_content"><Data>כעת אתה מבצע שמירה של יומני תוכנה במכשיר זה. היומנים עשויים להכיל מידע אישי ופרטי המיקום שלך. אל תשתף את היומנים עם אף אחד אם אינך מעוניין בחשיפת המידע הזה. המשמעות של בחירה באפשרות \"מסכים\" היא שקראת והסכמת &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">למדיניות הפרטיות&lt;/a> וגם &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">להסכם המשתמש&lt;/a> שלנו.</Data></string>
     <string name="bugreport_dump_start_notification_title">יוצר דו\"ח שגיאה…</string>
     <string name="bugreport_dump_start_notification_summary">זה עשוי לארוך מספר דקות.</string>
     <string name="bugreport_dump_complete_notification_title">דו\"ח שגיאה נוצר</string>
@@ -242,6 +246,7 @@
     <string name="feedback_third_packagename_hint">איזה יישום צד שלישי גורם לבעיות?</string>
     <string name="toast_third_packagename_required">הזן שם יישום</string>
     <string name="feedback_contact_info_hint">מספר טלפון/דוא\"ל</string>
+    <string name="toast_loading_app_id">מקבל מידע…</string>
     <string name="feedback_status_commit_succ_title">נשלח</string>
     <string name="feedback_status_commit_uploading_title">שולח…</string>
     <string name="feedback_status_commit_failed_title">לא ניתן היה לשלוח את הדו\"ח</string>
@@ -256,9 +261,9 @@
     <string name="feedback_status_submit_attachment">הקובץ המצורף נשלח בהצלחה</string>
     <string name="feedback_status_collect_log_failed">לא ניתן לקבל את היומנים</string>
     <string name="feedback_status_submit_feedback_failed">לא ניתן לשלוח משוב</string>
-    <string name="feedback_status_save_log_info_failed">לא ניתן לשנות את כתובת ה-URL של הקובץ המצורף</string>
+    <string name="feedback_status_save_log_info_failed">לא ניתן להחליף את כתובת ה-URL המצורפת</string>
     <string name="feedback_status_submit_bbs_failed">לא ניתן לשלוח את תוכן המשוב</string>
-    <string name="feedback_status_get_and_save_bbs_info_failed">לא ניתן לקבל את כתובת ה-URL של הקובץ המצורף</string>
+    <string name="feedback_status_get_and_save_bbs_info_failed">לא ניתן לקבל את כתובת ה-URL של הנספח</string>
     <string name="feedback_status_upload_log_failed">לא ניתן להעלות את הקבצים המצורפים</string>
     <string name="feedback_status_change_notification_title">התקדמות הדווח שלך עודכנה</string>
     <string name="feedback_bug_status_change_notification_desc">בעיה %1$s \"%2$s\"</string>
@@ -285,6 +290,8 @@
     <string name="warning_field_invalid">בחר %1$s חוקי</string>
     <string name="min_error">על ה- %1$s שלך להיות ארוך יותר.</string>
     <string name="max_error">על ה- %1$s שלך להיות קצר יותר.</string>
+    <string name="reply_option_log_hint">可选</string>
+    <string name="reply_select_log_hint">选择日志文件</string>
     <string name="title_mi_family">חנויות Mi Home בקרבת מקום</string>
     <string name="hint_feedback_main">תאר את הבעיה</string>
     <string name="goon_feedback_main">המשך</string>
@@ -320,7 +327,6 @@
     <string name="toast_pic_not_exists">תמונת המטמון נמחקה</string>
     <string name="toast_screenshot_too_large">לא ניתן להעלות קבצים הגדולים מ-10MB.</string>
     <string name="toast_log_too_large">לא ניתן היה להעלות. הקובץ גדול מידי.</string>
-    <string name="title_bbs_feedback_main">למידע נוסף אודות Mi phones</string>
     <string name="title_customer_service">שירות לקוחות</string>
     <string name="customer_service_apply">בקשת עזרה משירות הלקוחות</string>
     <string name="customer_service_complain">דיווח לשירות הלקוחות</string>

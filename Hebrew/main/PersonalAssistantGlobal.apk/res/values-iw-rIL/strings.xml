@@ -85,6 +85,7 @@
     <string name="card_settings_rule">Card order settings</string>
     <string name="card_title_funclaunch">Shortcuts</string>
     <string name="card_title_noteboard">A brief note</string>
+    <string name="card_title_utilities">כלי עזר</string>
     <string name="check_network">Check network settings</string>
     <string name="check_network_retry">Check network settings and try again</string>
     <string name="cleanup_garbage">Cleaner</string>
@@ -121,6 +122,7 @@
     <string name="google">Google</string>
     <string name="help_quick_start_wechat_video">Get access to specific app features using shortcuts</string>
     <string name="hold_down_adjustment_order">Hold the icon on the right to drag items</string>
+    <string name="holiday_empty_desc">למידע נוסף הקש כאן</string>
     <string name="home">Home</string>
     <string name="home_and_company">Home &amp; work</string>
     <string name="hour12_format_en">hh:mm</string>
@@ -182,6 +184,7 @@
     <string name="no_more_result">"That's all for now."</string>
     <string name="no_settings">Not set</string>
     <string name="no_signal">לא ניתן היה לרענן, נסה שוב מאוחר יותר</string>
+    <string name="no_utilities_apps">אין כלי עזר זמינים. נסה שוב מאוחר יותר.</string>
     <string name="not_install_c1">"This app isn't installed on your phone. Download and install it?"</string>
     <string name="not_install_c3">Download</string>
     <string name="not_install_c4">No thanks</string>
@@ -324,6 +327,7 @@
     <string name="upgrade_log_title">New version</string>
     <string name="upgrade_now">Update</string>
     <string name="user_id">User ID: %s</string>
+    <string name="utilities_apps_bref">כאן ניתן לעיין בשירותי צד שלישי</string>
     <string name="walk">Walk</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">How do you normally get to your destination?</string>

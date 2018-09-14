@@ -78,6 +78,24 @@
         <item quantity="two">"%1$d  שעות ו-%2$d  דקות"</item>
         <item quantity="many">"%1$d  שעות ו-%2$d  דקות"</item>
     </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Remaining %d hours</item>
+        <item quantity="one">Remaining %d hour</item>
+        <item quantity="two">Remaining %d hours</item>
+        <item quantity="many">Remaining %d hours</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Remaining %d minutes</item>
+        <item quantity="one">Remaining %d minute</item>
+        <item quantity="two">Remaining %d minutes</item>
+        <item quantity="many">Remaining %d minutes</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Remaining %1$d h %2$d m</item>
+        <item quantity="one">Remaining %1$d h %2$d m</item>
+        <item quantity="two">Remaining %1$d h %2$d m</item>
+        <item quantity="many">Remaining %1$d h %2$d m</item>
+    </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">הזן את קוד ה-PIN של ה-SIM, תוכל לנסות עוד %d פעמים לפני שתצטרך ליצור קשר עם ספק הרשת שלך כדי לפתוח את הנעילה של המכשיר.</item>
         <item quantity="one">הזן את קוד ה-PIN של ה-SIM, תוכל לנסות עוד פעם אחת (%d) לפני שתצטרך ליצור קשר עם ספק הרשת שלך כדי לפתוח את הנעילה של המכשיר.</item>

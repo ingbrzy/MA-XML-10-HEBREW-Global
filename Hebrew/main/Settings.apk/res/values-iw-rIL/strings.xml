@@ -90,12 +90,15 @@
     <string name="android_beam_witch_label">Android Beam</string>
     <string name="animator_duration_scale_title">קנה מידה למשך זמן הנפשה</string>
     <string name="anti_spam">רשימת החסומים</string>
+    <string name="aod_close_color_inversion">"This feature can't be combined with color inversion. Turn off color inversion first."</string>
+    <string name="aod_got_it">Got it</string>
     <string name="aod_mode_summary">הצג תמיד את השעה, התאריך וההודעות כשהמסך כבוי</string>
     <string name="aod_mode_time_summary">הגדר זמן שבו המכשיר שלך יעבור למצב \"תמיד מופעל\"</string>
     <string name="aod_mode_time_title">תזמון</string>
     <string name="aod_mode_title">תמיד במצב</string>
     <string name="aod_mode_turn_off">כבוי</string>
     <string name="aod_mode_turn_on">מופעל</string>
+    <string name="aod_to_close">Turn off</string>
     <string name="apn_general">כללי</string>
     <string name="apn_mms">הודעת מולטימדיה (MMS)</string>
     <string name="apn_new">נקודת גישה חדשה</string>
@@ -110,6 +113,9 @@
     <string name="app_floating_window_dlg_disable">הגדרות כיבוי חלונות צפים עבור %1$s דורשות הפעלה מחדש של היישום.</string>
     <string name="app_floating_window_dlg_enable">הגדרות הפעלת חלונות צפים עבור %1$s דורשות הפעלה מחדש של היישום.</string>
     <string name="app_invisible">יישומים בלתי ניראים</string>
+    <string name="app_link_open_always">Open</string>
+    <string name="app_link_open_ask">Ask every time</string>
+    <string name="app_link_open_never">"Don't open"</string>
     <string name="app_mobile">נתונים סלולריים</string>
     <string name="app_name_na">נתונים בשימוש</string>
     <string name="app_notifications_switch_label">התראה מותאמת אישית</string>
@@ -334,15 +340,19 @@
     <string name="bootloader_device_bind_fail">לא ניתן לאמת, המתן דקה או שתיים ונסה שוב</string>
     <string name="bootloader_device_bind_msg">מתכונן להוספת חשבון ומכשיר…</string>
     <string name="bootloader_device_bind_no_account">קודם עליך להתחבר לחשבון ה-Mi שלך</string>
+    <string name="bootloader_device_bind_no_data_network">Turn off Wi-Fi and add your account and device using mobile data.</string>
     <string name="bootloader_device_bind_no_network">התחבר לאינטרנט ונסה שוב</string>
     <string name="bootloader_device_bind_no_sim">הכנס כרטיס סים ונסה שוב.</string>
     <string name="bootloader_device_bind_server_code">לא ניתן להוסיף. קוד שגיאה:</string>
+    <string name="bootloader_device_bind_server_token_expired_1">"Couldn't verify. Try adding your account and device again."</string>
+    <string name="bootloader_device_bind_server_token_expired_2">"Couldn't verify. Sign in to your account again and start over."</string>
     <string name="bootloader_device_bind_sim_invalid">כרטיס הסים אינו פעיל. החלף את הכרטיס ונסה שוב.</string>
     <string name="bootloader_locked_answer_1">אנחנו נועלים את המכשירים כדי לוודא שהם מאובטחים ושמידע אישי שלך לא ייחשף בפני גורמים שלישיים. אם יש לך צורך להיכנס למצב Fastboot ולצרוב קושחה במכשיר שלך, תוכל לבטל את הנעילה.</string>
     <string name="bootloader_locked_answer_1_warning">זכור: לאחר ביטול הנעילה לא תוכל להשתמש במאפיין \"אתר את המכשיר\".</string>
-    <string name="bootloader_locked_answer_2">"1. ודא שכבר הכנסת כרטיס סים אל מכשירך.
-2. הקש על \"הוספת חשבון\" למטה כדי לקשר בין חשבון ה-Mi שלך למכשיר זה.
-3. הורד את הכלי לביטול נעילה מהאתר שלנו. לתשומת לבך, צריך להשתמש במחשב כדי לבטל נעילת מכשיר. הקישור להורדה:"</string>
+    <string name="bootloader_locked_answer_2">"1. Make sure you've already inserted a SIM card into your device.
+2. Turn off Wi-Fi and turn on mobile data. Make sure your device can connect to the internet using mobile data.
+3. Tap \"Add account\" below to associate your Mi Account with this device.
+4. Download the unlock tool from our website. Note that you should unlock devices using a computer. Download here:"</string>
     <string name="bootloader_locked_answer_2_no_sim">"1. הקש על \"הוסף חשבון\" למטה כדי לקשר את חשבון ה-Mi שלך למכשיר זה.
 2. הורד את הכלי לביטול נעילה מאתר האינטרנט שלנו. לתשומת לבך, נעילת המכשיר צריכה להתבצע באמצעות מחשב. הורד כאן:"</string>
     <string name="bootloader_locked_check_status">הוספת חשבון ומכשיר</string>
@@ -361,6 +371,7 @@
     <string name="bootloader_status_unlocked">הנעילה בוטלה</string>
     <string name="bootloader_status_unlocked_info">מכשיר זה אינו נעול</string>
     <string name="bootloader_summary">צרוב את מכשירך באמצעות USB</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">צבע הנורית</string>
     <string name="breathing_light_color_summary">צבע הנורית בעת קבלת התראה חדשה</string>
     <string name="breathing_light_freq_summary">הבהב בקבלת התראות חדשות</string>
@@ -489,6 +500,7 @@
     <string name="country_name">%s (מערכת)</string>
     <string name="credentials_configure_lock_screen_hint">"עליך להגדיר PIN או סיסמה לנעילת המסך לפני שתוכל להשתמש ב'אחסון התעודות'."</string>
     <string name="credentials_password_too_short">8 תוים לפחות</string>
+    <string name="credentials_title_verification">אימות</string>
     <string name="crypt_keeper_conditions">ההצפנה אורכת כשעה או יותר. עליך להתחיל עם סוללה טעונה, ולהשאיר את הטלפון שלך מחובר למשך התהליך. אם תפריע להתהליך, הינך עלול לאבד חלק או את כל הנתונים שלך.</string>
     <string name="crypt_keeper_conditions_title">אודות הצפנת מכשירך</string>
     <string name="crypt_keeper_content">תוכל להצפין את החשבונות, ההגדרות, יישומים שהורדו והנתונים שלהם, מדיה וקבצים אחרים שלך.</string>
@@ -536,8 +548,11 @@
     <string name="debug_networking_category">נטוורקינג</string>
     <string name="debug_view_attributes">אפשר הצגת תכונות</string>
     <string name="defalut_launcher_title">"'מסך הבית' ברירת המחדל"</string>
+    <string name="default_browser_title">Browser</string>
+    <string name="default_browser_title_none">Not selected</string>
     <string name="default_input_method">בחר מקלדת ברירת מחדל</string>
     <string name="default_launcher_title">משגר היישומים ברירת המחדל</string>
+    <string name="default_phone_title">Dial</string>
     <string name="default_rule_name">טיימר 1</string>
     <string name="default_usb_mode">חיבור USB</string>
     <string name="delete_fingerprint_confirm_msg">להסיר את טביעת האצבע?</string>
@@ -631,6 +646,7 @@
     <string name="dndm_auto_button_title">"חזרה על תזמון מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_setting_group">מתוזמן</string>
     <string name="dndm_auto_time_setting">הגדר שעה</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">עד</string>
     <string name="dndm_auto_time_turn_off_title">"כבה אוטומטית את מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_time_turn_on">מ:</string>
@@ -664,6 +680,9 @@
     <string name="dndm_wristband">הפעל באמצעות Mi Band</string>
     <string name="dndm_wristband_detailed">"הפעל את מצב 'נא לא להפריע' במידה ו-Mi Band מזהה כי אתה ישן בטווח של שעה לפני זמן ההתחלה המתוכנן"</string>
     <string name="do_not_disturb_mode">נא לא להפריע</string>
+    <string name="domain_urls_summary_none">"Don't open supported links"</string>
+    <string name="domain_urls_summary_one">Open %s</string>
+    <string name="domain_urls_summary_some">Open %s and other URLs</string>
     <string name="double_click_power_key">"לחיצה כפולה על 'לחצן ההפעלה'"</string>
     <string name="download_current_rom">קבל את הגרסה האחרונה של MIUI</string>
     <string name="downloading_description">מוריד…</string>
@@ -742,8 +761,8 @@
     <string name="factory_reset_summary">מחיקת כל הנתונים שלך מהאחסון הפנימי של הטלפון שלך</string>
     <string name="failed_to_check_find_device_status_content">"לא ניתן היה לבדוק את מצב 'איתור המכשיר'. המתן דקה או שתיים ונסה שוב."</string>
     <string name="failed_to_check_find_device_status_title">לא ניתן היה לבדוק סטטוס</string>
-    <string name="failed_to_erase_text">Please turn off lock screen password before performing 1217 operation.</string>
-    <string name="failed_to_erase_title">Forbidden operation</string>
+    <string name="failed_to_erase_text">Turn off your Lock screen password before entering the \"1217\" code.</string>
+    <string name="failed_to_erase_title">"Can't complete this action"</string>
     <string name="failed_to_open_app_settings_toast">לא ניתן היה לפתוח את ההגדרות עבור %1$s</string>
     <string name="failed_to_shut_down_find_device_content">"לא ניתן היה לכבות את 'איתור המכשיר'. המתן דקה או שתיים ונסה שוב."</string>
     <string name="failed_to_shut_down_find_device_title">לא ניתן היה לכבות</string>
@@ -801,6 +820,7 @@
     <string name="floating_window_switch_label_disable">כבה חלונות צפים</string>
     <string name="fluency_mode">אנימציות מערכת</string>
     <string name="fluency_mode_confirm_and_reboot">אתחל כעת</string>
+    <string name="following_us_title">Follow us</string>
     <string name="font_size_exhuge">עצום</string>
     <string name="font_size_huge">ענק</string>
     <string name="font_size_large">גדול יותר</string>
@@ -928,6 +948,7 @@
     <string name="high_performance_notif_title">"מצב 'ביצועים' מופעל"</string>
     <string name="high_performance_title">נראה כי אתה מריץ מבחן ביצועים. הגדר את ניהול האנרגיה כ\"ביצועים\" לתוצאות מירביות.</string>
     <string name="home">"הגדרות 'מסך הבית'"</string>
+    <string name="home_app">Launcher</string>
     <string name="home_key">בית</string>
     <string name="http_invoke_app">יישומי רשת</string>
     <string name="http_invoke_app_summary">פתח יישומים מהר יותר מבלי להתקינם</string>
@@ -949,7 +970,7 @@
     <string name="install_no_market_app_summary">"אפשר התקנת יישומים ממקורות שאינם 'חנות היישומים'"</string>
     <string name="install_no_market_app_title">מקורות לא ידועים</string>
     <string name="install_other_apps">התקנת יישומים לא מוכרים</string>
-    <string name="install_preinstall_app">טוען יישומים…</string>
+    <string name="install_preinstall_app">Switching region…</string>
     <string name="install_whole_rom">הורד ROM</string>
     <string name="instruction_privacy_password">הסיסמה הזו מגינה על הפריטים הבאים</string>
     <string name="instruction_title">מידע בטיחות חשוב</string>
@@ -1344,7 +1365,7 @@
     <string name="navigation_guide_app_summary">החלקה שמאלה או ימינה מקצה המסך בחלקו העליון</string>
     <string name="navigation_guide_app_title">פעולת יישום טריגר</string>
     <string name="navigation_guide_appswitch_anim_summary">Swipe across the screen starting from the edge to go back to previous app</string>
-    <string name="navigation_guide_appswitch_anim_title">Switch to previous app</string>
+    <string name="navigation_guide_appswitch_anim_title">Go back to previous app</string>
     <string name="navigation_guide_appswitch_click">Turn on \"Go back to previous app\" first</string>
     <string name="navigation_guide_appswitch_summary">העבר אצבע שמאלה או ימינה מקצה המסך והחזק אותה במשך זמן מה</string>
     <string name="navigation_guide_appswitch_title">עבור לאפליקציה הקודמת</string>
@@ -1400,6 +1421,7 @@
     <string name="night_light_tip">"השינויים יכנסו לתוקף עם הפעלת 'מצב לילה'"</string>
     <string name="no_application">ללא</string>
     <string name="no_connected_devices">אין התקנים מחוברים</string>
+    <string name="no_default_home">Not selected</string>
     <string name="no_internet_access_text">לרשת האלחוטית %1$s אין גישה לאינטרנט. להישאר מחובר?</string>
     <string name="no_media_button_receiver">לא</string>
     <string name="no_nearby_wifi">לא זוהו רשתות</string>
@@ -1673,6 +1695,7 @@
     <string name="private_sms_need_to_unlock">דרושה סיסמה:</string>
     <string name="private_sms_recording_intro_header">צייר תבנית לפתיחה:</string>
     <string name="private_sms_reset_by_account">על מנת לאפס את סיסמתך, היכנס לחשבון Mi שלך</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">פעיל</string>
     <string name="provision_back">הקודם</string>
     <string name="provision_next">הבא</string>
@@ -2010,6 +2033,7 @@
     <string name="security_encryption_attention_3">יהיה עליך להגדיר סיסמה חדשה עבור מסך הנעילה.</string>
     <string name="security_encryption_attention_4">הקפד לזכור את סיסמת מסך הנעילה שלך, אחרת יהיה עליך לבצע איפוס מלא ולמחוק את כל הנתונים במכשיר זה.</string>
     <string name="security_encryption_attention_info">באפשרותך להצפין חשבונות, הגדרות, יישומים שהורדו ונתונים שלהם, מדיה וקבצים אחרים.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">חשוב</string>
     <string name="security_encryption_close_dialog_info">בחירה שלא להצפין את המכשיר באמצעות סיסמת מסך הנעילה עשויה לגרום לשירותי Google מסויימים להיות לא זמינים.</string>
     <string name="security_encryption_close_dialog_title">חזור אל הגנה באמצעות סיסמה כברירת מחדל</string>
@@ -2019,8 +2043,8 @@
     <string name="security_encryption_progress_dialog_open">מצפין…</string>
     <string name="security_encryption_rejected_via_home_manager">תכונה זו אינה נתמכת בגרסת הדמו.</string>
     <string name="security_encryption_title">הצפן את המכשיר באמצעות סיסמת מסך הנעילה</string>
-    <string name="security_input">קלט מאובטח</string>
-    <string name="security_input_hint">הזן סיסמה באמצעות מקלדת מאובטחת</string>
+    <string name="security_input">Secure keyboard</string>
+    <string name="security_input_hint">Use secure keyboard when you enter passwords</string>
     <string name="security_keyguard_category_name">מסך נעילה</string>
     <string name="security_password_category_name">נעילת מסך</string>
     <string name="security_privacy_settings_title">פרטיות</string>
@@ -2111,6 +2135,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">"התראות, לחצני בקרת נגן המוסיקה וקיצורי דרך לא יוצגו ב'מסך הנעילה'."</string>
     <string name="skip_step">דלג</string>
@@ -2119,6 +2144,7 @@
     <string name="smartcover_lock_or_unlock_screen_tittle">מצב כיסוי חכם</string>
     <string name="smartcover_sensitive_summary">נעל את הטלפון או בטל נעילה באופן אוטומטי, תוך שימוש בכיסוי חכם</string>
     <string name="smartcover_sensitive_title">כיסוי חכם</string>
+    <string name="sms_application_title">Messaging</string>
     <string name="sms_delivered_sound_dialog_title">בחר צליל עבור שליחת הודעה</string>
     <string name="sms_delivered_sound_title">הודעה נשלחה</string>
     <string name="sms_received_sound_dialog_title">בחר צליל עבור קבלת הודעה</string>
@@ -2153,9 +2179,12 @@
     <string name="status_bar_settings_all_app_display_loading">רק רגע…</string>
     <string name="status_bar_settings_app_notification_preferences">הגדרות יישומים</string>
     <string name="status_bar_settings_basic_settings">הגדרות בסיסיות</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">ערוך שם ספק רשת</string>
     <string name="status_bar_settings_custom_wifi_name">ערוך שם רשת אלחוטית</string>
+    <string name="status_bar_settings_customer_feedback">Feedback</string>
     <string name="status_bar_settings_enable_notification">הצג התראות</string>
+    <string name="status_bar_settings_function_description">About this feature</string>
     <string name="status_bar_settings_long_click_sort">לחץ &amp; החזק לבחירת מתג</string>
     <string name="status_bar_settings_manage_notification">התראות יישומים</string>
     <string name="status_bar_settings_no_carrier">אין</string>
@@ -2183,6 +2212,11 @@
     <string name="status_bar_settings_toggle_collapse_after_clicked">הסתר לאחר נגיעה</string>
     <string name="status_bar_settings_toggle_position">מיקום מתגים</string>
     <string name="status_bar_settings_user_fold">תיקית התראות</string>
+    <string name="status_bar_settings_user_fold_description1">Notifications folder was introduced in MIUI 9. This feature filters unimportant notifications and places them into a separate folder.</string>
+    <string name="status_bar_settings_user_fold_description2">MIUI will remember which notifications you tap, and then use multiple criteria to determine whether they are important.</string>
+    <string name="status_bar_settings_user_fold_description3">"If the notifications you consider important still go into the Notifications folder, make sure that you report such issues to us. We'd appreciate your feedback."</string>
+    <string name="status_bar_settings_user_fold_disable">Off</string>
+    <string name="status_bar_settings_user_fold_enable">On</string>
     <string name="status_bar_settings_user_fold_summary">כל ההתראות שאינן חשובות יופיעו בתיקיה נפרדת</string>
     <string name="status_bar_style_list">משולב</string>
     <string name="status_bar_style_page">הפרד</string>
@@ -2275,6 +2309,7 @@
     <string name="title_font_current">גופן המערכת</string>
     <string name="title_font_current2">גופן המערכת</string>
     <string name="title_hdmi_color_calibration">תיקון צבע קבוע מראש</string>
+    <string name="title_jeejen">Jeejen Home screen</string>
     <string name="title_layout_current">גודל הטקסט</string>
     <string name="title_layout_current2">גודל הטקסט</string>
     <string name="to_close">Turn off</string>
@@ -2375,7 +2410,7 @@
     <string name="unlock_set_unlock_password_summary">הזן 4 או יותר אותיות או ספרות לביטול נעילת המכשיר</string>
     <string name="unlock_set_unlock_password_title">סיסמה</string>
     <string name="unlock_set_unlock_pattern_summary">סמן בעזרת אצבע תבנית פשוטה לביטול נעילת המכשיר</string>
-    <string name="unlock_set_unlock_pin_summary">הזן 4 ספרות לביטול נעילת המכשיר</string>
+    <string name="unlock_set_unlock_pin_summary">Enter 4-16 numbers to unlock device</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">הגדר שיטה לנעילת המסך</string>
     <string name="unrestrict_max_aspect_ratio_title">יישומים אלה עובדים ביעילות במצב מסך מלא</string>
@@ -2655,9 +2690,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

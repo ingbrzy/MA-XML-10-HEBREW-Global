@@ -35,6 +35,7 @@
     <string name="accessibility_camera_button">מצלמה</string>
     <string name="accessibility_carrier_network_change_mode">מתבצע שינוי של ספק הרשת.</string>
     <string name="accessibility_cast_name">מחובר אל %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">שידור המסך הופסק.</string>
     <string name="accessibility_cell_data">גלישה סלולרית</string>
     <string name="accessibility_cell_data_off">גלישה סלולרית מושבתת</string>
@@ -224,8 +225,8 @@
     <string name="accessibility_unlock_button">ביטול נעילה</string>
     <string name="accessibility_unlock_without_fingerprint">בטל נעילה ללא שימוש בטביעת אצבע</string>
     <string name="accessibility_voice_assist_button">עוזר קולי</string>
-    <string name="accessibility_volume_collapse">צמצם</string>
-    <string name="accessibility_volume_expand">הרחב</string>
+    <string name="accessibility_volume_collapse">Collapse</string>
+    <string name="accessibility_volume_expand">Expand</string>
     <string name="accessibility_vpn_on">רשת VPN מושבתת.</string>
     <string name="accessibility_waiting_for_fingerprint">מחכה לטביעת אצבע</string>
     <string name="accessibility_wifi_name">מחובר אל %s.</string>
@@ -608,7 +609,7 @@
     <string name="face_unlock_offset_top">הרם מעט את הטלפון שלך</string>
     <string name="face_unlock_open_eye">פתח מעט יותר את עיניך</string>
     <string name="face_unlock_passwork">השתמש בסיסמה</string>
-    <string name="face_unlock_passwork_and_fingerprint">השתמש בסיסמה או בנתוני פנים</string>
+    <string name="face_unlock_passwork_and_fingerprint">Use password or fingerprint</string>
     <string name="face_unlock_quality">לא ניתן היה לראות את פניך בבירור</string>
     <string name="face_unlock_reenter_content">אלגוריתם ביטול הנעילה באמצעות פנים מתעדכן. לחץ לרישום תוי הפנים שוב.</string>
     <string name="face_unlock_reenter_title">בצע רישום של תוי פניך שוב.</string>
@@ -617,6 +618,7 @@
     <string name="face_unlock_rise">הנמך את ראשך</string>
     <string name="face_unlock_rotated_left">הטה את ראשך ימינה</string>
     <string name="face_unlock_rotated_right">הטה את ראשך שמאלה</string>
+    <string name="face_unlock_sc_status">Push the screen down to open camera</string>
     <string name="face_unlock_stay_away_screen">שמור על מרחק של 25 עד 40 ס\"מ מהמסך</string>
     <string name="failed_to_open_app_settings_toast">לא ניתן היה לפתוח את ההגדרות עבור %1$s</string>
     <string name="fingerprint_add_text">ממשק טביעת האצבע התעדכן. הוסף את טביעת האצבע שלך שוב.</string>
@@ -710,7 +712,7 @@
     <string name="incorrect_pukcode">קוד PUK שגוי</string>
     <string name="input_password_after_boot_msg">לביטול נעילת המכשיר, הזן סיסמתך</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">לא ניתן להחליף בין שטחים במהלך שיחה</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">לא ניתן לעבור בין האזורים כאשר מופעל המאפיין FamilyGuard</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Can't switch between spaces when parental controls are on"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">"עליך להיכנס ל'שטח ראשון' לאחר שהמכשיר אותחל"</string>
     <string name="input_password_handle_sdcard_fs">"לא ניתן להיכנס ל'שטח שני' מ'מסך הנעילה'. היכנס מ'שטח ראשון'."</string>
     <string name="input_password_hint_text">הזן סיסמה</string>
@@ -790,9 +792,13 @@
     <string name="keyguard_accessibility_sim_puk_area">אזור קוד ה-PUK של ה-SIM</string>
     <string name="keyguard_carrier_default">אין שירות</string>
     <string name="keyguard_charged">נטען</string>
-    <string name="keyguard_charging_back_to_lockscreen">Back to lock screen</string>
+    <string name="keyguard_charging_back_to_lockscreen">Back to Lock screen</string>
     <string name="keyguard_charging_info_battery_used_time_text">משך פעילות הסוללה</string>
     <string name="keyguard_charging_info_click_to_detail">הצג פרטים</string>
+    <string name="keyguard_charging_info_data_c">℃%s</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">התרוקנות</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">היום %s</string>
@@ -817,6 +823,7 @@
     <string name="keyguard_missing_sim_instructions_long">כרטיס ה-SIM חסר או שאינו קריא. הכנס כרטיס SIM.</string>
     <string name="keyguard_missing_sim_message">אין כרטיס SIM בטלפון.</string>
     <string name="keyguard_missing_sim_message_short">אין כרטיס SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">הרשת נעולה</string>
     <string name="keyguard_password_enter_password_code">הזן סיסמה כדי לפתוח את הנעילה</string>
     <string name="keyguard_password_enter_pin_code">הזן קוד PIN</string>
@@ -852,7 +859,7 @@
     <string name="kg_invalid_confirm_pin_hint">קודי ה-PIN אינם תואמים</string>
     <string name="kg_invalid_puk">הזן שוב את קוד ה-PUK הנכון. ניסיונות חוזרים ישביתו את ה-SIM לצמיתות.</string>
     <string name="kg_invalid_sim_pin_hint">הזן קוד PIN בן 4 עד 8 ספרות.</string>
-    <string name="kg_invalid_sim_puk_hint">קוד ה-PUK חייב להיות בן 8 ספרות או יותר.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers.</string>
     <string name="kg_login_too_many_attempts">יותר מדי ניסיונות ציור תבנית</string>
     <string name="kg_password_instructions">הזן סיסמה</string>
     <string name="kg_password_pin_failed">לא ניתן היה לפתוח את הנעילה בעזרת קוד ה-PIN של ה-SIM</string>
@@ -900,6 +907,7 @@
     <string name="left_keycode">קוד מקש שמאלי</string>
     <string name="left_nav_bar_button_type">לחצן שמאלי נוסף</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">"לחץ לשינוי או הסרה של סיסמת הגיבויים המלאים עבור 'מסך הבית'"</string>
     <string name="local_backup_password_summary_none">"גיבויים מלאים של 'מסך הבית' אינם מוגנים כרגע"</string>
     <string name="local_backup_password_title">"סיסמת גיבוי ל'מסך הבית'"</string>
@@ -956,21 +964,23 @@
     <string name="memory_clear_result_giga">נוקו %1$s ג\"ב</string>
     <string name="memory_clear_result_mega">נוקו %1$s מ\"ב</string>
     <string name="menu_ime">החלפת מקלדת</string>
-    <string name="miui_guide_dialog_button_negative_text">הגדרות</string>
-    <string name="miui_guide_dialog_button_positive_text">הבנתי</string>
-    <string name="miui_guide_dialog_message">"צלילי מדיה (מוזיקה, וידאו וכדומה) יושמעו גם במצב שקט. תוכל לשנות זאת ב'הגדרות'."</string>
+    <string name="miui_guide_dialog_button_negative_text">Settings</string>
+    <string name="miui_guide_dialog_button_positive_text">Got it</string>
+    <string name="miui_guide_dialog_message">Media sounds (music, videos, etc.) will still be played in Silent mode. You can change this in the Settings.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">הנעילה בוטלה על ידי התקן Bluetooth</string>
-    <string name="miui_ringer_count_down">ספירה לאחור</string>
-    <string name="miui_ringer_standard">מצב שקט</string>
-    <string name="miui_ringer_standard_description">השתקת צלילים של שיחות נכנסות והודעות</string>
-    <string name="miui_ringer_total">לא להפריע</string>
-    <string name="miui_ringer_total_description">השתקת צלילים והשבתת רטט עבור כל ההתראות למעט השעון המעורר</string>
-    <string name="miui_toast_zen_dnd_to_off">הצלילים והרטט הוחזרו למצב הרגיל</string>
-    <string name="miui_toast_zen_standard_to_off">הצלילים הוחזרו למצב הרגיל</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">צלצולים וצלילי התראות ומדיה יושמעו.</string>
-    <string name="miui_toast_zen_to_dnd">צלילים הושתקו ורטט הושבת</string>
-    <string name="miui_toast_zen_to_standard">הושתקו צלילים עבור שיחות והודעות</string>
-    <string name="miui_toast_zen_to_standard_when_shield_media">צלצולים וצלילי התראות ומדיה יושתקו.</string>
+    <string name="miui_ringer_count_down">Count down</string>
+    <string name="miui_ringer_count_down_time">%s</string>
+    <string name="miui_ringer_standard">Silent</string>
+    <string name="miui_ringer_standard_description">Silence ringtones for incoming calls and notifications</string>
+    <string name="miui_ringer_total">DND</string>
+    <string name="miui_ringer_total_description">Silence sounds and turn off vibration for all items except the alarm clock</string>
+    <string name="miui_screen_rotation_freeze_message">Auto-rotate disabled.</string>
+    <string name="miui_toast_zen_dnd_to_off">Sounds and vibration restored to normal</string>
+    <string name="miui_toast_zen_standard_to_off">Ringtones restored to normal</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">Ringtones, as well as notification and media sounds, will be played.</string>
+    <string name="miui_toast_zen_to_dnd">Sounds silenced and vibration turned off</string>
+    <string name="miui_toast_zen_to_standard">Ringtones for calls and notifications silenced</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">Ringtones, as well as notification and media sounds, will be silenced.</string>
     <string name="mobile_data">גלישה סלולרית</string>
     <string name="mobile_data_always_on">נתונים סלולריים פעילים תמיד</string>
     <string name="mobile_data_always_on_summary">השאר תמיד את חיבור הנתונים הסלולרי פעיל, גם כאשר חיבור הרשתות האלחוטיות פעיל (לצורך החלפה מהירה בין רשתות).</string>
@@ -987,12 +997,14 @@
 
 למידע נוסף פנה אל המנהל שלך."</string>
     <string name="monitoring_description_ca_cert_settings">פתח את האישורים המהימנים</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">תעודת הסמכה מותקנת על גבי מכשיר זה. תעבורת הרשת המאובטחת שלך עשויה להיות מנוטרת או לעבור עריכה על ידי גורמים אחרים.</string>
     <string name="monitoring_description_do_body">מנהל המכשיר יכול לנטר ולנהל את ההגדרות, האפליקציות, הנתונים שקשורים למכשירך, פרטי המיקום של מכשירך וגישת ארגונים.</string>
     <string name="monitoring_description_do_body_vpn">אתה מחובר אל %1$s, שיכולה לנטר את הפעילות שלך ברשת, כולל אימייל, אפליקציות וגלישה באתרי אינטרנט.</string>
     <string name="monitoring_description_do_header_generic">המכשיר שלך מנוהל על-ידי %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s משתמש ב-%2$s כדי לנהל את מכשירך.</string>
     <string name="monitoring_description_do_learn_more">מידע נוסף</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">הארגון אליו הינך שייך התקין תעודת הסמכה בפרופיל העבודה שלך. תעבורת הרשת המאובטחת שלך עשויה להיות מנוטרת או לעבור עריכה.</string>
     <string name="monitoring_description_managed_profile_named_vpn">פרופיל העבודה שלך מחובר אל %1$s, אשר יכול לנטר את פעילות הרשת שלך, כולל דוא\"ל, יישומים ואתרי אינטרנט.</string>
     <string name="monitoring_description_management">"מכשירך מנוהל על ידי הארגון אליו הינך שייך.
@@ -1024,6 +1036,7 @@
 
 אתה גם מחובר לרשת VPN, שיכולה לנטר את הפעילות שלך ברשת."</string>
     <string name="monitoring_description_vpn_settings">פתח את הגדרות ה-VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">תעודות CA</string>
     <string name="monitoring_subtitle_network_logging">רישום רשת</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1038,6 +1051,7 @@
     <string name="nav_guide_message">השתמש במחוות כדי להסתיר/להציג לחצנים מתוכנתים.</string>
     <string name="nav_guide_ok">הגדר</string>
     <string name="nav_guide_title">הסתר את הלחצנים המתוכנתים</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">ללא</string>
     <string name="no_multi_window_app">"לא קיימים יישומים התומכים ב'מסך מפוצל'"</string>
     <string name="no_notification_tips">אין הודעות</string>
@@ -1175,6 +1189,7 @@
     <string name="power_remaining_charging_duration_only">%1$s נותרו לטעינה מלאה</string>
     <string name="power_remaining_duration_only">כ-%1$s נותרו</string>
     <string name="power_remaining_duration_only_short">%1$s נותרו</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">ייתכן שמתבצע ניטור הפרופיל</string>
     <string name="prompt_danger">סכנה</string>
     <string name="prompt_detecting">מזהה</string>
@@ -1428,6 +1443,8 @@
     <string name="status_bar_clear_all_button">איפוס</string>
     <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
     <string name="status_bar_clock_date_format_12">EEEE, MMMM d</string>
+    <string name="status_bar_clock_date_time_format">H:mm MMMM d</string>
+    <string name="status_bar_clock_date_time_format_12">aah:mm MMMM d</string>
     <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
     <string name="status_bar_date_format_12">"EEEE
@@ -1683,8 +1700,8 @@ d MMMM"</string>
     <string name="voice_assist_label">פתח את העוזר הקולי</string>
     <string name="voice_hint">לעוזר הקולי העבר אצבע מכיוון הצלמית</string>
     <string name="volume_and_do_not_disturb">לא להפריע</string>
-    <string name="volume_dialog_accessibility_dismissed_message">בקרת עוצמת הקול מוסתרת</string>
-    <string name="volume_dialog_accessibility_shown_message">%s בקרת עוצמת השמע מוצגת. העבר אצבע כלפי מטה להסרה.</string>
+    <string name="volume_dialog_accessibility_dismissed_message">Volume controls hidden</string>
+    <string name="volume_dialog_accessibility_shown_message">%s volume controls shown. Swipe up to dismiss.</string>
     <string name="volume_dnd_silent">קיצור ללחצני עוצמת השמע</string>
     <string name="volume_stream_content_description_mute">%1$s. הקש להשתקה. ייתכן ששירותי הנגישות יושתקו.</string>
     <string name="volume_stream_content_description_mute_a11y">%1$s. הקש להשתקה.</string>
@@ -1702,6 +1719,7 @@ d MMMM"</string>
     <string name="wait_for_debugger">המתן למנפה השגיאות</string>
     <string name="wait_for_debugger_summary">היישום המנופה ממתין למנפה השגיאות לבצע צירוף לפני השלמת הביצוע</string>
     <string name="wallpaper_global_des_drop_down_notify_text">שחרר לצפיה בפרטים</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">עודכן %1$s</string>
     <string name="wifi_aggressive_handover">העברה אגרסיבית מרשת אלחוטית לרשת סלולרית</string>
     <string name="wifi_aggressive_handover_summary">כאשר תכונה זו מאופשרת, יתבצע מעבר פעיל יותר לרשתות סלולריות כשאות הרשת האלחוטית חלש.</string>
@@ -1726,9 +1744,11 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

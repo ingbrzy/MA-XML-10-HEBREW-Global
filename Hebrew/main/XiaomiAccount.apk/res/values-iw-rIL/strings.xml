@@ -300,6 +300,7 @@
     <string name="user_avatar_uploading">רק רגע…</string>
     <string name="user_avatar_update_title">החלף תמונת פרופיל</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות.</string>
+    <string name="account_invalid_user_avatar">This photo is invalid. Try a different one.</string>
     <string name="account_none_binded_info">אין</string>
     <string name="account_bind_secure_phone_title">הוסף מספר טלפון</string>
     <string name="account_bind_secure_email_title">הוסף דוא\"ל</string>

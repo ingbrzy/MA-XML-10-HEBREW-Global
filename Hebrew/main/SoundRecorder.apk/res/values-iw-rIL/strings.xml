@@ -17,7 +17,7 @@
     <string name="recording">מקליט</string>
     <string name="recording_stopped">עצר</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="error_sdcard_access">לא ניתן לגשת לאחסון</string>
+    <string name="error_sdcard_access">"Can't access SD card"</string>
     <string name="error_app_internal">בדוק האם יישום אחר עושה שימוש בתכונת ההקלטה כרגע.</string>
     <string name="error_app_internal_title">שגיאת רשמקול</string>
     <string name="error_file_access">הקובץ אינו קיים או שנפגם</string>
@@ -36,6 +36,7 @@
     <string name="no_file">ריק</string>
     <string name="alert_message_delete_record_title">למחוק הקלטה?</string>
     <string name="alert_message_delete_record">מחיקת ההקלטה ממכשירך תביא למחיקתה גם מ-Mi Cloud. למחוק כעת?</string>
+    <string name="alert_message_delete_local_record">Delete this record?</string>
     <string name="share">שיתוף</string>
     <string name="rename">שינוי שם</string>
     <string name="delete">מחיקה</string>
@@ -99,8 +100,8 @@
     <string name="record_quliaty_preference_title">איכות הקלטה</string>
     <string name="cloud_record_tip">סנכרן הקלטות עם-Mi Cloud.</string>
     <string name="cloud_record_open">סנכרן הקלטות</string>
-    <string name="cloud_service_state_open_reminder">הפעל את הסנכרון עם Mi Cloud על מנת לסנכרן קבצי הקלטה.</string>
-    <string name="cloud_status_full_dialog_title">שטח האחסון ב-Mi Cloud מלא</string>
+    <string name="cloud_service_state_open_reminder">Turn on sync with Mi Cloud to sync recordings.</string>
+    <string name="cloud_status_full_dialog_title">Mi Cloud storage is full</string>
     <string name="cloud_status_full_dialog_msg">אחסון הענן שלך מלא, לא ניתן לסנכרן הקלטות. שדרג את חשבונך לקבלת שטח אחסון נוסף.</string>
     <string name="cloud_status_full_dialog_cancel">לא כעת</string>
     <string name="cloud_status_full_dialog_ok">שדרוג</string>
