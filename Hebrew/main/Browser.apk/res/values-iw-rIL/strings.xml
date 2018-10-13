@@ -706,8 +706,6 @@ Leave this page now?"</string>
     <string name="mw_snippets_disabled_generic_prompt">קבל תוכן מותאם אישית</string>
     <string name="mw_snippets_disabled_signed_out_instructions">היכנס לדפדפן Chrome כדי לקבל תוכן מותאם אישית המוצע על ידי Google.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">הגדר זמן</string>
