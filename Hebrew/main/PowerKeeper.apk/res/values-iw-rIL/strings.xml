@@ -93,4 +93,6 @@
     <string name="active_classify">מיין לפי סטטוס פעילות</string>
     <string name="extreme_mode_max_item_alert">You can select up to 4 apps to run in the background in Extreme mode</string>
     <string name="message_i_know">Got it</string>
+    <string name="high_temp_state">High temperature</string>
+    <string name="high_temp_state_message">High temperature protection,data,wifiap,gps,camera etc. will be restricted</string>
 </resources>

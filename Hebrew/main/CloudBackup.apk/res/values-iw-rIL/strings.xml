@@ -30,12 +30,12 @@
     <string name="cloud_back_up_share_activity_title">שדרג את חשבון Mi</string>
     <string name="cloud_back_up_share_activity_discription">קבל עוד שטח אחסון, גיבויים יומיים, ועוד.</string>
     <string name="cloud_back_up_share_activity_confirm">שדרוג</string>
-    <string name="cloud_back_up_detail_discription">"פריטים אלה יגובו ב-Mi Cloud בעת חיבור לרשת אלחוטית: 
-*\u0009\u0009\u0009\u0009יישומים, 'מסך הבית' וטפטים 
-*\u0009\u0009\u0009\u0009שעון מעורר, שעון, והגדרות זמן 
-*\u0009\u0009\u0009\u0009הגדרות של התראות 
-*\u0009\u0009\u0009\u0009הגדרות MIUI והגדרות מערכת 
-\"שים לב: נתונים של יישומים שאתה התקנת לא יגובו ב-Mi Cloud.\""</string>
+    <string name="cloud_back_up_detail_discription">"These items will be backed up to Mi Cloud when your device is connected to Wi-Fi: 
+*  Apps, Home screen layout, and wallpapers 
+*  Alarm, clock, and time settings 
+*  Notification settings 
+*  MIUI and system settings 
+\"Note: Data for apps you've installed won't be backed up to Mi Cloud.\""</string>
     <string name="cloud_app_no_data">אין גיבויים</string>
     <string name="cloud_app_restore_error">לא ניתן היה לשחזר</string>
     <string name="cloud_app_restore_success">היישומים שוחזרו</string>
@@ -45,10 +45,13 @@
     <string name="button_delete">מחק</string>
     <string name="customization"><u>התאמה אישית</u></string>
     <string name="home_hint_global_launcher">"'מסך הבית' של Poco"</string>
-    <string name="self_phone">טלפון זה</string>
-    <string name="self_phone_home">טלפון זה: %s</string>
+    <string name="home_hint_other_launcher">מסך בית אחר</string>
+    <string name="self_device">"This phone's "</string>
+    <string name="main_space">Main space</string>
+    <string name="second_space">Second space</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s%3$s: %4$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s%3$s)</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>
-    <string name="device_xiaomi">טלפון Mi</string>
     <string name="size_unknown">גודל לא ידוע</string>
     <string name="recovering">משחזר את %s</string>
     <string name="start_recover">שחזר את %s</string>
@@ -76,7 +79,6 @@
     <string name="open_wifi">הפעל את החיבור לרשת האלחוטית כעת</string>
     <string name="open_wifi_description">התחבר לרשת אלחוטית על מנת לשחזר את היישום</string>
     <string name="open_wifi_setting">הגדרות רשת אלחוטית</string>
-    <string name="name_model">%2$s של %1$s</string>
     <string name="download_settings">"מוריד הגדרות של 'מסך הבית' %s%%"</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
     <string name="recover_home_settings">"שחזר את הגדרות 'מסך הבית'"</string>
@@ -129,12 +131,18 @@
     <string name="restore_data_title">שחזור נתונים</string>
     <string name="provision_error_connect_msg">בדוק את הרשת ונסה שוב. הגיבויים אינם זמינים כאשר מכשירך נמצא במצב לא מקוון.</string>
     <string name="provision_error_connect_title">לא ניתן להתחבר</string>
+    <string name="loading_user_backup">Loading user backups…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">לא ניתן היה לאמת את החשבון.</string>
     <string name="no_account">לא מחובר לחשבון Mi.</string>
     <string name="no_backup">אין גיבויים ב-Mi Cloud.</string>
     <string name="download_meta_failed">לא ניתן היה לטעון את הנתונים.</string>
     <string name="home_restore_error">"לא ניתן היה לשחזר את 'מסך הבית'"</string>
     <string name="get_device_id_error">לא ניתן היה להשיג את מזהה המכשיר</string>
+    <string name="unsupported_home">אנא עדכן למערכת ההפעלה העדכנית.</string>
+    <string name="error_retry_later">נכשל, נסה שוב מאוחר יותר.</string>
+    <string name="try_continue">Tap to continue</string>
     <string name="download_home_data">"מוריד את פריסת 'מסך הבית'…"</string>
     <string name="restore_home_failed">"לא ניתן היה לשחזר את 'מסך הבית'."</string>
     <string name="arrange_restore_order">מארגן יישומים מחדש…</string>
@@ -145,6 +153,7 @@
     <string name="download_meta_again">לא ניתן היה לטעון את הגיבוי, נסה שוב.</string>
     <string name="cancel_restore_home">מבטל…</string>
     <string name="cancel_backup">מבטל את הגיבוי…</string>
+    <string name="load_backup_failed">Load backups failed</string>
     <string name="dialog_title_require_wlan">התחבר לרשת אלחוטית</string>
     <string name="dialog_msg_restore_require_wlan">שחזור גיבויים מצריך חיבור לרשת אלחוטית.</string>
     <string name="dialog_btn_next">הבא</string>

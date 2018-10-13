@@ -11,7 +11,7 @@
 עבור אל %s באמצעות מכשיר מחובר אחר."</string>
     <string name="permdesc_accessDrm">אפשר ליישום לגשת לתוכן מוגן DRM.</string>
     <string name="open_wifi_connect_title">מחובר אל %1$s</string>
-    <string name="open_wifi_connect_and_use_data_summary">Using mobile data. Tap to switch to Wi-Fi.</string>
+    <string name="open_wifi_connect_and_use_data_summary">משתמש בנתונים סלולריים. לחץ כדי לעבור ל-Wi-Fi.</string>
     <string name="open_wifi_connect_summary">לחץ לצפיה בפרטים.</string>
     <string name="settings_license_activity_title">רשיונות קוד פתוח</string>
     <string name="settings_license_activity_loading">רק רגע…</string>

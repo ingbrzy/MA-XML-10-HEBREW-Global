@@ -34,13 +34,13 @@
     <string name="pref_video_hfr_title">וידאו HFR</string>
     <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
     <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080P, 30fps</string>
-    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
-    <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
-    <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
-    <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080P</string>
-    <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720P</string>
-    <string name="pref_new_slow_motion_video_quality_240_720only">You can only record 720P videos with 240FPS</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, 60fps</string>
+    <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
+    <string name="pref_video_quality_entry_480p">SD 480p, 30fps</string>
+    <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
+    <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">ניתן להקליט ווידאו 720p, רק בעזרת 240fps</string>
     <string name="pref_video_encoder_title">מקודד וידאו</string>
     <string name="pref_video_encoder_entry_h264">H.264 תאימות גבוהה</string>
     <string name="pref_video_encoder_entry_h265">H.265 ביצועים גבוהים</string>
@@ -417,7 +417,7 @@
     <string name="dual_camera_lens_covered_toast">העדשה מוסתרת.</string>
     <string name="dual_camera_use_hint">ודא כי העצם אינו רחוק יותר מ-2 מטרים.</string>
     <string name="bokeh_use_hint">אפקט עומק</string>
-    <string name="back_bokeh_use_hint">Keep your subject within 1.5 meters for best effect</string>
+    <string name="back_bokeh_use_hint">לאפקט מיטבי, שמור על האובייקט במרחק של עד 1.5 מטר</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">עדשה</string>
@@ -435,8 +435,8 @@
     <string name="portrait_mode_depth_effect_success_hint">אפקט עומק</string>
     <string name="portrait_mode_use_hint">"מצב 'דיוקן' מעמעם את הרקע
  ומדגיש את האנשים בקידמה."</string>
-    <string name="portrait_mode_use_hint_for_bokeh">"Try Portrait mode.
-Keep the subject sharp while blurring the background."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
+    <string name="portrait_mode_use_hint_for_bokeh">נסה מצב דיוקן.nשמור את האובייקט חד, תוך טשטוש הרקע.</string>
     <string name="pref_camera_square_mode_title">מרובע</string>
     <string name="simple_mode_button_text_square">"כבה את 'מרובע'"</string>
     <string name="face_beauty_smart">חכם</string>
@@ -451,6 +451,7 @@ Keep the subject sharp while blurring the background."</string>
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">מצבים</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>
@@ -475,7 +476,7 @@ Keep the subject sharp while blurring the background."</string>
     <string name="hint_ae_af_lock">בוצעה נעילת המיקוד האוטומטי / החשיפה האוטומטית</string>
     <string name="hint_device_water_mark">סימן המים של התמונה יתווסף באופן אוטומטי.</string>
     <string name="module_name_fun">סרטון קצר</string>
-    <string name="module_name_new_slow_motion">Slow motion</string>
+    <string name="module_name_new_slow_motion">הילוך איטי</string>
     <string name="module_name_video">וידאו</string>
     <string name="module_name_capture">תמונה</string>
     <string name="module_name_beauty">ייפוי</string>
@@ -565,5 +566,5 @@ Keep the subject sharp while blurring the background."</string>
     <string name="lighting_pattern_dot">נקודות</string>
     <string name="lighting_pattern_shutter">תריסים</string>
     <string name="view_privacy_policy">עיין במדיניות הפרטיות</string>
-    <string name="fps960_toast">Slow-motion capture will start when the timer reaches the white dot</string>
+    <string name="fps960_toast">הילוך איטי יתחיל כשהטיימר יגיע לנקודה הלבנה</string>
 </resources>

@@ -114,6 +114,12 @@
         <item quantity="two">באפשרותך להזין %1$d ימים לכל היותר</item>
         <item quantity="many">באפשרותך להזין %1$d ימים לכל היותר</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">ניתן להגדיר עד %d תזכורות</item>
+        <item quantity="one">ניתן להגדיר עד %d תזכורות</item>
+        <item quantity="two">ניתן להגדיר עד %d תזכורות</item>
+        <item quantity="many">ניתן להגדיר עד %d תזכורות</item>
+    </plurals>
     <plurals name="month_more_events">
         <item quantity="other">%d+</item>
         <item quantity="one">1+</item>

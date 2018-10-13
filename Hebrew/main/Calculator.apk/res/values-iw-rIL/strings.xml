@@ -225,6 +225,8 @@
     <string name="tax_social_insurance">ביטוח לאומי</string>
     <string name="tax_thershold_foreign">%s (לאומים זרים)</string>
     <string name="tax_thershold_native">%s (סין)</string>
+    <string name="tax_thershold_native_new">%s (new)</string>
+    <string name="tax_thershold_native_new_description">Taxes will be calculated according to the new tax law starting from October 1, 2018</string>
     <string name="tax_threshold">מגבלת פתור ממס</string>
     <string name="tax_title_primary" />
     <string name="tax_title_secondary" />

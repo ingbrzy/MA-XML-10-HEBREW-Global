@@ -196,7 +196,11 @@
     <string name="toast_only_wifi_download">התחבר לרשת אלחוטית על מנת להוריד פריט זה</string>
     <string name="total_speedup">האצת מהירות (סה\"כ)</string>
     <string name="version">גרסה %s</string>
+    <string name="check_new_downloaded_action">View</string>
+    <string name="check_new_downloaded_file">A new file found</string>
     <string name="get_data_failed">לא ניתן היה לקבל פרטים. המתן דקה או שתיים ונסה שוב.</string>
+    <string name="info_download_details">פרטים</string>
+    <string name="info_download_progress">הצג את התקדמות ההורדה</string>
     <string name="load_finish_hint">זה הכל לעת עתה.</string>
     <string name="loading">רק רגע…</string>
     <string name="net_error">התחבר לרשת ונסה שוב</string>

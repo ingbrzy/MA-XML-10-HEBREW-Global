@@ -112,6 +112,7 @@
     <string name="description_image_button_dialpad">לוח מקשים</string>
     <string name="description_image_button_tools">אפשרויות</string>
     <string name="description_target_answer">ענה</string>
+    <string name="description_message_list_title">List of quick replies</string>
     <string name="ok">אישור</string>
     <string name="cancel">ביטול</string>
     <string name="wait_prompt_str">"לשלוח את הצלילים הבאים?
@@ -199,4 +200,5 @@
     <string name="dialpad_eight">8</string>
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">לא ניתן לבצע שיחות. ודא שהמכשיר שלך מחובר לרשת 4G עם תמיכת VoLTE.​</string>
+    <string name="volume_boost_text">Boosted volume successfully</string>
 </resources>

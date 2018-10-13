@@ -93,6 +93,10 @@
     <string name="cleanup_power">Deep clean</string>
     <string name="company">Work</string>
     <string name="company_or_school">Work or school</string>
+    <string name="cricket_content_provider">ספק תוכן</string>
+    <string name="cricket_fixtures_label">תאריך קבוע</string>
+    <string name="cricket_news_label">חדשות</string>
+    <string name="cricket_select_series">בחר את הסדרה האהובה עליך</string>
     <string name="cta_desc">Collect important shortcuts and info right here.</string>
     <string name="cta_dialog_negative">Exit</string>
     <string name="cta_dialog_positive">Agree</string>
@@ -214,6 +218,7 @@
     <string name="scan_code">QR code</string>
     <string name="scan_doc">Document</string>
     <string name="scan_parent">Scanner</string>
+    <string name="search_card_view_date">EE y.M.d</string>
     <string name="search_tip">Searching…</string>
     <string name="security">Security</string>
     <string name="service_unavailiable">Connect to the network and try again.</string>

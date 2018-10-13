@@ -8,7 +8,6 @@
     <string name="close_panel">"כבה את 'כדור מהיר'"</string>
     <string name="customize_entries">בחר קיצורי דרך</string>
     <string name="enable_touch_assistant">"הפעל את 'כדור מהיר'"</string>
-    <string name="enabled_for_pad_hint">עובד כש\"חסום לחצני ניווט במצב אופקי\" מופעל</string>
     <string name="function_settings">הגדרות קיצורי דרך</string>
     <string name="handy_mode_default_to_close_whether_open">"מצב 'יד אחת' כבוי כברירת מחדל. להפעיל את מצב 'יד אחת'?"</string>
     <string name="hide_touch_assistant">הסתר אוטומטית</string>

@@ -114,6 +114,7 @@
     <string name="menu_title_select_folder">בחר תיקיה</string>
     <string name="menu_unhide">בטל הסתרה</string>
     <string name="menu_unstick">בטל נעיצה</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">לא כעת</string>
     <string name="note_description_content">"היישום 'פתקים' הוא כלי נהדר לרישום של הרעיונות שלך. הוא כולל אפשרות מובנית ליצירת תזכורות ומסנכרן את הפריטים שלך עם Mi Cloud כך שתוכל לגשת אליהם מכל מקום ובכל זמן. ודא כי אתה מסוגל להסתדר ללא תכונות אלה לפני הסרת היישום."</string>
     <string name="note_description_title">"אודות 'פתקים'"</string>
@@ -125,6 +126,7 @@
     <string name="note_sort_way">בחר כיצד למיין את ההערות שלך</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">תזכורת לפתק</string>
     <string name="permdesc_accessNote">יישומים זדוניים עשויים לעשות בכך שימוש על מנת לגשת לנתוניך האישיים.</string>
     <string name="permlab_accessNote">גישה לפתקים</string>

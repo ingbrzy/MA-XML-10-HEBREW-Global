@@ -271,6 +271,7 @@
     <string name="exit">יציאה</string>
     <string name="exit_browser_warning">לצאת מהדפדפן?</string>
     <string name="exit_fullscreen">יציאה ממסך מלא</string>
+    <string name="external_app_restricted_access_error">"Mi Browser can't access this item."</string>
     <string name="fast_search_title">חיפוש קולי</string>
     <string name="file_dir">החלף תיקיה</string>
     <string name="file_name">"שם: "</string>
@@ -460,7 +461,7 @@
     <string name="mw_http_post_warning_resend">המשך</string>
     <string name="mw_js_dialog_before_unload">"%s
 
-לצאת מדף זה?"</string>
+Leave this page now?"</string>
     <string name="mw_js_dialog_before_unload_negative_button">הישאר בעמוד זה</string>
     <string name="mw_js_dialog_before_unload_positive_button">צא מעמוד זה</string>
     <string name="mw_js_dialog_before_unload_title">אשר ניווט</string>
@@ -705,6 +706,8 @@
     <string name="mw_snippets_disabled_generic_prompt">קבל תוכן מותאם אישית</string>
     <string name="mw_snippets_disabled_signed_out_instructions">היכנס לדפדפן Chrome כדי לקבל תוכן מותאם אישית המוצע על ידי Google.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">הגדר זמן</string>
@@ -1149,6 +1152,8 @@
     <string name="voice_title_listening">מאזין…</string>
     <string name="voice_title_please">התחל לדבר…</string>
     <string name="voice_title_speech_again">לא ניתן היה להבין אותך</string>
+    <string name="vote_already">כבר הצבעת</string>
+    <string name="vote_fail">לא ניתן היה להצביע, נסה שוב מאוחר יותר</string>
     <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_location_confirm_message">כיבוי תכונה זו עשוי להשפיע על השימוש.</string>
     <string name="weather_publish_time">עודכן %1$s</string>
@@ -1192,7 +1197,6 @@
     <string name="date_picker_dialog_set">הגדר</string>
     <string name="date_picker_dialog_title">הגדר תאריך</string>
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
-    <string name="external_app_restricted_access_error">אין ל-Mi Browser גישה למשאב המבוקש.</string>
     <string name="find_next">מצא את הבא</string>
     <string name="find_previous">מצא את הקודם</string>
     <string name="js_dialog_before_unload">"%s

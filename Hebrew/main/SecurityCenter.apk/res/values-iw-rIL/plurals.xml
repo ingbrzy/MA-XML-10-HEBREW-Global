@@ -183,16 +183,16 @@
         <item quantity="many">%d בעיות סוללה התגלו, תקן אותן</item>
     </plurals>
     <plurals name="power_center_menu_text">
-        <item quantity="other">items</item>
-        <item quantity="one">item</item>
-        <item quantity="two">items</item>
-        <item quantity="many">items</item>
+        <item quantity="other">פריטים</item>
+        <item quantity="one">פריט</item>
+        <item quantity="two">פריטים</item>
+        <item quantity="many">פריטים</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
-        <item quantity="other">Add %d minutes</item>
-        <item quantity="one">Add %d minute</item>
-        <item quantity="two">Add %d minutes</item>
-        <item quantity="many">Add %d minutes</item>
+        <item quantity="other">הוסף דקות %d</item>
+        <item quantity="one">הוסף דקה %d</item>
+        <item quantity="two">הוסף דקות %d</item>
+        <item quantity="many">הוסף דקות %d</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">הורד על ידי %1$d אנשים</item>
@@ -363,16 +363,16 @@
         <item quantity="many">%d ימים מאז הבדיקה האחרונה</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d סיכונים,</item>
-        <item quantity="one">סיכון %d,</item>
-        <item quantity="two">%d סיכונים,</item>
-        <item quantity="many">%d סיכונים,</item>
+        <item quantity="other">%d risks,</item>
+        <item quantity="one">%d risk,</item>
+        <item quantity="two">%d risks,</item>
+        <item quantity="many">%d risks,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d סוסים טרויאנים,</item>
-        <item quantity="one">סוס טרויאני %d,</item>
-        <item quantity="two">%d סוסים טרויאנים,</item>
-        <item quantity="many">%d סוסים טרויאנים,</item>
+        <item quantity="other">%d trojans</item>
+        <item quantity="one">%d trojan</item>
+        <item quantity="two">%d trojans</item>
+        <item quantity="many">%d trojans</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">יישומים מסוכנים: %d</item>

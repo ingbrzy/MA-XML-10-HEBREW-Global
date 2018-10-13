@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d תגובות</item>
+        <item quantity="one">תגובה %d</item>
+        <item quantity="two">%d תגובות</item>
+        <item quantity="many">%d תגובות</item>
+    </plurals>
     <plurals name="theme_batch_has_update_text">
         <item quantity="other">קיימים עדכונים זמינים עבור %1$d ערכות נושא.</item>
         <item quantity="one">קיים עדכון זמין עבור ערכת נושא %1$d.</item>

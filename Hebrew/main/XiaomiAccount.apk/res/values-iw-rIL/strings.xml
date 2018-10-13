@@ -9,7 +9,7 @@
     <string name="passport_login">היכנס</string>
     <string name="passport_relogin">היכנס שוב</string>
     <string name="passport_skip_login">דלג</string>
-    <string name="passport_skip_setup_account_title">דלג על ההתקנה</string>
+    <string name="passport_skip_setup_account_title">"Don't use Mi Cloud?"</string>
     <string name="passport_skip_setup_account_msg">"באפשרותך להגדיר את חשבון Mi מאוחר יותר ב'הגדרות'."</string>
     <string name="passport_confirm_login">המשך</string>
     <string name="passport_find_password_on_web_msg">בקר ב- account.mi.com על מנת לאפס את סיסמתך.</string>
@@ -300,7 +300,7 @@
     <string name="user_avatar_uploading">רק רגע…</string>
     <string name="user_avatar_update_title">החלף תמונת פרופיל</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות.</string>
-    <string name="account_invalid_user_avatar">This photo is invalid. Try a different one.</string>
+    <string name="account_invalid_user_avatar">התמונה לא חוקית. נסה תמונה אחרת.</string>
     <string name="account_none_binded_info">אין</string>
     <string name="account_bind_secure_phone_title">הוסף מספר טלפון</string>
     <string name="account_bind_secure_email_title">הוסף דוא\"ל</string>
