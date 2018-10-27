@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">"עבור אל 'עמוד הבית'"</string>
-    <string name="abc_action_bar_up_description">עבור מעלה</string>
+    <string name="abc_action_bar_home_description">"נווט ל'מסך הבית'"</string>
+    <string name="abc_action_bar_up_description">נווט למעלה</string>
     <string name="abc_action_menu_overflow_description">עוד</string>
     <string name="abc_action_mode_done">בוצע</string>
     <string name="abc_action_mode_select_all">בחירת הכל</string>
@@ -122,6 +122,7 @@
     <string name="cannot_download">ניתן להוריד קישורי \"http\" או \"https\" בלבד</string>
     <string name="card_setting_close_recommend">קבלת המלצות</string>
     <string name="cast_video">שדר את הסרטון</string>
+    <string name="change_news_language">Change news language?</string>
     <string name="channels_edit">עריכה</string>
     <string name="channels_finish">סיום</string>
     <string name="choosertitle_sharevia">שיתוף באמצעות</string>
@@ -215,6 +216,7 @@
     <string name="document_open_other">יישומים אחרים</string>
     <string name="document_open_title">פתח באמצעות</string>
     <string name="dont_remind_again">זכור בחירה זו</string>
+    <string name="download_btn">Download</string>
     <string name="download_btn_select_all">בחירת הכל</string>
     <string name="download_btn_select_none">הסרת בחירה מהכל</string>
     <string name="download_complete">ירד בהצלחה</string>
@@ -305,6 +307,7 @@
     <string name="go_supermarket_title">"עוד יישומים, מהירות גבוהה יותר ופחות שימוש בנתונים ב'חנות היישומים'"</string>
     <string name="gold_medals">מדליות זהב</string>
     <string name="google_bookmarks">Google</string>
+    <string name="hash_tag">\# %1$s</string>
     <string name="have_sent_bookmark_to_home_screen">נוסף לעמוד הבית</string>
     <string name="hint">הערה</string>
     <string name="history">היסטוריה</string>
@@ -706,6 +709,8 @@ Leave this page now?"</string>
     <string name="mw_snippets_disabled_generic_prompt">קבל תוכן מותאם אישית</string>
     <string name="mw_snippets_disabled_signed_out_instructions">היכנס לדפדפן Chrome כדי לקבל תוכן מותאם אישית המוצע על ידי Google.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">הגדר זמן</string>
@@ -939,6 +944,7 @@ Leave this page now?"</string>
     <string name="remove_snapshot">מחק את העמוד שנשמר</string>
     <string name="removed_from_bookmarks">הוסר מהסימניות</string>
     <string name="replace">החלפה</string>
+    <string name="replay">Play again</string>
     <string name="reply_comment_title">Re: %s</string>
     <string name="resume_download">המשך</string>
     <string name="retry_after_network_available">לא ניתן להתחבר לרשת</string>
@@ -1002,6 +1008,7 @@ Leave this page now?"</string>
     <string name="sendstartpage">עמוד הבית</string>
     <string name="share_image_text">תראו מה שיתפתי! @MIUI</string>
     <string name="share_page_text">תראו מה שיתפתי: %1$s @MIUI| %2$s</string>
+    <string name="share_slide_video_text">Look what I shared: %1$s</string>
     <string name="share_video">שתף את הסרטון</string>
     <string name="sign_in_to" formatted="false">היכנס אל %s1 %s2\"</string>
     <string name="site_sort_des">ארגון מחדש של הפריטים</string>
@@ -1138,6 +1145,9 @@ Leave this page now?"</string>
     <string name="video_unknown_duration">משך זמן לא ידוע</string>
     <string name="view_certificate">הצג תעודה</string>
     <string name="view_document_downloaded_files">"הצג קבצים שירדו ב'הורדות'"</string>
+    <string name="view_source">View source</string>
+    <string name="vmate_download_content">Enjoy all prank, comedy, music, dance videos</string>
+    <string name="vmate_download_title">India’s most Entertaining App</string>
     <string name="voice_check_network">בדוק את הגדרות הרשת שלך ונסה שוב.</string>
     <string name="voice_connect_network">לא ניתן היה להתחבר לרשת.</string>
     <string name="voice_description">חיפוש קולי</string>

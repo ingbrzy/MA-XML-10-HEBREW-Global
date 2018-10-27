@@ -425,6 +425,7 @@
     <string name="managed_user_title">כל יישומי העבודה</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
@@ -942,6 +943,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"יישום זה עשוי להאט
 את מכשירך"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">להסיר את התקנת %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">הסר התקנת יישום זה על מנת לתקן בעיות שימוש בסוללה.</string>
     <string name="om_ill_proc_type_wakelock_title">"היישום חוסם את 'מצב שינה' וזולל סוללה"</string>
@@ -1000,6 +1002,7 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">נתונים סלולריים שנשלחו</string>
     <string name="usage_type_no_coverage">זמן ללא אות</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="power_screen">מסך</string>
     <string name="power_wifi">רשת אלחוטית</string>
@@ -1094,7 +1097,6 @@ Rolled over extra data"</string>
     <string name="deep_save_ontime_boot_shutdown_summary">תזמן את ההפעלה והכיבוי של המכשיר</string>
     <string name="btn_text_quick_save_power">צנן</string>
     <string name="notification_battery_consume_abnormal_title">הסוללה מתרוקנת מהר מידי</string>
-    <string name="notification_battery_consume_abnormal_summary">%2$s מהסוללה התרוקנו במהלך %1$d הדקות האחרונות</string>
     <string name="app_check_no_issue">נראה כי לא קיימות בעיות סוללה. מגניב!</string>
     <string name="power_save_mode_enable">חסכון בסוללה</string>
     <string name="power_save_mode_summary">נטר תהליכי רקע וכבה את הסנכרון.</string>
@@ -1227,12 +1229,17 @@ Rolled over extra data"</string>
     <string name="power_center_list_item_auto_brightness">התאמת בהירות אוטומטית</string>
     <string name="power_center_list_item_deep_save_title">הגדרות מתקדמות</string>
     <string name="power_center_list_item_battery_status_time">"ש'"</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">עצירת הסריקה</string>
     <string name="hide_mode_result_summary_text">התאמה אישית של חסכון בסוללה עבור כל יישום בנפרד</string>
     <string name="auto_task_result_summary_text">בגדרת משימות אוטומטיות עבור חסכון בסוללה</string>
     <string name="pc_settings_title">פרטי השימוש בסוללה</string>
     <string name="pc_main_activity_back">חזרה</string>
     <string name="extreme_power_save_mode_card_summary">הפעלת חסכון מירבי כדי לשמור על הסוללה כאשר היא ריקה.</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="handle_bar_title_system">מערכת</string>
     <string name="apps_list_header_title_sms">בדוק את יישום ההודעות</string>
     <string name="apps_list_header_title_sms_access">הגבל גישה לקודי אימות</string>
@@ -1386,11 +1393,13 @@ Rolled over extra data"</string>
     <string name="menu_text_optimize_manage">האצת מהירות</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_summary_networkassistants">נהל את תכנית הנתונים שלך</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">חריגה ממגבלת הנתונים</string>
     <string name="menu_summary_networkassistants_3">נותר מספיק נפח גלישה</string>
     <string name="menu_summary_networkassistants_4">חבילת הגלישה נגמרת</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1403,12 +1412,14 @@ Rolled over extra data"</string>
     <string name="menu_summary_garbage_cleanup">אין אשפה</string>
     <string name="menu_summary_garbage_cleanup_2">נפח האשפה</string>
     <string name="menu_summary_garbage_cleanup_3">נקה את האשפה עכשיו</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">שימוש בסוללה</string>
     <string name="menu_summary_power_manager">מצב חיסכון בסוללה מאפשר זמן שימוש ארוך יותר בין טעינות</string>
     <string name="menu_summary_power_manager_1">הסוללה טעונה במלואה</string>
     <string name="menu_summary_power_manager_2">%s נותרו</string>
     <string name="menu_summary_power_manager_3">חבר מטען</string>
     <string name="menu_summary_power_manager_4">%s לטעינה מלאה</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">הסריקה הקודמת בוטלה</string>
     <string name="examination_score_100">הכל נראה תקין!</string>
     <string name="examination_score_80_100">מספר פריטים ניתנים לייעול</string>
@@ -1623,6 +1634,8 @@ Rolled over extra data"</string>
     <string name="summary_cloud_space_full">קבל מקום אחסון נוסף בענן וגישה לתכונות נוספות</string>
     <string name="title_auto_update">עדכן באופן אוטומטי</string>
     <string name="summary_auto_update">מערכת MIUI תבחר את הזמן המתאים ביותר להורדה והתקנה של עדכונים.</string>
+    <string name="title_rcs_switch">Turn on China Mobile Messaging</string>
+    <string name="summary_rcs_switch">Send SMS to China Mobile users without incurring charges</string>
     <string name="title_miui_update_latest">MIUI מעודכן</string>
     <string name="title_miui_update">קיים עדכון זמין</string>
     <string name="summary_miui_update">קיים עדכון זמין עבור %s.</string>
@@ -1782,6 +1795,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -1953,6 +1967,7 @@ Rolled over extra data"</string>
     <string name="reset_data_title">לא ניתן לשחזר את הסיסמה</string>
     <string name="reset_data_dialog_message">"This device isn't associated with your Mi Account. Can't restore or reset password. Back up all imporant items and perform a factory reset. All data will be permanently deleted and your SD card will be formatted during the factory reset."</string>
     <string name="reset_data_dialog_ok">איפוס להגדרות היצרן</string>
+    <string name="ad_split_screen_title">Please switch to full screen mode to unlock</string>
     <string name="wakepath_confirm_start_activity">לאפשר ל- %1$s לפתוח את %2$s?</string>
     <string name="unlike">לא תודה</string>
     <string name="toast_network_eror">לא ניתן להתחבר לרשת</string>
@@ -2164,6 +2179,7 @@ Rolled over extra data"</string>
     <string name="gs_call_handsfree_mute">מצב שקט</string>
     <string name="gs_gamebox">קיצורים בתוך המשחק</string>
     <string name="gs_gamebox_detail">הצג את פנל הקיצורים בתוך המשחק</string>
+    <string name="gs_gamebox_slip">Push the screen down to open</string>
     <string name="gs_forbid_autosync">הגבל את הסנכרון ברקע</string>
     <string name="gs_app_back_self_start">חסכון בסוללה</string>
     <string name="gs_only_self_start_for_list">הגבל תהליכי רקע על מנת לחסוך בסוללה לטובת משחקים</string>
@@ -2315,6 +2331,7 @@ Rolled over extra data"</string>
     <string name="screenrecord_not_find">התקן את הגרסה האחרונה של מקליט המסך ונסה שוב.</string>
     <string name="gamebox_qq_not_find">התקן את QQ ונסה שוב.</string>
     <string name="gamebox_wechat_not_find">התקן את WeChat ונסה שוב.</string>
+    <string name="gamebox_app_not_find">Install the app first.</string>
     <string name="gamebox_type_close">לא להציג</string>
     <string name="gamebox_type_float">קיצור קבוע</string>
     <string name="gamebox_type_gesture">העבר אצבע כדי להציג</string>
@@ -2331,6 +2348,7 @@ Rolled over extra data"</string>
     <string name="gb_create_icon_summary">"יצירת קיצור דרך ב'מסך הבית'"</string>
     <string name="title_reply">רשום הערה</string>
     <string name="title_like">סמן ב\"אהבתי\"</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">גלישה סלולרית</string>
     <string name="game_wid_viewpoint_buttom">קח הפסקה קצרה.</string>
     <string name="video_repeat">נגן שוב</string>
@@ -2379,9 +2397,6 @@ This feature isn't supported for system apps."</string>
     <string name="first_aid_card_airplane_title">לא ניתן לבצע שיחות או להתחבר לרשת</string>
     <string name="first_aid_card_airplane_summary">כבה את מצב הטיסה כדי לבצע שיחות ולהתחבר לרשת</string>
     <string name="first_aid_card_airplane_button">כבה</string>
-    <string name="first_aid_card_apn_title">לא ניתן להתחבר לרשת</string>
-    <string name="first_aid_card_apn_summary">בוצע שינוי ב-APN. תקן את הבעיה כדי שתוכל להתחבר לרשת.</string>
-    <string name="first_aid_card_apn_button">תקן</string>
     <string name="first_aid_card_unable_install_title">לא ניתן להתקין אפליקציות</string>
     <string name="first_aid_card_unable_install_summary">נפח האחסון הזמין הוא %s בלבד. פנה נפח אחסון כדי שתוכל להתקין אפליקציות.</string>
     <string name="first_aid_card_unable_install_button">פנה נפח אחסון</string>

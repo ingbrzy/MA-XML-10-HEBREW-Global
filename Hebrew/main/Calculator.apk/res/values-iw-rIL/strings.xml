@@ -62,6 +62,21 @@
     <string name="fund" />
     <string name="fund_loan">מימון הלוואה</string>
     <string name="global_network_confirm_content">ממיר המטבע זקוק לחיבור לאינטרנט על מנת שיוכל לעבוד באופן תקין.</string>
+    <string name="global_search_key_area_convertion">שטח;ממיר שטח;המרת שטח</string>
+    <string name="global_search_key_calculation">חישוב; מחשבון; יחידת המרה; ממיר; המרת יחידה</string>
+    <string name="global_search_key_date_convertion">ממיר זמן;יחידות זמן;המרת זמן;זמן</string>
+    <string name="global_search_key_exchange_rate">שער החליפין; שער החליפין ההמרה; ממיר מטבע; מטבע; שערי חליפין יציגים</string>
+    <string name="global_search_key_length_convertion">אורך; ממיר אורך; המרת אורך</string>
+    <string name="global_search_key_mortgage">חישוב המשכנתא; מחשבון משכנתא; משכנתא</string>
+    <string name="global_search_key_personal_tax">מס הכנסה אישי;אחרי מס הכנסה;מחשבון מס;חישוב הכנסה אישית;חישוב הכנסה;לאחר חישוב מס הכנסה;מס הכנסה אישי;מס;מסים</string>
+    <string name="global_search_key_scientific_convertion">מחשבון מדעי; חישוב פונקציה; מתמטיקה; אלגברה</string>
+    <string name="global_search_key_speed_convertion">המרת יחידת מהירות;המרת מהירות;המרת מהירות;ממיר מהירות;מהירות;מהירות</string>
+    <string name="global_search_key_temperature_convertion">המרה יחידת הטמפרטורה; המרת טמפרטורה; ממיר הטמפרטורה; פרנהייט;צלזיוס; מעלות צלזיוס</string>
+    <string name="global_search_key_volume_convertion">המרה יחידת נפח; המרת נפח; ממיר נפח</string>
+    <string name="global_search_key_weight_convertion">המרת יחידת משקל;המרת משקל;ממיר משקל;קילו;ק\"ג;קילוגרמים;פאונד;פאונדים;ליברות</string>
+    <string name="global_search_key_word_figure">סימנים פיננסיים</string>
+    <string name="golbal_search_calculator_setting">מחשבון; הגדרות מחשבון; הגדרות</string>
+    <string name="golbal_search_path_calculator_setting">יישומי מערכת/מחשבון/הגדרות</string>
     <string name="home_title_calculator">מחשבון</string>
     <string name="income_type" />
     <string name="install">התקנה</string>
@@ -141,6 +156,7 @@
     <string name="negDesc">החלף בין טמפרטורות מתחת ומעל לאפס</string>
     <string name="network_confirm_content">ממיר המטבע, מחשבוני המס והמשכנתא זקוקים לחיבור לאינטרנט ולגישה לשירותי המיקום על מנת שיוכלו לפעול באופן תקין.</string>
     <string name="network_confirm_title">נדרשת הרשאה</string>
+    <string name="not_supported_due_to_language">אפשרות זו זמינה רק בשפה הסינית</string>
     <string name="percent" />
     <string name="percentDesc">אחוז</string>
     <string name="piDesc">פאי</string>
@@ -225,8 +241,8 @@
     <string name="tax_social_insurance">ביטוח לאומי</string>
     <string name="tax_thershold_foreign">%s (לאומים זרים)</string>
     <string name="tax_thershold_native">%s (סין)</string>
-    <string name="tax_thershold_native_new">%s (new)</string>
-    <string name="tax_thershold_native_new_description">Taxes will be calculated according to the new tax law starting from October 1, 2018</string>
+    <string name="tax_thershold_native_new">%s (חדש)</string>
+    <string name="tax_thershold_native_new_description">המסים יחושבו על פי חוקי המס החדשים החל מ- 1 באוקטובר, 2018</string>
     <string name="tax_threshold">מגבלת פתור ממס</string>
     <string name="tax_title_primary" />
     <string name="tax_title_secondary" />
@@ -299,7 +315,7 @@
     <string name="unit_data_display_currency_nok">כתר נורבגי</string>
     <string name="unit_data_display_currency_nzd">דולר ניו זילנדי</string>
     <string name="unit_data_display_currency_omr">ריאל עומאני</string>
-    <string name="unit_data_display_currency_php">Philippine peso</string>
+    <string name="unit_data_display_currency_php">פזו פיליפיני</string>
     <string name="unit_data_display_currency_pln">זלוטי פולני</string>
     <string name="unit_data_display_currency_qar">ריאל קטרי</string>
     <string name="unit_data_display_currency_ron">לאו רומני</string>
@@ -404,8 +420,8 @@
     <string name="unit_data_display_weight_uk.cwt">UK hundredweight</string>
     <string name="unit_data_display_weight_uk.st">סטון</string>
     <string name="unit_data_display_weight_us.cwt">US hundredweight</string>
-    <string name="unit_data_short_area_acre">ac</string>
-    <string name="unit_data_short_area_are">a</string>
+    <string name="unit_data_short_area_acre">אקר (ac)</string>
+    <string name="unit_data_short_area_are">אר (a)</string>
     <string name="unit_data_short_area_ha">הקטר</string>
     <string name="unit_data_short_area_mu">mu</string>
     <string name="unit_data_short_area_qing">qing</string>
@@ -536,5 +552,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_connect_download_manager_fail">ההתחברות למנהל ההורדות נכשלה, אנא בדוק את מצב מנהל ההורדות במסך הניהול של היישום.</string>
+    <string name="xiaomi_external_storage_unavailable">האחסון לא זמין, אנא בדוק את כרטיס ה-SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_update_dialog_message">"מציגים את גרסה %1$s
+גודל: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"מציגים את גרסה %1$s
+גודל עדכון הדלתא: %2$s"</string>
+    <string name="xiaomi_update_dialog_title">%1$s עודכן!</string>
     <string name="year" />
 </resources>

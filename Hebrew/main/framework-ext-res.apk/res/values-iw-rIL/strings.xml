@@ -131,7 +131,8 @@
     <string name="security_permission_xiaomi_account_missed_text">הזן את מזהה חשבון Mi שלך</string>
     <string name="security_permission_validate_warning">תודה על עזרתך לשיפור של MIUI!</string>
     <string name="security_permission_wifi_and_data_opened_text">"'רשתות אלחוטיות' ו'נתונים סלולריים' הופעלו"</string>
-    <string name="security_permission_network_failed_text">"Couldn't connect to the network. Check your network settings and try again."</string>
+    <string name="security_permission_network_failed_text">לא ניתן להתחבר לאינטרנט. בדוק את הגדרות הרשת ונסה שוב.</string>
+    <string name="security_permission_open_wifi_settings">פתיחת הגדרות הרשת האלחוטית</string>
     <string name="xspace_resolver_activity_title">בחר יישום</string>
     <string name="user_switching_dialog_text">מחליף…</string>
     <string name="activity_package_delete_confirm_title">שים לב</string>
@@ -181,6 +182,6 @@
     <string name="miui_warning_button_ok">אשר</string>
     <string name="miui_warning_button_cancel">בטל</string>
     <string name="miui_warning_tip_info">אירעה שגיאה ב-%1$s. לסגור את האפליקציה עכשיו?</string>
-    <string name="talk_back_water_mark_string1">TalkBack is on</string>
-    <string name="talk_back_water_mark_string2">Press and hold \"Volume+\" and \"Volume-\" for 3 seconds to turn off</string>
+    <string name="talk_back_water_mark_string1">TalkBack פתוח</string>
+    <string name="talk_back_water_mark_string2">לחץ והחזק את כפתור הווליום+ וכפתור ווליום- כשלוש שניות על מנת לכבות</string>
 </resources>

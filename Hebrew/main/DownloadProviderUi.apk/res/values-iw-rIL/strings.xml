@@ -48,6 +48,8 @@
     <string name="bt_restart_dialog_message">להתחיל מחדש את כל ההורדות בתיקית BT?</string>
     <string name="bt_restart_dialog_title">התחל מחדש את כל ההורדות</string>
     <string name="cancel">ביטול</string>
+    <string name="check_new_downloaded_action">View</string>
+    <string name="check_new_downloaded_file">A new file found</string>
     <string name="clear_data">הסרה</string>
     <string name="complete_time">הושלם:</string>
     <string name="confirm">אישור</string>
@@ -112,14 +114,19 @@
     <string name="extend">עוד</string>
     <string name="file_exist_hint">קובץ זה קיים כבר</string>
     <string name="file_size">גודל:</string>
+    <string name="get_data_failed">לא ניתן היה לקבל פרטים. המתן דקה או שתיים ונסה שוב.</string>
     <string name="guess_like">יתכן שתאהב גם</string>
     <string name="hint">שים לב</string>
+    <string name="info_download_details">פרטים</string>
+    <string name="info_download_progress">הצג את התקדמות ההורדה</string>
     <string name="info_flow_only_load_wifi">טען תוכן בעת חיבור לרשת אלחוטית בלבד</string>
     <string name="info_flow_setting">הגדרות תוכן</string>
     <string name="info_flow_show">הצג תוכן מומלץ</string>
     <string name="install">התקנה</string>
     <string name="installing">מתקין…</string>
     <string name="insufficient_space">אין מספיק שטח אחסון</string>
+    <string name="load_finish_hint">זה הכל לעת עתה.</string>
+    <string name="loading">רק רגע…</string>
     <string name="media_filter">מדיה</string>
     <string name="menu_all_task_pause">הפסק הכל</string>
     <string name="menu_all_task_start">התחל הכל</string>
@@ -128,6 +135,7 @@
     <string name="menu_title_pause_all">הפסק הכל</string>
     <string name="menu_title_resume_all">התחל הכל</string>
     <string name="menu_title_settings">הגדרות</string>
+    <string name="net_error">התחבר לרשת ונסה שוב</string>
     <string name="no_file_hint">משימת ההורדה עבור קובץ זה כבר קיימת</string>
     <string name="no_result_for_keyword">לא ניתן היה למצוא את \"%1$s\"</string>
     <string name="no_share_file">לא ניתן היה לשתף קובץ זה</string>
@@ -161,6 +169,7 @@
     <string name="privacy_tip_cancel">ביטול</string>
     <string name="privacy_tip_ok">אישור</string>
     <string name="rank">דירוגים</string>
+    <string name="rank_app_list">הורדות מובילות</string>
     <string name="recommend_downloading">מוריד…</string>
     <string name="recommend_failed">נכשל</string>
     <string name="recommend_install">התקנה</string>
@@ -196,13 +205,4 @@
     <string name="toast_only_wifi_download">התחבר לרשת אלחוטית על מנת להוריד פריט זה</string>
     <string name="total_speedup">האצת מהירות (סה\"כ)</string>
     <string name="version">גרסה %s</string>
-    <string name="check_new_downloaded_action">View</string>
-    <string name="check_new_downloaded_file">A new file found</string>
-    <string name="get_data_failed">לא ניתן היה לקבל פרטים. המתן דקה או שתיים ונסה שוב.</string>
-    <string name="info_download_details">פרטים</string>
-    <string name="info_download_progress">הצג את התקדמות ההורדה</string>
-    <string name="load_finish_hint">זה הכל לעת עתה.</string>
-    <string name="loading">רק רגע…</string>
-    <string name="net_error">התחבר לרשת ונסה שוב</string>
-    <string name="rank_app_list">הורדות מובילות</string>
 </resources>

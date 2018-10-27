@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="trans_succeed_survey_title">
-        <item>Overall rating</item>
-        <item>Duration of transfer</item>
-        <item>Simplicity of the process</item>
+        <item>סך כל הדירוגים</item>
+        <item>משך זמן ההעברה</item>
+        <item>קלות התהליך</item>
         <item>Clarity of instructions</item>
     </string-array>
     <string-array name="trans_succeed_rating_hint">
-        <item>Very dissatisfied</item>
-        <item>Somewhat dissatisfied</item>
-        <item>Neutral</item>
-        <item>Somewhat satisfied</item>
-        <item>Very satisfied</item>
+        <item>כלל לא מרוצה</item>
+        <item>לא מרוצה במידה מסוימת</item>
+        <item>ניטרלי</item>
+        <item>מרוצה במידה מסוימת</item>
+        <item>מאוד מרוצה</item>
     </string-array>
     <string-array name="trans_cancel_survey_title">
-        <item>Transfer takes too long</item>
-        <item>Connection was interrupted</item>
-        <item>I selected wrong items to transfer</item>
-        <item>Too many steps</item>
-        <item>"My phone's battery is low"</item>
+        <item>ההעברה לוקחת זמן רב</item>
+        <item>החיבור הופרע</item>
+        <item>בחרתי את הפריט הלא נכון להעברהה</item>
+        <item>יותר מדיי שלבים</item>
+        <item>סוללת הטלפון כמעט ריקה</item>
         <item>Transferred items are corrupted</item>
-        <item>I started the transfer accidentally</item>
-        <item>Other</item>
+        <item>התחלתי את ההעברה בטעות</item>
+        <item>אחר</item>
     </string-array>
 </resources>

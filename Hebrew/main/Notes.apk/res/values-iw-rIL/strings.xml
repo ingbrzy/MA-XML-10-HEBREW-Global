@@ -30,7 +30,11 @@
     <string name="cancel_alarm_description">ביטול שעון מעורר</string>
     <string name="cloud_service_state_open_reminder">הפעל את הסנכרון עם Mi Cloud כדי לסנכרן פתקים.</string>
     <string name="cloud_trash_bin_title">מחק פתקים מ-Mi Cloud</string>
-    <string name="cta_reminder">יישום זה זקוק לחיבור לאינטרנט כדי לגבות את הפתקים שלך אל Mi Cloud, וכן להרשאה לקרוא את אנשי הקשר שלך כדי לאפשר הוספת תגית לפתקים שתכתוב תוך כדי שיחות.</string>
+    <string name="cta_confirm_cancel">לא מאשר</string>
+    <string name="cta_confirm_ok">מאשר</string>
+    <string name="cta_dialog_message">"כדי לפעול בצורה תקינה, היישום 'פתקים' זקוק להרשאות כדי להתחבר לאינטרנט, להקליט שמע, ולגשת לאנשי הקשר שלך. מאשר?"</string>
+    <string name="cta_dialog_title">נדרשות הרשאות</string>
+    <string name="cta_reminder">כדי להשתמש בפתקים נחוצות הרשאות בכדי להתחבר לאינטרנט, להקליט, ולקבל גישה אל אנשי הקשר שלך בכדי לעבוד בצורה תקינה. האם לאפשר?</string>
     <string name="date_time_picker_alarm_reminder">שעון מעורר</string>
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="date_time_picker_has_not_set_alarm">השעון המעורר לא הוגדר</string>
@@ -114,6 +118,7 @@
     <string name="menu_title_select_folder">בחר תיקיה</string>
     <string name="menu_unhide">בטל הסתרה</string>
     <string name="menu_unstick">בטל נעיצה</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">לא כעת</string>
     <string name="note_description_content">"היישום 'פתקים' הוא כלי נהדר לרישום של הרעיונות שלך. הוא כולל אפשרות מובנית ליצירת תזכורות ומסנכרן את הפריטים שלך עם Mi Cloud כך שתוכל לגשת אליהם מכל מקום ובכל זמן. ודא כי אתה מסוגל להסתדר ללא תכונות אלה לפני הסרת היישום."</string>
     <string name="note_description_title">"אודות 'פתקים'"</string>
@@ -125,6 +130,7 @@
     <string name="note_sort_way">בחר כיצד למיין את ההערות שלך</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">תזכורת לפתק</string>
     <string name="permdesc_accessNote">יישומים זדוניים עשויים לעשות בכך שימוש על מנת לגשת לנתוניך האישיים.</string>
     <string name="permlab_accessNote">גישה לפתקים</string>

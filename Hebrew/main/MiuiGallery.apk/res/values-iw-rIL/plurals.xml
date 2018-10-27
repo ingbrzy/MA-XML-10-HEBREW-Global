@@ -114,6 +114,12 @@
         <item quantity="two">%d סרטונים</item>
         <item quantity="many">%d סרטונים</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">בחר עד %d תמונות</item>
+        <item quantity="one">בחר תמונה אחת (%d)</item>
+        <item quantity="two">בחר עד %d תמונות</item>
+        <item quantity="many">בחר עד %d תמונות</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d פריטים נבחרו</item>
         <item quantity="one">פריט %d נבחר</item>
@@ -389,11 +395,5 @@
         <item quantity="one">פריט %d</item>
         <item quantity="two">%d פריטים</item>
         <item quantity="many">%d פריטים</item>
-    </plurals>
-    <plurals name="creation_max_image">
-        <item quantity="other">Select up to %d photos</item>
-        <item quantity="one">Select up to %d photo</item>
-        <item quantity="two">Select up to %d photos</item>
-        <item quantity="many">Select up to %d photos</item>
     </plurals>
 </resources>

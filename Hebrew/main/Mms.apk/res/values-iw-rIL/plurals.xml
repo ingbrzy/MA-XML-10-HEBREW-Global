@@ -30,6 +30,12 @@
         <item quantity="two">%d נבחרו</item>
         <item quantity="many">%d נבחרו</item>
     </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">%1$s ועוד %2$d אנשים קיבלו את ההודעה</item>
+        <item quantity="one">%1$s ועוד אדם אחד (%2$d) קיבלו את ההודעה</item>
+        <item quantity="two">%1$s ועוד %2$d אנשים קיבלו את ההודעה</item>
+        <item quantity="many">%1$s ועוד %2$d אנשים קיבלו את ההודעה</item>
+    </plurals>
     <plurals name="group_message_failed_title">
         <item quantity="other">לא ניתן היה לשלוח ל-%d אנשי קשר</item>
         <item quantity="one">לא ניתן היה לשלוח לאיש קשר %d</item>
@@ -43,10 +49,10 @@
         <item quantity="many">%d הודעות</item>
     </plurals>
     <plurals name="mark_number_dialog_subtitle">
-        <item quantity="other">Marked as %2$s by %1$d people</item>
-        <item quantity="one">Marked as %2$s by %1$d people</item>
-        <item quantity="two">Marked as %2$s by %1$d people</item>
-        <item quantity="many">Marked as %2$s by %1$d people</item>
+        <item quantity="other">סומן כ%2$s על ידי %1$d אנשים</item>
+        <item quantity="one">סומן כ%2$s על ידי אדם אחד (%1$d)</item>
+        <item quantity="two">סומן כ%2$s על ידי %1$d אנשים</item>
+        <item quantity="many">סומן כ%2$s על ידי %1$d אנשים</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s הודעות</item>

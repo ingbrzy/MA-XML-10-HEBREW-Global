@@ -182,6 +182,12 @@
         <item quantity="two">%d בעיות סוללה התגלו, תקן אותן</item>
         <item quantity="many">%d בעיות סוללה התגלו, תקן אותן</item>
     </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Drained %2$d%% of the battery during last %1$d minutes</item>
+        <item quantity="one">Drained %2$d%% of the battery during last %1$d minute</item>
+        <item quantity="two">Drained %2$d%% of the battery during last %1$d minutes</item>
+        <item quantity="many">Drained %2$d%% of the battery during last %1$d minutes</item>
+    </plurals>
     <plurals name="power_center_menu_text">
         <item quantity="other">פריטים</item>
         <item quantity="one">פריט</item>
@@ -553,5 +559,17 @@
         <item quantity="one">בעיה %1$d שדורשת מיטוב</item>
         <item quantity="two">%1$d בעיות שדורשות מיטוב</item>
         <item quantity="many">%1$d בעיות שדורשות מיטוב</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+        <item quantity="two">%1$s:</item>
+        <item quantity="many">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="two">%1$s</item>
+        <item quantity="many">%1$s</item>
     </plurals>
 </resources>

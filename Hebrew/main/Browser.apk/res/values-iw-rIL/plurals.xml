@@ -126,6 +126,12 @@
         <item quantity="two">בדוק %1$d סרטוני וידאו חדשים</item>
         <item quantity="many">בדוק %1$d סרטוני וידאו חדשים</item>
     </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d views</item>
+        <item quantity="one">%1$d view</item>
+        <item quantity="two">%1$d views</item>
+        <item quantity="many">%1$d views</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">בהיר</item>
         <item quantity="one">בהיר</item>

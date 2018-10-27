@@ -87,6 +87,7 @@
     <string name="accessibility_wifi_signal_full">‏אות Wi-Fi מלא.</string>
     <string name="accessibility_wifi_security_type_none">רשת פתוחה</string>
     <string name="accessibility_wifi_security_type_secured">רשת מאובטחת</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="data_usage_uninstalled_apps">אפליקציות שהוסרו</string>
     <string name="data_usage_uninstalled_apps_users">אפליקציות ומשתמשים שהוסרו</string>
     <string name="tether_settings_title_usb">‏שיתוף אינטרנט דרך USB</string>

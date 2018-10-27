@@ -88,6 +88,8 @@
     <string name="card_title_utilities">כלי עזר</string>
     <string name="check_network">Check network settings</string>
     <string name="check_network_retry">Check network settings and try again</string>
+    <string name="clean_grabage">מנקה</string>
+    <string name="clean_now">בדוק</string>
     <string name="cleanup_garbage">Cleaner</string>
     <string name="cleanup_memory">Clear cache</string>
     <string name="cleanup_power">Deep clean</string>
@@ -109,6 +111,7 @@
     <string name="cta_negative">Close</string>
     <string name="cta_positive">Details</string>
     <string name="cta_title">Let App vault help you</string>
+    <string name="current_optimization_value">סיכונים מורידים את ציון האבטחה של המכשיר שלך</string>
     <string name="data_error">An error occurred, wait a minute or two and try again.</string>
     <string name="data_error_show">"The order is completed, can't view details."</string>
     <string name="donnot_ask">אל תשאל שוב</string>
@@ -205,7 +208,11 @@
     <string name="ola_trip">Call a cab</string>
     <string name="ola_trip_content">Estimate the fare and call an Ola</string>
     <string name="ola_trip_content_detail">Estimate the approximate fare and call an Ola.</string>
+    <string name="optimizate_now">מטב</string>
+    <string name="optimization">ציון אבטחה</string>
     <string name="phone_check">Optimization</string>
+    <string name="phone_has_garbage">קבצי זבל יכולים להאט את מכשירך</string>
+    <string name="phone_has_virus">תוכנות זדוניות ווירוסים מהווים סיכוני אבטחה</string>
     <string name="place_label">Frequent places</string>
     <string name="record_name">Record</string>
     <string name="record_parent">Recorder</string>
@@ -221,6 +228,7 @@
     <string name="search_card_view_date">EE y.M.d</string>
     <string name="search_tip">Searching…</string>
     <string name="security">Security</string>
+    <string name="security_brief">הגן על מכשירך ונקה את האחסון</string>
     <string name="service_unavailiable">Connect to the network and try again.</string>
     <string name="set_home_failed">"Couldn't add address, try again."</string>
     <string name="set_office_failed">"Couldn't add address, try again."</string>
@@ -333,6 +341,7 @@
     <string name="upgrade_now">Update</string>
     <string name="user_id">User ID: %s</string>
     <string name="utilities_apps_bref">כאן ניתן לעיין בשירותי צד שלישי</string>
+    <string name="virus_scan">סריקת וירוסים</string>
     <string name="walk">Walk</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">How do you normally get to your destination?</string>

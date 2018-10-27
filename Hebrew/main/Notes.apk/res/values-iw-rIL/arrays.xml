@@ -45,4 +45,8 @@
         <item>פתקים קוליים</item>
         <item>צור פתקים באמצעות המנוע המובנה שלנו להמרת דיבור לטקסט המצמיד את ההקלטות המקוריות של הקול שלך להערות.</item>
     </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>פתקים קוליים</item>
+        <item>באפשרותך ליצור הערות קוליות עכשיו. פשוט הקש על הסמל, הקלט את הקול שלך, ושמור את קובץ השמע בתוך הפתק.</item>
+    </string-array>
 </resources>
