@@ -49,8 +49,6 @@
     <string name="self_device">"טלפון זה "</string>
     <string name="main_space">השטח הראשי</string>
     <string name="second_space">שטח משני</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s%3$s: %4$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s%3$s)</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>
     <string name="size_unknown">גודל לא ידוע</string>
     <string name="recovering">משחזר את %s</string>
@@ -132,8 +130,6 @@
     <string name="provision_error_connect_msg">בדוק את הרשת ונסה שוב. הגיבויים אינם זמינים כאשר מכשירך נמצא במצב לא מקוון.</string>
     <string name="provision_error_connect_title">לא ניתן להתחבר</string>
     <string name="loading_user_backup">טוען נתוני גיבוי משתמש…</string>
-    <string name="loading_progress_num">(%s%%)</string>
-    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">לא ניתן היה לאמת את החשבון.</string>
     <string name="no_account">לא מחובר לחשבון Mi.</string>
     <string name="no_backup">אין גיבויים ב-Mi Cloud.</string>
