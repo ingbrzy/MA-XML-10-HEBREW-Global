@@ -4,7 +4,7 @@
         <item>סך כל הדירוגים</item>
         <item>משך זמן ההעברה</item>
         <item>קלות התהליך</item>
-        <item>Clarity of instructions</item>
+        <item>האם ההוראות ברורות מספיק</item>
     </string-array>
     <string-array name="trans_succeed_rating_hint">
         <item>כלל לא מרוצה</item>
@@ -19,7 +19,7 @@
         <item>בחרתי את הפריט הלא נכון להעברהה</item>
         <item>יותר מדיי שלבים</item>
         <item>סוללת הטלפון כמעט ריקה</item>
-        <item>Transferred items are corrupted</item>
+        <item>הפריטים שהועברו פגומים</item>
         <item>התחלתי את ההעברה בטעות</item>
         <item>אחר</item>
     </string-array>

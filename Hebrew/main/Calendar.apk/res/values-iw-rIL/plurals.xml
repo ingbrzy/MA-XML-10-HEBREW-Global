@@ -116,7 +116,7 @@
     </plurals>
     <plurals name="event_reminders_to_max">
         <item quantity="other">ניתן להגדיר עד %d תזכורות</item>
-        <item quantity="one">ניתן להגדיר עד %d תזכורות</item>
+        <item quantity="one">ניתן להגדיר תזכורת אחת (%d) בלבד</item>
         <item quantity="two">ניתן להגדיר עד %d תזכורות</item>
         <item quantity="many">ניתן להגדיר עד %d תזכורות</item>
     </plurals>

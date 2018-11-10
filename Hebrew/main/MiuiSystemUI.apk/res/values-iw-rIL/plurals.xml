@@ -42,6 +42,18 @@
         <item quantity="two">קוד PUK שגוי, %d נסיונות נותרו</item>
         <item quantity="many">קוד PUK שגוי, %d נסיונות נותרו</item>
     </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Entering the password is required after %d hours of inactivity</item>
+        <item quantity="one">Entering the password is required after %d hour of inactivity</item>
+        <item quantity="two">Entering the password is required after %d hours of inactivity</item>
+        <item quantity="many">Entering the password is required after %d hours of inactivity</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Drawing the pattern is required after %d hours of inactivity</item>
+        <item quantity="one">Drawing the pattern is required after %d hour of inactivity</item>
+        <item quantity="two">Drawing the pattern is required after %d hours of inactivity</item>
+        <item quantity="many">Drawing the pattern is required after %d hours of inactivity</item>
+    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">"כ-%d  שעות נותרו"</item>
         <item quantity="one">"נותרה כשעה %d "</item>
@@ -69,7 +81,7 @@
     <plurals name="keyguard_charging_info_drained_min_time_format">
         <item quantity="other">"%d  דקות"</item>
         <item quantity="one">"דקה %d "</item>
-        <item quantity="two">%d\u00020 דקות</item>
+        <item quantity="two">"%d  דקות"</item>
         <item quantity="many">"%d  דקות"</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">

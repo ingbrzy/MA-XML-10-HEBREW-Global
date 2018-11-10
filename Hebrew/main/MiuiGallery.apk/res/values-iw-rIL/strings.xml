@@ -98,7 +98,6 @@
     <string name="app_name">גלריה</string>
     <string name="app_name_view_picture">הצג תמונות</string>
     <string name="app_name_view_video">הצג סרטונים</string>
-    <string name="apply">החל</string>
     <string name="associate_face_album">בחר אלבום</string>
     <string name="auto_backup_introduce">גיבוי אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
     <string name="auto_download_media_title">הורד תמונות מ-Mi Cloud באופן אוטומטי</string>
@@ -123,10 +122,6 @@
     <string name="baby_album_sharers_page_title">שיתוף עם המשפחה</string>
     <string name="baby_birthday">יום הולדת</string>
     <string name="baby_face_desc">אלבום תינוקות</string>
-    <string name="baby_lock_wallpaper">טפט מסך הנעילה</string>
-    <string name="baby_lock_wallpaper_cancelled">הוחלף לטפט ברירת המחדל של מסך הנעילה</string>
-    <string name="baby_lock_wallpaper_save_settings_msg">להחיל הגדרות נוכחיות?</string>
-    <string name="baby_lock_wallpaper_title">השתמש בתמונות של התינוק כטפט מסך הנעילה</string>
     <string name="baby_name_cannot_empty">הזן שם</string>
     <string name="baby_name_cannot_start_with">"השם לא יכול להתחיל ב'%s'"</string>
     <string name="baby_name_contain_invalidate_char">"השם לא יכול להכיל '%s'"</string>
@@ -196,7 +191,6 @@
     <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">אלבום המצלמה חייב להיות מגובה</string>
     <string name="cancel">ביטול</string>
-    <string name="cancel_baby_lock_wallpaper_confirm_msg">להחליף לטפט ברירת מחדל של מסך הנעילה?</string>
     <string name="cancel_download_btn_text">עצירה</string>
     <string name="cancel_hint">הפעולה בוטלה</string>
     <string name="cannot_remove_creator">לא ניתן להסיר את היוצר</string>
@@ -347,6 +341,11 @@
     <string name="disable_auto_upload_tip">לכבות את הסנכרון עם Mi Cloud עבור אלבום זה?</string>
     <string name="disable_auto_upload_title">כבה את הסנכרון עם Mi Cloud</string>
     <string name="do_not_remind_me">אל תציג שוב</string>
+    <string name="document_provider_guide_step_1">1. הקש על כפתור \"עוד\".</string>
+    <string name="document_provider_guide_step_2">2. הקש על \"הצג אחסון פנימי\".</string>
+    <string name="document_provider_guide_step_3">3. הקש על לחצן תפריט צד.</string>
+    <string name="document_provider_guide_step_4">4. בחר \"כרטיס SD\".</string>
+    <string name="document_provider_guide_step_5">"5. הקש על 'בחר'."</string>
     <string name="double_tap_to_higher_definition">הקשה כפולה חוזרת עבור תצוגה מקדימה באיכות HD</string>
     <string name="download_canceled">ההורדה בוטלה</string>
     <string name="download_error_format">לא ניתן היה להוריד את %s</string>
@@ -450,6 +449,18 @@
     <string name="exit_video_play">יציאה</string>
     <string name="expand_desc">עוד</string>
     <string name="expand_people">הצג עוד אנשים</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">במקום זאת גלריה תשמור את הפריטים באחסון הפנימי. באפשרותך לשנות זאת בהגדרות אחסון > > הגדרות האחסון.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_title">לא ניתן היה לתת הרשאות.</string>
+    <string name="ext_sdcard_guide_first_page_button_text">הבא</string>
+    <string name="ext_sdcard_guide_last_page_button_text">תן הרשאות</string>
+    <string name="ext_sdcard_guide_text">גלריה זקוקה לאישורך כדי לגשת כרטיס SD. הנה מה שאתה יכול לעשות:</string>
+    <string name="ext_sdcard_operation_failed_text">גלריה צריך הרשאות גישה כרטיס SD.</string>
+    <string name="ext_sdcard_operation_failed_title">לא ניתן היה להשלים פעולה זו</string>
+    <string name="ext_sdcard_permission_request_button_text">הבנתי</string>
+    <string name="ext_sdcard_permission_request_reason">גלריה זקוקה לאישורך כדי לגשת כרטיס SD. זה יאפשר לך למחוק ולערוך את התמונות ואת סרטי הווידאו המאוחסנים על כרטיס SD.</string>
+    <string name="ext_sdcard_permission_request_title">אפשר לגלריה לגשת כרטיס SD</string>
+    <string name="ext_sdcard_request_failed_button_text">אשר</string>
+    <string name="ext_sdcard_request_succeed_toast_text">אתה מוכן לצאת לדרך!</string>
     <string name="face_album_empty">"אין מספיק תמונות לביצוע זיהוי אנשים.
 צלם יותר תמונות של חברים שלך!"</string>
     <string name="face_album_empty_syncing">מסנכרן נתונים, חזור בקרוב</string>
@@ -467,6 +478,7 @@
     <string name="face_name_edit">עריכה</string>
     <string name="face_name_input">הזן שם</string>
     <string name="face_recommend">המלצות</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">לא ניתן היה להשלים את התהליך</string>
     <string name="fail_to_pick_email">כתובת דוא\"ל לא חוקית</string>
     <string name="fail_to_sync_album">לא ניתן היה לסנכרן את האלבום. בדוק את חיבור הנתונים שלך ונסה שוב.</string>
@@ -477,6 +489,7 @@
     <string name="feature_guidance_photo_effects">"אפקטים חדשים לתמונות
 זמינים כעת"</string>
     <string name="feature_guidance_video_editor_smart_effects">אפקטים חדשים זמינים כעת</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_memory">זכרון</string>
     <string name="filter_bi_mono">מונו</string>
     <string name="filter_bi_pink">ורוד</string>
@@ -546,6 +559,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">הגדר</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
  על מנת שתוכל לעבוד באופן תקין, לחץ 'הגדר' על מנת לעבור אל 'הרשאות'."</string>
@@ -721,6 +735,7 @@
     <string name="operation_save">שמירה</string>
     <string name="operation_send">שליחה</string>
     <string name="operation_set_contact_photo">הגדר כתמונה של איש קשר</string>
+    <string name="operation_set_slide_wallpaper">הגדר כטפט מצגת שקופיות</string>
     <string name="operation_set_wallpaper">קבע כטפט</string>
     <string name="operation_share">שיתוף</string>
     <string name="operation_show_in_photos_tab">"הצג ב'תמונות'"</string>
@@ -744,6 +759,7 @@
     <string name="people_mark_mode_title_no_mark_name">בחר אדם</string>
     <string name="people_page_label">אנשים</string>
     <string name="people_page_unname">ללא שם</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">תמונות חיות מחמד</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">תמונות</string>
@@ -867,6 +883,7 @@
     <string name="picker_image_will_download">%d מהתמונות שנבחרו אינן על המכשיר. תתבצע הורדה.</string>
     <string name="picker_no_network_message">התחבר לרשת על מנת להוריד</string>
     <string name="picker_origin_need_download">%1$d מהתמונות שנבחרו (%2$dMB) אינן על המכשיר. להוריד באמצעות שימוש בנתונים סלולריים?</string>
+    <string name="picker_origin_request_progress_fail">לא יכול להוריד את תמונת המקור עקב שגיאת רשת.</string>
     <string name="picker_origin_request_progress_message">מכין קבצים מקוריים (%1$d/%2$d)…</string>
     <string name="picker_title_format">בחר %1$d עד %2$d תמונות</string>
     <string name="picker_title_selection_format">תמונות נבחרות: %d</string>
@@ -1004,6 +1021,9 @@
     <string name="search_title_recommend">מומלץ</string>
     <string name="search_title_suggestion">הצעות</string>
     <string name="search_title_tag">אובייקטים</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">מחפש מקרן…</string>
     <string name="secret_album_card_description">המקום הבטוח ביותר עבור כל הסודות הקטנים שלך</string>
     <string name="secret_album_card_title">נסה אלבום מוסתר</string>
@@ -1032,7 +1052,8 @@
     <string name="send_secret_file_failed">לא ניתן היה לשתף</string>
     <string name="send_secret_file_space_low">אין מספיק שטח אחסון פנוי</string>
     <string name="send_too_many_files_error">ניתן לשלוח עד %d פריטים בפעם אחת</string>
-    <string name="set_as_baby_lock_wallpaper">הגדר כטפט מסך הנעילה</string>
+    <string name="set_as_slide_wallpaper_description">תמונה זו הינה מוקטנת, האם להוריד את התמונה המקורית?</string>
+    <string name="set_as_slide_wallpaper_title">הגדר כטפט מצגת שקופיות</string>
     <string name="set_as_wallpaper_description">תמונה זו הינה תמונה מוקטנת, להוריד את התמונה המקורית?</string>
     <string name="set_as_wallpaper_title">קבע כטפט</string>
     <string name="set_face_group_toast_msg_new_user">לחיצה ארוכה על אדם על מנת למזג או להתעלם ממנו.</string>
@@ -1282,6 +1303,7 @@
     <string name="view_face_album">צפה באלבום</string>
     <string name="view_more_face_desc">הצג אנשים נוספים</string>
     <string name="voice_assistant">קלט קולי</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">ברוכים הבאים ל-MiCloud</string>
     <string name="where_is_barcode">איפה קוד ה-QR?</string>
     <string name="who_is_this">מי זה?</string>
@@ -1289,7 +1311,7 @@
     <string name="yes">כן</string>
     <string name="yesterday">אתמול</string>
     <string name="you_are">מהי קרבתך לתינוק?</string>
-    <string name="operation_set_slide_wallpaper">הגדר כטפט מצגת שקופיות</string>
+    <string name="photo_editor_talkback_crop_screen">יחס גובה-רוחב של מסך מלא</string>
     <string name="refocus_discard_confirm_message">לשמור את השינויים?</string>
     <string name="refocus_discard_negative_btn">דחיה</string>
     <string name="refocus_discard_positive_btn">שמירה</string>
@@ -1302,6 +1324,4 @@
     <string name="refocus_title">טשטוש</string>
     <string name="refocus_type_static">רמת טשטוש</string>
     <string name="refocus_type_video">שבילי אור</string>
-    <string name="set_as_slide_wallpaper_description">תמונה זו הינה מוקטנת, האם להוריד את התמונה המקורית?</string>
-    <string name="set_as_slide_wallpaper_title">הגדר כטפט מצגת שקופיות</string>
 </resources>

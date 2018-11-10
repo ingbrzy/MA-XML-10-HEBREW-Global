@@ -13,10 +13,10 @@
         <item quantity="many">קיימים עדכונים זמינים עבור %1$d ערכות נושא.</item>
     </plurals>
     <plurals name="theme_designer_products_count">
-        <item quantity="other">%1$s works</item>
-        <item quantity="one">%1$s work</item>
-        <item quantity="two">%1$s works</item>
-        <item quantity="many">%1$s works</item>
+        <item quantity="other">%1$s עבודות</item>
+        <item quantity="one">עבודה אחת (%1$s)</item>
+        <item quantity="two">%1$s עבודות</item>
+        <item quantity="many">%1$s עבודות</item>
     </plurals>
     <plurals name="theme_update_local_resource_notifaction">
         <item quantity="other">קיימים עדכונים זמינים עבור %1$d ערכות נושא</item>

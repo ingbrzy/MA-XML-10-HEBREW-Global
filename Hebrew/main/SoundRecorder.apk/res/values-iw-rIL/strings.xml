@@ -36,7 +36,7 @@
     <string name="no_file">ריק</string>
     <string name="alert_message_delete_record_title">למחוק הקלטה?</string>
     <string name="alert_message_delete_record">מחיקת ההקלטה ממכשירך תביא למחיקתה גם מ-Mi Cloud. למחוק כעת?</string>
-    <string name="alert_message_delete_local_record">Delete this recording?</string>
+    <string name="alert_message_delete_local_record">למחוק הקלטה?</string>
     <string name="share">שיתוף</string>
     <string name="rename">שינוי שם</string>
     <string name="delete">מחיקה</string>
@@ -146,13 +146,13 @@
     <string name="alert_message_clear_records">למחוק את ההקלטות שנבחרו?</string>
     <string name="clear_records">מחק הקלטות שסונכרנו</string>
     <string name="network_tip_dialog_title">דרוש חיבור לאינטרנט</string>
-    <string name="network_tip_dialog_content">Recorder needs to connect to the internet to work normally. Agree?</string>
+    <string name="network_tip_dialog_content">מקליט זה זקוק לחיבור לאינטרנט על מנת לפעול כראוי. מסכים?</string>
     <string name="network_tip_dialog_ok">מסכים</string>
-    <string name="network_tip_dialog_cancel">"Don't agree"</string>
+    <string name="network_tip_dialog_cancel">לא מסכים</string>
     <string name="head_set_tip_dialog_title">השתמש במיקרופון הפנימי</string>
     <string name="head_set_tip_dialog_msg">נתק את האוזניות שלך על מנת שתוכל להקליט שמע בעל ערכים ספציפיים (לדוגמה: מוסיקה, קול).</string>
     <string name="head_set_tip_dialog_ok">הבנתי</string>
-    <string name="rename_fail_tip">"Couldn't rename. Item with this name already exists."</string>
+    <string name="rename_fail_tip">לא ניתן היה לשנות את השם. פריט בעל שם זהה קיים כבר.</string>
     <string name="dialog_privacy_revoke_tips">לאחר שלילת ההרשאה, היישום יפסיק לאסוף נתונים וכל הנתונים הקשורים ימחקו מהשרתים. הדבר עשוי להפוך את היישום לבלתי שמיש וירטואלית. לשלול את ההרשאה בכל זאת? על מנת להבטיח את אבטחת החשבון שלך, היכנס אל i.mi.com לפני שלילת ההרשאה עבור שירותי Mi Cloud.</string>
     <string name="privacy_policy_title">מדיניות הפרטיות</string>
 </resources>

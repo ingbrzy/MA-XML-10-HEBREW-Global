@@ -35,6 +35,8 @@
     <string name="mx_sub_dspt_provision_with_voip">שיחות אינטרנט</string>
     <string name="phone_number_required_dspt_provision">"שירות זה דורש את מספר הטלפון שלך. "</string>
     <string name="sync_dspt_provision">"סנכרן את התמונות שלך, אנשי קשר, פתקים, ועוד על כל ההתקנים שלך או גש אליהם ב "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"תוכל להפעיל או לבטל תכונה זו בכל עת בהגדרות.
 "</string>
     <string name="sync_dspt_entrance_provision">"סנכרן את התמונות, אנשי הקשר, יומן השיחות וההודעות שלך בכל המכשירים שלך. גש לדברים שסינכרנת מכל דפדפן ב: %s. "</string>
@@ -45,6 +47,8 @@
     <string name="sync_dspt_entrance_provision_skip">דלג על שלב זה</string>
     <string name="sync_dspt_entrance_provision_network">יישום זה זקוק לחיבור לאינטרנט על מנת שיוכל לעבוד באופן תקין. דרושים חיבור נתונים סלולרי והפעלת חיבור הרשת האלחוטית על מנת לסנכרן נתונים.</string>
     <string name="find_device_dspt_provision">"במידה ותאבד את מכשירך, תוכל לאתר, לנעול או לאפס אותו ב-%s. ניתן להפעיל או לכבות תכונה זו ב'הגדרות' בכל עת."</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">במידה ותחליף כרטיס SIM, מסרון נוסף להפעלה מחודשת של תכונה זו ישלח אליך אוטומטית.</string>
     <string name="mx_dspt_provision">"הודעות Mi מאפשר לך לשלוח הודעות להתקנים אחרים של MIUI ללא תשלום כאשר קיים חיבור לרשת אלחוטית.
 
@@ -183,7 +187,7 @@
     <string name="micloud_detail_force_sync">סנכרן כעת</string>
     <string name="micloud_detail_pause">הסנכרון הופסק</string>
     <string name="micloud_privacy_cloud_off">הסנכרון כבוי</string>
-    <string name="micloud_privacy_licence_agreed">מסכים למדיניות הפרטיות של Mi Cloud.</string>
+    <string name="micloud_privacy_licence_agreed">Agree to Mi Cloud &lt;a href=app://com.miui.cloudservice.gdpr.license>&lt;u>Privacy Policy&lt;/u>&lt;/a>.</string>
     <string name="micloud_privacy_licence_privacy_policy">מדיניות הפרטיות</string>
     <string name="micloud_privacy_explanation">הענק הרשאה על מנת להפעיל את שירותי Mi Cloud</string>
     <string name="micloud_privacy_cloud_sync">הפעלת שירותי Mi Cloud</string>
@@ -286,6 +290,7 @@
     <string name="micloud_find_device_opened">איתור מכשיר מופעל</string>
     <string name="micloud_find_device_open_fail">לא ניתן היה להפעיל איתור מכשיר</string>
     <string name="micloud_find_device_opened_content">אתר את המכשיר שלך ב %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">"לא ניתן היה להפעיל מחדש את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_close_fail">"לא ניתן היה לכבות את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_finish">בוצע</string>
@@ -352,6 +357,8 @@
     <string name="micloud_main_head_menu_state_close">כבוי</string>
     <string name="micloud_main_head_menu_state_unavailable">לא נתמך</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">"'איתור המכשיר' אינו זמין ב'שטח שני', תוכל להשתמש בתכונה זו ב'שטח ראשון'."</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">תשלומים באמצעות טביעת אצבע</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>

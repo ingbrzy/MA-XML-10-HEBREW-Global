@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">חבילות</string>
     <string name="hints_residual_header_left">שאריות</string>
     <string name="hints_memory_header_left">זכרון</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">קבצים גדולים: %d</string>
     <string name="hints_installed_apps_header_left">יישומים מותקנים: %d</string>
     <string name="toast_resolve_apk_error">פתור שגיאת apk</string>
@@ -299,6 +300,7 @@
     <string name="downloading">מוריד</string>
     <string name="installing">מתקין</string>
     <string name="start_install">התקן כעת</string>
+    <string name="empty">" "</string>
     <string name="open_browser">פתח בדפדפן</string>
     <string name="title_share_link">שתף קישור אינטרנט</string>
     <string name="connecting">מתחבר…</string>
@@ -467,9 +469,9 @@
     <string name="file_not_found">הקובץ לא נמצא</string>
     <string name="app_usage_never">לא היה בשימוש לאחרונה</string>
     <string name="app_usage_recently">בשימוש לאחרונה</string>
-    <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> קבצים נוספים ניתנים לניקוי. פנה מקום נוסף.;</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> קבצי מטמון של WeChat. פנה מקום נוסף.;</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data>באפשרותך לנקות &lt;font color=#ff0000 >%1$s&lt;/font> של מטמון אשר נוצר על ידי QQ;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">" "<Data> &lt;font color=#ff0000 >%1$s&lt;/font> קבצים נוספים ניתנים לניקוי. פנה מקום נוסף. ;</Data>" "</string>
+    <string name="resutl_function_wechat_clean_summary">" "<Data> &lt;font color=#ff0000 >%1$s&lt;/font> קבצי מטמון של WeChat. פנה מקום נוסף. ;</Data>" "</string>
+    <string name="resutl_function_qq_clean_summary">" "<Data> באפשרותך לנקות &lt;font color=#ff0000 >%1$s&lt;/font> של מטמון אשר נוצר על ידי QQ ;</Data>" "</string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">"אודות 'מנקה'"</string>
@@ -498,19 +500,6 @@
     <string name="auto_clean_time_three_day">כל 3 ימים</string>
     <string name="auto_clean_time_seven_day">כל 7 ימים</string>
     <string name="auto_clean_time_fifteen_day">כל 15 ימים</string>
-    <string name="pref_category_title_auto_clean_config_settings">ניקויים אוטומטיים</string>
-    <string name="pref_title_auto_clean">ניקוי אוטומטי</string>
-    <string name="pref_title_auto_clean_operation">שיטת ניקוי</string>
-    <string name="pref_title_auto_clean_trigger">ניקוי שטח האחסון</string>
-    <string name="auto_clean_operation_dialog_title">שיטת ניקוי</string>
-    <string name="auto_clean_operation_clean_and_alert">תזכורת וניקוי</string>
-    <string name="auto_clean_operation_just_clean">ניקוי בלבד</string>
-    <string name="auto_clean_trigger_dialog_title">ניקוי שטח האחסון</string>
-    <string name="auto_clean_trigger_percent_ninety">בתפוסה של 90%</string>
-    <string name="auto_clean_trigger_percent_eighty">בתפוסה של 80%</string>
-    <string name="auto_clean_trigger_percent_sixty">בתפוסה של 60%</string>
-    <string name="auto_clean_notification_title">הזכר לי לבצע ניקוי</string>
-    <string name="auto_clean_notification_content">ניקוי %s אשפה</string>
     <string name="guide_secure_dialog_title">ייעול ביצועים</string>
     <string name="guide_secure_dialog_message">ניקוד הייעול של מכשירך נמוך מ-80 נקודות. לייעל כעת?</string>
     <string name="guide_secure_dialog_positive">ייעול</string>
@@ -538,10 +527,6 @@
     <string name="whatsapp_group_gif">קבצי GIF</string>
     <string name="whatsapp_group_document">מסמכים</string>
     <string name="whatsapp_btn_quick_cleanup">מחק את הפריטים שנבחרו (%s)</string>
-    <string name="whatsapp_type_image_send">תמונות שנשלחו</string>
-    <string name="whatsapp_type_image_recv">תמונות שהתקבלו</string>
-    <string name="whatsapp_type_document_send">קבצים שנשלחו</string>
-    <string name="whatsapp_type_document_recv">קבצים שהתקבלו</string>
     <string name="whatsapp_file_show_order">היום</string>
     <string name="whatsapp_clean_exit_confirm_title">לעצור את סריקה?</string>
     <string name="whatsapp_clean_exit_confirm_msg">סריקת WhatsApp עדיין לא הסתיימה. לעצור את הסריקה עכשיו?</string>
@@ -567,4 +552,17 @@
     <string name="memory_clean_no_trash_tip">הכול נראה טוב</string>
     <string name="toast_updater_open_4g_text">יישומים יעודכנו תוך שימוש בנתונים סלוללרים (4G)</string>
     <string name="toast_updater_close_4g_text">יישומים לא יעודכנו תוך שימוש בנתונים סלוללרים (4G)</string>
+    <string name="facebook_cleaner">ניקוי Facebook</string>
+    <string name="facebook_group_image">תמונות</string>
+    <string name="facebook_group_video">סרטונים</string>
+    <string name="facebook_group_gif">קבצי GIF</string>
+    <string name="facebook_group_cache">קבצי מטמון</string>
+    <string name="app_clean_group_image_send">תמונות שנשלחו</string>
+    <string name="app_clean_group_image_recv">תמונות שהתקבלו</string>
+    <string name="app_clean_group_document_send">קבצים שנשלחו</string>
+    <string name="app_clean_group_document_recv">קבצים שהתקבלו</string>
+    <string name="facebook_clean_exit_confirm_title">לעצור את סריקה?</string>
+    <string name="facebook_clean_exit_confirm_msg">סריקת facebook עדיין לא הסתיימה. לעצור את הסריקה עכשיו?</string>
+    <string name="facebook_clean_exit_confirm_cancel">המשך לסרוק</string>
+    <string name="facebook_clean_exit_confirm_ok">עצירה</string>
 </resources>

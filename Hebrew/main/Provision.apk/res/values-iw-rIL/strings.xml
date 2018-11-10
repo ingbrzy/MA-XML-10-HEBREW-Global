@@ -101,16 +101,16 @@
     <string name="continue_to_enable_accessibility">המשך להחזיק באמצעות שתי אצבעות כלפי מטה על מנת לאפשר את הנגישות.</string>
     <string name="voice_assist_title">הער באמצעות קול</string>
     <string name="voice_assist_desp">אמור \"Mi AI\" אל תוך מיקרופון הטלפון שלך. Mi AI יזהה את הקול שלך ויוכל לשלוט על המכשיר.</string>
-    <string name="voice_assist_condition">"You'll be able to use Mi AI in these cases:
-1. When the screen is on.
-2. When you're listening to music with your screen off."</string>
-    <string name="voice_assist_advice">Mi AI allows you to use voice controls, but it consumes more power (+1% every hour).</string>
-    <string name="ai_button_title">About AI button</string>
-    <string name="ai_button_desc">Use this button to trigger Mi AI and complete tasks on your phone using just your voice</string>
-    <string name="ai_button_long_press">Press and hold</string>
-    <string name="ai_button_long_press_desc">Say your command and release the button</string>
-    <string name="ai_button_single_press">Press</string>
-    <string name="ai_button_single_press_desc">Trigger Mi AI</string>
-    <string name="ai_button_double_press">Double press</string>
-    <string name="ai_button_double_press_desc">Set up Mi AI features</string>
+    <string name="voice_assist_condition">"תוכל להשתמש ב Mi AI במקרים הבאים:
+. כאשר המסך פועל. 
+ כאשר אתה מאזין למוזיקה והמסך כבוי."</string>
+    <string name="voice_assist_advice">MI AI מאפשר לך להשתמש בפקודות קוליות, אבל שימוש באפשרות זו תגרור צריכה מוגברת של בטריה (+1% בכל שעה).</string>
+    <string name="ai_button_title">אודות כפתור AI</string>
+    <string name="ai_button_desc">השתמש בכפתור זה כדי להפעיל את MI AI וכדי להשלים משימות במכשיר תוך שימוש בקולך</string>
+    <string name="ai_button_long_press">לחץ והחזק</string>
+    <string name="ai_button_long_press_desc">אמור את פקודתך ושחרר את הכפתור</string>
+    <string name="ai_button_single_press">לחץ</string>
+    <string name="ai_button_single_press_desc">הפעלת Mi AI</string>
+    <string name="ai_button_double_press">לחיצה כפולה</string>
+    <string name="ai_button_double_press_desc">הגדר את אפשרויות M AI</string>
 </resources>

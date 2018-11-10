@@ -5,7 +5,7 @@
     <string name="power_config_select_apps_title">יישומים</string>
     <string name="power_config_event_delete">מחיקה</string>
     <string name="hide_mode_desc"><font color="#000000">כאשר אפליקציה פועלת ברקע, הפעילות שלה תנוטר כדי לצמצם את צריכת הסוללה. הפונקציה הזו תקבל נתוני משתמש ותשתמש בהם על-פי %s</font></string>
-    <string name="privacy">Privacy Policy</string>
+    <string name="privacy">מדיניות הפרטיות</string>
     <string name="power_hide_mode_title">סוללה &amp; ביצועים</string>
     <string name="power_config_apps">חסכון בסוללה</string>
     <string name="app_list_title">בחר יישומים</string>
@@ -13,7 +13,7 @@
     <string name="about_hide_mode">"אודות מצב 'חסכון בסוללה'"</string>
     <string name="show_system_app">הצג יישומי מערכת</string>
     <string name="hide_system_app">הסתר יישומי מערכת</string>
-    <string name="about_extreme_mode">Extreme mode</string>
+    <string name="about_extreme_mode">מצב קיצוני</string>
     <string name="scenario_policies_title">תרחישים חכמים</string>
     <string name="config_scenario_policies_title">תרחישים</string>
     <string name="scenario_policies_summary">החלת אסטרטגיות שונות לחכסון באנרגיה עבור תרחישים שונים.</string>
@@ -38,7 +38,7 @@
     <string name="vip_feedback_enable">הפעלת משוב VIP</string>
     <string name="extreme_power_config_mode_category">מצב קיצוני</string>
     <string name="extreme_power_config_mode_title">מצב קיצוני</string>
-    <string name="extreme_power_config_mode_desc">Switch to Extreme mode to turn off sync, Bluetooth, GPS, NFC, double tapping, button lights, waking Lock screen for notifications, as well as notification lights. MIUI will focus on saving battery.</string>
+    <string name="extreme_power_config_mode_desc">"החלף ל'מצב קיצוני' על מנת לכבות את הסנכרון, Bluetooth, GPS, NFC, הקשה כפולה, תאורת הלחצנים, הערת המסך עבור התראות וכמו כן את תאורת ההתראות. מערכת MIUI תתמקד בחסכון בסוללה."</string>
     <string name="empty_title_apps_container_list">אין יישומים</string>
     <string name="hints_loading_text">רק רגע…</string>
     <string name="config_mode_title">הגדרות רקע</string>
@@ -91,8 +91,11 @@
     <string name="appconfig_active_app_dialog_title">נהל יישומים פעילים</string>
     <string name="config_classify">מיין לפי הגדרות יישום</string>
     <string name="active_classify">מיין לפי סטטוס פעילות</string>
-    <string name="extreme_mode_max_item_alert">You can select up to 4 apps to run in the background in Extreme mode</string>
-    <string name="message_i_know">Got it</string>
-    <string name="high_temp_state">High temperature</string>
-    <string name="high_temp_state_message">High temperature protection,data,wifiap,gps,camera etc. will be restricted</string>
+    <string name="extreme_mode_max_item_alert">תוכל לבחור עד 4 יישומים רצים ברקע כשתעביר את המכשיר למצב קיצוני</string>
+    <string name="message_i_know">הבנתי</string>
+    <string name="high_temp_state">טמפרטורה גבוהה</string>
+    <string name="high_temp_state_message">"הגנת טמפרטורה גבוהה, נתונים, Wi-Fi, Gps,מצלמה וכדו'. יוגבלו"</string>
+    <string name="atrace_start">Recording atrace log…</string>
+    <string name="atrace_saving">Saving atrace log…</string>
+    <string name="atrace_saved">Saved successfully</string>
 </resources>

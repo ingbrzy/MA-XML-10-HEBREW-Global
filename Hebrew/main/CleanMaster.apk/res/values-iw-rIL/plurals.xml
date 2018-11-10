@@ -133,10 +133,10 @@
         <item quantity="many">לא היה בשימוש במשך %d שנים</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">קיימים &lt;Data>&lt;font color=#ff0000 >%d&lt;/font> יישומים אשר לא נעשה בהם שימוש למשך זמן רב, צפה.;&lt;/Data></item>
-        <item quantity="one">קיים יישום &lt;Data>&lt;font color=#ff0000 >%d&lt;/font> אשר לא נעשה בו שימוש למשך זמן רב, צפה.;&lt;/Data></item>
-        <item quantity="two">קיימים &lt;Data>&lt;font color=#ff0000 >%d&lt;/font> יישומים אשר לא נעשה בהם שימוש למשך זמן רב, צפה.;&lt;/Data></item>
-        <item quantity="many">קיימים &lt;Data>&lt;font color=#ff0000 >%d&lt;/font> יישומים אשר לא נעשה בהם שימוש למשך זמן רב, צפה.;&lt;/Data></item>
+        <item quantity="other">" קיימים "&lt;Data> &lt;font color=#ff0000 >%d&lt;/font> יישומים אשר לא נעשה בהם שימוש למשך זמן רב, צפה. ;&lt;/Data>" "</item>
+        <item quantity="one">" קיים יישום "&lt;Data> &lt;font color=#ff0000 >%d&lt;/font> אשר לא נעשה בו שימוש למשך זמן רב, צפה. ;&lt;/Data>" "</item>
+        <item quantity="two">" קיימים "&lt;Data> &lt;font color=#ff0000 >%d&lt;/font> יישומים אשר לא נעשה בהם שימוש למשך זמן רב, צפה. ;&lt;/Data>" "</item>
+        <item quantity="many">" קיימים "&lt;Data> &lt;font color=#ff0000 >%d&lt;/font> יישומים אשר לא נעשה בהם שימוש למשך זמן רב, צפה. ;&lt;/Data>" "</item>
     </plurals>
     <plurals name="clean_long_msg_p1">
         <item quantity="other">"מוחק %1$d קבצים (%2$d%%)

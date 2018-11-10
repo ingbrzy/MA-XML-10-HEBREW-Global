@@ -104,8 +104,8 @@
     </plurals>
     <plurals name="show_gps_logcat_countdown">
         <item quantity="other">%1$d steps left before you can get GPS log</item>
-        <item quantity="one">%1$d step left before you can get GPS log</item>
-        <item quantity="two">%1$d steps left before you can get GPS log</item>
+        <item quantity="one">%1$d נשאר צעד לפני שתקבל יומן GPS</item>
+        <item quantity="two">%1$d נשאר צעד לפני שתקבל יומן GPS</item>
         <item quantity="many">%1$d steps left before you can get GPS log</item>
     </plurals>
     <plurals name="show_modem_logcat_countdown">

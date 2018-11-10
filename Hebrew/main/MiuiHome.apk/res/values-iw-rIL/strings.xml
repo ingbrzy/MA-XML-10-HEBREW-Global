@@ -279,7 +279,6 @@
     <string name="recommend_apps_switch_title">יישומים מומלצים</string>
     <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, tap this folder's name."</string>
     <string name="recommend_loading">טוען</string>
-    <string name="refresh">רענן</string>
     <string name="reset_description_first_time">ניתן לשחזר את הפריסה מ-%1$sבתוך שעתיים</string>
     <string name="reset_description_others">ניתן לשחזר את הפריסה מ-%1$s</string>
     <string name="reset_fail">לא ניתן היה לשחזר</string>
@@ -344,4 +343,10 @@
     <string name="widget_gadget_player">מוסיקה</string>
     <string name="widget_global_search">חיפוש</string>
     <string name="widget_quick_function">פונקציות מהירות</string>
+    <string name="announce_for_app_move_in_folder">הועבר למיקום %1$d בתיקייה</string>
+    <string name="announce_for_create_folder_with_app">נוצרה תיקיה עם %1$s</string>
+    <string name="announce_for_widget_span">רוחב %1$d, גובה %2$d</string>
+    <string name="recommend_apps_no_data_toast">אין המלצות לעת עתה.</string>
+    <string name="recommend_refresh">רענן</string>
+    <string name="recommend_xout">אל תציג</string>
 </resources>

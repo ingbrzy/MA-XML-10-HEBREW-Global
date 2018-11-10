@@ -32,6 +32,39 @@
         <item>קדימה</item>
         <item>אחורה</item>
     </string-array>
+    <string-array name="dates">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
     <string-array name="default_reminder_labels">
         <item>בשעת האירוע</item>
         <item>5 דקות לפני</item>
@@ -47,6 +80,10 @@
         <item>אירוע זה בלבד</item>
         <item>אירוע זה ואירועים עתידיים</item>
         <item>כל האירועים</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
     </string-array>
     <string-array name="gemini_info">
         <item>תאומים</item>
@@ -217,7 +254,7 @@
         <item>שעון מרכזי (CT)</item>
         <item>מקסיקו סיטי</item>
         <item>"ססקצ'ואן"</item>
-        <item>בוגוטה</item>
+        <item>Bogotá</item>
         <item>שעון מזרחי (ET)</item>
         <item>ונצואלה</item>
         <item>שעון אטלנטי (ברבדוס)</item>
@@ -231,7 +268,7 @@
         <item>מונטבידאו</item>
         <item>אזור המיד-אטלנטיק</item>
         <item>האיים האזוריים</item>
-        <item>כף ורדה</item>
+        <item>Cape Verde</item>
         <item>קזבלנקה</item>
         <item>לונדון, דבלין</item>
         <item>אמסטרדם, ברלין</item>
@@ -275,9 +312,9 @@
         <item>אירקוטסק</item>
         <item>קואלה לומפור</item>
         <item>"פרת'"</item>
-        <item>טאיפיי</item>
+        <item>טייפה</item>
         <item>סאול</item>
-        <item>טוקיו, אוסאקה</item>
+        <item>טוקיו, אוסקה</item>
         <item>יאקוטסק</item>
         <item>אדלייד</item>
         <item>דרווין</item>
@@ -286,7 +323,7 @@
         <item>סידני, קנברה</item>
         <item>ולדיווסטוק</item>
         <item>גואם</item>
-        <item>מגדאן</item>
+        <item>מגדן</item>
         <item>אוקלנד</item>
         <item>"פיג'י"</item>
         <item>טונגה</item>
@@ -315,12 +352,5 @@
     <string-array name="widget_style_list">
         <item>שקוף</item>
         <item>רקע לבן</item>
-    </string-array>
-    <string-array name="edit_event_dislike">
-        <item>No event type I want to create</item>
-        <item>More Settings</item>
-        <item>Some Settings cannot be determined</item>
-        <item>Just look around</item>
-        <item>"Don't tell you"</item>
     </string-array>
 </resources>

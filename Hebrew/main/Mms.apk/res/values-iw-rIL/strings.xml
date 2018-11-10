@@ -201,6 +201,7 @@
     <string name="file_size">גודל:</string>
     <string name="file_title">שם:</string>
     <string name="file_width_height">גודל:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">הודעה חדשה</string>
     <string name="forward_from">העבר מ:</string>
     <string name="forward_message_select_title">העבר הודעה</string>
@@ -529,6 +530,7 @@
     <string name="rcs_summary_auto_resend_mms">המר הודעות מולטימדיה של China Mobile להודעות SMS אם לא ניתן לשלוח את ההודעה המקורית. ספק הסלולר שלך יחייב אותך עבור הודעה זו.</string>
     <string name="rcs_summary_auto_resend_sms">המר הודעות טקסט של China Mobile להודעות SMS אם לא ניתן לשלוח את ההודעה המקורית. ספק הסלולר שלך יחייב אותך עבור הודעה זו.</string>
     <string name="rcs_summary_silence_message">השתק התראות הודעה כאשר יישום שולחן העבודה מופעל</string>
+    <string name="rcs_unavailable">לא ניתן להשתמש כרגע בשירות הודעות China Mobile. כרטיס ה-SIM של China Mobile הוא לא כרטיס הנתונים ברירת המחדל שלך.</string>
     <string name="rcs_wait_for_retry_text">ממתין…</string>
     <string name="received_at_time">התקבל ב: %1s</string>
     <string name="received_label">"התקבל: "</string>
@@ -632,6 +634,7 @@
     <string name="send_signature_confirm_dialog_title">שלח הודעה</string>
     <string name="send_sms">שלח הודעה</string>
     <string name="send_to">אל:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">נשלח ב: %1s</string>
     <string name="sent_label">"נשלח: "</string>
     <string name="service_message_not_found">תוקף ההודעה פג או שאינה זמין</string>

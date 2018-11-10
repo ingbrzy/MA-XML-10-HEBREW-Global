@@ -9,7 +9,7 @@
     <string name="passport_login">היכנס</string>
     <string name="passport_relogin">היכנס שוב</string>
     <string name="passport_skip_login">דלג</string>
-    <string name="passport_skip_setup_account_title">"Don't use Mi Cloud?"</string>
+    <string name="passport_skip_setup_account_title">לא להשתמש בשירות ענן Mi?</string>
     <string name="passport_skip_setup_account_msg">"באפשרותך להגדיר את חשבון Mi מאוחר יותר ב'הגדרות'."</string>
     <string name="passport_confirm_login">המשך</string>
     <string name="passport_find_password_on_web_msg">בקר ב- account.mi.com על מנת לאפס את סיסמתך.</string>
@@ -30,6 +30,7 @@
     <string name="passport_register">צור חשבון</string>
     <string name="passport_new_user_register">צור חשבון</string>
     <string name="passport_vcode_sms_send_prompt">שלח קוד אימות ל- %s</string>
+    <string name="passport_input_phone_password">בבקשה הכנס את ססמתך עבור הטלפון הסלולרי %s</string>
     <string name="passport_get_verify_code">קבל קוד</string>
     <string name="passport_re_get_verify_code">קבל קוד שוב</string>
     <string name="passport_getting_verify_code">מקבל</string>
@@ -59,6 +60,7 @@
     <string name="passport_forget_password_no_underline">שכחתי את הסיסמה</string>
     <string name="passport_reg_type_email">כתובת דוא\"ל</string>
     <string name="passport_register_by_email"><u>צור חשבון באמצעות כתובת דואל</u></string>
+    <string name="passport_international_register_by_email">צור חשבון באמצעות כתובת דוא\"ל</string>
     <string name="passport_account_not_actived">החשבון שלך לא הופעל</string>
     <string name="passport_active_email_visit">בדוק את תיבת הדואר הנכנס שלך ב- %s</string>
     <string name="passport_click_email_to_valid">"
@@ -177,6 +179,7 @@
     <string name="passport_quick_register_notice"><u>אין לך חשבון Mi? צור אחד.</u></string>
     <string name="passport_password_phone_login">היכנס באמצעות חשבון Mi</string>
     <string name="passport_sms_verification_code_login">היכנס באמצעות מסרון</string>
+    <string name="passport_sms_verification_code_login_or_register">הרשם או הכנס באמצעות SMS</string>
     <string name="passport_login_other_account">חשבון אחר</string>
     <string name="passport_reg_new_account">צור חשבון</string>
     <string name="passport_select_the_login_account">בחר את החשבון אליו ברצונך להיכנס</string>

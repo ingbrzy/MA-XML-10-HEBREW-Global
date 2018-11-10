@@ -25,5 +25,5 @@
     <string name="settings_ad_loading">רק רגע…</string>
     <string name="settings_ad_loading_unavailable">לא ניתן היה לטעון את המידע.</string>
     <string name="autoconnect">התחבר באופן אוטומטי</string>
-    <string name="poco_privacy_policy">POCO Launcher Privacy Policy &amp; POCO Launcher User Agreement</string>
+    <string name="poco_privacy_policy">מדיניות פרטיות של משגר היישומים POCO &amp; הסכם המשתמש של משגר היישומים POCO</string>
 </resources>
