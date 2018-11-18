@@ -4,11 +4,6 @@
         <item>ילד</item>
         <item>ילדה</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>העבר</item>
-        <item>העתק</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="owner_relation">
         <item>אבא</item>
         <item>אמא</item>
