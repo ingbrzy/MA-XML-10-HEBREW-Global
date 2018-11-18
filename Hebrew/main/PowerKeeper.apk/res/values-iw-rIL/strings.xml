@@ -93,8 +93,8 @@
     <string name="active_classify">מיין לפי סטטוס פעילות</string>
     <string name="extreme_mode_max_item_alert">תוכל לבחור עד 4 יישומים רצים ברקע כשתעביר את המכשיר למצב קיצוני</string>
     <string name="message_i_know">הבנתי</string>
-    <string name="high_temp_state">טמפרטורה גבוהה</string>
-    <string name="high_temp_state_message">"הגנת טמפרטורה גבוהה, נתונים, Wi-Fi, Gps,מצלמה וכדו'. יוגבלו"</string>
+    <string name="high_temp_state">Overheating</string>
+    <string name="high_temp_state_message">Your device is overheating. Mobile data, Wi-Fi hotspots, GPS, and camera will be restricted.</string>
     <string name="atrace_start">Recording atrace log…</string>
     <string name="atrace_saving">Saving atrace log…</string>
     <string name="atrace_saved">Saved successfully</string>

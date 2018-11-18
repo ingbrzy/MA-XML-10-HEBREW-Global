@@ -73,6 +73,12 @@
         <item>מיון לפי שימוש באחסון</item>
         <item>מיון על פי מועד ההתקנה</item>
     </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="title_app_info">
         <item>מקור התקנה</item>
         <item>זמן התקנה</item>
@@ -86,6 +92,11 @@
     <string-array name="tether_limit_warn_type">
         <item>כבה והתרע</item>
         <item>התרע בלבד</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Monthly data plan</item>
+        <item>Daily data plan</item>
+        <item>Unlimited data plan</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>פעם אחת</item>

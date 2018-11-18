@@ -13,6 +13,7 @@
     <string name="no_network_btn">נסה שוב</string>
     <string name="main_toolbar_purchase">Top up</string>
     <string name="usage_sorted_loading_text">רק רגע…</string>
+    <string name="empty">" "</string>
     <string name="share">שיתוף</string>
     <string name="open_browser">פתח בדפדפן</string>
     <string name="title_share_link">שתף קישור אינטרנט</string>

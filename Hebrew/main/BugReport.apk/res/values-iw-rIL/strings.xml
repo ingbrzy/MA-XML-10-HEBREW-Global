@@ -57,6 +57,7 @@
     <string name="save_pic_success">התמונה נשמרה ב- %s</string>
     <string name="save_pic_fail">לא ניתן היה לשמור את התמונה, בדוק את כרטיס הזכרון שלך</string>
     <string name="pic_not_exist">תמונה זו אינה קיימת</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">בחר מוצר</string>
     <string name="michat_skillset_business_type_title">בחר שירות</string>
     <string name="michat_close_text">"הצ'אט הסתיים"</string>
@@ -161,8 +162,8 @@
     <string name="cta_cancel">ביטול</string>
     <string name="cta_confirm">אישור</string>
     <string name="submit_dialog_title">שלח דו\"ח</string>
-    <string name="submit_dialog_content">" "<Data> המשוב שלך, לצד הקבצים המצורפים והיומנים, יישלחו לשרתי MIUI. ייתכן שהחומר שנשלח יכיל מידע אישי ופרטי המיקום שלך. המשמעות של בחירה באפשרות \"מסכים\" היא שקראת והסכמת &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">למדיניות הפרטיות&lt;/a> וגם &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">להסכם המשתמש&lt;/a> שלנו. </Data>" "</string>
-    <string name="submit_dialog_content_global">" "<Data> המשוב שלך, לצד הקבצים המצורפים (אם יש) והיומנים (ניתן לבטל את הסימון בתיבות הרלוונטיות עבור הפריטים שאינך רוצה להעלות) יישלחו לשרתי MIUI ולחלק מוגבל של פורום MIUI למפתחים. ייאסף גם מידע לגבי השרשורים והפעילות שלך בפורום לצורך ניתוח והמשך התקשורת אתך. היומנים עשויים להכיל מידע אישי ופרטי המיקום שלך. המשמעות של בחירה באפשרות \"מסכים\" היא שקראת והסכמת &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">למדיניות הפרטיות&lt;/a> וגם &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">להסכם המשתמש&lt;/a> שלנו. </Data>" "</string>
+    <string name="submit_dialog_content"><Data>המשוב שלך, לצד הקבצים המצורפים והיומנים, יישלחו לשרתי MIUI. ייתכן שהחומר שנשלח יכיל מידע אישי ופרטי המיקום שלך. המשמעות של בחירה באפשרות \"מסכים\" היא שקראת והסכמת &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">למדיניות הפרטיות&lt;/a> וגם &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">להסכם המשתמש&lt;/a> שלנו.</Data></string>
+    <string name="submit_dialog_content_global"><Data>המשוב שלך, לצד הקבצים המצורפים (אם יש) והיומנים (ניתן לבטל את הסימון בתיבות הרלוונטיות עבור הפריטים שאינך רוצה להעלות) יישלחו לשרתי MIUI ולחלק מוגבל של פורום MIUI למפתחים. ייאסף גם מידע לגבי השרשורים והפעילות שלך בפורום לצורך ניתוח והמשך התקשורת אתך. היומנים עשויים להכיל מידע אישי ופרטי המיקום שלך. המשמעות של בחירה באפשרות \"מסכים\" היא שקראת והסכמת &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">למדיניות הפרטיות&lt;/a> וגם &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">להסכם המשתמש&lt;/a> שלנו.</Data></string>
     <string name="submit_dialog_cancel">לא מסכים</string>
     <string name="submit_dialog_confirm">מסכים</string>
     <string name="tab_title_preferences">הגדרות</string>
@@ -180,7 +181,7 @@
     <string name="modem_tool_log_finish_title">יומן המודם נרשם</string>
     <string name="modem_tool_log_finish_desc">היומן נשמר כ-%s</string>
     <string name="bugreport_dialog_not_show_again">אל תציג שוב</string>
-    <string name="bugreport_dialog_submit_content">" "<Data> כעת אתה מבצע שמירה של יומני תוכנה במכשיר זה. היומנים עשויים להכיל מידע אישי ופרטי המיקום שלך. אל תשתף את היומנים עם אף אחד אם אינך מעוניין בחשיפת המידע הזה. המשמעות של בחירה באפשרות \"מסכים\" היא שקראת והסכמת &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">למדיניות הפרטיות&lt;/a> וגם &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">להסכם המשתמש&lt;/a> שלנו. </Data>" "</string>
+    <string name="bugreport_dialog_submit_content"><Data>כעת אתה מבצע שמירה של יומני תוכנה במכשיר זה. היומנים עשויים להכיל מידע אישי ופרטי המיקום שלך. אל תשתף את היומנים עם אף אחד אם אינך מעוניין בחשיפת המידע הזה. המשמעות של בחירה באפשרות \"מסכים\" היא שקראת והסכמת &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">למדיניות הפרטיות&lt;/a> וגם &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">להסכם המשתמש&lt;/a> שלנו.</Data></string>
     <string name="bugreport_dump_start_notification_title">יוצר דו\"ח שגיאה…</string>
     <string name="bugreport_dump_start_notification_summary">זה עשוי לארוך מספר דקות.</string>
     <string name="bugreport_dump_complete_notification_title">דו\"ח שגיאה נוצר</string>
@@ -210,7 +211,7 @@
     <string name="feedback_submit_succ_button">בוצע</string>
     <string name="feedback_title">כותרת</string>
     <string name="feedback_description">תאור</string>
-    <string name="feedback_select_images">הוסף תמונות</string>
+    <string name="feedback_select_images">Add an image or short video</string>
     <string name="feedback_delete_images">מחיקת תמונות</string>
     <string name="feedback_select_upload_log">הוספת יומנים</string>
     <string name="feedback_select_modem_log">הוספת יומני מודם</string>
@@ -324,9 +325,10 @@
     <string name="toast_post_deleted">נושא זה אינו קיים, נמחק, או נערך.</string>
     <string name="toast_log_not_exists">היומן הדרוש נמחק או שאינו קיים</string>
     <string name="toast_pic_not_exists">תמונת המטמון נמחקה</string>
-    <string name="toast_screenshot_too_large">לא ניתן להעלות קבצים הגדולים מ-10MB.</string>
-    <string name="toast_log_too_large">לא ניתן היה להעלות. הקובץ גדול מידי.</string>
+    <string name="toast_screenshot_too_large">"Can't upload images or videos bigger than 10MB."</string>
+    <string name="toast_log_too_large">"Can't upload. The log is too big."</string>
     <string name="title_customer_service">שירות לקוחות</string>
+    <string name="title_first_aid">עזרה ראשונה</string>
     <string name="customer_service_apply">בקשת עזרה משירות הלקוחות</string>
     <string name="customer_service_complain">דיווח לשירות הלקוחות</string>
     <string name="customer_service_station">מיקומי שירות</string>
@@ -355,7 +357,7 @@
     <string name="catch_full_log_notification_content">לחץ בכדי לחזור חזרה ליומנים</string>
     <string name="catch_full_log_start_dump_hprof">יוצר יומן Lagging</string>
     <string name="catch_full_log_dump_hprof_failed">לא ניתן היה ליצור יומן Lagging</string>
-    <string name="catch_full_log_add_original_photo">הוסף תמונה</string>
+    <string name="catch_full_log_add_original_photo">Add original image or short video</string>
     <string name="catch_full_log_add_photo_dialog_content">"If the issue you're reporting is related to camera's image quality, add an original sample photo (uncropped) to help us locate the issue. Add photo now?"</string>
     <string name="catch_full_log_submit_directly">פרסם</string>
     <string name="catch_full_log_add_photo">הוסף תמונה</string>

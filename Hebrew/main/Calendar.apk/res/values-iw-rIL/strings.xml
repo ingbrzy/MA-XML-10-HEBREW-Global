@@ -32,7 +32,7 @@
     <string name="anniversary_event_title">יום השנה: %1$s</string>
     <string name="anniversary_secondary_tag">יום השנה</string>
     <string name="app_label">לוח שנה</string>
-    <string name="app_not_found">"Couldn't find selected app"</string>
+    <string name="app_not_found">לא ניתן היה למצוא את היישום שנבחר</string>
     <string name="birthday_born">תאריך לידה</string>
     <string name="birthday_calendar_display_name">תזכורת ימי הולדת</string>
     <string name="birthday_event_description_a_week_ago">שבוע שעבר</string>
@@ -70,7 +70,7 @@
     <string name="card_manager_no_data">אין הרשמות עדיין</string>
     <string name="card_title_change">עוד</string>
     <string name="change_response_title">שינוי תגובה</string>
-    <string name="click_to_share">Tap to Share</string>
+    <string name="click_to_share">הקש כדי לשתף</string>
     <string name="countdown_event_title">ספירה לאחור: %1$s</string>
     <string name="countdown_notify_before_3_day_title">ספירה לאחור: %1$s בעוד 3 ימים</string>
     <string name="countdown_notify_title">ספירה לאחור: %1$s</string>
@@ -171,13 +171,13 @@
     <string name="event_title">כותרת</string>
     <string name="event_view">הצג אירוע</string>
     <string name="every_weekday">אמצע שבוע (שני–שישי)</string>
-    <string name="fb_birthday_failure">"Couldn't import birthdays from Facebook. Try again."</string>
+    <string name="fb_birthday_failure">לא יכו לייבא תאריכי ימי הולדת מפייסבוק. נסה שוב.</string>
     <string name="fb_birthday_success">ימי הולדת יובאו בהצלחה מפייסבוק</string>
     <string name="fb_calendar_account_name">לוח שנה מקומי של Mi</string>
     <string name="fb_calendar_display_name">ימי הולדת של חברים בפייסבוק</string>
     <string name="fb_calendar_owner_account">לוח שנה Mi</string>
     <string name="festival_detail_title">חג</string>
-    <string name="file_exception">An error occurred</string>
+    <string name="file_exception">התרחשה שגיאה</string>
     <string name="force_touch_title_add_new_event">הוסף אירוע</string>
     <string name="from_google_group_calendar">יומן Google</string>
     <string name="gadget_no_events">אין אירועי לוח שנה קרובים</string>
@@ -200,11 +200,11 @@
     <string name="holiday_card_title">ביום הזה</string>
     <string name="holiday_detail_read_more">עוד</string>
     <string name="horoscope_select_activity_label">בחירת מזל</string>
-    <string name="image_processing">"Image isn't ready yet"</string>
+    <string name="image_processing">"תמונה isn't מוכנה"</string>
     <string name="import_action">ייבוא</string>
     <string name="import_birthday">ייבא יום הולדת</string>
     <string name="imported">מיובא</string>
-    <string name="importing">Importing…</string>
+    <string name="importing">מייבא…</string>
     <string name="insert_event_dialog_btn_negative">לא</string>
     <string name="insert_event_dialog_btn_positive">כן</string>
     <string name="insert_event_dialog_message">להוסיף אירוע זה ללוח השנה?</string>
@@ -255,7 +255,7 @@
     <string name="no_network">"לא ניתן היה להתחבר לרשת.
 בדוק את הגדרות הרשת ונסה שוב."</string>
     <string name="no_network_btn">נסה שוב</string>
-    <string name="no_storage">Not enough storage space</string>
+    <string name="no_storage">אין מספיק שטח לאחסון</string>
     <string name="no_title_label">(ללא כותרת)</string>
     <string name="no_visiable_calendar_message">עליך להוסיף חשבון לוח שנה. לחץ על \"הוספת חשבון\" על מנת להמשיך.</string>
     <string name="no_visiable_calendar_select_account">הוספת חשבון</string>
@@ -356,12 +356,12 @@
     <string name="setting_others">עוד</string>
     <string name="setting_title_about">אודות</string>
     <string name="setting_title_holiday_display">הצג חגים</string>
-    <string name="share_image">Share</string>
-    <string name="share_image_label">Share via</string>
+    <string name="share_image">שתף</string>
+    <string name="share_image_label">שתף באמצעות</string>
     <string name="share_title">שיתוף</string>
     <string name="show_day_view">הצג יום</string>
     <string name="start_date_calculate">חישוב</string>
-    <string name="storage_permission_denied">Allow access to storage first</string>
+    <string name="storage_permission_denied">קודם עליך לאפשר גישה לזיכרון</string>
     <string name="subscribe_card">הירשם כעת</string>
     <string name="subscribe_card_success">נירשם בהצלחה! צפה בפרטים בעמוד הבית.</string>
     <string name="subscribe_card_success_for_homepage">ההרשמה ל-\"%1$s\" בוצעה בהצלחה</string>

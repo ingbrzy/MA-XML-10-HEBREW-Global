@@ -315,7 +315,7 @@
     <string name="cta_dialog_title">חיבור אינטרנט</string>
     <string name="cta_dialog_msg">"יישום ה'אבטחה' דורש חיבור לאינטרנט על מנת לקבל עדכונים, כמו גם גישה למיקום על מנת לעבוד כראוי."</string>
     <string name="cta_settings">אפשר חיבור לאינטרנט</string>
-    <string name="gdpr_msg">" "<Data>" על מנת שתוכל להשתמש בתכונות הבסיסיות של 'אבטחה', עליך להסכים לכך ש-Xiaomi תאסוף, תעבד ותשתמש בנתונים האישיים שלך, כולל מידע אודות הדרכים בהן הינך משתמש בתכונות האבטחה (לדוגמה: סטטיסטיקות של שימוש בנתונים סלולריים, מידע אודות תוכנות זדוניות, וכמו כן מידע בסיסי אודות מכשירך) ובסוגים אחרים של מידע המצויינים ב&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">מדיניות הפרטיות&lt;/a> שלנו. "</Data>" "</string>
+    <string name="gdpr_msg"><Data>"על מנת שתוכל להשתמש בתכונות הבסיסיות של 'אבטחה', עליך להסכים לכך ש-Xiaomi תאסוף, תעבד ותשתמש בנתונים האישיים שלך, כולל מידע אודות הדרכים בהן הינך משתמש בתכונות האבטחה (לדוגמה: סטטיסטיקות של שימוש בנתונים סלולריים, מידע אודות תוכנות זדוניות, וכמו כן מידע בסיסי אודות מכשירך) ובסוגים אחרים של מידע המצויינים ב&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">מדיניות הפרטיות&lt;/a> שלנו."</Data></string>
     <string name="app_name_na">שימוש בנתונים</string>
     <string name="list_empty_text">ריק</string>
     <string name="dialog_title_attention">שים לב</string>
@@ -327,6 +327,7 @@
     <string name="byteShort">B</string>
     <string name="yuan">CNY</string>
     <string name="percent_text_formatted">%s%%</string>
+    <string name="main_traffic_detail">Data usage</string>
     <string name="main_toolbar_firewall">הגבל שימוש בנתונים</string>
     <string name="main_toolbar_statistic">סטטיסטיקת שימוש בנתונים</string>
     <string name="main_toolbar_purchase">Top up</string>
@@ -376,6 +377,9 @@
     <string name="tc_parse_error">לא ניתן היה לנתח את המסרון</string>
     <string name="tc_get_cmd_error">לא ניתן היה לקבל את התבנית</string>
     <string name="tc_web_correct_error">לא ניתן היה לבצע כיול</string>
+    <string name="main_daily_card_guide_dialog_title">Set data plan type</string>
+    <string name="main_daily_card_guide_dialog_summary">You can choose between daily, monthly, and unlimited plans. Set data plan type now?</string>
+    <string name="main_daily_card_guide_dialog_ok">Set</string>
     <string name="firewall_activity_lable">הגבל שימוש בנתונים על ידי יישומים</string>
     <string name="firewall_applist">יישומים</string>
     <string name="firewall_mobile">נתונים סלולריים</string>
@@ -423,8 +427,10 @@
     <string name="background_traffic">רקע %s</string>
     <string name="detail_app_button">פרטי היישום</string>
     <string name="managed_user_title">כל יישומי העבודה</string>
+    <string name="not_limited_brand">Unlimited</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
@@ -460,12 +466,19 @@
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">עודכן לפני יותר מחודש</string>
     <string name="left_precent">60%</string>
     <string name="right_precent">100%</string>
+    <string name="pref_category_package_type_title">Data plan type</string>
+    <string name="pref_title_traffic_package_type">Data plan type</string>
+    <string name="pref_traffic_package_type_summary">Monthly/Daily/Unlimited</string>
+    <string name="pref_traffic_daily_package">Daily data plan</string>
+    <string name="pref_traffic_monthly_package">Monthly data plan</string>
+    <string name="pref_traffic_unlimited_package">Unlimited data plan</string>
+    <string name="pref_traffic_daily_package_brand">Daily data plan provider</string>
     <string name="pref_avaible_traffic">תוכנית נתונים</string>
     <string name="pref_daily_traffic">מגבלת נתונים בשיא</string>
     <string name="pref_special_package_setting">תכנית נתונים מותאמת אישית</string>
     <string name="pref_data_usage_not_set">תוכנית נתונים לא מוכרת</string>
     <string name="pref_operator_not_set">ספק הרשת אינו מוגדר</string>
-    <string name="pref_special_package_setting_summary">נהל את הנתונים בשפל, חבילות ה-Top-up, תכניות הנתונים היומיות והנתונים המיועדים</string>
+    <string name="pref_special_package_setting_summary">Manage off-peak data, top-up packages, and designated data</string>
     <string name="pref_warning_values">רמת אזהרה אודות שימוש בנתונים</string>
     <string name="pref_pkg_begin_date">תאריך איפוס שימוש</string>
     <string name="pref_more_settings">הגדרות נוספות</string>
@@ -478,6 +491,8 @@
     <string name="daily_pkg_traffic">מגבלת נתונים בשיא</string>
     <string name="input_aviable_traffic">הגדר מגבלת שימוש בנתונים</string>
     <string name="pkg_traffic">הגדר מגבלת שימוש בנתונים</string>
+    <string name="dialog_change_package_type_title">Changing data plan type</string>
+    <string name="dialog_change_package_type_summary">Changing data plan type will reset all data usage settings (e.g. data limits) to their default values. Change data plan type now?</string>
     <string name="free_traffic_settings">הגדרות שימוש בנתונים בשפל</string>
     <string name="free_time_traffic">מגבלת נתונים בשפל</string>
     <string name="power_save_on_time_start_time_summary_na">מ-</string>
@@ -519,6 +534,21 @@
     <string name="traffic_setting_fragment_send_num_tips">הזן מספר טלפון</string>
     <string name="traffic_setting_fragment_sms_content_tips">כתוב את ההודעה שלך כאן</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">אל תציג שוב</string>
+    <string name="traffic_setting_fragment_packege_type">Data plan settings</string>
+    <string name="traffic_setting_fragment_month_title">Monthly data plan</string>
+    <string name="traffic_setting_fragment_month_summary">Mobile data and call minutes are updated monthly</string>
+    <string name="traffic_setting_fragment_daily_title">Daily data plan</string>
+    <string name="traffic_setting_fragment_daily_summary">Mobile data is updated daily</string>
+    <string name="traffic_setting_fragment_not_limited_title">Unlimited data plan</string>
+    <string name="traffic_setting_fragment_not_limited_summary">Unlimited mobile data options</string>
+    <string name="traffic_setting_fragment_next">Next</string>
+    <string name="daily_card_setting_fragment_daily_card_setting">Daily data plan settings</string>
+    <string name="daily_card_setting_fragment_daily_card_brand">Carrier</string>
+    <string name="daily_card_setting_fragment_daily_card_brand_value">Select carrier</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">"MIUI will set data limits and apps with unlimited data according to the carrier you select. If your carrier isn't listed, select \"Other\" and set up your daily data plan manually."</string>
+    <string name="daily_card_setting_fragment_daily_package">Daily data limit</string>
+    <string name="daily_card_setting_fragment_month_package">Monthly data package</string>
+    <string name="daily_card_setting_fragment_package_summary">If your daily data plan contains a monthly data package, it will be used before the daily package.</string>
     <string name="data_usage_warning_body">לחץ לצפיה בפרטים אודות השימוש בנתונים.</string>
     <string name="data_usage_mobile_limit_title">הגעת לתקרת השימוש בנתונים סלולריים</string>
     <string name="data_usage_limit_body">לחץ להפעלת חיבור הנתונים הסלולרי.</string>
@@ -865,20 +895,10 @@ Rolled over extra data"</string>
     <string name="status_bar_network_flow_purchase">"   רכישה >"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   קביעת חבילת נתונים >"</string>
     <string name="status_bar_network_flow_phone_balance">"   יתרת הטלפון: %1$s "</string>
-    <string name="status_bar_network_flow_exceed_content">"היום: %1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;חריגה מהתכנית: &lt;font color=%2$s>%3$s&lt;/font>
-        "</string>
-    <string name="status_bar_network_flow_content">"היום: %1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        נותרו: %2$s"</string>
-    <string name="status_bar_network_flow_content_not_setting">"היום: %1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        החודש: %2$s"</string>
-    <string name="status_bar_network_flow_content_virtual_card">"%1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        %2$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        "</string>
+    <string name="status_bar_network_flow_exceed_content">היום: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;חריגה מהתכנית: &lt;font color=%2$s>%3$s&lt;/font></string>
+    <string name="status_bar_network_flow_content">היום: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;נותרו: %2$s</string>
+    <string name="status_bar_network_flow_content_not_setting">היום: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;החודש: %2$s</string>
+    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">מגבלת נתונים חד פעמית</string>
     <string name="pref_key_tethering_title">מגבלת נתונים חד פעמית</string>
     <string name="tether_limit_value_custom">מותאם אישית</string>
@@ -912,6 +932,7 @@ Rolled over extra data"</string>
     <string name="om_settings_memory_occupy_notify_never">לעולם לא</string>
     <string name="om_lock_app_locked_app">נעול</string>
     <string name="om_lock_app_unlocked_app">לא נעול</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">Speed boost is required</string>
     <string name="om_running_locked_apps">Locked running apps</string>
     <string name="om_running_system_apps">Running system apps</string>
@@ -961,6 +982,7 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">נתונים סלולריים שנשלחו</string>
     <string name="usage_type_no_coverage">זמן ללא אות</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="power_screen">מסך</string>
     <string name="power_wifi">רשת אלחוטית</string>
@@ -1177,12 +1199,17 @@ Rolled over extra data"</string>
     <string name="power_center_list_item_auto_brightness">התאמת בהירות אוטומטית</string>
     <string name="power_center_list_item_deep_save_title">הגדרות מתקדמות</string>
     <string name="power_center_list_item_battery_status_time">"ש'"</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">עצירת הסריקה</string>
     <string name="hide_mode_result_summary_text">התאמה אישית של חסכון בסוללה עבור כל יישום בנפרד</string>
     <string name="auto_task_result_summary_text">בגדרת משימות אוטומטיות עבור חסכון בסוללה</string>
     <string name="pc_settings_title">פרטי השימוש בסוללה</string>
     <string name="pc_main_activity_back">חזרה</string>
     <string name="extreme_power_save_mode_card_summary">הפעלת חסכון מירבי כדי לשמור על הסוללה כאשר היא ריקה.</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">℃ %d</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="handle_bar_title_system">מערכת</string>
     <string name="apps_list_header_title_sms">בדוק את יישום ההודעות</string>
     <string name="apps_list_header_title_sms_access">הגבל גישה לקודי אימות</string>
@@ -1336,11 +1363,13 @@ Rolled over extra data"</string>
     <string name="menu_text_optimize_manage">האצת מהירות</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_summary_networkassistants">נהל את תכנית הנתונים שלך</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">חריגה ממגבלת הנתונים</string>
     <string name="menu_summary_networkassistants_3">נותר מספיק נפח גלישה</string>
     <string name="menu_summary_networkassistants_4">חבילת הגלישה נגמרת</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1353,12 +1382,14 @@ Rolled over extra data"</string>
     <string name="menu_summary_garbage_cleanup">אין אשפה</string>
     <string name="menu_summary_garbage_cleanup_2">נפח האשפה</string>
     <string name="menu_summary_garbage_cleanup_3">נקה את האשפה עכשיו</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">שימוש בסוללה</string>
     <string name="menu_summary_power_manager">מצב חיסכון בסוללה מאפשר זמן שימוש ארוך יותר בין טעינות</string>
     <string name="menu_summary_power_manager_1">הסוללה טעונה במלואה</string>
     <string name="menu_summary_power_manager_2">%s נותרו</string>
     <string name="menu_summary_power_manager_3">חבר מטען</string>
     <string name="menu_summary_power_manager_4">%s לטעינה מלאה</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">הסריקה הקודמת בוטלה</string>
     <string name="examination_score_100">הכל נראה תקין!</string>
     <string name="examination_score_80_100">מספר פריטים ניתנים לייעול</string>
@@ -1734,6 +1765,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -1775,7 +1807,7 @@ Rolled over extra data"</string>
     <string name="ac_notification_contentTitle">"הגן על יישומים באמצעות 'נועל היישומים'"</string>
     <string name="ac_pre_notification_contentTitle">"נסה את 'נועל היישומים'"</string>
     <string name="ac_post_notification_contentTitle">"הפעלת את 'נועל היישומים'"</string>
-    <string name="midrop_post_notification_contentTitle">Need to share files?</string>
+    <string name="midrop_post_notification_contentTitle">צריך לשתף קבצים?</string>
     <string name="notification_masked_item">הסתר התראות</string>
     <string name="lock_mode_title">הגדרות נעילה</string>
     <string name="after_the_lock_screen">נעל יישומים יחד עם המסך</string>
@@ -2050,14 +2082,14 @@ Rolled over extra data"</string>
     <string name="app_manager_clear_cache">ניקוי מטמון</string>
     <string name="app_manager_reset_app_preferences">איפוס העדפות היישום</string>
     <string name="app_manager_reset_app_preferences_title">לאפס את העדפות היישום?</string>
-    <string name="app_manager_reset_app_preferences_desc">"פעולה זו תביא לאיפוס כל ההעדפות עבור:
+    <string name="app_manager_reset_app_preferences_desc">"This will reset all preferences for:
 
- "<li>יישומים מושבתים</li>"
- "<li>התראות של יישומים מושבתים</li>"
- "<li>יישומי ברירת מחדל</li>"
- "<li>מגבלות נתוני רקע עבור יישומים</li>"
+"<li>Disabled apps</li>"
+"<li>Disabled app notifications</li>"
+"<li>Default apps</li>"
+"<li>Background data restrictions for apps</li>"
 
- לא תאבד כל נתוני יישומים."</string>
+You will not lose any app data."</string>
     <string name="app_manager_reset_app_preferences_button">איפוס יישומים</string>
     <string name="app_manager_disable_text">השבת</string>
     <string name="app_manager_enable_text">אפשר</string>
@@ -2287,6 +2319,7 @@ Rolled over extra data"</string>
     <string name="gb_create_icon_summary">"יצירת קיצור דרך ב'מסך הבית'"</string>
     <string name="title_reply">רשום הערה</string>
     <string name="title_like">סמן ב\"אהבתי\"</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">גלישה סלולרית</string>
     <string name="game_wid_viewpoint_buttom">קח הפסקה קצרה.</string>
     <string name="video_repeat">נגן שוב</string>

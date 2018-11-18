@@ -51,14 +51,12 @@
     <string name="onscreen_note_calls_text">הערה</string>
     <string name="call_record_wait_label">ממתין</string>
     <string name="contacts_icon_label">אנשי קשר</string>
-    <string name="conference_call_number">%s אנשים</string>
     <string name="conference_call_description" formatted="false">"%s,%s וכו' סה\"כ %s"</string>
     <string name="conference_call_single_description" formatted="false">"%s וכו' סה\"כ %s"</string>
     <string name="separate_from_conference">הפרד שיחה</string>
     <string name="caller_manage_header">שיחת ועידה %s</string>
     <string name="incall_call_type_label_sip">שיחת אינטרנט</string>
     <string name="incoming_call_forwarded_title">הפניית שיחות נכנסות</string>
-    <string name="call_title_redialing_with_times">חיוג חוזר %d פעמים</string>
     <string name="card_title_dialing">מחייג</string>
     <string name="card_title_conf_call">שיחת ועידה</string>
     <string name="card_title_video_conf_call">שיחת ועידה בוידאו</string>
@@ -146,7 +144,6 @@
     <string name="call_recording_deny_permission_msg">סירבת להרשאת הקלטה. לא ניתן להקליט.</string>
     <string name="call_contacts_deny_permission_msg">סירבת להרשאת קריאת אנשי קשר. לא ניתן להציג מידע אודות אנשי קשר.</string>
     <string name="conference_call_recorder_title">שיחת ועידה</string>
-    <string name="antispam_marked_count">דווח על ידי %1$d משתמשי MIUI</string>
     <string name="antispam_local_marked">סומנה ברמה המקומית</string>
     <string name="antispam_provider">זוהה על ידי %s</string>
     <string name="antispam_notification_title">מספר לא מזוהה</string>
