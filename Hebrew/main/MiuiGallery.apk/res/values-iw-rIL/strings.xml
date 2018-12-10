@@ -479,7 +479,6 @@
     <string name="face_name_edit">עריכה</string>
     <string name="face_name_input">הזן שם</string>
     <string name="face_recommend">המלצות</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">לא ניתן היה להשלים את התהליך</string>
     <string name="fail_to_pick_email">כתובת דוא\"ל לא חוקית</string>
     <string name="fail_to_sync_album">לא ניתן היה לסנכרן את האלבום. בדוק את חיבור הנתונים שלך ונסה שוב.</string>
@@ -490,7 +489,6 @@
     <string name="feature_guidance_photo_effects">"אפקטים חדשים לתמונות
 זמינים כעת"</string>
     <string name="feature_guidance_video_editor_smart_effects">אפקטים חדשים זמינים כעת</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_memory">זכרון</string>
     <string name="filter_bi_mono">מונו</string>
     <string name="filter_bi_pink">ורוד</string>
@@ -560,7 +558,6 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">הגדר</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
  על מנת שתוכל לעבוד באופן תקין, לחץ 'הגדר' על מנת לעבור אל 'הרשאות'."</string>
@@ -803,7 +800,6 @@
     <string name="people_mark_mode_title_no_mark_name">בחר אדם</string>
     <string name="people_page_label">אנשים</string>
     <string name="people_page_unname">ללא שם</string>
-    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">תמונות חיות מחמד</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">תמונות</string>
@@ -875,8 +871,6 @@
     <string name="photo_editor_talkback_redo">ביצוע מחדש</string>
     <string name="photo_editor_talkback_undo">ביטול</string>
     <string name="photo_editor_text">מלל</string>
-    <string name="photo_movie_menu_loading">@string/photo_print_menu_loading</string>
-    <string name="photo_movie_module_failed">@string/error_install_connect_fail</string>
     <string name="photo_movie_module_finish">קליפים נטענו בהצלחה</string>
     <string name="photo_movie_module_loading">טוען קליפים…</string>
     <string name="photo_movie_select_image_range">קליפים יכולים להכיל בין 3 ל-20 תמונות</string>
@@ -1036,9 +1030,6 @@
     <string name="search_title_recommend">מומלץ</string>
     <string name="search_title_suggestion">הצעות</string>
     <string name="search_title_tag">אובייקטים</string>
-    <string name="search_transition_element_icon">search_icon</string>
-    <string name="search_transition_element_input">search_input</string>
-    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">מחפש מקרן…</string>
     <string name="secret_album_card_description">המקום הבטוח ביותר עבור כל הסודות הקטנים שלך</string>
     <string name="secret_album_card_title">נסה אלבום מוסתר</string>
@@ -1325,7 +1316,6 @@
     <string name="view_face_album">צפה באלבום</string>
     <string name="view_more_face_desc">הצג אנשים נוספים</string>
     <string name="voice_assistant">קלט קולי</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">ברוכים הבאים ל-MiCloud</string>
     <string name="where_is_barcode">איפה קוד ה-QR?</string>
     <string name="who_is_this">מי זה?</string>
