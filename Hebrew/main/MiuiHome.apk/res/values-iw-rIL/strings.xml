@@ -3,11 +3,13 @@
     <string name="action_add_to_workspace">"הוסף אל 'שטח העבודה'"</string>
     <string name="activity_not_found">היישום אינו מותקן במכשיר שלך</string>
     <string name="add_screen">הוסף מסך</string>
+    <string name="announce_for_app_move_in_folder">הועבר למיקום %1$d בתיקייה</string>
     <string name="announce_for_checked">%1$s, סומן</string>
     <string name="announce_for_choose_default_screen">"הגדר את מסך %1$d כברירת המחדל עבור 'מסך הבית'"</string>
     <string name="announce_for_close_default_preview">"הגדרות ברירת המחדל של 'מסך הבית' נסגרו"</string>
     <string name="announce_for_close_folder">התיקיה נסגרה</string>
     <string name="announce_for_close_launcher_menu">התפריט נסגר</string>
+    <string name="announce_for_create_folder_with_app">נוצרה תיקיה עם %1$s</string>
     <string name="announce_for_delete_gadget_and_widget">"ווידג'ט"</string>
     <string name="announce_for_delete_item">%1$s נמחק</string>
     <string name="announce_for_drag_enter_delete_zone">הפריטים נגררו אל אזור הסרת ההתקנה</string>
@@ -30,6 +32,7 @@
     <string name="announce_for_open_launcher_menu">התפריט נפתח</string>
     <string name="announce_for_show_uninstall_dialog">דיאלוג הסרת ההתקנה הופיע. בטל או אשר.</string>
     <string name="announce_for_unchecked">%1$s, הסימון בוטל</string>
+    <string name="announce_for_widget_span">רוחב %1$d, גובה %2$d</string>
     <string name="app_already_exist">היישום קיים כבר</string>
     <string name="app_being_backup_message">היישום נמצא בתהליך גיבוי</string>
     <string name="app_being_restored_message">היישום נמצא בתהליך שחזור</string>
@@ -296,6 +299,7 @@
     <string name="share">שיתוף</string>
     <string name="show_all">הצג הכל</string>
     <string name="show_mem_info_title">הצג סטטוס זכרון</string>
+    <string name="show_recents_recommend_title">הצג הצעות</string>
     <string name="sort_by_abc">מיין לפי שם</string>
     <string name="sort_by_frequency">מיין לפי שימוש</string>
     <string name="sort_by_not_defined">מיון אוטומטי</string>
@@ -343,9 +347,6 @@
     <string name="widget_gadget_player">מוסיקה</string>
     <string name="widget_global_search">חיפוש</string>
     <string name="widget_quick_function">פונקציות מהירות</string>
-    <string name="announce_for_app_move_in_folder">הועבר למיקום %1$d בתיקייה</string>
-    <string name="announce_for_create_folder_with_app">נוצרה תיקיה עם %1$s</string>
-    <string name="announce_for_widget_span">רוחב %1$d, גובה %2$d</string>
     <string name="recommend_apps_no_data_toast">אין המלצות לעת עתה.</string>
     <string name="recommend_refresh">רענן</string>
     <string name="recommend_xout">אל תציג</string>

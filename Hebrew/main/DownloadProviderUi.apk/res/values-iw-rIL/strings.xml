@@ -48,8 +48,8 @@
     <string name="bt_restart_dialog_message">להתחיל מחדש את כל ההורדות בתיקית BT?</string>
     <string name="bt_restart_dialog_title">התחל מחדש את כל ההורדות</string>
     <string name="cancel">ביטול</string>
-    <string name="check_new_downloaded_action">View</string>
-    <string name="check_new_downloaded_file">A new file found</string>
+    <string name="check_new_downloaded_action">הצגה</string>
+    <string name="check_new_downloaded_file">קובץ חדש נמצא</string>
     <string name="clear_data">הסרה</string>
     <string name="complete_time">הושלם:</string>
     <string name="confirm">אישור</string>

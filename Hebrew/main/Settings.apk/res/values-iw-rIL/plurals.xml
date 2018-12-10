@@ -91,10 +91,10 @@
         <item quantity="many">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>
     </plurals>
     <plurals name="show_audio_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get audio log</item>
-        <item quantity="one">%1$d step left before you can get audio log</item>
-        <item quantity="two">%1$d steps left before you can get audio log</item>
-        <item quantity="many">%1$d steps left before you can get audio log</item>
+        <item quantity="other">%1$d צעדים נשארו לפני שתוכל לקבל את יומן הקול</item>
+        <item quantity="one">%1$d צעד נשאר לפני שתוכל לקבל את יומן הקול</item>
+        <item quantity="two">%1$d שני צעדים נשארו לפני שתוכל לקבל את יומן הקול</item>
+        <item quantity="many">%1$d צעדים נשארו לפני שתוכל לקבל את יומן הקול</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
@@ -103,16 +103,16 @@
         <item quantity="many">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
     </plurals>
     <plurals name="show_gps_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get GPS log</item>
-        <item quantity="one">%1$d נשאר צעד לפני שתקבל יומן GPS</item>
-        <item quantity="two">%1$d נשאר צעד לפני שתקבל יומן GPS</item>
-        <item quantity="many">%1$d steps left before you can get GPS log</item>
+        <item quantity="other">%1$d נשארו צעדים לפני שתוכל לקבל את יומן GPS</item>
+        <item quantity="one">%1$d נשאר צעד אחד לפני שתוכל לקבל את יומן GPS</item>
+        <item quantity="two">%1$d נשארו שני צעדים לפני שתוכל לקבל את יומן GPS</item>
+        <item quantity="many">%1$d נשארו צעדים לפני שתוכל לקבל את יומן GPS</item>
     </plurals>
     <plurals name="show_modem_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get modem log</item>
-        <item quantity="one">%1$d step left before you can get modem log</item>
-        <item quantity="two">%1$d steps left before you can get modem log</item>
-        <item quantity="many">%1$d steps left before you can get modem log</item>
+        <item quantity="other">%1$d צעדים נשארו לפני שתוכל לקבל את יומן המודם</item>
+        <item quantity="one">%1$d צעד נשאר לפני שתוכל לקבל את יומן המודם</item>
+        <item quantity="two">%1$d שני צעדים נשארו לפני שתוכל לקבל את יומן המודם</item>
+        <item quantity="many">%1$d צעדים נשארו לפני שתוכל לקבל את יומן המודם</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">הינך נמצא %1$d צעדים לפני כניסה לפרטי הטלפון.</item>

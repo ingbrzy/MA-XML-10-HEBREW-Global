@@ -198,4 +198,5 @@
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">לא ניתן לבצע שיחות. ודא שהמכשיר שלך מחובר לרשת 4G עם תמיכת VoLTE.​</string>
     <string name="volume_boost_text">האצת שמע הסתיימה בהצלחה</string>
+    <string name="supp_service_notification_call_waiting">המספר שחייגת אינו זמין כעת. בבקשה החזק…</string>
 </resources>

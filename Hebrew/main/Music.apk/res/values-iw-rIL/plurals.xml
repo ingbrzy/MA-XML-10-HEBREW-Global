@@ -12,11 +12,21 @@
         <item quantity="two">מחפש עטיפות אלבומים ומילות שירים (%1$d/%2$d)</item>
         <item quantity="many">מחפש עטיפות אלבומים ומילות שירים (%1$d/%2$d)</item>
     </plurals>
-    <plurals name="Nbackup_songs">
-        <item quantity="other">מגבה שירים, %1$d שירים נותרו (%2$.1fMB)</item>
-        <item quantity="one">מגבה שירים, שיר %1$d נותר (%2$.1fMB)</item>
-        <item quantity="two">מגבה שירים, %1$d שירים נותרו (%2$.1fMB)</item>
-        <item quantity="many">מגבה שירים, %1$d שירים נותרו (%2$.1fMB)</item>
+    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"תוקפו של המינוי שלך יפוג בעוד%d ימים.
+האם תרצה שנעזור לך לחדש אותו?"</item>
+        <item quantity="one">"תוקפו של המינוי שלך יפוג בעוד יום %d.
+האם תרצה שנעזור לך לחדש אותו?"</item>
+        <item quantity="two">"תוקפו של המינוי שלך יפוג בעוד%d ימים.
+האם תרצה שנעזור לך לחדש אותו?"</item>
+        <item quantity="many">"תוקפו של המינוי שלך יפוג בעוד%d ימים.
+האם תרצה שנעזור לך לחדש אותו?"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">באפשרותך להוריד %1$d שירים בחינם. להוריד את %2$s עכשיו?</item>
+        <item quantity="one">באפשרותך להוריד שיר %1$d בחינם. להוריד את %2$s עכשיו?</item>
+        <item quantity="two">באפשרותך להוריד %1$d שירים בחינם. להוריד את %2$s עכשיו?</item>
+        <item quantity="many">באפשרותך להוריד %1$d שירים בחינם. להוריד את %2$s עכשיו?</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">הנגן יעצור בעוד %d דקות</item>
@@ -24,23 +34,11 @@
         <item quantity="two">הנגן יעצור בעוד %d דקות</item>
         <item quantity="many">הנגן יעצור בעוד %d דקות</item>
     </plurals>
-    <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">בחר שלא למצוא עטיפות אלבומים ומלל עבור שירים מקומיים באופן אוטומטי. למחוק פרטים עבור %d שירים?</item>
-        <item quantity="one">בחר שלא למצוא עטיפות אלבומים ומלל עבור שירים מקומיים באופן אוטומטי. למחוק פרטים עבור שיר %d?</item>
-        <item quantity="two">בחר שלא למצוא עטיפות אלבומים ומלל עבור שירים מקומיים באופן אוטומטי. למחוק פרטים עבור %d שירים?</item>
-        <item quantity="many">בחר שלא למצוא עטיפות אלבומים ומלל עבור שירים מקומיים באופן אוטומטי. למחוק פרטים עבור %d שירים?</item>
-    </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">נוצרה ב- %1$s | סהכ %2$d שירים</item>
         <item quantity="one">נוצרה ב- %1$s | שיר %2$d בסה\"כ</item>
         <item quantity="two">נוצרה ב- %1$s | סהכ %2$d שירים</item>
         <item quantity="many">נוצרה ב- %1$s | סהכ %2$d שירים</item>
-    </plurals>
-    <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">%d שירים לא גובו ב-Mi Cloud. לעצור כעת?</item>
-        <item quantity="one">שיר %d לא גובה ב-Mi Cloud. לעצור כעת?</item>
-        <item quantity="two">%d שירים לא גובו ב-Mi Cloud. לעצור כעת?</item>
-        <item quantity="many">%d שירים לא גובו ב-Mi Cloud. לעצור כעת?</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d שירים נוספו לרשימת ההשמעה</item>
@@ -66,18 +64,6 @@
         <item quantity="two">%d שירים דומים</item>
         <item quantity="many">%d שירים דומים</item>
     </plurals>
-    <plurals name="Nunbackup_audios">
-        <item quantity="other">%1$d שירים לא גובו (%2$.1fMB)</item>
-        <item quantity="one">שיר %1$d לא גובה (%2$.1fMB)</item>
-        <item quantity="two">%1$d שירים לא גובו (%2$.1fMB)</item>
-        <item quantity="many">%1$d שירים לא גובו (%2$.1fMB)</item>
-    </plurals>
-    <plurals name="Nupload_song_button">
-        <item quantity="other">גבה %1$d שירים (%2$.1fMB)</item>
-        <item quantity="one">גבה שיר %1$d (%2$.1fMB)</item>
-        <item quantity="two">גבה %1$d שירים (%2$.1fMB)</item>
-        <item quantity="many">גבה %1$d שירים (%2$.1fMB)</item>
-    </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d הערות</item>
         <item quantity="one">הערה %d</item>
@@ -91,14 +77,14 @@
         <item quantity="many">למחוק %d פריטים?</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message_with_file">
-        <item quantity="other">"Delete %d items?
-Note: Files will be deleted from this device as well."</item>
-        <item quantity="one">"Delete %d item?
-Note: File will be deleted from this device as well."</item>
-        <item quantity="two">"Delete %d items?
-Note: Files will be deleted from this device as well."</item>
-        <item quantity="many">"Delete %d items?
-Note: Files will be deleted from this device as well."</item>
+        <item quantity="other">"למחוק %d פריטים?
+שים לב: הקובץ ימחק גם ממכשיר זה."</item>
+        <item quantity="one">"למחוק פריט %d?
+שים לב: הקובץ ימחק גם ממכשיר זה."</item>
+        <item quantity="two">"למחוק %d פריטים?
+שים לב: הקובץ ימחק גם ממכשיר זה."</item>
+        <item quantity="many">"למחוק %d פריטים?
+שים לב: הקובץ ימחק גם ממכשיר זה."</item>
     </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">למחוק %d שירים?</item>
@@ -111,12 +97,6 @@ Note: Files will be deleted from this device as well."</item>
         <item quantity="one">להסיר שיר %d?</item>
         <item quantity="two">להסיר %d שירים?</item>
         <item quantity="many">להסיר %d שירים?</item>
-    </plurals>
-    <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">למחוק %d שירים מ-Mi Cloud? הם ימחקו גם מרשימות ההשמעה המקומיות.</item>
-        <item quantity="one">למחוק שיר %d מ-Mi Cloud? הוא ימחק גם מרשימות ההשמעה המקומיות.</item>
-        <item quantity="two">למחוק %d שירים מ-Mi Cloud? הם ימחקו גם מרשימות ההשמעה המקומיות.</item>
-        <item quantity="many">למחוק %d שירים מ-Mi Cloud? הם ימחקו גם מרשימות ההשמעה המקומיות.</item>
     </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;font color=\"red\">%d שירים&lt;/font> ירדו</item>
@@ -171,5 +151,17 @@ Note: Files will be deleted from this device as well."</item>
         <item quantity="one">שיר %d</item>
         <item quantity="two">%d שירים</item>
         <item quantity="many">%d שירים</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">סרטונים</item>
+        <item quantity="one">וידאו</item>
+        <item quantity="two">Videos</item>
+        <item quantity="many">Videos</item>
+    </plurals>
+    <plurals name="video_play_count">
+        <item quantity="other">%1$s צפיות</item>
+        <item quantity="one">צפייה אחת (%1$s)</item>
+        <item quantity="two">%1$s צפיות</item>
+        <item quantity="many">%1$s צפיות</item>
     </plurals>
 </resources>

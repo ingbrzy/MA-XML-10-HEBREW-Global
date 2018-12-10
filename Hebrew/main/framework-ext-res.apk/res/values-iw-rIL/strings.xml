@@ -135,7 +135,7 @@
     <string name="security_permission_open_wifi_settings">פתיחת הגדרות הרשת האלחוטית</string>
     <string name="xspace_resolver_activity_title">בחר יישום</string>
     <string name="user_switching_dialog_text">מחליף…</string>
-    <string name="xspace_head">Dual app</string>
+    <string name="xspace_head">יישום משוכפל</string>
     <string name="activity_package_delete_confirm_title">שים לב</string>
     <string name="button_text_cancel">ביטול</string>
     <string name="button_text_delete">הסרת התקנה</string>
@@ -185,4 +185,5 @@
     <string name="miui_warning_tip_info">אירעה שגיאה ב-%1$s. לסגור את האפליקציה עכשיו?</string>
     <string name="talk_back_water_mark_string1">TalkBack פתוח</string>
     <string name="talk_back_water_mark_string2">לחץ והחזק את כפתור הווליום+ וכפתור ווליום- כשלוש שניות על מנת לכבות</string>
+    <string name="start_dump_log">התחל לקבל יומני תקלות קשורים</string>
 </resources>

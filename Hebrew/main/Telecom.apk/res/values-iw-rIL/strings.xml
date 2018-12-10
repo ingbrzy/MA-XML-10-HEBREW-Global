@@ -71,7 +71,7 @@
     <string name="answer_incoming_call">מענה</string>
     <string name="decline_incoming_call">דחייה</string>
     <string name="cant_call_due_to_ongoing_call">לא ניתן לבצע שיחה. %1$s מתבצעת שיחה אחרת.</string>
-    <string name="cant_call_due_to_ongoing_calls">לא ניתן לבצע שיחה. %1$s מתבצעות שיחות אחרות.</string>
+    <string name="cant_call_due_to_ongoing_calls">לא יכול לבצע שיחה סיים את %1$s השיחה תחילה.</string>
     <string name="cant_call_due_to_ongoing_unknown_call">לא ניתן לבצע שיחה כי מתבצעת שיחה באמצעות אפליקציה אחרת.</string>
     <string name="notification_channel_incoming_call">שיחות נכנסות</string>
     <string name="notification_channel_missed_call">שיחות שלא נענו</string>

@@ -67,11 +67,11 @@
     <string name="xspace_label">יישומים משוכפלים</string>
     <string name="xspace_setting_label">הגדרות יישומים משוכפלים</string>
     <string name="xspace_account">חשבונות יישומים משוכפלים</string>
-    <string name="xspace_remove">"Delete dual apps' accounts"</string>
+    <string name="xspace_remove">מחיק חשבונות של יישומים משוכפלים</string>
     <string name="declare_dialog_title">אודות יישומים משוכפלים</string>
     <string name="menu_item_about_privacy_title">מדיניות הפרטיות</string>
     <string name="stop_xspace_alert_title">מחיקת חשבונות של יישומים משוכפלים</string>
-    <string name="stop_xspace_alert_content">"All dual apps and their data will be permanently deleted. You'll have to reboot your device to apply this change. Delete accounts now?"</string>
+    <string name="stop_xspace_alert_content">כל היישומים הכפולים והמידע אותו הם מכילים יימחקו לצמיתות. תצטרך לאתחל את מכשירך בכדי להחיל שינוי זה. למחוק חשבונות אלו?</string>
     <string name="xspace_loading_msg">טוען יישומים…</string>
     <string name="xspace_header">יישומים משוכפלים</string>
     <string name="xspace_introduce">מומלץ</string>
@@ -435,4 +435,26 @@
     <string name="install_error">לא ניתן להתקין. נסה שוב.</string>
     <string name="ent_install_dialog_content">להתקין את האפליקציות ולאתחל את המכשיר עכשיו?</string>
     <string name="ent_disallow_running">אסור להפעיל את האפליקציה הזו</string>
+    <string name="greenguard_child_des_title">אני זקוק לעזרה מחברים ומשפחה</string>
+    <string name="greenguard_child_des">השתמש ביישום שלנו כדי להישאר מחובר</string>
+    <string name="greenguard_parent_des_title">אני צריך לעזור לחבריי ולמשפחתי</string>
+    <string name="greenguard_parent_des">הורד את היישום שלנו על מנת להוסיף מכשירים של אנשים אחרים</string>
+    <string name="cta_declaration_title">תנאים והתניות</string>
+    <string name="cta_declaration_message_format" formatted="false">עליך לקרוא ולהסכים ל &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> לפני השימוש במצב Enterprise. מכשירך צריך להתחבר לאינטרנט בכדי להפעיל את מצב Enterprise. האם אתה מסכים?</string>
+    <string name="cta_declaration_agree_and_continue">מסכים</string>
+    <string name="undo_activated_dialog_message">"שלילת ההרשאה תבטל את מצב Enterprise כמו כן, יבוצע איפוס לנתוני היצרן. כל התכונות הקשורות לא יהיו זמינות עוד. מלבד זאת, Xiaomi תפסיק לאסוף את המידע הנדרש עבור מצב Enterprise (IMEI, מזהה התקן, גירסת מערכת, אזור, וכו '). ברצוננו להזכירך כי Xiaomi לא מנהלת את הנתונים הנאספים עבור מצב Enterprise. אנו נעשה כמיטב יכולתנו להודיע לכל הצדדים המעורבים בדבר, אנו ממליצים לפנות למפקחי החברה כדי לאשר את הביטול. האם לבטל את ההרשאה ולבצע איפוס נתונים של היצרן?"</string>
+    <string name="undo_activated_dialog_ok">שלול</string>
+    <string name="undo_grant_dialog_message">"Xiaomi תפסיק לאסוף את המידע הנדרש עבור תכונה זו (IMEI, מזהה התקן, גירסת מערכת, אזור, וכו ') לאחר שתבטל ותשלול את ההרשאה? האם לשלול עכשיו?"</string>
+    <string name="undo_privacy_menu">לשלול הרשאה</string>
+    <string name="more_settings">עוד</string>
+    <string name="undo_success">נשלל בהצלחה</string>
+    <string name="master_clear_apply_title">שים לב</string>
+    <string name="master_clear_apply_step_1">שלילת הרשאה תחייב ביצוע איפוס נתונים של היצרן במכשיר. כל הקבצים והנתונים ימחקו לצמיתות, כולל תיקי לקוחות, אנשי קשר, תמונות ויישומים. גבה את כל הפריטים החשובים לך למחשב לפני שלילת ההרשאה.</string>
+    <string name="master_clear_apply_step_2">ודא שאתה מגבה את כל הפריטים החשובים למחשב. לאחר הקשה על \"אישור\", יבוצע איפוס נתונים של היצרן במכשיר, כל הקבצים והנתונים ימחקו לצמיתות, כולל תיקי לקוחות, אנשי קשר, תמונות ויישומים.</string>
+    <string name="button_text_next_step">הבא</string>
+    <string name="button_text_next_step_timer">לשלב הבא (%d)</string>
+    <string name="dialog_tip_need_network">מכשירך נזקק לחיבור אינטרנט על מנת לשלול הרשאה.</string>
+    <string name="dialog_undo_negative">אל תשלול</string>
+    <string name="dialog_title_service_error">שגיאת שרת</string>
+    <string name="dialog_message_service_error">לא היתה אפשרות לשלול הרשאה ולבצע איפוס של נתוני יצרן. נסה שוב</string>
 </resources>

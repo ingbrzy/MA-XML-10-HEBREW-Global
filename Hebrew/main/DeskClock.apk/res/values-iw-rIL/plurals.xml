@@ -13,10 +13,10 @@
         <item quantity="many">למחוק את השעונים המעוררים שנבחרו?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">למחוק את אזור הזמן הנבחר?</item>
-        <item quantity="one">\"למחוק אזור זמן זה?</item>
-        <item quantity="two">למחוק את אזור הזמן הנבחר?</item>
-        <item quantity="many">למחוק את אזור הזמן הנבחר?</item>
+        <item quantity="other">האם למחוק את אזורי זמן אלו?</item>
+        <item quantity="one">למחוק אזור זמן זה?</item>
+        <item quantity="two">Delete the selected timezones?</item>
+        <item quantity="many">Delete the selected timezones?</item>
     </plurals>
     <plurals name="second">
         <item quantity="other">%d שניות</item>

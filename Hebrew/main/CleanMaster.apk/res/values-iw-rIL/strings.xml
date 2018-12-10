@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">חבילות</string>
     <string name="hints_residual_header_left">שאריות</string>
     <string name="hints_memory_header_left">זכרון</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">קבצים גדולים: %d</string>
     <string name="hints_installed_apps_header_left">יישומים מותקנים: %d</string>
     <string name="toast_resolve_apk_error">פתור שגיאת apk</string>
@@ -195,7 +196,7 @@
     <string name="deepclean_normal_title">ניקוי אוטומטי</string>
     <string name="deepclean_normal_item_desc1">קבצי אשפה</string>
     <string name="deepclean_normal_item_desc2">"פעילות ה'מנקה' לא תשפיע על ביצועי המערכת"</string>
-    <string name="deepclean_1_k_clean">נקה זיכרון</string>
+    <string name="deepclean_1_k_clean">נקה זכרון</string>
     <string name="similar_image_title">תמונות</string>
     <string name="similar_image_desc">מחק תמונות דומות</string>
     <string name="similar_image_scaning">בודק…</string>
@@ -299,6 +300,7 @@
     <string name="downloading">מוריד</string>
     <string name="installing">מתקין</string>
     <string name="start_install">התקן כעת</string>
+    <string name="empty">" "</string>
     <string name="open_browser">פתח בדפדפן</string>
     <string name="title_share_link">שתף קישור אינטרנט</string>
     <string name="connecting">מתחבר…</string>
@@ -545,7 +547,7 @@
     <string name="onekeyclean_boost_available">%s פנוי</string>
     <string name="onekeyclean_card_summery">נקה קובצי זבל כדי לפנות מקום</string>
     <string name="onekeyclean_card_btn">נקה עכשיו</string>
-    <string name="memory_clean_icon_text">נקה זיכרון</string>
+    <string name="memory_clean_icon_text">נקה זכרון</string>
     <string name="pref_title_create_onekeyclean_shortcut">הצג קיצור במסך הבית</string>
     <string name="memory_clean_no_trash_tip">הכול נראה טוב</string>
     <string name="toast_updater_open_4g_text">יישומים יעודכנו תוך שימוש בנתונים סלוללרים (4G)</string>

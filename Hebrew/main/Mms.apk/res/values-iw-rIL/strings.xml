@@ -81,6 +81,16 @@
     <string name="cloud_state_sync_finished">סונכרן עם Mi Cloud</string>
     <string name="cloud_state_syncing">מסנכרן עם Mi Cloud…</string>
     <string name="cmcc_privacy">הסכם הפרטיות של China Mobile</string>
+    <string name="complain_input_number">הזן את מספר הטלפון שלך</string>
+    <string name="complain_jump">דלג</string>
+    <string name="complain_message_title">להתלונן</string>
+    <string name="complain_ok">OK</string>
+    <string name="complain_phone_number">מספר טלפון</string>
+    <string name="complain_reason">למה אתה מדווח על הודעה זו?</string>
+    <string name="complain_success">תודה על המשוב שלך. הוא מסייע לנו לשפר את שירות ההודעות!</string>
+    <string name="complain_tips">"התוכן של ההודעה האחרונה עליה דיווחת ייטען לשרתים שלנו יחד עם מספר הטלפון שתספק. ספקי השירות שלנו יבדקו את ההודעה שדווחה.
+"</string>
+    <string name="complain_upload">התלונה הוגשה</string>
     <string name="compressing">תמונה גדולה מידי. מכווץ…</string>
     <string name="confirm">אישור</string>
     <string name="confirm_add_blacklist_dialog_dspt">להוסיף מספר זה לרשימת החסומים?</string>
@@ -143,7 +153,6 @@
     <string name="dialog_message_mx">היישום Mi Message מאפשר לך לשלוח הודעות למשתמשים אחרים ב-MIUI ללא חיוב נוסף. כדי להפעיל את Mi Message יש צורך בשליחת הודעת SMS יוצאת. החיוב על ההודעה יבוצע על ידי הספק שלך. כדי להשתמש ב-Mi Message עליך להסכים קודם ל%1$s ול%2$s שלנו.</string>
     <string name="dialog_message_networking">שירות ההודעות צריך להשתמש בדפי זהב (Yellow pages) כדי לאפשר את זיהוי השולח. שירות ההודעות ודפי זהב צריכים להתחבר לאינטרנט ולקבל גישה למיקום שלך כדי לפעול באופן תקין. מאשר?</string>
     <string name="dialog_message_rcs">שירות ההודעות של China Mobile מאפשר לך לשלוח הודעות למשתמשי China Mobile אחרים בסין היבשתית ללא חיוב נוסף. כדי להשתמש בשירות ההודעות של China Mobile עליך להסכים קודם ל\"%1$s\".</string>
-    <string name="dialog_message_sms_report">הודעות ספאם ופרטי השולח יועלו אל MIUI כשתדווח עליהן. הן ישמשו לשיפור סנני הספאם של MIUI בלבד.</string>
     <string name="dialog_title_fake_cell_detect_error">תיקון</string>
     <string name="dialog_title_mx_rcs">Mi Message</string>
     <string name="dialog_title_networking">תנאי השימוש</string>
@@ -178,7 +187,6 @@
     <string name="error_timed_msg">זמן לא חוקי</string>
     <string name="ex_type_mx">הודעות Mi</string>
     <string name="ex_type_sms">מסרון/הודעת מולטימדיה</string>
-    <string name="exceed_length_limit">超出最大长度界限</string>
     <string name="exceed_message_size_limitation">הגעת לגודל ההודעה המירבי.</string>
     <string name="exceed_message_size_limitation_add_slide">גודל ההודעה אינו מספיק להוספת שקופית</string>
     <string name="exceed_message_text_limitation">הגעת לאורך ההודעה המירבי.</string>
@@ -201,6 +209,7 @@
     <string name="file_size">גודל:</string>
     <string name="file_title">שם:</string>
     <string name="file_width_height">גודל:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">הודעה חדשה</string>
     <string name="forward_from">העבר מ:</string>
     <string name="forward_message_select_title">העבר הודעה</string>
@@ -213,15 +222,15 @@
     <string name="found_wild_messages_title">סנכרן הודעות מ-Mi Cloud</string>
     <string name="from_label">"מ: "</string>
     <string name="from_pkg_name">מהיישום:</string>
-    <string name="group_already_kicked_hint">你不在这个群里，无法发送消息</string>
+    <string name="group_already_kicked_hint">"אין אפשרות לשלוח הודעות. אינך חבר בקבוצת צ'אט זו."</string>
     <string name="group_message">הודעת קבוצה</string>
-    <string name="group_message_title">群聊消息</string>
-    <string name="group_not_exist_hint">群已经被解散了，无法发送消息</string>
-    <string name="group_notify_message_title">群通知消息</string>
-    <string name="group_rejoin_failed">群操作失败</string>
+    <string name="group_message_title">"קבוצות צא'ט"</string>
+    <string name="group_not_exist_hint">"אין אפשרות לשלוח הודעות. קבוצת צ'אט זו נמחקה."</string>
+    <string name="group_notify_message_title">"התרעות צא'ט קבוצתי"</string>
+    <string name="group_rejoin_failed">"לא יכול להצטרף לקבוצת צ'אט"</string>
     <string name="group_resend_message">שלח מחדש (%d)</string>
-    <string name="group_view_settings_disolved">群已经被解散，无法查看群资料</string>
-    <string name="group_view_settings_not_memeber">不在这个群里，无法查看群资料</string>
+    <string name="group_view_settings_disolved">"אינך יכול לראות פריטים. קבוצת צא'ט זו נמחקה."</string>
+    <string name="group_view_settings_not_memeber">"אין אפשרות להציג פריטים. אינך חבר בקבוצת צ'אט זו."</string>
     <string name="guild_add_attachments">"לחץ להוספת אימוג'יס ופריטים אחרים"</string>
     <string name="guild_add_recipients">לחץ להוספת נמענים מתוך אנשי הקשר</string>
     <string name="guild_msim_switcher">לחץ להחלפה בין כרטיסי ה-SIM</string>
@@ -299,7 +308,7 @@
     <string name="mms">הודעת מולטימדיה</string>
     <string name="move_down">העבר למטה</string>
     <string name="move_up">העבר למעלה</string>
-    <string name="msg_no_member_selected">请至少选择一个联系人.</string>
+    <string name="msg_no_member_selected">בחר לפחות איש קשר אחד</string>
     <string name="msg_type_hint_mms">הודעת מולטימדיה (MMS)</string>
     <string name="msg_type_hint_mms_omit">MMS</string>
     <string name="msg_type_hint_mx">הודעות Mi</string>
@@ -433,7 +442,6 @@
     <string name="pref_sms_storage_title">אחסון</string>
     <string name="pref_sms_theme_title">תצוגה</string>
     <string name="pref_summary_allow_si_sl_push">אפשר להודעות לטעון תוכן מאתרים</string>
-    <string name="pref_summary_allow_upload_message_info">הודעות ספאם ופרטי השולח יועלו אל MIUI כשתדווח עליהן.</string>
     <string name="pref_summary_auto_delete">מחק הודעות ישנות עם הגעה לתקרת המגבלה</string>
     <string name="pref_summary_delete_limit">%1$s הודעות לכל שיחה</string>
     <string name="pref_summary_delivery_reports">הצג דו\"ח מסירה להודעות שנשלחו</string>
@@ -450,7 +458,6 @@
     <string name="pref_switch_sdk_setting">החלף את ספק השירות עבור מסרון SMS חכם</string>
     <string name="pref_system_title">מערכת</string>
     <string name="pref_title_allow_si_sl_push">אפשר הודעות (WAP push (SI/SL</string>
-    <string name="pref_title_allow_upload_message_info">העלה הודעות ספאם</string>
     <string name="pref_title_auto_delete">מחיקת הודעות ישנות</string>
     <string name="pref_title_card_format">פורמט שיתוף כרטיס</string>
     <string name="pref_title_delivery_reports">סטטוס מסירה</string>
@@ -504,19 +511,19 @@
     <string name="rcs_auto_resend_sms">המר ל- SMS</string>
     <string name="rcs_auto_resume">חדש אוטומטית העלאות שהופרעו</string>
     <string name="rcs_auto_resume_only_by_wifi">חדש העלאה רק כאשר אתה מחובר לרשת Wi-Fi</string>
-    <string name="rcs_create_new_group">新建群聊</string>
+    <string name="rcs_create_new_group">"צור קבוצת צ'ט"</string>
     <string name="rcs_dspt">קבל ושלח הודעות באמצעות Wi-Fi או באמצעות רשת China Mobile</string>
     <string name="rcs_dspt_unavailable">לא ניתן להשתמש כרגע בתכונה זו. כרטיס ה-SIM של China Mobile הוא לא כרטיס הנתונים ברירת המחדל שלך.</string>
     <string name="rcs_forward_faild">לא ניתן היה להעביר</string>
     <string name="rcs_forward_successful">הועבר בהצלחה</string>
-    <string name="rcs_group_notification_invitation">群邀请</string>
+    <string name="rcs_group_notification_invitation">"הזמנה לצ'אט קבוצתי"</string>
     <string name="rcs_message">הודעות של China Mobile</string>
     <string name="rcs_message_disable">"לא ניתן להציג את ההודעה ב'שטח שני'"</string>
     <string name="rcs_msg">הודעות של China Mobile</string>
     <string name="rcs_not_online">לא יכול להשתמש בשירות הודעות China Mobile. בדוק את הגדרות הרשת שלך ונסה שוב.</string>
     <string name="rcs_offline_hint">שירות הודעות China Mobile איננו מקוון. לא יכול להעביר הודעה זו.</string>
     <string name="rcs_recipient_type_contact">העבר לאיש קשר</string>
-    <string name="rcs_recipient_type_group">转发到群</string>
+    <string name="rcs_recipient_type_group">"העבר לקבוצת צא'ט"</string>
     <string name="rcs_recipient_type_pc">העבר למחשב</string>
     <string name="rcs_resend_not_online">לא יכול לשתמש בשירות ההודעות של China Mobile</string>
     <string name="rcs_resend_sim_card_not_insert">נראה כאילו כרטיס ה-SIM שלך אינו מותקן</string>
@@ -633,6 +640,7 @@
     <string name="send_signature_confirm_dialog_title">שלח הודעה</string>
     <string name="send_sms">שלח הודעה</string>
     <string name="send_to">אל:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">נשלח ב: %1s</string>
     <string name="sent_label">"נשלח: "</string>
     <string name="service_message_not_found">תוקף ההודעה פג או שאינה זמין</string>
@@ -664,7 +672,6 @@
     <string name="sms_full_title">שטח אחסון הודעות הטקסט מלא</string>
     <string name="sms_rejected_body">הודעת טקסט נכנסת נדחתה</string>
     <string name="sms_rejected_title">הודעת טקסט נדחתה</string>
-    <string name="sms_report">דווח על הודעות ספאם</string>
     <string name="sms_report_dialog_content">לא ניתן היה לשלוח את הדו\"ח, נסה שוב.</string>
     <string name="sms_report_dialog_retry">נסה שוב</string>
     <string name="sms_report_dialog_title">נסה שוב</string>

@@ -203,7 +203,7 @@
     <string name="tap_to_exposure">לחץ להתאמת החשיפה באופן ידני</string>
     <string name="accessibility_shutter_button">לחצן הצילום</string>
     <string name="accessibility_intent_done_apply">בוצע</string>
-    <string name="accessibility_intent_done_retry">צלם מחדש</string>
+    <string name="accessibility_intent_done_retry">נסה שוב</string>
     <string name="accessibility_review_thumbnail">תמונה חדשה ביותר</string>
     <string name="accessibility_camera_picker">החלפת מצלמה קדמית ואחורית</string>
     <string name="accessibility_stereo_button">התאמת מיקוד</string>
@@ -261,13 +261,12 @@
     <string name="pref_camera_referenceline_title">הצג קווי רשת</string>
     <string name="pref_camera_volumekey_function_entry_volume">עוצמה</string>
     <string name="pref_camera_volumekey_function_entry_shutter">תריס</string>
+    <string name="pref_camera_volumekey_function_entry_timer">צילום בספירה לאחור</string>
     <string name="pref_camera_volumekey_function_entry_zoom">זום</string>
-    <string name="pref_camera_volumekey_function_entry_exposure">חשיפה</string>
     <string name="pref_camera_volumekey_function_title">פונקציות לחצני עוצמת שמע</string>
     <string name="error_fail_to_start_audio_capture">לא ניתן היה להתחיל הקלטת שמע</string>
     <string name="toast_start_audio_capture">השמע צליל לצילום תמונה</string>
     <string name="record_back_pressed_hint">לחץ שוב לעצירת הקלטה</string>
-    <string name="toast_burst_snap_finished_summary">הצילום המתפרץ בוצע, %1$s תמונות צולמו</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">לא ניתן לבצע צילום מתפרץ בעת שהקלטת שמע פעילה</string>
     <string name="time_lapse_error">לא ניתן להשתמש בגודל וידאו זה לצורך צילום דוגם זמן</string>
     <string name="pref_camera_movie_solid_title">ייצוב תמונה</string>
@@ -430,11 +429,12 @@
     <string name="pref_camera_portrait_mode_entry_off">"מצב 'דיוקן' כבוי"</string>
     <string name="pref_camera_portrait_mode_entry_on">"מצב 'דיוקן' מופעל"</string>
     <string name="portrait_mode_lowlight_hint">חשוך מידי כעת</string>
-    <string name="portrait_mode_too_close_hint">הרחק מהעצם</string>
-    <string name="portrait_mode_too_far_hint">מקם את האובייקט בטווח של 2 מטרים</string>
+    <string name="portrait_mode_too_close_hint">התרחק מהנושא</string>
+    <string name="portrait_mode_too_far_hint">מקם את הנושא בטווח של 2 מטרים</string>
     <string name="portrait_mode_depth_effect_success_hint">אפקט עומק</string>
     <string name="portrait_mode_use_hint">"מצב 'דיוקן' מעמעם את הרקע
  ומדגיש את האנשים בקידמה."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">נסה מצב דיוקן.nשמור את האובייקט חד, תוך טשטוש הרקע.</string>
     <string name="pref_camera_square_mode_title">מרובע</string>
     <string name="simple_mode_button_text_square">"כבה את 'מרובע'"</string>
@@ -450,6 +450,7 @@
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">מצבים</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>
@@ -553,7 +554,7 @@
     <string name="lighting_hint_title">תאורת סטודיו</string>
     <string name="lighting_hint_usage">"במצב 'דיוקן' ניתן להשתמש באפקטים של 
 תאורת סטודיו"</string>
-    <string name="lighting_hint_needed">מקם את האובייקט שלך במרכז</string>
+    <string name="lighting_hint_needed">מקם את הנושא שלך במרכז</string>
     <string name="lighting_hint_too_far">קרב את המצלמה שלך</string>
     <string name="lighting_hint_too_close">הרחק עוד יותר את המצלמה שלך</string>
     <string name="lighting_pattern_nature">טבעי</string>
@@ -568,5 +569,5 @@
     <string name="portrait_bokeh_text">מצב דיוקן</string>
     <string name="portrait_bokeh_first_tips">"השתמש במצב דיוקן כדי לטשטש
  את הרקע בתמונות שלך"</string>
-    <string name="portrait_bokeh_tips">מקם את העצם בטווח של 1.5 מטרים</string>
+    <string name="portrait_bokeh_tips">מקם את הנושא בטווח של 1.5 מטרים</string>
 </resources>

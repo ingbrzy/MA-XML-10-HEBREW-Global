@@ -30,7 +30,7 @@
     <string name="passport_register">צור חשבון</string>
     <string name="passport_new_user_register">צור חשבון</string>
     <string name="passport_vcode_sms_send_prompt">שלח קוד אימות ל- %s</string>
-    <string name="passport_input_phone_password">בבקשה הכנס את ססמתך עבור הטלפון הסלולרי %s</string>
+    <string name="passport_input_phone_password">הזן את הססמה עבור %s</string>
     <string name="passport_get_verify_code">קבל קוד</string>
     <string name="passport_re_get_verify_code">קבל קוד שוב</string>
     <string name="passport_getting_verify_code">מקבל</string>
@@ -179,7 +179,7 @@
     <string name="passport_quick_register_notice"><u>אין לך חשבון Mi? צור אחד.</u></string>
     <string name="passport_password_phone_login">היכנס באמצעות חשבון Mi</string>
     <string name="passport_sms_verification_code_login">היכנס באמצעות מסרון</string>
-    <string name="passport_sms_verification_code_login_or_register">הרשם או הכנס באמצעות SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">צור חשבון או הכנס באמצעות הודעת SMS</string>
     <string name="passport_login_other_account">חשבון אחר</string>
     <string name="passport_reg_new_account">צור חשבון</string>
     <string name="passport_select_the_login_account">בחר את החשבון אליו ברצונך להיכנס</string>
@@ -478,14 +478,14 @@
     <string name="sim_changed_notification_msg">לחץ לעדכון מספר הטלפון לשחזור שלך על מנת לשמור על אבטחת חשבונך.</string>
     <string name="recycle_phone_notification_title">סיכון אבטחה בחשבון Mi</string>
     <string name="recycle_phone_notification_msg">נראה כי מספר הטלפון שלך מוחזר. לחץ לעדכון.</string>
-    <string name="send_diagnosis_log">Send diagnosis log</string>
-    <string name="for_diagnosis_usage_only">Use this info for diagnosis only.</string>
-    <string name="collect_diagnosis_log">Collect diagnosis log</string>
-    <string name="sending">Sending...</string>
-    <string name="diagnosis_log_sent_format">"Diagnosis log has been sent.
+    <string name="send_diagnosis_log">שלח יומן דיאגנוזתי</string>
+    <string name="for_diagnosis_usage_only">השתמש רק כאשר אתה רוצה לאתר בעיה.</string>
+    <string name="collect_diagnosis_log">צור יומן אבחונים</string>
+    <string name="sending">שולח…</string>
+    <string name="diagnosis_log_sent_format">"יומן נשלח בהצלחה.
 ID:%s
-Please send this code to the technician."</string>
-    <string name="diagnosis_log_send_failed">Diagnosis log sent failed.</string>
-    <string name="temporary_not_available">temporary not available</string>
-    <string name="ok">OK</string>
+שלח קוד זה לאחראי."</string>
+    <string name="diagnosis_log_send_failed">לא ניתן היה לשלוח את היומן.</string>
+    <string name="temporary_not_available">תכונה זו עדיין לא זמינה.</string>
+    <string name="ok">אישור</string>
 </resources>

@@ -117,10 +117,10 @@
         <item quantity="many">"הגישה לרשת מוגבלת עבור &lt;font color='#ff0000'>%d&lt;/font> יישומים"</item>
     </plurals>
     <plurals name="om_locked_apps_title">
-        <item quantity="other">%d locked apps</item>
-        <item quantity="one">%d locked app</item>
-        <item quantity="two">%d locked apps</item>
-        <item quantity="many">%d locked apps</item>
+        <item quantity="other">%d נעל יישומים</item>
+        <item quantity="one">%d נעל יישום</item>
+        <item quantity="two">%d נעל שני יישומים</item>
+        <item quantity="many">%d נעל יישומים</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d ימים "</item>
@@ -183,10 +183,10 @@
         <item quantity="many">%d בעיות סוללה התגלו, תקן אותן</item>
     </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
-        <item quantity="other">Drained %2$d%% of the battery during last %1$d minutes</item>
-        <item quantity="one">Drained %2$d%% of the battery during last %1$d minute</item>
-        <item quantity="two">Drained %2$d%% of the battery during last %1$d minutes</item>
-        <item quantity="many">Drained %2$d%% of the battery during last %1$d minutes</item>
+        <item quantity="other">התרוקן %2$d%% מהסוללה במהלך %1$d הדקות האחרונות</item>
+        <item quantity="one">התרוקן %2$d%% מהסוללה במהלך %1$d הדקה האחרונה</item>
+        <item quantity="two">התרוקן %2$d%% מהסוללה במהלך %1$d הדקות האחרונות</item>
+        <item quantity="many">התרוקן %2$d%% מהסוללה במהלך %1$d הדקות האחרונות</item>
     </plurals>
     <plurals name="power_center_menu_text">
         <item quantity="other">פריטים</item>
@@ -369,16 +369,16 @@
         <item quantity="many">%d ימים מאז הבדיקה האחרונה</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d risks,</item>
-        <item quantity="one">%d risk,</item>
-        <item quantity="two">%d risks,</item>
-        <item quantity="many">%d risks,</item>
+        <item quantity="other">%d סיכונים</item>
+        <item quantity="one">%d סיכון</item>
+        <item quantity="two">%d שני סיכונים</item>
+        <item quantity="many">%d סיכונים</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d trojans</item>
-        <item quantity="one">%d trojan</item>
-        <item quantity="two">%d trojans</item>
-        <item quantity="many">%d trojans</item>
+        <item quantity="other">%d טרויאנים</item>
+        <item quantity="one">%d טרויאני</item>
+        <item quantity="two">%d שני טרויאנים</item>
+        <item quantity="many">%d טרויאנים</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">יישומים מסוכנים: %d</item>
@@ -397,6 +397,24 @@
         <item quantity="one">"המתן למשך שניה %d ונסה שוב. "</item>
         <item quantity="two">"המתן למשך %d שניות ונסה שוב. "</item>
         <item quantity="many">"המתן למשך %d שניות ונסה שוב. "</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">חבר %d נקודות לפחות</item>
+        <item quantity="one">חבר %d נקודה לפחות</item>
+        <item quantity="two">חבר %d נקודות לפחות</item>
+        <item quantity="many">חבר %d נקודות לפחות</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">הזן %d ספרות לכל הפחות</item>
+        <item quantity="one">הזן %d ספרה לכל הפחות</item>
+        <item quantity="two">הזן %d ספרות לכל הפחות</item>
+        <item quantity="many">הזן %d ספרות לכל הפחות</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">הזן %d תווים לכל הפחות</item>
+        <item quantity="one">הזן %d תוו לכל הפחות</item>
+        <item quantity="two">הזן %d תווים לכל הפחות</item>
+        <item quantity="many">הזן %d תווים לכל הפחות</item>
     </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d יישומים</item>
@@ -441,10 +459,10 @@
         <item quantity="many">נמצאו %d יישומים</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">Factory reset (%ds)</item>
-        <item quantity="one">Factory reset (%ds)</item>
-        <item quantity="two">Factory reset (%ds)</item>
-        <item quantity="many">Factory reset (%ds)</item>
+        <item quantity="other">שחזור הגדרות יצרן (%ds)</item>
+        <item quantity="one">שחזור הגדרות יצרן (%ds)</item>
+        <item quantity="two">שחזור הגדרות יצרן (%ds)</item>
+        <item quantity="many">שחזור הגדרות יצרן (%ds)</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d יישומים נעולים ממתינים להסרה</item>
@@ -549,10 +567,10 @@
         <item quantity="many">%d אפליקציות מוסתרות</item>
     </plurals>
     <plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">%d apps may be displayed incorrectly. Restrict floating notifications.</item>
-        <item quantity="one">%d app may be displayed incorrectly. Restrict floating notifications.</item>
-        <item quantity="two">%d apps may be displayed incorrectly. Restrict floating notifications.</item>
-        <item quantity="many">%d apps may be displayed incorrectly. Restrict floating notifications.</item>
+        <item quantity="other">%d ייתכן שיישום זה יוצג באופן שגוי. הגבל התראות צפות.</item>
+        <item quantity="one">%d ייתכן שיישום זה יוצג באופן שגוי. הגבל התראה צפה.</item>
+        <item quantity="two">%d ייתכן שיישום זה יוצג באופן שגוי. הגבל התראות צפות.</item>
+        <item quantity="many">%d ייתכן שיישום זה יוצג באופן שגוי. הגבל התראות צפות.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d בעיות שדורשות מיטוב</item>

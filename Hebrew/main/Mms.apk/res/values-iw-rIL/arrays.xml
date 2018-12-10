@@ -31,6 +31,13 @@
         <item>רק במצב שקט</item>
         <item>לעולם לא</item>
     </string-array>
+    <string-array name="reason_type">
+        <item>הונאה</item>
+        <item>תוכן בוטה או לא חוקי</item>
+        <item>ספאם</item>
+        <item>אחר</item>
+        <item>ביטול</item>
+    </string-array>
     <string-array name="recv_type">
         <item>接收并通知</item>
         <item>只接收</item>

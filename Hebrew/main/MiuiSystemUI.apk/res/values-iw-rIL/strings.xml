@@ -35,6 +35,7 @@
     <string name="accessibility_camera_button">מצלמה</string>
     <string name="accessibility_carrier_network_change_mode">מתבצע שינוי של ספק הרשת.</string>
     <string name="accessibility_cast_name">מחובר אל %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">שידור המסך הופסק.</string>
     <string name="accessibility_cell_data">גלישה סלולרית</string>
     <string name="accessibility_cell_data_off">גלישה סלולרית מושבתת</string>
@@ -89,7 +90,8 @@
     <string name="accessibility_home">בית</string>
     <string name="accessibility_ime_switch_button">החלף את לחצן שיטת הקלט.</string>
     <string name="accessibility_key">לחצן ניווט מותאם אישית</string>
-    <string name="accessibility_left_button">קיצור דרך</string>
+    <string name="accessibility_left_control_center_button">קיצור דרך</string>
+    <string name="accessibility_left_lock_screen_magazine_button">טפט קרוסלה</string>
     <string name="accessibility_location_active">בקשות מיקום פעילות</string>
     <string name="accessibility_managed_profile">פרופיל עבודה</string>
     <string name="accessibility_menu">תפריט</string>
@@ -414,6 +416,7 @@
     <string name="click_to_return_multi_window_of_notch">חזרה אל המסך המפוצל</string>
     <string name="clipboard">לוח גזירים</string>
     <string name="clock">שעון</string>
+    <string name="clock_city_name_local">מקומי</string>
     <string name="clock_seconds">הצג את השניות בשעון</string>
     <string name="clock_seconds_desc">הצג את השניות בשורת המצב. זה עלול להשפיע על חיי הסוללה.</string>
     <string name="compat_mode_off">מתח למידות המסך</string>
@@ -521,7 +524,7 @@
     <string name="dock_forced_resizable">ייתכן שהאפליקציה לא תעבוד במסך מפוצל.</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">"'מסך מפוצל' אינו נתמך ב'מסך הנעילה'."</string>
     <string name="dock_non_resizeble_failed_to_dock_text">האפליקציה לא תומכת במסך מפוצל.</string>
-    <string name="download_lock_wallpaper">Double tap to download Wallpaper Carousel</string>
+    <string name="download_lock_wallpaper">לחץ לחיצה כפולה על מנת להוריד טפט קרוסלה</string>
     <string name="drag_to_add_tiles">לחץ והחזק בכדי להוסיף או בכדי לארגן מחדש את הפריטים</string>
     <string name="drag_to_remove_tiles">גרור לכאן כדי להסיר</string>
     <string name="drive_mode_tip">מצב רכב מופעל</string>
@@ -532,8 +535,8 @@
     <string name="empty_shade_text">אין הודעות</string>
     <string name="enable_adb">ניפוי שגיאות USB</string>
     <string name="enable_adb_summary">"מצב 'ניפוי שגיאות' כש-USB מחובר"</string>
-    <string name="enable_atrace">Turn on ATrace</string>
-    <string name="enable_atrace_summary">Capture kernel events using ATrace</string>
+    <string name="enable_atrace">הפעל את ATrace</string>
+    <string name="enable_atrace_summary">לכוד אירוע ליבה באמצעות ATrace</string>
     <string name="enable_bluetooth_confirmation_ok">הפעל</string>
     <string name="enable_bluetooth_message">"כדי לחבר את המקלדת לטאבלט, קודם הפעל את פונקציית בלוטות'."</string>
     <string name="enable_bluetooth_title">"להפעיל בלוטות'?"</string>
@@ -591,6 +594,7 @@
     <string name="face_data_manage_delete_sure">לא תוכל עוד לבטל את נעילת המכשיר באמצעות נתוני הפנים שלך לאחר שתמחק אותם.</string>
     <string name="face_data_manage_delete_title">נתוני פנים</string>
     <string name="face_data_manage_unlock_msg">בטל את נעילת המכשיר באמצעות נתוני הפנים</string>
+    <string name="face_data_manage_unlock_slide_msg">החלף קיצור דרך של מחוון בפתיחת נעילה באמצעות פנים</string>
     <string name="face_data_manage_unlock_title">ביטול נעילה באמצעות נתוני פנים</string>
     <string name="face_data_siggesstion_next">הבא</string>
     <string name="face_data_siggesstion_next_time">"הבא (%dש')"</string>
@@ -796,6 +800,10 @@
     <string name="keyguard_charging_back_to_lockscreen">חזרה אל מסך הנעילה</string>
     <string name="keyguard_charging_info_battery_used_time_text">משך פעילות הסוללה</string>
     <string name="keyguard_charging_info_click_to_detail">הצג פרטים</string>
+    <string name="keyguard_charging_info_data_c">℃%s</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">התרוקנות</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">היום %s</string>
@@ -820,6 +828,7 @@
     <string name="keyguard_missing_sim_instructions_long">כרטיס ה-SIM חסר או שאינו קריא. הכנס כרטיס SIM.</string>
     <string name="keyguard_missing_sim_message">אין כרטיס SIM בטלפון.</string>
     <string name="keyguard_missing_sim_message_short">אין כרטיס SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">הרשת נעולה</string>
     <string name="keyguard_password_enter_password_code">הזן סיסמה כדי לפתוח את הנעילה</string>
     <string name="keyguard_password_enter_pin_code">הזן קוד PIN</string>
@@ -903,6 +912,7 @@
     <string name="left_keycode">קוד מקש שמאלי</string>
     <string name="left_nav_bar_button_type">לחצן שמאלי נוסף</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">"לחץ לשינוי או הסרה של סיסמת הגיבויים המלאים עבור 'מסך הבית'"</string>
     <string name="local_backup_password_summary_none">"גיבויים מלאים של 'מסך הבית' אינם מוגנים כרגע"</string>
     <string name="local_backup_password_title">"סיסמת גיבוי ל'מסך הבית'"</string>
@@ -912,7 +922,9 @@
     <string name="lock_screen_carrier_airplane_mode_on">מצב טיסה</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
-    <string name="lock_screen_no_sim_card_emergency_only">Emergency calls only</string>
+    <string name="lock_screen_magazine_default_content">מנה יומית של תמונות רעננות</string>
+    <string name="lock_screen_magazine_default_title">טפט קרוסלה</string>
+    <string name="lock_screen_no_sim_card_emergency_only">שיחות חירום בלבד</string>
     <string name="lock_screen_no_sim_card_no_service">אין שירות</string>
     <string name="lock_wallpaper_enter">היכנס</string>
     <string name="lock_wallpaper_learn_more">עוד</string>
@@ -966,6 +978,7 @@
     <string name="miui_guide_dialog_message">"צלילי מדיה (מוזיקה, וידאו וכדומה) יושמעו גם במצב שקט. תוכל לשנות זאת ב'הגדרות'."</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">הנעילה בוטלה על ידי התקן Bluetooth</string>
     <string name="miui_ringer_count_down">ספירה לאחור</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">מצב שקט</string>
     <string name="miui_ringer_standard_description">השתקת צלצולים עבור שיחות והתראות נכנסות</string>
     <string name="miui_ringer_total">נא לא להפריע</string>
@@ -993,12 +1006,14 @@
 
 למידע נוסף פנה אל המנהל שלך."</string>
     <string name="monitoring_description_ca_cert_settings">פתח את האישורים המהימנים</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">תעודת הסמכה מותקנת על גבי מכשיר זה. תעבורת הרשת המאובטחת שלך עשויה להיות מנוטרת או לעבור עריכה על ידי גורמים אחרים.</string>
     <string name="monitoring_description_do_body">מנהל המכשיר יכול לנטר ולנהל את ההגדרות, האפליקציות, הנתונים שקשורים למכשירך, פרטי המיקום של מכשירך וגישת ארגונים.</string>
     <string name="monitoring_description_do_body_vpn">אתה מחובר אל %1$s, שיכולה לנטר את הפעילות שלך ברשת, כולל אימייל, אפליקציות וגלישה באתרי אינטרנט.</string>
     <string name="monitoring_description_do_header_generic">המכשיר שלך מנוהל על-ידי %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s משתמש ב-%2$s כדי לנהל את מכשירך.</string>
     <string name="monitoring_description_do_learn_more">מידע נוסף</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">הארגון אליו הינך שייך התקין תעודת הסמכה בפרופיל העבודה שלך. תעבורת הרשת המאובטחת שלך עשויה להיות מנוטרת או לעבור עריכה.</string>
     <string name="monitoring_description_managed_profile_named_vpn">פרופיל העבודה שלך מחובר אל %1$s, אשר יכול לנטר את פעילות הרשת שלך, כולל דוא\"ל, יישומים ואתרי אינטרנט.</string>
     <string name="monitoring_description_management">"מכשירך מנוהל על ידי הארגון אליו הינך שייך.
@@ -1030,6 +1045,7 @@
 
 אתה גם מחובר לרשת VPN, שיכולה לנטר את הפעילות שלך ברשת."</string>
     <string name="monitoring_description_vpn_settings">פתח את הגדרות ה-VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">תעודות CA</string>
     <string name="monitoring_subtitle_network_logging">רישום רשת</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1044,6 +1060,7 @@
     <string name="nav_guide_message">השתמש במחוות כדי להסתיר/להציג לחצנים מתוכנתים.</string>
     <string name="nav_guide_ok">הגדר</string>
     <string name="nav_guide_title">הסתר את הלחצנים המתוכנתים</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">ללא</string>
     <string name="no_multi_window_app">"לא קיימים יישומים התומכים ב'מסך מפוצל'"</string>
     <string name="no_notification_tips">אין הודעות</string>
@@ -1115,7 +1132,8 @@
     <string name="oldman_incall_text">חזרה אל השיחה</string>
     <string name="open_camera_hint_text">החלק שמאלה לפתיחת המצלמה</string>
     <string name="open_extreme_power_save_mode_title">הפעל מצב של חיסכון קיצוני בסוללה</string>
-    <string name="open_remote_center_hint_text">החלק ימינה לפתיחת שלט Mi</string>
+    <string name="open_lock_screen_magazine_hint_text">החלק ימינה לאפשריות נוספות</string>
+    <string name="open_remote_center_hint_text">החלק ימינה בכדי לפתוח את מרכז השליטה</string>
     <string name="other">אחר</string>
     <string name="overlay_display_devices_title">צור הדמיית תצוגות משניות</string>
     <string name="overview">סקירה כללית</string>
@@ -1182,6 +1200,7 @@
     <string name="power_remaining_charging_duration_only">%1$s נותרו לטעינה מלאה</string>
     <string name="power_remaining_duration_only">כ-%1$s נותרו</string>
     <string name="power_remaining_duration_only_short">%1$s נותרו</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">ייתכן שמתבצע ניטור הפרופיל</string>
     <string name="prompt_danger">סכנה</string>
     <string name="prompt_detecting">מזהה</string>
@@ -1244,7 +1263,7 @@
     <string name="quick_settings_done">בוצע</string>
     <string name="quick_settings_drivemode_label">מצב רכב</string>
     <string name="quick_settings_dual_location_label">GPS כפול</string>
-    <string name="quick_settings_edit_label">עוד</string>
+    <string name="quick_settings_edit_label">ערוך</string>
     <string name="quick_settings_extreme_batterysaver_label">מצב של חיסכון קיצוני בסוללה</string>
     <string name="quick_settings_flashlight_label">פנס</string>
     <string name="quick_settings_gps_label">GPS</string>
@@ -1328,6 +1347,12 @@
     <string name="recents_multistack_add_stack_dialog_split_vertical">פיצול אנכי</string>
     <string name="recents_search_bar_label">חיפוש</string>
     <string name="recents_stack_action_button_label">אפס הכול</string>
+    <string name="recents_title_app_manager">ניהול יישומים</string>
+    <string name="recents_title_game">משחקים</string>
+    <string name="recents_title_garbage_cleanup">מנקה</string>
+    <string name="recents_title_garbage_deepclean">ניקוי יסודי</string>
+    <string name="recents_title_market">חפש יישומים</string>
+    <string name="recents_title_security_scan">סריקת אבטחה</string>
     <string name="regrettable_lack_of_easter_egg">¯\\_(ツ)_/¯</string>
     <string name="reject_call">דוחה שיחה</string>
     <string name="remaining_length_format">נותרו %1$s</string>
@@ -1425,7 +1450,7 @@
     <string name="snooze_option_30_min">30 דקות</string>
     <string name="snooze_undo">ביטול</string>
     <string name="snoozed_for_time">נדחתה ב-%1$s</string>
-    <string name="sos_status_bar_summary">Tap to exit</string>
+    <string name="sos_status_bar_summary">לחץ ליציאה</string>
     <string name="sos_status_bar_title">מצב חירום</string>
     <string name="speed_bump_explanation">הודעות פחות דחופות מופיעות למטה</string>
     <string name="ssl_ca_cert_warning">"ייתכן שמתבצע ניטור
@@ -1526,7 +1551,7 @@ MMM d"</string>
     <string name="structure_face_delete_data_dialog_msg_retry">נסה שוב</string>
     <string name="structure_face_delete_data_dialog_title">לא ניתן היה להפעיל את המצלמה</string>
     <string name="structure_face_hardware_abnormal_btn">הבנתי</string>
-    <string name="structure_face_hardware_abnormal_msg">"A hardware error occurred. Reboot your device. If this doesn't help, call 400–100–5678 to get help."</string>
+    <string name="structure_face_hardware_abnormal_msg">שגיאת חומרה. הפעל מחדש את מכשירך. אם זה אינו עוזר התקשר 400-100-5678 על מנת לקבל עזרה.</string>
     <string name="structure_face_hardware_abnormal_title">שגיאת חומרה</string>
     <string name="structure_face_modules_abnormal_btn">אתחול</string>
     <string name="structure_face_modules_abnormal_msg">הקלטת הפנים שלך נכשלה עקב תקלה במודול האופטי. אתחל את מכשירך ונסה שוב.</string>
@@ -1628,7 +1653,7 @@ MMM d"</string>
     <string name="unimportant_desc">כל ההתראות שאינן חשובות יופיעו בתיקיה נפרדת.</string>
     <string name="unimportant_title">לא חשובות</string>
     <string name="unknown">לא ידוע</string>
-    <string name="unlock_camera_steady">"Don't move your phone"</string>
+    <string name="unlock_camera_steady">אל תזיז את הטלפון שלך</string>
     <string name="unlock_failed">שגיאה פנימית</string>
     <string name="unlock_failed_face_not_found">מזהה</string>
     <string name="unlock_label">בטל נעילה</string>
@@ -1715,6 +1740,7 @@ MMM d"</string>
     <string name="wait_for_debugger">המתן למנפה השגיאות</string>
     <string name="wait_for_debugger_summary">היישום המנופה ממתין למנפה השגיאות לבצע צירוף לפני השלמת הביצוע</string>
     <string name="wallpaper_global_des_drop_down_notify_text">שחרר לצפיה בפרטים</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">עודכן %1$s</string>
     <string name="wifi_aggressive_handover">העברה אגרסיבית מרשת אלחוטית לרשת סלולרית</string>
     <string name="wifi_aggressive_handover_summary">כאשר תכונה זו מאופשרת, יתבצע מעבר פעיל יותר לרשתות סלולריות כשאות הרשת האלחוטית חלש.</string>
@@ -1739,9 +1765,11 @@ MMM d"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
