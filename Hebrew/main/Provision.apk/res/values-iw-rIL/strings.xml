@@ -30,9 +30,6 @@
     <string name="other_settings_auto_update_summary">מערכת MIUI תבחר את הרגע המתאים ביותר להתקנת העדכונים</string>
     <string name="other_settings_ad_enable">המלצות מותאמות אישית עבור פרסומות</string>
     <string name="other_settings_ad_enable_summary">קבל פרסומות מותאמות אישית על סמך נתוני ההתנהגות שלך</string>
-    <string name="other_settings_enhanced_lockscreen">טפט קרוסלה</string>
-    <string name="other_settings_enhanced_lockscreen_summary">קבל תמונות מובילות וסיפורים ישירות למסך הנעילה שלך באופן יום יומי. הפעל את תנאי השימוש.</string>
-    <string name="other_settings_enhanced_lockscreen_summary_index">תנאי השימוש</string>
     <string name="back">הקודם</string>
     <string name="next">הבא</string>
     <string name="skip_underline">דלג על שלב זה</string>
@@ -116,5 +113,5 @@
     <string name="ai_button_single_press_desc">הפעלת Mi AI</string>
     <string name="ai_button_double_press">לחיצה כפולה</string>
     <string name="ai_button_double_press_desc">הגדר את אפשרויות M AI</string>
-    <string name="zone_picker_title">בחר אזור זמן</string>
+    <string name="zone_picker_title">Choose time zone</string>
 </resources>

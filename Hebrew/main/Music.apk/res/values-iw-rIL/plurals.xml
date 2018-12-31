@@ -35,10 +35,14 @@
         <item quantity="many">הנגן יעצור בעוד %d דקות</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">נוצרה ב- %1$s | סהכ %2$d שירים</item>
-        <item quantity="one">נוצרה ב- %1$s | שיר %2$d בסה\"כ</item>
-        <item quantity="two">נוצרה ב- %1$s | סהכ %2$d שירים</item>
-        <item quantity="many">נוצרה ב- %1$s | סהכ %2$d שירים</item>
+        <item quantity="other">"נוצרה ב- %1$s 
+סהכ %2$d שירים"</item>
+        <item quantity="one">"נוצרה ב- %1$s 
+שיר %2$d בסה\"כ"</item>
+        <item quantity="two">"נוצרה ב- %1$s 
+סהכ %2$d שירים"</item>
+        <item quantity="many">"נוצרה ב- %1$s 
+סהכ %2$d שירים"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d שירים נוספו לרשימת ההשמעה</item>
@@ -122,6 +126,18 @@
         <item quantity="two">%d פריטים נבחרו</item>
         <item quantity="many">%d פריטים נבחרו</item>
     </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">מוריד %1$d קבצים</item>
+        <item quantity="one">מוריד %1$d קובץ</item>
+        <item quantity="two">מוריד %1$d שני קבצים</item>
+        <item quantity="many">מוריד %1$d קבצים</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">לא יכול להוריד %1$d פריטים</item>
+        <item quantity="one">לא יכול להוריד %1$d פריט</item>
+        <item quantity="two">לא יכול להוריד %1$d שני פריטים</item>
+        <item quantity="many">לא יכול להוריד %1$d פריטים</item>
+    </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d עוקבים</item>
         <item quantity="one">עוקב %d</item>
@@ -154,7 +170,7 @@
     </plurals>
     <plurals name="video_count">
         <item quantity="other">סרטונים</item>
-        <item quantity="one">וידאו</item>
+        <item quantity="one">סרטון</item>
         <item quantity="two">Videos</item>
         <item quantity="many">Videos</item>
     </plurals>

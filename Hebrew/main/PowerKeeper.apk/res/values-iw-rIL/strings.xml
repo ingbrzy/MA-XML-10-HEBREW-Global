@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">בכל פעם שמערכת MIUI תזהה שהינך ישן, היא תסגור את היישומים ברקע, תגביל את ה-Bluetooth ,GPS, הנתונים הסלולריים והשימוש ברשת האלחוטית ולא תאיר את המסך בעת קבלת התראות.</string>
     <string name="nonui_mode_config_title">"מצב 'לא אינטראקטיבי'"</string>
     <string name="nonui_mode_config_description">הימנע מהארת המסך עבור התראות, כבה את תאורת ה-LED, את חיישן טביעת האצבע ואת לחצני השליטה במגע על מנת לחסוך בשימוש בסוללה כאשר מערכת MIUI תזהה שאינך משתמש במכשירך.</string>
-    <string name="power_center">אנרגיה</string>
+    <string name="power_center">שימוש בסוללה</string>
     <string name="power_usage">צריכת אנרגיה</string>
     <string name="power_mode">הגדרות אנרגיה</string>
     <string name="performance_category">ביצועים</string>
@@ -98,4 +98,13 @@
     <string name="atrace_start">הקלט את יומן atrace …</string>
     <string name="atrace_saving">שומר את יומן atrace…</string>
     <string name="atrace_saved">נשמר בהצלחה</string>
+    <string name="notification_open_extreme_mode_text">הופעל חיסכון קיצוני בסוללה</string>
+    <string name="extreme_power_settings_title">הגדרות</string>
+    <string name="notification_exit_extreme_mode_title">חיסכון קיצוני בסוללה כובה</string>
+    <string name="notification_exit_extreme_mode_text">אחוז טעינת הסוללה עולה על %s</string>
+    <string name="extreme_power_config_mode_summary">חיסכון קיצוני בסוללה יגביל פעילות רקע כמו כן פעילות הסינכרון תפסק אף היא.</string>
+    <string name="extreme_add_white_list_title">אפליקציות מוחרגות שיכולות לפעול ברקע</string>
+    <string name="extreme_add_white_list_summary">הוסף עד 4 אפליקציות</string>
+    <string name="adaptive_battery_title">השתמש באפשרות סוללה מסתגלת</string>
+    <string name="adaptive_battery_summary">הגבל את הסוללה עבור יישומים בהם אינך משתמש באופן תדיר</string>
 </resources>

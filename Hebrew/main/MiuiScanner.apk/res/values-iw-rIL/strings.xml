@@ -92,6 +92,7 @@
     <string name="module_title_business_card">כרטיס ביקור</string>
     <string name="module_title_code">קוד QR</string>
     <string name="module_title_document">מסמך</string>
+    <string name="module_title_plant">צמחים</string>
     <string name="module_title_shopping">קניות</string>
     <string name="module_title_translation">תרגם</string>
     <string name="name">שם:</string>
@@ -106,6 +107,11 @@
     <string name="payment_text">פתיחה באמצעות %s</string>
     <string name="phone">טלפון:</string>
     <string name="place_barcode_into_rectangle">מקם את הקוד בתוך המסגרת</string>
+    <string name="plant_fail">לא ניתן לזהות</string>
+    <string name="plant_loading">מזהה…</string>
+    <string name="plant_reg_fail_2">לא ניתן לזהות אובייקט זה. בסורק זה ניתן לזהות רק צמחים.</string>
+    <string name="plant_support">"  (תמיכה טכנית)"</string>
+    <string name="plant_title">סרוק את הצמח שברצונך לזהות</string>
     <string name="preparing_sd">מכין אחסון פנימי…</string>
     <string name="previous">הקודם</string>
     <string name="qr_code_details">פרטי קוד QR:</string>

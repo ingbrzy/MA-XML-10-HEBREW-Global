@@ -6,6 +6,12 @@
         <item quantity="two">נודניק למשך %d דקות.</item>
         <item quantity="many">נודניק למשך %d דקות.</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">%d יום</item>
+        <item quantity="two">%d יומיים</item>
+        <item quantity="many">%d ימים</item>
+    </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">למחוק את השעונים המעוררים שנבחרו?</item>
         <item quantity="one">למחוק שעון מעורר זה?</item>
@@ -14,15 +20,39 @@
     </plurals>
     <plurals name="delete_timezone_confirm">
         <item quantity="other">האם למחוק את אזורי זמן אלו?</item>
-        <item quantity="one">למחוק אזור זמן זה?</item>
-        <item quantity="two">Delete the selected timezones?</item>
-        <item quantity="many">Delete the selected timezones?</item>
+        <item quantity="one">האם למחוק אזור זמן זה?</item>
+        <item quantity="two">האם למחוק את אזורי הזמן האלו?</item>
+        <item quantity="many">האם למחוק את אזורי הזמן האלו?</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">%d שעה</item>
+        <item quantity="two">%d שעתיים</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d ימים</item>
+        <item quantity="one">%1$d יום</item>
+        <item quantity="two">%1$d יומיים</item>
+        <item quantity="many">%1$d ימים</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">%d דקה</item>
+        <item quantity="two">%d דקותיים</item>
+        <item quantity="many">%d דקות</item>
     </plurals>
     <plurals name="second">
         <item quantity="other">%d שניות</item>
-        <item quantity="one">שנייה אחת %d</item>
-        <item quantity="two">%d seconds</item>
-        <item quantity="many">%d seconds</item>
+        <item quantity="one">%d שניה</item>
+        <item quantity="two">%d שניות</item>
+        <item quantity="many">%d שניות</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">הצלצול המעורר יפסק %2$s בשעות (%1$s דקות. בכל פעם)</item>
+        <item quantity="one">הצלצול המעורר יפסק %2$s בשעה (%1$s דקות)</item>
+        <item quantity="two">הצלצול המעורר יפסק %2$s בשעות (%1$s דקות. בכל פעם)</item>
+        <item quantity="many">הצלצול המעורר יפסק %2$s בשעות (%1$s דקות. בכל פעם)</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">הפעל נודניק למשך %d דקות</item>
@@ -32,8 +62,8 @@
     </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d שעות "</item>
-        <item quantity="one">"שעה %1$d "</item>
-        <item quantity="two">"%1$d hours "</item>
+        <item quantity="one">"%1$d שעה "</item>
+        <item quantity="two">"%1$d שעתיים "</item>
         <item quantity="many">"%1$d שעות "</item>
     </plurals>
     <plurals name="timer_message_minute">

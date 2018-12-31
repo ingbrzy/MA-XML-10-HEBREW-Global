@@ -56,6 +56,7 @@
     <string name="save_pic_success">התמונה נשמרה ב- %s</string>
     <string name="save_pic_fail">לא ניתן היה לשמור את התמונה, בדוק את כרטיס הזכרון שלך</string>
     <string name="pic_not_exist">תמונה זו אינה קיימת</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">בחר מוצר</string>
     <string name="michat_skillset_business_type_title">בחר שירות</string>
     <string name="michat_close_text">"הצ'אט הסתיים"</string>
@@ -215,8 +216,10 @@
     <string name="feedback_select_suggestion">הצעות</string>
     <string name="feedback_select_problem">תקלות</string>
     <string name="feedback_choose_module">בחר פריט</string>
+    <string name="feedback_choose_app_tag">בחר בעיה</string>
     <string name="feedback_choose_third_app_name">בחר את שם היישום</string>
     <string name="toast_module_required">בחר פריט</string>
+    <string name="toast_app_tag_required">בחר בעיה</string>
     <string name="feedback_choose_module_hint">נדרש</string>
     <string name="feedback_choose_reproductivity">רפרודוקציה</string>
     <string name="feedback_title_reproductivity">בחר רפרודוקציה</string>
@@ -327,6 +330,7 @@
     <string name="toast_log_too_large">לא ניתן היה להעלות. יומן הרישום גדול מידי.</string>
     <string name="title_customer_service">שירות לקוחות</string>
     <string name="title_first_aid">עזרה ראשונה</string>
+    <string name="title_user_guide">מדריך המשתמש</string>
     <string name="customer_service_apply">בקשת עזרה משירות הלקוחות</string>
     <string name="customer_service_complain">דיווח לשירות הלקוחות</string>
     <string name="customer_service_station">מיקומי שירות</string>
@@ -340,12 +344,11 @@
     <string name="catch_full_log_item_title_sensor">חיישנים</string>
     <string name="catch_full_log_item_title_bt">"בלוטות'"</string>
     <string name="catch_full_log_item_title_dump_heap">Lagging</string>
-    <string name="catch_full_log_item_content_need_open">"צעדים: 1.
- לחץ על צור יומן. 2.
+    <string name="catch_full_log_item_content_title">צעדים:</string>
+    <string name="catch_full_log_item_content_need_open">"צעדים: 1. לחץ על צור יומן. 2.
  חזור חזרה לתכונה עליה ברצונך לדווח ושחזר אותה. 3.
  חזור חזרה לעמוד זה ולחץ \"סיים והעלה\"."</string>
-    <string name="catch_full_log_item_content_catch_direct">"צעדים: 1.
- לחץ על צור יומן. 2.
+    <string name="catch_full_log_item_content_catch_direct">"צעדים: 1. לחץ על צור יומן. 2.
  חזור חזרה לתכונה עליה ברצונך לדווח ושחזר אותה. 3.
  חזור חזרה לעמוד זה ולחץ \"סיים והעלה\"."</string>
     <string name="catch_full_log_action_start">צור יומן</string>

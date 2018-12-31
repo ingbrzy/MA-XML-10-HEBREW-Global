@@ -25,6 +25,8 @@
     <string name="accessibility_no_wifi">מנותק מהרשת האלחוטית.</string>
     <string name="accessibility_screen_magnification_enable">מחוות הגדלה</string>
     <string name="accessibility_summary_source">סופק על ידי %s</string>
+    <string name="accessibility_summary_state_disabled">כיבוי</string>
+    <string name="accessibility_summary_state_enabled">מופעל</string>
     <string name="accessibility_vpn_settings_info">קביעת תצורת VPN</string>
     <string name="accessibility_wifi_off">החיבור לרשת האלחוטית כבוי.</string>
     <string name="accessibility_wifi_one_bar">קו רשת אלחוטית 1.</string>
@@ -46,7 +48,7 @@
     <string name="add_auto_startup_application">הוסף יישומי הפעלה אוטומטית</string>
     <string name="add_back_fingerprint_instruction_msg">הנח אצבע על החיישן</string>
     <string name="add_facerecoginition_text">הוספת נתוני פנים</string>
-    <string name="add_fingerprint_cancel_button_text">הקודם</string>
+    <string name="add_fingerprint_cancel_button_text">חזרה</string>
     <string name="add_fingerprint_dirty_fingerprint">ודא שהמסך נקי. נסה להקליט שוב את טביעת האצבע שלך.</string>
     <string name="add_fingerprint_done_msg">עכשיו תוכל לבטל את נעילת המכשיר באמצעות טביעת אצבע.</string>
     <string name="add_fingerprint_done_title">אתה מוכן לצאת לדרך!</string>
@@ -61,7 +63,7 @@
     <string name="add_fingerprint_put_finger_edge_msg">הזז מעט את האצבע והנח אותה שוב על החיישן כדי להוסיף את החלקים השונים של טביעת האצבע.</string>
     <string name="add_fingerprint_put_finger_msg">הנח אצבע על החיישן והרם אותה אחרי שתחוש רטט.</string>
     <string name="add_fingerprint_put_finger_title">הוספת טביעת אצבע</string>
-    <string name="add_fingerprint_similar_fingerprint_input_error_msg">הזז מעט את האצבע</string>
+    <string name="add_fingerprint_similar_fingerprint_input_error_msg">הזז מעט את האצבע שלך</string>
     <string name="add_fingerprint_success_msg">נוספה בהצלחה</string>
     <string name="add_fingerprint_text">הוסף טביעת אצבע</string>
     <string name="add_fingerprint_toast_text">הנח אצבע על החיישן</string>
@@ -375,6 +377,7 @@
     <string name="bootloader_summary">צרוב את מכשירך באמצעות USB</string>
     <string name="bootloader_tips">לאחר שהוספת את חשבון Mi, אל תצא ממנו, בצע שחזור יצרן או ניקוי נתוני יישומים. אם תבצע את אחת מהפעולות הרשומות לעיל, הוסף את חשבונך שוב אם לא תבצע זאת לא תוכל לפתוח את נעילת המכשיר.</string>
     <string name="bootloader_tips_ok">הבנתי</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">צבע הנורית</string>
     <string name="breathing_light_color_summary">צבע הנורית בעת קבלת התראה חדשה</string>
     <string name="breathing_light_freq_summary">הבהב בקבלת התראות חדשות</string>
@@ -485,7 +488,7 @@
     <string name="confirm_enable_oem_unlock_text">אזהרה: תכונות הגנה של המכשיר לא יעבדו במכשיר זה בעת שהגדרה זו מופעלת.</string>
     <string name="confirm_enable_oem_unlock_title">לאפשר ביטול נעילת OEM?</string>
     <string name="confirm_erase">מחק</string>
-    <string name="confirm_fingerprint_msg">הנח אצבע על החיישן</string>
+    <string name="confirm_fingerprint_msg">הנח את האצבע שלך על החיישן</string>
     <string name="confirm_frp_credential_message">בוצע איפוס המכשיר להגדרות היצרן. ניתן לבטל את הנעילה באמצעות הסיסמה הקודמת שלך.</string>
     <string name="confirm_frp_credential_skip_txt">השתמש בחשבון Google במקום</string>
     <string name="confirm_frp_credential_title">בטל נעילה אחרי איפוס להגדרות היצרן</string>
@@ -640,6 +643,7 @@
     <string name="dialog_title_hdmi_color_calibration">תיקון צבע קבוע מראש</string>
     <string name="dialog_title_login">היכנס לחשבון Mi שלך</string>
     <string name="dialog_yes">כן</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">הערה: תוכל להשתמש במקלדת זו לאחר אתחול המכשיר רק במידה ותבטל את נעילת מכשירך.</string>
     <string name="disable_overlays">השבת שכבת על של HW</string>
     <string name="disable_overlays_summary">השתמש תמיד ב-GPU עבור צלימת שכבות המסך</string>
@@ -666,6 +670,7 @@
     <string name="dndm_auto_button_title">"חזרה על תזמון מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_setting_group">מתוזמן</string>
     <string name="dndm_auto_time_setting">הגדר שעה</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">עד</string>
     <string name="dndm_auto_time_turn_off_title">"כבה אוטומטית את מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_time_turn_on">מ:</string>
@@ -798,7 +803,7 @@
     <string name="find_my_device">איתור המכשיר</string>
     <string name="find_my_device_disable">כיבוי</string>
     <string name="find_my_device_enable">מופעל</string>
-    <string name="fingerprint_and_password_entrance_title">נעילת מסך וטביעת אצבע</string>
+    <string name="fingerprint_and_password_entrance_title">נעילת מסך &amp; וטביעת אצבע</string>
     <string name="fingerprint_apply_to_privacy_password">סיסמה להגנת הפרטיות</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">הסיסמה להגנת הפרטיות מגינה על ההודעות, התמונות, הקבצים, ההערות והאפליקציות שלך.</string>
     <string name="fingerprint_first_open_screen_password_face_tittle">פנים (קודם הגדר סיסמה למסך נעילה)</string>
@@ -936,7 +941,7 @@
     <string name="gxzw_add_fingerprint_continue">המשך</string>
     <string name="gxzw_add_fingerprint_edge_message">הזז את האצבע כדי לקלוט את הקצוות של טביעת האצבע שלך</string>
     <string name="gxzw_add_fingerprint_edge_title">התאם את האחיזה שלך</string>
-    <string name="gxzw_add_fingerprint_finish">בוצע</string>
+    <string name="gxzw_add_fingerprint_finish">בוצע!</string>
     <string name="gxzw_add_fingerprint_indicate">לחץ קלות על האזור</string>
     <string name="gxzw_add_fingerprint_know">הבנתי</string>
     <string name="gxzw_add_fingerprint_message">ודא שהאצבע והמסך שלך נקיים</string>
@@ -950,6 +955,7 @@
     <string name="gxzw_anim_metal">מטאלי</string>
     <string name="gxzw_anim_pulse">פולס</string>
     <string name="gxzw_anim_rhythm">מקצב</string>
+    <string name="gxzw_anim_star">כוכבית</string>
     <string name="gxzw_anim_title">אנימצית טביעת האצבע</string>
     <string name="gxzw_dialog_message">על מנת שתוכל להשתמש בחיישן טביעות אצבע מובנה מסך, אל תשתמש במגן מסך. אם עדיין הנך חושב שמגן מסך הכרחי, בחר אחד ממגני המסך המורשים והמותאמים למכשירך.</string>
     <string name="gxzw_dialog_not_show_again">אל תציג שוב</string>
@@ -1036,7 +1042,7 @@
     <string name="keyboard_and_input_methods_category">מקלדת</string>
     <string name="keyboard_settings_category">שיטות קלט</string>
     <string name="keyguard_advance_setting_title">הגדרות מתקדמות</string>
-    <string name="keyguard_notification_status_title">התראות</string>
+    <string name="keyguard_notification_status_title">כאשר ההתראה מגיעה והמסך כבוי</string>
     <string name="keyguard_security_setting_others">אחרים</string>
     <string name="keyguard_security_setting_privacy_policy">מדיניות הפרטיות</string>
     <string name="keywords_airplane">מטוס;מצב מטוס;אוירון; מצב אוירון; טיסה;מצב טיסה</string>
@@ -1132,6 +1138,8 @@
     <string name="location_neighborhood_level">אפשר ליישומים להשתמש בנתוני רשתות אלחוטיות ורשתות סלולריות על מנת להעריך את מיקומך</string>
     <string name="location_neighborhood_level_wifi">המיקום נקבע באמצעות הרשת האלחוטית</string>
     <string name="location_network_based">רשת אלחוטית &amp; רשת סלולרית</string>
+    <string name="location_off_summary">כיבוי</string>
+    <string name="location_on_summary">מופעל / %1$s</string>
     <string name="lock_screen_notifications_summary_hide">הצג את כל ההתראות אך הסתר את תוכנן</string>
     <string name="lock_screen_notifications_summary_show">הצג את כל ההתראות והתוכן שלהן</string>
     <string name="lock_screen_signature_summary">ההודעה הזו תוצג במסך הנעילה</string>
@@ -1184,7 +1192,7 @@
     <string name="lockpattern_continue_button_text">המשך</string>
     <string name="lockpattern_need_to_confirm">סמן שוב את התבנית לאישור:</string>
     <string name="lockpattern_need_to_unlock_wrong">נסה שוב:</string>
-    <string name="lockpattern_pattern_confirmed_header">תבנית הפתיחה החדשה שלך:</string>
+    <string name="lockpattern_pattern_confirmed_header">תבנית ביטול הנעילה החדשה שלך:</string>
     <string name="lockpattern_pattern_entered_header">התבנית נקלטה</string>
     <string name="lockpattern_pattern_same_with_others">צריכה להיות שונה מהסיסמה של המרחב האחר</string>
     <string name="lockpattern_pattern_same_with_owner">צריכה להיות שונה מהסיסמה של First Space</string>
@@ -1210,7 +1218,7 @@
     <string name="lockscreen_glogin_password_hint">סיסמה</string>
     <string name="lockscreen_glogin_submit_button">היכנס</string>
     <string name="lockscreen_magazine">קרוסלת טפטים</string>
-    <string name="lockscreen_magazine_summary">קרוסלת טפטים איכותיים</string>
+    <string name="lockscreen_magazine_summary">קרוסלת טפטים באיכות גבוהה</string>
     <string name="lockscreen_magazine_title">טפט קרוסלה</string>
     <string name="login_account_dialog_message">היכנס באמצעות חשבון Mi שלך והפעל את הסנכרון עם Mi Cloud.</string>
     <string name="login_account_dialog_title">היכנס באמצעות חשבון Mi</string>
@@ -1490,6 +1498,7 @@
     <string name="network_control">הצג את הגדרות היישום</string>
     <string name="network_detail">פרטי הרשת של %s</string>
     <string name="network_error">שגיאת רשת</string>
+    <string name="network_name_input_error">לא יכול היה לשמור SSID. נסה שנית.</string>
     <string name="network_settings_title">רשתות סלולריות</string>
     <string name="network_speed_for_apps_close">כפה עצירה</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">לכפות עצירה על יישום זה?</string>
@@ -1804,6 +1813,7 @@
     <string name="private_sms_need_to_unlock">דרושה סיסמה:</string>
     <string name="private_sms_recording_intro_header">צייר תבנית לפתיחה:</string>
     <string name="private_sms_reset_by_account">על מנת לאפס את סיסמתך, היכנס לחשבון Mi שלך</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">פעיל</string>
     <string name="provision_back">הקודם</string>
     <string name="provision_next">הבא</string>
@@ -2146,6 +2156,7 @@
     <string name="security_encryption_attention_3">יהיה עליך להגדיר סיסמה חדשה עבור מסך הנעילה.</string>
     <string name="security_encryption_attention_4">הקפד לזכור את סיסמת מסך הנעילה שלך, אחרת יהיה עליך לבצע איפוס מלא ולמחוק את כל הנתונים במכשיר זה.</string>
     <string name="security_encryption_attention_info">באפשרותך להצפין חשבונות, הגדרות, יישומים שהורדו ונתונים שלהם, מדיה וקבצים אחרים.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">חשוב</string>
     <string name="security_encryption_close_dialog_info">בחירה שלא להצפין את המכשיר באמצעות סיסמת מסך הנעילה עשויה לגרום לשירותי Google מסויימים להיות לא זמינים.</string>
     <string name="security_encryption_close_dialog_title">חזור אל הגנה באמצעות סיסמה כברירת מחדל</string>
@@ -2177,6 +2188,8 @@
     <string name="select_webview_provider_toast_text">אפשרות זו אינה חוקית יותר. נסה שוב.</string>
     <string name="service_manage">התקנה</string>
     <string name="service_stop_description">היישום החל בהרצת השירות. עצירה עלולה לגרום לשגיאות.</string>
+    <string name="set_jeejen_prompt_message">משגר היישומים Jeejen יוגדר כמשגר ברירת המחדל שלך. באפשרותך לשנות את משגר ברירת המחדל בהגדרות > הגדרות מערכת > מסך הבית &amp; אחרונים > מפעיל ברירת המחדל.</string>
+    <string name="set_jeejen_prompt_title">אשר שינויים</string>
     <string name="setting_privacy_password">הגדר סיסמה להגנת הפרטיות</string>
     <string name="settings_ad_loading">טוען…</string>
     <string name="settings_ad_loading_unavailable">לא ניתן היה לטעון את המידע.</string>
@@ -2186,7 +2199,7 @@
     <string name="settings_toggle_position_divider_list">המתגים מעל השורה הם מתגים פעילים</string>
     <string name="setup_choose_unlock_fingerprint_msg">הגדר מסך נעילה לפני הוספת טביעת אצבע.</string>
     <string name="setup_choose_unlock_mixed_password">סיסמה</string>
-    <string name="setup_choose_unlock_mixpassword_title">הגדר סיסמה</string>
+    <string name="setup_choose_unlock_mixpassword_title">הגדרת סיסמה</string>
     <string name="setup_choose_unlock_password">קוד PIN</string>
     <string name="setup_choose_unlock_password_msg">הזן 4 ספרות</string>
     <string name="setup_choose_unlock_password_title">הגדר קוד PIN</string>
@@ -2247,6 +2260,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">"התראות, לחצני בקרת נגן המוסיקה וקיצורי דרך לא יוצגו ב'מסך הנעילה'."</string>
     <string name="skip_step">דלג</string>
@@ -2264,7 +2278,7 @@
     <string name="sos_privacy_and_content_policy">הסכם המשתמש ומדיניות הפרטיות</string>
     <string name="sos_privacy_dialog_button_cancel">ביטול</string>
     <string name="sos_privacy_dialog_button_ok">מסכים</string>
-    <string name="sos_privacy_dialog_message">"קרא והסכם ל%s לפני שתשתמש בתכונה זו.r
+    <string name="sos_privacy_dialog_message">"קרא והסכם ל%s לפני שתשתמש בתכונה זו.
  תכונה זו זקוקה להרשאות בכדי לגשת למיקומך, להשתמש ברשת הסלולרית, ולגשת אל אנשי הקשר שלך. האם אתה מסכים?"</string>
     <string name="sos_privacy_dialog_title">תנאי השימוש</string>
     <string name="sound_category_call_ringtone_vibrate_title">צלצולים &amp; צלילי התראות</string>
@@ -2297,6 +2311,7 @@
     <string name="status_bar_settings_all_app_display_loading">רק רגע…</string>
     <string name="status_bar_settings_app_notification_preferences">הגדרות יישומים</string>
     <string name="status_bar_settings_basic_settings">הגדרות בסיסיות</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">ערוך שם ספק רשת</string>
     <string name="status_bar_settings_custom_wifi_name">ערוך שם רשת אלחוטית</string>
     <string name="status_bar_settings_customer_feedback">משוב</string>
@@ -2494,8 +2509,9 @@
     <string name="turn_off_keyguard_password_alert_title">כיבוי</string>
     <string name="turn_off_keyguard_password_confirm_msg">מאפיינים מסוימים לא יעבדו ללא סיסמה.</string>
     <string name="turn_off_keyguard_password_wait_dialog">מתבצעת השבתת הסיסמה…</string>
+    <string name="turn_off_keyguard_password_with_face_confirm_msg">לאחר השבתה של סיסמת נעילת המסך טביעות האצבעות שנרשמו יימחקו. לא תוכל לבטל את נעילת המכשיר באמצעות טביעת אצבע.</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">לאחר השבתת הסיסמה לא תוכל לבטל את נעילת המכשיר באמצעות טביעת אצבע.</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">לאחר השבתה של סיסמת נעילת המסך טביעות האצבעות שנרשמו יימחקו. לא תוכל לבטל את נעילת המכשיר באמצעות טביעת אצבע.</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"לאחר שתכבה את סיסמת 'מסך הנעילה' שלך, טביעת האצבע השמורה תימחק. לא תוכל עוד לבטל את נעילת מכשירך באמצעות טביעת האצבע שלך."</string>
     <string name="turn_off_security_lock">כבה נעילה</string>
     <string name="turn_on_keyguard_password">הפעל סיסמת נעילת מסך</string>
     <string name="turn_on_keyguard_password_alert">זכור את הסיסמה שלך. אם תשכח אותה, לא תוכל לשחזרה.</string>
@@ -2816,9 +2832,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -2933,6 +2951,9 @@
     <string name="wireless_off">כבוי</string>
     <string name="wireless_on">מופעל</string>
     <string name="words_title">מלל</string>
+    <string name="work_sound_permission_dialog_button_text_known">הבנתי</string>
+    <string name="work_sound_permission_dialog_message">לא תוכל להשתמש בערכות נושא במצב אנטרפרייז. צור קשר עם המנהל שלך בכדי לקבל גישה.</string>
+    <string name="work_sound_permission_dialog_title">הגבלות מצב אנטרפרייז</string>
     <string name="work_space_delete">מחק את מרחב העבודה</string>
     <string name="work_space_delete_confirm">מחק עכשיו</string>
     <string name="work_space_delete_description">לא תוכל להיכנס אל מרחב העבודה אחרי מחיקתו. כל הנתונים יועברו או יימחקו.</string>

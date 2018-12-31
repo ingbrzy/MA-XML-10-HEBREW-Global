@@ -19,10 +19,10 @@
         <item quantity="many">לפני %d ימים</item>
     </plurals>
     <plurals name="aqi_all_city_cur_num">
-        <item quantity="other">ממוצע של %1$s תחנת</item>
+        <item quantity="other">ממוצע של %1$s תחנות</item>
         <item quantity="one">ממוצע של %1$s תחנת</item>
-        <item quantity="two">Average of %1$s stations</item>
-        <item quantity="many">Average of %1$s stations</item>
+        <item quantity="two">ממוצע של %1$s תחנות</item>
+        <item quantity="many">ממוצע של %1$s תחנות</item>
     </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">תחזית עבור %1$s ימים</item>

@@ -60,6 +60,7 @@
     <string name="fm_has_turned_off">רדיו FM כובה</string>
     <string name="msg_fm_starting">מתחיל…</string>
     <string name="txt_sleep_mode">מצב שינה</string>
+    <string name="txt_divider">" | "</string>
     <string name="group_favor">תחנות שמורות</string>
     <string name="group_other">אחרים</string>
     <string name="using_recorder_dialog_title">נדרשת הרשאה</string>

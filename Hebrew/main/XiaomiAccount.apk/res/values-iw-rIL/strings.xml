@@ -179,7 +179,7 @@
     <string name="passport_quick_register_notice"><u>אין לך חשבון Mi? צור אחד.</u></string>
     <string name="passport_password_phone_login">היכנס באמצעות חשבון Mi</string>
     <string name="passport_sms_verification_code_login">היכנס באמצעות מסרון</string>
-    <string name="passport_sms_verification_code_login_or_register">צור חשבון או הכנס באמצעות הודעת SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">הכנס או צור חשבון באמצעות הודעת SMS</string>
     <string name="passport_login_other_account">חשבון אחר</string>
     <string name="passport_reg_new_account">צור חשבון</string>
     <string name="passport_select_the_login_account">בחר את החשבון אליו ברצונך להיכנס</string>

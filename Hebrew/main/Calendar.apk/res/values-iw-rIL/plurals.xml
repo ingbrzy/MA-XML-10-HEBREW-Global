@@ -13,10 +13,10 @@
         <item quantity="many">בעוד %1$d ימים ב- %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">לפני %1$d ימים, בשעה %2$s</item>
-        <item quantity="one">לפני יום %1$d בשעה %2$s</item>
-        <item quantity="two">לפני %1$d ימים, בשעה %2$s</item>
-        <item quantity="many">לפני %1$d ימים, בשעה %2$s</item>
+        <item quantity="other">%1$d ימים %2$s</item>
+        <item quantity="one">%1$d יום לפני %2$s</item>
+        <item quantity="two">%1$d יומיים לפני%2$s</item>
+        <item quantity="many">%1$d ימים %2$s</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d שעות לפני</item>

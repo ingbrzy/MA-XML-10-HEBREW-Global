@@ -341,7 +341,7 @@
     <string name="gpg_message">"יצירת יישומים משוכפלים עבור משחקים דורשת עבודה עם 'משחקי חנות Play'. ליצור יישום משוכפל עבור 'משחקי חנות Play'?"</string>
     <string name="gpg_title">"יישום משוכפל עבור 'משחקי חנות Play'"</string>
     <string name="gms_message">"יצירת יישומים משוכפלים עבור משחקים דורשת עבודה עם 'שירותי Google'. ליצור יישום משוכפל עבור 'שירותי Google'?"</string>
-    <string name="gms_title">הפעלת שירותי Google</string>
+    <string name="gms_title">יישום משוכפל עבור שירותי Google</string>
     <string name="gms_open_button">הפעלה</string>
     <string name="create_second_space">נוצר בהצלחה</string>
     <string name="set_space_password">הגדרת סיסמה</string>
@@ -457,4 +457,8 @@
     <string name="dialog_undo_negative">אל תשלול</string>
     <string name="dialog_title_service_error">שגיאת שרת</string>
     <string name="dialog_message_service_error">לא היתה אפשרות לשלול הרשאה ולבצע איפוס של נתוני יצרן. נסה שוב</string>
+    <string name="dialog_verify">אמת את טביעת האצבע שלך</string>
+    <string name="dialog_verify_fingerprint_retry">לא ניתן היה לאמת את טביעת האצבע, נסה שוב.</string>
+    <string name="button_touch">הנח אצבע על החיישן</string>
+    <string name="button_input_password">הזן סיסמה</string>
 </resources>

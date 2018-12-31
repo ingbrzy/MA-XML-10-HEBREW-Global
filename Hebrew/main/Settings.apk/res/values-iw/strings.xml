@@ -1355,6 +1355,7 @@
     <string name="gadget_picker_title">"בחר גאדג'ט"</string>
     <string name="gadget_state_off">כבוי</string>
     <string name="gadget_state_on">פועל</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">מכבה</string>
     <string name="gadget_state_turning_on">מפעיל</string>
     <string name="gadget_sync">סנכרון</string>
@@ -1530,6 +1531,7 @@
     <string name="legal_information">מידע משפטי</string>
     <string name="license_title">רישיון</string>
     <string name="lift_to_wake_title">הרם כדי להוציא ממצב שינה</string>
+    <string name="link_speed">%1$d Mbps</string>
     <string name="loading_notification_apps">טוען אפליקציות...</string>
     <string name="local_backup_password_summary_change">הקש כדי לשנות או להסיר את הסיסמה לגיבויים מלאים בשולחן העבודה</string>
     <string name="local_backup_password_summary_none">גיבויים מלאים בשולחן העבודה אינם מוגנים כעת</string>
@@ -1781,6 +1783,7 @@
     <string name="memory_summary">ממוצע של %1$s מתוך %2$s זיכרון בשימוש</string>
     <string name="memory_usage">שימוש בזיכרון</string>
     <string name="memory_usage_apps">זיכרון בשימוש על ידי אפליקציות</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">בשלוש השעות האחרונות נעשה בממוצע שימוש ב-%1$s מהזיכרון</string>
     <string name="menu_cancel">מחיקה</string>
     <string name="menu_delete">‏מחק APN</string>
@@ -1848,6 +1851,7 @@
     <string name="nfc_how_it_works_got_it">הבנתי</string>
     <string name="nfc_how_it_works_title">תשלום במסוף</string>
     <string name="nfc_more_title">עוד...</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">ברירת המחדל לתשלום</string>
     <string name="nfc_payment_default_not_set">לא מוגדרת</string>
     <string name="nfc_payment_favor_default">תמיד</string>
@@ -2005,6 +2009,7 @@
     <string name="overlay_display_devices_title">צור הדמיית תצוגות משניות</string>
     <string name="overlay_settings">תצוגה מעל אפליקציות אחרות</string>
     <string name="owner_info_settings_edit_text_hint">‏לדוגמה, ה-Android של יוסי.</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">ללא</string>
     <string name="owner_info_settings_title">הודעה במסך הנעילה</string>
     <string name="packages_subtitle">חבילות כלולות</string>
@@ -2106,6 +2111,8 @@
     <string name="printer_info_desc">מידע נוסף על מדפסת זו</string>
     <string name="privacy_settings_title">גיבוי</string>
     <string name="process_dex2oat_label">אופטימיזציית אפליקציה</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_provider_in_use_description">הספק %1$s נמצא בשימוש.</string>
     <string name="process_service_in_use_description">השירות %1$s נמצא בשימוש.</string>
@@ -2602,6 +2609,7 @@ Voice over Wi-Fi:‏ %3$s
     <string name="sim_reenter_new">הקלד שוב את קוד הגישה החדש</string>
     <string name="sim_select_card">‏בחר כרטיס SIM</string>
     <string name="sim_selection_required_pref">יש לציין בחירה</string>
+    <string name="sim_settings_summary">%1$s ‏- %2$s</string>
     <string name="sim_settings_title">‏כרטיסי SIM</string>
     <string name="sim_setup_wizard_title">‏כרטיסי SIM</string>
     <string name="sim_signal_strength">‏%1$d dBm ‏%2$d asu</string>
@@ -2831,6 +2839,7 @@ Voice over Wi-Fi:‏ %3$s
     <string name="suggestions_title">הצעות</string>
     <string name="sum_carrier_select">בחר מפעיל רשת</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s עד %2$s</string>
     <string name="support_account_picker_add_account">הוספת חשבון</string>
     <string name="support_account_request_prefix">מבקש בשם</string>

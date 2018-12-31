@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="allow">מסכים</string>
     <string name="app_name">מחשבון</string>
     <string name="app_name_danfa">מחשבון Mi</string>
     <string name="base_rate">ריבית בסיסית</string>
@@ -41,6 +42,12 @@
     <string name="description_content">"מלבד התכונות הבסיסיות שלו, ה'מחשבון' עובד גם כממיר רב שימושי וכמחשבון משכנתא ומס. ודא כי ביכולתך להסתדר ללא תכונות אלה לפני הסרת היישום."</string>
     <string name="description_title">"אודות 'מחשבון'"</string>
     <string name="devided_by_zero_reminder_message">לא ניתן לחלק באפס</string>
+    <string name="dialog_privacy_content">מלבד התכונות הבסיסיות של אפליקציית מחשבון, האפליקציה שלנו מכיל גם מחשבון מדעי ממיר רב תכליתי. מספר תכונות של אפליקציה זו נזקקות לחיבור אינטרנט כדי לעבוד באופן מיטיבי. אתה חייב לקרוא ולהסכים שלנו %1$s ו %2$s לפני שימוש במחשבון.</string>
+    <string name="dialog_privacy_title">תנאים והתניות</string>
+    <string name="dialog_rating_desc_ask">How do you feel about Calculator?</string>
+    <string name="dialog_rating_desc_less">Could you give us your feedback as well?</string>
+    <string name="dialog_rating_desc_perfect">Nice! Rate Calculator in App Store as well?</string>
+    <string name="dialog_rating_title">Rate our app</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -58,6 +65,7 @@
     <string name="equalDesc">שווה</string>
     <string name="error">שגיאה</string>
     <string name="error_fomrat">שגיאת פורמט</string>
+    <string name="exit">יציאה</string>
     <string name="factorialDesc">עצרת</string>
     <string name="fund" />
     <string name="fund_loan">מימון הלוואה</string>
@@ -103,6 +111,11 @@
     <string name="lgDesc">לוגריתם</string>
     <string name="ln">ln</string>
     <string name="lnDesc">לוגריתם טבעי</string>
+    <string name="loading_fail_message_no_network">לא ניתן להתחבר לרשת. לחץ כאן כדי לנסות שוב.</string>
+    <string name="loading_fail_refresh">רענן</string>
+    <string name="loading_message">טוען יישומים…</string>
+    <string name="loading_slogan">השתמש בישומים מבלי להתקין אותם</string>
+    <string name="loading_tips">הורדת ההגדרות הצליחה. הפעל מחדש את היישום על מנת להחיל הגדרות אלו.</string>
     <string name="loan_edittext_hint_commercial">הזן סכום</string>
     <string name="loan_edittext_hint_commercial_combined">מסחרי (×10 אלפים)</string>
     <string name="loan_edittext_hint_fund">הזן סכום</string>
@@ -157,6 +170,7 @@
     <string name="network_confirm_content">ממיר המטבע, מחשבוני המס והמשכנתא זקוקים לחיבור לאינטרנט ולגישה לשירותי המיקום על מנת שיוכלו לפעול באופן תקין.</string>
     <string name="network_confirm_title">נדרשת הרשאה</string>
     <string name="not_supported_due_to_language">אפשרות זו זמינה רק בשפה הסינית</string>
+    <string name="ok">OK</string>
     <string name="percent" />
     <string name="percentDesc">אחוז</string>
     <string name="piDesc">פאי</string>
@@ -175,11 +189,14 @@
     <string name="preference_follow_web_title">אתר רישמי</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_help">Help &amp; feedback</string>
     <string name="preference_other">אחר</string>
     <string name="preference_privacy_title">מדיניות הפרטיות</string>
+    <string name="preference_rating_title">Rate our app</string>
     <string name="preference_settings">הגדרות</string>
     <string name="preference_use_degress_summary">רדיאנים חלופיים עם זויות בפונקציות טריגונומטריות</string>
     <string name="preference_use_degress_title">השתמש בזויות</string>
+    <string name="privacy_policy">מדיניות הפרטיות</string>
     <string name="radDesc">רדין</string>
     <string name="rate_data_provider">גובה הריבית מסופק על ידי hexun.com</string>
     <string name="reciprocalDesc">הפכי</string>
@@ -237,6 +254,7 @@
     <string name="tax_location">מיקום</string>
     <string name="tax_medical">רפואי</string>
     <string name="tax_param_error">הזן תעריפי ביטוח מדויקים</string>
+    <string name="tax_rate_provider">הנתונים סופקו ע\"י hexun.com ו East Money</string>
     <string name="tax_result_real_get">אחרי מס</string>
     <string name="tax_social_insurance">ביטוח לאומי</string>
     <string name="tax_thershold_foreign">%s (לאומים זרים)</string>
@@ -250,6 +268,7 @@
     <string name="tax_unemployment">אבטלה</string>
     <string name="tax_update_time_format">הנתונים מסופקים על ידי HeXun (%s)</string>
     <string name="times" />
+    <string name="unKnow_error">שגיאה לא ידועה</string>
     <string name="unit_data_display_area_acre">אקר</string>
     <string name="unit_data_display_area_are">עשירית דונם (Are)</string>
     <string name="unit_data_display_area_ha">הקטר</string>
@@ -529,6 +548,7 @@
     <string name="unit_year">ש</string>
     <string name="unit_year_format">שנה %s</string>
     <string name="unit_yuan">CNY</string>
+    <string name="user_agreement">הסכם המשתמש</string>
     <string name="voiceDesc">בקרה קולית</string>
     <string name="wf_word_figure">סימנים פיננסיים</string>
     <string name="word_figure_big_unit_fen">分</string>
@@ -552,8 +572,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_connect_download_manager_fail">ההתחברות למנהל ההורדות נכשלה, אנא בדוק את מצב מנהל ההורדות במסך הניהול של היישום.</string>
-    <string name="xiaomi_external_storage_unavailable">האחסון לא זמין, אנא בדוק את כרטיס ה-SD.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_connect_download_manager_fail">לא להתחבר להורדות. בדוק אם יישום זה מכיל את כל ההרשאות הנדרשות בהגדרות > תחת יישומים מותקנים.</string>
+    <string name="xiaomi_external_storage_unavailable">אחסון לא זמין. בדוק את כרטיס SD שלך.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"מציגים את גרסה %1$s
 גודל: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"מציגים את גרסה %1$s

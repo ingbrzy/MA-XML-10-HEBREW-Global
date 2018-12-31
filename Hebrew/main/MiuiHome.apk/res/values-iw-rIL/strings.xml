@@ -152,6 +152,7 @@
     <string name="gadget_clock_24_label">שעון 4x2</string>
     <string name="gadget_clock_34_label">שעון 4x3</string>
     <string name="gadget_clock_label">שעון</string>
+    <string name="gadget_dual_clock_label">שעון כפול</string>
     <string name="gadget_error_text">"לא ניתן לטעון ווידג'ט"</string>
     <string name="gadget_google_search_label">חיפוש Google</string>
     <string name="gadget_load_error">טוען…</string>
@@ -277,11 +278,14 @@
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">ריק</string>
     <string name="recommend_apps_no_data">אין נתונים</string>
+    <string name="recommend_apps_no_data_toast">אין המלצות לעת עתה.</string>
     <string name="recommend_apps_notice">יישומים מומלצים</string>
     <string name="recommend_apps_notice_nodata">יישומים מומלצים (אין נתונים)</string>
     <string name="recommend_apps_switch_title">יישומים מומלצים</string>
     <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, tap this folder's name."</string>
     <string name="recommend_loading">טוען</string>
+    <string name="recommend_refresh">רענן</string>
+    <string name="recommend_xout">אל תציג</string>
     <string name="reset_description_first_time">ניתן לשחזר את הפריסה מ-%1$sבתוך שעתיים</string>
     <string name="reset_description_others">ניתן לשחזר את הפריסה מ-%1$s</string>
     <string name="reset_fail">לא ניתן היה לשחזר</string>
@@ -347,7 +351,4 @@
     <string name="widget_gadget_player">מוסיקה</string>
     <string name="widget_global_search">חיפוש</string>
     <string name="widget_quick_function">פונקציות מהירות</string>
-    <string name="recommend_apps_no_data_toast">אין המלצות לעת עתה.</string>
-    <string name="recommend_refresh">רענן</string>
-    <string name="recommend_xout">אל תציג</string>
 </resources>

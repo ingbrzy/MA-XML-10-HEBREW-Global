@@ -84,6 +84,12 @@
         <item quantity="two">המשך את הגיבוי בעוד %d שעות</item>
         <item quantity="many">המשך את הגיבוי בעוד %d שעות</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d פריטים גדולים מדיי בכדי לגבות</item>
+        <item quantity="one">%d פריט גדול מדיי בכדי לגבות</item>
+        <item quantity="two">%d שני פריטים גדולים מדיי בכדי לגבות</item>
+        <item quantity="many">%d פריטים גדולים מדיי בכדי לגבות</item>
+    </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d תמונות או סרטונים | הופסק</item>
         <item quantity="one">תמונה או סרטון %d | הופסק</item>
@@ -390,22 +396,16 @@
         <item quantity="two">%d תמונות או סרטונים לא גובו</item>
         <item quantity="many">%d תמונות או סרטונים לא גובו</item>
     </plurals>
-    <plurals name="sync_total_count">
-        <item quantity="other">%d פריטים</item>
-        <item quantity="one">פריט %d</item>
-        <item quantity="two">%d פריטים</item>
-        <item quantity="many">%d פריטים</item>
-    </plurals>
-    <plurals name="backup_file_over_size_title">
-        <item quantity="other">%d פריטים גדולים מדיי בכדי לגבות</item>
-        <item quantity="one">%d פריט גדול מדיי בכדי לגבות</item>
-        <item quantity="two">%d שני פריטים גדולים מדיי בכדי לגבות</item>
-        <item quantity="many">%d פריטים גדולים מדיי בכדי לגבות</item>
-    </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d פריטים גדולים מדיי בכדי לגבות</item>
         <item quantity="one">%d פריט גדול מדיי בכדי לגבות</item>
         <item quantity="two">%d שני פריטים גדולים מדיי בכדי לגבות</item>
         <item quantity="many">%d פריטים גדולים מדיי בכדי לגבות</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d פריטים</item>
+        <item quantity="one">פריט %d</item>
+        <item quantity="two">%d פריטים</item>
+        <item quantity="many">%d פריטים</item>
     </plurals>
 </resources>
