@@ -27,9 +27,9 @@
     <string name="cloud_back_up_frequence_choice_title">גיבוי מתוזמן</string>
     <string name="cloud_back_up_frequence_long">כל 7 ימים</string>
     <string name="cloud_back_up_frequence_short">כל יום</string>
-    <string name="cloud_back_up_share_activity_title">שדרג את חשבון Mi</string>
-    <string name="cloud_back_up_share_activity_discription">קבל עוד שטח אחסון, גיבויים יומיים, ועוד.</string>
-    <string name="cloud_back_up_share_activity_confirm">שדרוג</string>
+    <string name="cloud_back_up_subscribe_vip_title">Upgrade Mi Account</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Get more storage space, daily backups, and more.</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Upgrade</string>
     <string name="cloud_back_up_detail_discription">"פריטים אלו יגובו לשירות ענן Mi כאשר מכשירך יתחבר ל Wi-Fi: 
 *  יישומים, מסך הבית, פריסה וטפט 
 *  שעון מעורר, שעון, והגדרות שעון 
@@ -50,6 +50,8 @@
     <string name="self_device_second_space">שטח שני של מכשיר טלפון זה</string>
     <string name="other_device_main_space">שטח ראשון</string>
     <string name="other_device_second_space">שטח משני</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>
     <string name="size_unknown">גודל לא ידוע</string>
     <string name="recovering">משחזר את %s</string>
@@ -59,6 +61,7 @@
     <string name="backing_up_to_micloud">מגבה…</string>
     <string name="restore_from_cloud">שחזר מגיבוי ב-Mi Cloud</string>
     <string name="backup_to_cloud">גבה יישום</string>
+    <string name="restoring_file_title_no_progress">משחזר קבצים…</string>
     <string name="menu_item_sort">מיין לפי</string>
     <string name="menu_item_sort_name">שם</string>
     <string name="menu_item_sort_size">גודל</string>
@@ -86,6 +89,8 @@
     <string name="recover_miui_settings">שחזר את הגדרות המערכת</string>
     <string name="wait_icon_download">מוריד אייקונים של יישומים</string>
     <string name="download_settings_fail">"לא ניתן היה להוריד את הגדרות 'מסך הבית'"</string>
+    <string name="restore_init_description">מתחיל בשחזור</string>
+    <string name="restore_finish_description">השחזור הסתיים</string>
     <string name="backup_fail_wifi_needed">לא ניתן היה לבצע גיבוי, דרוש חיבור לרשת האלחוטית.</string>
     <string name="backup_success">הגיבוי בוצע בהצלחה</string>
     <string name="cloud_task_in_process">לעצור את %s ולמחוק גיבוי זה? לא תוכל להפוך פעולה זו.</string>
@@ -131,6 +136,7 @@
     <string name="provision_error_connect_msg">בדוק את הרשת ונסה שוב. הגיבויים אינם זמינים כאשר מכשירך נמצא במצב לא מקוון.</string>
     <string name="provision_error_connect_title">לא ניתן להתחבר</string>
     <string name="loading_user_backup">טוען נתוני גיבוי משתמש…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">לא ניתן היה לאמת את החשבון.</string>
     <string name="no_account">לא מחובר לחשבון Mi.</string>
@@ -173,6 +179,7 @@
     <string name="notification_channel_remind">תזכורת</string>
     <string name="done_remove">הוסר בהצלחה</string>
     <string name="doing_restore_home">"משחזר את 'מסך הבית' וההגדרות…"</string>
+    <string name="restoring_settings">משחזר הגדרות…</string>
     <string name="title_alert_cancel_restore">עצור שחזור</string>
     <string name="msg_alert_cancel_restore">משחזר פריטים. לעצור עכשיו?</string>
     <string name="btn_restore_cancel">ביטול</string>

@@ -148,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">השעון המעורר ישתתק במידה אם תגדיר אותו לפחות 5 דקות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="slider_text">החלק מעלה לכיבוי</string>
     <string name="snooze_confirm_cancel">כבה שעון מעורר</string>
@@ -165,6 +166,7 @@
     <string name="start_up">התחל</string>
     <string name="stopwatch_lap_empty_text">אין הקפות</string>
     <string name="stopwatch_title">שעון עצר</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">הגדרות</string>
     <string name="system_time_settings_category_title">הגדרות שעה</string>
     <string name="temperature_unit">℃</string>

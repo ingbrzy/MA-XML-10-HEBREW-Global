@@ -351,4 +351,5 @@
     <string name="widget_gadget_player">מוסיקה</string>
     <string name="widget_global_search">חיפוש</string>
     <string name="widget_quick_function">פונקציות מהירות</string>
+    <string name="dual_app">יישומים משוכפלים</string>
 </resources>

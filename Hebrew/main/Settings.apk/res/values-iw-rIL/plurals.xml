@@ -84,6 +84,12 @@
         <item quantity="two">חכה %d שניות ונסה שוב.</item>
         <item quantity="many">חכה %d שניות ונסה שוב.</item>
     </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d נוספו</item>
+        <item quantity="one">%d נוסף</item>
+        <item quantity="two">%d נוספו</item>
+        <item quantity="many">%d נוספו</item>
+    </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>
         <item quantity="one">"מתג %1$d יופיע ב'לוח ההתראות'"</item>

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="entries">
+        <item quantity="other">%d פריטים</item>
+        <item quantity="one">%d פריט</item>
+        <item quantity="two">%d פריטים</item>
+        <item quantity="many">%d פריטים</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d שנים (%2$d חודשים)</item>
         <item quantity="one">שנה %1$d (%2$d חודשים)</item>

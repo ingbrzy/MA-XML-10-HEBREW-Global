@@ -21,4 +21,6 @@
     <string name="debug_tool_email_sender_picker">בחר את היישום לשליחת הקובץ שלך</string>
     <string name="debug_tool_email_subject">צורף כלי לניפוי שגיאות בלוח השנה</string>
     <string name="debug_tool_email_body">מצורף מסד הנתונים של לוח השנה שלי, עם כל הפגישות והמידע האישי שלי. השתמש בו בזהירות.</string>
+    <string name="channel_name">תזכורות לוח שנה</string>
+    <string name="channel_description" />
 </resources>

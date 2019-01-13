@@ -38,7 +38,10 @@
     <string name="vip_feedback_enable">הפעלת משוב VIP</string>
     <string name="extreme_power_config_mode_category">מצב קיצוני</string>
     <string name="extreme_power_config_mode_title">מצב קיצוני</string>
-    <string name="extreme_power_config_mode_desc">"החלף ל'מצב קיצוני' על מנת לכבות את הסנכרון, Bluetooth, GPS, NFC, הקשה כפולה, תאורת הלחצנים, הערת המסך עבור התראות וכמו כן את תאורת ההתראות. מערכת MIUI תתמקד בחסכון בסוללה."</string>
+    <string name="extreme_power_config_mode_desc"><li>המצב של חיסכון קיצוני בסוללה מפסיק את כל פעילות הרקע של אפליקציה לאחר סגירת האפליקציה וחזרה אל מסך הבית. האפליקציה הזו לא תוכל לשלוח לך הודעות או לקבל עדכונים.</li>"
+"<li>אם אתה מעוניין שאפליקציה תמשיך לפעול ברקע, נעל אותה תחת אפליקציות בשימוש לאחרונה או הוסף אותה לרשימת האפליקציות המוחרגות שמופיעה למטה, כך שהיא תוכל לפעול ברקע. עד 4 אפליקציות יכולות לפעול ברקע במצב חיסכון קיצוני בסוללה.</li>"
+"<li>המצב של חיסכון קיצוני בסוללה מכבה את NFC כברירת המחדל. ניתן לשנות זאת בהגדרות.</li>"
+"<li>כדי לוודא שתוכל להשתמש בכל מאפייני המכשיר שלך כרגיל, המצב של חיסכון קיצוני בסוללה יכובה אוטומטית כשרמת הטעינה של הסוללה שלך תגיע ל-30% או יותר.</li></string>
     <string name="empty_title_apps_container_list">אין יישומים</string>
     <string name="hints_loading_text">רק רגע…</string>
     <string name="config_mode_title">הגדרות רקע</string>
