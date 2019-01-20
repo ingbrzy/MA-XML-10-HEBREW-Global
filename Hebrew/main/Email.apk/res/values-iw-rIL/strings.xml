@@ -71,22 +71,22 @@
     <string name="account_setup_address_label">דוא\"ל</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">אשר כי שם המשתמש, הסיסמה והגדרות החשבון נכונים.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">לא ניתן היה להגדיר את החשבון</string>
-    <string name="account_setup_basics_email_label">הזן כתובת דוא\"ל</string>
+    <string name="account_setup_basics_email_label">כתובת דוא\"ל</string>
     <string name="account_setup_basics_login_gmail_without_proxy">היכנס באמצעות הרשת הנוכחית</string>
     <string name="account_setup_basics_manual_setup_action">הגדרה ידנית</string>
     <string name="account_setup_basics_mi_mail_login_help">יתכן שיהיה עליך לאמת את חשבונך באמצעות מסרון על מנת שתוכל לקבל דברי דוא\"ל</string>
-    <string name="account_setup_basics_password_label">הזן סיסמה</string>
+    <string name="account_setup_basics_password_label">סיסמה</string>
     <string name="account_setup_basics_title">הוסף חשבון</string>
     <string name="account_setup_check_settings_check_incoming_msg">נותן תוקף להגדרות השרת…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">נותן תוקף להגדרות SMTP…</string>
     <string name="account_setup_check_settings_retr_info_msg">"    מאחזר מידע אודות החשבון…"</string>
-    <string name="account_setup_correct_address_tips">הזן כתובת דוא\"ל</string>
+    <string name="account_setup_correct_address_tips">כתובת הדוא\"ל שהזנת אינה חוקית.</string>
     <string name="account_setup_creating_account_msg">"    יוצר חשבון…"</string>
     <string name="account_setup_deleting_account_msg">"    מסיר חשבון"</string>
     <string name="account_setup_exchange_certificate_title">תעודת לקוח</string>
     <string name="account_setup_exchange_device_id_label">מזהה התקן נייד</string>
     <string name="account_setup_exchange_no_certificate">אין</string>
-    <string name="account_setup_failed_auth_required">"This authentication method isn't supported by the server."</string>
+    <string name="account_setup_failed_auth_required">השרת אינו תומך בשיטת אימות זו.</string>
     <string name="account_setup_failed_certificate_inaccessible">התעודה אינה חוקית או שאינה נגישה.</string>
     <string name="account_setup_failed_certificate_required">דרושה תעודת לקוח. הינך מעוניין להתחבר לשרת עם תעודת לקוח?</string>
     <string name="account_setup_failed_check_credentials_message">השרת הגיב עם שגיאה. בדוק את שם המשתמש והסיסמה שלך ונסה שוב.</string>
@@ -162,7 +162,7 @@
     <string name="activity_folder_selection">בחר תיקייה</string>
     <string name="activity_mailbox_selection">בחר חשבון</string>
     <string name="ad_merge">מודעות &amp; התראות</string>
-    <string name="add_account">הוסף חשבון</string>
+    <string name="add_account">הוספת חשבון</string>
     <string name="add_account_keywords">הוסף חשבון;הוסף חשבון דואר</string>
     <string name="add_attachment">הוסף קובץ מצורף</string>
     <string name="add_calendar">הוסף תזכורת</string>
@@ -226,6 +226,7 @@
     <string name="battery_saver">חסכון בסוללה</string>
     <string name="battery_saver_keywords">חסכון בסוללה;שלח נתוני סוללה</string>
     <string name="bcc">העתק סמוי</string>
+    <string name="bcc_heading">"העתק סמוי: "</string>
     <string name="bill_center_setting">הגדרות חיוב</string>
     <string name="bill_center_setting_head">ייבא מידע מחשבונות אלה</string>
     <string name="bill_cycle_text">מחזור חיוב</string>
@@ -246,6 +247,7 @@
     <string name="cancel_pop3_attchemt_downloading">לא ניתן לבטל הורדות של קבצים מצורפים בחשבונות POP3</string>
     <string name="cant_move_or_change_labels">לא ניתן להעביר פריטים ממספר חשבונות.</string>
     <string name="cc">העתק</string>
+    <string name="cc_attribution">העתק: %1$s&lt;br></string>
     <string name="cc_bcc">העתק/העתק סמוי</string>
     <string name="cc_heading">"העתק: "</string>
     <string name="change_folders_selection_dialog_title">שנה תיקיות</string>
@@ -263,6 +265,7 @@
     <string name="click_download_all_content">[ לחץ על מנת להוריד תוכן ]</string>
     <string name="click_to_reload">הקש על המסך על מנת לרענן</string>
     <string name="collapse_recipient_details">צמצם את פרטי הנמען</string>
+    <string name="colon">:</string>
     <string name="compose">צור הודעה</string>
     <string name="compose_attachment_number_limit">לא ניתן לצרף יותר מ-10 קבצים</string>
     <string name="compose_paste_address_oob">יותר מידי תוים</string>
@@ -478,6 +481,7 @@
     <string name="gmail_web_login_go">אישור</string>
     <string name="gmail_web_login_required_message">היכנס ל-Gmail</string>
     <string name="header_category_account">חשבונות</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">משוב</string>
     <string name="header_label_general_preferences">כללי</string>
     <string name="help_and_info">עזרה</string>
@@ -499,6 +503,7 @@
     <string name="invalid_recipient">"הכתובת %s  אינה חוקית."</string>
     <string name="invalid_recipient_title">שגיאת נמען</string>
     <string name="kilobytes">%s KB</string>
+    <string name="label_notification_ticker" formatted="false">%s: %s</string>
     <string name="load_from_remote">חיפוש בתיבת הדואר בשרת</string>
     <string name="load_more">טען עוד</string>
     <string name="loading_conversation">טוען…</string>
@@ -510,7 +515,7 @@
     <string name="login139">היכנס עם China Mobile</string>
     <string name="login_failed_ticker">הכניסה אל %s נכשלה.</string>
     <string name="login_failed_title">לא ניתן להיכנס</string>
-    <string name="login_mail">Sign in</string>
+    <string name="login_mail">התחבר</string>
     <string name="login_support_tip_text">תומך בכל חשבונות הדוא\"ל העיקריים</string>
     <string name="long_press_to_select_tip">לחץ &amp; החזק לבחירת זיחה אחת, ואז לחץ לבחירת שיחות נוספות.</string>
     <string name="mail">דואר</string>
@@ -626,7 +631,7 @@
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">השתק</string>
     <string name="navigation_menu">תפריט הניווט</string>
-    <string name="need_get_qq_mail">Requires QQ Mail</string>
+    <string name="need_get_qq_mail">נדרש QQ Mail</string>
     <string name="network_error">אין חיבור</string>
     <string name="network_invaild">לא ניתן להתחבר לרשת</string>
     <string name="network_not_available">לא ניתן להתחבר לרשת</string>
@@ -652,15 +657,16 @@
     <string name="not_synced_title">החשבון אינו מסונכרן</string>
     <string name="notification_action_archive">העבר לארכיון</string>
     <string name="notification_action_delete">מחק</string>
-    <string name="notification_action_remove_label">הסר תגית</string>
+    <string name="notification_action_remove_label">הסר תווית</string>
     <string name="notification_action_reply">השב</string>
     <string name="notification_action_reply_all">השב לכולם</string>
     <string name="notification_action_undo_archive">הועבר לארכיון</string>
     <string name="notification_action_undo_delete">נמחק</string>
-    <string name="notification_action_undo_remove_label">התגית הוסרה</string>
+    <string name="notification_action_undo_remove_label">תווית אחת הוסרה</string>
     <string name="notification_exchange_calendar_added">לוח השנה של Exchange נוסף</string>
-    <string name="notify_channel_new_mail">Notify about new messages</string>
-    <string name="notify_channel_send_fail">Notify about failed delivery</string>
+    <string name="notify_channel_new_mail">התרע על הודעות חדשות</string>
+    <string name="notify_channel_permission_notice">נדרשות הרשאות</string>
+    <string name="notify_channel_send_fail">התרע אם ההעברה נכשלה</string>
     <string name="oauth_error_description">לא ניתן היה לאמת</string>
     <string name="oauth_gmail_login_notify">הזן את שם המשתמש והסיסמה של חשבון ה-Google שלך בעמוד הכניסה להלן.</string>
     <string name="oauth_login_continue">המשך</string>
@@ -675,10 +681,10 @@
     <string name="open_external_storage_and_calendar_permission">"אפשר ל'דואר' לגשת לאחסון ולפרטי לוח השנה ב'הגדרות'"</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">"אפשר ל'דואר' לגשת לאחסון, לאנשי הקשר ולפרטי לוח השנה ב'הגדרות'"</string>
     <string name="open_external_storage_and_contacts_permission">"אפשר ל'דואר' לגשת לאחסון ולאנשי הקשר ב'הגדרות'"</string>
-    <string name="open_notification_kingagent">Turn on burial point notifications</string>
-    <string name="optimization_suggestion">Optimization suggestions</string>
-    <string name="others_mail">Other</string>
-    <string name="others_mail_des">(Compatible with 600K mail services)</string>
+    <string name="open_notification_kingagent">הפעל התראות מעקב</string>
+    <string name="optimization_suggestion">הצעות אופטימיזציה</string>
+    <string name="others_mail">אחר</string>
+    <string name="others_mail_des">(קיימת תאימות עם שירותי המייל של 600K)</string>
     <string name="outbox_alert_button_no_resend">אל תשלח</string>
     <string name="outbox_alert_button_resend">שלח מחדש</string>
     <string name="outbox_alert_certificate_error">פנה אל מנהל מערכת הדוא\"ל שלך ועדכן את התעודה שלך.</string>
@@ -783,7 +789,7 @@
     <string name="preview_attachment">תצוגה מקדימה</string>
     <string name="previous_action">הקודם</string>
     <string name="print">הדפסה</string>
-    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy">מדיניות פרטיות</string>
     <string name="prompt_title">פעולה</string>
     <string name="protocol_setting_toast">לחץ על הפינה הימנית העליונה על מנת לעבור להגדרות לאחר שתסכים</string>
     <string name="pull_to_refresh">החלק מטה לרענון</string>
@@ -797,9 +803,9 @@
     <string name="push_wps_confirm_message">נסה להשתמש ב- WPS Office לפתיחת קובץ מצורף זה.</string>
     <string name="push_wps_confirm_title">נסה את WPS Office</string>
     <string name="push_wps_no_response_app">לא נמצא יישום מתאים לביצוע פעולה זו</string>
-    <string name="qq_authorization_help_get">Get code</string>
-    <string name="qq_authorization_know">About the code</string>
-    <string name="qq_authorization_tips">"Don't show again"</string>
+    <string name="qq_authorization_help_get">קבל קוד</string>
+    <string name="qq_authorization_know">אודות הקוד</string>
+    <string name="qq_authorization_tips">אל תציג שוב</string>
     <string name="qq_auto_login_failed_cpy_pass_success">הועתק בהצלחה. חזור אל דף הכניסה והדבק את הקוד אל תוך טופס הסיסמה.</string>
     <string name="qq_auto_login_failed_dialog_message">העתק את קוד האימות, לחץ על \"הזן שם משתמש וסיסמה על מנת להיכנס\" בעמוד הכניסה והדבק את הקוד אל תוך טופס הסיסמה.</string>
     <string name="qq_auto_login_failed_dialog_positive_label">העתקת קוד</string>
@@ -813,7 +819,7 @@
     <string name="qq_login_webview">מבצע כניסה אל חשבון הרשת של QQ, לחץ לכניסה באמצעות הסיסמה.</string>
     <string name="qq_next_generation_auth_toast">הפעל הגנה באמצעות סיסמה בדפדפן שלך</string>
     <string name="qq_uthentication_failed">לא ניתן היה לאמת את החשבון, היכנס שוב</string>
-    <string name="qq_verify_code">(Requires verification code from QQ)</string>
+    <string name="qq_verify_code">(מחייב קוד אימות מ-QQ)</string>
     <string name="qq_webview_loading">רק רגע…</string>
     <string name="questionnair_body_invisibility">ההודעות אינן מוצגות</string>
     <string name="questionnair_confirm_delete">להסיר את החשבון?</string>
@@ -956,6 +962,7 @@
     <string name="silent_ringtone">השתק</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">הסיסמה עבור שרת הדואר היוצא שגויה</string>
     <string name="sort_attachment">מיין לפי</string>
     <string name="storage">אחסון</string>
@@ -986,7 +993,7 @@
     <string name="tap_to_configure">לחץ על מנת להגדיר.</string>
     <string name="tap_to_enable_sync">לחץ להפעלה.</string>
     <string name="three_day">3 ימים</string>
-    <string name="title_activity_about">About</string>
+    <string name="title_activity_about">אודות</string>
     <string name="to">אל</string>
     <string name="to_heading">"אל: "</string>
     <string name="toast_bar_fail_synchronization">לא ניתן להתחבר לרשת</string>
@@ -1030,7 +1037,7 @@
     <string name="unzip_file_failed">לא ניתן היה לחלץ את הקובץ</string>
     <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
     <string name="updated_at">רוענן ב- %1$s</string>
-    <string name="upload_log">העלה יומנים</string>
+    <string name="upload_log">שליחה</string>
     <string name="upload_log_failed">לא ניתן היה לשלוח את היומנים</string>
     <string name="upload_log_no">ביטול</string>
     <string name="upload_log_success">נשלח בהצלחה, נחזור אליך בהקדם.</string>
@@ -1044,8 +1051,8 @@
     <string name="veiled_alternate_text" />
     <string name="veiled_alternate_text_unknown_person" />
     <string name="veiled_summary_unknown_person" />
-    <string name="verify_code">Verification code</string>
-    <string name="version_string">Version: %s</string>
+    <string name="verify_code">קוד אימות</string>
+    <string name="version_string">גרסה: %s</string>
     <string name="via_domain">דרך %1$s</string>
     <string name="view_more_conversations">הצג שיחות נוספות</string>
     <string name="wait_for_manual_sync_body">"חשבון זה לא הוגדר לסנכרון אוטומטי.
@@ -1062,7 +1069,7 @@
     <string name="widget_other_views">אחר</string>
     <string name="wipe_account_fail_description">אפשר</string>
     <string name="wipe_account_fail_title">לא ניתן היה למחוק מידע אישי</string>
-    <string name="wps_title">WPS Mail</string>
+    <string name="wps_title">דואר WPS</string>
     <string name="wrong_password">הסיסמה שהזנת שגויה</string>
     <string name="yes">כן</string>
     <string name="you_are_in_mobile_network">להשתמש בנתונים סלולריים להעלאת יומנים?</string>

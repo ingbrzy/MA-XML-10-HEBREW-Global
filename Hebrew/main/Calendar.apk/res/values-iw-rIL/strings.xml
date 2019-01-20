@@ -72,6 +72,7 @@
     <string name="card_title_change">עוד</string>
     <string name="change_response_title">שינוי תגובה</string>
     <string name="click_to_share">הקש כדי לשתף</string>
+    <string name="close_alarm">כיבוי</string>
     <string name="countdown_event_title">ספירה לאחור: %1$s</string>
     <string name="countdown_notify_before_3_day_title">ספירה לאחור: %1$s בעוד 3 ימים</string>
     <string name="countdown_notify_title">ספירה לאחור: %1$s</string>
@@ -266,6 +267,8 @@
     <string name="no_visiable_calendar_select_account">הוספת חשבון</string>
     <string name="no_visiable_calendar_title">הוספת חשבון</string>
     <string name="not_synced">לא סונכרן</string>
+    <string name="notification_channel_description" />
+    <string name="notification_channel_name">לוח תזכורות</string>
     <string name="panchang_amanta">אמנטה</string>
     <string name="panchang_amanta_month">חודש אמנטה:</string>
     <string name="panchang_ayana">איאנה</string>

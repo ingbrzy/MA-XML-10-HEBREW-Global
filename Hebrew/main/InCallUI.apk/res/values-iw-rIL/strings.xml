@@ -51,6 +51,7 @@
     <string name="onscreen_note_calls_text">הערה</string>
     <string name="call_record_wait_label">ממתין</string>
     <string name="contacts_icon_label">אנשי קשר</string>
+    <string name="call_not_support_high_frequency_click">אל תלחץ על כפתור זה בתדירות גבוהה מדי</string>
     <string name="conference_call_description" formatted="false">"%s,%s וכו' סה\"כ %s"</string>
     <string name="conference_call_single_description" formatted="false">"%s וכו' סה\"כ %s"</string>
     <string name="separate_from_conference">הפרד שיחה</string>

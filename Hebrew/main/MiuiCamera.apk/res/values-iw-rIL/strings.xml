@@ -217,6 +217,7 @@
     <string name="accessibility_shutter_button">לחצן הצילום</string>
     <string name="accessibility_intent_done_apply">בוצע</string>
     <string name="accessibility_intent_done_retry">נסה שוב</string>
+    <string name="accessibility_video_btn_play">הפעלת וידאו</string>
     <string name="accessibility_review_thumbnail">תמונה חדשה ביותר</string>
     <string name="accessibility_camera_picker">החלפת מצלמה קדמית ואחורית</string>
     <string name="accessibility_stereo_button">התאמת מיקוד</string>
@@ -250,6 +251,7 @@
     <string name="accessibility_beauty_panel_open">תפריט הייפוי פתוח</string>
     <string name="accessibility_back_preview_status">תצוגה מקדימה של המצלמה האחורית</string>
     <string name="accessibility_front_preview_status">תצוגה מקדימה של המצלמה הקדמית</string>
+    <string name="accessibility_pull_down_to_open_camera">החלק מטה בכדי לפתוח את המצלמה</string>
     <string name="accessibility_focus_status">%1$sX זום</string>
     <string name="accessibility_filter_pad_close">תפריט הסנן מוסתר</string>
     <string name="accessibility_camera_picker_finish">ההחלפה בין המצלמות בוצעה בהצלחה</string>
@@ -455,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">אפקט עומק</string>
     <string name="portrait_mode_use_hint">"מצב 'דיוקן' מעמעם את הרקע
  ומדגיש את האנשים בקידמה."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">נסה מצב דיוקן.nשמור את האובייקט חד, תוך טשטוש הרקע.</string>
     <string name="pref_camera_square_mode_title">מרובע</string>
     <string name="simple_mode_button_text_square">"כבה את 'מרובע'"</string>
@@ -470,6 +473,7 @@
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">מצבים</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>
@@ -586,7 +590,7 @@
     <string name="lighting_pattern_dot">נקודות</string>
     <string name="lighting_pattern_shutter">תריסים</string>
     <string name="view_privacy_policy">עיין במדיניות הפרטיות</string>
-    <string name="fps960_toast">Slow-motion capture will start at the last quarter of the recording</string>
+    <string name="fps960_toast">לכידה בהילוך איטי תחל ברבע האחרון של ההקלטה</string>
     <string name="portrait_bokeh_text">מצב דיוקן</string>
     <string name="portrait_bokeh_first_tips">"השתמש במצב דיוקן כדי לטשטש
  את הרקע בתמונות שלך"</string>
@@ -611,7 +615,7 @@
     <string name="beauty_body_body">צנום</string>
     <string name="beauty_body_shoulder">כתפיים</string>
     <string name="beauty_body_legged">רגליים</string>
-    <string name="beauty_body_reset_tip">הסרת את אפקט הגוף בהצלחה</string>
+    <string name="beauty_body_reset_tip">אפסת את אפקט גוף בהצלחה</string>
     <string name="ultra_wide_open_tip">מצב זווית רחבה</string>
     <string name="ultra_wide_close_tip">מצב זווית רחבה כבוי</string>
     <string name="pref_camera_zoom_mode_entry_ultra">זוית רחבה</string>
@@ -635,9 +639,9 @@
     <string name="accessibility_camera_ultra_wide_bokeh_off">מצב גוף מלא כבוי</string>
     <string name="ai_scene_top_moon_off">מצב תאורה חלשה</string>
     <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
-    <string name="ultra_pixel_photography_48mp_close_tip">48MP is off</string>
-    <string name="accessibility_ultra_pixel_photography_48mp_on">48MP is on</string>
-    <string name="accessibility_ultra_pixel_photography_48mp_off">48MP is off</string>
+    <string name="ultra_pixel_photography_48mp_close_tip">48MP כבוי</string>
+    <string name="accessibility_ultra_pixel_photography_48mp_on">48MP מופעל</string>
+    <string name="accessibility_ultra_pixel_photography_48mp_off">48MP כבוי</string>
     <string name="module_name_professional">מקצועי</string>
     <string name="live_edit_exit_message">האם להפסיק לצלם כעת?</string>
     <string name="live_edit_exit_confirm">עצור</string>
@@ -666,7 +670,8 @@
     <string name="beauty_body_slim_count_tip">אפקט גוף עובד רק בצילום אדם אחד</string>
     <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
     <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
-    <string name="ultra_pixel_photography_32mp_close_tip">32MP is off</string>
-    <string name="accessibility_ultra_pixel_photography_32mp_on">32MP is on</string>
-    <string name="accessibility_ultra_pixel_photography_32mp_off">32MP is off</string>
+    <string name="ultra_pixel_photography_32mp_close_tip">32MP כבוי</string>
+    <string name="accessibility_ultra_pixel_photography_32mp_on">32MP מופעל</string>
+    <string name="accessibility_ultra_pixel_photography_32mp_off">32MP כבוי</string>
+    <string name="zoom_no_support_tip_48M">שימוש באמצעות \"זום\" איננו פעיל במצב 48MP</string>
 </resources>

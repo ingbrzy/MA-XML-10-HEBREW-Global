@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">בכל פעם שמערכת MIUI תזהה שהינך ישן, היא תסגור את היישומים ברקע, תגביל את ה-Bluetooth ,GPS, הנתונים הסלולריים והשימוש ברשת האלחוטית ולא תאיר את המסך בעת קבלת התראות.</string>
     <string name="nonui_mode_config_title">"מצב 'לא אינטראקטיבי'"</string>
     <string name="nonui_mode_config_description">הימנע מהארת המסך עבור התראות, כבה את תאורת ה-LED, את חיישן טביעת האצבע ואת לחצני השליטה במגע על מנת לחסוך בשימוש בסוללה כאשר מערכת MIUI תזהה שאינך משתמש במכשירך.</string>
-    <string name="power_center">שימוש בסוללה</string>
+    <string name="power_center">חסכון בסוללה</string>
     <string name="power_usage">צריכת אנרגיה</string>
     <string name="power_mode">הגדרות אנרגיה</string>
     <string name="performance_category">ביצועים</string>
@@ -110,4 +110,8 @@
     <string name="extreme_add_white_list_summary">הוסף עד 4 אפליקציות</string>
     <string name="adaptive_battery_title">השתמש באפשרות סוללה מסתגלת</string>
     <string name="adaptive_battery_summary">הגבל את הסוללה עבור יישומים בהם אינך משתמש באופן תדיר</string>
+    <string name="dark_mode">מצב מוחשך</string>
+    <string name="dark_mode_summary">החלף לרקע מוחשך על מנת לחסוך בבטריה</string>
+    <string name="open_dark_mode">עבור למצב מוחשך</string>
+    <string name="open_dark_mode_tip">ייתכן שאיכות התמונה של תכונות מסוימות ירדו כאשר מצב מוחשך פעיל. הן יוחזרו לקדמותם כאשר תבטל את המצב המוחשך. האם להחליף למצב מוחשך כעת?</string>
 </resources>
