@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="activities_title">
+        <item>יום מיוחד</item>
+        <item>לזכור את היום הזה</item>
+        <item>רגעים מרהיבים</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>ילד</item>
         <item>ילדה</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>סופי השבוע שלי</item>
+        <item>פיסות חיים</item>
+        <item>זיכרונות סוף השבוע</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>העבר</item>
+        <item>העתק</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>ינואר</item>
@@ -26,6 +41,11 @@
         <item>סבא מצד האמא</item>
         <item>סבתא מצד האמא</item>
     </string-array>
+    <string-array name="parties_title">
+        <item>יחד</item>
+        <item>זמנים טובים</item>
+        <item>שם האלבום</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>אני</item>
         <item>ילד</item>
@@ -48,5 +68,9 @@
         <item>סבתא מצד האבא</item>
         <item>סבא מצד האמא</item>
         <item>סבתא מצד האמא</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>נע קדימה</item>
+        <item>מלא באנרגיה</item>
     </string-array>
 </resources>

@@ -171,8 +171,8 @@
     <plurals name="video_count">
         <item quantity="other">סרטונים</item>
         <item quantity="one">סרטון</item>
-        <item quantity="two">Videos</item>
-        <item quantity="many">Videos</item>
+        <item quantity="two">סרטונים</item>
+        <item quantity="many">סרטונים</item>
     </plurals>
     <plurals name="video_play_count">
         <item quantity="other">%1$s צפיות</item>

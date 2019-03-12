@@ -25,6 +25,7 @@
     <string name="add_to_last_of_playlist">הוסף לסוף רשימת ההשמעה</string>
     <string name="add_to_playlist_successful">נוסף בהצלחה</string>
     <string name="added_next_play">נוסף לתור ההשמעות</string>
+    <string name="agreement_desc">חשבון משתמש (חובה)</string>
     <string name="alaka_required">עליך לשלם עבור שיר זה על מנת להאזין לו</string>
     <string name="album_label">עטיפות אלבומים</string>
     <string name="album_name">אלבום</string>
@@ -36,6 +37,16 @@
     <string name="already_favorited">כבר נוסף למועדפים</string>
     <string name="always_use_metered">השתמש תמיד בנתונים סלולריים</string>
     <string name="app_label">הורדות</string>
+    <string name="app_permission_confirm">הבנתי</string>
+    <string name="app_permission_optional">הרשאות אופציונליות</string>
+    <string name="app_permission_require">הרשאות חובה</string>
+    <string name="app_permission_use_desc">הרשאות</string>
+    <string name="app_permission_use_group_account">חשבונות</string>
+    <string name="app_permission_use_group_account_desc">בעבור קבלת פרטים אודות חשבון Mi</string>
+    <string name="app_permission_use_group_phone">טלפון</string>
+    <string name="app_permission_use_group_phone_desc">עבור שירותי גוגל \"פוש\"</string>
+    <string name="app_permission_use_group_storage">אחסון</string>
+    <string name="app_permission_use_group_storage_desc">עבור מציאת והשמעת מוסיקה הנמצאת על מכשירך</string>
     <string name="artist">אמנים</string>
     <string name="artist_area_all">הכל</string>
     <string name="artist_area_china">סין</string>
@@ -84,6 +95,7 @@
     <string name="current_version">גרסה נוכחית</string>
     <string name="data_usage_warning">שימוש בנתונים</string>
     <string name="data_usage_warning_summary">שימוש בחיבור הנתונים הסלולרי שלך להזרמת מוסיקה באיכות גבוהה עשוי להגדיל את החיובים בגין צריכת הנתונים שלך.</string>
+    <string name="data_use_desc">מסמכים משפטיים</string>
     <string name="date_format_str">dd-MM-yyyy</string>
     <string name="delete">מחיקה</string>
     <string name="delete_download">מחק</string>
@@ -170,6 +182,7 @@
     <string name="download_method">הורדה</string>
     <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
     <string name="download_paused_in_power_save_mode">"ההורדות מופסקות בעת שימוש במצב 'חסכון בסוללה'"</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">מוריד…</string>
     <string name="download_quality">איכות הורדה</string>
     <string name="download_quality_summary">הגדרות נוספות עבור הורדות שירים</string>
@@ -279,7 +292,7 @@
     <string name="hungama_subscribe_positive_button">"רכישת 'חברות PRO'"</string>
     <string name="hungama_subscribe_title">חברות PRO</string>
     <string name="i_know">אישור</string>
-    <string name="impunity_declaration_content">עליך לקרוא ולהסכים ל&lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">הסכם המשתמש&lt;/a> ול&lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">מדיניות הפרטיות&lt;/a> שלנו לפני השימוש במוצר.</string>
+    <string name="impunity_declaration_content">עליך לקרוא ולהסכים ל&lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=iw_IL\">הסכם המשתמש&lt;/a> ול&lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=iw_IL\">מדיניות הפרטיות&lt;/a> שלנו לפני השימוש במוצר.</string>
     <string name="impunity_declaration_ignore">אל תציג שוב</string>
     <string name="impunity_declaration_negative_text">יציאה</string>
     <string name="impunity_declaration_positive_text">מסכים</string>
@@ -474,7 +487,9 @@
     <string name="preset_music_playlist">רשימת השמעה של Mi מוסיקה</string>
     <string name="priority_storage">השתמש בכרטיס זכרון חיצוני</string>
     <string name="priority_storage_summary">הורד באופן אוטומטי אל כרטיס הזכרון החיצוני במידה וזמין</string>
+    <string name="privacy_desc">מדיניות פרטיות</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=iw_IL</string>
     <string name="pro_member">מנוי PRO</string>
     <string name="project_device">טלפון Mi</string>
     <string name="prompt_grant_write_settings_permission">אפשר שינוי של הגדרות המערכת</string>
@@ -482,6 +497,7 @@
     <string name="pulluprefreshrecyclerview_loading_finished">נטען בהצלחה</string>
     <string name="pulluprefreshrecyclerview_loading_running">טוען…</string>
     <string name="queue_is_empty">תור ההשמעה ריק.</string>
+    <string name="ready_to_play">הבא</string>
     <string name="recently_played">נוגן לאחרונה</string>
     <string name="recently_played_songs">אחרונים</string>
     <string name="recommended_file_size_download_in_mobile">להשתמש ב- %s של נתונים סלולריים על מנת להוריד קובץ זה?</string>
@@ -624,6 +640,7 @@
     <string name="upgrade_music_message">העדכונים מוכנים. הפעל מחדש לעדכון.</string>
     <string name="upgrading_in_backstage">מעדכן ברקע</string>
     <string name="user_agreement">הסכם המשתמש</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=iw_IL</string>
     <string name="version_info">גרסה</string>
     <string name="video_play_cellular">מכשירך אינו מחובר ל-Wi-Fi. להשתמש בנתונים סלולריים?</string>
     <string name="video_replay_btn">נגן שוב</string>

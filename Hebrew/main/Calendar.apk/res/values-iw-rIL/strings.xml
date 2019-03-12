@@ -20,7 +20,7 @@
     <string name="add_anniversary">הוסף יום ציון שנתי</string>
     <string name="add_countdown">"הוסף 'ספירה לאחור'"</string>
     <string name="add_event">הוסף אירוע</string>
-    <string name="agenda_month_empty_hint">אין אירועים היום</string>
+    <string name="agenda_month_empty_hint">אין אירועים ביום זה</string>
     <string name="agenda_today">היום, %1$s</string>
     <string name="agenda_tomorrow">מחר, %1$s</string>
     <string name="agenda_view">אירועים</string>
@@ -70,6 +70,7 @@
     <string name="card_manager">ניהול הרשמות</string>
     <string name="card_manager_no_data">אין הרשמות עדיין</string>
     <string name="card_title_change">עוד</string>
+    <string name="cards_language_hint">כרטיסים מסוימים לא יהיו זמינים בשפה שנבחרה.</string>
     <string name="change_response_title">שינוי תגובה</string>
     <string name="click_to_share">הקש כדי לשתף</string>
     <string name="close_alarm">כיבוי</string>
@@ -102,6 +103,7 @@
     <string name="date_interval_text_to">עד ה: %1$s</string>
     <string name="date_jump_hint">עבור ישירות ליום מסויים</string>
     <string name="date_jump_title">עבור לתאריך</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (היום)"</string>
     <string name="day_view_new_event_hint">ארוע חדש</string>
     <string name="default_reminder_mode">תזכורות</string>
@@ -188,8 +190,19 @@
     <string name="global_action_text_card_manager">Customize your calendar</string>
     <string name="global_cricket_no_match">אין משחקי קריקט המתוכננים להיום. בדוק ימים אחרים.</string>
     <string name="global_football_final">גמר</string>
-    <string name="global_football_no_match">אין משחקי כדורגל היום.</string>
+    <string name="global_football_no_match">אין משחקי כדורגל המתוכננים להיום.</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="greetingcard_end_of_page">זה הכל להיום. הישארו מוכנים למחר.</string>
+    <string name="greetingcard_notification_desc">בדוק את המצב העדכני ביותר</string>
+    <string name="greetingcard_notification_title">הפיד היומי שלך מוכן!</string>
+    <string name="greetingcard_reminder_disabled_status">מצב WhatsApp יומי כבוי</string>
+    <string name="greetingcard_reminder_disabled_text">הפעל תזכורת</string>
+    <string name="greetingcard_reminder_enabled_status">מצב WhatsApp יומי זמין</string>
+    <string name="greetingcard_reminder_enabled_text">תזכורת פעילה</string>
+    <string name="greetingcard_reminder_pref_desc">קבל עדכונים ואיחולים אחרונים מדי יום</string>
+    <string name="greetingcard_reminder_pref_title">נא להודיע לי</string>
+    <string name="greetingcard_select_activity_label">ברכות לכולם</string>
+    <string name="greetingcard_view_all_text">הצג הכל</string>
     <string name="guide_card_close">סגירה</string>
     <string name="guide_card_import">ייבוא</string>
     <string name="guide_card_primary_fb_text">ימי הולדת של חברים בפייסבוק</string>
@@ -219,11 +232,13 @@
     <string name="install_email_finished">הותקן בהצלחה</string>
     <string name="installing_email">מתקין…</string>
     <string name="item_num_selected">%1$d נבחרו</string>
+    <string name="language_change_confirmation">שונה בהצלחה. באפשרותך לשנות את השפה בהגדרות לוח השנה.</string>
     <string name="load_more_hint">טען אירועים מ-%1$d</string>
     <string name="loading">רק רגע…</string>
     <string name="local_calendar_display_name">לוח שנה מקומי</string>
     <string name="local_owner_account_name">נשמר על גבי המכשיר</string>
     <string name="lunar_date">תאריך ירחי</string>
+    <string name="match_finished">לא ניתן להגדיר תזכורות עבור משחקים מתמשכים או משחקים בהם סיימת לשחק</string>
     <string name="match_select_activity_label">ליגות</string>
     <string name="menu_general_preferences">כללי</string>
     <string name="menu_preferences">הגדרות</string>
@@ -313,6 +328,7 @@
     <string name="pull_to_refresh_hint">משוך לטעינת אירועים מ-%1$d</string>
     <string name="refresh">רענון</string>
     <string name="refreshing_hint">רק רגע…</string>
+    <string name="remind_me">הזכר</string>
     <string name="repeat_activity_label">חזרה</string>
     <string name="repeat_custom_activity_label">מותאם אישית</string>
     <string name="repeat_custom_prompt">בכל%1$sב%2$s</string>
@@ -357,6 +373,7 @@
     <string name="setting_about_miui_version">גרסת MIUI:</string>
     <string name="setting_about_summary">גרסה:</string>
     <string name="setting_accounts">חשבונות לוח שנה</string>
+    <string name="setting_change_language">בחר שפת לוח שנה</string>
     <string name="setting_fb_birthdays_title">ייבא ימי הולדת מפייסבוק</string>
     <string name="setting_features_title">הגדרות תכונה</string>
     <string name="setting_holiday_display_desc">כרטיסי הברכה ממוקמים מתחת לסדר היום שלך בעמוד הבית</string>
@@ -429,6 +446,7 @@
     <string name="unsubscribe_card">ביטול הרשמה</string>
     <string name="unsubscribe_card_success">ביטול ההרשמה ל-\"%1$s\" בוצע בהצלחה</string>
     <string name="unsubscribing_card">ביטול מינוי</string>
+    <string name="use_system_language">השתמש בשפת המערכת</string>
     <string name="user_notice_button_exit">ביטול</string>
     <string name="user_notice_button_ok">אישור</string>
     <string name="user_notice_message">על ידי שימוש במוצר זה, אתה מסכים ל%1$s ול%2$sשל Xiaomi. תכונות מסוימות דורשות חיבור לאינטרנט, גישה למיקום, אנשי קשר ומסרונים על מנת לעבוד כראוי.</string>

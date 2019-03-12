@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>מותאם אישית</item>
-        <item>חיסכון בסוללה</item>
+        <item>"מצב 'חסכון בסוללה' של MIUI"</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>יישומים פעילים</item>
@@ -24,7 +24,7 @@
     <string-array name="thermal_summaries">
         <item>עדיפות לבקרת טמפרטורה</item>
         <item>עדיפות לביצועים</item>
-        <item>לא פעיל במצב אקסטרים</item>
+        <item>לא נתמך עבור חיסכון קיצוני בסלולה</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>ביצועים</item>

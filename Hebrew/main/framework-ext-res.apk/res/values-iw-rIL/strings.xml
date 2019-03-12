@@ -175,6 +175,12 @@
     <string name="wifi_assistant_wifi_no_internet">אין ברשת אלחוטית זו גישה לאינטרנט</string>
     <string name="wifi_assistant_wifi_no_internet_detail">הקש לצפייה בפרטים</string>
     <string name="resolver_app_recommend_flag">המלץ</string>
+    <string name="resolver_checkbox_once">פעם אחת</string>
+    <string name="resolver_checkbox_always">תמיד</string>
+    <string name="resolver_mi_browser">דפדפן Mi</string>
+    <string name="resolver_recommend_options_tag">אפשרויות מומלצות</string>
+    <string name="resolver_offical_recommend">רשמי</string>
+    <string name="resolver_other_method">אפשרויות נוספות</string>
     <string name="voice_button_action_up">לחץ כדי לדבר</string>
     <string name="voice_button_action_down">שחרר כדי לחפש</string>
     <string name="voice_begin">מה אתה מחפש?</string>

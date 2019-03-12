@@ -30,6 +30,9 @@
     <string name="other_settings_auto_update_summary">מערכת MIUI תבחר את הרגע המתאים ביותר להתקנת העדכונים</string>
     <string name="other_settings_ad_enable">המלצות מותאמות אישית עבור פרסומות</string>
     <string name="other_settings_ad_enable_summary">קבל פרסומות מותאמות אישית על סמך נתוני ההתנהגות שלך</string>
+    <string name="other_settings_enhanced_lockscreen">טפט קרוסלה</string>
+    <string name="other_settings_enhanced_lockscreen_summary">קבל תמונות מובילות וסיפורים ישירות למסך הנעילה שלך באופן יום יומי. הפעל את תנאי השימוש.</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">תנאי השימוש</string>
     <string name="back">הקודם</string>
     <string name="next">הבא</string>
     <string name="skip_underline">דלג על שלב זה</string>
@@ -52,6 +55,7 @@
     <string name="terms_of_use_lable_gms">, שירותי Google Play</string>
     <string name="terms_of_use_label_systemhelper">, שירות רישום עצמי</string>
     <string name="terms_of_use_lable_smart_cards">, כרטיסים חכמים</string>
+    <string name="terms_of_use_lable_vsimcore">, MConnService</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 עליך להסכים למדיניות הפרטיות של Facemoji לפני שתוכל להשתמש בתכונה זו."</string>
@@ -105,13 +109,14 @@
 . כאשר המסך פועל. 
  כאשר אתה מאזין למוזיקה והמסך כבוי."</string>
     <string name="voice_assist_advice">MI AI מאפשר לך להשתמש בפקודות קוליות, אבל שימוש באפשרות זו תגרור צריכה מוגברת של בטריה (+1% בכל שעה).</string>
-    <string name="ai_button_title">אודות כפתור AI</string>
-    <string name="ai_button_desc">השתמש בכפתור זה כדי להפעיל את MI AI וכדי להשלים משימות במכשיר תוך שימוש בקולך</string>
+    <string name="ai_button_title">כפתור AI</string>
+    <string name="ai_button_desc">קבל גישה מהירה אל העוזר הקולי החכם</string>
     <string name="ai_button_long_press">לחץ והחזק</string>
-    <string name="ai_button_long_press_desc">אמור את פקודתך ושחרר את הכפתור</string>
+    <string name="ai_button_long_press_desc">לחץ והחזק את כפתור AI על מנת לדבר עם Mi AI</string>
     <string name="ai_button_single_press">לחץ</string>
-    <string name="ai_button_single_press_desc">הפעלת Mi AI</string>
+    <string name="ai_button_single_press_desc">לחץ על כפתור AI על מנת לצפות בקיצורי דרך Mi AI</string>
     <string name="ai_button_double_press">לחיצה כפולה</string>
-    <string name="ai_button_double_press_desc">הגדר את אפשרויות M AI</string>
-    <string name="zone_picker_title">Choose time zone</string>
+    <string name="ai_button_double_press_desc">לחץ לחיצה כפולה על כפתור AI על מנת לסיים משימות מותאמות אישית</string>
+    <string name="zone_picker_title">בחר אזור זמן</string>
+    <string name="locale_picker_other_locale_title">אזורים נוספים</string>
 </resources>

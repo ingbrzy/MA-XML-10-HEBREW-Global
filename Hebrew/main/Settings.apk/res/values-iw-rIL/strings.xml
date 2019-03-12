@@ -96,12 +96,22 @@
     <string name="anti_spam">רשימת החסומים</string>
     <string name="aod_close_color_inversion">תכונה זו אינה יכולה להיות משולבת עם היפוך צבע. ראשית, כבה את היפוך צבע.</string>
     <string name="aod_got_it">הבנתי</string>
-    <string name="aod_mode_summary">הצג תמיד את השעה, התאריך וההודעות כשהמסך כבוי</string>
-    <string name="aod_mode_time_summary">הגדר זמן שבו המכשיר שלך יעבור למצב \"תמיד מופעל\"</string>
+    <string name="aod_lock_screen_date">EEEE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="aod_mode_bg">רקע</string>
+    <string name="aod_mode_clock">שעון</string>
+    <string name="aod_mode_style">סגנון זמן ורקע</string>
+    <string name="aod_mode_summary">הצג תמיד שעה, תאריך והודעות כאשר המסך כבוי</string>
+    <string name="aod_mode_time_summary">תזמן את ההפעלה והכיבוי של מצב \"מופעל תמיד\"</string>
     <string name="aod_mode_time_title">תזמון</string>
-    <string name="aod_mode_title">תמיד במצב</string>
+    <string name="aod_mode_title">תמיד במצב פועל</string>
     <string name="aod_mode_turn_off">כבוי</string>
     <string name="aod_mode_turn_on">מופעל</string>
+    <string name="aod_sample_date">שלישי 10 למאי</string>
+    <string name="aod_sample_hour">2</string>
+    <string name="aod_sample_hour_vertical">02</string>
+    <string name="aod_sample_minute">38</string>
+    <string name="aod_sample_time">2:38</string>
     <string name="aod_to_close">כיבוי</string>
     <string name="apn_general">כללי</string>
     <string name="apn_mms">הודעת מולטימדיה (MMS)</string>
@@ -293,6 +303,9 @@
     <string name="bluetooth_profile_sap">משמש עבור גישה ל-SIM</string>
     <string name="bluetooth_sap_profile_summary_connected">מחובר ל-SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">השתמש עבור גישה ל-SIM</string>
+    <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">מצב שמע Bluetooth audio aptX adaptive</string>
+    <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"טריגר Bluetooth שמע
+ApatX–Adaptive: מצב קודק"</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">ביטים של שמע Bluetooth עבור כל דגימה</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"בחירת מקודד שמע Bluetooth:
 ביטים לדגימה"</string>
@@ -377,6 +390,7 @@
     <string name="bootloader_summary">צרוב את מכשירך באמצעות USB</string>
     <string name="bootloader_tips">לאחר שהוספת את חשבון Mi, אל תצא ממנו, בצע שחזור יצרן או ניקוי נתוני יישומים. אם תבצע את אחת מהפעולות הרשומות לעיל, הוסף את חשבונך שוב אם לא תבצע זאת לא תוכל לפתוח את נעילת המכשיר.</string>
     <string name="bootloader_tips_ok">הבנתי</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">צבע הנורית</string>
     <string name="breathing_light_color_summary">צבע הנורית בעת קבלת התראה חדשה</string>
     <string name="breathing_light_freq_summary">הבהב בקבלת התראות חדשות</string>
@@ -419,12 +433,6 @@
     <string name="byteShort">B</string>
     <string name="calendar_sound_dialog_title">בחר צליל לוח שנה</string>
     <string name="calendar_sound_title">צליל לוח שנה</string>
-    <string name="call_records_name_1">דבי סמית</string>
-    <string name="call_records_name_2">"ג'יסון לי"</string>
-    <string name="call_records_name_3">טום פאולס</string>
-    <string name="call_records_summary_1">9:35 | 26 שניות | China Unicom</string>
-    <string name="call_records_summary_2">"אוגוסוט 16 | 1 דק' 16ש' | China Mobile"</string>
-    <string name="call_records_summary_3">"אוגוסוט 16| 2דק' 24ש' | China Unicom"</string>
     <string name="call_settings_primary_user_only">"שנה את הגדרות השיחות ב'שטח ראשון'"</string>
     <string name="camera_front">קדמי %s</string>
     <string name="camera_key_action_app_title">פתיחת יישום</string>
@@ -535,7 +543,7 @@
     <string name="daltonizer_mode_tritanomaly">טריטנומליה (כחול-צהוב)</string>
     <string name="daltonizer_type_overridden">נעקף על ידי %1$s</string>
     <string name="dangerous_option">סיכון גבוה אפשרויות מפתח</string>
-    <string name="dangerous_option_hint">%1$s מופעל. לחץ בכדי לשנות הגדרות.</string>
+    <string name="dangerous_option_hint">\"%1$s מופעל. הקש בכדי לשנות הגדרות.</string>
     <string name="dangerous_option_hint_title">תכונת סיכון-גבוה הופעלה</string>
     <string name="dangerous_option_switch_title">התרע אודות תכונות סיכון-גבוה</string>
     <string name="data_usage_disable_wifi_limit">הגדר מגבלת נתונים לחיבור רשת אלחוטית</string>
@@ -588,6 +596,7 @@
     <string name="detail_app_button">פרטי היישום</string>
     <string name="dev_logpersist_clear_warning_message">כאשר אנו לא מנטרים יותר באמצעות הלוגר המתמיד, אנו נדרשים למחוק את נתוני הלוגר היושבים במכשירך.</string>
     <string name="dev_logpersist_clear_warning_title">לנקות את אחסון הלוגר המתמיד?</string>
+    <string name="dev_settings_disabled_warning">ראשית, אפשר אפשרויות מפתח</string>
     <string name="dev_settings_warning_message">תכונות אלה מיועדות למפתחים בלבד. במידה ותאפשר תכונות אלה, מכשירך והיישומים שבו עשויים להתנהג שלא כראוי או לגרום לשגיאות.</string>
     <string name="dev_settings_warning_title">לאפשר את הגדרות הפיתוח?</string>
     <string name="developer_build">בטא</string>
@@ -642,6 +651,7 @@
     <string name="dialog_title_hdmi_color_calibration">תיקון צבע קבוע מראש</string>
     <string name="dialog_title_login">היכנס לחשבון Mi שלך</string>
     <string name="dialog_yes">כן</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">הערה: לא תוכל להשתמש ביישום זה רק במידה ותבטל את נעילת מכשירך</string>
     <string name="disable_overlays">השבת שכבת על של HW</string>
     <string name="disable_overlays_summary">השתמש תמיד ב-GPU עבור צלימת שכבות המסך</string>
@@ -668,6 +678,7 @@
     <string name="dndm_auto_button_title">"חזרה על תזמון מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_setting_group">מתוזמן</string>
     <string name="dndm_auto_time_setting">הגדר שעה</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">עד</string>
     <string name="dndm_auto_time_turn_off_title">"כבה אוטומטית את מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_time_turn_on">מ:</string>
@@ -885,9 +896,9 @@
     <string name="foreground_traffic">חזית %s</string>
     <string name="forget_password_button_text"><u>שכחתי את הסיסמה</u></string>
     <string name="forget_password_dialog_button_text">הקודם</string>
-    <string name="forget_password_dialog_content_four"><Data>2. בחר באפשרות &lt;font color=#e6e6e6>[מחק נתונים]&lt;/font>, והמתן לאתחול המכשיר.</Data></string>
-    <string name="forget_password_dialog_content_one"><Data>"אם תשכח את הסיסמה, לא תוכל לשחזר אותה. עם זאת, ניתן לאפס את סיסמתך אחרי &lt;font color=#ec2700>מחיקה של כל הנתונים במכשירך&lt;/font> (כולל התמונות, אנשי הקשר וכד'). לפני כן עליך לגבות את כל הנתונים החשובים."</Data></string>
-    <string name="forget_password_dialog_content_three"><Data>"1. כבה את מכשירך. לחץ על הכפתור &lt;font color=#e6e6e6>[Power]&lt;/font> ועל כפתור &lt;font color=#e6e6e6>[העלאת עוצמת הקול]&lt;/font> בו-זמנית, והמשך ללחוץ עליהם עד שתראה את הצלמית &lt;img src=''> icon."</Data></string>
+    <string name="forget_password_dialog_content_four">&lt;Data>2. בחר באפשרות &lt;font color=#e6e6e6>[מחק נתונים]&lt;/font>, והמתן לאתחול המכשיר.&lt;/Data></string>
+    <string name="forget_password_dialog_content_one">"&lt;Data>אם תשכח את הסיסמה, לא תוכל לשחזר אותה. עם זאת, ניתן לאפס את סיסמתך אחרי &lt;font color=#ec2700>מחיקה של כל הנתונים במכשירך&lt;/font> (כולל התמונות, אנשי הקשר וכד'). לפני כן עליך לגבות את כל הנתונים החשובים.&lt;/Data>"</string>
+    <string name="forget_password_dialog_content_three">"&lt;Data>1. כבה את מכשירך. לחץ על הכפתור &lt;font color=#e6e6e6>[Power]&lt;/font> ועל כפתור &lt;font color=#e6e6e6>[העלאת עוצמת הקול]&lt;/font> בו-זמנית, והמשך ללחוץ עליהם עד שתראה את הצלמית &lt;img src=''> icon.&lt;/Data>"</string>
     <string name="forget_password_dialog_content_two">בצע את הצעדים הבאים כדי למחוק את הנתונים:</string>
     <string name="forget_password_dialog_title">אפס את הסיסמה שלך</string>
     <string name="forget_pattern"><u>שכחת את התבנית?</u></string>
@@ -999,6 +1010,7 @@
     <string name="inactive_app_active_summary">פעיל. לחץ להפעלה/כיבוי.</string>
     <string name="inactive_app_inactive_summary">לא פעיל. לחץ להפעלה/כיבוי.</string>
     <string name="inactive_apps_title">יישומים שאינם פעילים</string>
+    <string name="incall_show">פרופיל וידאו עבור שיחות יוצאות</string>
     <string name="incoming_call_breathing_light_color_title">צבע נורית השיחה</string>
     <string name="incoming_call_breathing_light_freq_title">תדירות הבהוב עבור שיחות</string>
     <string name="infinity_display_settings">תצוגה מלאה</string>
@@ -1068,7 +1080,6 @@
     <string name="launch_google_search">הפעלת סייע Google</string>
     <string name="launch_recents">נפתחו לאחרונה</string>
     <string name="launch_voice_assistant">"הפעלת 'סייע קולי'"</string>
-    <string name="launcher_icon">אייקונים</string>
     <string name="launcher_title">מסך הבית &amp; אחרונים</string>
     <string name="launching_cit">מפעיל את CIT</string>
     <string name="launching_pho">פותח את פרטי הטלפון…</string>
@@ -1169,6 +1180,7 @@
     <string name="lockpassword_confirm_your_lock_password_header">אשר את הסיסמה</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">אשר את התבנית</string>
     <string name="lockpassword_confirm_your_password_generic">הזן את סיסמת המכשיר שלך כדי להמשיך.</string>
+    <string name="lockpassword_confirm_your_password_generic_profile">הזן את סיסמת העבודה על מנת להמשיך</string>
     <string name="lockpassword_confirm_your_password_header">אשר את הסיסמה שלך</string>
     <string name="lockpassword_confirm_your_pattern_generic">השתמש בתבנית המכשיר שלך כדי להמשיך.</string>
     <string name="lockpassword_confirm_your_pattern_header">אשר את התבנית שלך</string>
@@ -1365,10 +1377,11 @@
     <string name="mock_location_app_set">יישום מדמה מיקום: %1$s</string>
     <string name="mode_disable">כיבוי</string>
     <string name="mode_enable">מופעל</string>
-    <string name="model_name">שם דגם</string>
-    <string name="model_number">מספר דגם</string>
+    <string name="model_name">דגם</string>
+    <string name="model_number">סוג המכשיר</string>
     <string name="modify_instruction_password_settings">הגדר סיסמה</string>
     <string name="modify_privacy_password">שינוי הסיסמה</string>
+    <string name="more_dangerous_option_hint">תכונות בעלי סיכון גבוה כוללים \"%1$s מופעלים.לחץ על מנת לשנות את ההגדרות.</string>
     <string name="mqs_privacy_automatically_upload">העלה באופן אוטומטי בפעם הבאה</string>
     <string name="mqs_privacy_dialog_cancel">ביטול</string>
     <string name="mqs_privacy_dialog_confirm">העלאה</string>
@@ -1603,8 +1616,6 @@
     <string name="page_layout_31">Jack Tang</string>
     <string name="page_layout_32">חנות Play</string>
     <string name="page_layout_33">Google</string>
-    <string name="page_layout_34">טלפון</string>
-    <string name="page_layout_35">פתקים</string>
     <string name="page_layout_4">מוסיקה</string>
     <string name="page_layout_5">וידאו</string>
     <string name="page_layout_6">יישומים</string>
@@ -1612,11 +1623,7 @@
     <string name="page_layout_8">Mi Life</string>
     <string name="page_layout_9">ערכות נושא</string>
     <string name="page_layout_confirm_message">על המכשיר לבצע אתחול על מנת להחיל שינויים אלה. זה לוקח בערך דקה.</string>
-    <string name="page_layout_confirm_message_enlarge">טקסט, תמונה, ואייקונים יוגדלו. ייתכן שאייקונים מסוימים יזוזו ממקומם.</string>
-    <string name="page_layout_confirm_message_narrow">טקסט, תמונה, ואייקונים יוקטנו. ייתכן שאייקונים מסוימים יזוזו ממקומם.</string>
     <string name="page_layout_confirm_title">שנה את הגדרות התצוגה</string>
-    <string name="page_layout_confirm_title_enlarge">פריטים גדולים</string>
-    <string name="page_layout_confirm_title_narrow">פריטים קטנים</string>
     <string name="page_layout_godzilla_title">XXL</string>
     <string name="page_layout_huge_title">XL</string>
     <string name="page_layout_large_title">L</string>
@@ -1678,7 +1685,7 @@
     <string name="popup_window">הגבל התראות צפות</string>
     <string name="power_autorun_apps_empty">ריק</string>
     <string name="power_autorun_empty">ריק</string>
-    <string name="power_center">אנרגיה</string>
+    <string name="power_center">אופטימיזציית (ייעול) סוללה</string>
     <string name="power_checker">בודק האנרגיה</string>
     <string name="power_hide_mode_summary">חסכון בסוללה על ידי הגבלת יישומים המופעלים ברקע, חיבור לרשתות אלחוטיות וסלולריות, ושימוש ב-GPS</string>
     <string name="power_hide_mode_title">נהל את צריכת הסוללה של יישומים</string>
@@ -1690,7 +1697,7 @@
     <string name="power_key_how_start_detail">לחץ והחזק את כפתור ההפעלה למשך חצי שניה. שחרר ודבר.</string>
     <string name="power_key_start_enjoy">למד עוד אודות סייע גוגל</string>
     <string name="power_key_start_guide">הער את מסייע גוגל תוך שימוש בכפתור הפעלה במכשיר עם תצוגה מלאה</string>
-    <string name="power_mgr">סוללה</string>
+    <string name="power_mgr">אופטימיזציית (ייעול) סוללה</string>
     <string name="power_mode">הגדרות אנרגיה</string>
     <string name="power_mode_balanced_title">איזון אנרגיה</string>
     <string name="power_optimize">חסכון בסוללה</string>
@@ -1742,7 +1749,7 @@
     <string name="privacy_authorize_cloud_msg">על מנת להבטיח את אבטחת החשבון שלך, היכנס אל i.mi.com במידה וברצונך לשלול את ההרשאה משירותי Mi Cloud (כולל גיבויים וסנכרון).</string>
     <string name="privacy_authorize_dialog_agree">מסכים</string>
     <string name="privacy_authorize_dialog_exit">יציאה</string>
-    <string name="privacy_authorize_dialog_message"><Data>על מנת שתוכל להשתמש בתכונות הבסיסיות של שירות זה, עליך להסכים לכך ש-Xiaomi תאסוף, תעבד ותשתמש בנתונים האישיים שלך. קרא את מדיניות הפרטיות שלנו על מנת לללמוד כיצד אנו אוספים ומעבדים נתונים אישיים. בחירה ב\"מסכים\" משמעותה שקראת והינך מסכים ל&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">מדיניות הפרטיות&lt;/a> ול&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">הסכם המשתמש.&lt;/a> שלנו.</Data></string>
+    <string name="privacy_authorize_dialog_message">&lt;Data>על מנת שתוכל להשתמש בתכונות הבסיסיות של שירות זה, עליך להסכים לכך ש-Xiaomi תאסוף, תעבד ותשתמש בנתונים האישיים שלך. קרא את מדיניות הפרטיות שלנו על מנת לללמוד כיצד אנו אוספים ומעבדים נתונים אישיים. בחירה ב\"מסכים\" משמעותה שקראת והינך מסכים ל&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">מדיניות הפרטיות&lt;/a> ול&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">הסכם המשתמש.&lt;/a> שלנו.&lt;/Data></string>
     <string name="privacy_authorize_network_error">התחבר לרשת ונסה שוב.</string>
     <string name="privacy_authorize_privacy_policy">מדיניות הפרטיות</string>
     <string name="privacy_authorize_revoke">שלילה</string>
@@ -1815,6 +1822,7 @@
     <string name="private_sms_need_to_unlock">דרושה סיסמה:</string>
     <string name="private_sms_recording_intro_header">צייר תבנית לפתיחה:</string>
     <string name="private_sms_reset_by_account">על מנת לאפס את סיסמתך, היכנס לחשבון Mi שלך</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">פעיל</string>
     <string name="provision_back">הקודם</string>
     <string name="provision_next">הבא</string>
@@ -2157,6 +2165,7 @@
     <string name="security_encryption_attention_3">יהיה עליך להגדיר סיסמה חדשה עבור מסך הנעילה.</string>
     <string name="security_encryption_attention_4">הקפד לזכור את סיסמת מסך הנעילה שלך, אחרת יהיה עליך לבצע איפוס מלא ולמחוק את כל הנתונים במכשיר זה.</string>
     <string name="security_encryption_attention_info">באפשרותך להצפין חשבונות, הגדרות, יישומים שהורדו ונתונים שלהם, מדיה וקבצים אחרים.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">חשוב</string>
     <string name="security_encryption_close_dialog_info">בחירה שלא להצפין את המכשיר באמצעות סיסמת מסך הנעילה עשויה לגרום לשירותי Google מסויימים להיות לא זמינים.</string>
     <string name="security_encryption_close_dialog_title">חזור אל הגנה באמצעות סיסמה כברירת מחדל</string>
@@ -2195,6 +2204,7 @@
     <string name="settings_ad_loading_unavailable">לא ניתן היה לטעון את המידע.</string>
     <string name="settings_forbidden_message">הגדרה זו מוגבלת</string>
     <string name="settings_notify_need_backup">גבה את ההגדרות שלך אל Mi Cloud על מנת שתוכל לגשת אליהן לאחר שתחליף טלפון.</string>
+    <string name="settings_notify_new_version">ישנו עדכון זמין. לחץ על מנת לצפות בפרטים.</string>
     <string name="settings_notify_phone_recycled">מספר הטלפון שלך מוחזר. לחץ להוספת מספר טלפון אחר.</string>
     <string name="settings_toggle_position_divider_list">המתגים מעל השורה הם מתגים פעילים</string>
     <string name="setup_choose_unlock_fingerprint_msg">הגדר מסך נעילה לפני הוספת טביעת אצבע.</string>
@@ -2260,6 +2270,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">"התראות, לחצני בקרת נגן המוסיקה וקיצורי דרך לא יוצגו ב'מסך הנעילה'."</string>
     <string name="skip_step">דלג</string>
@@ -2310,6 +2321,7 @@
     <string name="status_bar_settings_all_app_display_loading">רק רגע…</string>
     <string name="status_bar_settings_app_notification_preferences">הגדרות יישומים</string>
     <string name="status_bar_settings_basic_settings">הגדרות בסיסיות</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">ערוך שם ספק רשת</string>
     <string name="status_bar_settings_custom_wifi_name">ערוך שם רשת אלחוטית</string>
     <string name="status_bar_settings_customer_feedback">משוב</string>
@@ -2380,7 +2392,6 @@
     <string name="structure_manage_facerecoginition_text">ניהול נתוני פנים תלת ממדיים</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">יישומים אלה עובדים בצורה הטובה ביותר במצב מסך מלא</string>
     <string name="suggestion_for_phone_recycled">הוסף מספר טלפון שונה</string>
-    <string name="summary_font_size_v2">התאם גודל עבור טקסט, תמונות, ואייקונים</string>
     <string name="super_resolution_access_title">אפליקציות נגישות</string>
     <string name="super_resolution_desc">הופכת את התמונות לחדות יותר באמצעות אלגוריתם בינה מלאכותית</string>
     <string name="super_resolution_maintain">רזולוציית-על עדיין לא זמינה.</string>
@@ -2446,12 +2457,10 @@
     <string name="title_font2">גופן</string>
     <string name="title_font_current">גופן המערכת</string>
     <string name="title_font_current2">גופן המערכת</string>
-    <string name="title_font_v2">טקסט&amp; אלמנטים של ממשק משתמש</string>
     <string name="title_hdmi_color_calibration">תיקון צבע קבוע מראש</string>
     <string name="title_jeejen">"'מסך הבית' של Jeejen"</string>
     <string name="title_layout_current">גודל הטקסט</string>
     <string name="title_layout_current2">גודל הטקסט</string>
-    <string name="title_layout_v2">גודל טקסט&amp; קנה מידה</string>
     <string name="to_close">כיבוי</string>
     <string name="toast_lockscreen_glogin_empty_password">הזן סיסמה</string>
     <string name="toast_need_login">היכנס לחשבון Mi שלך</string>
@@ -2831,9 +2840,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -2947,7 +2958,6 @@
     <string name="wireless_connected">מחובר</string>
     <string name="wireless_off">כבוי</string>
     <string name="wireless_on">מופעל</string>
-    <string name="words_title">מלל</string>
     <string name="work_sound_permission_dialog_button_text_known">הבנתי</string>
     <string name="work_sound_permission_dialog_message">לא תוכל להשתמש בערכות נושא במצב אנטרפרייז. צור קשר עם המנהל שלך בכדי לקבל גישה.</string>
     <string name="work_sound_permission_dialog_title">הגבלות מצב אנטרפרייז</string>

@@ -44,6 +44,10 @@
     <string name="audio_message_mx_offline">לא ניתן היה להוריד את קובץ השמע. הודעות Mi נמצא במצב לא מקוון או שאינו זמין.</string>
     <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">אין חיבור אינטרנט או שהותקן כרטיס SIM שגוי. התקן את כרטיס ה-SIM ממנו נשלחה ההודעה והתחבר לרשת.</string>
+    <string name="auto_identify_btn_text_only_smart_messaging">הפעל הודעות חכמות</string>
+    <string name="auto_identify_btn_text_when_all_disabled">זהה את מזהה השולח באופן אוטומטי</string>
+    <string name="auto_identify_btn_title">הודעה זו נשלחה ממספר לא מזוהה.</string>
+    <string name="auto_identify_confirmation">ייתכן שיידרשו מספר דקות כדי להפעיל תכונה זו.</string>
     <string name="back_to_message_list">חזור אל רשימת ההודעות</string>
     <string name="batch_adding_progress_message">מוסיף…</string>
     <string name="batch_deleting_message_progress_message">מוחק…</string>
@@ -185,7 +189,7 @@
     <string name="duration_zero">על משך הצגת השקופית להיות גדול מ-0 שניות</string>
     <string name="earlier">מוקדם יותר</string>
     <string name="edit">עריכה</string>
-    <string name="edit_phrase">ערוך תגובות מהירות</string>
+    <string name="edit_phrase">ערוך תגובות מהירה</string>
     <string name="edit_slide_activity">עריכת שקופית</string>
     <string name="edit_slideshow_activity">עריכת מצגת</string>
     <string name="enabled">מופעל</string>
@@ -219,6 +223,7 @@
     <string name="file_size">גודל:</string>
     <string name="file_title">שם:</string>
     <string name="file_width_height">גודל:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">הודעה חדשה</string>
     <string name="forward_from">העבר מ:</string>
     <string name="forward_message_select_title">העבר הודעה</string>
@@ -289,6 +294,7 @@
     <string name="menu_pick_from_contact">בחר מתוך אנשי קשר</string>
     <string name="menu_preferences">הגדרות</string>
     <string name="menu_send_as_common">שלח כמסרון SMS</string>
+    <string name="menu_traffic_destination">יעד</string>
     <string name="menu_unlock">הסר מהמועדפים</string>
     <string name="menu_view_contact">צפיה באיש קשר</string>
     <string name="message_class_label">"קיטלוג הודעה: "</string>
@@ -387,6 +393,7 @@
     <string name="mx_stranger_recommend_msg">לחץ לחסימת הודעות Mi ממספרים לא מוכרים</string>
     <string name="mx_type_guide">שלח הודעות למכשירי MIUI אחרים בחינם</string>
     <string name="need_download">מסנכרן…</string>
+    <string name="net_sms_subscribed">ההרשמה בוטלה בהצלחה</string>
     <string name="net_sms_unsubscribe">ההרשמה בוטלה בהצלחה</string>
     <string name="network_error_description">אירעה שגיאה. המתן דקה או שתיים ונסה שוב.</string>
     <string name="networking_allow_continue">אפשר</string>
@@ -421,13 +428,14 @@
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">הודעות חדשות</string>
     <string name="number_add_hint">הזן מספר טלפון</string>
+    <string name="number_recognition_partner">ספקי שירות זיהוי של מזהה שולח</string>
     <string name="open_audio_record_panel">פתח את לוח הקלטת השמע</string>
     <string name="open_edit_sms_panel">פתח את לוח עריכת ההודעות</string>
     <string name="open_url_with_web">לפתוח כתובת אתר זו בדפדפן?</string>
     <string name="over_max_mms_size">הודעת המולטימדיה גדולה מידי.</string>
     <string name="overwrite_edited_content">התוכן שערכת יכתב מחדש.</string>
     <string name="packages_select_sim_cards_title">בחירת כרטיס SIM</string>
-    <string name="phrase_confirm_delete_message">תגובה זו תימחק.</string>
+    <string name="phrase_confirm_delete_message">תגובה זו תמחק.</string>
     <string name="phrase_empty">אין תגובות</string>
     <string name="phrase_from">מ-%1s</string>
     <string name="phrase_list_title">תגובות מהירות</string>
@@ -660,6 +668,7 @@
     <string name="send_signature_confirm_dialog_title">שלח הודעה</string>
     <string name="send_sms">שלח הודעה</string>
     <string name="send_to">אל:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">נשלח ב: %1s</string>
     <string name="sent_label">"נשלח: "</string>
     <string name="service_message_not_found">תוקף ההודעה פג או שאינה זמין</string>
@@ -731,7 +740,7 @@
     <string name="storage_unavailable">אין שטח פנוי</string>
     <string name="subject_hint">נושא</string>
     <string name="subject_label">"נושא: "</string>
-    <string name="subscribe">Subscribe</string>
+    <string name="subscribe">הרשמה</string>
     <string name="summary_pref_cm_smart_sms">תבניות כרטיס, מספרי שירות SMS ועוד.</string>
     <string name="switch_to_editor">מצב עריכה</string>
     <string name="switch_to_menu">מצב תפריט</string>
@@ -758,6 +767,7 @@
     <string name="too_many_attachments">לא ניתן לחרוג מ- %1$s פריטים מצורפים. %2$s הפריטים הראשונים בלבד יצורפו.</string>
     <string name="too_many_recipients">נמענים רבים מדי צוינו בהודעה (%1$s). הודעה לא יכולה להכיל יותר מ- %2$s נמענים.</string>
     <string name="too_many_unsent_mms">לא ניתן לשלוח את ההודעה כעת. יותר מידי הודעות מולטימדיה שלא נשלחו.</string>
+    <string name="train_edit_destination">הוסף</string>
     <string name="try_to_send">נסה לשלוח</string>
     <string name="type_attachment">קובץ מצורף</string>
     <string name="type_audio">שמע</string>

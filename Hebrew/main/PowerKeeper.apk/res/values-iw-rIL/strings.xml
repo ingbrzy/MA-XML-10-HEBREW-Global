@@ -4,16 +4,16 @@
     <string name="error_filename_too_long">שם הקובץ שהזנת ארוך מידי.</string>
     <string name="power_config_select_apps_title">יישומים</string>
     <string name="power_config_event_delete">מחיקה</string>
-    <string name="hide_mode_desc"><font color="#000000">כאשר אפליקציה פועלת ברקע, הפעילות שלה תנוטר כדי לצמצם את צריכת הסוללה. הפונקציה הזו תקבל נתוני משתמש ותשתמש בהם על-פי %s</font></string>
+    <string name="hide_mode_desc">כאשר אפליקציה פועלת ברקע, הפעילות שלה תנוטר כדי לצמצם את צריכת הסוללה. הפונקציה הזו תקבל נתוני משתמש ותשתמש בהם על-פי %s</string>
     <string name="privacy">מדיניות הפרטיות</string>
     <string name="power_hide_mode_title">סוללה &amp; ביצועים</string>
-    <string name="power_config_apps">חסכון בסוללה</string>
+    <string name="power_config_apps">חסכון בניצול סוללה על ידי יישומים</string>
     <string name="app_list_title">בחר יישומים</string>
     <string name="power_hide_mode_app_list_summary">חוסך בצריכת סוללה בפעולות ברקע</string>
     <string name="about_hide_mode">"אודות מצב 'חסכון בסוללה'"</string>
     <string name="show_system_app">הצג יישומי מערכת</string>
     <string name="hide_system_app">הסתר יישומי מערכת</string>
-    <string name="about_extreme_mode">מצב קיצוני</string>
+    <string name="about_extreme_mode">מצב חיסכון קיצוני בסוללה</string>
     <string name="scenario_policies_title">תרחישים חכמים</string>
     <string name="config_scenario_policies_title">תרחישים</string>
     <string name="scenario_policies_summary">החלת אסטרטגיות שונות לחכסון באנרגיה עבור תרחישים שונים.</string>
@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">בכל פעם שמערכת MIUI תזהה שהינך ישן, היא תסגור את היישומים ברקע, תגביל את ה-Bluetooth ,GPS, הנתונים הסלולריים והשימוש ברשת האלחוטית ולא תאיר את המסך בעת קבלת התראות.</string>
     <string name="nonui_mode_config_title">"מצב 'לא אינטראקטיבי'"</string>
     <string name="nonui_mode_config_description">הימנע מהארת המסך עבור התראות, כבה את תאורת ה-LED, את חיישן טביעת האצבע ואת לחצני השליטה במגע על מנת לחסוך בשימוש בסוללה כאשר מערכת MIUI תזהה שאינך משתמש במכשירך.</string>
-    <string name="power_center">חסכון בסוללה</string>
+    <string name="power_center">אופטימיזציית (ייעול) סוללה</string>
     <string name="power_usage">צריכת אנרגיה</string>
     <string name="power_mode">הגדרות אנרגיה</string>
     <string name="performance_category">ביצועים</string>
@@ -36,8 +36,8 @@
     <string name="warm_performance_tip">המכשיר שלך יתחמם בעת הרצת תהליכים נוספים.</string>
     <string name="vip_feedback">משוב VIP</string>
     <string name="vip_feedback_enable">הפעלת משוב VIP</string>
-    <string name="extreme_power_config_mode_category">מצב קיצוני</string>
-    <string name="extreme_power_config_mode_title">מצב קיצוני</string>
+    <string name="extreme_power_config_mode_category">מצב חיסכון קיצוני בסוללה</string>
+    <string name="extreme_power_config_mode_title">מצב חיסכון קיצוני בסוללה</string>
     <string name="extreme_power_config_mode_desc"><li>המצב של חיסכון קיצוני בסוללה מפסיק את כל פעילות הרקע של אפליקציה לאחר סגירת האפליקציה וחזרה אל מסך הבית. האפליקציה הזו לא תוכל לשלוח לך הודעות או לקבל עדכונים.</li>"
 "<li>אם אתה מעוניין שאפליקציה תמשיך לפעול ברקע, נעל אותה תחת אפליקציות בשימוש לאחרונה או הוסף אותה לרשימת האפליקציות המוחרגות שמופיעה למטה, כך שהיא תוכל לפעול ברקע. עד 4 אפליקציות יכולות לפעול ברקע במצב חיסכון קיצוני בסוללה.</li>"
 "<li>המצב של חיסכון קיצוני בסוללה מכבה את NFC כברירת המחדל. ניתן לשנות זאת בהגדרות.</li>"
@@ -110,8 +110,4 @@
     <string name="extreme_add_white_list_summary">הוסף עד 4 אפליקציות</string>
     <string name="adaptive_battery_title">השתמש באפשרות סוללה מסתגלת</string>
     <string name="adaptive_battery_summary">הגבל את הסוללה עבור יישומים בהם אינך משתמש באופן תדיר</string>
-    <string name="dark_mode">מצב מוחשך</string>
-    <string name="dark_mode_summary">החלף לרקע מוחשך על מנת לחסוך בבטריה</string>
-    <string name="open_dark_mode">עבור למצב מוחשך</string>
-    <string name="open_dark_mode_tip">ייתכן שאיכות התמונה של תכונות מסוימות ירדו כאשר מצב מוחשך פעיל. הן יוחזרו לקדמותם כאשר תבטל את המצב המוחשך. האם להחליף למצב מוחשך כעת?</string>
 </resources>

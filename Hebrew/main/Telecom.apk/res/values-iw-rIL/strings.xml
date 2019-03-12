@@ -89,5 +89,5 @@
     <string name="close">כיבוי</string>
     <string name="callFailed_simError">שגיאת כרטיס SIM</string>
     <string name="incall_error_supp_service_unknown">שירות זה אינו נתמך.</string>
-    <string name="incall_error_power_off">"כבה את 'מצב טיסה' על מנת לבצע שיחה."</string>
+    <string name="incall_error_power_off">כבה את מצב הטיסה כדי לבצע שיחה.</string>
 </resources>

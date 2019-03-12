@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="confirm_recommandation_face_is">&lt;Data> בטוח שזה &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? אדם זה יועבר לאלבום \"%2$s\". &lt;/Data></string>
+    <string name="confirm_recommandation_face_not">&lt;Data> בטוח שזה לא &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> בטוח שאלה &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? אנשים אלה יועברו לאלבום \"%2$s\". &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> בטוח שאלה אינם &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
     <string name="accept">קבל</string>
     <string name="accept_or_deny">%1$s שיתף איתך את האלבום %2$s.</string>
     <string name="actionbar_overflow_item_desc">אפשרויות נוספות</string>
@@ -32,6 +36,11 @@
     <string name="adjust_saturation">רוויה</string>
     <string name="adjust_sharpen">חידוד</string>
     <string name="adjust_vignette">עמעום שוליים</string>
+    <string name="agreement_agree">קבל</string>
+    <string name="agreement_optional_tip">(אופציונלי)</string>
+    <string name="agreement_quit">יציאה</string>
+    <string name="agreement_required_tip">(חובה)</string>
+    <string name="agreement_summary">מסמכים משפטיים</string>
     <string name="ai_album_open_switch_button_title">התחל לנתח תמונות</string>
     <string name="ai_album_requesting_title">אלגוריתם הבינה המלאכותית עדיין מעבד את התמונות שלך. נא להמתין ולבדוק בהמשך.</string>
     <string name="ai_album_setting_sub_title">אפשר לאלגוריתם בינה מלאכותית לזהות אנשים, מקומות וחפצים בתמונות שלך, כדי שתוכל לאתר אותם מהר יותר.</string>
@@ -88,8 +97,8 @@
     <string name="alert_secret_album_message">"החלק מטה בתוית ה'אלבומים' על מנת להציג את האלבומים המוסתרים."</string>
     <string name="alert_secret_album_message_lower_case">"  החלק מטה ב'אלבומים' על מנת להציג"</string>
     <string name="alert_secret_album_title">כיצד להציג אלבום מוסתר</string>
-    <string name="alert_selection_description">AI מסמן את התמונה הטובה ביותר בין התמונות הזהות באמצעות כוכב.</string>
-    <string name="alert_selection_title">נבחר באמצעות AI</string>
+    <string name="alert_selection_description">MIUI ינתח תמונות דומות ויסמן את הצילום הטוב ביותר בהתאם להעדפותיך.</string>
+    <string name="alert_selection_title">בחר את הצילום הטוב ביותר</string>
     <string name="all_faces">תמונות עם אדם זה</string>
     <string name="all_items_synced">כל האלבומים גובו ב-Mi Cloud</string>
     <string name="all_video_album_display_name">כל הסרטונים</string>
@@ -293,13 +302,9 @@
     <string name="confirm_hidden_recommend_group">אישור</string>
     <string name="confirm_hidden_recommend_group_message">כאשר אפשרות ההמלצות כבויה, עדיין יש באפשרותך להשתמש באפשרות \"אנשים נוספים עם פרצופים דומים\"</string>
     <string name="confirm_hidden_recommend_group_title">אל תציג המלצות</string>
-    <string name="confirm_merge_face_albums">" "<Data> למזג אלבום זה עם %s? </Data>" "</string>
-    <string name="confirm_merge_many_face_albums">" "<Data> למזג אלבומים אלה עם %s? </Data>" "</string>
+    <string name="confirm_merge_face_albums">&lt;Data> למזג אלבום זה עם %s? &lt;/Data></string>
+    <string name="confirm_merge_many_face_albums">&lt;Data> למזג אלבומים אלה עם %s? &lt;/Data></string>
     <string name="confirm_not_face">אין התאמות</string>
-    <string name="confirm_recommandation_face_is">" "<Data> בטוח שזה &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? אדם זה יועבר לאלבום \"%2$s\". </Data>" "</string>
-    <string name="confirm_recommandation_face_not"><Data> בטוח שזה לא &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "<Data> בטוח שאלה &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? אנשים אלה יועברו לאלבום \"%2$s\". </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not"><Data> בטוח שאלה אינם &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
     <string name="contact_tip">איש קשר</string>
     <string name="context_menu_add_contact">הוסף לאנשי קשר</string>
     <string name="context_menu_copy">העתק</string>
@@ -369,8 +374,8 @@
     <string name="download_type_thumbnail">איכות גבוהה</string>
     <string name="download_type_thumbnail_desc">איכות גבוהה</string>
     <string name="download_type_title">איכות הורדה</string>
-    <string name="download_without_wifi_msg">שימוש בחיבור נתונים סלולרי להורדת קבצים יגביר את צריכת הנתונים, חריגה ממסגרת תכנית הגלישה עשויה להיות כרוכה בחיובים נוספים.</string>
-    <string name="download_without_wifi_title">אזהרת שימוש בנתונים</string>
+    <string name="download_with_metered_network_msg">הורדת הקבצים המקוריים עשויה לגרור חיוב נוסף. האם להוריד בכל מקרה?</string>
+    <string name="download_with_metered_network_title">אתה מחובר לרשת בתשלום</string>
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">"באפשרותך לבחור את איכות התמונות המורדות או לכבות את ההורדות האוטומטיות ב'הגדרות'."</string>
     <string name="downloading_title">מוריד תמונות מ-Mi Cloud</string>
@@ -487,6 +492,7 @@
     <string name="face_name_edit">עריכה</string>
     <string name="face_name_input">הזן שם</string>
     <string name="face_recommend">המלצות</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">לא ניתן היה להשלים את התהליך</string>
     <string name="fail_to_pick_email">כתובת דוא\"ל לא חוקית</string>
     <string name="fail_to_sync_album">לא ניתן היה לסנכרן את האלבום. בדוק את חיבור הנתונים שלך ונסה שוב.</string>
@@ -497,6 +503,7 @@
     <string name="feature_guidance_photo_effects">"אפקטים חדשים לתמונות
 זמינים כעת"</string>
     <string name="feature_guidance_video_editor_smart_effects">אפקטים חדשים זמינים כעת</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_bw">שחור&amp;לבן</string>
     <string name="filter_bi_dusk">חשכה</string>
     <string name="filter_bi_lilt">Lilt</string>
@@ -564,10 +571,13 @@
     <string name="free_view_desc">תלת מימד</string>
     <string name="gallery_setting">הגדרות</string>
     <string name="gallery_sync_disable_toast">סנכרון הגלריה כבוי</string>
+    <string name="generate_story_summary">MIUI ינתח את התמונות שלך ויצור סיפור באמצעותם. בטל תכונה זו בכדי להפסיק את יצירת אלבומי הסיפורים.</string>
+    <string name="generate_story_title">אלבומי סיפורים</string>
     <string name="get_album_info_in_process">מקבל פרטים אודות האלבום המשותף…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">הגדר</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
  על מנת שתוכל לעבוד באופן תקין, לחץ 'הגדר' על מנת לעבור אל 'הרשאות'."</string>
@@ -602,6 +612,8 @@
     <string name="image_invalid_path">נתיב לא חוקי</string>
     <string name="image_not_found">לא ניתן היה למצוא את התמונה</string>
     <string name="image_quota_fulfiled">מספר רב מידי של תמונות. מחק כמה מהם ונסה שוב.</string>
+    <string name="image_selection_summary">MIUI ינתח תמונות דומות ולסמן את הצילום הטוב ביותר עבורך. בטל תכונה זו בכדי להסיר סימונים מן התמונות.</string>
+    <string name="image_selection_title">בחר את הצילום הטוב ביותר</string>
     <string name="image_with_time">התמונה צולמה ב-%s</string>
     <string name="image_with_time_and_location">התמונה צולמה ב-%1$s. מיקום: %2$s.</string>
     <string name="impunity_declaration_settings">התראת חיבור אינטרנט</string>
@@ -676,6 +688,9 @@
     <string name="merge_album_title">מזג עם אדם</string>
     <string name="messagelist_sender_self">אני</string>
     <string name="micloud_introduce">גיבוי אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
+    <string name="month_view_tip_button_text">הבנתי</string>
+    <string name="month_view_tip_sub_title">צבוט את המסך כדי לעבור לתצוגת חודש</string>
+    <string name="month_view_tip_title">תצוגת חודש</string>
     <string name="more">עוד</string>
     <string name="more_album_hint">", וכו'"</string>
     <string name="more_face">אנשים נוספים עם פרצופים דומים</string>
@@ -703,8 +718,8 @@
     <string name="movie_download_failed_for_notwork">לא ניתן היה להוריד. התחבר לרשת ונסה שוב.</string>
     <string name="movie_download_sdk_without_wifi_msg">נראה כאילו ההתקן שלך אינו מחובר לאינטרנט אלחוטי. האם להוריד את היישום הנדרש plug-in (3 מגה) באמצעות חיבור נתונים סלולריים?</string>
     <string name="movie_download_sdk_without_wifi_title">מוריד באמצעות בשימוש נתונים סלולריים</string>
-    <string name="movie_download_without_wifi_msg">שימוש בחיבור נתונים סלולרי להורדת קבצים יגביר את צריכת הנתונים שלך. חריגה ממסגרת תכנית הגלישה שלך עשויה לגרום לחיובים נוספים מצד ספק האינטרנט שלך.</string>
-    <string name="movie_download_without_wifi_title">אזהרת שימוש בנתונים</string>
+    <string name="movie_download_with_metered_network_msg">הורדת הקבצים המקוריים עשויה לגרור חיוב נוסף. האם להוריד בכל מקרה?</string>
+    <string name="movie_download_with_metered_network_title">אתה מחובר לרשת בתשלום</string>
     <string name="movie_edit">ערוך</string>
     <string name="movie_item_name">קליפ</string>
     <string name="movie_preview_btn">תצוגה מקדימה</string>
@@ -792,6 +807,7 @@
     <string name="operation_send">שליחה</string>
     <string name="operation_set_contact_photo">הגדר כתמונה של איש קשר</string>
     <string name="operation_set_slide_wallpaper">הגדר כטפט מצגת שקופיות</string>
+    <string name="operation_set_video_wallpaper">קבע כטפט וידאו</string>
     <string name="operation_set_wallpaper">קבע כטפט</string>
     <string name="operation_share">שיתוף</string>
     <string name="operation_show_in_photos_tab">"הצג ב'תמונות'"</string>
@@ -815,6 +831,16 @@
     <string name="people_mark_mode_title_no_mark_name">בחר אדם</string>
     <string name="people_page_label">אנשים</string>
     <string name="people_page_unname">ללא שם</string>
+    <string name="percent_sign">%</string>
+    <string name="permissin_contract_desc">עבור שמות אנשים המופיעים על גבי התמונות</string>
+    <string name="permission_contract_name">אנשי קשר</string>
+    <string name="permission_optional_category">הרשאות אופציונליות</string>
+    <string name="permission_phone_desc">לבקשות רשת, בהתבסס על מזהה התקן</string>
+    <string name="permission_phone_name">טלפון</string>
+    <string name="permission_require_category">הרשאות חובה</string>
+    <string name="permission_storage_desc">עבור הצגה ועריכה של שמירת תמונות</string>
+    <string name="permission_storage_name">אחסון</string>
+    <string name="permission_use_desc">הרשאות</string>
     <string name="pet_album_display_name">תמונות חיות מחמד</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">תמונות</string>
@@ -830,6 +856,7 @@
     <string name="photo_editor_crop_rotation_format">°%d</string>
     <string name="photo_editor_doodle">קשקוש</string>
     <string name="photo_editor_filter">סנן</string>
+    <string name="photo_editor_font_default">> Mi Lanting (רגיל)</string>
     <string name="photo_editor_frame">מסגרת</string>
     <string name="photo_editor_label">עריכה</string>
     <string name="photo_editor_long_crop">חיתוך</string>
@@ -886,6 +913,11 @@
     <string name="photo_editor_talkback_redo">ביצוע מחדש</string>
     <string name="photo_editor_talkback_undo">ביטול</string>
     <string name="photo_editor_text">מלל</string>
+    <string name="photo_font_cancel_download">ביטול</string>
+    <string name="photo_font_download">הורד</string>
+    <string name="photo_font_download_failed_for_notwork">לא ניתן היה להוריד. התחבר לרשת ונסה שוב.</string>
+    <string name="photo_font_download_without_wifi_msg">שימוש בחיבור נתונים סלולרי להורדת קבצים יגביר את צריכת הנתונים שלך. חריגה ממסגרת תכנית הגלישה שלך עשויה לגרום לחיובים נוספים מצד ספק האינטרנט שלך.</string>
+    <string name="photo_font_download_without_wifi_title">אזהרת שימוש בנתונים</string>
     <string name="photo_movie_module_finish">קליפים נטענו בהצלחה</string>
     <string name="photo_movie_module_loading">טוען קליפים…</string>
     <string name="photo_movie_select_image_range">קליפים יכולים להכיל בין 3 ל-20 תמונות</string>
@@ -943,6 +975,7 @@
     <string name="recent_album_empty_title">לא נוספו תמונות חדשות לאחרונה</string>
     <string name="recommanded_face_abandon_tip">הוסר מהצעות</string>
     <string name="recommanded_face_added_tip">נוסף אל \"%s\"</string>
+    <string name="recommend_category_title">בחירת הגלריה</string>
     <string name="recovery_merge">מיזוג</string>
     <string name="recovery_merge_or_rename">מיזוג אלבומים</string>
     <string name="recovery_merge_or_rename_message">אלבום בעל שם זהה קיים כבר. למזג כעת?</string>
@@ -1045,6 +1078,9 @@
     <string name="search_title_recommend">מומלץ</string>
     <string name="search_title_suggestion">הצעות</string>
     <string name="search_title_tag">אובייקטים</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">מחפש מקרן…</string>
     <string name="secret_album_card_description">המקום הבטוח ביותר עבור כל הסודות הקטנים שלך</string>
     <string name="secret_album_card_title">נסה אלבום מוסתר</string>
@@ -1064,6 +1100,7 @@
     <string name="secret_reason_unknow_reasons">שגיאה לא מוכרת</string>
     <string name="secret_reason_video_not_support">לא ניתן להוסיף סרטונים לאלבום מוסתר</string>
     <string name="see_ignore_faces">צפה באנשים שהתעלמת מהם</string>
+    <string name="select_all">בחירת הכל</string>
     <string name="select_image_operation">מוסיף תמונות</string>
     <string name="select_item_face">"האם זה '%s'?"</string>
     <string name="select_origin_tip">קובץ מקורי (%s)</string>
@@ -1075,6 +1112,8 @@
     <string name="send_too_many_files_error">ניתן לשלוח עד %d פריטים בפעם אחת</string>
     <string name="set_as_slide_wallpaper_description">תמונה זו הינה מוקטנת, האם להוריד את התמונה המקורית?</string>
     <string name="set_as_slide_wallpaper_title">הגדר כטפט מצגת שקופיות</string>
+    <string name="set_as_video_wallpaper_description">האם להוריד פריט זה ולהשתמש בו כטפט וידאו?</string>
+    <string name="set_as_video_wallpaper_title">קבע כטפט וידאו</string>
     <string name="set_as_wallpaper_description">תמונה זו הינה תמונה מוקטנת, להוריד את התמונה המקורית?</string>
     <string name="set_as_wallpaper_title">קבע כטפט</string>
     <string name="set_face_group_toast_msg_new_user">לחיצה ארוכה על אדם על מנת למזג או להתעלם ממנו.</string>
@@ -1083,6 +1122,7 @@
     <string name="set_face_group_toast_title_old_user">ניתן לארגן אנשים בקבוצות</string>
     <string name="set_face_image">הגדר תמונת פרופיל חדשה</string>
     <string name="set_group">הגדר קבוצה</string>
+    <string name="set_video_wallpaper_failed">אין באפשרותך להשתמש בפריט זה כטפט וידאו</string>
     <string name="set_wallpaper_get_image_failed">לא ניתן היה להוריד את התמונה, נסה שוב מאוחר יותר</string>
     <string name="setup_network_connection">הגדרות רשת</string>
     <string name="share">שיתוף</string>
@@ -1133,17 +1173,11 @@
     <string name="sticker_spring">אביב</string>
     <string name="sticker_summer">קיץ</string>
     <string name="sticker_words">מילים</string>
-    <string name="storage_description_primary">אחסון פנימי</string>
-    <string name="storage_description_sdcard">כרטיס זכרון</string>
-    <string name="storage_description_usb">אחסון USB</string>
-    <string name="storage_description_xspace">"נתוני 'יישומים משוכפלים'"</string>
     <string name="storage_no_space">אין מספיק מקום</string>
     <string name="story_back_stop_download">הקש שוב על מנת להפסיק את ההורדה</string>
     <string name="story_cancel_download">ביטול</string>
     <string name="story_download">הורד</string>
     <string name="story_download_failed_for_notwork">לא ניתן היה להוריד. התחבר לרשת ונסה שוב.</string>
-    <string name="story_download_without_wifi_msg">שימוש בחיבור נתונים סלולרי להורדת קבצים יגביר את צריכת הנתונים שלך. חריגה ממסגרת תכנית הגלישה שלך עשויה לגרום לחיובים נוספים מצד ספק האינטרנט שלך.</string>
-    <string name="story_download_without_wifi_title">אזהרת שימוש בנתונים</string>
     <string name="story_photo_downloading">מוריד…</string>
     <string name="sub_discard_confirm_message">לשמור את השינויים?</string>
     <string name="sub_discard_negative_btn">ביטול</string>
@@ -1182,6 +1216,8 @@
     <string name="text_edit_dialog_style_shadow">צל</string>
     <string name="text_edit_dialog_style_transparent">טשטוש</string>
     <string name="text_edit_sub_menu_text">בועה</string>
+    <string name="text_tab_bubble">בועות</string>
+    <string name="text_tab_watermark">סימני מים</string>
     <string name="things_album_empty_title">ניתן למיין תמונות על ידי העצמים המופיעים בהן</string>
     <string name="thumbnail_name">תמונה ממוזערת</string>
     <string name="tip_capture_location">מיקום:</string>
@@ -1199,7 +1235,6 @@
     <string name="to_enable_sync_dialog_message">הפעל סנכרון תחילה</string>
     <string name="to_enable_sync_dialog_positive_button_text">עבור להגדרות</string>
     <string name="to_enable_sync_dialog_title">סנכרון</string>
-    <string name="today">היום</string>
     <string name="too_many_recipients">לא ניתן להוסיף יותר מ- %2$s נמענים (הוספת %1$s נמענים).</string>
     <string name="trash_bin">פח אשפה</string>
     <string name="trash_bin_summary">סייר בתמונות מגובות שנמחקו לאחרונה</string>
@@ -1244,8 +1279,8 @@
     <string name="video_editor_down_load_now">הורדה</string>
     <string name="video_editor_download">הורדה</string>
     <string name="video_editor_download_failed_for_notwork">לא ניתן היה להוריד. התחבר לרשת ונסה שוב.</string>
-    <string name="video_editor_download_without_wifi_msg">שימוש בחיבור נתונים סלולרי להורדת קבצים יגביר את צריכת הנתונים שלך. חריגה ממסגרת תכנית הגלישה שלך עשויה לגרום לחיובים נוספים מצד ספק האינטרנט שלך.</string>
-    <string name="video_editor_download_without_wifi_title">אזהרת שימוש בנתונים</string>
+    <string name="video_editor_download_with_metered_network_msg">הורדת הקבצים המקוריים עשויה לגרור חיוב נוסף. האם להוריד בכל מקרה?</string>
+    <string name="video_editor_download_with_metered_network_title">אתה מחובר לרשת בתשלום</string>
     <string name="video_editor_encode_video">מקודד וידאו…</string>
     <string name="video_editor_encode_video_error">לא ניתן היה לקודד את הוידאו</string>
     <string name="video_editor_fatal_error">שגיאה לא מוכרת</string>
@@ -1336,11 +1371,14 @@
     <string name="who_is_this">מי זה?</string>
     <string name="xiaomi_account_not_exists_toast">חשבון Mi לא קיים</string>
     <string name="yes">כן</string>
-    <string name="yesterday">אתמול</string>
     <string name="you_are">מהי קרבתך לתינוק?</string>
-    <string name="month_view_tip_button_text">הבנתי</string>
-    <string name="month_view_tip_sub_title">צבוט את המסך כדי לעבור לתצוגת חודש</string>
-    <string name="month_view_tip_title">תצוגת חודש</string>
+    <string name="cleaner_similar_action">מחק עכשיו</string>
+    <string name="cleaner_similar_description">מחק תמונות כפולות</string>
+    <string name="cleaner_similar_title">תמונות כפולות</string>
+    <string name="cleaner_video_action">מחק עכשיו</string>
+    <string name="cleaner_video_description">מחק סרטונים התופסים שטח אחסון</string>
+    <string name="cleaner_video_pick_delete_selected">מחק את הסרטונים שנבחרו</string>
+    <string name="cleaner_video_title">מחק סרטונים</string>
     <string name="photomovie_audio_custom">מקומי</string>
     <string name="photomovie_audio_default">זיכרון</string>
     <string name="photomovie_audio_kawaii">רומנטי</string>
@@ -1387,6 +1425,15 @@
     <string name="refocus_title">טשטוש</string>
     <string name="refocus_type_static">רמת טשטוש</string>
     <string name="refocus_type_video">שבילי אור</string>
-    <string name="text_tab_bubble">Bubbles</string>
-    <string name="text_tab_watermark">Watermarks</string>
+    <string name="screen_doodle_talkback_size">שרבוט רוחב הקו</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
+    <string name="screen_editor_finish">בוצע</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
+    <string name="screen_save_dialog_btn_cancel">ביטול</string>
+    <string name="screen_save_dialog_btn_delete">מחיקת צילום מסך</string>
+    <string name="screen_save_dialog_btn_save">"שמור ב'גלריה'"</string>
+    <string name="similar_keep_clear">שמור את התמונות הטובות ביותר</string>
 </resources>

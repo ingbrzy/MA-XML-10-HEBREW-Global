@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="add_to_trust_device">מכשיר זה הוגדר כאמין</string>
     <string name="agree">מסכים</string>
     <string name="ai_animation_music_text">פסקול AI</string>
     <string name="ai_music_save_cancel">ביטול</string>
@@ -17,9 +18,13 @@
     <string name="alert_dialog_download_plugin">"מתכונן להורדה והתקנה של הרחבת ה-HD: "</string>
     <string name="alert_dialog_download_prepare">מתכונן להורדה…</string>
     <string name="alert_dialog_download_progress">"מוריד יישום "</string>
+    <string name="and">  ול- </string>
     <string name="app_name">וידאו Mi</string>
+    <string name="bind_sign_in_title">הוספת חשבון</string>
     <string name="cancel">ביטול</string>
     <string name="canceled">בוטל</string>
+    <string name="choose_to_signin">כן</string>
+    <string name="choose_to_signup">לא, אצור חשבון משלי</string>
     <string name="click_to_reload_more">לחץ על מנת לטעון עוד</string>
     <string name="click_to_retry">נסה שוב</string>
     <string name="com_permission_desc">"אין באפשרות וידאו Mi לגשת לסרטונים במכשירך. אפשר גישה ב'הגדרות'."</string>
@@ -32,12 +37,19 @@
     <string name="exit">יציאה</string>
     <string name="explore_on_mi_video">מצא עוד ב-Mi Video</string>
     <string name="failed_to_fetch_data">לא ניתן היה לטעון את המידע.</string>
+    <string name="find_psw">שכחתי את הסיסמה</string>
     <string name="finish">בוצע</string>
     <string name="for_you">בשבילך</string>
     <string name="fw_loading">רק רגע…</string>
     <string name="fw_reload_sub_title">הקש על המסך על מנת לנסות שוב</string>
     <string name="fw_reload_title">לא ניתן היה להתחבר לרשת.</string>
+    <string name="get_ph_ticket">קבל קוד</string>
+    <string name="goto_sign_up">צור חשבון</string>
+    <string name="isornot_your_mi_account">האם זה חשבון Mi שלך?</string>
+    <string name="language_select_tips">מהי השפה המועדפת עליך כשאתה צופה בסרטונים? תוכל לבחור יותר משפה אחת.</string>
+    <string name="language_setting_tips">נשמר בהצלחה. תוכל לשנות את העדפות השפה בהגדרות המכשיר.</string>
     <string name="login">היכנס</string>
+    <string name="logout">צא מהחשבון</string>
     <string name="lp_base_folder">כרטיס זכרון</string>
     <string name="lp_speed_title">מהירות השמעה</string>
     <string name="lp_speed_toast">מנגן במהירות %sX…</string>
@@ -154,6 +166,7 @@
     <string name="network_connect_info">לא ניתן היה להתחבר לרשת. בדוק את הגדרות הרשת שלך ונסה שוב.</string>
     <string name="network_failed">לא ניתן היה להתחבר לרשת</string>
     <string name="next">הבא</string>
+    <string name="nick_name">שם</string>
     <string name="no_recommend_data">כרגע אין סרטונים מומלצים</string>
     <string name="not_show">אל תציג שוב</string>
     <string name="notify_apk_installed">ירד בהצלחה</string>
@@ -195,7 +208,10 @@
     <string name="ovp_home_item_camera">גלריה</string>
     <string name="ovp_home_item_download">הורדות</string>
     <string name="ovp_home_item_folder">קבצים</string>
+    <string name="ovp_home_local">מקומי</string>
+    <string name="ovp_home_me">חשבון</string>
     <string name="ovp_home_no_data_callback">לא יכול לטעון את הפרטים. משוך מטה לרענון.</string>
+    <string name="ovp_home_online">מקוון</string>
     <string name="ovp_home_online_content_title">מקוון</string>
     <string name="ovp_info_video_loading">רק רגע…</string>
     <string name="ovp_load_playinfo_failure">לא ניתן היה לקבל מידע</string>
@@ -206,8 +222,10 @@
     <string name="ovp_navigation_feedback">משוב</string>
     <string name="ovp_navigation_history">היסטוריה</string>
     <string name="ovp_navigation_home">בית</string>
+    <string name="ovp_navigation_language">שפה</string>
     <string name="ovp_navigation_localvideo">מקומי</string>
     <string name="ovp_navigation_setting">הגדרות</string>
+    <string name="ovp_playlist">רשימת השמעה</string>
     <string name="ovp_plugin_install_failure">לא ניתן היה להתקין את ההרחבה</string>
     <string name="ovp_search_key_not_null">הזן מילות מפתח לחיפוש</string>
     <string name="ovp_select_ci">בחר פרק</string>
@@ -227,6 +245,43 @@
     <string name="ovp_video_plugin_installation">מתקין את %1$s…</string>
     <string name="ovp_video_plugin_installation_failure">לא ניתן היה להתקין את %1$s</string>
     <string name="ovp_video_plugin_installation_two">רק רגע…</string>
+    <string name="page_title_language">העדפות שפה עבור סרטונים</string>
+    <string name="passport_activate_token_expired">פג תוקפו של קוד האימות, נסה שוב.</string>
+    <string name="passport_auth_title" />
+    <string name="passport_bad_authentication">שם משתמש או סיסמה לא חוקיים</string>
+    <string name="passport_captcha_title">זיהוי תווים</string>
+    <string name="passport_close">סגירה</string>
+    <string name="passport_empty_password">שדה הסיסמה לא יכול להישאר ריק</string>
+    <string name="passport_empty_user_name">שדה שם המשתמש לא יכול להישאר ריק</string>
+    <string name="passport_error_phone_error">מספר טלפון לא חוקי</string>
+    <string name="passport_error_user_name">שם המשתמש שהזנת אינו חוקי</string>
+    <string name="passport_log_detail">הצג פרטים</string>
+    <string name="passport_privacy_policy">מדיניות הפרטיות</string>
+    <string name="passport_reload_ph_ticket">שלח שוב</string>
+    <string name="passport_send_too_many_sms">נשלחו למספר זה יותר מדי קודי אימות. עליך להמתין 24 שעות ולנסות שוב.</string>
+    <string name="passport_sign_in">התחבר</string>
+    <string name="passport_sign_in_or_sign_up">התחבר/צור חשבון</string>
+    <string name="passport_timeout_network_error">פג תוקף ההתחברות</string>
+    <string name="passport_unknow_error">אירעה שגיאה לא ידועה</string>
+    <string name="passport_unknow_host_network_error">בדוק את הגדרות הרשת ונסה שוב</string>
+    <string name="passport_unknow_network_error">אירעה שגיאת רשת</string>
+    <string name="passport_user_agreement">הסכם המשתמש</string>
+    <string name="passport_user_agreement_prefix">מסכים ל- </string>
+    <string name="passport_v_code_error">קוד האימות שגוי</string>
+    <string name="passport_wechat_not_install">WeChat לא מותקנת</string>
+    <string name="permission_continue">המשך</string>
+    <string name="permission_info">"Mi וידאו צריך לגשת למספר IMEI של המכשיר כדי לבצע את הפעולות הבאות:  n 
+Better להתאים אישית את שירותיו עבור מכשירך; 
+ שפר את האבטחה של חשבונך."</string>
+    <string name="permission_info1">Mi וידאו צריך לגשת מספר IMEI של המכשיר כדי לבצע את הפעולות הבאות:</string>
+    <string name="permission_info2">שירותי התאמה אישית טובים יותר עבור מכשירך;</string>
+    <string name="permission_info3">הגבר את האבטחה של החשבון שלך</string>
+    <string name="permission_title">נדרשות הרשאות</string>
+    <string name="phone_bind_too_many">מספר טלפון זה קושר למספר חשבונות Mi בפרק זמן קצר. נסה להשתמש במספר טלפון אחר.</string>
+    <string name="phone_hint">מספר טלפון</string>
+    <string name="phone_number">מספר טלפון</string>
+    <string name="psw_hint">סיסמה</string>
+    <string name="psw_sign_in">התחבר באמצעות סיסמה</string>
     <string name="pull_to_refresh_from_bottom_pull_label">משוך מעלה לרענון…</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">רק רגע…</string>
     <string name="pull_to_refresh_from_bottom_release_label">שחרר לרענון…</string>
@@ -292,8 +347,11 @@
     <string name="share">שיתוף</string>
     <string name="share_ugc_content">צפה ב-%1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_waitting">מייצר קישור…</string>
+    <string name="sign_in_title">התחבר לחשבון Mi</string>
     <string name="slid_fail_message">לא ניתן היה לשמור</string>
     <string name="slide_save_message">יוצר וידאו…</string>
+    <string name="sns_sign_in">דרך התחברות אחרת</string>
+    <string name="sure_to_logout">האם לצאת מהחשבון כעת?</string>
     <string name="switch_ratio_pause">מהירות ההשמעה אינה יציבה. חוזר למהירות ברירת המחדל…</string>
     <string name="symbol_rmb">¥</string>
     <string name="t_downloading">מוריד:</string>
@@ -311,19 +369,17 @@
     <string name="t_network_error">אירעה שגיאת רשת.</string>
     <string name="t_ovp_check_delete_favor">בחר בפריטים להסרה</string>
     <string name="t_start_download">מתחיל להוריד:</string>
+    <string name="ticket_hint">קוד אימות</string>
+    <string name="ticket_invalid">הקוד שהזנת אינו נכון</string>
+    <string name="ticket_sign_in">התחבר באמצעות מסרון</string>
+    <string name="toast_share_failed">לא ניתן לשתף. נא להמתין כמה דקות ולנסות שוב.</string>
     <string name="ui_log_tip">לחץ על אזור זה להסתרה, לחץ והחזק על מנת לנקות רישומים ישנים. גרור רישומים באופן ידני.</string>
     <string name="update">עדכון</string>
+    <string name="user_id_hint">אימייל/טלפון</string>
     <string name="v_app_name">וידאו Mi</string>
     <string name="v_cancel">ביטול</string>
+    <string name="v_code_title">הזן את הקוד לאימות הדו-שלבי</string>
     <string name="v_ok">אשר</string>
     <string name="v_pw_need_update_app">עדכן את וידאו Mi על מנת שתוכל להשתמש בכל תכונותיו</string>
     <string name="v_save">שמירה</string>
-    <string name="permission_continue">המשך</string>
-    <string name="permission_info">"Mi וידאו צריך לגשת למספר IMEI של המכשיר כדי לבצע את הפעולות הבאות: n 
-Better להתאים אישית את שירותיו עבור מכשירך; 
- שפר את האבטחה של חשבונך."</string>
-    <string name="permission_info1">Mi וידאו צריך לגשת מספר IMEI של המכשיר כדי לבצע את הפעולות הבאות:</string>
-    <string name="permission_info2">שירותי התאמה אישית טובים יותר עבור מכשירך;</string>
-    <string name="permission_info3">הגבר את האבטחה של החשבון שלך</string>
-    <string name="permission_title">נדרשות הרשאות</string>
 </resources>

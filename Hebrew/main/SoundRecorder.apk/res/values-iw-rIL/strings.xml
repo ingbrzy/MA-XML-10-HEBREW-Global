@@ -64,6 +64,12 @@
     <string name="keywords_search_call_record">הקלט שיחות;הקלט שיחה;הקלטת שיחה;הקלטת שיחות</string>
     <string name="keywords_search_record">הקלטה חדשה; הוספת הקלטה;הקלטה;הקלטות;תמליל;תמלול;רשמקול;רשמקול;מקליט שמע;יישום הקלטה;יישום הקלטות;איך אני מקליט; כיצד להקליט שמע;איפה הרשמקול; רשמקול MIUI</string>
     <string name="keywords_search_record_list">רשמקול;תמליל;תמלילים;הקלט;שתף הקלטה;שתף הקלטות;הקלטה;הקלטות</string>
+    <string name="korea_permission_phone">טלפון</string>
+    <string name="korea_permission_phone_resc">בעבור סטטוס גישה וטיפול בהקלטות במהלך שיחות</string>
+    <string name="korea_permission_record">מיקרופון</string>
+    <string name="korea_permission_record_resc">להקלטת שמע</string>
+    <string name="korea_permission_storage">אחסון</string>
+    <string name="korea_permission_storage_desc">בעבור שמירה של הקלטות</string>
     <string name="loading_order_list">רק רגע…</string>
     <string name="loading_order_list_empty">אין הזמנות כאן.</string>
     <string name="low_battery_error">נותרו פחות מ-5% סוללה. עצור ושמור את ההקלטה שלך על מנת לודא שלא תאבד.</string>

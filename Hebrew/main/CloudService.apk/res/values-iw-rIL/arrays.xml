@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>על מנת לזהות פריטים מסונכרנים</item>
+        <item>בעבור סנכרון הודעות</item>
+        <item>בעבור סנכרון אנשי קשר</item>
+        <item>בעבור סנכרון אירועים בלוח השנה</item>
+        <item>בעבור סנכרון פריטים עם שירותים העושים שימוש באחסון</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>טלפון</item>
+        <item>מסרונים</item>
+        <item>אנשי קשר</item>
+        <item>לוח שנה</item>
+        <item>אחסון</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>סנכרון נתוני יישום</item>
         <item>"גיבוי פריסת 'מסך הבית'"</item>

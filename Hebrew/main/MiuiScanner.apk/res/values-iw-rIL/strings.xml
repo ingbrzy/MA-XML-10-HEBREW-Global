@@ -3,7 +3,7 @@
     <string name="about_title">אודות</string>
     <string name="access_sd_fail">לא ניתן היה לגשת לכרטיס הזכרון</string>
     <string name="accessibility_shutter_button">צילום</string>
-    <string name="action_search">Search</string>
+    <string name="action_search">חיפוש</string>
     <string name="address">כתובת:</string>
     <string name="agree_btn">מסכים</string>
     <string name="amazon_assistant_shopping_title">חפש ב-Amazon</string>
@@ -28,7 +28,7 @@
     <string name="choose_pay_title">בחירת שיטת תשלום</string>
     <string name="choose_picture">בחר תמונת קוד QR</string>
     <string name="common_retake_picture">צלם מחדש</string>
-    <string name="common_retry">Try again</string>
+    <string name="common_retry">נסה שוב</string>
     <string name="common_save">שמור</string>
     <string name="company">חברה:</string>
     <string name="confirm">אישור</string>
@@ -40,7 +40,7 @@
     <string name="copy_text_success">הטקסט הועתק</string>
     <string name="crop_cancel_description">ביטול</string>
     <string name="crop_done_description">בוצע</string>
-    <string name="crop_title_study">Crop the photo</string>
+    <string name="crop_title_study">חתוך את התמונה</string>
     <string name="crop_title_translation">בחר טקסט לתרגום</string>
     <string name="document_color_picture">צבעוני</string>
     <string name="document_color_picture_tip">"ממיר ל'צבעוני'…"</string>
@@ -65,11 +65,11 @@
     <string name="email">דוא\"ל:</string>
     <string name="error_camera_disabled">הגישה למצלמה נדחתה עקב סיבות הקשורות לאבטחה</string>
     <string name="error_cannot_connect_camera">לא ניתן להתחבר למצלמה</string>
-    <string name="error_empty_result">"Couldn't find results"</string>
+    <string name="error_empty_result">לא ניתן היה להשיג תוצאות</string>
     <string name="error_get_image">לא ניתן היה להשיג את התמונה</string>
     <string name="error_media_storage_failure">לא ניתן היה לשמור את התמונה</string>
     <string name="error_permissions">"אין לסורק את ההרשאה הנדרשת על מנת לעבוד כראוי. עבור אל 'הגדרות' ובדוק הרשאות על מנת להמשיך."</string>
-    <string name="error_server_error">Server error</string>
+    <string name="error_server_error">אירעה שגיאת שרת.</string>
     <string name="fax">פקס</string>
     <string name="feed_search_fail">אין תוצאות, נסה שוב</string>
     <string name="feedback_description_camera_access">הסורק לא יכול להתחבר למצלמה</string>
@@ -77,7 +77,7 @@
     <string name="got_it">הבנתי</string>
     <string name="gps">נווט</string>
     <string name="import_contact">ייבא איש קשר</string>
-    <string name="impunity_declaration_content">"ה'סורק' צריך לקבל הרשאת גישה למצלמה שלך והרשאה ליצור תמונות. כמו כן, ה'סורק' גם צריך להתחבר לאינטרנט כדי לפעול בצורה תקינה. לחיצה על הכפתור \"מסכים\" שלהלן תיחשב כאישור לכך שקראת והסכמת ל %1$sמדיניות הפרטיות%2$s שלנו."</string>
+    <string name="impunity_declaration_content">הסורק צריך להשתמש במצלמה שלך ולעבד את התמונות שלקחת תוך שימוש ביישום. אל תשתמש בסורק כדי לצלם או לסרוק תמונות המכילים את המידע האישי שלך. על-ידי הקשה \"מסכים\", אתה מסכים שלנו &amp;lt;font color=\"#ff32b4ff\"&amp;gt;&amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\" style=\"color:#ff32b4ff;\"&amp;gt;מדיניות פרטיות&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; ולאפשר לסורק, להתחבר לאינטרנט.</string>
     <string name="impunity_declaration_negative_text">יציאה</string>
     <string name="impunity_declaration_title">מדיניות הפרטיות</string>
     <string name="label_choose_picture">בחירת תמונה</string>
@@ -102,7 +102,7 @@
     <string name="module_title_document">מסמך</string>
     <string name="module_title_plant">צמחים</string>
     <string name="module_title_shopping">קניות</string>
-    <string name="module_title_study">Study</string>
+    <string name="module_title_study">שיעורי בית</string>
     <string name="module_title_translation">תרגם</string>
     <string name="name">שם:</string>
     <string name="new_schedule">צור אירוע</string>
@@ -114,6 +114,8 @@
     <string name="not_recommend_access_web_url">עבור בכל מקרה</string>
     <string name="note">הערה:</string>
     <string name="open_url">פתח קישור אינטרנט</string>
+    <string name="pay_no_tip">אל תציג שוב</string>
+    <string name="pay_save_this_choose">זכור את הבחירה שלי</string>
     <string name="payment_text">פתיחה באמצעות %s</string>
     <string name="phone">טלפון:</string>
     <string name="place_barcode_into_rectangle">מקם את הקוד בתוך המסגרת</string>
@@ -145,11 +147,11 @@
     <string name="shopping_title">צלם תמונה של המוצר</string>
     <string name="shopping_vendor_info">מופעל על ידי Taobao</string>
     <string name="spaceIsLow_content">אין מספיק מקום באחסון הפנימי. אנא פנה מקום.</string>
-    <string name="study_rotate_picture">Processing the photo</string>
-    <string name="study_scan_result">Result</string>
-    <string name="study_searching">Searching for result</string>
-    <string name="study_title">Take a photo of the problem</string>
-    <string name="study_vendor_info">Powered by 作业帮</string>
+    <string name="study_rotate_picture">מעבד תמונה…</string>
+    <string name="study_scan_result">תוצאה</string>
+    <string name="study_searching">מחפש תוצאות…</string>
+    <string name="study_title">סרוק את הבעיה שברצונך לפתור</string>
+    <string name="study_vendor_info">מופעל על ידי Zuoyebang</string>
     <string name="switch_open">הפעלה</string>
     <string name="tel">טלפון</string>
     <string name="title">כותרת:</string>
@@ -160,6 +162,7 @@
     <string name="translate_dest_lang">שפת יעד</string>
     <string name="translate_fail">לא ניתן היה לתרגם</string>
     <string name="translate_loading">מתרגם…</string>
+    <string name="translate_parallel_2_lines">ודא שהטקסט מקביל לקווים על המסך</string>
     <string name="translate_save_fail">לא ניתן היה לשמור את ההערה</string>
     <string name="translate_src_lang">שפת מקור</string>
     <string name="translate_text_compare">השוואה</string>

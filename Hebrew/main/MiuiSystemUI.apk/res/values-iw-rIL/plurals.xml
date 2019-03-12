@@ -12,6 +12,12 @@
         <item quantity="two">"'לאחרונה' נפתח, יישומים זמינים: %d. החלק מעלה להסרה, החלק מטה לנעילה."</item>
         <item quantity="many">"'לאחרונה' נפתח, יישומים זמינים: %d. החלק מעלה להסרה, החלק מטה לנעילה."</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$sשעות %2$s"</item>
+        <item quantity="one">" %1$sשעה %2$s"</item>
+        <item quantity="two">" %1$sשעות %2$s"</item>
+        <item quantity="many">" %1$sשעות %2$s"</item>
+    </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">מסתיר התראות מ- %1$s &amp; %2$d יישומים.</item>
         <item quantity="one">מסתיר התראות מיישום %1$s &amp; %2$d.</item>

@@ -26,7 +26,7 @@
         <item>גשם כבד</item>
         <item>גשם</item>
         <item>טפטוף</item>
-        <item>גשם ושלג</item>
+        <item>גשם מעורב בשלג</item>
         <item>סופת שלגים</item>
         <item>שלג חלקי</item>
         <item>שלג כבד</item>
@@ -45,10 +45,10 @@
         <item>קלאסי</item>
     </string-array>
     <string-array name="transformation_entries">
-        <item>קלאסי</item>
+        <item>שקופית</item>
         <item>עמעום</item>
         <item>נפילה</item>
-        <item>דפדוף</item>
+        <item>עמוד</item>
         <item>מדורג</item>
         <item>סיבוב</item>
         <item>קוביה</item>

@@ -56,6 +56,8 @@
     <string name="no_sound">השתק</string>
     <string name="operation_delete">מחיקה</string>
     <string name="operation_send">שליחה</string>
+    <string name="permission_intro_microphone">בעבור הקלטות קול כאשר מקור הקול מופעל ומוגדר באמצעות המיקרפון</string>
+    <string name="permission_intro_storage">בעבור שמירה של מסך מוקלט</string>
     <string name="quit_recording">"יציאה מ'מקליט המסך'"</string>
     <string name="recording_failure">לא ניתן היה להקליט, התחל מחדש</string>
     <string name="recording_max_size">ההקלטה נעצרה ונשמרה כיוון שקובץ הוידאו הגיע לתקרת מגבלת הגודל שלו. התחל להקליט מהמקום בו היא נעצרה במידה ועדיין לא סיימת.</string>
@@ -72,6 +74,10 @@
     <string name="show_hard_key_summary">"הצג התראות בעת הקשה על לחצני 'בית', 'תפריט' ו-'חזרה'"</string>
     <string name="show_screen_touch">הצג מחוות נגיעה</string>
     <string name="show_screen_touch_summary">הצג מחוות באמצעות נקודה לבנה</string>
+    <string name="size_byte">בייט</string>
+    <string name="size_gigabyte">"ג'יגה"</string>
+    <string name="size_kilobyte">קילובייט</string>
+    <string name="size_megabyte">מגהבייט</string>
     <string name="sound_source">מקור השמע</string>
     <string name="sound_source_summary">צלילי מערכת או מיקרופון</string>
     <string name="sound_source_summary_without_system_sounds">השתמש במיקרופון או השתק את השמע</string>

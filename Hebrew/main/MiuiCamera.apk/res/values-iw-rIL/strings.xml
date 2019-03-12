@@ -457,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">אפקט עומק</string>
     <string name="portrait_mode_use_hint">"מצב 'דיוקן' מעמעם את הרקע
  ומדגיש את האנשים בקידמה."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">נסה מצב דיוקן.nשמור את האובייקט חד, תוך טשטוש הרקע.</string>
     <string name="pref_camera_square_mode_title">מרובע</string>
     <string name="simple_mode_button_text_square">"כבה את 'מרובע'"</string>
@@ -472,6 +473,7 @@
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">מצבים</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>
@@ -587,6 +589,7 @@
     <string name="lighting_pattern_leaf">צמחייה</string>
     <string name="lighting_pattern_dot">נקודות</string>
     <string name="lighting_pattern_shutter">תריסים</string>
+    <string name="lighting_pattern_holi">הולי</string>
     <string name="view_privacy_policy">עיין במדיניות הפרטיות</string>
     <string name="fps960_toast">לכידה בהילוך איטי תחל ברבע האחרון של ההקלטה</string>
     <string name="portrait_bokeh_text">מצב דיוקן</string>
@@ -607,27 +610,27 @@
     <string name="live_speed_extreme_fast">מהיר מאוד</string>
     <string name="live_sticker_updating">מעדכן…</string>
     <string name="live_sticker_network_error_hint">שגיאת רשת</string>
-    <string name="ultra_wide_mode">זוית רחבה</string>
+    <string name="ultra_wide_mode">זווית רחבה מאוד</string>
     <string name="beauty_body">גוף</string>
     <string name="beauty_body_head">ראש</string>
     <string name="beauty_body_body">צנום</string>
     <string name="beauty_body_shoulder">כתפיים</string>
     <string name="beauty_body_legged">רגליים</string>
     <string name="beauty_body_reset_tip">אפסת את אפקט גוף בהצלחה</string>
-    <string name="ultra_wide_open_tip">מצב זווית רחבה</string>
-    <string name="ultra_wide_close_tip">מצב זווית רחבה כבוי</string>
-    <string name="pref_camera_zoom_mode_entry_ultra">זוית רחבה</string>
-    <string name="ultra_wide_recommend_tip_hint">נסה מצב זווית רחבה</string>
+    <string name="ultra_wide_open_tip">מצב זווית רחבה מאוד</string>
+    <string name="ultra_wide_close_tip">מצב זווית מאוד רחבה כבוי</string>
+    <string name="pref_camera_zoom_mode_entry_ultra">זווית רחבה מאוד</string>
+    <string name="ultra_wide_recommend_tip_hint">נסה מצב זווית רחבה מאוד</string>
     <string name="camera_liveshot_on_tip">צילום דינאמי</string>
     <string name="camera_liveshot_off_tip">כבה צילום דינאמי</string>
     <string name="accessibility_camera_liveshot_on">הפעל צילום דינאמי</string>
     <string name="accessibility_camera_liveshot_off">כבה צילום דינאמי</string>
     <string name="beauty_tab_name_live_filter">מסננים</string>
     <string name="beauty_tab_name_live_beauty">ייפוי</string>
-    <string name="accessibility_ultra_wide_on">הפעל מצב זווית רחבה</string>
-    <string name="accessibility_ultra_wide_off">כבה מצב זווית רחבה</string>
+    <string name="accessibility_ultra_wide_on">הפעל מצב זווית רחבה מאוד</string>
+    <string name="accessibility_ultra_wide_off">כבה מצב זווית רחבה מאוד</string>
     <string name="ai_scene_top_tip">מצב ירח</string>
-    <string name="pref_camera_ultra_wide_ldc_title">תקן הפרעות בתמונה במצב זווית רחבה</string>
+    <string name="pref_camera_ultra_wide_ldc_title">תקן הפרעות בתמונה במצב זווית רחבה מאוד</string>
     <string name="pref_camera_ultra_wide_ldc_description">תקן עיוותים באובייקטים באופן אוטומטי</string>
     <string name="pref_camera_normal_wide_ldc_title">תקן עיוותי פנים בתמונות קבוצתיות</string>
     <string name="pref_camera_normal_wide_ldc_description">תקן עיוותי פנים כאשר המצולמים מופעים בקצה המסגרת</string>
@@ -645,9 +648,9 @@
     <string name="live_edit_exit_confirm">עצור</string>
     <string name="live_edit_share_title">שתף</string>
     <string name="beauty_reset_toast">הסרת את המייפה בהצלחה</string>
-    <string name="pref_camera_ultra_wide_mode_title">מצב זווית רחבה</string>
+    <string name="pref_camera_ultra_wide_mode_title">מצב זווית רחבה מאוד</string>
     <string name="ultra_wide_mode_use_hint_text">"השתמש במצב זה על מנת לכלול יותר מהסצנה המופיעה בתמונה
- מצב זווית רחבה באה לעזור כאשר אינך יכול עוד להתרחק מהתמונה."</string>
+ מצב זווית רחבה מאוד באה לעזור כאשר אינך יכול עוד להתרחק מהתמונה."</string>
     <string name="live_reverse_message">האם למחוק את הפריט הקודם אותו לכדת?</string>
     <string name="live_reverse_confirm">מחיקה</string>
     <string name="live_error_title">שעון המערכת איננו מכוון</string>
@@ -672,4 +675,10 @@
     <string name="accessibility_ultra_pixel_photography_32mp_on">32MP מופעל</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">32MP כבוי</string>
     <string name="zoom_no_support_tip_48M">שימוש באמצעות \"זום\" איננו פעיל במצב 48MP</string>
+    <string name="hand_gesture_open_tip">הצג את כף ידיך למצלמה על מנת להתחיל את הטיימר</string>
+    <string name="hand_gesture_tip">תריס כף יד</string>
+    <string name="autozoom_landscape_hint">צלם במצב אופקי לקבלת אפקט מיטיבי</string>
+    <string name="super_night_toast">החזק את מכשיר הטלפון יציב כאשר אתה מצלם</string>
+    <string name="capture_back_pressed_hint">לחץ שוב ליציאה</string>
+    <string name="video_ultra_clear_tip">4K UHD</string>
 </resources>

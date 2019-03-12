@@ -19,16 +19,16 @@
         <item quantity="many">למחוק %1$d טפטים?</item>
     </plurals>
     <plurals name="editing_mode_title">
-        <item quantity="other">Selected %1$d items</item>
-        <item quantity="one">Selected %1$d item</item>
-        <item quantity="two">Selected %1$d items</item>
-        <item quantity="many">Selected %1$d items</item>
+        <item quantity="other">%1$d פריטים נבחרו</item>
+        <item quantity="one">פריט %1$d נבחר</item>
+        <item quantity="two">%1$d פריטים נבחרו</item>
+        <item quantity="many">%1$d פריטים נבחרו</item>
     </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
-        <item quantity="other">Page %1$d, %2$d apps.</item>
-        <item quantity="one">Page %1$d, %2$d app.</item>
-        <item quantity="two">Page %1$d, %2$d apps.</item>
-        <item quantity="many">Page %1$d, %2$d apps.</item>
+        <item quantity="other">עמוד %1$d. %2$d יישומים.</item>
+        <item quantity="one">עמוד %1$d. יישום %2$d.</item>
+        <item quantity="two">עמוד %1$d. %2$d יישומים.</item>
+        <item quantity="many">עמוד %1$d. %2$d יישומים.</item>
     </plurals>
     <plurals name="uninstall_dialog_title_multi_format">
         <item quantity="other">להסיר התקנת %1$d יישומים?</item>
@@ -43,9 +43,9 @@
         <item quantity="many">לא ניתן להסיר %1$d יישומים</item>
     </plurals>
     <plurals name="uninstall_result_multi_succeeded">
-        <item quantity="other">Uninstalled %1$d apps</item>
-        <item quantity="one">Uninstalled %1$d app</item>
-        <item quantity="two">Uninstalled %1$d apps</item>
-        <item quantity="many">Uninstalled %1$d apps</item>
+        <item quantity="other">%1$d יישומים הוסרו</item>
+        <item quantity="one">יישום %1$d הוסר</item>
+        <item quantity="two">%1$d יישומים הוסרו</item>
+        <item quantity="many">%1$d יישומים הוסרו</item>
     </plurals>
 </resources>

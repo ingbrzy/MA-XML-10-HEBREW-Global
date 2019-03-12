@@ -461,4 +461,5 @@
     <string name="dialog_verify_fingerprint_retry">לא ניתן היה לאמת את טביעת האצבע, נסה שוב.</string>
     <string name="button_touch">הנח אצבע על החיישן</string>
     <string name="button_input_password">הזן סיסמה</string>
+    <string name="master_clear_not_available">שחזור הגדרות יצרן מוגבל על ידי החברה שלך.</string>
 </resources>

@@ -84,16 +84,22 @@
         <item quantity="two">%d תמונות מוסתרות לא סונכרנו. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>
         <item quantity="many">%d תמונות מוסתרות לא סונכרנו. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">המשך סנכרון לאחר %d שעות</item>
-        <item quantity="one">המשך סנכרון לאחר שעה %d</item>
-        <item quantity="two">המשך סנכרון לאחר %d שעות</item>
-        <item quantity="many">המשך סנכרון לאחר %d שעות</item>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">הסנכרון מושהה. ממשיך בעוד %d דקות…</item>
+        <item quantity="one">הסנכרון מושהה. ממשיך בעוד %d דקה…</item>
+        <item quantity="two">הסנכרון מושהה. ממשיך בעוד %d דקות…</item>
+        <item quantity="many">הסנכרון מושהה. ממשיך בעוד %d דקות…</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">המשך סנכרון לאחר %d דקות</item>
-        <item quantity="one">המשך סנכרון לאחר דקה %d</item>
-        <item quantity="two">המשך סנכרון לאחר %d דקות</item>
-        <item quantity="many">המשך סנכרון לאחר %d דקות</item>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">לפני דקה %s</item>
+        <item quantity="one">לפני דקה %s</item>
+        <item quantity="two">לפני דקה %s</item>
+        <item quantity="many">לפני דקה %s</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">לפני %s שעות</item>
+        <item quantity="one">לפני שעה %s</item>
+        <item quantity="two">לפני %s שעות</item>
+        <item quantity="many">לפני %s שעות</item>
     </plurals>
 </resources>

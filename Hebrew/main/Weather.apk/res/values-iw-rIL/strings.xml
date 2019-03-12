@@ -15,6 +15,7 @@
     <string name="activity_find_city_dialog_cancel">ביטול</string>
     <string name="activity_find_city_dialog_message">אפשר ליישום מזג האוויר לגשת המיקום המדויק שלך.</string>
     <string name="activity_find_city_dialog_message_global">להפעיל את שירותי המיקום ולאפשר למכשירך לקבוע את מיקומך באמצעות רשת אלחוטית.</string>
+    <string name="activity_find_city_dialog_message_location_service">על מנת לקבל פרטים רלוונטיים אודות מזג האוויר, אפשר ליישום מזג האוויר לגשת אל המיקום שלך.</string>
     <string name="activity_find_city_dialog_set">הגדרות</string>
     <string name="activity_find_city_dialog_title">גישה לנתוני מיקום</string>
     <string name="activity_main_clickable">></string>
@@ -90,10 +91,12 @@
     <string name="daily_forecast_add_city_message">עקוב אחר מזג האוויר ב-%1$s כדי לקבל תחזית מפורטת יותר.</string>
     <string name="daily_forecast_add_city_title">עקוב אחר מזג האוויר בעזרת %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"לא ניתן היה לקבל את פרטי מזג האויר
 החלק מטה לרענון או בדוק את הגדרות הרשת"</string>
     <string name="data_provided_by">הנתונים סופקו באופן חלקי</string>
     <string name="edit_city">ניהול ערים</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">מעדכן…</string>
     <string name="empty_view_net_unavailable">לא ניתן היה להתחבר לרשת</string>
     <string name="empty_view_refresh">נסה שוב</string>
@@ -112,6 +115,8 @@
     <string name="first_start_network_title">חיבור לאינטרנט וגישה לנתוני מיקום</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">כעת</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">תחזית ל-24 שעות</string>
     <string name="hourly_forecast_title_hourly_desc">תחזית שעתית</string>
@@ -127,9 +132,11 @@
     <string name="indices_title_feel">הרגשה אמיתית</string>
     <string name="indices_title_pressure">לחץ</string>
     <string name="install">התקן</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">לחץ</string>
     <string name="international_details_title">פרטים</string>
     <string name="international_details_uv_index_title">מדד UV</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">רוח</string>
     <string name="it_is_going_to_rain">עומד לרדת גשם</string>
     <string name="locate_fail_detail_err">"לא ניתן לאתר את המכשיר
@@ -150,6 +157,7 @@
     <string name="minute_rain_progress_indicator_original_time">- -</string>
     <string name="minute_rain_pull_down_refresh">משוך מטה לרענון</string>
     <string name="minute_rain_refreshing_now">מרענן…</string>
+    <string name="missing_required_permission">השבתת הרשאה חיונית.</string>
     <string name="more_details">פרטים נוספים</string>
     <string name="network_not_available">אין אפשרות להתחבר לרשת</string>
     <string name="network_unavailable">לא ניתן להתחבר לרשת.</string>
@@ -165,6 +173,14 @@
     <string name="particulate_matter_exceeded">גבוהה</string>
     <string name="particulate_matter_not_exceeded">רגילה</string>
     <string name="particulate_matter_serious_exceeded">גבוהה מידי</string>
+    <string name="permission_device_info">מידע על המכשיר</string>
+    <string name="permission_device_introduce">עבור זיהוי מספר המכשיר המבוסס על מודל המכשיר ו IMEI ולספק שירותים מקומיים המבוססים על שפה</string>
+    <string name="permission_exit">יציאה</string>
+    <string name="permission_privacy">מדיניות פרטיות (חובה)</string>
+    <string name="permission_select_all">בחירת הכל</string>
+    <string name="permission_storage">אחסון</string>
+    <string name="permission_storage_introduce">עבור גישה של פריטים במכשיר ושמירה של קבצים</string>
+    <string name="permission_user_protocol">חשבון משתמש (חובה)</string>
     <string name="policy_settings">תנאי השימוש</string>
     <string name="precipitation_degree_five">כבד</string>
     <string name="precipitation_degree_four">חזק</string>
@@ -204,6 +220,7 @@
     <string name="share_menu_title">שיתוף</string>
     <string name="share_subject">שתף</string>
     <string name="share_weather_desc">\#מזג אויר MIUI#היום %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">לא ניתן היה לבצע צילום מסך</string>
     <string name="some_where_on_earth">איפה שהוא בכדור הארץ</string>
@@ -250,6 +267,8 @@
     <string name="view_indexes_item_today">היום</string>
     <string name="view_indexes_item_tommorrow">מחר</string>
     <string name="weather_alert_channel_name">התראות</string>
+    <string name="weather_introduce">תמיד איתך, בגשם או בשמש.</string>
+    <string name="weather_permission_agree">אשר</string>
     <string name="weather_service_channel_name">שירותים ברקע</string>
     <string name="wind_direction_no_data">רוח</string>
     <string name="wind_unit">%1$s קמ\"ש</string>

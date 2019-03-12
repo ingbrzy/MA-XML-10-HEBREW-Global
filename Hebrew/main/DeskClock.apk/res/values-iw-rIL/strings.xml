@@ -71,6 +71,12 @@
     <string name="invalid_time">שעה לא חוקית: %3$s %1$d: %2$d</string>
     <string name="invalid_timer_length">משך הזמן של הטיימר אינו חוקי</string>
     <string name="keep_screen_on">השאר את המסך דולק</string>
+    <string name="korea_permission_calendar">לוח שנה</string>
+    <string name="korea_permission_calendar_desc">על מנת לגשת לפרטי האירוע ושליחת תזכורות</string>
+    <string name="korea_permission_phone">טלפון</string>
+    <string name="korea_permission_phone_desc">בעבור גישה סטטוס מכשיר והשתקת תזכורות בעת קבלת שיחות</string>
+    <string name="korea_permission_storage">אחסון</string>
+    <string name="korea_permission_storage_desc">על מנת לשמור שעונים מעוררים</string>
     <string name="label">הגדר שם</string>
     <string name="label_pref_summary">שם</string>
     <string name="lap">הקפה</string>
@@ -107,9 +113,11 @@
     <string name="module_download_cancel">לא, תודה</string>
     <string name="module_download_data_msg">שעון צריך להתחבר לאינטרנט כדי להוריד קבצי שמע עבור MIUI 10 מזג אוויר שעון מעורר ושעוני רעשי רקע. יידרשו 20MB של נתונים סלולריים עבור הורדה זו. האם אתה מסכים?</string>
     <string name="module_download_data_msg_golbal">שעון צריך להתחבר לאינטרנט כדי להוריד קבצי שמע עבור MIUI 10 מזג אוויר שעון מעורר ושעוני רעשי רקע. יידרשו 20MB של נתונים סלולריים עבור הורדה זו. האם אתה מסכים?</string>
+    <string name="module_download_data_msg_replace">עדכון שמע בעבור שעונים מעוררים חכמים (20מ\"ב) זמין כעת. האם להתחבר לרשת ולהוריד עכשיו?</string>
     <string name="module_download_fail">לא ניתן היה להוריד את קובצי האודיו הנוספים</string>
     <string name="module_download_msg">השעון צריך להתחבר לאינטרנט כדי להוריד קבצי שמע עבור MIUI 10, מזג האוויר שעון מעורר ושעוני רקע. האם אתה מסכים?</string>
     <string name="module_download_msg_golbal">השעון צריך להתחבר לאינטרנט כדי להוריד קבצי שמע עבור MIUI 10, מזג האוויר שעון מעורר ושעוני רקע. האם אתה מסכים?</string>
+    <string name="module_download_msg_replace">עדכון שמע בעבור שעונים מעוררים חכמים זמין כעת. האם להתחבר לרשת ולהוריד עכשיו?</string>
     <string name="module_download_no_network">לא ניתן להתחבר לאינטרנט. נא לבדוק את הגדרות הרשת ולנסות שוב.</string>
     <string name="module_download_ok">אפשר</string>
     <string name="module_download_success">הורדת קובצי האודיו הנוספים הושלמה בהצלחה</string>
@@ -148,6 +156,7 @@
     <string name="shutdown_alarm_enable_summary">השעון המעורר ישתתק במידה אם תגדיר אותו לפחות 5 דקות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="slider_text">החלק מעלה לכיבוי</string>
     <string name="snooze_confirm_cancel">כבה שעון מעורר</string>
@@ -161,10 +170,12 @@
     <string name="snooze_duration_value_thirty">30</string>
     <string name="snooze_duration_value_twenty">20</string>
     <string name="snooze_duration_value_twenty_five">25</string>
+    <string name="star_wy_alarm_speech">הכר את רוי וואנג</string>
     <string name="start">התחל</string>
     <string name="start_up">התחל</string>
     <string name="stopwatch_lap_empty_text">אין הקפות</string>
     <string name="stopwatch_title">שעון עצר</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">הגדרות</string>
     <string name="system_time_settings_category_title">הגדרות שעה</string>
     <string name="temperature_unit">℃</string>

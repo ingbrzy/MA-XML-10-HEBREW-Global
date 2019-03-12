@@ -125,6 +125,14 @@
     <string name="install">התקנה</string>
     <string name="installing">מתקין…</string>
     <string name="insufficient_space">אין מספיק שטח אחסון</string>
+    <string name="korean_all_choose_item_title">I agree to all the terms and conditions below.</string>
+    <string name="korean_permission_group_phone_describe">"Access device's IMEI and network status, collect the info about failed downloads to improve services"</string>
+    <string name="korean_permission_group_phone_title">Phone</string>
+    <string name="korean_privacy_btn_accept">Accept</string>
+    <string name="korean_privacy_btn_exit">Exit</string>
+    <string name="korean_privacy_item_title">Privacy Policy (mandatory)</string>
+    <string name="korean_privacy_tv_summary">Read all the following items carefully and choose whether you accept them.</string>
+    <string name="korean_user_agreement_item_title">User Agreement (mandatory)</string>
     <string name="load_finish_hint">זה הכל לעת עתה.</string>
     <string name="loading">רק רגע…</string>
     <string name="media_filter">מדיה</string>
@@ -136,6 +144,7 @@
     <string name="menu_title_resume_all">התחל הכל</string>
     <string name="menu_title_settings">הגדרות</string>
     <string name="net_error">התחבר לרשת ונסה שוב</string>
+    <string name="new_file_notification_title_image">תמונה</string>
     <string name="no_file_hint">משימת ההורדה עבור קובץ זה כבר קיימת</string>
     <string name="no_result_for_keyword">לא ניתן היה למצוא את \"%1$s\"</string>
     <string name="no_share_file">לא ניתן היה לשתף קובץ זה</string>
