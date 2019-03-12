@@ -492,7 +492,6 @@
     <string name="face_name_edit">עריכה</string>
     <string name="face_name_input">הזן שם</string>
     <string name="face_recommend">המלצות</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">לא ניתן היה להשלים את התהליך</string>
     <string name="fail_to_pick_email">כתובת דוא\"ל לא חוקית</string>
     <string name="fail_to_sync_album">לא ניתן היה לסנכרן את האלבום. בדוק את חיבור הנתונים שלך ונסה שוב.</string>
@@ -503,7 +502,6 @@
     <string name="feature_guidance_photo_effects">"אפקטים חדשים לתמונות
 זמינים כעת"</string>
     <string name="feature_guidance_video_editor_smart_effects">אפקטים חדשים זמינים כעת</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_bw">שחור&amp;לבן</string>
     <string name="filter_bi_dusk">חשכה</string>
     <string name="filter_bi_lilt">Lilt</string>
@@ -577,7 +575,6 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">הגדר</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
  על מנת שתוכל לעבוד באופן תקין, לחץ 'הגדר' על מנת לעבור אל 'הרשאות'."</string>
@@ -831,7 +828,6 @@
     <string name="people_mark_mode_title_no_mark_name">בחר אדם</string>
     <string name="people_page_label">אנשים</string>
     <string name="people_page_unname">ללא שם</string>
-    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">עבור שמות אנשים המופיעים על גבי התמונות</string>
     <string name="permission_contract_name">אנשי קשר</string>
     <string name="permission_optional_category">הרשאות אופציונליות</string>
@@ -1078,9 +1074,6 @@
     <string name="search_title_recommend">מומלץ</string>
     <string name="search_title_suggestion">הצעות</string>
     <string name="search_title_tag">אובייקטים</string>
-    <string name="search_transition_element_icon">search_icon</string>
-    <string name="search_transition_element_input">search_input</string>
-    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">מחפש מקרן…</string>
     <string name="secret_album_card_description">המקום הבטוח ביותר עבור כל הסודות הקטנים שלך</string>
     <string name="secret_album_card_title">נסה אלבום מוסתר</string>
@@ -1426,12 +1419,7 @@
     <string name="refocus_type_static">רמת טשטוש</string>
     <string name="refocus_type_video">שבילי אור</string>
     <string name="screen_doodle_talkback_size">שרבוט רוחב הקו</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">בוצע</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ביטול</string>
     <string name="screen_save_dialog_btn_delete">מחיקת צילום מסך</string>
     <string name="screen_save_dialog_btn_save">"שמור ב'גלריה'"</string>
