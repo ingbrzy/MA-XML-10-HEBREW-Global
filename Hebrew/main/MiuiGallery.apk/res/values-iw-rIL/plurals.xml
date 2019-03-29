@@ -264,6 +264,12 @@
         <item quantity="two">%1$d סרטונים ממתינים לגיבוי</item>
         <item quantity="many">%1$d סרטונים ממתינים לגיבוי</item>
     </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">%1$d פריטים בסה\"כ</item>
+        <item quantity="one">פריט %1$d בסה\"כ</item>
+        <item quantity="two">%1$d פריטים בסה\"כ</item>
+        <item quantity="many">%1$d פריטים בסה\"כ</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">התמונות שנבחרו אינן על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
         <item quantity="one">התמונה שנבחרה אינה על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
@@ -401,12 +407,6 @@
         <item quantity="one">פריט %d</item>
         <item quantity="two">%d פריטים</item>
         <item quantity="many">%d פריטים</item>
-    </plurals>
-    <plurals name="photo_count_format">
-        <item quantity="other">%1$d פריטים בסה\"כ</item>
-        <item quantity="one">פריט %1$d בסה\"כ</item>
-        <item quantity="two">%1$d פריטים בסה\"כ</item>
-        <item quantity="many">%1$d פריטים בסה\"כ</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d קבצים</item>

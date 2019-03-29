@@ -136,9 +136,7 @@
     <string name="loan_interest_rate">ריבית</string>
     <string name="loan_pay_years">תקופת הלוואה</string>
     <string name="loan_payback_way">החזר</string>
-    <string name="loan_repayment_detail">פירוט ההחזר</string>
     <string name="loan_repayment_detail_loading">מתבצעת טעינה של פירוט ההחזר…</string>
-    <string name="loan_repayment_detail_unit">פירוט ההחזר (יואן סיני)</string>
     <string name="loan_unit">(×10 אלפים)</string>
     <string name="medical_treatment">טיפול רפואי</string>
     <string name="menuDesc">תפריט</string>
@@ -166,7 +164,7 @@
     <string name="mortgage_interest_rate">ריבית מסחרית</string>
     <string name="mortgage_item_repayment">שיטת החזר תשלום</string>
     <string name="mortgage_item_start_time">תאריך התחלה</string>
-    <string name="mortgage_item_years">תקופת משכנתא</string>
+    <string name="mortgage_item_years">הלוואה קבועה</string>
     <string name="mortgage_loans_amount">סכום המשכנתא</string>
     <string name="mortgage_provident_found_interest_rate">שיעור הריבית של הקרן</string>
     <string name="mortgage_repayment_amount">סכום ההחזר</string>
@@ -594,8 +592,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">לא להתחבר להורדות. בדוק אם יישום זה מכיל את כל ההרשאות הנדרשות בהגדרות > תחת יישומים מותקנים.</string>
     <string name="xiaomi_external_storage_unavailable">אחסון לא זמין. בדוק את כרטיס SD שלך.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"מציגים את גרסה %1$s
 גודל: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"מציגים את גרסה %1$s

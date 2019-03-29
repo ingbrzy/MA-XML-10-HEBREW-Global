@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_setting_hint">"Tap the button in the upper right corner to turn on this service.
+Themes will detect which apps you're using and display transparent wallpapers in the apps of your choice.​"</string>
     <string name="accessibiliy_description_content_account">פרופיל</string>
     <string name="accessibiliy_description_content_ad">פרסומת</string>
     <string name="accessibiliy_description_content_add_resource">הוסף פריטים</string>
@@ -27,6 +29,8 @@
     <string name="ad_downloading_tip">פריט זה מורד. באפשרותך להציג התקדמות בצל ההתראות.</string>
     <string name="add_resource_detail_fail">לא ניתן להוסיף את המשאב</string>
     <string name="all_resources">הכל</string>
+    <string name="app_disable_transparent_wallpaper">Without transparent wallpaper</string>
+    <string name="app_enable_transparent_wallpaper">With transparent wallpaper</string>
     <string name="app_name">ערכות נושא</string>
     <string name="apply_default_font_tip">להמשיך להשתמש בגופן הנוכחי של המערכת?</string>
     <string name="apply_font_btn_exclude">לא כעת</string>
@@ -82,6 +86,9 @@
     <string name="download_preview_failed">לא ניתן לטעון את התצוגה המקדימה</string>
     <string name="download_success">ההורדה הושלמה</string>
     <string name="dynamic_video_wallpaper">טפט 24 שעות</string>
+    <string name="enable_accessibility">Accessibility permissions required</string>
+    <string name="enable_accessibility_hint">"You can turn on this service in Themes. After that, you'll be able to select which apps should work with transparent wallpapers."</string>
+    <string name="enable_transparent_wallpaper">Use transparent wallpaper</string>
     <string name="exit_extreme_mode_dialog_agree">מסכים</string>
     <string name="exit_extreme_mode_dialog_cancel">בטל</string>
     <string name="exit_extreme_mode_dialog_title">כבה את המצב הקיצוני</string>
@@ -94,7 +101,6 @@
     <string name="find_more_font">מצא עוד</string>
     <string name="find_more_theme">מצא עוד</string>
     <string name="find_more_wallpapers">מצא עוד</string>
-    <string name="float_wallpaper_is_here">טפט שקוף</string>
     <string name="gift_anonymous">בעילום שם</string>
     <string name="gift_operation_fail_dlg_abandon">ביטול</string>
     <string name="gift_operation_fail_dlg_retry">נסה שוב</string>
@@ -127,6 +133,7 @@
     <string name="gift_use_confirmation_dlg_title">לשלוח מתנה זו?</string>
     <string name="gift_use_fail_dlg_title">משהו השתבש</string>
     <string name="gift_used">נשלח</string>
+    <string name="go_accessibility_setting">Select</string>
     <string name="hide_free">הסתרת פריטים חינמיים (%1$s)</string>
     <string name="hide_incompatible">הסתרת פריטים בלתי מתאימים (%1$s)</string>
     <string name="home_apply_failured">"לא ניתן להחיל את טפט 'מסך הבית'"</string>
@@ -148,11 +155,12 @@
     <string name="incompatible_dialog_ok">הבנתי</string>
     <string name="incompatible_dialog_title">בעיות התאמה</string>
     <string name="is_setting_wallpaper_message">מגדיר טפט…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">שעון מעורר</string>
     <string name="item_resource_audio_optional_color_ring">צלצול Ringback</string>
     <string name="item_resource_audio_optional_notification_ring">התראות</string>
     <string name="item_resource_audio_optional_phone_ring">צלצול</string>
-    <string name="lab">תכונות \"בטא\"</string>
+    <string name="lab">Theme lab</string>
     <string name="live_wallpaper">טפט חי</string>
     <string name="loading">רק רגע…</string>
     <string name="loading_resource_detail_fail">לא ניתן לטעון את המשאב</string>
@@ -170,6 +178,7 @@
     <string name="lockscreen_magazine_title">טפט קרוסלה</string>
     <string name="lockscreen_wallpaper">מסך הנעילה</string>
     <string name="lockstyle_personal_settings">התאמה אישית</string>
+    <string name="loop_wallpaper_is_here">מצגות רקעים זמינות כעת</string>
     <string name="mi_wallpaper">טפט MIUI</string>
     <string name="miuishare_account_activate_confirmation">הפעל חשבון Mi</string>
     <string name="miuishare_account_activate_ok">הפעל</string>
@@ -198,6 +207,7 @@
     <string name="mix_icons_option_des">סמלי מסך הבית. נקה תיבה זו כדי להשתמש באפשרויות ברירת המחדל.</string>
     <string name="mix_lockscreen_option_des">טפט של שעון. נקה תיבה זו כדי להשתמש באפשרויות ברירת המחדל.</string>
     <string name="mix_tip">ערכות רכיבים</string>
+    <string name="multi_sim_mms_ringtone_settings_dialog_message">הצלצול מוחל עבור שני כרטיסי ה-SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">הצלצול מוחל עבור שני כרטיסי ה-SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">הבנתי</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">אל תציג שוב</string>
@@ -231,6 +241,7 @@
     <string name="purchased_list_current">ערכות נושא מיועלות</string>
     <string name="purchased_list_legacy">מורשת ערכות נושא</string>
     <string name="recently_used">בשימוש לאחרונה</string>
+    <string name="reenable_accessibility">An error occurred. Grant accessibility permissions again.</string>
     <string name="refresh_footer_all_loaded">זה הכל לעת עתה.</string>
     <string name="refresh_footer_failed">לא ניתן היה לטעון את המידע</string>
     <string name="refresh_footer_finish">נטען בהצלחה</string>
@@ -374,6 +385,7 @@
     <string name="resource_pack_price_info">מחיר מקורי: %1$s</string>
     <string name="resource_pack_warning">רכשת כבר %1$d רכיבים בערכת נושא זו. זול יותר יהיה לרכוש את הרכיבים הנותרים בנפרד.</string>
     <string name="resource_present">מתנה</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">חינם</string>
     <string name="resource_price_unit"> נקודות Mi</string>
     <string name="resource_purchase_common_error">אירעה שגיאה, נסה שוב</string>
@@ -385,6 +397,10 @@
     <string name="resource_ranking">פופולרי</string>
     <string name="resource_ranking_free">חינם</string>
     <string name="resource_ranking_purchase">שולם</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">צלצולים</string>
     <string name="resource_ringtone_playing_error">שגיאה</string>
     <string name="resource_ringtone_volume_mute">הצלצול מושתק</string>
@@ -466,6 +482,7 @@
     <string name="the_picture_is_too_small">התמונה קטנה מידי</string>
     <string name="theme_apply_audio_dialog_item_alarm">שעון מעורר</string>
     <string name="theme_apply_audio_dialog_item_color_ring_back_tone">צליל חיוג מותאם אישית</string>
+    <string name="theme_apply_audio_dialog_item_mms">רינגטון הודעות</string>
     <string name="theme_apply_audio_dialog_item_notification">התראה</string>
     <string name="theme_apply_audio_dialog_item_ringtone">צלצול</string>
     <string name="theme_apply_failured">לא ניתן היה להחיל</string>
@@ -523,6 +540,7 @@
     <string name="theme_is_external_priority_storage">שמור בכרטיס הזכרון</string>
     <string name="theme_is_external_priority_storage_summary">"יישום 'ערכות נושא' יופעל מחדש על מנת להחיל הגדרות אלו."</string>
     <string name="theme_multiple_button_title_customize">התאמה אישית</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">לא</string>
     <string name="theme_purchased_list_empty">לא רכשת כל ערכת נושא.</string>
     <string name="theme_purchased_non_local">מקוון</string>
@@ -554,15 +572,20 @@
     <string name="title_system_audio_resource">צלצולי מערכת</string>
     <string name="title_system_wallpaper_resource">טפט מערכת</string>
     <string name="to_activate_the_account">הפעל את חשבון Mi שלך כעת</string>
+    <string name="transparency_pref_summary">Choose how transparent you want your wallpaper to be</string>
+    <string name="transparency_pref_title">Opacity level</string>
     <string name="transparent_wallpaper">טפט שקוף</string>
-    <string name="transparent_wallpaper_apply_success">הוחל בהצלחה. באפשרותך לבטל תכונה זו בערכות נושא > תכונות בטא.</string>
+    <string name="transparent_wallpaper_apply_success">Set successfully. Go to Themes > Profile > Theme lab for more features.</string>
+    <string name="transparent_wallpaper_disable">Off</string>
+    <string name="transparent_wallpaper_enable">On</string>
     <string name="transparent_wallpaper_enable_success">מופעל בהצלחה</string>
+    <string name="transparent_wallpaper_filter_pref_summary">"Transparent wallpapers won't be displayed in restricted apps"</string>
+    <string name="transparent_wallpaper_filter_pref_title">Select apps that should work with transparent wallpapers</string>
+    <string name="transparent_wallpaper_filter_set_successfully">Set successfully</string>
+    <string name="transparent_wallpaper_filter_setting">Individual apps</string>
     <string name="transparent_wallpaper_guide">חזור לערכות נושא</string>
     <string name="transparent_wallpaper_guide_tip">באפשרותך לבחור טפט שקוף בערכות הנושא כעת.</string>
-    <string name="transparent_wallpaper_white_wallpaper">הפוך את הרקע ללבן</string>
-    <string name="transparent_wallpaper_white_wallpaper_failed">לא יכול לשנות את הרקע ללבן</string>
-    <string name="transparent_wallpaper_white_wallpaper_success">צבע הרקע הוא לבן כעת</string>
-    <string name="transparent_wallpaper_white_wallpaper_tip">טפט שקוף נראה הכי טוב על רקע לבן</string>
+    <string name="transparent_wallpaper_pref_summary">Wallpapers with reduced background opacity</string>
     <string name="uid_change_dialog_message">מחקת עדכונים. אתחל את המכשיר על מנת שתוכל להשתמש בערכות הנושא.</string>
     <string name="uid_change_dialog_ok">הבנתי</string>
     <string name="uid_change_dialog_title">אתחל את המכשיר</string>
@@ -589,10 +612,32 @@
     <string name="wallpaper_crop">חתוך</string>
     <string name="wallpaper_decoded_error">לא ניתן לטעון את הטפט</string>
     <string name="wallpaper_detail_load_page_no_network">התחבר לרשת ונסה שוב.</string>
+    <string name="wallpaper_loop_add_success">נוסף בהצלחה</string>
+    <string name="wallpaper_loop_add_to_loop_desk_wallpaper">הוספת שקופיות במסך הבית</string>
+    <string name="wallpaper_loop_add_to_loop_lock_wallpaper">הוספת שקופיות במסך הנעילה</string>
+    <string name="wallpaper_loop_desc_all_walpaper">צור מצגות מותאמות אישית</string>
+    <string name="wallpaper_loop_desc_desk_walpaper">צור הצגת שקופיות מותאמות עבור מסך הבית</string>
+    <string name="wallpaper_loop_desc_lock_walpaper">צור הצגת שקופיות מותאמות עבור מסך הנעילה</string>
+    <string name="wallpaper_loop_interval_15min">בכל 15 דקות</string>
+    <string name="wallpaper_loop_interval_1d">כל יום</string>
+    <string name="wallpaper_loop_interval_1h">כל שעה</string>
+    <string name="wallpaper_loop_interval_desc">הגדר מרווח זמן עבור הצגת השקופיות שלך</string>
+    <string name="wallpaper_loop_interval_title">שינוי הטפט</string>
+    <string name="wallpaper_loop_manage">נהל</string>
+    <string name="wallpaper_loop_more_options">הגדרות נוספות</string>
+    <string name="wallpaper_loop_my_desk_wallpaper">טפטים למסך הבית שלי</string>
+    <string name="wallpaper_loop_my_lock_wallpaper">הטפטים שלי למסך הנעילה</string>
+    <string name="wallpaper_loop_order_desc">בחר את הסדר בו מופיעות השקופיות</string>
+    <string name="wallpaper_loop_order_loop">מקורי</string>
+    <string name="wallpaper_loop_order_shuffle">אקראי</string>
+    <string name="wallpaper_loop_order_title">סדר השקופיות</string>
+    <string name="wallpaper_loop_title">שקופיות טפט</string>
+    <string name="wallpaper_loop_title_desk_wallpaper">הצגת טפט שקופיות על מסך הבית</string>
+    <string name="wallpaper_loop_title_lock_walpaper">"הוחל טפט של 'מסך הנעילה'"</string>
     <string name="wallpaper_scroll_type_tips">גלילת הטפט</string>
     <string name="wallpaper_set_as_both">הגדר כשניהם</string>
     <string name="wallpaper_set_as_desktop">הגדר כמסך הבית</string>
-    <string name="wallpaper_set_as_float_wallpaper">טפט שקוף (ביתא)</string>
+    <string name="wallpaper_set_as_float_wallpaper">Set as transparent wallpaper</string>
     <string name="wallpaper_set_as_lockscreen">"הגדר כ'מסך הנעילה'"</string>
     <string name="wallpaper_settings">הגדרות טפט</string>
     <string name="wallpaper_settings_loading_text">רק רגע…</string>
@@ -606,28 +651,4 @@
     <string name="xiaoai_speech_not_installed_download">הורדה</string>
     <string name="xiaoai_speech_not_installed_message">הורד והתקן את הסייע הקולי של Mi AI על מנת להמשיך.</string>
     <string name="xiaoai_speech_not_installed_title">הסייע הקולי Mi AI אינו מותקן.</string>
-    <string name="multi_sim_mms_ringtone_settings_dialog_message">This ringtone will be applied for both SIM cards.</string>
-    <string name="theme_apply_audio_dialog_item_mms">Messaging ringtone</string>
-    <string name="wallpaper_loop_add_success">נוסף בהצלחה</string>
-    <string name="wallpaper_loop_add_to_loop_desk_wallpaper">הוספת שקופיות במסך הבית</string>
-    <string name="wallpaper_loop_add_to_loop_lock_wallpaper">הוספת שקופיות במסך הנעילה</string>
-    <string name="wallpaper_loop_desc_all_walpaper">צור הצגת שקופיות של טפט מותאמות אישית</string>
-    <string name="wallpaper_loop_desc_desk_walpaper">צור הצגת שקופיות מותאמות עבור מסך הבית</string>
-    <string name="wallpaper_loop_desc_lock_walpaper">צור הצגת שקופיות מותאמות עבור מסך הנעילה</string>
-    <string name="wallpaper_loop_interval_15min">בכל 15 דקות</string>
-    <string name="wallpaper_loop_interval_1d">כל יום</string>
-    <string name="wallpaper_loop_interval_1h">כל שעה</string>
-    <string name="wallpaper_loop_interval_desc">הגדר מרווח זמן עבור הצגת השקופיות שלך</string>
-    <string name="wallpaper_loop_interval_title">שינוי הטפט</string>
-    <string name="wallpaper_loop_manage">נהל</string>
-    <string name="wallpaper_loop_more_options">הגדרות כלליות</string>
-    <string name="wallpaper_loop_my_desk_wallpaper">טפטים למסך הבית שלי</string>
-    <string name="wallpaper_loop_my_lock_wallpaper">הטפטים שלי למסך הנעילה</string>
-    <string name="wallpaper_loop_order_desc">בחר את הסדר בו מופיעות השקופיות</string>
-    <string name="wallpaper_loop_order_loop">מקורי</string>
-    <string name="wallpaper_loop_order_shuffle">אקראי</string>
-    <string name="wallpaper_loop_order_title">סדר השקופיות</string>
-    <string name="wallpaper_loop_title">שקופיות טפט</string>
-    <string name="wallpaper_loop_title_desk_wallpaper">הצגת טפט שקופיות על מסך הבית</string>
-    <string name="wallpaper_loop_title_lock_walpaper">"הוחל טפט של 'מסך הנעילה'"</string>
 </resources>

@@ -6,7 +6,7 @@
         <item>20/1-18/2</item>
     </string-array>
     <string-array name="aries_info">
-        <item>טלה</item>
+        <item>aries</item>
         <item>טלה</item>
         <item>21/3-19/4</item>
     </string-array>
@@ -15,7 +15,7 @@
         <item>בונדסליגה</item>
     </string-array>
     <string-array name="cancer_info">
-        <item>סרטן</item>
+        <item>cancer</item>
         <item>סרטן</item>
         <item>22/6-22/7</item>
     </string-array>
@@ -81,8 +81,12 @@
         <item>אירוע זה ואירועים עתידיים</item>
         <item>כל האירועים</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
-        <item>תאומים</item>
+        <item>gemini</item>
         <item>תאומים</item>
         <item>21/5-21/6</item>
     </string-array>
@@ -91,12 +95,12 @@
         <item>לה ליגה</item>
     </string-array>
     <string-array name="leo_info">
-        <item>אריה</item>
+        <item>leo</item>
         <item>אריה</item>
         <item>23/7-22/8</item>
     </string-array>
     <string-array name="libra_info">
-        <item>מאזניים</item>
+        <item>libra</item>
         <item>מאזניים</item>
         <item>23/9-23/10</item>
     </string-array>
@@ -218,12 +222,12 @@
         <item>לא</item>
     </string-array>
     <string-array name="sagittarius_info">
-        <item>קשת</item>
+        <item>sagittarius</item>
         <item>קשת</item>
         <item>23/11-21/12</item>
     </string-array>
     <string-array name="scorpio_info">
-        <item>עקרב</item>
+        <item>scorpio</item>
         <item>עקרב</item>
         <item>24/10-22/11</item>
     </string-array>
@@ -232,7 +236,7 @@
         <item>"סדרה א'"</item>
     </string-array>
     <string-array name="taurus_info">
-        <item>שור</item>
+        <item>taurus</item>
         <item>שור</item>
         <item>20/4-20/5</item>
     </string-array>
@@ -332,7 +336,7 @@
         <item>יום לפני</item>
     </string-array>
     <string-array name="virgo_info">
-        <item>בתולה</item>
+        <item>virgo</item>
         <item>בתולה</item>
         <item>23/8-22/9</item>
     </string-array>

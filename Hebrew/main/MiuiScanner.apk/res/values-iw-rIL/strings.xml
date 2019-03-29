@@ -77,7 +77,7 @@
     <string name="got_it">הבנתי</string>
     <string name="gps">נווט</string>
     <string name="import_contact">ייבא איש קשר</string>
-    <string name="impunity_declaration_content">הסורק צריך להשתמש במצלמה שלך ולעבד את התמונות שלקחת תוך שימוש ביישום. אל תשתמש בסורק כדי לצלם או לסרוק תמונות המכילים את המידע האישי שלך. על-ידי הקשה \"מסכים\", אתה מסכים שלנו &amp;lt;font color=\"#ff32b4ff\"&amp;gt;&amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\" style=\"color:#ff32b4ff;\"&amp;gt;מדיניות פרטיות&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; ולאפשר לסורק, להתחבר לאינטרנט.</string>
+    <string name="impunity_declaration_content">הסורק צריך להשתמש במצלמה שלך ולעבד את התמונות שלקחת תוך שימוש ביישום. אל תשתמש בסורק כדי לצלם או לסרוק תמונות המכילים את המידע האישי שלך. על-ידי הקשה \"מסכים\", אתה מסכים שלנו &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">מדיניות פרטיות&lt;/a>&lt;/font> ולאפשר לסורק, להתחבר לאינטרנט.</string>
     <string name="impunity_declaration_negative_text">יציאה</string>
     <string name="impunity_declaration_title">מדיניות הפרטיות</string>
     <string name="label_choose_picture">בחירת תמונה</string>

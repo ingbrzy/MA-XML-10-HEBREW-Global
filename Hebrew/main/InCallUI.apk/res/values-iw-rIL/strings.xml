@@ -78,6 +78,7 @@
     <string name="respond_via_sms_custom_message">מסרון מותאם אישית</string>
     <string name="manageConferenceLabel">נהל שיחת ועידה</string>
     <string name="emergency_call_dialog_number_for_display">מספר חירום</string>
+    <string name="volte_call">שיחות VoLTE</string>
     <string name="notification_dialing">מחייג</string>
     <string name="notification_ongoing_call">שיחה פעילה</string>
     <string name="notification_on_hold">בהחזק</string>

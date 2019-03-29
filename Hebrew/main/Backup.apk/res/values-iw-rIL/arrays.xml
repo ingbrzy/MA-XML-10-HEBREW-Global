@@ -14,13 +14,10 @@
         <item>מאוד מרוצה</item>
     </string-array>
     <string-array name="trans_cancel_survey_title">
-        <item>ההעברה לוקחת זמן רב</item>
-        <item>החיבור הופרע</item>
-        <item>בחרתי את הפריט הלא נכון להעברהה</item>
-        <item>יותר מדיי שלבים</item>
-        <item>סוללת הטלפון כמעט ריקה</item>
-        <item>הפריטים שהועברו פגומים</item>
-        <item>התחלתי את ההעברה בטעות</item>
-        <item>אחר</item>
+        <item>תחושה כללית</item>
+        <item>קצב העברה</item>
+        <item>קלות התהליך</item>
+        <item>האם ההוראות ברורות מספיק</item>
+        <item>התכונה שימושית</item>
     </string-array>
 </resources>

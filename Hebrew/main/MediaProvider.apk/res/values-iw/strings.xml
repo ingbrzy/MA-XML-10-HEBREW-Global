@@ -20,7 +20,7 @@
     <string name="sound_name_sway">התנודדות</string>
     <string name="sound_name_wag">כשכוש</string>
     <string name="add_ringtone_text">רינגטון חדש</string>
-    <string name="delete_ringtone_text">מחק</string>
+    <string name="delete_ringtone_text">מחיקה</string>
     <string name="unable_to_add_ringtone">לא ניתן להוסיף רינגטון מותאם אישית</string>
     <string name="unable_to_delete_ringtone">לא ניתן למחוק רינגטון מותאם אישית</string>
 </resources>

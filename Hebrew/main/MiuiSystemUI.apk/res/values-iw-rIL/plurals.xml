@@ -216,4 +216,10 @@
         <item quantity="two">בהיר</item>
         <item quantity="many">בהיר</item>
     </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">מחוברים %1$d מכשירים</item>
+        <item quantity="one">מחובר מכשיר %1$d</item>
+        <item quantity="two">מחוברים %1$d מכשירים</item>
+        <item quantity="many">מחוברים %1$d מכשירים</item>
+    </plurals>
 </resources>

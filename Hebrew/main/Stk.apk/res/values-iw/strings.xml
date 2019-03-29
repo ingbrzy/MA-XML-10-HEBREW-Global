@@ -18,6 +18,7 @@
     <string name="enable_app">מופעל</string>
     <string name="disable_app">מושבת</string>
     <string name="stk_dialog_title">SIM ToolKit</string>
+    <string name="default_tone_dialog_msg">צליל הפעלה</string>
     <string name="default_open_channel_msg">ערוץ פתוח?</string>
     <string name="default_send_data_msg">שולח נתונים</string>
     <string name="default_receive_data_msg">מקבל נתונים</string>

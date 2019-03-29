@@ -114,6 +114,7 @@
     <string name="edit_mode_group_error_full">אין מספיק מקום</string>
     <string name="edit_mode_group_error_in_folder">סגור את התיקיה לפני קיבוץ אייקונים</string>
     <string name="edit_mode_group_error_one_folder">לא ניתן לשכפל תיקיה עם אייקונים נבחרים</string>
+    <string name="edit_mode_top_menu_finish">סיים</string>
     <string name="edit_mode_uninstall">הסרת התקנה</string>
     <string name="editing_add_widget_tips">"ערוך ווידג'טים"</string>
     <string name="editing_mode_enter_tip_text">"צבוט על מנת לערוך 'מסך הבית'"</string>
@@ -215,6 +216,7 @@
     <string name="menu_default_screen_preview">הגדרת מסך ברירת מחדל</string>
     <string name="menu_edit">ערוך את מסך הבית</string>
     <string name="menu_exit_scene">צא מ-Mi Space</string>
+    <string name="menu_finish">סיים</string>
     <string name="menu_item_add_item">הוסף אל מסך הבית</string>
     <string name="menu_launcher_setting">"הגדרות 'משגר היישומים'"</string>
     <string name="menu_lock">"נעל את פריסת 'מסך הבית'"</string>
@@ -352,15 +354,15 @@
     <string name="widget_gadget_player">מוסיקה</string>
     <string name="widget_global_search">חיפוש</string>
     <string name="widget_quick_function">פונקציות מהירות</string>
+    <string name="widgets_preview_title">"הוסף ווידג'ט"</string>
     <string name="home_gesture_content_center">מרכז תוכן</string>
     <string name="home_gesture_global_search">חיפוש</string>
     <string name="home_gesture_no_action">ללא</string>
     <string name="home_gesture_notification_bar">התראות</string>
     <string name="home_pull_down_action">החלק כלפי מטה במסך הבית</string>
     <string name="home_slide_up_action">החלק כלפי מעלה במסך הבית</string>
-    <string name="launcher_pull_down_title">החלק כלפי מעלה במסך הבית</string>
-    <string name="launcher_slide_up_title">החלק כלפי מטה במסך הבית</string>
-    <string name="menu_finish">סיים</string>
-    <string name="minus_one_screen">minus one screen</string>
-    <string name="widgets_preview_title">"הוסף ווידג'ט"</string>
+    <string name="launcher_pull_down_title">העבר אצבע כלפי מטה במסך הבית</string>
+    <string name="launcher_slide_up_title">העבר אצבע כלפי מעלה במסך הבית</string>
+    <string name="launcher_sliding_up_gesture">"החלק מעלה ב'מסך הבית' לפתיחת החיפוש"</string>
+    <string name="minus_one_screen">כספת היישומים</string>
 </resources>

@@ -30,6 +30,7 @@
     <string name="sdcard_not_present">‏אין כרטיס SD.</string>
     <string name="only_primary_user_allowed">רק הבעלים של מכשיר זה יכול להתקין אישורים.</string>
     <string name="credential_usage_label">השימוש בפרטי הכניסה:</string>
+    <string name="certificate_capabilities_warning">הערה: המנפיק של אישור זה עשוי לבדוק את כל התנועה אל המכשיר וממנו.</string>
     <string name="wifi_title">‏פרופיל Wi-Fi</string>
     <string name="wifi_detail_title">‏פרטים עבור %s</string>
     <string name="wifi_detail_label">פרטים</string>

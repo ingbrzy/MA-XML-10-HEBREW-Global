@@ -54,4 +54,10 @@
         <item quantity="two">‏%d מסכים ב’סקירה‘</item>
         <item quantity="many">‏%d מסכים ב’סקירה‘</item>
     </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">‏%1$d מכשירים מחוברים</item>
+        <item quantity="one">מכשיר אחד מחובר</item>
+        <item quantity="two">‏%1$d מכשירים מחוברים</item>
+        <item quantity="many">‏%1$d מכשירים מחוברים</item>
+    </plurals>
 </resources>

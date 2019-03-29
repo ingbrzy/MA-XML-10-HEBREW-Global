@@ -457,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">אפקט עומק</string>
     <string name="portrait_mode_use_hint">"מצב 'דיוקן' מעמעם את הרקע
  ומדגיש את האנשים בקידמה."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">נסה מצב דיוקן.nשמור את האובייקט חד, תוך טשטוש הרקע.</string>
     <string name="pref_camera_square_mode_title">מרובע</string>
     <string name="simple_mode_button_text_square">"כבה את 'מרובע'"</string>
@@ -472,6 +473,7 @@
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">מצבים</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>
@@ -679,4 +681,8 @@
     <string name="super_night_toast">החזק את מכשיר הטלפון יציב כאשר אתה מצלם</string>
     <string name="capture_back_pressed_hint">לחץ שוב ליציאה</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
+    <string name="pref_camera_video_bokeh_on">בוקה וידאו</string>
+    <string name="pref_camera_video_bokeh_off">בוקה וידאו כבוי</string>
+    <string name="macro_mode">מאקרו</string>
+    <string name="macro_mode_tip">המרחק בין העדשה לבין האובייקט לא צריכה לעלות מעל 10 ס\"מ</string>
 </resources>

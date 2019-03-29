@@ -56,7 +56,7 @@
         <item>"‏כדי להתקשר ולשלוח הודעות ברשת Wi-Fi, תחילה יש לבקש מהספק להגדיר את השירות. לאחר מכן, יש להפעיל שוב שיחות Wi-Fi ב'הגדרות'. (קוד שגיאה: %1$s)"</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>יש להירשם אצל הספק (קוד שגיאה: %1$s)</item>
+        <item>‏אירעה בעיה ברישום שיחות Wi-Fi אצל הספק שלך: %1$s</item>
     </string-array>
     <string-array name="wfcSpnFormats">
         <item>%s</item>

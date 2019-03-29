@@ -26,20 +26,20 @@
     </plurals>
     <plurals name="duration_seconds">
         <item quantity="other">%d שניות</item>
-        <item quantity="one">1 שניות</item>
-        <item quantity="two">%d שתי שניות</item>
+        <item quantity="one">%d שניה</item>
+        <item quantity="two">%d שניות</item>
         <item quantity="many">%d שניות</item>
     </plurals>
     <plurals name="duration_minutes">
-        <item quantity="other">%dשתי דקות</item>
-        <item quantity="one">דקה 1</item>
-        <item quantity="two">%d שתי דקות</item>
-        <item quantity="many">%d שתי דקות</item>
+        <item quantity="other">%d דקה</item>
+        <item quantity="one">%d דקה</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
     </plurals>
     <plurals name="duration_hours">
         <item quantity="other">%d שעות</item>
-        <item quantity="one">שעה 1</item>
-        <item quantity="two">%d שעתיים</item>
+        <item quantity="one">%d שעה</item>
+        <item quantity="two">%d שעות</item>
         <item quantity="many">%d שעות</item>
     </plurals>
 </resources>

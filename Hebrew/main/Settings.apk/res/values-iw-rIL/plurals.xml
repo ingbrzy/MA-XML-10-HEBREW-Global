@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$sשעות %2$s"</item>
-        <item quantity="one">" %1$sשעה %2$s"</item>
-        <item quantity="two">" %1$sשעות %2$s"</item>
-        <item quantity="many">" %1$sשעות %2$s"</item>
-    </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">לעולם אל תשבית עבור %d יישומים</item>
         <item quantity="one">לעולם אל תשבית עבור יישום 1</item>
@@ -96,35 +90,11 @@
         <item quantity="two">%d נוספו</item>
         <item quantity="many">%d נוספו</item>
     </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>
-        <item quantity="one">"מתג %1$d יופיע ב'לוח ההתראות'"</item>
-        <item quantity="two">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>
-        <item quantity="many">"%1$d מתגים יופיעו ב'לוח ההתראות'"</item>
-    </plurals>
-    <plurals name="show_audio_logcat_countdown">
-        <item quantity="other">%1$d צעדים נשארו לפני שתוכל לקבל את יומן הקול</item>
-        <item quantity="one">%1$d צעד נשאר לפני שתוכל לקבל את יומן הקול</item>
-        <item quantity="two">%1$d שני צעדים נשארו לפני שתוכל לקבל את יומן הקול</item>
-        <item quantity="many">%1$d צעדים נשארו לפני שתוכל לקבל את יומן הקול</item>
-    </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
         <item quantity="one">הינך נמצא צעד %1$d לפני כניסה ל-CIT.</item>
         <item quantity="two">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
         <item quantity="many">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
-    </plurals>
-    <plurals name="show_gps_logcat_countdown">
-        <item quantity="other">%1$d נשארו צעדים לפני שתוכל לקבל את יומן GPS</item>
-        <item quantity="one">%1$d נשאר צעד אחד לפני שתוכל לקבל את יומן GPS</item>
-        <item quantity="two">%1$d נשארו שני צעדים לפני שתוכל לקבל את יומן GPS</item>
-        <item quantity="many">%1$d נשארו צעדים לפני שתוכל לקבל את יומן GPS</item>
-    </plurals>
-    <plurals name="show_modem_logcat_countdown">
-        <item quantity="other">%1$d צעדים נשארו לפני שתוכל לקבל את יומן המודם</item>
-        <item quantity="one">%1$d צעד נשאר לפני שתוכל לקבל את יומן המודם</item>
-        <item quantity="two">%1$d שני צעדים נשארו לפני שתוכל לקבל את יומן המודם</item>
-        <item quantity="many">%1$d צעדים נשארו לפני שתוכל לקבל את יומן המודם</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">הינך נמצא %1$d צעדים לפני כניסה לפרטי הטלפון.</item>
@@ -137,12 +107,6 @@
         <item quantity="one">הינך נמצא צעד %1$d לפני דיווח על שגיאה.</item>
         <item quantity="two">הינך נמצא %1$d צעדים לפני דיווח על שגיאה.</item>
         <item quantity="many">הינך נמצא %1$d צעדים לפני דיווח על שגיאה.</item>
-    </plurals>
-    <plurals name="show_reset_countdown">
-        <item quantity="other">השלם %1$d צעדים כדי לבצע איפוס להגדרות היצרן</item>
-        <item quantity="one">השלם צעד אחד (%1$d) כדי לבצע איפוס להגדרות היצרן</item>
-        <item quantity="two">השלם %1$d צעדים כדי לבצע איפוס להגדרות היצרן</item>
-        <item quantity="many">השלם %1$d צעדים כדי לבצע איפוס להגדרות היצרן</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d יישומים לא יכולים להציג התראות</item>
@@ -167,5 +131,11 @@
         <item quantity="one">רשת %d שותפה</item>
         <item quantity="two">%d רשתות שותפו</item>
         <item quantity="many">%d רשתות שותפו</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">מחוברים %1$d מכשירים</item>
+        <item quantity="one">מחובר מכשיר %1$d</item>
+        <item quantity="two">מחוברים %1$d מכשירים</item>
+        <item quantity="many">מחוברים %1$d מכשירים</item>
     </plurals>
 </resources>

@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
 גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">לא ניתן היה להתחיל את ההורדה, ודא כי מנהל ההורדות עובד כראוי.</string>
     <string name="app_name">גיבוי</string>
     <string name="local_app_name">גיבוי</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">שחזור</string>
     <string name="enable_encrypt_description">הצפנה</string>
     <string name="disable_encrypt_description">ביטול הצפנה</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -308,7 +312,9 @@
     <string name="trans_detail_app_data_useless_tip">באפשרותך לשחזר פריטים אלה מתוך היישום, אין צורך לבצע העברה.</string>
     <string name="trans_detail_item_app_data_too_large_tip">נראה כי פריט זה גדול מידי מכדי שיוכל להיות מועבר.</string>
     <string name="trans_detail_item_app_data_selected_tip">יישומים קשורים נבחרו גם כן.</string>
-    <string name="trans_detail_list_footer">שים לב: באפשרותך להעביר יישומים בצורה נפרדת. עם זאת, במידה ותבחר בנתוני יישום מסויים, יישומים קשורים יועברו גם כן.</string>
+    <string name="trans_detail_list_footer">"1. תוכל לבחור יישומים באופן פרטני שאתה מעוניין להעביר.
+2. אם תבחר נתוני ייישום, יישומים קשורים יבחרו אף הן.
+3. נתונים עבור WeChat וQQ עלולים שלא לעבור עקב בעיות תאימות. תוכל לנסות את תכונת ההעברה ביישום."</string>
     <string name="trans_detail_page_tip">ככל שתבחר יותר יישומים כך גם תהליך ההעברה יארוך זמן רב יותר.</string>
     <string name="trans_detail_sys_data_list_title">יישומי מערכת</string>
     <string name="trans_detail_app_data_list_title">נתוני יישום</string>
@@ -368,8 +374,9 @@
     <string name="trans_wait_trans_data">"מחובר אל המכשיר הישן.
 ממתין להעברת הנתונים…"</string>
     <string name="trans_select_data">בחר פריטים לשליחה</string>
-    <string name="trans_select_data_tips">"בחר פריטים להעברה
-קבצים זהים הקיימים במכשיר החדש יוחלפו"</string>
+    <string name="trans_select_data_tips">"בחר פריטים להעברה.
+ פריטים קודמים על מכשירים חדשים ימחקו.
+ (גודל הפריטים שהועברו שאתה רואה כעת הנו משוער.)"</string>
     <string name="trans_select_data_no_space">"אין מספיק מקום פנוי בשטח האחסון של ההתקן החדש (%s זמינים).
 פנה מקום או העבר פריטים חשובים בלבד."</string>
     <string name="trans_select_data_too_large">"בחרת בפריטים רבים מידי להעברה.
@@ -385,6 +392,22 @@
     <string name="trans_old_phone_low_space_msg">Mi Mover זקוק לשטח אחסון פנוי לצורך אריזת הנתונים המועברים, אך נראה כי אין מספיק שטח אחסון פנוי על גבי ההתקן הישן. נקה שטח אחסון ב\"אבטחה\" או העבר פריטים חשובים בלבד.</string>
     <string name="button_clean_garbage">פינוי שטח</string>
     <string name="button_quit">יציאה</string>
+    <string name="soft_ap_creating">יוצר נקודה חמה…</string>
+    <string name="wait_link">"חבר את המכשיר הישן אל נקודה חמה.
+ אל תעזוב דף זה עד סיום ההתחברות."</string>
+    <string name="old_way">תוכל גם להתחבר באמצעות קוד QR. לחץ על מנת בכדי ליצור קוד.</string>
+    <string name="soft_ap_create_failed">לא ניתן היה ליצור נקודה חמה</string>
+    <string name="scan_soft_ap_label">התחבר למכשיר הישן</string>
+    <string name="scan_soft_ap">מחפש אחר מכשירים חדשים…</string>
+    <string name="click_soft_ap_to_link">מחפש נקודה חמה להתחברות</string>
+    <string name="waiting">רק רגע…</string>
+    <string name="old_soft_name">התחבר באמצעות קוד QR</string>
+    <string name="confirm_exit_link_title">ההעברה הופרעה</string>
+    <string name="confirm_exit_link_msg">במידה ותעזוב את היישום אתה תפריע להעברות המתבצעות כעת, ותצטרך לבצע חיבור מחודש בין שני המכשירים. האם לעזוב את היישום כעת?</string>
+    <string name="confirm_exit_link">צא</string>
+    <string name="confirm_exit_link_cancel">אל תצא</string>
+    <string name="connect_soft_ap_label">מתחבר למכשיר חדש…</string>
+    <string name="recreate_soft_ap_tips">לחץ על הכפתור למעלה על מנת לנסות שוב.</string>
     <string name="trans_install_guide_page_title">התקן את Mi Mover בטלפון הישן שלך</string>
     <string name="trans_install_guide_scan_install_tip">"סרוק את קוד QR זה לטלפון הישן שלך
 כדי להוריד ולהתקין את Mi Mover."</string>
@@ -417,6 +440,8 @@
     <string name="trans_intro_title_old">בטלפון ישן:</string>
     <string name="trans_intro_desc_old">לחץ על \"אני השולח\". סרוק את קוד ה-QR המופיע בטלפון החדש, המתן עד לאחר ש-Mi Mover יזהה אילו קבצים עליו לשלוח, ואז לחץ על \"שליחה\".</string>
     <string name="trans_intro_desc_old_market">הקש על \"התחל\". סרוק את קוד ה-QR לטלפון החדש, המתן עד שאפליקציית Mi Mover תזהה אילו קבצים צריך לשלוח, והקש על \"שלח\".</string>
+    <string name="trans_intro_question_10">%d. לא ניתן היה למצוא את הנקודה החמה על המכשיר הישן?</string>
+    <string name="trans_intro_desc_10">לחץ על התחבר באמצעות קוד QR על המכשיר החדש וסרוק את קוד QR על מנת ליצור התחברות.</string>
     <string name="trans_intro_question_3">%d. מה עלי לעשות במידה ו-Mi Mover נתקע בשלב מסויים?</string>
     <string name="trans_intro_desc_3">בטל את ההעברה, צא מ-Mi Mover והתחל מחדש. קבצים אשר הועברו כבר יכתבו מחדש במהלך ההעברה החדשה.</string>
     <string name="trans_intro_question_4">%d. מדוע אינני יכול להשתמש ברשת האלחוטית במהלך ההעברות?</string>
@@ -439,6 +464,8 @@
     <string name="trans_intro_desc_multiuser">"Mi Mover אינו יכול לגשת לפריטים ב'שטח שני'. העבר פריטים ל'שטח ראשון' תחילה והתחל שם את הפעלת Mi Mover."</string>
     <string name="trans_intro_title_multiapp">"נתוני 'יישומים משוכפלים':"</string>
     <string name="trans_intro_desc_multiapp">"Mi Mover אינו מעביר נתוני 'יישומים משוכפלים' על מנת להימנע מסתירות בין קבצים."</string>
+    <string name="trans_intro_title_gms">מידע נוצר באמצעות יישומי גוגל:</string>
+    <string name="trans_intro_desc_gms">עקב היתכנות גבוהה של כשל בהעברת הקבצים העלולים להיגרם עקב בעיות תאימות, Mi Mover לא תומך בהעברת נתונים שנוצרו ע\"י יישומי גוגל.</string>
     <string name="trans_intro_question_9_market">%d. משוב.</string>
     <string name="trans_intro_desc_9_method_1_title">1. שתף את המשוב שלך באמצעות אפליקציית \"משוב\".</string>
     <string name="trans_intro_desc_9_method_1_dec">עבור אל מסך הבית> כלים > משוב.</string>
@@ -470,7 +497,6 @@
     <string name="trans_success_dialog_button_survey">סקר</string>
     <string name="trans_success_dialog_survey_title">אנו מעריכים את המשוב</string>
     <string name="trans_success_survey_hint">ראשית, מלא את כל השדות.</string>
-    <string name="trans_cancel_dialog_survey_title">מדוע עצרת את ההעברה?</string>
     <string name="trans_dialog_survey_finish">שלח</string>
     <string name="trans_failed_details_page_title">העברות שנכשלו</string>
     <string name="close_twice_auth_tutor">כיבוי האימות הדו-שלבי של Apple ID</string>
@@ -540,6 +566,7 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
 עליך ליצור גיבוי iCloud תחילה."</string>
     <string name="list_footer_tip_title">טיפים:</string>
     <string name="import_tip_summary">עקב בעיות תאימות, באפשרותך להעביר נתונים חלקיים בלבד בלבד מהתקני iOS. ודא כי יצרת גיבוי iCloud לפני התחלת ההעברה.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">ייבוא</string>
     <string name="select_empty">בחירת פריטים לייבוא</string>
     <string name="select_item_summary_wait">ממתין…</string>

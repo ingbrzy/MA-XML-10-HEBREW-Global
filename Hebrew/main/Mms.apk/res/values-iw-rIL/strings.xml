@@ -28,6 +28,8 @@
     <string name="already_updated">עדכני</string>
     <string name="app_label">הודעות</string>
     <string name="app_name">מכשירים</string>
+    <string name="application_list_title">מיני-אפליקציה</string>
+    <string name="attach_group_chat">"קבוצות צא'ט"</string>
     <string name="attach_image">תמונות</string>
     <string name="attach_rcs_file">קובץ</string>
     <string name="attach_rcs_location">מיקום</string>
@@ -39,6 +41,7 @@
     <string name="attach_take_photo">צלם תמונה</string>
     <string name="attach_transaction">העברת כסף</string>
     <string name="attach_video">וידאו</string>
+    <string name="attach_video_call">שיחת וידאו</string>
     <string name="audio_download_failed">לא ניתן היה להוריד שמע</string>
     <string name="audio_message_expired">פג תוקף הודעה קולית זו.</string>
     <string name="audio_message_mx_offline">לא ניתן היה להוריד את קובץ השמע. הודעות Mi נמצא במצב לא מקוון או שאינו זמין.</string>
@@ -72,6 +75,7 @@
     <string name="button_unfold">פרישה</string>
     <string name="call_sender">התקשר לשולח</string>
     <string name="can_not_send_by_rcs">לא יכול לשתמש בשירות ההודעות של China Mobile</string>
+    <string name="can_not_view_group_chat_stranger">אין באפשרותך להציג פרטים עבור זרים.</string>
     <string name="cannot_add_picture_and_video">לא ניתן להוסיף תמונה ווידאו לאותה השקופית.</string>
     <string name="cannot_add_slide_anymore">לא ניתן להוסיף עוד שקופיות.</string>
     <string name="cannot_forward_drm_obj">אובייקט ה-DRM הנכלל בהודעה אינו יכול להיות מועבר.</string>
@@ -129,6 +133,7 @@
     <string name="confirm_restore_positive">שחזר</string>
     <string name="confirm_restore_title">שחזור הודעות</string>
     <string name="confirm_send_mms">אחד הנמענים שלך כולל כתובת דוא\"ל. הודעה זו תישלח כהודעת מולטימדיה, דבר אשר עשוי לגרום לחיובים נוספים על ידי ספק הרשת שלך.</string>
+    <string name="contact_not_exists">אדם זה איננו ברשימת אנשי הקשר שלך.</string>
     <string name="context_menu_add_calendar">הוספה ללוח השנה</string>
     <string name="context_menu_add_contact">הוסף לאנשי קשר</string>
     <string name="context_menu_add_to_browser_favorite">הוסף לסימניות בדפדפן</string>
@@ -223,6 +228,7 @@
     <string name="file_size">גודל:</string>
     <string name="file_title">שם:</string>
     <string name="file_width_height">גודל:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">הודעה חדשה</string>
     <string name="forward_from">העבר מ:</string>
     <string name="forward_message_select_title">העבר הודעה</string>
@@ -244,6 +250,7 @@
     <string name="group_resend_message">שלח מחדש (%d)</string>
     <string name="group_view_settings_disolved">"אינך יכול לראות פריטים. קבוצת צא'ט זו נמחקה."</string>
     <string name="group_view_settings_not_memeber">"אין אפשרות להציג פריטים. אינך חבר בקבוצת צ'אט זו."</string>
+    <string name="groupchat_list_title">"קבוצות צא'ט"</string>
     <string name="guild_add_attachments">"לחץ להוספת אימוג'יס ופריטים אחרים"</string>
     <string name="guild_add_recipients">לחץ להוספת נמענים מתוך אנשי הקשר</string>
     <string name="guild_msim_switcher">לחץ להחלפה בין כרטיסי ה-SIM</string>
@@ -286,6 +293,7 @@
     <string name="menu_edit">עריכה</string>
     <string name="menu_forward">העברה</string>
     <string name="menu_lock">הוסף למועדפים</string>
+    <string name="menu_make_call">התקשר</string>
     <string name="menu_mark">סמן</string>
     <string name="menu_more">עוד</string>
     <string name="menu_new_contact">איש קשר חדש</string>
@@ -296,6 +304,7 @@
     <string name="menu_traffic_destination">יעד</string>
     <string name="menu_unlock">הסר מהמועדפים</string>
     <string name="menu_view_contact">צפיה באיש קשר</string>
+    <string name="menu_view_group_info">פרטי הקבוצה</string>
     <string name="message_class_label">"קיטלוג הודעה: "</string>
     <string name="message_contact">איש קשר:</string>
     <string name="message_details_title">פרטי הודעה</string>
@@ -407,6 +416,7 @@
     <string name="no_block_button_msg">בטל חסימה</string>
     <string name="no_conversations">אין שיחות</string>
     <string name="no_delivery_report">ללא דו\"ח מסירה</string>
+    <string name="no_network_description">לא ניתן להתחבר לאינטרנט. נא בדוק את הגדרות הרשת ונסה שוב.</string>
     <string name="no_subject">(ללא נושא)</string>
     <string name="no_subject_view">(ללא נושא)</string>
     <string name="non_english_subject_limit">13 תווים</string>
@@ -529,6 +539,9 @@
     <string name="prvate_contact">אנשי קשר פרטיים</string>
     <string name="quick_reply">השב</string>
     <string name="rate_limit_surpassed">אישור</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">שנה</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">When the network signal is weak, the text part of a message (up to 900 Bytes) can be converted and sent as SMS. You can change this in Settings.</string>
+    <string name="rcs_auto_resend_as_sms_remind_title">המר ל- SMS</string>
     <string name="rcs_auto_resend_mms">המר ל MMS</string>
     <string name="rcs_auto_resend_sms">המר ל- SMS</string>
     <string name="rcs_auto_resume">חדש אוטומטית העלאות שהופרעו</string>
@@ -539,10 +552,12 @@
     <string name="rcs_forward_faild">לא ניתן היה להעביר</string>
     <string name="rcs_forward_successful">הועבר בהצלחה</string>
     <string name="rcs_group_notification_invitation">"הזמנה לצ'אט קבוצתי"</string>
+    <string name="rcs_hello_from_pc">Sign in to Fetion on your computer to transfer files.</string>
     <string name="rcs_message">הודעות של China Mobile</string>
     <string name="rcs_message_disable">"לא ניתן להציג את ההודעה ב'שטח שני'"</string>
     <string name="rcs_msg">הודעות של China Mobile</string>
     <string name="rcs_not_online">לא יכול להשתמש בשירות הודעות China Mobile. בדוק את הגדרות הרשת שלך ונסה שוב.</string>
+    <string name="rcs_offline">לא ניתן להיכנס ל UC. חכה דקה או שתיים ונסה שוב.</string>
     <string name="rcs_offline_hint">שירות הודעות China Mobile איננו מקוון. לא יכול להעביר הודעה זו.</string>
     <string name="rcs_recipient_type_contact">העבר לאיש קשר</string>
     <string name="rcs_recipient_type_group">"העבר לקבוצת צא'ט"</string>
@@ -667,6 +682,7 @@
     <string name="send_signature_confirm_dialog_title">שלח הודעה</string>
     <string name="send_sms">שלח הודעה</string>
     <string name="send_to">אל:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">נשלח ב: %1s</string>
     <string name="sent_label">"נשלח: "</string>
     <string name="service_message_not_found">תוקף ההודעה פג או שאינה זמין</string>

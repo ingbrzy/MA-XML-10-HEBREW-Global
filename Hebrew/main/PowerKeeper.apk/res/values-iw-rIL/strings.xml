@@ -38,10 +38,17 @@
     <string name="vip_feedback_enable">הפעלת משוב VIP</string>
     <string name="extreme_power_config_mode_category">מצב חיסכון קיצוני בסוללה</string>
     <string name="extreme_power_config_mode_title">מצב חיסכון קיצוני בסוללה</string>
+    <string name="notification_open_extreme_mode_text">הופעל חיסכון קיצוני בסוללה</string>
+    <string name="extreme_power_settings_title">הגדרות</string>
+    <string name="notification_exit_extreme_mode_title">חיסכון קיצוני בסוללה כובה</string>
+    <string name="notification_exit_extreme_mode_text">אחוז טעינת הסוללה עולה על %s</string>
+    <string name="extreme_power_config_mode_summary">חיסכון קיצוני בסוללה יגביל פעילות רקע כמו כן פעילות הסינכרון תפסק אף היא.</string>
     <string name="extreme_power_config_mode_desc"><li>המצב של חיסכון קיצוני בסוללה מפסיק את כל פעילות הרקע של אפליקציה לאחר סגירת האפליקציה וחזרה אל מסך הבית. האפליקציה הזו לא תוכל לשלוח לך הודעות או לקבל עדכונים.</li>"
 "<li>אם אתה מעוניין שאפליקציה תמשיך לפעול ברקע, נעל אותה תחת אפליקציות בשימוש לאחרונה או הוסף אותה לרשימת האפליקציות המוחרגות שמופיעה למטה, כך שהיא תוכל לפעול ברקע. עד 4 אפליקציות יכולות לפעול ברקע במצב חיסכון קיצוני בסוללה.</li>"
 "<li>המצב של חיסכון קיצוני בסוללה מכבה את NFC כברירת המחדל. ניתן לשנות זאת בהגדרות.</li>"
 "<li>כדי לוודא שתוכל להשתמש בכל מאפייני המכשיר שלך כרגיל, המצב של חיסכון קיצוני בסוללה יכובה אוטומטית כשרמת הטעינה של הסוללה שלך תגיע ל-30% או יותר.</li></string>
+    <string name="extreme_add_white_list_title">אפליקציות מוחרגות שיכולות לפעול ברקע</string>
+    <string name="extreme_add_white_list_summary">הוסף עד 4 אפליקציות</string>
     <string name="empty_title_apps_container_list">אין יישומים</string>
     <string name="hints_loading_text">רק רגע…</string>
     <string name="config_mode_title">הגדרות רקע</string>
@@ -101,13 +108,6 @@
     <string name="atrace_start">הקלט את יומן atrace …</string>
     <string name="atrace_saving">שומר את יומן atrace…</string>
     <string name="atrace_saved">נשמר בהצלחה</string>
-    <string name="notification_open_extreme_mode_text">הופעל חיסכון קיצוני בסוללה</string>
-    <string name="extreme_power_settings_title">הגדרות</string>
-    <string name="notification_exit_extreme_mode_title">חיסכון קיצוני בסוללה כובה</string>
-    <string name="notification_exit_extreme_mode_text">אחוז טעינת הסוללה עולה על %s</string>
-    <string name="extreme_power_config_mode_summary">חיסכון קיצוני בסוללה יגביל פעילות רקע כמו כן פעילות הסינכרון תפסק אף היא.</string>
-    <string name="extreme_add_white_list_title">אפליקציות מוחרגות שיכולות לפעול ברקע</string>
-    <string name="extreme_add_white_list_summary">הוסף עד 4 אפליקציות</string>
     <string name="adaptive_battery_title">השתמש באפשרות סוללה מסתגלת</string>
     <string name="adaptive_battery_summary">הגבל את הסוללה עבור יישומים בהם אינך משתמש באופן תדיר</string>
 </resources>

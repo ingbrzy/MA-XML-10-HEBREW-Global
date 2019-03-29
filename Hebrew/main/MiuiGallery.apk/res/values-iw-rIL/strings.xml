@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="confirm_recommandation_face_is">&lt;Data> בטוח שזה &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? אדם זה יועבר לאלבום \"%2$s\". &lt;/Data></string>
-    <string name="confirm_recommandation_face_not">&lt;Data> בטוח שזה לא &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> בטוח שאלה &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? אנשים אלה יועברו לאלבום \"%2$s\". &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> בטוח שאלה אינם &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
     <string name="accept">קבל</string>
     <string name="accept_or_deny">%1$s שיתף איתך את האלבום %2$s.</string>
     <string name="actionbar_overflow_item_desc">אפשרויות נוספות</string>
@@ -236,6 +232,9 @@
     <string name="cleaner_screen_shot_action">ניקוי</string>
     <string name="cleaner_screen_shot_description">מחק את צילומי המסך אשר אין לך עוד צורך בהם.</string>
     <string name="cleaner_screen_shot_title">מחיקת צילומי מסך</string>
+    <string name="cleaner_similar_action">מחק עכשיו</string>
+    <string name="cleaner_similar_description">מחק תמונות כפולות</string>
+    <string name="cleaner_similar_title">תמונות כפולות</string>
     <string name="cleaner_slim_action">התחל מיטוב</string>
     <string name="cleaner_slim_description">שמור על התמונות המיועלות על גבי מכשירך. הקבצים המקוריים יאוחסנו ב-Mi Cloud.</string>
     <string name="cleaner_slim_start">ייעול</string>
@@ -243,6 +242,10 @@
     <string name="cleaner_space_description">ניתן לפינוי</string>
     <string name="cleaner_space_detail_description">"נקה תמונות מה'גלריה' שלך על מנת לפנות שטח אחסון"</string>
     <string name="cleaner_stop_scan">עצירת הסריקה</string>
+    <string name="cleaner_video_action">מחק עכשיו</string>
+    <string name="cleaner_video_description">מחק סרטונים התופסים שטח אחסון</string>
+    <string name="cleaner_video_pick_delete_selected">מחק את הסרטונים שנבחרו</string>
+    <string name="cleaner_video_title">מחק סרטונים</string>
     <string name="click_download_gif">לחץ להורדת GIF</string>
     <string name="click_top_right">לחץ על לחצן זה</string>
     <string name="close">סגירה</string>
@@ -305,6 +308,10 @@
     <string name="confirm_merge_face_albums">&lt;Data> למזג אלבום זה עם %s? &lt;/Data></string>
     <string name="confirm_merge_many_face_albums">&lt;Data> למזג אלבומים אלה עם %s? &lt;/Data></string>
     <string name="confirm_not_face">אין התאמות</string>
+    <string name="confirm_recommandation_face_is">&lt;Data> בטוח שזה &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? אדם זה יועבר לאלבום \"%2$s\". &lt;/Data></string>
+    <string name="confirm_recommandation_face_not">&lt;Data> בטוח שזה לא &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> בטוח שאלה &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? אנשים אלה יועברו לאלבום \"%2$s\". &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> בטוח שאלה אינם &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
     <string name="contact_tip">איש קשר</string>
     <string name="context_menu_add_contact">הוסף לאנשי קשר</string>
     <string name="context_menu_copy">העתק</string>
@@ -475,7 +482,7 @@
     <string name="ext_sdcard_permission_request_title">אפשר לגלריה לגשת כרטיס SD</string>
     <string name="ext_sdcard_request_failed_button_text">אשר</string>
     <string name="ext_sdcard_request_succeed_toast_text">אתה מוכן לצאת לדרך!</string>
-    <string name="face_album_empty">"אין מספיק תמונות לביצוע זיהוי אנשים.
+    <string name="face_album_empty">"אין מספיק תמונות לביצוע זיהוי אנשים.r
 צלם יותר תמונות של חברים שלך!"</string>
     <string name="face_album_empty_syncing">מסנכרן נתונים, חזור בקרוב</string>
     <string name="face_album_empty_syncing_when_connect_wifi">התחבר לרשת על מנת לסנכרן מידע</string>
@@ -492,6 +499,7 @@
     <string name="face_name_edit">עריכה</string>
     <string name="face_name_input">הזן שם</string>
     <string name="face_recommend">המלצות</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">לא ניתן היה להשלים את התהליך</string>
     <string name="fail_to_pick_email">כתובת דוא\"ל לא חוקית</string>
     <string name="fail_to_sync_album">לא ניתן היה לסנכרן את האלבום. בדוק את חיבור הנתונים שלך ונסה שוב.</string>
@@ -502,6 +510,7 @@
     <string name="feature_guidance_photo_effects">"אפקטים חדשים לתמונות
 זמינים כעת"</string>
     <string name="feature_guidance_video_editor_smart_effects">אפקטים חדשים זמינים כעת</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_bw">שחור&amp;לבן</string>
     <string name="filter_bi_dusk">חשכה</string>
     <string name="filter_bi_lilt">Lilt</string>
@@ -575,6 +584,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">הגדר</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
  על מנת שתוכל לעבוד באופן תקין, לחץ 'הגדר' על מנת לעבור אל 'הרשאות'."</string>
@@ -654,7 +664,7 @@
     <string name="loading_gif_thumbnail">מוריד תמונת GIF ממוזערת…</string>
     <string name="loading_image">מוריד תמונה…</string>
     <string name="loading_image_thumbnail">מוריד תמונה ממוזערת…</string>
-    <string name="loading_members">טוען חברים026</string>
+    <string name="loading_members">טוען חברים2026</string>
     <string name="loading_processing_tip">מעבד תמונה…</string>
     <string name="loading_suspend">ההורדה נעצרה. תמשיך בעת חיבור לרשת אלחוטית.</string>
     <string name="loading_video">מוריד וידאו…</string>
@@ -828,6 +838,7 @@
     <string name="people_mark_mode_title_no_mark_name">בחר אדם</string>
     <string name="people_page_label">אנשים</string>
     <string name="people_page_unname">ללא שם</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">עבור שמות אנשים המופיעים על גבי התמונות</string>
     <string name="permission_contract_name">אנשי קשר</string>
     <string name="permission_optional_category">הרשאות אופציונליות</string>
@@ -1020,6 +1031,16 @@
     <string name="scan_barcode_guide">לקבלת קוד QR של אלבום, לחץ על לחצן השיתוף.</string>
     <string name="scan_barcode_to_join">סרוק קוד QR להוספת אלבום</string>
     <string name="scan_qr_code_buttom_text">סרוק קוד QR לצפיה באלבום זה</string>
+    <string name="screen_doodle_talkback_size">שרבוט רוחב הקו</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
+    <string name="screen_editor_finish">בוצע</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
+    <string name="screen_save_dialog_btn_cancel">ביטול</string>
+    <string name="screen_save_dialog_btn_delete">מחיקת צילום מסך</string>
+    <string name="screen_save_dialog_btn_save">"שמור ב'גלריה'"</string>
     <string name="search_backup_full_screen">הפעל את הסנכרון עם Mi Cloud למציאת עוד אובייקטים ואנשים</string>
     <string name="search_backup_now">הפעלה</string>
     <string name="search_backup_sub_title">הפעל על מנת למצוא עוד תמונות</string>
@@ -1074,6 +1095,9 @@
     <string name="search_title_recommend">מומלץ</string>
     <string name="search_title_suggestion">הצעות</string>
     <string name="search_title_tag">אובייקטים</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">מחפש מקרן…</string>
     <string name="secret_album_card_description">המקום הבטוח ביותר עבור כל הסודות הקטנים שלך</string>
     <string name="secret_album_card_title">נסה אלבום מוסתר</string>
@@ -1130,6 +1154,7 @@
     <string name="show_hidden_album_title">הצג אלבומים מוסתרים</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">"הועבר בהצלחה, עבור אל 'אלבומים אחרים' לצפיה"</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">"הועבר בהצלחה, עבור אל 'אלבומים' לצפיה"</string>
+    <string name="similar_keep_clear">שמור את התמונות הטובות ביותר</string>
     <string name="slideshow_interval_dialog_title">הזן מרווח</string>
     <string name="slideshow_interval_invalid">על המרווח להיות בין 3 ל-3600 שניות</string>
     <string name="slideshow_interval_title">הצג כל שקופית למשך</string>
@@ -1166,6 +1191,10 @@
     <string name="sticker_spring">אביב</string>
     <string name="sticker_summer">קיץ</string>
     <string name="sticker_words">מילים</string>
+    <string name="storage_description_primary">אחסון פנימי</string>
+    <string name="storage_description_sdcard">כרטיס זכרון</string>
+    <string name="storage_description_usb">אחסון USB</string>
+    <string name="storage_description_xspace">"נתוני 'יישומים משוכפלים'"</string>
     <string name="storage_no_space">אין מספיק מקום</string>
     <string name="story_back_stop_download">הקש שוב על מנת להפסיק את ההורדה</string>
     <string name="story_cancel_download">ביטול</string>
@@ -1228,6 +1257,7 @@
     <string name="to_enable_sync_dialog_message">הפעל סנכרון תחילה</string>
     <string name="to_enable_sync_dialog_positive_button_text">עבור להגדרות</string>
     <string name="to_enable_sync_dialog_title">סנכרון</string>
+    <string name="today">היום</string>
     <string name="too_many_recipients">לא ניתן להוסיף יותר מ- %2$s נמענים (הוספת %1$s נמענים).</string>
     <string name="trash_bin">פח אשפה</string>
     <string name="trash_bin_summary">סייר בתמונות מגובות שנמחקו לאחרונה</string>
@@ -1364,64 +1394,6 @@
     <string name="who_is_this">מי זה?</string>
     <string name="xiaomi_account_not_exists_toast">חשבון Mi לא קיים</string>
     <string name="yes">כן</string>
+    <string name="yesterday">אתמול</string>
     <string name="you_are">מהי קרבתך לתינוק?</string>
-    <string name="cleaner_similar_action">מחק עכשיו</string>
-    <string name="cleaner_similar_description">מחק תמונות כפולות</string>
-    <string name="cleaner_similar_title">תמונות כפולות</string>
-    <string name="cleaner_video_action">מחק עכשיו</string>
-    <string name="cleaner_video_description">מחק סרטונים התופסים שטח אחסון</string>
-    <string name="cleaner_video_pick_delete_selected">מחק את הסרטונים שנבחרו</string>
-    <string name="cleaner_video_title">מחק סרטונים</string>
-    <string name="photomovie_audio_custom">מקומי</string>
-    <string name="photomovie_audio_default">זיכרון</string>
-    <string name="photomovie_audio_kawaii">רומנטי</string>
-    <string name="photomovie_audio_light">בלדה</string>
-    <string name="photomovie_audio_linear">רוק</string>
-    <string name="photomovie_audio_none">ללא</string>
-    <string name="photomovie_audio_soft">יוקליילי</string>
-    <string name="photomovie_audio_sport">טכנו</string>
-    <string name="photomovie_cancel_download">ביטול</string>
-    <string name="photomovie_delete_disable">יש צורך ב-3 תמונות לפחות ליצירת קליפ.</string>
-    <string name="photomovie_download">הורדה</string>
-    <string name="photomovie_download_failed">לא ניתן היה להוריד</string>
-    <string name="photomovie_download_failed_for_notwork">לא ניתן היה להוריד. התחבר לרשת ונסה שוב.</string>
-    <string name="photomovie_download_without_wifi_msg">שימוש בחיבור נתונים סלולרי להורדת קבצים יגביר את צריכת הנתונים, חריגה ממסגרת תכנית הגלישה עשויה להיות כרוכה בחיובים נוספים.</string>
-    <string name="photomovie_download_without_wifi_title">אזהרת שימוש בנתונים</string>
-    <string name="photomovie_exit_cancel">ביטול</string>
-    <string name="photomovie_exit_confirm">יציאה</string>
-    <string name="photomovie_exit_content">כל השינויים ילכו לאיבוד. לצאת בכל זאת?</string>
-    <string name="photomovie_exit_title">יציאה</string>
-    <string name="photomovie_item_name">קליפ</string>
-    <string name="photomovie_return">חזרה</string>
-    <string name="photomovie_save">שמירה</string>
-    <string name="photomovie_save_failed">לא ניתן היה לשמור</string>
-    <string name="photomovie_save_successfully">נשמר בהצלחה</string>
-    <string name="photomovie_saving">יוצר קליפ…</string>
-    <string name="photomovie_tab_edit">עריכה</string>
-    <string name="photomovie_tab_music">מוסיקה</string>
-    <string name="photomovie_tab_template">תבנית</string>
-    <string name="photomovie_template_default">איטית</string>
-    <string name="photomovie_template_kawaii">קסם</string>
-    <string name="photomovie_template_light">בריזה</string>
-    <string name="photomovie_template_linear">דרך</string>
-    <string name="photomovie_template_soft">נוער</string>
-    <string name="photomovie_template_sport">עוצמה</string>
-    <string name="refocus_discard_confirm_message">לשמור את השינויים?</string>
-    <string name="refocus_discard_negative_btn">דחיה</string>
-    <string name="refocus_discard_positive_btn">שמירה</string>
-    <string name="refocus_photo_not_support">לא ניתן להחיל טשטוש עבור תמונה זו</string>
-    <string name="refocus_save_cancel">ביטול</string>
-    <string name="refocus_save_title">בחירת פורמט</string>
-    <string name="refocus_save_to_photo">שמירה כתמונה</string>
-    <string name="refocus_save_to_video">שמירה כסרטון</string>
-    <string name="refocus_saving">שומר…</string>
-    <string name="refocus_title">טשטוש</string>
-    <string name="refocus_type_static">רמת טשטוש</string>
-    <string name="refocus_type_video">שבילי אור</string>
-    <string name="screen_doodle_talkback_size">שרבוט רוחב הקו</string>
-    <string name="screen_editor_finish">בוצע</string>
-    <string name="screen_save_dialog_btn_cancel">ביטול</string>
-    <string name="screen_save_dialog_btn_delete">מחיקת צילום מסך</string>
-    <string name="screen_save_dialog_btn_save">"שמור ב'גלריה'"</string>
-    <string name="similar_keep_clear">שמור את התמונות הטובות ביותר</string>
 </resources>
