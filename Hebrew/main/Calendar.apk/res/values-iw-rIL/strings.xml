@@ -89,7 +89,6 @@
     <string name="date_interval_text_to">עד ה: %1$s</string>
     <string name="date_jump_hint">עבור ישירות ליום מסויים</string>
     <string name="date_jump_title">עבור לתאריך</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (היום)"</string>
     <string name="day_view_new_event_hint">ארוע חדש</string>
     <string name="default_reminder_mode">תזכורות</string>
