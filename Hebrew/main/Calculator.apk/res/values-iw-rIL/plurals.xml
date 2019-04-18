@@ -6,6 +6,18 @@
         <item quantity="two">%d פריטים</item>
         <item quantity="many">%d פריטים</item>
     </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">פירוט ההחזר ( %d שנים)</item>
+        <item quantity="one">פירוט ההחזר ( %d שנה)</item>
+        <item quantity="two">פירוט ההחזר ( %d שנים)</item>
+        <item quantity="many">פירוט ההחזר ( %d שנים)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">פירוט ההחזר (%d שנים), יואן סיני</item>
+        <item quantity="one">פירוט ההחזר (%d שנה), יואן סיני</item>
+        <item quantity="two">פירוט ההחזר (%d שנים), יואן סיני</item>
+        <item quantity="many">פירוט ההחזר (%d שנים), יואן סיני</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d שנים (%2$d חודשים)</item>
         <item quantity="one">שנה %1$d (%2$d חודשים)</item>

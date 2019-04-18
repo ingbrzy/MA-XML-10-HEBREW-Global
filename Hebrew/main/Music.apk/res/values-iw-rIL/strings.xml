@@ -30,8 +30,13 @@
     <string name="album_label">עטיפות אלבומים</string>
     <string name="album_name">אלבום</string>
     <string name="all_album_count">כל האלבומים (%d)</string>
+    <string name="all_albums">כל האלבומים</string>
+    <string name="all_artists">כל האמנים</string>
     <string name="all_playlist_count">כל רשימות ההשמעה (%d)</string>
+    <string name="all_playlists">כל רשימות ההשמעה</string>
+    <string name="all_songs">כל השירים</string>
     <string name="all_tracks">כל השירים</string>
+    <string name="all_videos">כל הסרטונים</string>
     <string name="already_download">מוריד…</string>
     <string name="already_download_btn">מוריד…</string>
     <string name="already_favorited">כבר נוסף למועדפים</string>
@@ -182,6 +187,7 @@
     <string name="download_method">הורדה</string>
     <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
     <string name="download_paused_in_power_save_mode">"ההורדות מופסקות בעת שימוש במצב 'חסכון בסוללה'"</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">מוריד…</string>
     <string name="download_quality">איכות הורדה</string>
     <string name="download_quality_summary">הגדרות נוספות עבור הורדות שירים</string>
@@ -488,6 +494,7 @@
     <string name="priority_storage_summary">הורד באופן אוטומטי אל כרטיס הזכרון החיצוני במידה וזמין</string>
     <string name="privacy_desc">מדיניות פרטיות</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=iw_IL</string>
     <string name="pro_member">מנוי PRO</string>
     <string name="project_device">טלפון Mi</string>
     <string name="prompt_grant_write_settings_permission">אפשר שינוי של הגדרות המערכת</string>
@@ -518,6 +525,8 @@
     <string name="search_for_album">אלבום</string>
     <string name="search_for_artist">אמן</string>
     <string name="search_hint">חיפוש אמנים, שירים, אלבומים והמלצות</string>
+    <string name="search_hint_local">חפש שירים על המכשיר</string>
+    <string name="search_hint_online">חפש אומנים, אלבומים, רשימות השמעה, שירים וסרטונים ברשת</string>
     <string name="search_history_clear_all">ניקוי</string>
     <string name="search_instant_online_music">מקוון</string>
     <string name="search_songs_count">טוען %d</string>
@@ -587,8 +596,10 @@
     <string name="tab_artist">אמנים</string>
     <string name="tab_artist_list">אמנים</string>
     <string name="tab_folder">תיקיות</string>
+    <string name="tab_playlist">רשימות השמעה</string>
     <string name="tab_track">שירים</string>
     <string name="tab_track_list">שירים</string>
+    <string name="tab_video">סרטונים</string>
     <string name="take_effect_afater_restart">עליך לאתחל את היישום על מנת שהגדרה זו תיכנס לתוקף.</string>
     <string name="talkback_back">חזור</string>
     <string name="talkback_batch_process">פריטים מרובים</string>
@@ -638,6 +649,7 @@
     <string name="upgrade_music_message">העדכונים מוכנים. הפעל מחדש לעדכון.</string>
     <string name="upgrading_in_backstage">מעדכן ברקע</string>
     <string name="user_agreement">הסכם המשתמש</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=iw_IL</string>
     <string name="version_info">גרסה</string>
     <string name="video_play_cellular">מכשירך אינו מחובר ל-Wi-Fi. להשתמש בנתונים סלולריים?</string>
     <string name="video_replay_btn">נגן שוב</string>
@@ -645,6 +657,7 @@
     <string name="view_album">צפה באלבום</string>
     <string name="vip_required">"רכוש את 'חבילת שירי פרימיום' על מנת לנגן שיר זה. דילגנו עליו לעת עתה."</string>
     <string name="vip_required_with_song">%s זמין למנויי PRO בלבד. כרגע דילגנו על השיר הזה.</string>
+    <string name="voice_search_first_hint">נסה חיפוש קולי!</string>
     <string name="wifi_required_body" formatted="false">"\"התחבר לרשת אלחוטית על מנת להשלים הורדה זו %s.
 
 

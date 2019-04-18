@@ -1,28 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="alert_message_delete">
+        <item quantity="other">מחק %1$s פריטים?</item>
+        <item quantity="one">מחק %1$s פריט?</item>
+        <item quantity="two">מחק %1$s פריטים?</item>
+        <item quantity="many">מחק %1$s פריטים?</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$s לא סונכרנו</item>
-        <item quantity="one">%1$s לא סונכרן</item>
-        <item quantity="two">%1$s לא סונכרנו</item>
-        <item quantity="many">%1$s לא סונכרנו</item>
+        <item quantity="other">פריטים %1$s לא סונכרנו</item>
+        <item quantity="one">פריט %1$s לא סונכרן</item>
+        <item quantity="two">פריטים %1$s לא סונכרנו</item>
+        <item quantity="many">פריטים %1$s לא סונכרנו</item>
     </plurals>
-    <plurals name="folder_terms">
-        <item quantity="other">%1$s תיקיות</item>
-        <item quantity="one">תיקיה %1$s</item>
-        <item quantity="two">%1$s תיקיות</item>
-        <item quantity="many">%1$s תיקיות</item>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">הוסרו %1$s הפתקים מהתיקייה</item>
+        <item quantity="one">הוסר%1$s הפתק מהתיקייה</item>
+        <item quantity="two">הוסרו %1$s הפתקים מהתיקייה</item>
+        <item quantity="many">הוסרו %1$s הפתקים מהתיקייה</item>
     </plurals>
-    <plurals name="note_terms">
-        <item quantity="other">%1$s פתקים</item>
-        <item quantity="one">פתק %1$s</item>
-        <item quantity="two">%1$s פתקים</item>
-        <item quantity="many">%1$s פתקים</item>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">הפתקים %1$s הועברו אל %2$s</item>
+        <item quantity="one">הפתק %1$s הועבר אל %2$s</item>
+        <item quantity="two">הפתקים %1$s הועברו אל %2$s</item>
+        <item quantity="many">הפתקים %1$s הועברו אל %2$s</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d שניות נותרו</item>
         <item quantity="one">שנייה אחת (%d) נותרה</item>
         <item quantity="two">%d שניות נותרו</item>
         <item quantity="many">%d שניות נותרו</item>
+    </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">הפתקים הוסתרו %1$s בהצלחה</item>
+        <item quantity="one">הפתק הוסתר %1$s בהצלחה</item>
+        <item quantity="two">הפתקים הוסתרו %1$s בהצלחה</item>
+        <item quantity="many">הפתקים הוסתרו %1$s בהצלחה</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">הסרת הסתרת %1$s הפתקים הצליחה</item>
+        <item quantity="one">הסרת הסתרת %1$s הפתק הצליחה</item>
+        <item quantity="two">הסרת הסתרת %1$s הפתקים הצליחה</item>
+        <item quantity="many">הסרת הסתרת %1$s הפתקים הצליחה</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">%d תווים</item>

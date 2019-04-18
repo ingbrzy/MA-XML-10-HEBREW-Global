@@ -30,12 +30,6 @@
         <item quantity="two">תחזית עבור %1$s ימים</item>
         <item quantity="many">תחזית עבור %1$s ימים</item>
     </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s שניות לאחר המשוב</item>
-        <item quantity="one">שניה %1$s לאחר המשוב</item>
-        <item quantity="two">%1$s שניות לאחר המשוב</item>
-        <item quantity="many">%1$s שניות לאחר המשוב</item>
-    </plurals>
     <plurals name="no_vote_num">
         <item quantity="other">%1$s אנשים |</item>
         <item quantity="one">אדם %1$s |</item>
@@ -59,5 +53,11 @@
         <item quantity="one">| אדם %1$s</item>
         <item quantity="two">| %1$s אנשים</item>
         <item quantity="many">| %1$s אנשים</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s שניות לאחר המשוב</item>
+        <item quantity="one">שניה %1$s לאחר המשוב</item>
+        <item quantity="two">%1$s שניות לאחר המשוב</item>
+        <item quantity="many">%1$s שניות לאחר המשוב</item>
     </plurals>
 </resources>

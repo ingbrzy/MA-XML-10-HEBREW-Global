@@ -43,6 +43,7 @@
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">יום ההולדת נשמר</string>
     <string name="birthday_term">יום הולדת</string>
+    <string name="calendar_permission_desc">ניהול אירועים</string>
     <string name="can_not_create_long_event">שם האירוע ארוך מידי</string>
     <string name="can_not_modify_allday_event">לא ניתן לשנות אירוע של יום שלם</string>
     <string name="can_not_modify_event">לא ניתן לשנות אירוע</string>
@@ -60,6 +61,7 @@
     <string name="change_response_title">שינוי תגובה</string>
     <string name="click_to_share">הקש כדי לשתף</string>
     <string name="close_alarm">כיבוי</string>
+    <string name="contacts_permission_desc">גישה אל פרטי קשר</string>
     <string name="countdown_event_title">ספירה לאחור: %1$s</string>
     <string name="countdown_notify_before_3_day_title">ספירה לאחור: %1$s בעוד 3 ימים</string>
     <string name="countdown_notify_title">ספירה לאחור: %1$s</string>
@@ -89,6 +91,7 @@
     <string name="date_interval_text_to">עד ה: %1$s</string>
     <string name="date_jump_hint">עבור ישירות ליום מסויים</string>
     <string name="date_jump_title">עבור לתאריך</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (היום)"</string>
     <string name="day_view_new_event_hint">ארוע חדש</string>
     <string name="default_reminder_mode">תזכורות</string>
@@ -171,6 +174,9 @@
     <string name="global_cricket_no_match">אין משחקי קריקט המתוכננים להיום. בדוק ימים אחרים.</string>
     <string name="global_football_final">גמר</string>
     <string name="global_football_no_match">אין משחקי כדורגל המתוכננים להיום.</string>
+    <string name="global_joke_collapse_text">הצג פחות</string>
+    <string name="global_joke_copy_toast_message">הטקסט הועתק בהצלחה</string>
+    <string name="global_joke_expand_text">הצג עוד</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="greetingcard_end_of_page">זה הכל לעת עתה. חזור מאוחר יותר!</string>
     <string name="greetingcard_notification_desc">בדוק את הסטטוס האחרון</string>
@@ -432,7 +438,4 @@
     <string name="xiaomi_calendar_display_name">לוח שנה של חשבון Mi</string>
     <string name="yearly">שנתי (בכל %s)</string>
     <string name="yearly_plain">שנתי</string>
-    <string name="global_joke_collapse_text">Show less</string>
-    <string name="global_joke_copy_toast_message">Copied text successfully</string>
-    <string name="global_joke_expand_text">Show more</string>
 </resources>

@@ -382,4 +382,26 @@ Better להתאים אישית את שירותיו עבור מכשירך;
     <string name="v_ok">אשר</string>
     <string name="v_pw_need_update_app">עדכן את וידאו Mi על מנת שתוכל להשתמש בכל תכונותיו</string>
     <string name="v_save">שמירה</string>
+    <string name="Subscribe">הרשמה</string>
+    <string name="diy_channels_tips">כעת, באפשרותך להתאים אישית את רשימת הערוצים שלך.</string>
+    <string name="empty_channels">נהל ערוצים</string>
+    <string name="empty_subscribe">אינך רשום עדיין.</string>
+    <string name="hidden_channels">הערוצים הבאים לא יוצגו בדף הבית.</string>
+    <string name="init_channels">שחזור הגדרות ברירת המחדל</string>
+    <string name="isSubscribed">ההרשמה בוצעה</string>
+    <string name="my_favorite_channels">הערוצים שלי</string>
+    <string name="ovp_navigation_subscribe">הרשמה</string>
+    <string name="ovp_player_plugin_dlg_neg_btn">סגור</string>
+    <string name="ovp_player_plugin_dlg_no_content">אין תוספים עבור נגן וידאו.</string>
+    <string name="ovp_player_plugin_dlg_title">תוספות עבור נגן וידאו</string>
+    <string name="permission_phone">טלפון</string>
+    <string name="permission_phone_desc">בעבור גישה לסטטוס המכשיר והשהייה של הנגן בזמן שיחות</string>
+    <string name="permission_storage">אחסון</string>
+    <string name="permission_storage_desc">על מנת לגשת לפריטים, שמירת קבצים, הצגה והפעלה של סרטונים מקומיים</string>
+    <string name="pw_channels">ערוצים</string>
+    <string name="recommend_channels">ערוצים מומלצים</string>
+    <string name="restore_channel_list">האם לשחזר את ברירת המחדל שלך?</string>
+    <string name="title_publisher">יוצרים</string>
+    <string name="title_subscribe">מנויים</string>
+    <string name="ugc_confirm_unsubscribe">האם לבטל את ההרשמה כעת?</string>
 </resources>

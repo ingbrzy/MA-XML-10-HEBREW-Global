@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="user_detail_fixed_items">
+        <item>הצג פריטים שסונכרנו</item>
+        <item>פרטי אחסון</item>
+    </string-array>
     <string-array name="korea_permission_groups_descriptions">
         <item>על מנת לזהות פריטים מסונכרנים</item>
         <item>בעבור סנכרון הודעות</item>
@@ -16,103 +20,103 @@
     </string-array>
     <string-array name="settings_search_contacts">
         <item>סנכרון אנשי קשר עם Mi Cloud</item>
-        <item>Turn on/set up sync</item>
-        <item>Contacts;Call history;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>הפעל/הגדר סנכרון</item>
+        <item>אנשי קשר;יומן שיחות;ענן;סנכרון;שירותי ענן, ענן Mi</item>
     </string-array>
     <string-array name="settings_search_sms">
-        <item>Sync messages with Mi Cloud</item>
-        <item>Turn on/set up sync</item>
-        <item>Messages;SMS;MMS;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>סנכרן הודעות עם ענן Mi</item>
+        <item>הפעל/הגדר סנכרון</item>
+        <item>הודעות;SMS;MMS;ענן;סנכרון; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_gallery">
-        <item>Sync Gallery with Mi Cloud</item>
-        <item>Turn on/set up sync</item>
-        <item>Gallery;Photos;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>סנכרן גלריה עם Mi Cloud</item>
+        <item>הפעל/הגדר סנכרון</item>
+        <item>גלריה; תמונות; ענן; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_dial">
-        <item>Sync call history with Mi Cloud</item>
-        <item>Turn on/set up sync</item>
-        <item>Call history;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>סנכרן את היסטוריית השיחות עם ענן Mi</item>
+        <item>הפעל/הגדר סנכרון</item>
+        <item>אנשי קשר;יומן שיחות;ענן;סנכרון;שירותי ענן, ענן Mi</item>
     </string-array>
     <string-array name="settings_search_recorder">
-        <item>Sync recordings with Mi Cloud</item>
-        <item>Turn on/set up sync</item>
-        <item>Recorder;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>סנכרן הקלטות עם-Mi Cloud</item>
+        <item>הפעל/הגדר סנכרון</item>
+        <item>רשמקול;ענן;סנכרון; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_music">
-        <item>Sync music with Mi Cloud</item>
+        <item>סנכרן מוסיקה עם Mi Cloud</item>
         <item>הפעל סנכרון</item>
-        <item>Music;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>מוסיקה;ענן;סנכרון; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_notes">
-        <item>Sync notes with Mi Cloud</item>
+        <item>סנכרן פתקים עם ענן Mi</item>
         <item>הפעל סנכרון</item>
-        <item>Notes;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>פתקים; ענן; סנכרון; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>Sync Wi-Fi settings with Mi Cloud</item>
+        <item>סנכרן הגדרות Wi-Fi עם ענן Mi</item>
         <item>הפעל סנכרון</item>
-        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>WLAN;WI-FI;ענן;סנכרון;שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_calendar">
-        <item>Sync Calendar with Mi Cloud</item>
+        <item>סנכרן את לוח השנה עם ענן Mi</item>
         <item>הפעל סנכרון</item>
-        <item>Calendar;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>רשמקול;ענן;סנכרון; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_browser">
-        <item>Sync Browser with Mi Cloud</item>
+        <item>סנכרן את הדפדפן עם ענן Mi</item>
         <item>הפעל סנכרון</item>
-        <item>Browser;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>דפדפן;ענן;סנכרון; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Sync Security with Mi Cloud</item>
-        <item>Turn on sync</item>
-        <item>Security;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>סנכרן אבטחה עם ענן Mi</item>
+        <item>הפעל סנכרון</item>
+        <item>אבטחה;ענן;סנכרון;שירותי ענן;ענן Mi</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>Sync App vault with Mi Cloud</item>
+        <item>סנכרן את כספת היישומים עם ענן Mi</item>
         <item>הפעל סנכרון</item>
-        <item>App vault;Cards;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>כספת יישומים;כרטיסים;ענן;סנכרון;שירותי ענן;ענן Mi</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
-        <item>Mi Cloud. All Mi services in one place.</item>
-        <item>Access your photos, contacts, messages, and devices from anywhere</item>
-        <item>Insufficient storage;Membership;Storage;Storage space;Cloud;Sync;Cloud services;Mi Cloud;Trash;Deleted items;Security</item>
+        <item>ענן Mi. כל שירותי Mi במקום אחד.</item>
+        <item>גש אל תמונות, אנשי קשר, הודעות ומכשירים מכל מקום</item>
+        <item>אחסון לא מספיק; חברות; אחסון;נפח אחסון;ענן;סנכרון;שירותי ענן;ענן Mi;אשפה; פריטים שנמחקו;אבטחה</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>איתור המכשיר</item>
-        <item>"Erase data and lock your device if it's lost"</item>
-        <item>Find device;Lost;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>מחק מידע ונעל את מכשירך במידה והוא אבד</item>
+        <item>אתר מכשיר,אבד; ענן;סנכרון; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>איתור המכשיר</item>
-        <item>"Erase data and lock your device if it's lost"</item>
-        <item>Find device;Lost;Cloud;Sync;Cloud services;Mi Cloud</item>
+        <item>מחק מידע ונעל את מכשירך במידה והוא אבד</item>
+        <item>אתר מכשיר,אבד; ענן;סנכרון; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
-        <item>Deleted items in Mi Cloud</item>
-        <item>Restore contacts, photos, messages, and more</item>
-        <item>Trash;Deleted items;Trash bin;Restore;Cloud services;Mi Cloud</item>
+        <item>פריטים שנמחקו מענן Mi</item>
+        <item>שחזר אנשי קשר, תומונות, הודעות ועוד</item>
+        <item>אשפה;מחק פריטים;פח אשפה; שחזר; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
         <item>חברות בשירות Mi Cloud</item>
-        <item>Upgrade your membership, get more storage space, and secure your data</item>
-        <item>Insufficient storage;Membership;Storage;Storage space;Cloud;Sync;Cloud services;Mi Cloud;Mega;Ultra;VIP;Back up;Backup;Restore;Trash;Deleted items;Trash bin</item>
+        <item>שדרג חברות, קבל יותר מקום אחסון ואבטח את המידע שלך</item>
+        <item>אין מספיק מקום אחסון; חברות; אחסון; שטח אחסון; סנכרון ענן; שירותי ענן; ענן Mi; מגה; אולטרה; VIP; גיבוי; גיבוי; שחזור; אשפה; פריטים שנמחקו; פח אשפה</item>
     </string-array>
     <string-array name="settings_search_backup_setting">
-        <item>Back up Home screen to Mi Cloud</item>
-        <item>Back up Home screen layout, list of installed apps, and system settings</item>
-        <item>Cloud;Back up;Backup;Cloud services;Mi Cloud;Home screen;Layout;Apps;Settings;Backup frequency;Manage backups;Restore</item>
+        <item>גבה את מסך הבית על גבי ענן Mi</item>
+        <item>גבה את פריסת מסך הבית, רשימת יישומים מותקנים והגדרות מערכת</item>
+        <item>ענן;גיבוי;גיבוי;שירותי ענן; ענן Mi;מסך הבית;הפריסה;יישומים;הגדרות; תדירות גיבוי;נהל הגדרות; שחזר</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>גיבויים</item>
         <item>פריטים מגובים</item>
-        <item>Cloud;Back up;Backup;Cloud services;Mi Cloud;Home screen;Layout;Apps;Manage backups;Restore</item>
+        <item>ענן;גיבוי;גיבוי; שירותי ענן;ענן Mi; מסך הבית;פריסה; יישומים;נהל גיבויים;שחזור</item>
     </string-array>
     <string-array name="settings_search_restore_device">
-        <item>Restore items from Mi Cloud</item>
-        <item>Download backed up items to your device</item>
-        <item>Cloud;Back up;Backup;Restore;Cloud services;Mi Cloud</item>
+        <item>שחזור פריטים מ-Mi Cloud</item>
+        <item>הורד פריטים שגובו אל מכשירך</item>
+        <item>ענן;גיבוי;גיבוי;שחזור;שירותי ענן;ענן Mi</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>סנכרון נתוני יישום</item>

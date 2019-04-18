@@ -340,6 +340,11 @@
         <item>פרמריבו</item>
         <item>קיטו</item>
     </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>לבן</item>
+        <item>שחור</item>
+        <item>אוטמטי</item>
+    </string-array>
     <string-array name="countries_names_miui">
         <item>חוף השנהב</item>
         <item>גאנה</item>

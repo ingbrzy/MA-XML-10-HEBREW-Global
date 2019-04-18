@@ -192,4 +192,18 @@
     <string name="talk_back_water_mark_string1">TalkBack פתוח</string>
     <string name="talk_back_water_mark_string2">לחץ והחזק את כפתור הווליום+ וכפתור ווליום- כשלוש שניות על מנת לכבות</string>
     <string name="start_dump_log">התחל לקבל יומני תקלות קשורים</string>
+    <string name="popup_camera_tip">שים לב</string>
+    <string name="popup_camera_sure">הבנתי</string>
+    <string name="popup_camera_sure_wait">"הבנתי (%dש')"</string>
+    <string name="popup_camera_front_failed">לא ניתן היה לפתוח את המצלמה הקדמית. נסה שוב.</string>
+    <string name="popup_camera_front_falied_times">לא ניתן היה לפתוח את המצלמה הקדמית מספר פעמים. תוכל להביא את מכשירך למרכז שירות Mi Home לבחינת הבעיה.</string>
+    <string name="takeback_camera_front_failed">לא ניתן היה לסגור את המצלמה. נסה שוב.</string>
+    <string name="stop_operate_camera_frequently">נראה כאילו אתה מחליף בין שני מצלמות בתדירות גבוהה מדיי.</string>
+    <string name="popup_camera_front_when_use">המצלמה הקדמית פועלת כעת. האם לפתוח בכל מקרה?</string>
+    <string name="popup_camera_popup_falied_times_calibrate">לא ניתן היה לפתוח את המצלמה הקדמית מספר פעמים. נסה לכייל את המצלמה.</string>
+    <string name="popup_camera_takeback_falied_times_calibrate">לא ניתן היה לסגור את המצלמה הקדמית מספר פעמים. נסה לכייל את המצלמה.</string>
+    <string name="popup_camera_calibrate_now">כיול</string>
+    <string name="popup_camera_calibrate_success">כוייל בהצלחה. תוכל לפתוח את המצלמה הקדמית כעת.</string>
+    <string name="popup_camera_calibrate_failed">לא ניתן היה לכייל. תוכל להביא את מכשירך למרכז שירות Mi Home לבחינת הבעיה.</string>
+    <string name="popup_camera_using_camera_background">%s משתמש במצלמה הקדמית</string>
 </resources>

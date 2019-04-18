@@ -50,6 +50,8 @@
     <string name="self_device_second_space">שטח שני של מכשיר טלפון זה</string>
     <string name="other_device_main_space">שטח ראשון</string>
     <string name="other_device_second_space">שטח משני</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>
     <string name="size_unknown">גודל לא ידוע</string>
     <string name="recovering">משחזר את %s</string>
@@ -72,7 +74,7 @@
     <string name="desktop_waiting">ממתין</string>
     <string name="desktop_downloading">מוריד</string>
     <string name="desktop_installing">מתקין</string>
-    <string name="desktop_wait_wifi">ממתין</string>
+    <string name="desktop_wait_network">ממתין…</string>
     <string name="desktop_failed">שגיאה</string>
     <string name="recover_from_micloud">שחזר מגיבוי ב-Mi Cloud</string>
     <string name="click_try_to_restore_again">לחץ על מנת לנסות שוב</string>
@@ -114,7 +116,7 @@
     <string name="confirm_cancel_restore_positive">המשך</string>
     <string name="confirm_cancel_restore_negative">ביטול</string>
     <string name="confirm_restore_title">שחזר</string>
-    <string name="confirm_restore_summary">"'מסך הבית' יבצע אתחול ויישומים יורדו באופן אוטומטי בעת חיבור לרשת אלחוטית"</string>
+    <string name="confirm_restore_summary">מסך הבית יופעל שנית. יישומים מגובים ירדו באופן אוטומטי.</string>
     <string name="confirm_restore">שחזר</string>
     <string name="cloud_backup_have_data">נמצא גיבוי ב-Mi Cloud</string>
     <string name="cloud_backup_select_recover">בחר גיבוי מ-Mi Cloud</string>
@@ -134,7 +136,9 @@
     <string name="provision_error_connect_msg">בדוק את הרשת ונסה שוב. הגיבויים אינם זמינים כאשר מכשירך נמצא במצב לא מקוון.</string>
     <string name="provision_error_connect_title">לא ניתן להתחבר</string>
     <string name="loading_user_backup">טוען נתוני גיבוי משתמש…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
+    <string name="doing_calc_backup_data_size">מחשב גודל…</string>
     <string name="authentication_failed">לא ניתן היה לאמת את החשבון.</string>
     <string name="no_account">לא מחובר לחשבון Mi.</string>
     <string name="no_backup">אין גיבויים ב-Mi Cloud.</string>
@@ -181,10 +185,34 @@
     <string name="msg_alert_cancel_restore">משחזר פריטים. לעצור עכשיו?</string>
     <string name="btn_restore_cancel">ביטול</string>
     <string name="btn_restore_resume">המשך</string>
+    <string name="btn_restore_wait">המתן לחיבור רשת אלחוטית</string>
+    <string name="btn_restore_continue">שחזר בכל זאת</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>%s&lt;/b> קבצים ירדו."</string>
+    <string name="msg_restore_with_metered_network_hint">אם תמשיך לשחזר פריטים אלו, נתונים סלולריים ישמשו להורדה זו.</string>
+    <string name="msg_restore_start_with_metered_network">"מסך הבית יופעל שנית. יישומים מגובים יורדו באופן אוטומטי.&lt;br />&lt;b>&lt;font color='red'>%s של קבצים ירדו.&lt;/font>&lt;/b>"</string>
+    <string name="title_restore_with_current_network">השתמש בחיבור הנוכחי על מנת להוריד קבצים</string>
     <string name="title_alert_restore_error">לא ניתן היה לשחזר</string>
     <string name="msg_alert_restore_error">לא ניתן היה לשחזר פריטים מ-Mi Cloud. נסה שוב.</string>
     <string name="btn_restore_retry">נסה שוב</string>
     <string name="btn_restore_abort">ביטול</string>
     <string name="backup_stopped_title">הגיבוי מושהה</string>
     <string name="backup_stopped_msg">גיבוי נוכחי ימחק ויחליף את הגיבוי הקודם. לחץ על מנת להציג.</string>
+    <string name="restore_network_unconnect">%s (ממתין לחיבור)</string>
+    <string name="restore_network_pause">%s (לחץ על מנת לחזור)</string>
+    <string name="restore_detail_title">בחר פריטים על מנת לשחזר</string>
+    <string name="restore_detail_category_settings">הגדרות</string>
+    <string name="restore_detail_category_apps">פריסת מסך הבית &amp; יישומים</string>
+    <string name="restore_detail_more">עוד</string>
+    <string name="restore_app_order_title">פריטים משוחזרים בעדיפות</string>
+    <string name="restore_app_order_search_hint">חפש פריטים להגדרת עדיפות</string>
+    <string name="restore_app_order_search_prior">יישומים בעדיפות גבוהה</string>
+    <string name="restore_app_order_search_normal">יישומים בעדיפות רגילה</string>
+    <string name="restore_app_order_search_installed">יישומים על מכשיר זה</string>
+    <string name="restore_app_order_retry">נסה שוב</string>
+    <string name="restore_app_order_retry_desc">"לא ניתן היה להתחבר לרשת.
+ בדוק את הגדרות חיבור הרשת שלך ונסה שנית."</string>
+    <string name="restore_app_order_loading">רק רגע…</string>
+    <string name="restore_app_order_finish">סיים</string>
+    <string name="provision_restore_data">פריטים שזוחזרו</string>
+    <string name="provision_background_restore_more_data">שחזר יותר פריטים ברקע</string>
 </resources>

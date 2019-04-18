@@ -195,6 +195,7 @@
     <string name="is_system_wallpaper_message">לא ניתן למחוק קבצי מערכת</string>
     <string name="launcher_auto_fill_empty_title">מלא תאים ריקים</string>
     <string name="launcher_not_exist">"אירעה שגיאה, חזור ל'מסך הבית' ונסה שוב."</string>
+    <string name="launcher_sliding_up_gesture">"החלק מעלה ב'מסך הבית' לפתיחת החיפוש"</string>
     <string name="launcher_title">מסך הבית &amp; אחרונים</string>
     <string name="like">הוספה למועדפים</string>
     <string name="liked">נוסף למועדפים</string>
@@ -355,6 +356,9 @@
     <string name="widget_global_search">חיפוש</string>
     <string name="widget_quick_function">פונקציות מהירות</string>
     <string name="widgets_preview_title">"הוסף ווידג'ט"</string>
+    <string name="edit_mode_dual_app">Create dual app</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">"Can't uninstall system apps"</string>
+    <string name="edit_mode_group_error_nothing_be_selected">Select an app first</string>
     <string name="home_gesture_content_center">מרכז תוכן</string>
     <string name="home_gesture_global_search">חיפוש</string>
     <string name="home_gesture_no_action">ללא</string>
@@ -363,6 +367,5 @@
     <string name="home_slide_up_action">החלק כלפי מעלה במסך הבית</string>
     <string name="launcher_pull_down_title">העבר אצבע כלפי מטה במסך הבית</string>
     <string name="launcher_slide_up_title">העבר אצבע כלפי מעלה במסך הבית</string>
-    <string name="launcher_sliding_up_gesture">"החלק מעלה ב'מסך הבית' לפתיחת החיפוש"</string>
     <string name="minus_one_screen">כספת היישומים</string>
 </resources>

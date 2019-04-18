@@ -94,7 +94,7 @@
     <string name="st_settings_name">"הגדרות 'רשימת החסומים'"</string>
     <string name="st_filter_keywords_setting_summary1">הודעות ממספרים חסויים המכילות מילים מרשימה זו יחסמו.</string>
     <string name="st_filter_keywords_setting_summary3">קבלת הודעות ממספרים חסויים המכילות מילים מרשימה זו תתאפשר.</string>
-    <string name="st_filter_keywords_setting_summary2">(Use a comma to separate multiple keywords)</string>
+    <string name="st_filter_keywords_setting_summary2">(השתמש בפיסוק על מנת להפריד בין מילות המפתח השונות)</string>
     <string name="label_callwait">התראת שיחה ממתינה</string>
     <string name="open_callwait">הפעלה</string>
     <string name="close_callwait">כיבוי</string>
@@ -431,6 +431,7 @@
     <string name="not_limited_brand">ללא הגבלה</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
@@ -919,7 +920,7 @@ Rolled over extra data"</string>
     <string name="memory_clean_memory_size_tip">מטמון</string>
     <string name="memory_clean_no_need_clean">הכל נראה תקין</string>
     <string name="optimize_result_available_memory_info">זכרון זמין</string>
-    <string name="optimize_result_title_uninstall_apps">יישומים</string>
+    <string name="optimize_result_title_uninstall_apps">להסיר התקנת יישומים</string>
     <string name="om_settings_title">הגדרות</string>
     <string name="om_settings_lock_app_manage">נעילת יישומים</string>
     <string name="om_settings_lock_app">נעילת יישומים</string>
@@ -982,6 +983,7 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">נתונים סלולריים שנשלחו</string>
     <string name="usage_type_no_coverage">זמן ללא אות</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="power_screen">מסך</string>
     <string name="power_wifi">רשת אלחוטית</string>
@@ -1204,12 +1206,17 @@ Rolled over extra data"</string>
     <string name="power_center_list_item_auto_brightness">התאמת בהירות אוטומטית</string>
     <string name="power_center_list_item_deep_save_title">הגדרות מתקדמות</string>
     <string name="power_center_list_item_battery_status_time">"ש'"</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">מיליאמפר</string>
     <string name="power_center_stop_scan_title">עצירת הסריקה</string>
     <string name="hide_mode_result_summary_text">התאמה אישית של חסכון בסוללה עבור כל יישום בנפרד</string>
     <string name="auto_task_result_summary_text">בגדרת משימות אוטומטיות עבור חסכון בסוללה</string>
     <string name="pc_settings_title">הגדרות ייעול סוללה</string>
     <string name="pc_main_activity_back">חזרה</string>
     <string name="extreme_power_save_mode_card_summary">הפעל מצב חסכון מירבי בכדי לשמור על הסוללה כאשר היא נחלשת.</string>
+    <string name="power_center_list_item_battery_health_model_voltage">V %s</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s מיליאמפר</string>
     <string name="handle_bar_title_system">מערכת</string>
     <string name="apps_list_header_title_sms">בדוק את יישום ההודעות</string>
     <string name="apps_list_header_title_sms_access">הגבל גישה לקודי אימות</string>
@@ -1318,11 +1325,13 @@ Rolled over extra data"</string>
     <string name="menu_text_optimize_manage">האצת מהירות</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_summary_networkassistants">נהל את תכנית הנתונים שלך</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">חריגה ממגבלת הנתונים</string>
     <string name="menu_summary_networkassistants_3">נותר מספיק נפח גלישה</string>
     <string name="menu_summary_networkassistants_4">חבילת הגלישה נגמרת</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1335,12 +1344,14 @@ Rolled over extra data"</string>
     <string name="menu_summary_garbage_cleanup">אין אשפה</string>
     <string name="menu_summary_garbage_cleanup_2">נפח האשפה</string>
     <string name="menu_summary_garbage_cleanup_3">נקה את האשפה עכשיו</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">אופטימיזציית (ייעול) סוללה</string>
     <string name="menu_summary_power_manager">מצב חיסכון בסוללה מאפשר זמן שימוש ארוך יותר בין טעינות</string>
     <string name="menu_summary_power_manager_1">הסוללה טעונה במלואה</string>
     <string name="menu_summary_power_manager_2">%s נותרו</string>
     <string name="menu_summary_power_manager_3">חבר מטען</string>
     <string name="menu_summary_power_manager_4">%s לטעינה מלאה</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">הסריקה הקודמת בוטלה</string>
     <string name="examination_score_100">הכל נראה תקין!</string>
     <string name="examination_score_80_100">מספר פריטים ניתנים לייעול</string>
@@ -1718,6 +1729,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -1980,6 +1992,7 @@ Rolled over extra data"</string>
     <string name="confirmSecondSpacePassword">"אשר את סיסמת 'שטח שני'"</string>
     <string name="sponsored_sec_fb">ממומן</string>
     <string name="add_game_notification_summary">לחץ להתחלה והאצת המהירות</string>
+    <string name="gb_shortcut_pref_title">"קיצור דרך ב'מסך הבית'"</string>
     <string name="app_manager_title">ניהול יישומים</string>
     <string name="app_manager_uninstall">הסרת התקנה</string>
     <string name="app_manager_bipartition">יישומים משוכפלים</string>
@@ -2095,6 +2108,7 @@ Rolled over extra data"</string>
     <string name="manage_hybrid_permissions">נהל את הרשאות היישום</string>
     <string name="app_manager_full_screen_title">מצב מסך מלא</string>
     <string name="app_manager_full_screen_summary">אפשר ליישומים נבחרים לעבוד במצב מסך מלא</string>
+    <string name="app_manager_find_apps">חפש יישומים</string>
     <string name="ad_btn_default_text">מידע נוסף</string>
     <string name="open_activity_err">היישום לא נמצא</string>
     <string name="low_memory_warning_dialog_title">אין מספיק שטח פנוי</string>
@@ -2324,6 +2338,7 @@ Rolled over extra data"</string>
     <string name="gb_advance_settings_reset_dialog_content">האם לשחזר את הגדרות היצרן כעת?</string>
     <string name="title_reply">רשום הערה</string>
     <string name="title_like">סמן ב\"אהבתי\"</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">גלישה סלולרית</string>
     <string name="game_wid_viewpoint_buttom">קח הפסקה קצרה.</string>
     <string name="video_repeat">נגן שוב</string>
@@ -2361,8 +2376,13 @@ Rolled over extra data"</string>
     <string name="notify_diving_mode_exception_open_fail">קרתה שגיאה בכרטיס SIM. לא יכול להפעיל את מצב מקיף.</string>
     <string name="notify_diving_mode_exception_close_fail">קרתה שגיאה בכרטיס SIM. לא יכול לכבות את מצב מקיף.</string>
     <string name="gamebox_recent_task_expand_fail">יישומים שעובדים עם קיצורי דרך לא הותקנו</string>
-    <string name="gamecenter_install_sucessfull">Installed successfully</string>
-    <string name="gamecenter_install_fail">"Couldn't install"</string>
+    <string name="gamecenter_install_sucessfull">הותקן בהצלחה</string>
+    <string name="gamecenter_install_fail">לא ניתן היה להתקין</string>
+    <string name="securityadd_update_tips_title">עדכון</string>
+    <string name="securityadd_update_tips_message">עדכן הרחבת אבטחה על מנת לקבל גישה לתכונות משחקים מעודכנות.%1$d מ\"ב נדרשים להורדה.</string>
+    <string name="securityadd_update_tips_cancle">לא כעת</string>
+    <string name="securityadd_update_tips_now">עדכון</string>
+    <string name="securityadd_install_fail">לא ניתן היה לעדכן הרחבת יישום. נסה שוב.</string>
     <string name="notify_channel_name_security">אבטחת מערכת</string>
     <string name="privacy_apps_category_title">אפליקציות נסתרות</string>
     <string name="privacy_apps">אפליקציות נסתרות</string>
@@ -2494,7 +2514,6 @@ Rolled over extra data"</string>
     <string name="resource_gamebooster">מאיץ מהירות המשחקים</string>
     <string name="keywords_gamebooster">משחק;מאיץ המהירות;King of Glory;מצב ביצועים;נא לא להפריע;משחקים;גיימינג;מהירות משחקים;האצה</string>
     <string name="path_gamebooster">יישומי מערכת/אבטחה/מאיץ מהירות המשחקים</string>
-    <string name="gb_shortcut_pref_title">Home screen shortcut</string>
     <string name="power_center_consume_rank">שימוש בסוללה</string>
     <string name="power_center_custom_title">פרופילי צריכת חשמל</string>
     <string name="power_center_auto_shutdown_summary_default">כיבוי והדלקה של המכשיר בשעה שנקבעה מראש</string>

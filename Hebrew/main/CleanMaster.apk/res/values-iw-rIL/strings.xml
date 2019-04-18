@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">חבילות</string>
     <string name="hints_residual_header_left">שאריות</string>
     <string name="hints_memory_header_left">זכרון</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">קבצים גדולים: %d</string>
     <string name="hints_installed_apps_header_left">יישומים מותקנים: %d</string>
     <string name="toast_resolve_apk_error">פתור שגיאת apk</string>
@@ -299,6 +300,7 @@
     <string name="downloading">מוריד</string>
     <string name="installing">מתקין</string>
     <string name="start_install">התקן כעת</string>
+    <string name="empty">" "</string>
     <string name="open_browser">פתח בדפדפן</string>
     <string name="title_share_link">שתף קישור אינטרנט</string>
     <string name="connecting">מתחבר…</string>
@@ -564,4 +566,5 @@
     <string name="facebook_clean_exit_confirm_ok">עצירה</string>
     <string name="one_tap_clean_M">%dMB</string>
     <string name="one_tap_clean_GB">%sג\"ב</string>
+    <string name="security_center_slogan">אבטחה. תמיד על המשמר.</string>
 </resources>

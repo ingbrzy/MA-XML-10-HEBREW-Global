@@ -86,8 +86,6 @@
     <string name="force_touch_menu_add">הוסף פתק</string>
     <string name="format_move_note_out_folder">פתק זה הוסר</string>
     <string name="format_move_note_to_folder">הועבר אל %1$s</string>
-    <string name="format_move_notes_out_folder">%1$s הועבר החוצה</string>
-    <string name="format_move_notes_to_folder">%1$s הועבר אל %2$s</string>
     <string name="hidden_notes_fragment_title">פתקים מוסתרים</string>
     <string name="hide_arrow_description">הסתר</string>
     <string name="hint_cannot_view_hidden_note_content">לא ניתן להציג תוכן של פתקים מוסתרים</string>
@@ -129,6 +127,7 @@
     <string name="note_sort_way">בחר כיצד למיין את ההערות שלך</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">תזכורת לפתק</string>
     <string name="permdesc_accessNote">יישומים זדוניים עשויים לעשות בכך שימוש על מנת לגשת לנתוניך האישיים.</string>
     <string name="permission_intro_contact">בעבור סימון הערות שנלקחו בזמן שיחות</string>
@@ -207,11 +206,9 @@
     <string name="toast_cancel_to_insert_image">לא ניתן היה להוסיף את התמונה.</string>
     <string name="toast_message_add_image_fail">לא ניתן היה להוסיף את התמונה</string>
     <string name="toast_notes_delete_success">נמחק בהצלחה</string>
-    <string name="toast_notes_hidden_count">הסתרת %1$s בוצעה בהצלחה</string>
     <string name="toast_notes_hidden_edit">ההערה הזו הוסתרה בהצלחה. משוך למטה כדי לראות את ההערות הנסתרות.</string>
     <string name="toast_notes_hidden_home">ההערה הזו הוסתרה בהצלחה. משוך למטה כדי לראות את ההערות הנסתרות.</string>
     <string name="toast_notes_unhidden">ההסתרה בוטלה בהצלחה</string>
-    <string name="toast_notes_unhidden_count">ביטול הסתרת %1$s בוצע בהצלחה</string>
     <string name="toast_reach_text_limit_attachment">לא ניתן לצרף עוד קבצים משום שהפתק ארוך מידי</string>
     <string name="toast_reach_text_limit_checkbox">לא ניתן להוסיף תיבת סימון משום שהפתק ארוך מידי</string>
     <string name="toast_reach_text_limit_truncate">פתק זה ארוך מדי. חלק מהטקסט בסופו נחתך.</string>

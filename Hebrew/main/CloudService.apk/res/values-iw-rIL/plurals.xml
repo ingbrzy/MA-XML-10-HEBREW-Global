@@ -102,4 +102,10 @@
         <item quantity="two">לפני %s שעות</item>
         <item quantity="many">לפני %s שעות</item>
     </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s השירותים יסונכרנו עם שירות ענן Mi</item>
+        <item quantity="one">%s השירות יסונכרן עם שירות ענן Mi</item>
+        <item quantity="two">%s השירותים יסונכרנו עם שירות ענן Mi</item>
+        <item quantity="many">%s השירותים יסונכרנו עם שירות ענן Mi</item>
+    </plurals>
 </resources>

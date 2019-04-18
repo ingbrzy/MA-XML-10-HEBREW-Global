@@ -18,4 +18,22 @@
         <item quantity="two">משחזר %d קבצים</item>
         <item quantity="many">משחזר %d קבצים</item>
     </plurals>
+    <plurals name="restore_app_order_prior">
+        <item quantity="other">עדיפות גבוהה:%d פריטים</item>
+        <item quantity="one">עדיפות גבוהה:%d פריט</item>
+        <item quantity="two">עדיפות גבוהה:%d פריטים</item>
+        <item quantity="many">עדיפות גבוהה:%d פריטים</item>
+    </plurals>
+    <plurals name="restore_app_order_normal">
+        <item quantity="other">עדיפות רגילה: %d פריטים</item>
+        <item quantity="one">עדיפות רגילה: %d פריט</item>
+        <item quantity="two">עדיפות רגילה: %d פריטים</item>
+        <item quantity="many">עדיפות רגילה: %d פריטים</item>
+    </plurals>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d יישומים על מכשיר זה</item>
+        <item quantity="one">%d יישומים על מכשיר זה</item>
+        <item quantity="two">%d יישומים על מכשיר זה</item>
+        <item quantity="many">%d יישומים על מכשיר זה</item>
+    </plurals>
 </resources>

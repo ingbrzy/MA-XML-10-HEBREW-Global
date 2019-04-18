@@ -35,6 +35,9 @@
     <string name="channel_name_timer">שעון עצר</string>
     <string name="check_theme_app_install">ודא כי ערכות הנושא של יישום זה מותקנת על מכשירך.</string>
     <string name="check_voice_assist_app_version">עדכן את Mi AI לגרסה העדכנית.</string>
+    <string name="clock_bg_button_setting_summary_common">בחר צבע רקע עבור יישום השעון</string>
+    <string name="clock_bg_button_setting_summary_follow_sys">ייעשה שימוש בשחור כצבע הרקע בכל פעם שתחליף למצב השחרה</string>
+    <string name="clock_bg_button_setting_title">צבע הרקע</string>
     <string name="close_alarm">כיבוי</string>
     <string name="common_settings">הגדרות</string>
     <string name="confirm_abort">ביטול</string>
@@ -55,6 +58,11 @@
     <string name="dialog_message_for_contact_permission">השעון זקוק להרשאת גישה לאנשי הקשר שלך כדי לאפשר התראות על ימי הולדת. מסכים?</string>
     <string name="dialog_message_negative">לא מסכים</string>
     <string name="dialog_message_not_remind">אל תציג שוב</string>
+    <string name="dialog_privacy_content">על מנת לקבל ולסנכרן תוכן רלוונטי בעבור חגים וחופשות מקומיים ובכדי לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים ל%1$s ו -%2$s שלנו. האם אתה מסכים?</string>
+    <string name="dialog_privacy_content_global">בכדי לספק שירותים מותאמים, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים ל%1$s ו -%2$s שלנו. האם אתה מסכים?</string>
+    <string name="dialog_privacy_content_news">בכדי לספק שירותים מותאמים, ובכללם את חדשות הבוקר אל השעון המעורר, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים ל%1$s ו -%2$s שלנו. האם אתה מסכים?</string>
+    <string name="dialog_privacy_content_timer">על מנת להוריד קבצי שמע עבור שעוני רקע ועל מנת לספק שירותים נוספים, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים ל%1$s ו -%2$s שלנו. האם אתה מסכים?</string>
+    <string name="dialog_privacy_content_timer_data">על מנת להוריד קבצי שמע עבור שעוני רקע ועל מנת לספק שירותים נוספים (נדרשים 20 מ\"ב), השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים ל%1$s ו -%2$s שלנו.אתה משתמש בנתונים ניידים כעת. האם אתה מסכים?</string>
     <string name="done">בוצע</string>
     <string name="dynamic_alarm_speech">שעון מעורר חכם</string>
     <string name="edit_alarm">ערוך שעון מעורר</string>
@@ -65,6 +73,10 @@
     <string name="force_touch_enter_stopwatch">שעון עצר</string>
     <string name="force_touch_enter_timer">טיימר</string>
     <string name="go_back">חזרה</string>
+    <string name="holiday_update">עדכון זמין כעת עבור חגים לאומיים</string>
+    <string name="holiday_update_fail">לא ניתן היה לעדכן</string>
+    <string name="holiday_update_loading">מעדכן…</string>
+    <string name="holiday_update_success">כל הפריטים מעודכנים</string>
     <string name="hour_unit">שעות +</string>
     <string name="install_weather_app_error">לא ניתן היה לטעון את היישום</string>
     <string name="install_weather_app_loading">רק רגע…</string>
@@ -90,6 +102,7 @@
     <string name="life_post_setting">דיווח בוקר</string>
     <string name="life_post_setting_FBE_remind">עקב מגבלות המערכת, ייתכן שנתוני מזג האוויר בדיווחי הבוקר לא יוצגו בצורה נכונה לאחר אתחול המכשיר.</string>
     <string name="life_post_setting_close_title">השבת דיווח בבוקר</string>
+    <string name="life_post_setting_open_desc">בטל חזרה של שעונים מעוררים בין 04:00 10:00 בכדי להאזין לתחזית הנוכחית</string>
     <string name="life_post_setting_open_subtitle">קבל מידע אודות מזג האויר בעת כיבוי שעונים מעוררים בין 4:00 ל- 9:30</string>
     <string name="life_post_setting_open_title">קבל דיווחי בוקר</string>
     <string name="life_post_setting_wake_up_list_title">היסטורית השכמות</string>
@@ -111,13 +124,15 @@
     <string name="menu_item_sort_by_gmt_offset">מיון לפי זמן</string>
     <string name="menu_item_sort_by_name">מיון לפי שם</string>
     <string name="module_download_cancel">לא, תודה</string>
-    <string name="module_download_data_msg">שעון צריך להתחבר לאינטרנט כדי להוריד קבצי שמע עבור MIUI 10 מזג אוויר שעון מעורר ושעוני רעשי רקע. יידרשו 20MB של נתונים סלולריים עבור הורדה זו. האם אתה מסכים?</string>
-    <string name="module_download_data_msg_golbal">שעון צריך להתחבר לאינטרנט כדי להוריד קבצי שמע עבור MIUI 10 מזג אוויר שעון מעורר ושעוני רעשי רקע. יידרשו 20MB של נתונים סלולריים עבור הורדה זו. האם אתה מסכים?</string>
-    <string name="module_download_data_msg_replace">עדכון שמע בעבור שעונים מעוררים חכמים (20מ\"ב) זמין כעת. האם להתחבר לרשת ולהוריד עכשיו?</string>
+    <string name="module_download_data_msg">השעון צריך להוריד קבצי שמע עבור שעונים מעוררים חכמים MIUI. שעונים מעוררים חכמים מכילים תכונות אודיו המאפשרות לכלול את נתוני מזג האוויר אל תוך השעון המעורר 20 מגה של נתוני רשת סלולרים נדרשים עבור הורדה זו. האם להוריד כעת?</string>
+    <string name="module_download_data_msg_golbal">שעון צריך להוריד קבצי שמע עבור שעונים מעוררים חכמים. נדרשים 20מגה של נתונים ניידים עבור הורדה זו. האם להוריד כעת?</string>
+    <string name="module_download_data_msg_replace">שעון צריך להוריד קבצי שמע עבור שעונים מעוררים חכמים. נדרשים 20מגה של נתונים ניידים עבור הורדה זו. האם להוריד כעת?</string>
+    <string name="module_download_data_msg_timer">שעון צריך להוריד קבצי שמע עבור שעוני רקע. נדרשים 20מגה של נתונים ניידים עבור הורדה זו. האם להוריד כעת?</string>
     <string name="module_download_fail">לא ניתן היה להוריד את קובצי האודיו הנוספים</string>
-    <string name="module_download_msg">השעון צריך להתחבר לאינטרנט כדי להוריד קבצי שמע עבור MIUI 10, מזג האוויר שעון מעורר ושעוני רקע. האם אתה מסכים?</string>
-    <string name="module_download_msg_golbal">השעון צריך להתחבר לאינטרנט כדי להוריד קבצי שמע עבור MIUI 10, מזג האוויר שעון מעורר ושעוני רקע. האם אתה מסכים?</string>
-    <string name="module_download_msg_replace">עדכון שמע בעבור שעונים מעוררים חכמים זמין כעת. האם להתחבר לרשת ולהוריד עכשיו?</string>
+    <string name="module_download_msg">השעון צריך להוריד קבצי שמע עבור שעונים מעוררים חכמים MIUI. שעונים מעוררים חכמים מכילים תכונות אודיו המאפשרות לכלול את נתוני מזג האוויר אל תוך השעון המעורר. האם להוריד כעת?</string>
+    <string name="module_download_msg_golbal">השעון צריך להוריד קבצי שמע עבור שעונים חכמים MIUI. האם להוריד כעת?</string>
+    <string name="module_download_msg_replace">עדכון שמע זמין עבור שעונים מעוררים חכמים MIUI? האם להוריד כעת?</string>
+    <string name="module_download_msg_timer">השעון צריך להוריד קבצי שמע עבור שעוני רעש רקע. האם להוריד כעת?</string>
     <string name="module_download_no_network">לא ניתן להתחבר לאינטרנט. נא לבדוק את הגדרות הרשת ולנסות שוב.</string>
     <string name="module_download_ok">אפשר</string>
     <string name="module_download_success">הורדת קובצי האודיו הנוספים הושלמה בהצלחה</string>
@@ -132,6 +147,7 @@
     <string name="other_category_title">אחר</string>
     <string name="pause">עצור</string>
     <string name="percentage_sign">%</string>
+    <string name="personal_recommend">המלצות מותאמות אישית עבור תוכן</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
     <string name="remind_ringtone">צלצול</string>
     <string name="repeat_count">פעמים</string>
@@ -156,6 +172,7 @@
     <string name="shutdown_alarm_enable_summary">השעון המעורר ישתתק במידה אם תגדיר אותו לפחות 5 דקות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="slider_text">החלק מעלה לכיבוי</string>
     <string name="snooze_confirm_cancel">כבה שעון מעורר</string>
@@ -174,6 +191,7 @@
     <string name="start_up">התחל</string>
     <string name="stopwatch_lap_empty_text">אין הקפות</string>
     <string name="stopwatch_title">שעון עצר</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">הגדרות</string>
     <string name="system_time_settings_category_title">הגדרות שעה</string>
     <string name="temperature_unit">℃</string>
@@ -227,6 +245,7 @@
     <string name="turn_off_this_repeat_alarm">בטל שעון מעורר חוזר זה</string>
     <string name="upcoming_alarm">השעון המעורר הבא: %s</string>
     <string name="upcoming_alarm_hint">באפשרותך לסגור שעון מעורר זה מראש</string>
+    <string name="user_agreement">הסכם משתמש</string>
     <string name="vibrate_pref_summary">הפעל רטט יחד עם צלצול השעון המעורר</string>
     <string name="vibrate_when_ringing">הפעל רטט בזמן צלצול</string>
     <string name="volume_button_setting_summary">הגדר תיפקוד לחצני העוצמה בעת צלצול השעון המעורר</string>
