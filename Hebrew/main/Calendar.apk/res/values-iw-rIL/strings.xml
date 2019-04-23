@@ -247,7 +247,6 @@
     <string name="month_view">חודש</string>
     <string name="monthly">חודשי</string>
     <string name="monthly_on_day">חודשי (באותו התאריך)</string>
-    <string name="monthly_on_day_count">חודשי (%1$s%2$s)</string>
     <string name="network_not_available">לא ניתן להתחבר לרשת</string>
     <string name="new_event_description">חדש</string>
     <string name="news">חדשות</string>
