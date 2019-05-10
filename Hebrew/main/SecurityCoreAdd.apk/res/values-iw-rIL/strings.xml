@@ -56,6 +56,7 @@
     <string name="loading_space">רק רגע…</string>
     <string name="private_space_setting">ניהול</string>
     <string name="exit_private_space">החלף</string>
+    <string name="kid_mode_label">שטח ילד</string>
     <string name="wating">רק רגע…</string>
     <string name="Active">מופעל</string>
     <string name="ok_button">אישור</string>
@@ -161,6 +162,7 @@
     <string name="create_space_loading">"יוצר את 'שטח שני'…"</string>
     <string name="close_second_space">"'שטח שני' נמחק"</string>
     <string name="close_second_space_success">"'שטח שני' נמחק"</string>
+    <string name="close_kid_space_success">שטח ילד נמחק</string>
     <string name="enable">הפעל</string>
     <string name="disable">כבה</string>
     <string name="PrivacyContactDes1">"אנשי הקשר יהפכו לפרטיים.
@@ -368,14 +370,14 @@
     <string name="remove_user_click_message">"*במידה ואין לך פריטים חשובים ב'שטח שני', %s"</string>
     <string name="remove_user_click_message_action">"באפשרותך להסיר את 'שטח שני' ולאתחל את מכשירך כעת."</string>
     <string name="sdcradfs_dialog_in_owner_title">שטח שני</string>
-    <string name="sdcradfs_dialog_in_owner_message">"בעדכון זה מושקת מערכת קבצים חדשה. ייתכן שלא תהיה תאימות בין הנתונים הישנים למערכת החדשה. כדי לבצע עדכון העבר את הפריטים מ-Second Space, אתחל את המכשיר וצור שוב את Second Space.
+    <string name="sdcradfs_dialog_in_owner_message">"בעדכון זה מושקת מערכת קבצים חדשה. ייתכן שלא תהיה תאימות בין הנתונים הישנים למערכת החדשה. כדי לבצע עדכון העבר את הפריטים משטח משני, אתחל את המכשיר וצור שוב את שטח משני. 
 אם לא תעדכן, ייתכן שגם האפליקציות הכפולות לא יעבדו כנדרש."</string>
     <string name="sdcradfs_dialog_in_sec_title">עדכון חשוב</string>
     <string name="sdcradfs_dialog_in_sec_message">"על מנת לבצע עדכון, עליך למחוק את 'שטח שני' שלך ואז ליצור אותו שוב. העבר את הנתונים מ'שטח שני' אל 'שטח ראשון' ואתחל את מכשירך על מנת להשלים את העדכון.
 במידה ולא תבצע עדכון, יישומים משוכפלים עשויים שלא לעבוד כראוי גם כן."</string>
     <string name="space_created_success">"'שטח שני' נוצר בהצלחה"</string>
     <string name="encrypt_space_delete_dialog_title">שים לב</string>
-    <string name="encrypt_space_delete_dialog_message">אתה עומד לעדכן את המערכת. אחרי העדכון לא תהיה תאימות בין הנתונים מ-Second Space למערכת. כדי למנוע את הבעיה הזו העבר את כל הנתונים ל-First Space, מחק את Second Space וצור אותו מחדש.</string>
+    <string name="encrypt_space_delete_dialog_message">אתה עומד לעדכן את המערכת. אחרי העדכון לא תהיה תאימות בין הנתונים בין השטח המשני למערכת. כדי למנוע בעיה זו העבר את כל הנתונים לשטח ראשון, מחק את המשטח השני וצור אותו מחדש.</string>
     <string name="encrypt_space_delete_dialog_click_message">*במידה ואינך צריך להעביר נתונים, %s</string>
     <string name="encrypt_space_delete_dialog_click_message_action">"מחק וצור את 'שטח שני' כעת."</string>
     <string name="encrypt_space_delete_dialog_positive_text">העברת נתונים</string>
@@ -399,9 +401,9 @@
     <string name="green_guard_title3">ניהול יישומים</string>
     <string name="green_guard_des3">שלוט ביישומים המותקנים והגבל את השימוש</string>
     <string name="experience_more_features">הוסף מכשיר לצפיה בכל התמונות</string>
-    <string name="can_not_switch_when_green_kid_active">בקרת הורים מגבילה מעבר אל Second Space</string>
+    <string name="can_not_switch_when_green_kid_active">בקרת הורים מגבילה מעבר אל משטח משני</string>
     <string name="need_network_when_bind">התחבר לרשת לפני הוספת מכשירים</string>
-    <string name="this_function_can_not_use_in_second_space">ניתן להשתמש במאפיין זה רק ב-First Space</string>
+    <string name="this_function_can_not_use_in_second_space">ניתן להשתמש במאפיין זה רק בשטח ראשון</string>
     <string name="enterprise_mode">מצב ארגוני</string>
     <string name="ent_app_verified">נראה שמותקנות בטלפון שלך אפליקציות ארגוניות. להפעיל את מצב ארגוני?</string>
     <string name="activate_ent_mode">הפעל מצב ארגוני</string>
@@ -462,4 +464,6 @@
     <string name="button_touch">הנח אצבע על החיישן</string>
     <string name="button_input_password">הזן סיסמה</string>
     <string name="master_clear_not_available">שחזור הגדרות יצרן מוגבל על ידי החברה שלך.</string>
+    <string name="dual_animation">הפעל הנפשה</string>
+    <string name="dual_animation_description">הצג הנפשה כאשר שני יישומים מופעלים</string>
 </resources>

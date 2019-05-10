@@ -92,6 +92,8 @@
     <string name="content_description_complete">הסתיים</string>
     <string name="language_picker_other_languages_title">שפות נוספות</string>
     <string name="language_settings">בחירת שפה</string>
+    <string name="font_hint_normal">הגדל את גודל הטקסט</string>
+    <string name="font_hint_large">גודל ברירת מחדל של הטקסט</string>
     <string name="navigation_picker_radio_text_full_screen">מחוות מסך מלא</string>
     <string name="navigation_picker_radio_text_virtual_key">לחצנים</string>
     <string name="congratulation_swipe">החלק מעלה על מנת להיכנס למערכת</string>
@@ -119,4 +121,8 @@
     <string name="ai_button_double_press_desc">לחץ לחיצה כפולה על כפתור AI על מנת לסיים משימות מותאמות אישית</string>
     <string name="zone_picker_title">בחר אזור זמן</string>
     <string name="locale_picker_other_locale_title">אזורים נוספים</string>
+    <string name="skip_gesture_guide_dialog_title">מחוות מסך מלא</string>
+    <string name="skip_gesture_guide_dialog_message">וודא שאתה יודע כיצד להשתמש במחוות עבור מסך מלא לפני שתבחר באפשרות זו.</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">ביטול</string>
+    <string name="skip_gesture_guide_dialog_positive_btn">אישור</string>
 </resources>

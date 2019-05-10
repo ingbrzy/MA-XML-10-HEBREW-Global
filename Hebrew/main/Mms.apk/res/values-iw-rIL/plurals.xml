@@ -61,10 +61,10 @@
         <item quantity="many">%1$s הודעות</item>
     </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
-        <item quantity="other">You received %d group chat invitations</item>
-        <item quantity="one">You received %d group chat invitation</item>
-        <item quantity="two">You received %d group chat invitations</item>
-        <item quantity="many">You received %d group chat invitations</item>
+        <item quantity="other">"קיבלת הזמנות לצ'אט קבוצה %"</item>
+        <item quantity="one">"קיבלת הזמנה לצ'אט קבוצה %d"</item>
+        <item quantity="two">"קיבלת הזמנות לצ'אט קבוצה %"</item>
+        <item quantity="many">"קיבלת הזמנות לצ'אט קבוצה %"</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s אנשים</item>

@@ -28,7 +28,7 @@
     <string name="already_updated">עדכני</string>
     <string name="app_label">הודעות</string>
     <string name="app_name">מכשירים</string>
-    <string name="application_list_title">מיני-אפליקציה</string>
+    <string name="application_list_title">מיני יישומים</string>
     <string name="attach_group_chat">"קבוצות צא'ט"</string>
     <string name="attach_image">תמונות</string>
     <string name="attach_rcs_file">קובץ</string>
@@ -172,6 +172,8 @@
     <string name="dialog_message_mx">היישום Mi Message מאפשר לך לשלוח הודעות למשתמשים אחרים ב-MIUI ללא חיוב נוסף. כדי להפעיל את Mi Message יש צורך בשליחת הודעת SMS יוצאת. החיוב על ההודעה יבוצע על ידי הספק שלך. כדי להשתמש ב-Mi Message עליך להסכים קודם ל%1$s ול%2$s שלנו.</string>
     <string name="dialog_message_networking">שירות ההודעות צריך להשתמש בדפי זהב (Yellow pages) כדי לאפשר את זיהוי השולח. שירות ההודעות ודפי זהב צריכים להתחבר לאינטרנט ולקבל גישה למיקום שלך כדי לפעול באופן תקין. מאשר?</string>
     <string name="dialog_message_rcs">שירות ההודעות של China Mobile מאפשר לך לשלוח הודעות למשתמשי China Mobile אחרים בסין היבשתית ללא חיוב נוסף. כדי להשתמש בשירות ההודעות של China Mobile עליך להסכים קודם ל\"%1$s\".</string>
+    <string name="dialog_sim_locked_confirm">סיום</string>
+    <string name="dialog_sim_locked_message">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
     <string name="dialog_title_fake_cell_detect_error">תיקון</string>
     <string name="dialog_title_mx_rcs">Mi Message</string>
     <string name="dialog_title_networking">תנאי השימוש</string>
@@ -228,6 +230,7 @@
     <string name="file_size">גודל:</string>
     <string name="file_title">שם:</string>
     <string name="file_width_height">גודל:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">הודעה חדשה</string>
     <string name="forward_from">העבר מ:</string>
     <string name="forward_message_select_title">העבר הודעה</string>
@@ -303,7 +306,7 @@
     <string name="menu_traffic_destination">יעד</string>
     <string name="menu_unlock">הסר מהמועדפים</string>
     <string name="menu_view_contact">צפיה באיש קשר</string>
-    <string name="menu_view_group_info">פרטי הקבוצה</string>
+    <string name="menu_view_group_info">פרטי קבוצה</string>
     <string name="message_class_label">"קיטלוג הודעה: "</string>
     <string name="message_contact">איש קשר:</string>
     <string name="message_details_title">פרטי הודעה</string>
@@ -538,8 +541,8 @@
     <string name="prvate_contact">אנשי קשר פרטיים</string>
     <string name="quick_reply">השב</string>
     <string name="rate_limit_surpassed">אישור</string>
-    <string name="rcs_auto_resend_as_sms_remind_change">שנה</string>
-    <string name="rcs_auto_resend_as_sms_remind_desp">When the network signal is weak, the text part of a message (up to 900 Bytes) can be converted and sent as SMS. You can change this in Settings.</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">שנה הגדרות</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">הודעות עד 900 ביט, ניתנות להמרה. SMS ישלח כאשר אות הרשת נחלש. לחץ על שנה הגדרות אם אינך מעוניין להמיר הודעות SMS.</string>
     <string name="rcs_auto_resend_as_sms_remind_title">המר ל- SMS</string>
     <string name="rcs_auto_resend_mms">המר ל MMS</string>
     <string name="rcs_auto_resend_sms">המר ל- SMS</string>
@@ -551,7 +554,7 @@
     <string name="rcs_forward_faild">לא ניתן היה להעביר</string>
     <string name="rcs_forward_successful">הועבר בהצלחה</string>
     <string name="rcs_group_notification_invitation">"הזמנה לצ'אט קבוצתי"</string>
-    <string name="rcs_hello_from_pc">Sign in to Fetion on your computer to transfer files.</string>
+    <string name="rcs_hello_from_pc">היכנס אל Fetion במחשב שלך על מנת להעביר קבצים.</string>
     <string name="rcs_message">הודעות של China Mobile</string>
     <string name="rcs_message_disable">"לא ניתן להציג את ההודעה ב'שטח שני'"</string>
     <string name="rcs_msg">הודעות של China Mobile</string>
@@ -656,6 +659,7 @@
     <string name="security_alert_dialog_title">דווח</string>
     <string name="select_audio">בחר שמע</string>
     <string name="select_bottom_text">טקסט בתחתית</string>
+    <string name="select_copy_text">בחר טקסט בכדי להעתיק</string>
     <string name="select_different_attachment">בחר פריט מצורף שונה.</string>
     <string name="select_different_audio">בחר שמע אחר.</string>
     <string name="select_different_picture">בחר תמונה אחרת.</string>
@@ -681,6 +685,7 @@
     <string name="send_signature_confirm_dialog_title">שלח הודעה</string>
     <string name="send_sms">שלח הודעה</string>
     <string name="send_to">אל:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">נשלח ב: %1s</string>
     <string name="sent_label">"נשלח: "</string>
     <string name="service_message_not_found">תוקף ההודעה פג או שאינה זמין</string>

@@ -50,6 +50,8 @@
     <string name="self_device_second_space">שטח שני של מכשיר טלפון זה</string>
     <string name="other_device_main_space">שטח ראשון</string>
     <string name="other_device_second_space">שטח משני</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>
     <string name="size_unknown">גודל לא ידוע</string>
     <string name="recovering">משחזר את %s</string>
@@ -134,6 +136,7 @@
     <string name="provision_error_connect_msg">בדוק את הרשת ונסה שוב. הגיבויים אינם זמינים כאשר מכשירך נמצא במצב לא מקוון.</string>
     <string name="provision_error_connect_title">לא ניתן להתחבר</string>
     <string name="loading_user_backup">טוען נתוני גיבוי משתמש…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">מחשב גודל…</string>
     <string name="authentication_failed">לא ניתן היה לאמת את החשבון.</string>
@@ -196,6 +199,7 @@
     <string name="backup_stopped_msg">גיבוי נוכחי ימחק ויחליף את הגיבוי הקודם. לחץ על מנת להציג.</string>
     <string name="restore_network_unconnect">%s (ממתין לחיבור)</string>
     <string name="restore_network_pause">%s (לחץ על מנת לחזור)</string>
+    <string name="hint_restore_cross_space">פריסת מסך הבית עלולה להיות מוצגת באופן שגוי אם תעביר את הפרטים בין השטחים השונים.</string>
     <string name="restore_detail_title">בחר פריטים על מנת לשחזר</string>
     <string name="restore_detail_category_settings">הגדרות</string>
     <string name="restore_detail_category_apps">פריסת מסך הבית &amp; יישומים</string>
@@ -212,4 +216,6 @@
     <string name="restore_app_order_finish">סיים</string>
     <string name="provision_restore_data">פריטים שזוחזרו</string>
     <string name="provision_background_restore_more_data">שחזר יותר פריטים ברקע</string>
+    <string name="selected">נבחר</string>
+    <string name="unselected">לא נבחר</string>
 </resources>

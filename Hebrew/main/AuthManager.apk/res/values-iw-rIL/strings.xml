@@ -81,6 +81,8 @@
     <string name="HIPS_Perm_service_foreground_Desc">שירותים קדמיים</string>
     <string name="HIPS_Perm_UDevice_ID">שתף מידע אודות חלקים ממכשירך עם מפתחי משחקים על מנת לעזור להם לשפר את חווית המשחק. האם אתה מסכים?</string>
     <string name="HIPS_Perm_UDevice_ID_DESC">שתף מידע אודות חלקים ממכשירך עם מפתחי משחקים על מנת לעזור להם לשפר את חווית המשחק. האם אתה מסכים?</string>
+    <string name="HIPS_Perm_deamon_notification">התראות קבועות</string>
+    <string name="HIPS_Perm_deamon_notification_Desc">הצג התראות קבועות</string>
     <string name="permission_group_title_charges_related">עלויות</string>
     <string name="permission_group_title_privacy_related">פרטיות</string>
     <string name="permission_group_title_media_related">מולטימדיה</string>

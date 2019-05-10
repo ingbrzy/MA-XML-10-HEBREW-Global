@@ -58,7 +58,7 @@
     <string name="dialog_message_for_contact_permission">השעון זקוק להרשאת גישה לאנשי הקשר שלך כדי לאפשר התראות על ימי הולדת. מסכים?</string>
     <string name="dialog_message_negative">לא מסכים</string>
     <string name="dialog_message_not_remind">אל תציג שוב</string>
-    <string name="dialog_privacy_content">על מנת לקבל ולסנכרן תוכן רלוונטי בעבור חגים וחופשות מקומיים ובכדי לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים ל%1$s ו -%2$s שלנו. האם אתה מסכים?</string>
+    <string name="dialog_privacy_content">על מנת לקבל ולסנכרן תוכן רלוונטי בעבור חגים וחופשות מקומיים, התאמת שעונים מעוררים ובכדי לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים ל%1$s ו -%2$s שלנו. האם אתה מסכים?</string>
     <string name="dialog_privacy_content_global">בכדי לספק שירותים מותאמים, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים ל%1$s ו -%2$s שלנו. האם אתה מסכים?</string>
     <string name="dialog_privacy_content_news">בכדי לספק שירותים מותאמים, ובכללם את חדשות הבוקר אל השעון המעורר, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים ל%1$s ו -%2$s שלנו. האם אתה מסכים?</string>
     <string name="dialog_privacy_content_timer">על מנת להוריד קבצי שמע עבור שעוני רקע ועל מנת לספק שירותים נוספים, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים ל%1$s ו -%2$s שלנו. האם אתה מסכים?</string>
@@ -148,7 +148,7 @@
     <string name="pause">עצור</string>
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">המלצות מותאמות אישית עבור תוכן</string>
-    <string name="privacy_policy">מדיניות הפרטיות</string>
+    <string name="privacy_policy">מדיניות פרטיות</string>
     <string name="remind_ringtone">צלצול</string>
     <string name="repeat_count">פעמים</string>
     <string name="repeat_count_value_five">5</string>
@@ -172,6 +172,7 @@
     <string name="shutdown_alarm_enable_summary">השעון המעורר ישתתק במידה אם תגדיר אותו לפחות 5 דקות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="slider_text">החלק מעלה לכיבוי</string>
     <string name="snooze_confirm_cancel">כבה שעון מעורר</string>
@@ -190,6 +191,7 @@
     <string name="start_up">התחל</string>
     <string name="stopwatch_lap_empty_text">אין הקפות</string>
     <string name="stopwatch_title">שעון עצר</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">הגדרות</string>
     <string name="system_time_settings_category_title">הגדרות שעה</string>
     <string name="temperature_unit">℃</string>

@@ -18,6 +18,7 @@
     <string name="business_card">כרטיס ביקור</string>
     <string name="business_card_result_title">כרטיס ביקור</string>
     <string name="business_card_title">מקם את כרטיס הביקר בתוך המסגרת</string>
+    <string name="business_card_with_qr_code">מקם את כרטיס הביקור או את קוד הQR בתוך המסגרת</string>
     <string name="business_copy">העתק</string>
     <string name="business_new_contacts">צור איש קשר</string>
     <string name="business_no_result">לא ניתן היה לזהות את כרטיס הביקור. נסה שוב.</string>

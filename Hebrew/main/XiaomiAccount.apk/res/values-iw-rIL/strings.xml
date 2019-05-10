@@ -219,6 +219,7 @@
     <string name="passport_talkback_switch_image_captcha">החלף לקוד אימות תמונה</string>
     <string name="passport_license_info_open">פרטים</string>
     <string name="passport_license_info_collapse">צמצם</string>
+    <string name="passport_first_login_prompt">חשבון Mi יווצר באופן אוטומטי כאשר תרשם בפעם הראשונה.</string>
     <string name="search_app_name">חשבון Mi</string>
     <string name="search_mi_account">חשבון Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud,הגדרות חשבון,פרטי Mi Pay,צא</string>
@@ -353,6 +354,8 @@
     <string name="activity_not_found_notice">לא ניתן למצוא את היישום</string>
     <string name="scan_barcode_title">על מנת להיכנס לחשבון Mi שלך, סרוק את קוד ה-QR</string>
     <string name="talkback_scan_barcode">סריקת קוד QR</string>
+    <string name="scan_barcode">סרוק קוד QR על מנת להיכנס</string>
+    <string name="agreement_and_privacy">מדיניות הפרטיות והסכם משתמש</string>
     <string name="authorize_title">הרשאה</string>
     <string name="my_device_title">מכשיר נוכחי</string>
     <string name="device_list_title">המכשירים שלי</string>
@@ -419,9 +422,8 @@
     <string name="push_notify_dialog_title">אימות חשבון</string>
     <string name="push_notify_dialog_message">התבצעה כניסה לחשבון Mi שלך באמצעות התקן לא מוכר. הזן קוד אימות זה באמצעות ההתקן. במידה וזה לא היית אתה, שנה את סיסמת חשבון Mi שלך באופן מידי. אל תשתף את קוד האימות עם אנשים אחרים.</string>
     <string name="account_secure_info_pref_title">פרטי החשבון</string>
-    <string name="account_user_email">דוא\"ל</string>
-    <string name="account_user_phone">טלפון</string>
-    <string name="account_user_recovery_phone">טלפון שחזור</string>
+    <string name="account_user_email">מייל שחזור</string>
+    <string name="account_user_phone">טלפון לשחזור</string>
     <string name="input_new_pwd">הזן את סיסמתך</string>
     <string name="confirm_new_pwd">אשר את סיסמתך החדשה</string>
     <string name="inconsistent_pwd">הסיסמאות אינן תואמות</string>

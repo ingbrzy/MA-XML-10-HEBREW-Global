@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
 גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">לא ניתן היה להתחיל את ההורדה, ודא כי מנהל ההורדות עובד כראוי.</string>
     <string name="app_name">גיבוי</string>
     <string name="local_app_name">גיבוי</string>
@@ -73,6 +76,7 @@
     <string name="sms_title">הודעות</string>
     <string name="mms_title">הודעות מולטימדיה</string>
     <string name="wifi_title">הגדרות רשת אלחוטית</string>
+    <string name="phone_title">הגדרות טלפון</string>
     <string name="note_title">פתקים</string>
     <string name="compute_backup_info">מקבל פרטי גיבוי…</string>
     <string name="compute_delete_contact_info">מקבל פרטים…</string>
@@ -225,6 +229,7 @@
     <string name="restore_backup">שחזור</string>
     <string name="enable_encrypt_description">הצפנה</string>
     <string name="disable_encrypt_description">ביטול הצפנה</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -254,6 +259,7 @@
     <string name="err_pkg_not_exist">לא ניתן היה למצוא את היישום.</string>
     <string name="err_user_abort">בוטל על ידי המשתמש.</string>
     <string name="err_binder_died">היישום עצר באופן לא צפוי.</string>
+    <string name="err_no_gms">גרסת היישום אינה תואמת. התקן גרסה זו בנפרד</string>
     <string name="backup_is_running">מבצע גיבוי של המכשיר</string>
     <string name="restore_is_running">מבצע שחזור של המכשיר</string>
     <string name="notif_backup_title">נתוני הגיבוי</string>
@@ -307,6 +313,7 @@
     <string name="trans_detail_qq_data">נתוני QQ (כולל היסטורית שיחות)</string>
     <string name="trans_detail_app_data_useless_tip">באפשרותך לשחזר פריטים אלה מתוך היישום, אין צורך לבצע העברה.</string>
     <string name="trans_detail_item_app_data_too_large_tip">נראה כי פריט זה גדול מידי מכדי שיוכל להיות מועבר.</string>
+    <string name="trans_detail_item_app_data_skip_data">לא יכול להעביר נתוני יישומים</string>
     <string name="trans_detail_item_app_data_selected_tip">יישומים קשורים נבחרו גם כן.</string>
     <string name="trans_detail_list_footer">"1. תוכל לבחור יישומים באופן פרטני שאתה מעוניין להעביר.
 2. אם תבחר נתוני ייישום, יישומים קשורים יבחרו אף הן.
@@ -562,6 +569,7 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
 עליך ליצור גיבוי iCloud תחילה."</string>
     <string name="list_footer_tip_title">טיפים:</string>
     <string name="import_tip_summary">עקב בעיות תאימות, באפשרותך להעביר נתונים חלקיים בלבד בלבד מהתקני iOS. ודא כי יצרת גיבוי iCloud לפני התחלת ההעברה.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">ייבוא</string>
     <string name="select_empty">בחירת פריטים לייבוא</string>
     <string name="select_item_summary_wait">ממתין…</string>

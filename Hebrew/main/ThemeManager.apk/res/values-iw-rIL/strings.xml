@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_setting_hint">"Tap the button in the upper right corner to turn on this service.
-Themes will detect which apps you're using and display transparent wallpapers in the apps of your choice.​"</string>
+    <string name="accessibility_setting_hint">"הקש על הלחצן בפינה הימנית העליונה כדי להפעיל שירות זה.
+ ערכות הנושא יזהו באילו יישומים אתה משתמש על מנת להציג טפטים שקופים ביישומים לפי בחירתך"</string>
     <string name="accessibiliy_description_content_account">פרופיל</string>
     <string name="accessibiliy_description_content_ad">פרסומת</string>
     <string name="accessibiliy_description_content_add_resource">הוסף פריטים</string>
@@ -29,8 +29,8 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="ad_downloading_tip">פריט זה מורד. באפשרותך להציג התקדמות בצל ההתראות.</string>
     <string name="add_resource_detail_fail">לא ניתן להוסיף את המשאב</string>
     <string name="all_resources">הכל</string>
-    <string name="app_disable_transparent_wallpaper">Without transparent wallpaper</string>
-    <string name="app_enable_transparent_wallpaper">With transparent wallpaper</string>
+    <string name="app_disable_transparent_wallpaper">ללא שימוש בטפט שקוף</string>
+    <string name="app_enable_transparent_wallpaper">עם טפט שקוף</string>
     <string name="app_name">ערכות נושא</string>
     <string name="apply_default_font_tip">להמשיך להשתמש בגופן הנוכחי של המערכת?</string>
     <string name="apply_font_btn_exclude">לא כעת</string>
@@ -39,6 +39,7 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="apply_theme_with_ringtones">השתמש בצלצולים של ערכת הנושא</string>
     <string name="audio_duration_minutes_format">%1$d דקות</string>
     <string name="audio_duration_seconds_format">%1$d שניות</string>
+    <string name="audition_ringtone">הפעלה</string>
     <string name="automatically_update_using_theme_tips">עדכן אוטומטית בפעם הבאה</string>
     <string name="backup_theme_dialog_message">לגבות את ערכת הנושא הנוכחית שלך?</string>
     <string name="backup_theme_dialog_ok">גיבוי</string>
@@ -65,6 +66,7 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="component_title_settings_video_wallpaper">רקעים עם אפקטים מיוחדים</string>
     <string name="component_title_video_wallpaper">טפטים של סרטים</string>
     <string name="component_title_wallpaper">טפטים</string>
+    <string name="count_down_tip">"נותרו %d שנ'"</string>
     <string name="current_using_desktop_wallpaper_text">מסך הבית</string>
     <string name="current_using_lockscreen_wallpaper_text">מסך הנעילה</string>
     <string name="current_version_incompatible">לא מתאים</string>
@@ -86,9 +88,9 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="download_preview_failed">לא ניתן לטעון את התצוגה המקדימה</string>
     <string name="download_success">ההורדה הושלמה</string>
     <string name="dynamic_video_wallpaper">טפט 24 שעות</string>
-    <string name="enable_accessibility">Accessibility permissions required</string>
-    <string name="enable_accessibility_hint">"You can turn on this service in Themes. After that, you'll be able to select which apps should work with transparent wallpapers."</string>
-    <string name="enable_transparent_wallpaper">Use transparent wallpaper</string>
+    <string name="enable_accessibility">נדרשות הרשאות עבור נגישות</string>
+    <string name="enable_accessibility_hint">באפשרותך להפעיל שירות זה בערכות הנושא. לאחר מכן, תוכל לבחור אילו יישומים יעבדו עם רקעים שקופים.</string>
+    <string name="enable_transparent_wallpaper">השתמש בטפט שקוף</string>
     <string name="exit_extreme_mode_dialog_agree">מסכים</string>
     <string name="exit_extreme_mode_dialog_cancel">בטל</string>
     <string name="exit_extreme_mode_dialog_title">כבה את המצב הקיצוני</string>
@@ -133,7 +135,7 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="gift_use_confirmation_dlg_title">לשלוח מתנה זו?</string>
     <string name="gift_use_fail_dlg_title">משהו השתבש</string>
     <string name="gift_used">נשלח</string>
-    <string name="go_accessibility_setting">Select</string>
+    <string name="go_accessibility_setting">בחירה</string>
     <string name="hide_free">הסתרת פריטים חינמיים (%1$s)</string>
     <string name="hide_incompatible">הסתרת פריטים בלתי מתאימים (%1$s)</string>
     <string name="home_apply_failured">"לא ניתן להחיל את טפט 'מסך הבית'"</string>
@@ -155,11 +157,13 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="incompatible_dialog_ok">הבנתי</string>
     <string name="incompatible_dialog_title">בעיות התאמה</string>
     <string name="is_setting_wallpaper_message">מגדיר טפט…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">שעון מעורר</string>
     <string name="item_resource_audio_optional_color_ring">צלצול Ringback</string>
     <string name="item_resource_audio_optional_notification_ring">התראות</string>
     <string name="item_resource_audio_optional_phone_ring">צלצול</string>
-    <string name="lab">Theme lab</string>
+    <string name="lab">מעבדת ערכות נושא</string>
+    <string name="like_list">פריטים שאהבתי</string>
     <string name="live_wallpaper">טפט חי</string>
     <string name="loading">רק רגע…</string>
     <string name="loading_resource_detail_fail">לא ניתן לטעון את המשאב</string>
@@ -226,6 +230,7 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="online_precust_plant">צמחים</string>
     <string name="online_precust_scenery">נוף</string>
     <string name="online_search_hint">חפש אחר משאבים מקוונים</string>
+    <string name="playing_ringtone">מנגן</string>
     <string name="pref_privacy_policy">מדיניות הפרטיות</string>
     <string name="present_local_fonts">הגופנים שלי</string>
     <string name="present_local_themes">ערכות הנושא שלי</string>
@@ -240,7 +245,7 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="purchased_list_current">ערכות נושא מיועלות</string>
     <string name="purchased_list_legacy">מורשת ערכות נושא</string>
     <string name="recently_used">בשימוש לאחרונה</string>
-    <string name="reenable_accessibility">An error occurred. Grant accessibility permissions again.</string>
+    <string name="reenable_accessibility">אירעה שגיאה. הענק הרשאות נגישות שוב.</string>
     <string name="refresh_footer_all_loaded">זה הכל לעת עתה.</string>
     <string name="refresh_footer_failed">לא ניתן היה לטעון את המידע</string>
     <string name="refresh_footer_finish">נטען בהצלחה</string>
@@ -258,7 +263,6 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="resource_alarm_default">שעון מעורר</string>
     <string name="resource_app_name">הצג משאבים</string>
     <string name="resource_apply">החלה</string>
-    <string name="resource_apply_trial">נסה כעת</string>
     <string name="resource_back">הקודם</string>
     <string name="resource_buy">רכישה</string>
     <string name="resource_can_not_selected">%1$s אינו ניתן לבחירה</string>
@@ -329,7 +333,6 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="resource_download">הורדה</string>
     <string name="resource_download_notification_title_many">%1$s ערכות נושא ירדו</string>
     <string name="resource_download_notification_title_one">ערכת הנושא ירדה</string>
-    <string name="resource_download_trial">נסה בחינם</string>
     <string name="resource_downloaded_title">משאבים שהורדו</string>
     <string name="resource_downloading">מוריד</string>
     <string name="resource_exchange">המרה</string>
@@ -384,6 +387,7 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="resource_pack_price_info">מחיר מקורי: %1$s</string>
     <string name="resource_pack_warning">רכשת כבר %1$d רכיבים בערכת נושא זו. זול יותר יהיה לרכוש את הרכיבים הנותרים בנפרד.</string>
     <string name="resource_present">מתנה</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">חינם</string>
     <string name="resource_price_unit"> נקודות Mi</string>
     <string name="resource_purchase_common_error">אירעה שגיאה, נסה שוב</string>
@@ -395,6 +399,10 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="resource_ranking">פופולרי</string>
     <string name="resource_ranking_free">חינם</string>
     <string name="resource_ranking_purchase">שולם</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">צלצולים</string>
     <string name="resource_ringtone_playing_error">שגיאה</string>
     <string name="resource_ringtone_volume_mute">הצלצול מושתק</string>
@@ -489,8 +497,6 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="theme_changed_failed_message">לא ניתן להחיל את ערכת הנושא</string>
     <string name="theme_changed_message">ערכת הנושא הוחלה</string>
     <string name="theme_changing_dialog_title">"מחיל "</string>
-    <string name="theme_comment_dialog_message">דרג יישום זה, ספר לנו מה אתה חושב.</string>
-    <string name="theme_comment_dialog_ok">דרג</string>
     <string name="theme_component_title_alarm">שעון מעורר</string>
     <string name="theme_component_title_alarmstyle">סגנון שעון מעורר</string>
     <string name="theme_component_title_all">ערכות נושא</string>
@@ -534,13 +540,13 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="theme_is_external_priority_storage">שמור בכרטיס הזכרון</string>
     <string name="theme_is_external_priority_storage_summary">"יישום 'ערכות נושא' יופעל מחדש על מנת להחיל הגדרות אלו."</string>
     <string name="theme_multiple_button_title_customize">התאמה אישית</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">לא</string>
     <string name="theme_purchased_list_empty">לא רכשת כל ערכת נושא.</string>
     <string name="theme_purchased_non_local">מקוון</string>
     <string name="theme_select_others">סייר</string>
     <string name="theme_setting">הגדרות</string>
     <string name="theme_staggered_item_text">קבל קרדיט Mi</string>
-    <string name="theme_to_comment">לא רע!</string>
     <string name="theme_user_agreement_allow">מסכים</string>
     <string name="theme_user_agreement_content1">"על ידי שימוש במוצר זה, הינך מסכים ל- "</string>
     <string name="theme_user_agreement_content2">הסכם המשתמש</string>
@@ -565,20 +571,31 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="title_system_audio_resource">צלצולי מערכת</string>
     <string name="title_system_wallpaper_resource">טפט מערכת</string>
     <string name="to_activate_the_account">הפעל את חשבון Mi שלך כעת</string>
-    <string name="transparency_pref_summary">Choose how transparent you want your wallpaper to be</string>
-    <string name="transparency_pref_title">Opacity level</string>
+    <string name="transparency_pref_summary">בחר כמה שקוף יהיה הרקע שלך</string>
+    <string name="transparency_pref_title">רמת שקיפות</string>
     <string name="transparent_wallpaper">טפט שקוף</string>
-    <string name="transparent_wallpaper_apply_success">Set successfully. Go to Themes > Profile > Theme lab for more features.</string>
-    <string name="transparent_wallpaper_disable">Off</string>
-    <string name="transparent_wallpaper_enable">On</string>
+    <string name="transparent_wallpaper_apply_success">הוגדר בהצלחה. גש אל ערכות הנושא> פרופיל> מעבדת ערכות נושא עבור תכונות נוספות.</string>
+    <string name="transparent_wallpaper_disable">כבוי</string>
+    <string name="transparent_wallpaper_enable">הפעלה</string>
     <string name="transparent_wallpaper_enable_success">מופעל בהצלחה</string>
-    <string name="transparent_wallpaper_filter_pref_summary">"Transparent wallpapers won't be displayed in restricted apps"</string>
-    <string name="transparent_wallpaper_filter_pref_title">Select apps that should work with transparent wallpapers</string>
-    <string name="transparent_wallpaper_filter_set_successfully">Set successfully</string>
-    <string name="transparent_wallpaper_filter_setting">Individual apps</string>
+    <string name="transparent_wallpaper_filter_pref_summary">טפטים שקופים לא יוצגו כאפליקציות מוגבלות</string>
+    <string name="transparent_wallpaper_filter_pref_title">בחר ביישומים שצריכים לעבוד עם יישומים שקופים</string>
+    <string name="transparent_wallpaper_filter_set_successfully">הוגדר בהצלחה</string>
+    <string name="transparent_wallpaper_filter_setting">אפליקציות בודדות</string>
     <string name="transparent_wallpaper_guide">חזור לערכות נושא</string>
     <string name="transparent_wallpaper_guide_tip">באפשרותך לבחור טפט שקוף בערכות הנושא כעת.</string>
-    <string name="transparent_wallpaper_pref_summary">Wallpapers with reduced background opacity</string>
+    <string name="transparent_wallpaper_pref_summary">טפטים עם רקע מופחתת שקיפות</string>
+    <string name="transparent_wallpaper_white_wallpaper">הפוך את הרקע ללבן</string>
+    <string name="transparent_wallpaper_white_wallpaper_failed">לא יכול לשנות את הרקע ללבן</string>
+    <string name="transparent_wallpaper_white_wallpaper_success">צבע הרקע הוא לבן כעת</string>
+    <string name="transparent_wallpaper_white_wallpaper_tip">טפט שקוף נראה הכי טוב על רקע לבן</string>
+    <string name="trial_count_empty">לא נותרו פריטים חינמיים להיות, חזור מחר!</string>
+    <string name="trial_count_tip">תקופת הניסיון מסתיימת ב %1$s%2$s%3$s</string>
+    <string name="trial_for_free">נסיון בחינם</string>
+    <string name="trial_get_failed_tip">סיים לצפות בוידאו על מנת לקבל את ערכת הנושא.</string>
+    <string name="trial_get_success_tip">מזל טוב! קיבלת גרסת ניסיון ל 3 ימים.</string>
+    <string name="trial_now">נסה כעת</string>
+    <string name="try_5_min">נסה למשך חמש דקות</string>
     <string name="uid_change_dialog_message">מחקת עדכונים. אתחל את המכשיר על מנת שתוכל להשתמש בערכות הנושא.</string>
     <string name="uid_change_dialog_ok">הבנתי</string>
     <string name="uid_change_dialog_title">אתחל את המכשיר</string>
@@ -596,6 +613,11 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="using_theme_next_automatic_update">עדכונים אוטומטיים</string>
     <string name="using_theme_next_automatic_update_summary">כאשר המסך נעול, עדכן אוטומטית באמצעות ה-Wi-Fi את ערכות הנושא שהורדו</string>
     <string name="using_theme_show_ad">המלצות</string>
+    <string name="video_ad_click">נסה כעת</string>
+    <string name="video_ad_try_for_free">נסיון בחינם</string>
+    <string name="video_ad_uncomplete_tip">סיים לצפות בוידאו על מנת לקבל את ערכת הנושא.</string>
+    <string name="video_ad_uncomplete_tip_cancel">ביטול</string>
+    <string name="video_ad_uncomplete_tip_continue">המשך לצפות</string>
     <string name="video_audio_apply_success">תצורת הסרטון עם שמע נקבעה בהצלחה</string>
     <string name="video_data_tips_message">שימוש בנתונים סלולריים עשוי להוביל לחיובים נוספים. להמשיך בכל זאת?</string>
     <string name="video_data_tips_title">אזהרת שימוש בנתונים</string>
@@ -630,7 +652,7 @@ Themes will detect which apps you're using and display transparent wallpapers in
     <string name="wallpaper_scroll_type_tips">גלילת הטפט</string>
     <string name="wallpaper_set_as_both">הגדר כשניהם</string>
     <string name="wallpaper_set_as_desktop">הגדר כמסך הבית</string>
-    <string name="wallpaper_set_as_float_wallpaper">Set as transparent wallpaper</string>
+    <string name="wallpaper_set_as_float_wallpaper">הוגדר כטפט שקוף</string>
     <string name="wallpaper_set_as_lockscreen">"הגדר כ'מסך הנעילה'"</string>
     <string name="wallpaper_settings">הגדרות טפט</string>
     <string name="wallpaper_settings_loading_text">רק רגע…</string>

@@ -126,6 +126,108 @@
         <item quantity="two">%d יישומים יכולים להציג התראות</item>
         <item quantity="many">%d יישומים יכולים להציג התראות</item>
     </plurals>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">לא נעול %d פעמים</item>
+        <item quantity="one">לא נעול פעם %d</item>
+        <item quantity="two">לא נעול %d פעמים</item>
+        <item quantity="many">לא נעול %d פעמים</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">לא נעול %d פעמים</item>
+        <item quantity="one">לא נעול פעם %d</item>
+        <item quantity="two">לא נעול %d פעמים</item>
+        <item quantity="many">לא נעול %d פעמים</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">קיבלת %d התראות</item>
+        <item quantity="one">קיבלת %d התראה</item>
+        <item quantity="two">קיבלת %d התראות</item>
+        <item quantity="many">קיבלת %d התראות</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">קיבלת %d התראות</item>
+        <item quantity="one">קיבלת %d התראה</item>
+        <item quantity="two">קיבלת %d התראות</item>
+        <item quantity="many">קיבלת %d התראות</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">%d שעה</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה %d</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">"  שעות"</item>
+        <item quantity="one">"  שעה"</item>
+        <item quantity="two">"  שעות"</item>
+        <item quantity="many">"  שעות"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">"  דקות"</item>
+        <item quantity="one">"  דקה"</item>
+        <item quantity="two">"  דקות"</item>
+        <item quantity="many">"  דקות"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d התראות</item>
+        <item quantity="one">%d התראה</item>
+        <item quantity="two">%d התראות</item>
+        <item quantity="many">%d התראות</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d פעמים</item>
+        <item quantity="one">%d פעם</item>
+        <item quantity="two">%d פעמים</item>
+        <item quantity="many">%d פעמים</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">סופישבוע: %d שעות</item>
+        <item quantity="one">סופישבוע: %d שעה</item>
+        <item quantity="two">סופישבוע: %d שעות</item>
+        <item quantity="many">סופישבוע: %d שעות</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">סופישבוע: %d דקות</item>
+        <item quantity="one">סופישבוע: %d דקה</item>
+        <item quantity="two">סופישבוע: %d דקות</item>
+        <item quantity="many">סופישבוע: %d דקות</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">ימי חול: %d שעות</item>
+        <item quantity="one">ימי חול: %d שעה</item>
+        <item quantity="two">ימי חול: %d שעות</item>
+        <item quantity="many">ימי חול: %d שעות</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">ימי חול: %d דקות</item>
+        <item quantity="one">ימי חול: %d דקה</item>
+        <item quantity="two">ימי חול: %d דקות</item>
+        <item quantity="many">ימי חול: %d דקות</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">"  שעות"</item>
+        <item quantity="one">"  שעה"</item>
+        <item quantity="two">"  שעות"</item>
+        <item quantity="many">"  שעות"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" דקות"</item>
+        <item quantity="one">" דקה"</item>
+        <item quantity="two">" דקות"</item>
+        <item quantity="many">" דקות"</item>
+    </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d סיכונים נמצאו</item>
         <item quantity="one">סיכון %d נמצא</item>

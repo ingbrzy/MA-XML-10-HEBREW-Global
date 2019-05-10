@@ -59,6 +59,7 @@
     <string name="card_title_change">עוד</string>
     <string name="cards_language_hint">כרטיסים מסוימים לא יהיו זמינים בשפה שנבחרה.</string>
     <string name="change_response_title">שינוי תגובה</string>
+    <string name="change_zodiac">שנה את המזל מגלגל המזלות</string>
     <string name="click_to_share">הקש כדי לשתף</string>
     <string name="close_alarm">כיבוי</string>
     <string name="contacts_permission_desc">גישה אל פרטי קשר</string>
@@ -91,6 +92,7 @@
     <string name="date_interval_text_to">עד ה: %1$s</string>
     <string name="date_jump_hint">עבור ישירות ליום מסויים</string>
     <string name="date_jump_title">עבור לתאריך</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (היום)"</string>
     <string name="day_view_new_event_hint">ארוע חדש</string>
     <string name="default_reminder_mode">תזכורות</string>
@@ -159,6 +161,7 @@
     <string name="event_view">הצג אירוע</string>
     <string name="every_weekday">אמצע שבוע (שני–שישי)</string>
     <string name="fb_birthday_failure">לא יכו לייבא תאריכי ימי הולדת מפייסבוק. נסה שוב.</string>
+    <string name="fb_birthday_region_warning">תכונה זו אינה זמינה באזור שלך</string>
     <string name="fb_birthday_success">ימי הולדת יובאו בהצלחה מפייסבוק</string>
     <string name="fb_calendar_account_name">לוח שנה מקומי של Mi</string>
     <string name="fb_calendar_display_name">ימי הולדת של חברים בפייסבוק</string>
@@ -247,6 +250,7 @@
     <string name="month_view">חודש</string>
     <string name="monthly">חודשי</string>
     <string name="monthly_on_day">חודשי (באותו התאריך)</string>
+    <string name="monthly_on_day_count">חודשי (%1$s)</string>
     <string name="network_not_available">לא ניתן להתחבר לרשת</string>
     <string name="new_event_description">חדש</string>
     <string name="news">חדשות</string>

@@ -30,6 +30,18 @@
         <item quantity="two">תחזית עבור %1$s ימים</item>
         <item quantity="many">תחזית עבור %1$s ימים</item>
     </plurals>
+    <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">תוכל שוב להגיש את המשוב בתוך %1$s דקות</item>
+        <item quantity="one">תוכל שוב להגיש את המשוב בתוך %1$s דקה</item>
+        <item quantity="two">תוכל שוב להגיש את המשוב בתוך %1$s דקות</item>
+        <item quantity="many">תוכל שוב להגיש את המשוב בתוך %1$s דקות</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">תוכל שוב להגיש את המשוב בתוך %1$s שניות</item>
+        <item quantity="one">תוכל שוב להגיש את המשוב בתוך %1$s שניה</item>
+        <item quantity="two">תוכל שוב להגיש את המשוב בתוך %1$s שניות</item>
+        <item quantity="many">תוכל שוב להגיש את המשוב בתוך %1$s שניות</item>
+    </plurals>
     <plurals name="no_vote_num">
         <item quantity="other">%1$s אנשים |</item>
         <item quantity="one">אדם %1$s |</item>
@@ -53,11 +65,5 @@
         <item quantity="one">| אדם %1$s</item>
         <item quantity="two">| %1$s אנשים</item>
         <item quantity="many">| %1$s אנשים</item>
-    </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s שניות לאחר המשוב</item>
-        <item quantity="one">שניה %1$s לאחר המשוב</item>
-        <item quantity="two">%1$s שניות לאחר המשוב</item>
-        <item quantity="many">%1$s שניות לאחר המשוב</item>
     </plurals>
 </resources>

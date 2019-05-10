@@ -121,10 +121,10 @@
         <item quantity="many">&lt;font color=\"red\">%d שירים&lt;/font> בתהליך הורדה</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">Free downloads left %d songs</item>
-        <item quantity="one">Free downloads left %d song</item>
-        <item quantity="two">Free downloads left %d songs</item>
-        <item quantity="many">Free downloads left %d songs</item>
+        <item quantity="other">%d הורדות בחינם</item>
+        <item quantity="one">%d הורדה בחינם</item>
+        <item quantity="two">%d הורדות בחינם</item>
+        <item quantity="many">%d הורדות בחינם</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d פריטים נבחרו</item>
@@ -187,9 +187,9 @@
         <item quantity="many">%1$s צפיות</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">Remain %d days</item>
-        <item quantity="one">Remain %d day</item>
-        <item quantity="two">Remain %d days</item>
-        <item quantity="many">Remain %d days</item>
+        <item quantity="other">%d ימים נותרו</item>
+        <item quantity="one">%d יום נותר</item>
+        <item quantity="two">%d ימים נותרו</item>
+        <item quantity="many">%d ימים נותרו</item>
     </plurals>
 </resources>

@@ -6,6 +6,18 @@
         <item quantity="two">%d תגובות</item>
         <item quantity="many">%d תגובות</item>
     </plurals>
+    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f נקודות</item>
+        <item quantity="one">%1$.1f נקודה</item>
+        <item quantity="two">%1$.1f נקודות</item>
+        <item quantity="many">%1$.1f נקודות</item>
+    </plurals>
+    <plurals name="ringtone_nums">
+        <item quantity="other">%1$s רינגטונים</item>
+        <item quantity="one">%1$s רינגטון</item>
+        <item quantity="two">%1$s רינגטונים</item>
+        <item quantity="many">%1$s רינגטונים</item>
+    </plurals>
     <plurals name="theme_batch_has_update_text">
         <item quantity="other">קיימים עדכונים זמינים עבור %1$d ערכות נושא.</item>
         <item quantity="one">קיים עדכון זמין עבור ערכת נושא %1$d.</item>
@@ -25,16 +37,28 @@
         <item quantity="many">קיימים עדכונים זמינים עבור %1$d ערכות נושא</item>
     </plurals>
     <plurals name="transparent_wallpaper_filter_hint">
-        <item quantity="other">Search among %1$d apps</item>
-        <item quantity="one">Search among %1$d app</item>
-        <item quantity="two">Search among %1$d apps</item>
-        <item quantity="many">Search among %1$d apps</item>
+        <item quantity="other">חפש בתוך %1$d יישומים</item>
+        <item quantity="one">חפש בתוך יישום %1$d</item>
+        <item quantity="two">חפש בתוך %1$d יישומים</item>
+        <item quantity="many">חפש בתוך %1$d יישומים</item>
     </plurals>
     <plurals name="transparent_wallpaper_filter_result">
-        <item quantity="other">%1$d apps found</item>
-        <item quantity="one">%1$d app found</item>
-        <item quantity="two">%1$d apps found</item>
-        <item quantity="many">%1$d apps found</item>
+        <item quantity="other">נמצאו %1$d יישומים</item>
+        <item quantity="one">%1$d יישום אחד נמצא</item>
+        <item quantity="two">נמצאו %1$d יישומים</item>
+        <item quantity="many">נמצאו %1$d יישומים</item>
+    </plurals>
+    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">תוכל לנסות את %2$s בחינם בעוד %1$d שעות</item>
+        <item quantity="one">תוכל לנסות את %2$s בחינם %1$d בעוד שעה</item>
+        <item quantity="two">תוכל לנסות את %2$s בחינם בעוד %1$d שעות</item>
+        <item quantity="many">תוכל לנסות את %2$s בחינם בעוד %1$d שעות</item>
+    </plurals>
+    <plurals name="try_3_day">
+        <item quantity="other">שלושה ימי ניסיון (%1$d פריטים נותרו להיום)</item>
+        <item quantity="one">שלושה ימי ניסיון (%1$d פריט אחד נותר להיום)</item>
+        <item quantity="two">שלושה ימי ניסיון (%1$d פריטים נותרו להיום)</item>
+        <item quantity="many">שלושה ימי ניסיון (%1$d פריטים נותרו להיום)</item>
     </plurals>
     <plurals name="wallpaper_staggered_item_text">
         <item quantity="other">%1$s | %2$d תמונות</item>
