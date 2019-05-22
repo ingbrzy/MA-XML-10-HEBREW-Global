@@ -120,6 +120,12 @@
         <item quantity="two">%d סרטונים</item>
         <item quantity="many">%d סרטונים</item>
     </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">"קולאז'ים יכולים להכיל בין 1 ל%d תמונות"</item>
+        <item quantity="one">"קולאז'ים יכולים להכיל בין 1 ל%d תמונות"</item>
+        <item quantity="two">"קולאז'ים יכולים להכיל בין 1 ל%d תמונות"</item>
+        <item quantity="many">"קולאז'ים יכולים להכיל בין 1 ל%d תמונות"</item>
+    </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">בחר עד %d תמונות</item>
         <item quantity="one">בחר תמונה אחת (%d)</item>

@@ -638,6 +638,7 @@
     <string name="keyguard_missing_sim_instructions_long">‏כרטיס ה-SIM חסר או שלא ניתן לקרוא אותו. הכנס כרטיס SIM.</string>
     <string name="keyguard_missing_sim_message">‏אין כרטיס SIM בטלפון.</string>
     <string name="keyguard_missing_sim_message_short">‏אין כרטיס SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">הרשת נעולה</string>
     <string name="keyguard_password_enter_password_code">הזן סיסמה לביטול הנעילה</string>
     <string name="keyguard_password_enter_pin_code">הזן את קוד הגישה</string>
@@ -752,12 +753,14 @@
 
 למידע נוסף, פנה למנהל המערכת."</string>
     <string name="monitoring_description_ca_cert_settings">פתח את פרטי הכניסה המהימנים</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">במכשיר זה מותקנת רשות אישורים. ניתן לעקוב אחר התנועה ברשת המאובטחת או לשנות אותה.</string>
     <string name="monitoring_description_do_body">מנהל המערכת יכול לנטר ולנהל הגדרות, גישה ארגונית, אפליקציות, נתונים המשויכים למכשיר ומידע על מיקום המכשיר.</string>
     <string name="monitoring_description_do_body_vpn">אתה מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
     <string name="monitoring_description_do_header_generic">המכשיר שלך מנוהל על ידי %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s משתמש באפליקציה %2$s כדי לנהל את מכשירך.</string>
     <string name="monitoring_description_do_learn_more">למידע נוסף</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">הארגון שלך התקין רשות אישורים בפרופיל העבודה. ניתן לעקוב אחר התנועה ברשת המאובטחת או לשנות אותה.</string>
     <string name="monitoring_description_managed_profile_named_vpn">פרופיל העבודה שלך מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
     <string name="monitoring_description_management">"המכשיר מנוהל על ידי הארגון שלך.
@@ -789,6 +792,7 @@
 
 בנוסף, אתה מחובר ל-VPN, שגם באמצעותו ניתן לעקוב אחרי הפעילות שלך ברשת."</string>
     <string name="monitoring_description_vpn_settings">‏פתח את הגדרות ה-VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">‏אישורי CA</string>
     <string name="monitoring_subtitle_network_logging">רישום התנועה ברשת</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -896,6 +900,7 @@
     <string name="private_dns_mode_provider">‏שם מארח של ספק DNS פרטי</string>
     <string name="private_dns_mode_provider_failure">לא ניתן היה להתחבר</string>
     <string name="private_dns_mode_provider_hostname_hint">‏צריך להזין את שם המארח של ספק DNS</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">ייתכן שהפרופיל נתון למעקב</string>
     <string name="qs_dnd_keep">שמור</string>
     <string name="qs_dnd_prompt_app">"מצב 'נא לא להפריע' הופעל על ידי אפליקציה (%s)."</string>

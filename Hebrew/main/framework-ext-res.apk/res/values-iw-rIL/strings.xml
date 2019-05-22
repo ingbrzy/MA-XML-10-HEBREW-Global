@@ -204,4 +204,6 @@
     <string name="popup_camera_calibrate_success">כוייל בהצלחה. תוכל לפתוח את המצלמה הקדמית כעת.</string>
     <string name="popup_camera_calibrate_failed">לא ניתן היה לכייל</string>
     <string name="popup_camera_using_camera_background">%s משתמש במצלמה הקדמית</string>
+    <string name="sim_lock_non_ais_msg">כרטיס ה-SIM שלך פועל באופן חלקי בלבד עם מכשיר זה משום שהוא אינו עונה לתנאים ולהתניות של המנוי או המפעיל הסלולרי שלך. אם יש לך שאלות או הנך זקוק למידע נוסף בנוגע לעניין זה, אנא צור קשר עם מרכזי השירות של שיאומי או החנות בה רכשת מוצר זה.</string>
+    <string name="sim_lock_now_ais_title">SIM%1$d</string>
 </resources>

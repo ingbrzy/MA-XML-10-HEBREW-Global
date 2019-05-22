@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
 גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">לא ניתן היה להתחיל את ההורדה, ודא כי מנהל ההורדות עובד כראוי.</string>
     <string name="app_name">גיבוי</string>
     <string name="local_app_name">גיבוי</string>
@@ -226,6 +229,7 @@
     <string name="restore_backup">שחזור</string>
     <string name="enable_encrypt_description">הצפנה</string>
     <string name="disable_encrypt_description">ביטול הצפנה</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -255,7 +259,7 @@
     <string name="err_pkg_not_exist">לא ניתן היה למצוא את היישום.</string>
     <string name="err_user_abort">בוטל על ידי המשתמש.</string>
     <string name="err_binder_died">היישום עצר באופן לא צפוי.</string>
-    <string name="err_no_gms">גרסת היישום אינה תואמת. התקן גרסה זו בנפרד</string>
+    <string name="err_no_gms">גרסת היישום אינה תואמת. התקן גרסה זו בנפרד.</string>
     <string name="backup_is_running">מבצע גיבוי של המכשיר</string>
     <string name="restore_is_running">מבצע שחזור של המכשיר</string>
     <string name="notif_backup_title">נתוני הגיבוי</string>
@@ -565,6 +569,7 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
 עליך ליצור גיבוי iCloud תחילה."</string>
     <string name="list_footer_tip_title">טיפים:</string>
     <string name="import_tip_summary">עקב בעיות תאימות, באפשרותך להעביר נתונים חלקיים בלבד בלבד מהתקני iOS. ודא כי יצרת גיבוי iCloud לפני התחלת ההעברה.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">ייבוא</string>
     <string name="select_empty">בחירת פריטים לייבוא</string>
     <string name="select_item_summary_wait">ממתין…</string>
@@ -637,4 +642,11 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
 פנה נפח אחסון, או בצע מספר העברות של קבצים קטנים יותר."</string>
     <string name="usb_trans_old_phone_low_space_title">אין מספיק נפח אחסון</string>
     <string name="usb_trans_old_phone_low_space_msg">נדרש נפח אחסון נוסף כדי לארוז את הגיבויים שלך. אין מספיק נפח אחסון כדי להמשיך בהעברה. ניתן לפנות נפח אחסון ולמחוק קבצים שלא נדרשים באפליקציית האבטחה, או לנסות להעביר רק קבצים חשובים.</string>
+    <string name="dialog_app_upgrade_message">גרסה חדשה של Mi Mover זמינה כעת. האם לעדכן את Mi Mover כעת?</string>
+    <string name="dialog_app_upgrade_exit">יציאה</string>
+    <string name="dialog_app_upgrade_download">עדכון</string>
+    <string name="dialog_backup_password_change_machine_tips">"You won't be able to transfer password-protected backups. Turn off backup password before using Mi Mover."</string>
+    <string name="dialog_backup_password_backup_tips">"Can't back up items when backup password is on. Turn off backup password."</string>
+    <string name="dialog_backup_password_cancel">Cancel</string>
+    <string name="dialog_backup_password_to_settings">Settings</string>
 </resources>

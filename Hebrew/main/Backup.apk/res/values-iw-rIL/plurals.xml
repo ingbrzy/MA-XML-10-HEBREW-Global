@@ -51,7 +51,7 @@
     <plurals name="trans_time_format_hours">
         <item quantity="other">%d שעות</item>
         <item quantity="one">שעה %d</item>
-        <item quantity="two">שעתיים</item>
+        <item quantity="two">%d שעות</item>
         <item quantity="many">%d שעות</item>
     </plurals>
     <plurals name="select_item_summary">

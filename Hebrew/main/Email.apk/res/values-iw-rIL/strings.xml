@@ -164,8 +164,10 @@
     <string name="ad_merge">מודעות &amp; התראות</string>
     <string name="add_account">הוספת חשבון</string>
     <string name="add_account_keywords">הוסף חשבון;הוסף חשבון דואר</string>
+    <string name="add_account_search">הוסף חשבון</string>
     <string name="add_attachment">הוסף קובץ מצורף</string>
     <string name="add_calendar">הוסף תזכורת</string>
+    <string name="add_file_exception">לא ניתן להוסיף. נסה להוסיף קובץ מצורף ממקום שונה.</string>
     <string name="add_label">הוסף תיקייה</string>
     <string name="add_pre_message_attachments">"להוסיף את הקבצים המצורפים של 'הודעה מראש'?"</string>
     <string name="add_pre_message_attachments_no">אל תוסיף</string>
@@ -175,6 +177,10 @@
     <string name="always_bcc_myself">שלח תמיד עותק מוסתר לעצמי</string>
     <string name="always_show_images">הצג תמיד תמונות משולח זה</string>
     <string name="app_name">דואר</string>
+    <string name="appraise_des">האם אתה אוהב את האפליקציה שלנו?</string>
+    <string name="appraise_good">כן</string>
+    <string name="appraise_ignore">לא יכול לומר עכשיו</string>
+    <string name="appraise_negative">לא</string>
     <string name="archive">העבר לארכיון</string>
     <string name="archived">הועבר לארכיון</string>
     <string name="att_download_failed_content">לא ניתן היה להוריד את הקובץ המצורף להודעה זו.</string>
@@ -226,6 +232,7 @@
     <string name="battery_saver">חסכון בסוללה</string>
     <string name="battery_saver_keywords">חסכון בסוללה;שלח נתוני סוללה</string>
     <string name="bcc">העתק סמוי</string>
+    <string name="bcc_heading">"העתק סמוי: "</string>
     <string name="bill_center_setting">הגדרות חיוב</string>
     <string name="bill_center_setting_head">ייבא מידע מחשבונות אלה</string>
     <string name="bill_cycle_text">מחזור חיוב</string>
@@ -246,6 +253,7 @@
     <string name="cancel_pop3_attchemt_downloading">לא ניתן לבטל הורדות של קבצים מצורפים בחשבונות POP3</string>
     <string name="cant_move_or_change_labels">לא ניתן להעביר פריטים ממספר חשבונות.</string>
     <string name="cc">העתק</string>
+    <string name="cc_attribution">העתק: %1$s&lt;br></string>
     <string name="cc_bcc">העתק/העתק סמוי</string>
     <string name="cc_heading">"העתק: "</string>
     <string name="change_folders_selection_dialog_title">שנה תיקיות</string>
@@ -263,6 +271,7 @@
     <string name="click_download_all_content">[ לחץ על מנת להוריד תוכן ]</string>
     <string name="click_to_reload">הקש על המסך על מנת לרענן</string>
     <string name="collapse_recipient_details">צמצם את פרטי הנמען</string>
+    <string name="colon">:</string>
     <string name="compose">צור הודעה</string>
     <string name="compose_attachment_number_limit">לא ניתן לצרף יותר מ-10 קבצים</string>
     <string name="compose_paste_address_oob">יותר מידי תוים</string>
@@ -347,6 +356,7 @@
     <string name="default_signature_2">נשלח מה-%s שלי</string>
     <string name="del_account_questionnair_hint">תוכל לספר לנו מדוע ברצונך להסיר חשבון זה?</string>
     <string name="delete">מחק</string>
+    <string name="delete_contact_content">Delete this contact now?</string>
     <string name="delete_message_flow">מחק תזרים הודעות</string>
     <string name="delete_message_flow_keywords">מחיקת תזרים הודעות;מחיקת הפניות</string>
     <string name="deleted">נמחק</string>
@@ -357,7 +367,9 @@
     <string name="device_not_activiey_lint1">מנהל ההתקנים אינו פועל</string>
     <string name="device_not_activiey_lint2">שירות הדואר לא עובד עם Exchange</string>
     <string name="dialog_account_auto_sync_setting_no_open">בחרת לסנכרן הודעות דוא\"ל באופן ידני. רענן לסנכרון.</string>
+    <string name="dialog_agree">מסכים</string>
     <string name="dialog_change_sync_lookback">הדואר שהתקבל לפני %s יימחק באופן אוטומטי. לחץ על מנת לשנות.</string>
+    <string name="dialog_disagree">לא מסכים</string>
     <string name="dialog_insufficient_space_on_external">לא ניתן להוריד את הקובץ המצורף. אין מספיק מקום באחסון החיצוני.</string>
     <string name="dialog_insufficient_space_on_internal">אין מספיק מקום באחסון הפנימי.</string>
     <string name="dialog_system_auto_sync_account_no_open">הפעל את החשבון על מנת לקבל דברי דוא\"ל באופן אוטומטי</string>
@@ -413,7 +425,8 @@
     <string name="exception_cancel">"
         אירוע זה בוטל
         עבור:
-%s "</string>
+        %s
+    "</string>
     <string name="exception_updated">"פרטי אירוע זה השתנו ל: %s "</string>
     <string name="exchange_name">דואר תאגיד</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
@@ -442,8 +455,10 @@
     <string name="file_save_term">תנאי שמירת קבצים</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">הקש על הלחצן על מנת לשלוח את \"%s\" לכל האנשים בשיחה</string>
+    <string name="folder_empty_to_fresh">דואר לא מסונכרן. משוך מטה כדי לסנכרן.</string>
     <string name="folder_list_display_all">הצג את כל התיקיות</string>
     <string name="folder_list_display_only_import">הצג תיקיות חשובות בלבד</string>
+    <string name="folder_no_mails">אין מיילים בתיקיה זו.</string>
     <string name="folder_picker_title">בחר תיקיות</string>
     <string name="folder_removed">הוסר מ- %1$s</string>
     <string name="folder_shortcut_widget_label">תיקיית דוא\"ל</string>
@@ -477,10 +492,13 @@
     <string name="gmail_server_authorization_deleted">לא ניתן היה לאמת את החשבון. נסה שוב להוסיף חשבון זה.</string>
     <string name="gmail_web_login_go">אישור</string>
     <string name="gmail_web_login_required_message">היכנס ל-Gmail</string>
+    <string name="have_auth_code">יש לי קוד</string>
     <string name="header_category_account">חשבונות</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">משוב</string>
     <string name="header_label_general_preferences">כללי</string>
     <string name="help_and_info">עזרה</string>
+    <string name="help_me_get_qq_auth">קבל קוד QQ</string>
     <string name="hide_elided">▼ הסתר טקסט מצוטט</string>
     <string name="hide_password">הסתר סיסמה</string>
     <string name="hint_quick_reply_all">השב לכולם</string>
@@ -499,6 +517,8 @@
     <string name="invalid_recipient">"הכתובת %s  אינה חוקית."</string>
     <string name="invalid_recipient_title">שגיאת נמען</string>
     <string name="kilobytes">%s KB</string>
+    <string name="label_notification_ticker" formatted="false">%s: %s</string>
+    <string name="list_empty_to_fresh">אין עדיין מיילים.</string>
     <string name="load_from_remote">חיפוש בתיבת הדואר בשרת</string>
     <string name="load_more">טען עוד</string>
     <string name="loading_conversation">טוען…</string>
@@ -534,12 +554,6 @@
     <string name="mailbox_settings_mailbox_sync_window_label">סנכרן דואר מ-</string>
     <string name="mailbox_settings_sync_enabled_label">סנכרן תיקייה זו</string>
     <string name="mailbox_settings_sync_enabled_summary">סנכרן הודעות בתיקייה זו</string>
-    <string name="maileditor_fontsize_textitem1">8pt</string>
-    <string name="maileditor_fontsize_textitem2">10pt</string>
-    <string name="maileditor_fontsize_textitem3">12pt</string>
-    <string name="maileditor_fontsize_textitem4">14pt</string>
-    <string name="maileditor_fontsize_textitem5">16pt</string>
-    <string name="maileditor_fontsize_textitem6">18pt</string>
     <string name="manual_sync">סנכרן כעת</string>
     <string name="mark_important">סמן כחשוב</string>
     <string name="mark_not_important">הסר סימון כחשוב</string>
@@ -550,38 +564,48 @@
     <string name="me_subject_pronun">אני</string>
     <string name="meeting_accepted">"
         אושרה:
-%s "</string>
+        %s
+    "</string>
     <string name="meeting_allday">"
         מתי:
-%s (כל היום)
+        %s
+        (כל היום)
     "</string>
     <string name="meeting_allday_recurring">"
         מתי:
-%s (כל היום, חוזרת)
+        %s
+        (כל היום, חוזרת)
     "</string>
     <string name="meeting_canceled">"
         בוטלה:
-%s "</string>
+        %s
+    "</string>
     <string name="meeting_declined">"
         נדחתה:
-%s "</string>
+        %s
+    "</string>
     <string name="meeting_recurring">"
         מתי:
-%s (חוזרת)
+        %s
+        (חוזרת)
     "</string>
     <string name="meeting_responded_failed">אין תגובה</string>
     <string name="meeting_tentative">"
         ממתינה לאישור:
-%s "</string>
+        %s
+    "</string>
     <string name="meeting_updated">"
         עודכנה:
-%s "</string>
+        %s
+    "</string>
     <string name="meeting_when">"
         מתי:
-%s "</string>
+        %s
+    "</string>
     <string name="meeting_where">"
         איפה:
-%s "</string>
+        %s
+    "</string>
     <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">קבצים מצורפים</string>
     <string name="menu_att_mgr_order_default">נצפו לאחרונה</string>
@@ -660,8 +684,10 @@
     <string name="notification_action_undo_remove_label">תווית אחת הוסרה</string>
     <string name="notification_exchange_calendar_added">לוח השנה של Exchange נוסף</string>
     <string name="notify_channel_new_mail">התרע על הודעות חדשות</string>
+    <string name="notify_channel_no_disterb">"מצב 'נא לא להפריע'"</string>
     <string name="notify_channel_permission_notice">נדרשות הרשאות</string>
     <string name="notify_channel_send_fail">התרע אם ההעברה נכשלה</string>
+    <string name="notify_channel_service">הודע אודות סנכרון המתבצע ברקע</string>
     <string name="oauth_error_description">לא ניתן היה לאמת</string>
     <string name="oauth_gmail_login_notify">הזן את שם המשתמש והסיסמה של חשבון ה-Google שלך בעמוד הכניסה להלן.</string>
     <string name="oauth_login_continue">המשך</string>
@@ -672,6 +698,7 @@
     <string name="one_day">יום 1</string>
     <string name="one_month">חודש 1</string>
     <string name="one_week">שבוע 1</string>
+    <string name="open_androidp_warning">אזהרה אודות SDK 9.0 שאינו רשמי</string>
     <string name="open_calendar_and_contacts_permission">"אפשר ל'דואר' לגשת לאנשי הקשר ולפרטי לוח השנה ב'הגדרות'"</string>
     <string name="open_external_storage_and_calendar_permission">"אפשר ל'דואר' לגשת לאחסון ולפרטי לוח השנה ב'הגדרות'"</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">"אפשר ל'דואר' לגשת לאחסון, לאנשי הקשר ולפרטי לוח השנה ב'הגדרות'"</string>
@@ -718,16 +745,16 @@
     <string name="password_expired_dialog_content_fmt">"הנתונים עבור %s  נמחקים מהמכשיר שלך כעת. תוכל לשחזר אותם על ידי שינוי של קוד ה-PIN או סיסמת מסך הנעילה שלך. לשנות כעת?"</string>
     <string name="password_expired_dialog_title">פג תוקף סיסמת מסך הנעילה</string>
     <string name="password_expired_ticker">פג תוקף PIN או סיסמת מסך הנעילה שלך.</string>
-    <string name="path_about_account_setting">דוארגדרותשבונות</string>
-    <string name="path_about_add_account">דוארגדרותוסף חשבון</string>
-    <string name="path_about_battery_saver">דוארגדרותסכון בסוללה</string>
-    <string name="path_about_confirm_before_delete">דוארגדרותישור לפני מחיקה</string>
-    <string name="path_about_confirm_before_send">דוארגדרותישור לפני שליחה</string>
-    <string name="path_about_conversation_view">דוארגדרותצגת שיחה</string>
-    <string name="path_about_delete_message_flow">דוארגדרותחיקת תזרים הודעות</string>
-    <string name="path_about_email_setting">דוארגדרות</string>
-    <string name="path_about_send_feed_back">דוארגדרותלח משוב</string>
-    <string name="path_about_upload_logs">דוארגדרותעלה יומנים</string>
+    <string name="path_about_account_setting">דוארהגדרותחשבונות</string>
+    <string name="path_about_add_account">דוארהגדרותהוסף חשבון</string>
+    <string name="path_about_battery_saver">דוארהגדרותחסכון בסוללה</string>
+    <string name="path_about_confirm_before_delete">דוארהגדרותאישור לפני מחיקה</string>
+    <string name="path_about_confirm_before_send">דוארהגדרותאישור לפני שליחה</string>
+    <string name="path_about_conversation_view">דוארהגדרותהצגת שיחה</string>
+    <string name="path_about_delete_message_flow">דוארהגדרותמחיקת תזרים הודעות</string>
+    <string name="path_about_email_setting">דוארהגדרות</string>
+    <string name="path_about_send_feed_back">דוארהגדרותשלח משוב</string>
+    <string name="path_about_upload_logs">דוארהגדרותהעלה יומנים</string>
     <string name="perference_change_pw_notnull_tips">הזן את סיסמתך</string>
     <string name="perference_change_pw_ok_tips">הסיסמה השתנתה</string>
     <string name="perference_setup_pop_del">הסר דואר מהשרת</string>
@@ -773,7 +800,7 @@
     <string name="policy_screen_timeout">דרוש מעבר למצב המתנה על מנת לנעול את המסך</string>
     <string name="policy_text_truncation">"הגבל גודל 'דוא\"ל טקסט'"</string>
     <string name="pop3_name">POP3</string>
-    <string name="preference_eas_tips">לחץ \"הפעל\"להגדרת שרת הדואר שלך.</string>
+    <string name="preference_eas_tips">לחץ \"הפעל\" להגדרת שרת הדואר שלך.</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">ב- POP3, הקבצים המצורפים יורדו אוטומטית עם הדוא\"ל. הדבר עשוי להגדיל את השימוש שלך בנתונים סלולריים.</string>
     <string name="preference_sender_image_description">הצג תמונות פרופיל לצד שם השולח בתיבת הדואר הנכנס</string>
@@ -784,6 +811,7 @@
     <string name="preview_attachment">תצוגה מקדימה</string>
     <string name="previous_action">הקודם</string>
     <string name="print">הדפסה</string>
+    <string name="privacy_des">היומן מכיל מידע מאובחן של לקוחה דוא\"ל ופרטי המכשיר שלך. מידע זה משמש כדי לאתר בעיות במהירות רבה יותר. בלחיצה על \"%1$s\" לפניך, אתה מסכים ל \"%2$s\".</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
     <string name="prompt_title">פעולה</string>
     <string name="protocol_setting_toast">לחץ על הפינה הימנית העליונה על מנת לעבור להגדרות לאחר שתסכים</string>
@@ -808,11 +836,13 @@
     <string name="qq_bar_send_message">שלח מסרון</string>
     <string name="qq_login_basecode">מבצע כניסה לאתר QQ Mail. הזן סיסמה עצמאית.</string>
     <string name="qq_login_get_auth">הפעל הגנה באמצעות סיסמה במידה ואינך יכול לקבל מסרון SMS</string>
+    <string name="qq_login_notice">הערה: אם כבר הגדרת סיסמה, יהיה עליך לאמת אותה בעת הכניסה.</string>
     <string name="qq_login_open_imap">לחץ על \"עזרה\" על מנת להפעיל את IMAP/SMTP</string>
     <string name="qq_login_origin_setting">הזן שם משתמש וסיסמה על מנת להיכנס ></string>
     <string name="qq_login_send_message">לחץ על \"שלח מסרון\" על מנת לקבל קוד אימות</string>
     <string name="qq_login_webview">מבצע כניסה אל חשבון הרשת של QQ, לחץ לכניסה באמצעות הסיסמה.</string>
     <string name="qq_next_generation_auth_toast">הפעל הגנה באמצעות סיסמה בדפדפן שלך</string>
+    <string name="qq_pwd_or_qq_auth_code">הזן קוד QQ או סיסמת דו\"אל</string>
     <string name="qq_uthentication_failed">לא ניתן היה לאמת את החשבון, היכנס שוב</string>
     <string name="qq_verify_code">(מחייב קוד אימות מ-QQ)</string>
     <string name="qq_webview_loading">רק רגע…</string>
@@ -867,6 +897,7 @@
     <string name="recognize_ticket_train_return">חזר</string>
     <string name="recognize_ticket_train_user_name">נוסע: %1$s</string>
     <string name="recognize_title">פרטי נסיעה</string>
+    <string name="recommend_protocal">המלצות שימוש בפרוטוקול</string>
     <string name="reduce_the_receiving_frequencye_summary">"סנכרן את תיבת הדואר הנכנס בתדירות נמוכה יותר כאשר מצב 'נא לא להפריע' פועל"</string>
     <string name="reduce_the_receiving_frequencye_title">סנכרון בתדירות נמוכה יותר</string>
     <string name="refresh">רענון</string>
@@ -874,6 +905,7 @@
     <string name="refreshing_done">בוצע</string>
     <string name="release_to_refresh">שחרר לרענון</string>
     <string name="remind_attachment_size_limit">על דברי הדוא\"ל שלך להיות בגודל של פחות מ-%sMB</string>
+    <string name="remote_no_mail">אין מיילים נוספים הנמצאים על השרת.</string>
     <string name="remove_account">הסר את החשבון</string>
     <string name="remove_folder">הסר מ- %1$s</string>
     <string name="remove_star">הסר סימון בכוכב</string>
@@ -948,6 +980,7 @@
     <string name="shortcut_name_title">קבע שם לקיצור הדרך לתיקייה</string>
     <string name="show_elided">▶ הצג טקסט מצוטט</string>
     <string name="show_images">הורד והצג תמונות</string>
+    <string name="show_more_attachment">נספחים נוספים</string>
     <string name="show_password">הצג סיסמה</string>
     <string name="signature">"
 
@@ -957,6 +990,7 @@
     <string name="silent_ringtone">השתק</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">הסיסמה עבור שרת הדואר היוצא שגויה</string>
     <string name="sort_attachment">מיין לפי</string>
     <string name="storage">אחסון</string>
@@ -990,12 +1024,13 @@
     <string name="title_activity_about">אודות</string>
     <string name="to">אל</string>
     <string name="to_heading">"אל: "</string>
-    <string name="toast_bar_fail_synchronization">לא ניתן להתחבר לרשת</string>
+    <string name="toast_bar_fail_synchronization">לא ניתן היה לגשת לשרת.. חכה דקה או שתיים ונסה שוב.</string>
     <string name="toast_bar_insufficient_memory_space">לא ניתן לקבל דברי דוא\"ל, אין מספיק שטח אחסון פנוי.</string>
     <string name="toast_bar_invalid_account">פג תוקף פרטי החשבון. לחץ על מנת להיכנס שוב.</string>
     <string name="toast_bar_no_connection_network">אין ברשותך חיבור לאינטרנט</string>
     <string name="toast_bar_open_gmail_synchronization">לא ניתן היה להתחבר אל Gmail, הפעל את ה-Proxy של Gmail.</string>
     <string name="toast_bar_send_fail_remind">לא ניתן היה לשלוח דוא\"ל. נשמר בתיקית \"דואר יוצא\".</string>
+    <string name="toast_bar_sync_failed_mi_authority">לא יכול לסנכרן. חכה דקה או שתיים ונסה שוב. אם זו הפעם הראשונה בה אתה נכנס, אמת את המכשיר באמצעות האינטרנט/ או באמצעות אסימון SMS. (token).</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">"על מנת לסנכרן את פרטי לוח השנה ואנשי הקשר, הענק ל'דואר' את ההרשאות הדרושות ב'הגדרות'"</string>
     <string name="toastbar_calendar_permission_switch_close">"על מנת לקבל תזכורות של לוח השנה, הענק ל'דואר' את ההרשאות הדרושות ב'הגדרות'"</string>
     <string name="toastbar_contacts_permission_switch_close">"על מנת להוסיף אנשי קשר, הענק ל'דואר' את ההרשאות הדרושות ב'הגדרות'"</string>
@@ -1062,8 +1097,9 @@
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">אחר</string>
     <string name="wipe_account_fail_description">אפשר</string>
+    <string name="wipe_account_fail_description_remind">בשל מגבלת השימוש בנתונים, ייתכן שיוותרו נתונים שאינם נמחקו מחשבונך המשתייכים ללוח שנה ואנשי קשר. אנא מחק פריטים אלה באופן ידני.</string>
     <string name="wipe_account_fail_title">לא ניתן היה למחוק מידע אישי</string>
-    <string name="wps_title">דואר WPS</string>
+    <string name="wps_title">WPS Mail</string>
     <string name="wrong_password">הסיסמה שהזנת שגויה</string>
     <string name="yes">כן</string>
     <string name="you_are_in_mobile_network">להשתמש בנתונים סלולריים להעלאת יומנים?</string>

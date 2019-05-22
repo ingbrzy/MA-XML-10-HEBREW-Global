@@ -200,6 +200,18 @@
         <item quantity="two">הוסף דקות %d</item>
         <item quantity="many">הוסף דקות %d</item>
     </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
+        <item quantity="one">%2$d app, including %1$s, is draining battery</item>
+        <item quantity="two">%2$d apps, including %1$s, are draining battery</item>
+        <item quantity="many">%2$d apps, including %1$s, are draining battery</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d apps are draining battery</item>
+        <item quantity="one">%d app is draining battery</item>
+        <item quantity="two">%d apps are draining battery</item>
+        <item quantity="many">%d apps are draining battery</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">הורד על ידי %1$d אנשים</item>
         <item quantity="one">הורד על ידי אדם %1$d</item>
@@ -553,6 +565,12 @@
         <item quantity="one">"בוצע צ'ק אין פעם %d"</item>
         <item quantity="two">"בוצע צ'ק אין %d ימים ברצף"</item>
         <item quantity="many">"בוצע צ'ק אין %d ימים ברצף"</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d תכונות</item>
+        <item quantity="one">%d תכונה</item>
+        <item quantity="two">%d תכונות</item>
+        <item quantity="many">%d תכונות</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d תווים נוספים</item>

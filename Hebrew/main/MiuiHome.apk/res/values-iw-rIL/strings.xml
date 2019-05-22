@@ -367,7 +367,9 @@
     <string name="widget_global_search">חיפוש</string>
     <string name="widget_quick_function">פונקציות מהירות</string>
     <string name="widgets_preview_title">"הוסף ווידג'ט"</string>
-    <string name="privacy_thumbnail_blur_summary">Blur app previews in Recents</string>
-    <string name="privacy_thumbnail_blur_title">Blur app previews</string>
+    <string name="activity_not_unlocked">Wait until your device is fully rebooted before opening apps</string>
+    <string name="default_folder_title_meitu">Meitu</string>
+    <string name="privacy_thumbnail_blur_summary">עמעם תצוגה מקדימה של יישום באחרונים</string>
+    <string name="privacy_thumbnail_blur_title">עמעם תצוגה מקדימה של יישום</string>
     <string name="system_shortcuts_more_operation">פרטי היישום</string>
 </resources>

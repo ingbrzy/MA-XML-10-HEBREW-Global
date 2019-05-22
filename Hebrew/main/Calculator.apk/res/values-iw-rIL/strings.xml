@@ -600,12 +600,17 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">לא להתחבר להורדות. בדוק אם יישום זה מכיל את כל ההרשאות הנדרשות בהגדרות > תחת יישומים מותקנים.</string>
     <string name="xiaomi_external_storage_unavailable">אחסון לא זמין. בדוק את כרטיס SD שלך.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"מציגים את גרסה %1$s
 גודל: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"מציגים את גרסה %1$s
 גודל עדכון הדלתא: %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s עודכן!</string>
     <string name="year" />
+    <string name="preference_use_voice">קלט קולי</string>
+    <string name="warn_locale_unsupport_for_voice">קלט קולי עבור שפה זו אינו זמין כעת.</string>
 </resources>

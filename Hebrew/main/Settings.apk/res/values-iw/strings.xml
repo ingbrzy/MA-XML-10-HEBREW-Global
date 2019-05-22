@@ -1303,6 +1303,7 @@
     <string name="dialog_stop_title">לעצור את האפליקציה?</string>
     <string name="direct_boot_unaware_dialog_message">שים לב: לאחר הפעלה מחדש של המכשיר, ניתן להפעיל את האפליקציה רק לאחר שתבטל את נעילת הטלפון</string>
     <string name="directory_access">גישה לספרייה</string>
+    <string name="directory_on_volume">%1$s (%2$s)</string>
     <string name="disable_overlays">‏השבת שכבות על של HW</string>
     <string name="disable_overlays_summary">‏השתמש תמיד ב-GPU להרכבת מסך</string>
     <string name="disable_service_message">"הקשה על 'אישור' תפסיק את %1$s."</string>
@@ -1568,6 +1569,7 @@
     <string name="fingerprint_unlock_title">תוכל לבטל את נעילת הטלפון באמצעות טביעת אצבע. מטעמי אבטחה, אפשרות זו מחייבת נעילת מסך לגיבוי.</string>
     <string name="fingerprint_usage_category_title">השתמש בטביעות אצבע ל-</string>
     <string name="finish_button_label">סיום</string>
+    <string name="firmware_title">Android</string>
     <string name="firmware_version">‏גרסת Android</string>
     <string name="font_size_make_larger_desc">הגדלה</string>
     <string name="font_size_make_smaller_desc">הקטנה</string>
@@ -1610,6 +1612,7 @@
     <string name="gadget_picker_title">"בחר גאדג'ט"</string>
     <string name="gadget_state_off">כבוי</string>
     <string name="gadget_state_on">פועל</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">מכבה</string>
     <string name="gadget_state_turning_on">מפעיל</string>
     <string name="gadget_sync">סנכרון</string>
@@ -1822,6 +1825,7 @@
     <string name="legal_information">מידע משפטי</string>
     <string name="license_title">רישיון</string>
     <string name="lift_to_wake_title">הרם כדי להוציא ממצב שינה</string>
+    <string name="link_speed">%1$d Mbps</string>
     <string name="loading_notification_apps">טוען אפליקציות...</string>
     <string name="local_backup_password_summary_change">הקש כדי לשנות או להסיר את הסיסמה לגיבויים מלאים בשולחן העבודה</string>
     <string name="local_backup_password_summary_none">גיבויים מלאים בשולחן העבודה אינם מוגנים כעת</string>
@@ -2095,6 +2099,7 @@
     <string name="memory_summary">ממוצע של %1$s מתוך %2$s זיכרון בשימוש</string>
     <string name="memory_usage">שימוש בזיכרון</string>
     <string name="memory_usage_apps">זיכרון בשימוש על ידי אפליקציות</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">בשלוש השעות האחרונות נעשה בממוצע שימוש ב-%1$s מהזיכרון</string>
     <string name="menu_cancel">מחיקה</string>
     <string name="menu_delete">‏מחק APN</string>
@@ -2169,6 +2174,7 @@
     <string name="nfc_how_it_works_got_it">הבנתי</string>
     <string name="nfc_how_it_works_title">תשלום במסוף</string>
     <string name="nfc_more_title">עוד...</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">ברירת המחדל לתשלום</string>
     <string name="nfc_payment_default_not_set">לא מוגדרת</string>
     <string name="nfc_payment_favor_default">תמיד</string>
@@ -2349,6 +2355,7 @@
     <string name="overlay_display_devices_title">צור הדמיית תצוגות משניות</string>
     <string name="overlay_settings">תצוגה מעל אפליקציות אחרות</string>
     <string name="owner_info_settings_edit_text_hint">‏לדוגמה, ה-Android של יוסי.</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">ללא</string>
     <string name="owner_info_settings_title">הודעה במסך הנעילה</string>
     <string name="packages_subtitle">חבילות כלולות</string>
@@ -2404,6 +2411,7 @@
     <string name="power_remaining_less_than_duration_only">נותרו פחות מ-%1$s</string>
     <string name="power_remaining_more_than_subtext">נותרו יותר מ-%1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">הזמן שנותר: יותר מ-%1$s</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">מסך</string>
     <string name="power_unaccounted">שונות</string>
     <string name="power_usage_level_and_status">%1$s - %2$s</string>
@@ -2469,6 +2477,8 @@
     <string name="private_dns_mode_provider_failure">לא ניתן היה להתחבר</string>
     <string name="private_dns_mode_provider_hostname_hint">‏צריך להזין את שם המארח של ספק DNS</string>
     <string name="process_dex2oat_label">אופטימיזציית אפליקציה</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_provider_in_use_description">הספק %1$s נמצא בשימוש.</string>
     <string name="process_service_in_use_description">השירות %1$s נמצא בשימוש.</string>
@@ -2979,6 +2989,7 @@ Voice over Wi-Fi:‏ %3$s
     <string name="sim_select_card">‏בחר כרטיס SIM</string>
     <string name="sim_selection_channel_title">‏בחירת SIM</string>
     <string name="sim_selection_required_pref">יש לציין בחירה</string>
+    <string name="sim_settings_summary">%1$s ‏- %2$s</string>
     <string name="sim_settings_title">‏כרטיסי SIM</string>
     <string name="sim_setup_wizard_title">‏כרטיסי SIM</string>
     <string name="sim_signal_strength">‏%1$d dBm ‏%2$d asu</string>
@@ -3037,6 +3048,7 @@ Voice over Wi-Fi:‏ %3$s
     <string name="starting_android">‏מפעיל את Android…</string>
     <string name="status_awaiting_tap">הקש על תג כדי לכתוב...</string>
     <string name="status_awake_time">משך פעילות</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bt_address">‏כתובת Bluetooth</string>
     <string name="status_data_network_type">סוג הרשת של חבילת הגלישה</string>
     <string name="status_data_state">מצב רשת סלולרית</string>
@@ -3269,6 +3281,7 @@ Voice over Wi-Fi:‏ %3$s
     <string name="sum_carrier_select">בחר מפעיל רשת</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s עד %2$s</string>
     <string name="support_country_format">%1$s - %2$s</string>
     <string name="support_summary">"מאמרי עזרה, תמיכה טלפונית ותמיכה בצ'אט, תחילת העבודה"</string>
@@ -4273,8 +4286,10 @@ Voice over Wi-Fi:‏ %3$s
     <string name="zone_auto_summaryOff">לפי אזור הזמן שמספקת הרשת</string>
     <string name="zone_auto_summaryOn">לפי אזור הזמן שמספקת הרשת</string>
     <string name="zone_change_to_from_dst">%1$s מתחיל בתאריך %2$s.</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">משתמש ב-%1$s. %2$s מתחיל ב-%3$s.</string>
     <string name="zone_info_footer_no_dst">משתמש ב-%1$s. ללא שעון קיץ.</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">מיין לפי סדר אלפביתי</string>
     <string name="zone_list_menu_sort_by_timezone">מיין לפי אזור זמן</string>
     <string name="zone_menu_by_offset">‏בחירה לפי קיזוז ל-UTC</string>
