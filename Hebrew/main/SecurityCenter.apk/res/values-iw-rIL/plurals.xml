@@ -200,17 +200,89 @@
         <item quantity="two">הוסף דקות %d</item>
         <item quantity="many">הוסף דקות %d</item>
     </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s ימים</item>
+        <item quantity="one">%s יום</item>
+        <item quantity="two">%s ימים</item>
+        <item quantity="many">%s ימים</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s שעות</item>
+        <item quantity="one">%s שעה</item>
+        <item quantity="two">%s שעות</item>
+        <item quantity="many">%s שעות</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s דקות</item>
+        <item quantity="one">%s דקה</item>
+        <item quantity="two">%s דקות</item>
+        <item quantity="many">%s דקות</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s ימים נותרו</item>
+        <item quantity="one">יום %s נותר</item>
+        <item quantity="two">%s ימים נותרו</item>
+        <item quantity="many">%s ימים נותרו</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">נותרו %s שעות</item>
+        <item quantity="one">נותרה שעה %s</item>
+        <item quantity="two">נותרו %s שעות</item>
+        <item quantity="many">נותרו %s שעות</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s minutes remaining</item>
+        <item quantity="one">%s minute remaining</item>
+        <item quantity="two">%s minutes remaining</item>
+        <item quantity="many">%s minutes remaining</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s days remaining</item>
+        <item quantity="one">%s day remaining</item>
+        <item quantity="two">%s days remaining</item>
+        <item quantity="many">%s days remaining</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s hours remaining</item>
+        <item quantity="one">%s hour remaining</item>
+        <item quantity="two">%s hours remaining</item>
+        <item quantity="many">%s hours remaining</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s minutes remaining</item>
+        <item quantity="one">%s minute remaining</item>
+        <item quantity="two">%s minutes remaining</item>
+        <item quantity="many">%s minutes remaining</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s days until fully charged</item>
+        <item quantity="one">%s day until fully charged</item>
+        <item quantity="two">%s days until fully charged</item>
+        <item quantity="many">%s days until fully charged</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s hours until fully charged</item>
+        <item quantity="one">%s hour until fully charged</item>
+        <item quantity="two">%s hours until fully charged</item>
+        <item quantity="many">%s hours until fully charged</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s minutes until fully charged</item>
+        <item quantity="one">%s minute until fully charged</item>
+        <item quantity="two">%s minutes until fully charged</item>
+        <item quantity="many">%s minutes until fully charged</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
-        <item quantity="one">%2$d app, including %1$s, is draining battery</item>
-        <item quantity="two">%2$d apps, including %1$s, are draining battery</item>
-        <item quantity="many">%2$d apps, including %1$s, are draining battery</item>
+        <item quantity="other">%2$d יישומים, כוללים %1$s, מרוקנים את הבטרייה</item>
+        <item quantity="one">%2$d יישום, כלול %1$s, מרוקן את הבטרייה</item>
+        <item quantity="two">%2$d יישומים, כוללים %1$s, מרוקנים את הבטרייה</item>
+        <item quantity="many">%2$d יישומים, כוללים %1$s, מרוקנים את הבטרייה</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d apps are draining battery</item>
-        <item quantity="one">%d app is draining battery</item>
-        <item quantity="two">%d apps are draining battery</item>
-        <item quantity="many">%d apps are draining battery</item>
+        <item quantity="other">%d יישומים מרוקנים את הסוללה</item>
+        <item quantity="one">יישום %d מרוקן את הסוללה</item>
+        <item quantity="two">%d יישומים מרוקנים את הסוללה</item>
+        <item quantity="many">%d יישומים מרוקנים את הסוללה</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">הורד על ידי %1$d אנשים</item>

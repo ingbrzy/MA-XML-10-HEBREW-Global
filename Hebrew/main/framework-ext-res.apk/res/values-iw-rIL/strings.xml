@@ -42,7 +42,6 @@
     <string name="auto_start_warning_title">לאפשר ל-%s להתחיל באופן אוטומטי?</string>
     <string name="auto_start_warning_allow">אפשר</string>
     <string name="auto_start_warning_deny">דחה</string>
-    <string name="call_record_sample_prefix_miui">שיחה</string>
     <string name="call_record_or">" או "</string>
     <string name="caller_info_name_delimiter">" או "</string>
     <string name="first_back_long_press_message">"על מנת לבצע התאמה אישית לפעולות 'לחץ &amp; החזק' של לחצני הניווט, עבור אל 'הגדרות' > 'הגדרות נוספות' > 'לחצנים'"</string>
@@ -198,6 +197,7 @@
     <string name="popup_camera_front_failed">לא ניתן היה לפתוח את המצלמה הקדמית. נסה שוב.</string>
     <string name="takeback_camera_front_failed">לא ניתן היה לסגור את המצלמה. נסה שוב.</string>
     <string name="stop_operate_camera_frequently">פתחת את המצלמה בתדירות גבוהה מדיי.</string>
+    <string name="popup_camera_front_when_use">יישום המצלמה פותח את המצלמה הקדמית. האם לפתוח כעת?</string>
     <string name="popup_camera_popup_falied_times_calibrate">לא ניתן היה לפתוח את המצלמה הקדמית מספר פעמים. נסה לכייל את המצלמה.</string>
     <string name="popup_camera_takeback_falied_times_calibrate">לא ניתן היה לסגור את המצלמה הקדמית מספר פעמים. נסה לכייל את המצלמה.</string>
     <string name="popup_camera_calibrate_now">כיול</string>

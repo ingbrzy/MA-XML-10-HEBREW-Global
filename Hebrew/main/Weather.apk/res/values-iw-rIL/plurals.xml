@@ -54,6 +54,30 @@
         <item quantity="two">"&lt;font color='#20a7ff'>%1$s&lt;/font> אנשים הצביעו"</item>
         <item quantity="many">"&lt;font color='#20a7ff'>%1$s&lt;/font> אנשים הצביעו"</item>
     </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">הטמפרטורה הגבוהה ביותר: %1$s מעלות צלזיוס</item>
+        <item quantity="one">הטמפרטורה הגבוהה ביותר: %1$s מעלת צלזיוס</item>
+        <item quantity="two">הטמפרטורה הגבוהה ביותר: %1$s מעלות צלזיוס</item>
+        <item quantity="many">הטמפרטורה הגבוהה ביותר: %1$s מעלות צלזיוס</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">הטמפרטורה הגבוהה ביותר: %1$s מעלות פרנהייט</item>
+        <item quantity="one">הטמפרטורה הגבוהה ביותר: %1$s מעלת פרנהייט</item>
+        <item quantity="two">הטמפרטורה הגבוהה ביותר: %1$s מעלות פרנהייט</item>
+        <item quantity="many">הטמפרטורה הגבוהה ביותר: %1$s מעלות פרנהייט</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">הטמפרטורה הנמוכה ביותר: %1$s מעלת צלזיוס</item>
+        <item quantity="one">הטמפרטורה הנמוכה ביותר: %1$s מעלת צלזיוס</item>
+        <item quantity="two">הטמפרטורה הנמוכה ביותר: %1$s מעלות צלזיוס</item>
+        <item quantity="many">הטמפרטורה הנמוכה ביותר: %1$s מעלות צלזיוס</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">הטמפרטורה הנמוכה ביותר: %1$s מעלות פרנהייט</item>
+        <item quantity="one">הטמפרטורה הנמוכה ביותר: %1$s מעלת פרנהייט</item>
+        <item quantity="two">הטמפרטורה הנמוכה ביותר: %1$s מעלות פרנהייט</item>
+        <item quantity="many">הטמפרטורה הנמוכה ביותר: %1$s מעלות פרנהייט</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">בהיר</item>
         <item quantity="one">בהיר</item>

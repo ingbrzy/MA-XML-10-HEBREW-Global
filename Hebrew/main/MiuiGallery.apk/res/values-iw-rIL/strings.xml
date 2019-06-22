@@ -195,6 +195,13 @@
     <string name="begin_share_toast">לייצר אלבום נפרד עבור הילד הזה לפני השיתוף?</string>
     <string name="blank_app_name" />
     <string name="browse_category_title">סייר</string>
+    <string name="burst_image_download_item_title" formatted="false">הורד את המקורי (%s|%s)</string>
+    <string name="burst_preview_title">צילום מתפרץ</string>
+    <string name="burst_save_all">שמור את הכל</string>
+    <string name="burst_save_choice_title" formatted="false">נבחרו %d מתוך %d</string>
+    <string name="burst_save_confirm_dialog_title">שומר תמונות</string>
+    <string name="burst_save_error_msg">לא ניתן היה לשמור</string>
+    <string name="burst_save_processing">מעבד…</string>
     <string name="buy_member_tip">הפוך לחבר רשום</string>
     <string name="by_email">דוא\"ל</string>
     <string name="by_others">אחר</string>
@@ -337,6 +344,8 @@
     <string name="custom_select_title_select_item">בחר פריטים</string>
     <string name="debugging_info">"פרטי ניפוי השגיאות נוצרו בהצלחה. לחץ על 'אישור' לפתיחת התיקיה."</string>
     <string name="debugging_tip">מייצר נתוני ניפוי שגיאות</string>
+    <string name="decrypt_video_failed">לא ניתן היה להכין את הסרטון</string>
+    <string name="decrypting_video">מכין סרטון …</string>
     <string name="default_relation_name">קבוצה חדשה</string>
     <string name="define_by_user">מותאם אישית</string>
     <string name="delete">מחיקה</string>
@@ -390,6 +399,10 @@
     <string name="downloading_dialog_message">"באפשרותך לבחור את איכות התמונות המורדות או לכבות את ההורדות האוטומטיות ב'הגדרות'."</string>
     <string name="downloading_title">מוריד תמונות מ-Mi Cloud</string>
     <string name="edit_baby_info">צפה בפרטי התינוק</string>
+    <string name="editor_cancel">ביטול</string>
+    <string name="editor_export">שמירה</string>
+    <string name="editor_talkback_redo">בצע מחדש</string>
+    <string name="editor_talkback_undo">ביטול</string>
     <string name="email_picker_title">הוסף דוא\"ל ששותף</string>
     <string name="empty_query_text_msg">לא יודע מה לחפש…</string>
     <string name="empty_recommend_back">חזרה</string>
@@ -502,6 +515,7 @@
     <string name="face_name_edit">עריכה</string>
     <string name="face_name_input">הזן שם</string>
     <string name="face_recommend">המלצות</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">לא ניתן היה להשלים את התהליך</string>
     <string name="fail_to_pick_email">כתובת דוא\"ל לא חוקית</string>
     <string name="fail_to_sync_album">לא ניתן היה לסנכרן את האלבום. בדוק את חיבור הנתונים שלך ונסה שוב.</string>
@@ -512,6 +526,7 @@
     <string name="feature_guidance_photo_effects">"אפקטים חדשים לתמונות
 זמינים כעת"</string>
     <string name="feature_guidance_video_editor_smart_effects">אפקטים חדשים זמינים כעת</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_bw">שחור&amp;לבן</string>
     <string name="filter_bi_dusk">חשכה</string>
     <string name="filter_bi_lilt">Lilt</string>
@@ -585,18 +600,20 @@
     <string name="filter_sky_sunset">שקיעה</string>
     <string name="finish_create_baby_album_toast">אלבום עבור \"%s\" נוצר ב-Mi Cloud</string>
     <string name="finish_fill_baby">צור</string>
+    <string name="first_time_add_video_to_secret_tips">עדכן את הגלריה על מנת לצפות בסרטונים מוסתרים</string>
     <string name="flash_off">הפלאש כבוי</string>
     <string name="flash_on">הפלאש מופעל</string>
     <string name="frame_not_support_image_ratio">יחס גובה-רוחב זה אינו נתמך</string>
     <string name="free_view_desc">תלת מימד</string>
     <string name="gallery_setting">הגדרות</string>
     <string name="gallery_sync_disable_toast">סנכרון הגלריה כבוי</string>
-    <string name="generate_story_summary">MIUI ינתח את התמונות שלך ויצור סיפור באמצעותם. בטל תכונה זו בכדי להפסיק את יצירת אלבומי הסיפורים.</string>
-    <string name="generate_story_title">אלבומי סיפורים</string>
+    <string name="generate_story_summary">MIUI ינתח את התמונות שלך ויצור מקבץ זיכרונות. בטל תכונה זו בכדי להפסיק את יצירת מקבץ זיכרונות.</string>
+    <string name="generate_story_title">זכרונות</string>
     <string name="get_album_info_in_process">מקבל פרטים אודות האלבום המשותף…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">הגדר</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
  על מנת שתוכל לעבוד באופן תקין, לחץ 'הגדר' על מנת לעבור אל 'הרשאות'."</string>
@@ -850,6 +867,7 @@
     <string name="people_mark_mode_title_no_mark_name">בחר אדם</string>
     <string name="people_page_label">אנשים</string>
     <string name="people_page_unname">ללא שם</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">עבור שמות אנשים המופיעים על גבי התמונות</string>
     <string name="permission_contract_name">אנשי קשר</string>
     <string name="permission_optional_category">הרשאות אופציונליות</string>
@@ -875,7 +893,7 @@
     <string name="photo_editor_crop_rotation_format">°%d</string>
     <string name="photo_editor_doodle">קשקוש</string>
     <string name="photo_editor_filter">סנן</string>
-    <string name="photo_editor_font_default">> Mi Lanting (רגיל)</string>
+    <string name="photo_editor_font_default">Mi Lanting (רגיל)</string>
     <string name="photo_editor_frame">מסגרת</string>
     <string name="photo_editor_label">עריכה</string>
     <string name="photo_editor_long_crop">חיתוך</string>
@@ -906,6 +924,7 @@
     <string name="photo_editor_navigator_module_downloading">מוריד את %s…</string>
     <string name="photo_editor_navigator_need_download">התחבר לרשת על מנת להוריד את %s.</string>
     <string name="photo_editor_remove_watermark">הסר את סימן המים</string>
+    <string name="photo_editor_remove_watermark_on">הוסף סימן מים</string>
     <string name="photo_editor_remover">מחיקה</string>
     <string name="photo_editor_rotate">סיבוב</string>
     <string name="photo_editor_saving">שומר…</string>
@@ -914,6 +933,7 @@
     <string name="photo_editor_talkback_confirm">אישור</string>
     <string name="photo_editor_talkback_crop_16_9">שש עשרה לתשע</string>
     <string name="photo_editor_talkback_crop_1_1">אחד לאחד</string>
+    <string name="photo_editor_talkback_crop_2_3">שתיים לשלוש</string>
     <string name="photo_editor_talkback_crop_3_4">שלוש לארבע</string>
     <string name="photo_editor_talkback_crop_4_3">ארבע לשלוש</string>
     <string name="photo_editor_talkback_crop_9_16">תשע לשש עשרה</string>
@@ -1045,7 +1065,12 @@
     <string name="scan_barcode_to_join">סרוק קוד QR להוספת אלבום</string>
     <string name="scan_qr_code_buttom_text">סרוק קוד QR לצפיה באלבום זה</string>
     <string name="screen_doodle_talkback_size">שרבוט רוחב הקו</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">בוצע</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ביטול</string>
     <string name="screen_save_dialog_btn_delete">מחיקת צילום מסך</string>
     <string name="screen_save_dialog_btn_save">"שמור ב'גלריה'"</string>
@@ -1103,6 +1128,9 @@
     <string name="search_title_recommend">מומלץ</string>
     <string name="search_title_suggestion">הצעות</string>
     <string name="search_title_tag">אובייקטים</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">מחפש מקרן…</string>
     <string name="secret_album_card_description">המקום הבטוח ביותר עבור כל הסודות הקטנים שלך</string>
     <string name="secret_album_card_title">נסה אלבום מוסתר</string>
@@ -1178,6 +1206,12 @@
     <string name="slim_running">מייעל…</string>
     <string name="slim_space">התפנה</string>
     <string name="slim_stop">עצירת הייעול</string>
+    <string name="special_type_eye_repair">תיקון עיניים סגורות באמצעות AI</string>
+    <string name="special_type_hdr">HDR</string>
+    <string name="special_type_night_beauty">AI פורטרט בתאורה חלשה</string>
+    <string name="special_type_night_mode">AI מצב לילה</string>
+    <string name="special_type_portrait">AI תאורת ציור פורטרט</string>
+    <string name="special_type_wide_angle">AI זווית רחבה מאוד</string>
     <string name="start_debug">"ניפוי שגיאות ב'גלריה'"</string>
     <string name="start_to_use_face_albumset">מיין לפי אנשים</string>
     <string name="sticker_ad">עלון</string>
@@ -1290,8 +1324,14 @@
     <string name="video_editor_adjust">הגבר</string>
     <string name="video_editor_analyzing">מנתח וידאו…</string>
     <string name="video_editor_audio">שמע</string>
+    <string name="video_editor_audio_antiquity">רטרו</string>
     <string name="video_editor_audio_custom">בחר</string>
+    <string name="video_editor_audio_dream">חֲלוֹם</string>
+    <string name="video_editor_audio_electronics">אלקטרו</string>
     <string name="video_editor_audio_none">ללא</string>
+    <string name="video_editor_audio_quiet">זו</string>
+    <string name="video_editor_audio_summertime">קיץ</string>
+    <string name="video_editor_audio_vitality">עוצמה</string>
     <string name="video_editor_auto_trim">חיתוך אוטומטי</string>
     <string name="video_editor_auto_trim_tip">מבצע חיתוך אוטומטי…</string>
     <string name="video_editor_cancel">ביטול</string>

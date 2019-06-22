@@ -100,6 +100,7 @@
     <string name="call_sim_menu_title_suffix">(עיקרי)</string>
     <string name="call_telex">התקשר לטלקס</string>
     <string name="call_tty_tdd">התקשר ל-TTY/TDD</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">התקשר לעבודה</string>
     <string name="call_work_mobile">התקשר לנייד בעבודה</string>
@@ -490,6 +491,7 @@
     <string name="force_touch_miprofile">כרטיס איש קשר</string>
     <string name="force_touch_new_contact">איש קשר חדש</string>
     <string name="frequentList">שכיח</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">שם</string>
     <string name="gallery">גלריה</string>
     <string name="generic_no_account_prompt">שמור את אנשי הקשר שלך בטוחים גם אם תאבד את הטלפון שלך: סנכרן אותם באמצעות שרות מקוון.</string>
@@ -615,7 +617,7 @@
     <string name="menu_bar_group_sms">מסרון</string>
     <string name="menu_call">התקשר לאיש קשר</string>
     <string name="menu_callNumber">התקשר %s</string>
-    <string name="menu_call_ip_number">חייג שיחת IP (dial %s)</string>
+    <string name="menu_call_ip_number">בצע שיחת IP (חייג %s)</string>
     <string name="menu_clear_frequents">"נקה רשימת 'בשימוש שכיח'"</string>
     <string name="menu_contacts_filter">אנשי קשר להצגה</string>
     <string name="menu_copy">העתק</string>
@@ -652,6 +654,9 @@
     <string name="menu_set_ring_tone">הגדר צלצול</string>
     <string name="menu_settings">הגדרות</string>
     <string name="menu_share">שיתוף</string>
+    <string name="menu_share_qrcode">קוד QR</string>
+    <string name="menu_share_text">מלל</string>
+    <string name="menu_share_vcard_file">קובץ</string>
     <string name="menu_show_all_calls">הצג את כל השיחות</string>
     <string name="menu_show_voicemails_only">הצג הודעות קוליות בלבד</string>
     <string name="menu_splitAggregate">הפרד</string>
@@ -670,6 +675,7 @@
     <string name="miprofile_contact_header">אנשי קשר עם כרטיסי איש קשר</string>
     <string name="miprofile_contact_meaasge">אנשי קשר מקומיים</string>
     <string name="miprofile_contact_verifying">מאמת</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ערוך פרופיל</string>
     <string name="miprofile_error_accept_self">לא ניתן להחליף את כרטיס איש הקשר האישי שלך</string>
     <string name="miprofile_error_no_miaccount">היכנס לחשבון Mi שלך</string>
@@ -823,7 +829,10 @@
     <string name="path_wipe_data">יישומי מערכתנשי קשררגן אנשי קשרקה נתונים</string>
     <string name="payphone">טלפון ציבורי</string>
     <string name="people">אנשי קשר</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">טלפון</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
     <string name="phone_primary">עיקרי</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות על גבי המכשיר.</string>
@@ -1033,8 +1042,10 @@
     <string name="set_data_package">הגדר תכנית נתונים תחילה</string>
     <string name="set_default">הגדר כברירת מחדל</string>
     <string name="set_photo_failed_msg">לא ניתן היה להקצות תמונה</string>
+    <string name="share_contact_as">שתף אנשי קשר כ</string>
     <string name="share_error">לא ניתן לשתף איש קשר זה</string>
     <string name="share_over_limit">לא ניתן לשתף יותר מ-1000 אנשי קשר</string>
+    <string name="share_qrcode">שיתוף קוד QR</string>
     <string name="share_via">שלח באמצעות</string>
     <string name="share_visible_contacts">שתף אנשי קשר</string>
     <string name="shortcutActivityTitle">בחר קיצור דרך</string>
@@ -1071,6 +1082,7 @@
     <string name="sim_unloaded">כרטיס ה-SIM אינו מותקן</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">אין חברי קבוצה</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">חברות</string>
     <string name="smart_group_company_unavailable">אין פרטי חברה</string>
     <string name="smart_group_frequency_1">בחודש האחרון</string>
@@ -1205,6 +1217,7 @@
     <string name="voip_audio_description">שיחת VoiP</string>
     <string name="voip_video_description">שיחת וידאו VoiP</string>
     <string name="websiteLabelsGroup">אתר</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">נקה נתונים</string>
     <string name="yellowPageNavigationIconLabel">דפי זהב</string>
     <string name="yellowPageNavigationLabel">דפי זהב</string>

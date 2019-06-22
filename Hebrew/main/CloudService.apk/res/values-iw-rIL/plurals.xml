@@ -20,7 +20,7 @@
     </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">%d פתקים</item>
-        <item quantity="one">פתק אחד</item>
+        <item quantity="one">%d פתק אחד</item>
         <item quantity="two">%d פתקים</item>
         <item quantity="many">%d פתקים</item>
     </plurals>
@@ -77,6 +77,12 @@
         <item quantity="one">כניסה %d לכספת היישומים</item>
         <item quantity="two">%d כניסות לכספת היישומים</item>
         <item quantity="many">%d כניסות לכספת היישומים</item>
+    </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">הוסף %d ביטוים שכיחים</item>
+        <item quantity="one">הוסף %d ביטוי שכיח</item>
+        <item quantity="two">הוסף %d ביטוים שכיחים</item>
+        <item quantity="many">הוסף %d ביטוים שכיחים</item>
     </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">%d תמונות מוסתרות לא סונכרנו. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>

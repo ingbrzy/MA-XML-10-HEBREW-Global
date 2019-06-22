@@ -108,6 +108,24 @@
         <item quantity="two">%1$d תמונות וסרטונים</item>
         <item quantity="many">%1$d תמונות וסרטונים</item>
     </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d תמונות</item>
+        <item quantity="one">תמונה %d</item>
+        <item quantity="two">%d תמונות</item>
+        <item quantity="many">%d תמונות</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">שמור %d תמונות נבחרות ומחק את השאר?</item>
+        <item quantity="one">שמור %d תמונה נבחרת ומחק את השאר?</item>
+        <item quantity="two">שמור %d תמונות נבחרות ומחק את השאר?</item>
+        <item quantity="many">שמור %d תמונות נבחרות ומחק את השאר?</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">שמור %d תמונות שנבחרו</item>
+        <item quantity="one">שמור %d תמונה שנבחרה</item>
+        <item quantity="two">שמור %d תמונות שנבחרו</item>
+        <item quantity="many">שמור %d תמונות שנבחרו</item>
+    </plurals>
     <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d תמונות</item>
         <item quantity="one">תמונה %d</item>
@@ -137,6 +155,24 @@
         <item quantity="one">פריט %d נבחר</item>
         <item quantity="two">%d פריטים נבחרו</item>
         <item quantity="many">%d פריטים נבחרו</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">מחק %d צילום מתפרץ מ Mi Cloud וכל המכשירים המסונכרנים?</item>
+        <item quantity="one">מחק %d צילום מתפרץ מ Mi Cloud וכל המכשירים המסונכרנים?</item>
+        <item quantity="two">מחק %d צילום מתפרץ מ Mi Cloud וכל המכשירים המסונכרנים?</item>
+        <item quantity="many">מחק %d צילום מתפרץ מ Mi Cloud וכל המכשירים המסונכרנים?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">מחק %d צילומים מתפרצים?</item>
+        <item quantity="one">מחק %d צילום מתפרץ?</item>
+        <item quantity="two">מחק %d צילומים מתפרצים?</item>
+        <item quantity="many">מחק %d צילומים מתפרצים?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">מחק %d צילומים מתפרצים מ Mi Cloud וכל המכשירים המסונכרנים?</item>
+        <item quantity="one">מחק %d צילום מתפרץ מ Mi Cloud ומכשיר זה?</item>
+        <item quantity="two">מחק %d צילומים מתפרצים מ Mi Cloud וכל המכשירים המסונכרנים?</item>
+        <item quantity="many">מחק %d צילומים מתפרצים מ Mi Cloud וכל המכשירים המסונכרנים?</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">למחוק %d פריטים מכל המכשירים ומ-Mi Cloud?</item>
@@ -173,6 +209,12 @@
         <item quantity="one">למחוק תמונה זו מאלבום זה ומ-Mi Cloud?</item>
         <item quantity="two">למחוק %d תמונות מאלבום זה ומ-Mi Cloud?</item>
         <item quantity="many">למחוק %d תמונות מאלבום זה ומ-Mi Cloud?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">מחק %d צילומים ממכשירך?</item>
+        <item quantity="one">מחק צילום %d ממכשירך?</item>
+        <item quantity="two">מחק %d צילומים ממכשירך?</item>
+        <item quantity="many">מחק %d צילומים ממכשירך?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">למחוק %d סרטונים מכל המכשירים ומ-Mi Cloud?</item>

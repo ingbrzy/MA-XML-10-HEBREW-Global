@@ -54,4 +54,10 @@
         <item quantity="two">הצג %d הערות</item>
         <item quantity="many">הצג %d הערות</item>
     </plurals>
+    <plurals name="subscriber">
+        <item quantity="other">  מנויים</item>
+        <item quantity="one">  מנוי</item>
+        <item quantity="two">  מנויים</item>
+        <item quantity="many">  מנויים</item>
+    </plurals>
 </resources>

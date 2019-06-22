@@ -42,6 +42,14 @@
     <string name="common_google_play_services_update_text">‏%1$s לא יפעל אם לא תעדכן את שירותי Google Play.</string>
     <string name="common_google_play_services_update_title">‏עדכון שירותי Google Play</string>
     <string name="common_google_play_services_updating_text">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שמתעדכנים כרגע.</string>
+    <string name="early_warning_android_system">‏מערכת Android</string>
+    <string name="early_warning_feedback_action">משוב</string>
+    <string name="early_warning_feedback_body">המשוב שלך כאן</string>
+    <string name="early_warning_feedback_chooser_text">יש לבחור אפליקציית אימייל</string>
+    <string name="early_warning_feedback_subject">משוב לגבי ההתראה על אזהרה מקדימה</string>
+    <string name="early_warning_notification_channel_name">אזהרות סוללה</string>
+    <string name="early_warning_notification_text">זה מוקדם יותר משעת הטעינה הרגילה שלך</string>
+    <string name="early_warning_notification_title">הסוללה עלולה להתרוקן בשעה %1$s</string>
     <string name="icon_content_description">סמל לתיבת דו-שיח</string>
     <string name="password_toggle_content_description">הצגת סיסמה</string>
     <string name="ssb_clear_data_activity_name">לאפס את הבהירות המותאמת?</string>

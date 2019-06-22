@@ -21,6 +21,7 @@
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">פג תוקף</string>
     <string name="alert_title">התראות לוח שנה</string>
+    <string name="all_events">כל האירועים</string>
     <string name="anniversary_event_title">יום השנה: %1$s</string>
     <string name="anniversary_secondary_tag">יום השנה</string>
     <string name="app_label">לוח שנה</string>
@@ -92,6 +93,7 @@
     <string name="date_interval_text_to">עד ה: %1$s</string>
     <string name="date_jump_hint">עבור ישירות ליום מסויים</string>
     <string name="date_jump_title">עבור לתאריך</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (היום)"</string>
     <string name="day_view_new_event_hint">ארוע חדש</string>
     <string name="default_reminder_mode">תזכורות</string>
@@ -301,6 +303,7 @@
     <string name="preferences_default_reminder_title">ברירת מחדל עבור זמן לתזכורת</string>
     <string name="preferences_home_tz_title">אזור הזמן הביתי</string>
     <string name="preferences_notification_ringtone_title">צליל</string>
+    <string name="preferences_show_indic_date_title">הצג לוח שנה אינדי</string>
     <string name="preferences_title">לוח שנה</string>
     <string name="preferences_use_home_tz_descrip">מציג זמני לוח שנה ואירועים באזור הזמן הביתי שלך במהלך נסיעות</string>
     <string name="preferences_use_home_tz_title">השתמש באזור הזמן הביתי</string>
@@ -360,10 +363,12 @@
     <string name="setting_others">עוד</string>
     <string name="setting_title_about">אודות</string>
     <string name="setting_title_holiday_display">הצג חגים</string>
+    <string name="setting_title_policy">מדיניות הפרטיות</string>
     <string name="share_image">שתף</string>
     <string name="share_image_label">שתף באמצעות</string>
     <string name="share_title">שיתוף</string>
     <string name="show_day_view">הצג יום</string>
+    <string name="show_indic_date_summary">לוח שנה הינדי זמין כאשר השפה ההודית מוגדרת כשפת מערכת במכשיר שלך</string>
     <string name="start_date_calculate">חישוב</string>
     <string name="storage_permission_denied">קודם עליך לאפשר גישה לזיכרון</string>
     <string name="subscribe_card">הירשם כעת</string>

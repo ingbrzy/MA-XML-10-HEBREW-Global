@@ -128,9 +128,14 @@
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="select_sim_hint">לא ניתן להשתמש בSIM %2$d,כאשר SIM %1$d נמצא בשימוש.</string>
     <string name="select_one_sim_title">ניתן להשתמש ב-SIM %1$d בלבד</string>
+    <string name="select_sim_hint_for_heduohao">לא ניתן להשתמש באחר, כאשר SIM %1$d מוחלף %2$d בשימוש.</string>
+    <string name="select_one_sim_title_for_heduohao">תוכל להשתמש רק בSIM %1$dחילוף%2$d</string>
     <string name="can_not_use">לא ניתן לשימוש</string>
     <string name="sim1_description">SIM1</string>
     <string name="sim2_description">SIM2</string>
+    <string name="sim1_heduohao_card">חילוף1</string>
+    <string name="sim2_heduohao_card">חילוף2</string>
+    <string name="sim3_heduohao_card">חילוף3</string>
     <string name="call_description_recording">מקליט/u2026</string>
     <string name="call_recording_error_privacy">לא ניתן להקליט במצב אורח</string>
     <string name="call_recording_error_sd_access">לא ניתן לגשת לכרטיס הזכרון</string>

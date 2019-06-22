@@ -2,7 +2,7 @@
 <resources>
     <string name="passport_account_label">חשבון Mi</string>
     <string name="passport_notification_title">שגיאת כניסה עבור %1$s</string>
-    <string name="passport_login_prompt">חשבון Mi אחד. כל שירותי Mi.</string>
+    <string name="passport_login_prompt">כל מה שאתה צריך הוא חשבון Mi אחד בכדי להשתמש בכל שירותי Mi.</string>
     <string name="passport_login_using_other_ways">דרכים אחרות לכניסה</string>
     <string name="passport_register_using_other_ways">דרכים אחרות ליצירת חשבון</string>
     <string name="passport_login_title">היכנס לחשבון Mi שלך</string>
@@ -220,6 +220,10 @@
     <string name="passport_license_info_open">פרטים</string>
     <string name="passport_license_info_collapse">צמצם</string>
     <string name="passport_first_login_prompt">חשבון Mi יווצר באופן אוטומטי כאשר תרשם בפעם הראשונה.</string>
+    <string name="passport_wx_bind_account_limit">לא יכול ליצור חשבון. נסה אפשרויות כניסה אחרות.</string>
+    <string name="facebook_app_id">2263965750590514</string>
+    <string name="fb_login_protocol_scheme">fb2263965750590514</string>
+    <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
     <string name="search_app_name">חשבון Mi</string>
     <string name="search_mi_account">חשבון Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud,הגדרות חשבון,פרטי Mi Pay,צא</string>
@@ -243,7 +247,6 @@
     <string name="removing_account">יוצא…</string>
     <string name="delete_bank_card_title">שים לב</string>
     <string name="delete_bank_card_message">כרטיסי הבנק וכרטיסי ה-NFC של Mi Pay ימחקו לאחר שתצא.</string>
-    <string name="bind_settings">חשבונות</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">חבר חשבון Sina Weibo</string>
     <string name="bind_weibo_description">הוסף את החברים שלך מ-Sina Weibo</string>

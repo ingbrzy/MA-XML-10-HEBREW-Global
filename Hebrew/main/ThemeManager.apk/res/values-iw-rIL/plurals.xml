@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="guide_used_number">
+        <item quantity="other">הוחל על %1$d מכשירים</item>
+        <item quantity="one">הוחל על %1$d מכשיר</item>
+        <item quantity="two">הוחל על %1$d מכשירים</item>
+        <item quantity="many">הוחל על %1$d מכשירים</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d תגובות</item>
         <item quantity="one">תגובה %d</item>

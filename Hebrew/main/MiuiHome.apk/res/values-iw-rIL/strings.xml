@@ -2,6 +2,7 @@
 <resources>
     <string name="action_add_to_workspace">הוסף לסביבת העבודה</string>
     <string name="activity_not_found">היישום אינו מותקן במכשיר שלך</string>
+    <string name="activity_not_unlocked">המתן עד שהמכשיר שברשותך יאותחל לפני שתפתח יישומים</string>
     <string name="add_screen">הוסף מסך</string>
     <string name="announce_for_app_move_in_folder">הועבר למיקום %1$d בתיקייה</string>
     <string name="announce_for_checked">%1$s, סומן</string>
@@ -30,9 +31,11 @@
     <string name="announce_for_open_default_preview">"הגדרות ברירת המחדל של 'מסך הבית' נפתחו"</string>
     <string name="announce_for_open_folder">התיקיה %1$s נפתחה</string>
     <string name="announce_for_open_launcher_menu">התפריט נפתח</string>
+    <string name="announce_for_search_bar">שורת חיפוש</string>
     <string name="announce_for_show_uninstall_dialog">דיאלוג הסרת ההתקנה הופיע. בטל או אשר.</string>
     <string name="announce_for_unchecked">%1$s, הסימון בוטל</string>
     <string name="announce_for_widget_span">רוחב %1$d, גובה %2$d</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">היישום קיים כבר</string>
     <string name="app_being_backup_message">היישום נמצא בתהליך גיבוי</string>
     <string name="app_being_restored_message">היישום נמצא בתהליך שחזור</string>
@@ -92,6 +95,7 @@
     <string name="defalut_launcher_title">משגר היישומים ברירת המחדל</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">משחקים</string>
+    <string name="default_folder_title_meitu">יישומי Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">יישומים נוספים</string>
     <string name="default_folder_title_security">מערכת</string>
@@ -288,6 +292,8 @@
     <string name="preferences_general_title">הגדרות נוספות</string>
     <string name="preferences_title">"הגדרות 'משגר היישומים'"</string>
     <string name="preferred_app_settings_not_selected">לא נבחר</string>
+    <string name="privacy_thumbnail_blur_summary">עמעם תצוגה מקדימה של יישום באחרונים</string>
+    <string name="privacy_thumbnail_blur_title">עמעם תצוגה מקדימה של יישום</string>
     <string name="quick_app">גישה מהירה ליישומים</string>
     <string name="recents_config_title">לאחרונה</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
@@ -315,6 +321,9 @@
     <string name="setting_wallpaper_tip">קמץ או החלק להתאמה</string>
     <string name="settings">הגדרות</string>
     <string name="settings_shortcut">הגדרות</string>
+    <string name="shake_to_align_icons">נער את המכשיר על מנת למלא תאים ריקים עם אייקונים</string>
+    <string name="shake_to_align_icons_summary">נער את המכשיר במצב עריכה על מנת למלא עם אייקונים באופן אוטומטי</string>
+    <string name="shake_to_align_icons_title">נער על מנת למלא תאים ריקים</string>
     <string name="share">שיתוף</string>
     <string name="show_all">הצג הכל</string>
     <string name="show_mem_info_title">הצג סטטוס זכרון</string>
@@ -329,6 +338,7 @@
     <string name="status_installing">מתקין</string>
     <string name="status_paused">נעצר</string>
     <string name="status_pending">ממתין</string>
+    <string name="system_shortcuts_more_operation">פרטי היישום</string>
     <string name="title_jeejen">"'מסך הבית' של Jeejen"</string>
     <string name="title_select_live_folder">בחר תיקיה</string>
     <string name="title_select_shortcut">בחר קיצור דרך</string>
@@ -367,9 +377,4 @@
     <string name="widget_global_search">חיפוש</string>
     <string name="widget_quick_function">פונקציות מהירות</string>
     <string name="widgets_preview_title">"הוסף ווידג'ט"</string>
-    <string name="activity_not_unlocked">Wait until your device is fully rebooted before opening apps</string>
-    <string name="default_folder_title_meitu">Meitu</string>
-    <string name="privacy_thumbnail_blur_summary">עמעם תצוגה מקדימה של יישום באחרונים</string>
-    <string name="privacy_thumbnail_blur_title">עמעם תצוגה מקדימה של יישום</string>
-    <string name="system_shortcuts_more_operation">פרטי היישום</string>
 </resources>

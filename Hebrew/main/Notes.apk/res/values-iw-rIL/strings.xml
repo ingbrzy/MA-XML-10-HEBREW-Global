@@ -127,6 +127,7 @@
     <string name="note_sort_way">בחר כיצד למיין את ההערות שלך</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">תזכורת לפתק</string>
     <string name="permdesc_accessNote">יישומים זדוניים עשויים לעשות בכך שימוש על מנת לגשת לנתוניך האישיים.</string>
     <string name="permission_intro_contact">בעבור סימון הערות שנלקחו בזמן שיחות</string>
@@ -134,13 +135,13 @@
     <string name="permission_intro_phone">בעבור סימון הערות שנלקחו בזמן שיחות</string>
     <string name="permission_intro_storage">לשמירת הערות וקבצים מצורפים</string>
     <string name="permlab_accessNote">גישה לפתקים</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">אל תבקש אישור בעת מחיקת פתק באמצעות מחווה</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">החלק באמצעות שני אצבעות על מנת למחוק פתקים ללא אישור</string>
     <string name="pref_title_cloud_trash_bin">פתקים מחוקים ב-Mi Cloud</string>
     <string name="pref_title_common">הגדרות נוספות</string>
     <string name="pref_title_font_size">גודל גופן</string>
     <string name="pref_title_note_style">סגנון</string>
     <string name="pref_title_show_root_folder_in_homepage">הצג בעמוד ההתחלה רק פתקים מהירים</string>
-    <string name="pref_title_skip_confirm_for_quick_delete">מחיקה מהירה</string>
+    <string name="pref_title_skip_confirm_for_quick_delete">מחק באמצעות מחווה</string>
     <string name="recover_notes_hint">אירעה שגיאה, עבור אל i.mi.com כדי לשחזר את הפתקים.</string>
     <string name="redo">בצע מחדש</string>
     <string name="refuse_to_open_as_pic_because_of_loading">המתן עד לטעינת הפתק ונסה שוב.</string>
@@ -208,6 +209,7 @@
     <string name="toast_notes_hidden_edit">ההערה הזו הוסתרה בהצלחה. משוך למטה כדי לראות את ההערות הנסתרות.</string>
     <string name="toast_notes_hidden_home">ההערה הזו הוסתרה בהצלחה. משוך למטה כדי לראות את ההערות הנסתרות.</string>
     <string name="toast_notes_unhidden">ההסתרה בוטלה בהצלחה</string>
+    <string name="toast_pic_is_not_really">שומר תמונה…</string>
     <string name="toast_reach_text_limit_attachment">לא ניתן לצרף עוד קבצים משום שהפתק ארוך מידי</string>
     <string name="toast_reach_text_limit_checkbox">לא ניתן להוסיף תיבת סימון משום שהפתק ארוך מידי</string>
     <string name="toast_reach_text_limit_truncate">פתק זה ארוך מדי. חלק מהטקסט בסופו נחתך.</string>

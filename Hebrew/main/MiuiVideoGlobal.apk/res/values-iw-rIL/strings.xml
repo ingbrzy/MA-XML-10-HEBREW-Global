@@ -387,13 +387,22 @@ Better להתאים אישית את שירותיו עבור מכשירך;
     <string name="empty_channels">נהל ערוצים</string>
     <string name="empty_subscribe">אינך רשום עדיין.</string>
     <string name="hidden_channels">הערוצים הבאים לא יוצגו בדף הבית.</string>
+    <string name="history">היסטוריה</string>
     <string name="init_channels">שחזור הגדרות ברירת המחדל</string>
     <string name="isSubscribed">ההרשמה בוצעה</string>
+    <string name="later">מאוחר יותר</string>
+    <string name="lv_content_null">אין פריטים להצגה</string>
     <string name="my_favorite_channels">הערוצים שלי</string>
     <string name="ovp_navigation_subscribe">הרשמה</string>
     <string name="ovp_player_plugin_dlg_neg_btn">סגור</string>
     <string name="ovp_player_plugin_dlg_no_content">אין תוספים עבור נגן וידאו.</string>
     <string name="ovp_player_plugin_dlg_title">תוספות עבור נגן וידאו</string>
+    <string name="ovp_player_update_dialog_info">עדכן את הרחבת Mi Video לגרסה האחרונה על מנת לנגן וידאו זה. האם לעדכן כעת?</string>
+    <string name="ovp_player_update_info">"לא ניתן היה לנגן וידאו זה.
+ עדכן את Mi Video לגרסה האחרונה."</string>
+    <string name="ovp_resolution_auto">אוטמטי</string>
+    <string name="ovp_resolution_not_support">לא ניתן היה להחליף רזולוציה</string>
+    <string name="ovp_resolution_title">רזולוציה</string>
     <string name="permission_phone">טלפון</string>
     <string name="permission_phone_desc">בעבור גישה לסטטוס המכשיר והשהייה של הנגן בזמן שיחות</string>
     <string name="permission_storage">אחסון</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="a11y_settings_label">הגדרות נגישות</string>
     <string name="about_ad_service_instructions">אודות שירותי פרסום ופרטיות</string>
     <string name="about_phone_enter_xiaomi_net">למידע נוסף</string>
     <string name="about_settings">אודות הטלפון</string>
@@ -23,6 +24,11 @@
     <string name="accessibility_enable">נגישות</string>
     <string name="accessibility_manual_zen_less_time">פחות זמן.</string>
     <string name="accessibility_manual_zen_more_time">יותר זמן.</string>
+    <string name="accessibility_menu_description">"תפריט הנגישות מספק קיצורי דרך נוחים המאפשרים לך לשלוט בהתקן שלך.
+
+ הפעל תכונה זו והקש על לחצן נגישות בתחתית המסך בכדי לפתוח את התפריט."</string>
+    <string name="accessibility_menu_service_name">תפריט נגישות</string>
+    <string name="accessibility_menu_summary">שלוט במכשירך תוך שימוש בקיצורי דרך נוחים</string>
     <string name="accessibility_more_settings">הגדרות נוספות</string>
     <string name="accessibility_no_wifi">מנותק מהרשת האלחוטית.</string>
     <string name="accessibility_screen_magnification_enable">מחוות הגדלה</string>
@@ -92,7 +98,7 @@
     <string name="alarm_stop_info">"'מצב שקט' יכובה עם צלצול השעון המעורר"</string>
     <string name="alarm_template">בשעה %1$s</string>
     <string name="alarm_template_far">ב-%1$s</string>
-    <string name="allow_device_id_access">יישומים עם גישה למזהה המכשיר</string>
+    <string name="allow_device_id_access">יישומים נבחרו יכולים לשמש עבור זיהוי המכשיר</string>
     <string name="allow_float_summary">אשר התראות צפות</string>
     <string name="allow_float_title">התראות צפות</string>
     <string name="allow_keyguard_summary">אפשר התראות במסך הנעילה</string>
@@ -100,6 +106,7 @@
     <string name="allow_lights_title">אפשר שימוש בתאורת לד</string>
     <string name="allow_mock_location">אפשר דימוי מיקומים</string>
     <string name="allow_mock_location_summary">אפשר דימוי מיקומים</string>
+    <string name="allow_oaid_used">אפשר שימוש במזהה המכשיר</string>
     <string name="allow_sound_title">אפשר שמע</string>
     <string name="allow_vibrate_title">אפשר רטט</string>
     <string name="alpha_build">אלפא</string>
@@ -189,10 +196,14 @@
     <string name="backup_set_enter_pw_title">הזן סיסמת גיבוי</string>
     <string name="backup_set_error_pw">הסיסמה שהזנת שגויה</string>
     <string name="backup_set_modify_title">שנה סיסמת גיבוי</string>
+    <string name="backup_set_new_continue">המשך</string>
+    <string name="backup_set_new_exit">יציאה</string>
+    <string name="backup_set_new_pw_confirm_hint">שים לב</string>
+    <string name="backup_set_new_pw_confirm_summary">הפריטים שלך יגובו באופן אוטומטי כעת. צור סיסמת גיבוי תעצור את הגיבוי האוטומטי. האם להמשיך בכל אופן?</string>
     <string name="backup_set_new_pw_title">הזן סיסמת גיבוי חדשה</string>
     <string name="backup_set_null_pw">הזן סיסמה תחילה</string>
     <string name="backup_set_pw_confirm_title">אשר סיסמת גיבוי חדשה</string>
-    <string name="badge_title">הצג תגית אייקון עבור יישום שולחן עבודה</string>
+    <string name="badge_title">הצג יישומי אייקונים ותגיות</string>
     <string name="batch_delete_saved_network">למחוק את הרשת שנבחרה: %s?</string>
     <string name="batch_delete_saved_networks">מחק את כל הרשתות שנבחרו</string>
     <string name="battery_action_wifi">הגדרות רשת אלחוטית</string>
@@ -281,7 +292,7 @@
     <string name="bluetooth_connected_no_map">%1$s מקושר (ללא גישה להודעות)</string>
     <string name="bluetooth_connecting">מתחבר…</string>
     <string name="bluetooth_device_address">כתובת:</string>
-    <string name="bluetooth_device_misc_title">התקני Bluetooth בשימוש נדיר</string>
+    <string name="bluetooth_device_misc_title">התקנים בשימוש נדיר</string>
     <string name="bluetooth_device_name">שם:</string>
     <string name="bluetooth_device_searchable">גלוי</string>
     <string name="bluetooth_disable_absolute_volume">השבת עוצמה אבסולוטית</string>
@@ -376,7 +387,8 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">ההתקן הישן יוחלף עם ההתקן הנוכחי.</string>
     <string name="bluetooth_unlock_change_matched_device">בחר התקן אחר</string>
     <string name="bluetooth_unlock_confirm_device_text">לחץ על התקן ה-Bluetooth לאישור.</string>
-    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">הקש על הלחצן על גבי השעון לביטול הנעילה.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_huami_band">אשר באמצעות הצמיד.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">אשר על גבי השעון.</string>
     <string name="bluetooth_unlock_confirm_device_text_for_miband2">הקש על הלחצן על גבי ההתקן לביטול הנעילה.</string>
     <string name="bluetooth_unlock_delete_device">מחק התקן זה</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">למחוק התקן זה?</string>
@@ -439,6 +451,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="bootloader_summary">צרוב את מכשירך באמצעות USB</string>
     <string name="bootloader_tips">לאחר שהוספת את חשבון Mi, אל תצא ממנו, בצע שחזור יצרן או ניקוי נתוני יישומים. אם תבצע את אחת מהפעולות הרשומות לעיל, הוסף את חשבונך שוב אם לא תבצע זאת לא תוכל לפתוח את נעילת המכשיר.</string>
     <string name="bootloader_tips_ok">הבנתי</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">צבע הנורית</string>
     <string name="breathing_light_color_summary">צבע הנורית בעת קבלת התראה חדשה</string>
     <string name="breathing_light_freq_summary">הבהב בקבלת התראות חדשות</string>
@@ -542,6 +555,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="close_miui_optimization_title">כבה ייעול MIUI</string>
     <string name="close_optimization_message">פריסת הטקסט, החשבונות, וחלקים אחרים של MIUI עשויים להיות מושפעים מכיבוי תכונה זו.</string>
     <string name="close_optimization_option">כיבוי</string>
+    <string name="close_privacy_thumbnail_blur_title">התצוגה המקדימה איננה מעומעת</string>
     <string name="cloud_backup_section_title">גיבוי Mi Cloud</string>
     <string name="cloud_backup_settings_section_title">הגדרות גיבוי</string>
     <string name="cloud_restore_section_summary">"שחזור הגדרות מערכת, פריסת 'מסך הבית' ויישומים"</string>
@@ -549,6 +563,22 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="cmcc_hardware_version">גרסת חומרה</string>
     <string name="color_calibration_none">טבעי</string>
     <string name="color_calibration_srgb">sRGB</string>
+    <string name="color_led_applications_title">בחר יישומים</string>
+    <string name="color_led_applications_title_summary">תוכל להגביל בשימוש נורת LED עבור יישומים בודדים</string>
+    <string name="color_led_battery_title">המשך בטעינה</string>
+    <string name="color_led_end_time">שעת סיום</string>
+    <string name="color_led_game_mode_title">Game Turbo</string>
+    <string name="color_led_hint">בחר את המצבים בהם נורת לד מופעלת. נורת לד תפעל כאשר המסך מופנה כלפי מטה ומצב לא להפריע כבוי.</string>
+    <string name="color_led_incall_pulse_title">הבזק עבור שיחות נכנסות</string>
+    <string name="color_led_lucky_dialog_message">לתכונה זו נדרש שימוש בסייען המעטפות האדומות. האם להפעיל כעת?</string>
+    <string name="color_led_lucky_dialog_title">הפעל את אשף המעטפות האדומות</string>
+    <string name="color_led_music_mode_summary">הצג אפקט ריתמיקה כאשר מוסיקה מתנגנת</string>
+    <string name="color_led_music_mode_title">מוסיקה</string>
+    <string name="color_led_notification_pulse_title">הבזקים עבור התראות</string>
+    <string name="color_led_red_more_feature">אפקטים מיוחדים</string>
+    <string name="color_led_red_package_title">מעטפות אדומות</string>
+    <string name="color_led_start_time">שעת התחלה</string>
+    <string name="color_led_title">תאורת לד</string>
     <string name="common_settings">הגדרות מהירות</string>
     <string name="complete_parameters">כל הפרטים</string>
     <string name="complete_settings">הגדרות כלליות</string>
@@ -558,10 +588,13 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="confirm_enable_oem_unlock_text">אזהרה: תכונות הגנה של המכשיר לא יעבדו במכשיר זה בעת שהגדרה זו מופעלת.</string>
     <string name="confirm_enable_oem_unlock_title">לאפשר ביטול נעילת OEM?</string>
     <string name="confirm_erase">מחק</string>
+    <string name="confirm_fingerprint">אמת את טביעת האצבע שלך</string>
     <string name="confirm_fingerprint_msg">הנח אצבע על החיישן</string>
     <string name="confirm_frp_credential_message">בוצע איפוס המכשיר להגדרות היצרן. ניתן לבטל את הנעילה באמצעות הסיסמה הקודמת שלך.</string>
     <string name="confirm_frp_credential_skip_txt">השתמש בחשבון Google במקום</string>
     <string name="confirm_frp_credential_title">בטל נעילה אחרי איפוס להגדרות היצרן</string>
+    <string name="confirm_password_with_fingerprint">"השתמש ב'טביעת אצבע'"</string>
+    <string name="confirm_password_with_password">הזן סיסמה</string>
     <string name="confirm_privacy_password">הזן את הסיסמה להגנת הפרטיות</string>
     <string name="confirm_privacy_password_fingerprint">סרוק טביעת אצבע או הזן את הסיסמה להגנת הפרטיות</string>
     <string name="confirm_reset_aaid">אישור</string>
@@ -621,7 +654,8 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="dangerous_option_hint_title">תכונת סיכון-גבוה הופעלה</string>
     <string name="dangerous_option_switch_title">התרע אודות תכונות סיכון-גבוה</string>
     <string name="dark_color_mode">מצב מוחשך</string>
-    <string name="dark_color_summary">השתמש בפלטת צבעים כהה עבור רקע המערכת ו ישומים מותאמים</string>
+    <string name="dark_color_summary_lcd">"Use darker color palette for system backgrounds and compatible apps. Dark mode can help you to relieve eye strain when you're using your device in the dark."</string>
+    <string name="dark_color_summary_oled">Use darker color palette for system backgrounds and compatible apps. Dark mode reduces power consumption and helps to relieve eye strain.</string>
     <string name="data_usage_disable_wifi_limit">הגדר מגבלת נתונים לחיבור רשת אלחוטית</string>
     <string name="data_usage_menu_show_wifi">הצג את נתוני השימוש ברשת אלחוטית</string>
     <string name="data_usage_metered_body">הצבע אילו מבין הרשתות האלחוטיות הינן רשתות נקודה חמה ניידת. ניתן להגביל את השימוש של יישומים ברשתות מסוג זה ברקע. היישומים יתריעו בפניך לפני שימוש ברשתות מסוג זה לצורך הורדות גדולות.</string>
@@ -697,18 +731,20 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="device_cpu8_info">שמונה ליבות</string>
     <string name="device_display_layout_title">מאפייני Mi 5</string>
     <string name="device_edit_title">שנה את שם הטלפון</string>
-    <string name="device_id">מזהה מכשיר</string>
+    <string name="device_id">מזהה מכשיר עבור התאמות אישיות</string>
     <string name="device_internal_memory">אחסון פנימי</string>
     <string name="device_memory">RAM</string>
     <string name="device_miui_more">הצג עוד</string>
     <string name="device_miui_version">גרסת MIUI</string>
     <string name="device_miui_version_for_POCO">גרסת MIUI (עבור POCO)</string>
+    <string name="device_miui_version_parameters">גרסת MIUI</string>
     <string name="device_miui_version_update">קיים עדכון זמין ל-MIUI</string>
     <string name="device_name">שם המכשיר</string>
     <string name="device_name_input_error">לא ניתן היה לשמור את שם המכשיר</string>
     <string name="device_name_input_hint">הזן שם</string>
     <string name="device_name_input_overlength">חרגת ממגבלת התוים</string>
     <string name="device_name_usage_point">שם זה גלוי להתקנים אחרים בקרבת מקום.</string>
+    <string name="device_oaid">מזהה מכשיר</string>
     <string name="device_rear_camera">מצלמה אחורית</string>
     <string name="device_screen_resolution">רזולוצית המסך</string>
     <string name="device_screen_size">גודל המסך</string>
@@ -729,6 +765,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="dialog_title_hdmi_color_calibration">תיקון צבע קבוע מראש</string>
     <string name="dialog_title_login">היכנס לחשבון Mi שלך</string>
     <string name="dialog_yes">כן</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">הערה: תוכל להשתמש ביישום זה לאחר אתחול המכשיר רק במידה ותבטל את נעילת מכשירך</string>
     <string name="disable_overlays">השבת שכבת על של HW</string>
     <string name="disable_overlays_summary">השתמש תמיד ב-GPU עבור צלימת שכבות המסך</string>
@@ -755,6 +792,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="dndm_auto_button_title">"חזרה על תזמון מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_setting_group">מתוזמן</string>
     <string name="dndm_auto_time_setting">הגדר שעה</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">עד</string>
     <string name="dndm_auto_time_turn_off_title">"כבה אוטומטית את מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_time_turn_on">מ:</string>
@@ -796,9 +834,8 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="downloading_description">מוריד…</string>
     <string name="dtmf_tone_enable_title">צלילי לוח המקשים</string>
     <string name="dual_clock">שעון כפול</string>
-    <string name="dual_clock_aod_hint">שעון כפול \"מסתמך על התכונות הבאות: 1. לאחר כיבוי המסך, אפשר להציג פריטים בהגדרות > תצוגה; 2. עבור מסך נעילה, ודא שאתה משתמש בערכת הנושא של ברירת מחדל או בסגנון הקלאסי בהגדרות > ערכות נושא; 3. עבור מסך הבית, ודא שאתה משתמש ביישומון ברירת המחדל של שעון מערכת.</string>
     <string name="dual_clock_aod_open_message">שעון כפול יוצג ע\"ג מסך הנעילה, מסך הבית, ויכבה את המסך.</string>
-    <string name="dual_clock_hint">\"שעון כפול\" מסתמך על התכונות הבאות: 1. למסך נעילה, ודא שאתה משתמש בערכת הנושא של ברירת מחדל או בסגנון הקלאסי בהגדרות > ערכות נושא; 2. עבור מסך הבית, ודא שאתה משתמש ביישומון ברירת המחדל של שעון מערכת.</string>
+    <string name="dual_clock_hint">Dual clock requires using system clock widget and default theme</string>
     <string name="dual_clock_ok">הבנתי</string>
     <string name="dual_clock_open_message">שעון כפול יוצג ע\"ג מסך הנעילה ומסך הבית.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
@@ -832,6 +869,8 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="enable_opengl_traces_title">הפעל מעקב OpenGL</string>
     <string name="enable_service_title">השירות יבצע את הפעולות הבאות:</string>
     <string name="enable_snapshot_screenlock">"לחיצה ארוכה על מקש 'חזרה' על מנת לצלם תמונה"</string>
+    <string name="enable_tcp_rtt_support">הצג TCP RTT</string>
+    <string name="enable_tcp_rtt_support_summary">הערך את הביצועים ואת איכות רשת התקשורת</string>
     <string name="enable_terminal_summary">אפשר יישום טרמינל אשר מציע SSH מקומי</string>
     <string name="enable_terminal_title">טרמינל מקומי</string>
     <string name="enable_wifi_display">תצוגה אלחוטית</string>
@@ -973,10 +1012,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="force_resizable_activities_summary">הפוך את כל הפעילויות לבעלות אפשרות של שינוי גודל עבור חלון רב-תכליתי, ללא קשר לערכי מניפסט.</string>
     <string name="force_rtl_layout_all_locales">אלץ כיוון פריסת RTL</string>
     <string name="force_rtl_layout_all_locales_summary">אלץ כיוון פריסת המסך ל-RTL עבור כל המיקומים</string>
-    <string name="force_touch">מגע 3D</string>
-    <string name="force_touch_demo">הדגמה</string>
-    <string name="force_touch_enable">"הפעל את 'מגע 3D'"</string>
-    <string name="force_touch_enable_tips">"לחץ לחיצה מאומצת על אייקונים של יישומים ב'משגר היישומים' על מנת להציג תפריטים של קיצורי דרך כאשר 'מגע 3D' מופעל."</string>
     <string name="foreground_traffic">חזית %s</string>
     <string name="forget_password_button_text"><u>שכחתי את הסיסמה</u></string>
     <string name="forget_password_dialog_button_text">הקודם</string>
@@ -1029,6 +1064,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="global_change_warning">הגדרה זו תשפיע על כל משתמשי הטלפון.</string>
     <string name="global_locale_change_title">החלף שפה</string>
     <string name="go_to_sleep">כיבוי המסך</string>
+    <string name="google_assistant_label">מסייע גוגל</string>
     <string name="google_backup_enable">הפעל את הגיבוי</string>
     <string name="google_backup_section_title">גיבוי &amp; איפוס של Google</string>
     <string name="google_title">Google</string>
@@ -1166,7 +1202,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="keywords_vibrate">רטט;ויברציה</string>
     <string name="keywords_wifi">wifi;wi-fi;Wi-Fi;WiFi;wlan;WLAN;רשת אלחוטית;רשתות אלחוטיות</string>
     <string name="kilobyteShort">KB</string>
-    <string name="kilobyte_per_second">K/s</string>
+    <string name="kilobyte_per_second">"ק\"ב/ש'"</string>
     <string name="label_mi_stats">ניתוחי Mi</string>
     <string name="lattice_smartcover_title">מכסה קדמי מסורג</string>
     <string name="launch_camera">הפעלת המצלמה</string>
@@ -1337,6 +1373,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="lockscreen_glogin_checking_password">בודק…</string>
     <string name="lockscreen_glogin_password_hint">סיסמה</string>
     <string name="lockscreen_glogin_submit_button">היכנס</string>
+    <string name="lockscreen_label">מסך נעילה</string>
     <string name="lockscreen_magazine">קרוסלת טפטים</string>
     <string name="lockscreen_magazine_summary">קרוסלת טפטים איכותיים</string>
     <string name="lockscreen_magazine_title">טפט קרוסלה</string>
@@ -1384,7 +1421,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="media_category">מדיה</string>
     <string name="media_feedback_enable_title">רטט לפי הקצב</string>
     <string name="megabyteShort">MB</string>
-    <string name="megabyte_per_second">М/s</string>
+    <string name="megabyte_per_second">"מ\"ב/ש'"</string>
     <string name="memory_rightvalue">סה\"כ: %s</string>
     <string name="memory_system_rom">אחסון מערכת</string>
     <string name="memory_system_space">אחסון מערכת</string>
@@ -1476,6 +1513,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="miui_sos_statusbar_summary">לחץ להשבתה</string>
     <string name="miui_sos_statusbar_title">מצב חירום מופעל</string>
     <string name="miui_special_feature">תכונות מיוחדות</string>
+    <string name="miui_touch_filtered_touchassistant_warning">הרשאות דיאלוג נעשות באמצעות כדור מהיר. הזז את כדור מהיר לצד על מנת לכבות תכונה זו.</string>
     <string name="miui_touch_filtered_warning">במידה וקיים יישום החוסם את דיאלוג ההרשאות, גרור הצידה את הפריט החופף או סגור את היישום.</string>
     <string name="miui_updater">עדכון מערכת</string>
     <string name="miui_userguide">מדריך המשתמש</string>
@@ -1495,6 +1533,11 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="modify_privacy_password">שינוי הסיסמה</string>
     <string name="more_dangerous_option_hint">תכונות בעלי סיכון גבוה כוללים \"%1$s מופעלים.לחץ על מנת לשנות את ההגדרות.</string>
     <string name="more_installed_services_title">יותר שירותי הורדות</string>
+    <string name="mqs_privacy_automatically_upload">העלה באופן אוטומטי בפעם הבאה</string>
+    <string name="mqs_privacy_dialog_cancel">ביטול</string>
+    <string name="mqs_privacy_dialog_confirm">העלה</string>
+    <string name="mqs_privacy_dialog_content">להעלות יומנים על מנת לסייע לנו לאתר ולפתור בעיה זו? היומנים עשויים להכיל את פרטיך האישיים, כולל את המידע אודות מיקומך.</string>
+    <string name="mqs_privacy_dialog_title">אירעה שגיאה</string>
     <string name="msd_driver_download">הורד מנהל התקן</string>
     <string name="msd_driver_download_mac">OSX: הורד את מנהל ההתקן והתקן את AndroidFileTransfer.dmg.</string>
     <string name="msd_driver_download_mac_url">השג את מנהל ההתקן ב: http://www.android.com/filetransfer/</string>
@@ -1691,6 +1734,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="notification_style_title">סוג ההתראות</string>
     <string name="notification_update_new_version">קיים עדכון זמין</string>
     <string name="notification_update_now">עדכן כעת</string>
+    <string name="notifications_label">התראות</string>
     <string name="now">אתחל כעת</string>
     <string name="oem_unlock_enable">ביטול נעילת OEM</string>
     <string name="oem_unlock_enable_summary">אפשר את ביטול נעילת ה-bootloader</string>
@@ -1708,13 +1752,12 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="on">הפעלה</string>
     <string name="onehour">30 דקות</string>
     <string name="onekey_migrate">Mi Mover</string>
-    <string name="open_dark_mode_dialog_summary">הגדרות תצוגה מסוימות אינן תואמות מצב מחושך למרות זאת הם ישוחזרו ברגע שתכבה את המצב המוחשך האם להפעיל מצב מוחשך?</string>
-    <string name="open_dark_mode_dialog_title">מצב תאימות מוחשך</string>
     <string name="open_demo_mode">הפעלה</string>
     <string name="open_demo_mode_warning_message">"כאשר מצב 'דמו' מופעל, השעון בשורת המצב יעצר והאייקונים של הסוללה ואות הרשת יוצגו כמלאים. באפשרותך לכבות את מצב 'דמו' או לאתחל את המכשיר על מנת לשנות זאת."</string>
     <string name="open_miui_optimization_title">הפעל ייעול MIUI</string>
     <string name="open_optimization_message">הפעל את הייעול על מנת להנות מממשק משתמש חלק ומהיר יותר.</string>
     <string name="open_optimization_option">הפעלה</string>
+    <string name="open_privacy_thumbnail_blur_title">תצוגה מקדימה מעומעת</string>
     <string name="open_wifi_connect_summary">לחץ לצפיה בפרטים.</string>
     <string name="open_wifi_connect_title">מחובר אל %1$s</string>
     <string name="optimization_cancel">ביטול</string>
@@ -1798,6 +1841,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="paper_mode_get_location_dlg_negative_btn_text">ביטול</string>
     <string name="paper_mode_get_location_dlg_positive_btn_text">"עבור ל'הגדרות'"</string>
     <string name="paper_mode_get_location_dlg_title">הגדרת מיקום</string>
+    <string name="paper_mode_side_effect_hint">עוצמה גבוהה יותר עשויה להשפיע על אופן תצוגת התוכן.</string>
     <string name="paper_mode_start_time_title">הפעלה</string>
     <string name="passwordIncorrect">הסיסמה שהזנת שגויה</string>
     <string name="password_entrance_title">הגדר נעילת מסך</string>
@@ -1827,6 +1871,19 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="pointer_location">מיקום המצביע</string>
     <string name="pointer_location_summary">הצג קואורדינטות מגע</string>
     <string name="pointer_settings_category">עכבר/משטח מגע</string>
+    <string name="popup_gesture_summary">Lift the phone and look at the screen to open the front camera automatically</string>
+    <string name="popup_gesture_title">Lift to open front camera</string>
+    <string name="popup_led_summary">הצג אנימציה כאשר המצלמה הקדמית מופיעה וממוקדת</string>
+    <string name="popup_led_title">אפקטים וויזואלים</string>
+    <string name="popup_title">אפקטים עבור מצלמה קדמית</string>
+    <string name="popup_title_cangmen">דלת תא</string>
+    <string name="popup_title_chilun">הילוכים</string>
+    <string name="popup_title_jijia">מכני</string>
+    <string name="popup_title_mofa">קסם</string>
+    <string name="popup_title_muqin">קסילופון</string>
+    <string name="popup_title_yingyan">קונדור</string>
+    <string name="popup_voice_summary">הפעל צליל כאשר המצלמה הקדמית מופיעה וממוקדת</string>
+    <string name="popup_voice_title">אפקט צליל</string>
     <string name="popup_window">הגבל התראות צפות</string>
     <string name="power_autorun_apps_empty">ריק</string>
     <string name="power_autorun_empty">ריק</string>
@@ -1846,6 +1903,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="power_key_how_start_detail">לחץ והחזק את כפתור ההפעלה למשך חצי שניה. שחרר ודבר.</string>
     <string name="power_key_start_enjoy">למד עוד אודות סייע גוגל</string>
     <string name="power_key_start_guide">הער את מסייע גוגל תוך שימוש בכפתור הפעלה במכשיר עם תצוגה מלאה</string>
+    <string name="power_label">הפעלה</string>
     <string name="power_mgr">אופטימיזציית (ייעול) סוללה</string>
     <string name="power_mode">הגדרות אנרגיה</string>
     <string name="power_mode_balanced_title">איזון אנרגיה</string>
@@ -1860,6 +1918,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="power_remaining_less_than_duration_only">נותרו פחות מ-%1$s</string>
     <string name="power_remaining_more_than_subtext">יותר מ-%1$s נותרו (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">נותרו יותר מ-%1$s</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_settings_title">ביצועי מערכת</string>
     <string name="power_usage_history">שימוש בסוללה</string>
     <string name="power_usage_summary_title">סוללה &amp; ביצועים</string>
@@ -1975,6 +2034,8 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="privacy_protect_title">הגנת פרטיות</string>
     <string name="privacy_relative">פרטיות</string>
     <string name="privacy_settings">גיבוי &amp; איפוס</string>
+    <string name="privacy_thumbnail_blur_progress_message">רק רגע…</string>
+    <string name="privacy_thumbnail_blur_title">עמעם תצוגה מקדימה של יישומים</string>
     <string name="private_dns_mode_off">כבוי</string>
     <string name="private_dns_mode_opportunistic">אוטומטי</string>
     <string name="private_dns_mode_provider">שם המארח של DNS פרטי</string>
@@ -1986,6 +2047,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="private_sms_need_to_unlock">דרושה סיסמה:</string>
     <string name="private_sms_recording_intro_header">צייר תבנית לפתיחה:</string>
     <string name="private_sms_reset_by_account">על מנת לאפס את סיסמתך, היכנס לחשבון Mi שלך</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">פעיל</string>
     <string name="provision_back">הקודם</string>
     <string name="provision_next">הבא</string>
@@ -1994,6 +2056,8 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="proxy_exclusionlist_label">מעקף עבור</string>
     <string name="proxy_hostname_label">שם מארח</string>
     <string name="proxy_port_label">Port</string>
+    <string name="quick_reply_title">תגובות מהירות</string>
+    <string name="quick_settings_label">מתגים</string>
     <string name="quiet">נא לא להפריע</string>
     <string name="quiet_group">נא לא להפריע</string>
     <string name="quiet_important_interruptions_mode">אפשר חריגים בלבד</string>
@@ -2006,6 +2070,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="reading_data">מקבל פרטים…</string>
     <string name="rebootiing_for_updates">מאתחל…</string>
     <string name="receiver_clean">פנה שטח</string>
+    <string name="recent_apps_label">אחרונים</string>
     <string name="recent_location_requests_summary">צפה ביישומים המבקשים לגשת למידע אודות המיקום שלך</string>
     <string name="recent_location_requests_title">גישה למיקום</string>
     <string name="recommend_item_1">כיסוי טלפון</string>
@@ -2033,11 +2098,14 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="resetting_second_space_passwd">"מאפס את סיסמת 'שטח שני'"</string>
     <string name="resident_timezone_summary">שעון משני</string>
     <string name="resolver_settings_label">מיון</string>
-    <string name="restore_device_id_content">אפס המלצות עבור התאמות אישיות</string>
+    <string name="restore_device_id_content">המלצות אישיות ישוחזרו</string>
     <string name="restore_device_id_title">שחזר את מזהה המכשיר</string>
-    <string name="restore_dialog_content">שחזור מזהה מכשיר יאפס את ההמלצות עבור התאמות אישיות.</string>
-    <string name="restore_dialog_positive">שחזור</string>
+    <string name="restore_dialog_content">איפוס מזהה המכשיר, יאפס גם את כל ההמלצות האישיות. האם לאפס כעת?</string>
+    <string name="restore_dialog_positive">אפס</string>
     <string name="restore_dialog_title">שים לב</string>
+    <string name="restore_oaid_content">איפוס מזהה המכשיר יצור מזהה נוסף. האם לאפס כעת?</string>
+    <string name="restore_oaid_positive">אפס</string>
+    <string name="restore_oaid_title">שחזר את מזהה המכשיר</string>
     <string name="restrict_bg_app">הגבלה</string>
     <string name="restrict_max_aspect_ratio_title">יישומים אלה לא עובדים כראוי במצב מסך מלא</string>
     <string name="restriction_wifi_config_summary">אפשר שינוי הגדרות עבור רשתות סלולריות ורשתות אלחוטיות</string>
@@ -2095,12 +2163,13 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="screen_paper_mode_global_summary">"השתמש ב'מצב קריאה' עבור כל היישומים"</string>
     <string name="screen_paper_mode_global_title">כל היישומים</string>
     <string name="screen_paper_mode_hdr_toast">מצב קריאה יכבה בעת הפעלת סרטוני HDR. הוא יופעל באופן אוטומטי לאחר סיום הסרטון.</string>
+    <string name="screen_paper_mode_hdr_toast_new">מצב קריאה יכבה באופן אוטומטי במצב וידאו HDR ואימות באמצעות טביעת אצבע. מכשירך יעבור למצב קריאה אוטומטי כאשר פעולות אלו יושלמו.</string>
     <string name="screen_paper_mode_local_summary">"השתמש ב'מצב קריאה' עבור יישומים שתבחר"</string>
     <string name="screen_paper_mode_local_title">יישומים נבחרים</string>
     <string name="screen_paper_mode_off_apps_title">"אל תשתמש ב'מצב קריאה'"</string>
     <string name="screen_paper_mode_range_title">הגדרות</string>
     <string name="screen_paper_mode_set_apps_title">"יישומים ב'מצב קריאה'"</string>
-    <string name="screen_paper_mode_summary">מצב קריאה הופך את הצבעים שבמסך שלך לחמים יותר ומאפשר לעיניים שלך להירגע.</string>
+    <string name="screen_paper_mode_summary">מצב קריאה הופך את הצבעים שבמסך שלך לחמים יותר ומאפשר לעיניים שלך להירגע</string>
     <string name="screen_paper_mode_time_summary">"תזמן את ההפעלה והכיבוי של 'מצב קריאה'"</string>
     <string name="screen_paper_mode_time_title">תזמון</string>
     <string name="screen_paper_mode_title">מצב קריאה</string>
@@ -2132,6 +2201,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="screen_zoom_summary_small">קטן</string>
     <string name="screen_zoom_summary_very_large">גדול יותר</string>
     <string name="screenshot">צילום מסך</string>
+    <string name="screenshot_label">צילום מסך</string>
     <string name="screenshot_three_gesture">החלק 3 אצבעות כלפי מטה על מנת לבצע צילום מסך</string>
     <string name="screenshot_three_gesture_summary">מחוות אחרות המתבצעות באמצעות 3 אצבעות יכובו</string>
     <string name="se_route_ese">רכיב מאובטח מובנה</string>
@@ -2342,6 +2412,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="security_encryption_attention_3">יהיה עליך להגדיר סיסמה חדשה עבור מסך הנעילה.</string>
     <string name="security_encryption_attention_4">הקפד לזכור את סיסמת מסך הנעילה שלך, אחרת יהיה עליך לבצע איפוס מלא ולמחוק את כל הנתונים במכשיר זה.</string>
     <string name="security_encryption_attention_info">באפשרותך להצפין חשבונות, הגדרות, יישומים שהורדו ונתונים שלהם, מדיה וקבצים אחרים.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">חשוב</string>
     <string name="security_encryption_close_dialog_info">בחירה שלא להצפין את המכשיר באמצעות סיסמת מסך הנעילה עשויה לגרום לשירותי Google מסויימים להיות לא זמינים.</string>
     <string name="security_encryption_close_dialog_title">חזור אל הגנה באמצעות סיסמה כברירת מחדל</string>
@@ -2454,6 +2525,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">"התראות, לחצני בקרת נגן המוסיקה וקיצורי דרך לא יוצגו ב'מסך הנעילה'."</string>
     <string name="skip_step">דלג</string>
@@ -2535,6 +2607,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="status_bar_carrier_settings_no_sim_card">אין כרטיס SIM</string>
     <string name="status_bar_settings">התראות &amp; שורת מצב</string>
     <string name="status_bar_settings_all_app_display_loading">רק רגע…</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">התראות יישומים</string>
     <string name="status_bar_settings_notification_bar">לוח ההתראות</string>
     <string name="status_bar_settings_status_bar">שורת מצב</string>
@@ -2630,6 +2703,8 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="toast_lockscreen_glogin_empty_password">הזן סיסמה</string>
     <string name="toast_need_login">היכנס לחשבון Mi שלך</string>
     <string name="toast_sta_ap_works_wifi_display_disable">לא יכול לשדר כאשר חיבור Wi-Fi ונקודה חמה פועלים.</string>
+    <string name="toggle_auto_speaker_preference_summary">המכשיר יעבור לרמקול כאשר תזיז את אוזנך במהלך שיחת טלפון. תכונה זו זמינה רק כאשר TalkBack מופעל.</string>
+    <string name="toggle_auto_speaker_preference_title">הפעל את הרמקול באופן אוטומטי</string>
     <string name="toggle_collapse_after_clicked_title">הסתר לאחר נגיעה</string>
     <string name="total">נא לא להפריע</string>
     <string name="total_info">השתקת צלילים וכיבוי הרטט - למעט עבור השעונים המעוררים</string>
@@ -2730,13 +2805,28 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="unlock_set_unlock_pin_summary" formatted="false">הכנס%d\"%d מספרים בכדי לפתוח את המכשיר</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">הגדר שיטה לנעילת המסך</string>
-    <string name="unlogin_account_summary">כל שירותי Mi. חשבון One Mi</string>
+    <string name="unlogin_account_summary">כל מה שאתה צריך הוא חשבון Mi אחד בכדי להשתמש בכל שירותי Mi.</string>
     <string name="unlogin_account_title">היכנס לחשבון Mi</string>
     <string name="unrestrict_max_aspect_ratio_title">יישומים אלה עובדים ביעילות במצב מסך מלא</string>
     <string name="update_new_version">קיים עדכון זמין</string>
     <string name="update_progress_for_updates">מעדכן (%s)</string>
     <string name="upload_debug_log_summary">סטטיסטיקות השימוש אשר מסייעות לנו לאתר ולפתור בעיות עשויות להכיל את פרטיך האישיים</string>
     <string name="upload_debug_log_title">שלח נתוני אבחון באופן אוטומטי</string>
+    <string name="usage_app_get_it">הבנתי</string>
+    <string name="usage_app_limit_alter_summary">"Looks like this time limit is shorter than the time you've been using this app today. Set limit anyway?"</string>
+    <string name="usage_app_limit_alter_title">בדוק את מגבלת זמן המסך</string>
+    <string name="usage_app_limit_prelong">הרחב זמן</string>
+    <string name="usage_app_limit_reach_summay">%s נותרו</string>
+    <string name="usage_app_limit_reach_title">%s is reaching its screen time limit</string>
+    <string name="usage_app_limit_summary">יישומים נבחרים לא יהיו זמינים כאשר תעבור את מכסת המגבלה</string>
+    <string name="usage_app_limit_title">זמן מסך מוגבל</string>
+    <string name="usage_app_other_settings">הגדרות נוספות</string>
+    <string name="usage_app_over_content">כבר השתמשת ביישום זה %s היום.</string>
+    <string name="usage_app_over_summary">עברת את המגבלה. הזמן עבר!</string>
+    <string name="usage_app_set_limit_time">הגדר מגבלות</string>
+    <string name="usage_app_system_app_summary">"Can't limit screen time for system apps"</string>
+    <string name="usage_app_weekday_limit">ימי חול</string>
+    <string name="usage_app_weekend_limit">סופי שבוע</string>
     <string name="usage_log">סטטיסטיקות שימוש ביישומים</string>
     <string name="usage_state_app_timer">זמן מסך</string>
     <string name="usage_state_app_usage_detail_title">פרטי השימוש בנתונים</string>
@@ -2758,7 +2848,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="usage_state_noti_mourth_day">התראות פועלות %s</string>
     <string name="usage_state_notification">ניהול התראות</string>
     <string name="usage_state_notification_manager">נהל יישומי התראות</string>
-    <string name="usage_state_remind_summary">הפעל על מנת לקבל התראות עבור זמן מסך. תוכל להגדיר הגבלות זמן עבור סופי שבוע וימי חול.</string>
+    <string name="usage_state_remind_summary">Turn on to receive screen time alerts</string>
     <string name="usage_state_remind_title">התראת זמן מסך</string>
     <string name="usage_state_rest_day">סופי שבוע</string>
     <string name="usage_state_saturday">ש</string>
@@ -2826,7 +2916,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="usb_tethering_active_subtext">מתבצע שיתוף אינטרנט</string>
     <string name="usb_tethering_available_subtext">מחובר ל-USB, בדוק כדי לשתף</string>
     <string name="usb_tethering_errored_subtext">שגיאת שיתוף חיבור לאינטרנט באמצעות USB</string>
-    <string name="usb_tethering_storage_active_subtext">לא’ ניתן לבצע שיתוף חיבור כאשר אחסון ה-USB נמצא בשימוש</string>
+    <string name="usb_tethering_storage_active_subtext">לא ניתן לבצע שיתוף חיבור כאשר אחסון ה-USB נמצא בשימוש</string>
     <string name="usb_tethering_unavailable_subtext">אין התקן USB מחובר</string>
     <string name="usb_use_photo_transfers">העברת תמונות (PTP)</string>
     <string name="use_personalized_ad_service">המלצות מותאמות אישית עבור פרסומות</string>
@@ -2899,6 +2989,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="volume_bluetooth_description">Bluetooth</string>
     <string name="volume_category_title">עוצמת שמע</string>
     <string name="volume_hifi_description">הגדרות Hi-Fi</string>
+    <string name="volume_label">עוצמה</string>
     <string name="volume_media_description">מוסיקה, וידאו, משחקים, ומדיה אחרת</string>
     <string name="volume_restore">אפס רמות</string>
     <string name="volume_restore_alert">לאפס את כל רמות עוצמת השמע להגדרות ברירת המחדל שלהן?</string>
@@ -3098,12 +3189,14 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>

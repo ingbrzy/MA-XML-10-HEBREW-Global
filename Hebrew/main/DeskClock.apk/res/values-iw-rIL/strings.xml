@@ -80,7 +80,9 @@
     <string name="hour_unit">שעות +</string>
     <string name="install_weather_app_error">לא ניתן היה לטעון את היישום</string>
     <string name="install_weather_app_loading">רק רגע…</string>
-    <string name="invalid_time">שעה לא חוקית: %3$s %1$d: %2$d</string>
+    <string name="invalid_time">"שעה לא חוקית:
+%3$s %1$d:
+%2$d "</string>
     <string name="invalid_timer_length">משך הזמן של הטיימר אינו חוקי</string>
     <string name="keep_screen_on">השאר את המסך דולק</string>
     <string name="korea_permission_calendar">לוח שנה</string>
@@ -167,11 +169,15 @@
     <string name="setting_alarm_arriving_summary">שלח התראה לפני צלצול</string>
     <string name="setting_alarm_arriving_title">התראה לפני צלצול</string>
     <string name="settings">הגדרות</string>
+    <string name="shortcut_new_alarm">Set alarm</string>
+    <string name="shortcut_start_timer">Start timer</string>
+    <string name="shortcut_stop_watch">Start stopwatch</string>
     <string name="shut_down_keep_screen">המסך לא יישאר דלוק</string>
     <string name="shutdown_alarm_disable_summary">השעון המעורר ישאר דלוק לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_enable_summary">השעון המעורר ישתתק במידה אם תגדיר אותו לפחות 5 דקות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="slider_text">החלק מעלה לכיבוי</string>
     <string name="snooze_confirm_cancel">כבה שעון מעורר</string>
@@ -190,6 +196,7 @@
     <string name="start_up">התחל</string>
     <string name="stopwatch_lap_empty_text">אין הקפות</string>
     <string name="stopwatch_title">שעון עצר</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">הגדרות</string>
     <string name="system_time_settings_category_title">הגדרות שעה</string>
     <string name="temperature_unit">℃</string>
@@ -243,6 +250,7 @@
     <string name="turn_off_this_repeat_alarm">בטל שעון מעורר חוזר זה</string>
     <string name="upcoming_alarm">השעון המעורר הבא: %s</string>
     <string name="upcoming_alarm_hint">באפשרותך לסגור שעון מעורר זה מראש</string>
+    <string name="update_notification_info">מעדכן ברקע…</string>
     <string name="user_agreement">הסכם משתמש</string>
     <string name="vibrate_pref_summary">הפעל רטט יחד עם צלצול השעון המעורר</string>
     <string name="vibrate_when_ringing">הפעל רטט בזמן צלצול</string>

@@ -21,10 +21,10 @@
     <string-array name="settings_search_contacts">
         <item>סנכרון אנשי קשר עם Mi Cloud</item>
         <item>הפעל/הגדר סנכרון</item>
-        <item>אנשי קשר;יומן שיחות;ענן;סנכרון;שירותי ענן, ענן Mi</item>
+        <item>אנשי קשר;יומן שיחות;ענן;סנכרון;שירותי ענן, Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_sms">
-        <item>סנכרן הודעות עם ענן Mi</item>
+        <item>סנכרן הודעות עם Mi Cloud</item>
         <item>הפעל/הגדר סנכרון</item>
         <item>הודעות;SMS;MMS;ענן;סנכרון; שירותי ענן; ענן Mi</item>
     </string-array>
@@ -34,7 +34,7 @@
         <item>גלריה; תמונות; ענן; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_dial">
-        <item>סנכרן את היסטוריית השיחות עם ענן Mi</item>
+        <item>סנכרן את היסטוריית השיחות עם Mi Cloud</item>
         <item>הפעל/הגדר סנכרון</item>
         <item>אנשי קשר;יומן שיחות;ענן;סנכרון;שירותי ענן, ענן Mi</item>
     </string-array>
@@ -54,22 +54,22 @@
         <item>פתקים; ענן; סנכרון; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>סנכרן הגדרות Wi-Fi עם ענן Mi</item>
+        <item>סנכרן הגדרות Wi-Fi עם Mi Cloud</item>
         <item>הפעל סנכרון</item>
         <item>WLAN;WI-FI;ענן;סנכרון;שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_calendar">
-        <item>סנכרן את לוח השנה עם ענן Mi</item>
+        <item>סנכרן את לוח השנה עם Mi Cloud</item>
         <item>הפעל סנכרון</item>
         <item>רשמקול;ענן;סנכרון; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_browser">
-        <item>סנכרן את הדפדפן עם ענן Mi</item>
+        <item>סנכרן את הדפדפן עם Mi Cloud</item>
         <item>הפעל סנכרון</item>
         <item>דפדפן;ענן;סנכרון; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>סנכרן אבטחה עם ענן Mi</item>
+        <item>סנכרן אבטחה עם Mi Cloud</item>
         <item>הפעל סנכרון</item>
         <item>אבטחה;ענן;סנכרון;שירותי ענן;ענן Mi</item>
     </string-array>
@@ -79,9 +79,9 @@
         <item>כספת יישומים;כרטיסים;ענן;סנכרון;שירותי ענן;ענן Mi</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
-        <item>ענן Mi. כל שירותי Mi במקום אחד.</item>
+        <item>Mi Cloud, כל שירותי Mi במקום אחד.</item>
         <item>גש אל תמונות, אנשי קשר, הודעות ומכשירים מכל מקום</item>
-        <item>אחסון לא מספיק; חברות; אחסון;נפח אחסון;ענן;סנכרון;שירותי ענן;ענן Mi;אשפה; פריטים שנמחקו;אבטחה</item>
+        <item>אחסון לא מספיק; חברות; אחסון;נפח אחסון;ענן;סנכרון;שירותי ענן; Mi Cloud;אשפה; פריטים שנמחקו;אבטחה</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>איתור המכשיר</item>
@@ -94,14 +94,14 @@
         <item>אתר מכשיר,אבד; ענן;סנכרון; שירותי ענן; ענן Mi</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
-        <item>פריטים שנמחקו מענן Mi</item>
+        <item>פריטים שנמחקו Mi Cloud</item>
         <item>שחזר אנשי קשר, תומונות, הודעות ועוד</item>
-        <item>אשפה;מחק פריטים;פח אשפה; שחזר; שירותי ענן; ענן Mi</item>
+        <item>אשפה;מחק פריטים;פח אשפה; שחזר; שירותי ענן; Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
         <item>חברות בשירות Mi Cloud</item>
         <item>שדרג חברות, קבל יותר מקום אחסון ואבטח את המידע שלך</item>
-        <item>אין מספיק מקום אחסון; חברות; אחסון; שטח אחסון; סנכרון ענן; שירותי ענן; ענן Mi; מגה; אולטרה; VIP; גיבוי; גיבוי; שחזור; אשפה; פריטים שנמחקו; פח אשפה</item>
+        <item>אין מספיק מקום אחסון; חברות; אחסון; שטח אחסון; סנכרון ענן; שירותי ענן; Mi Cloud; מגה; אולטרה; VIP; גיבוי; גיבוי; שחזור; אשפה; פריטים שנמחקו; פח אשפה</item>
     </string-array>
     <string-array name="settings_search_backup_setting">
         <item>גבה את מסך הבית על גבי ענן Mi</item>

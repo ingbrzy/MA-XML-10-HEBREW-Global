@@ -74,6 +74,12 @@
         <item quantity="two">%d הערות</item>
         <item quantity="many">%d הערות</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">%d day ago</item>
+        <item quantity="two">%d days ago</item>
+        <item quantity="many">%d days ago</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">למחוק %d פריטים?</item>
         <item quantity="one">למחוק פריט %d?</item>

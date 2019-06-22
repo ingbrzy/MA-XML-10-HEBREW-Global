@@ -50,6 +50,8 @@
     <string name="self_device_second_space">שטח שני של מכשיר טלפון זה</string>
     <string name="other_device_main_space">שטח ראשון</string>
     <string name="other_device_second_space">שטח משני</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>
     <string name="size_unknown">גודל לא ידוע</string>
     <string name="recovering">משחזר את %s</string>
@@ -100,7 +102,7 @@
     <string name="restore_task_cancelling">מבטל…</string>
     <string name="remove_task_in_process">מסיר…</string>
     <string name="remove_task_unfinished">ההעברה לא הסתיימה</string>
-    <string name="back_up_task_unfinished">הגיבוי לא הסתיים</string>
+    <string name="back_up_task_unfinished">לא ניתן היה לגבות</string>
     <string name="about_to_recover">רק רגע…</string>
     <string name="success_open_cloudbackup">"גיבוי יישומי 'מסך הבית' הופעל"</string>
     <string name="as_new_device">"החלף את 'מסך הבית' הקודם וההגדרות הישנות"</string>
@@ -134,6 +136,7 @@
     <string name="provision_error_connect_msg">בדוק את הרשת ונסה שוב. הגיבויים אינם זמינים כאשר מכשירך נמצא במצב לא מקוון.</string>
     <string name="provision_error_connect_title">לא ניתן להתחבר</string>
     <string name="loading_user_backup">טוען נתוני גיבוי משתמש…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">מחשב גודל…</string>
     <string name="authentication_failed">לא ניתן היה לאמת את החשבון.</string>
@@ -162,7 +165,7 @@
     <string name="dialog_btn_restore_skip">שחזר מאוחר יותר</string>
     <string name="dialog_btn_cancel_backup">ביטול</string>
     <string name="dialog_btn_overwrite_backup">כתוב במקום</string>
-    <string name="dialog_msg_overwrite_backup">גיבוי מקומי שונה מגיבוי ענן Mi. אם תמשיך, גיבוי נוכחי יחליף את הגיבוי הקודם.</string>
+    <string name="dialog_msg_overwrite_backup">גיבוי מקומי שונה מגיבוי Mi Cloud. אם תמשיך, גיבוי נוכחי יחליף את הגיבוי הקודם.</string>
     <string name="cloud_backup">גיבויי Mi Cloud</string>
     <string name="open_backup_switch">לחץ על מתג הגיבוי</string>
     <string name="restore_cloud_backup_to_phone">שחזור פריטים מ-Mi Cloud</string>
@@ -215,4 +218,10 @@
     <string name="provision_background_restore_more_data">שחזר יותר פריטים ברקע</string>
     <string name="selected">נבחר</string>
     <string name="unselected">לא נבחר</string>
+    <string name="backup_failed_reason_network_error">שגיאת רשת. המתן דקה או שתיים ונסה שוב.</string>
+    <string name="backup_failed_reason_disk_space_not_enough">אין מספיק שטח אחסון זמין. ראשית, פנה קצת שטח אחסון.</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">אין מספיק שטח אחסון על גבי ענן Mi. שדרג את התכנית שלך או פנה שטח אחסון.</string>
+    <string name="restore_task_unfinished">לא ניתן היה לשחזר</string>
+    <string name="restore_failed_reason_network_error">שגיאת רשת. המתן דקה או שתיים ונסה שוב.</string>
+    <string name="restore_failed_reason_disk_space_not_enough">אין מספיק שטח אחסון זמין. ראשית, פנה קצת שטח אחסון.</string>
 </resources>

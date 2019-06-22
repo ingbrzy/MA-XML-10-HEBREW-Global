@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
 גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">לא ניתן היה להתחיל את ההורדה, ודא כי מנהל ההורדות עובד כראוי.</string>
     <string name="app_name">גיבוי</string>
     <string name="local_app_name">גיבוי</string>
@@ -46,6 +49,7 @@
     <string name="restore_launcher_layout_hit">שחזר את הגדרות משגר היישומים</string>
     <string name="settings_summary">הגדרות טלפון והודעות</string>
     <string name="camera_summary">הגדרות המצלמה (לא כולל תמונות)</string>
+    <string name="gallery_summary">הגדרות גלריה</string>
     <string name="account_summary">גיבוי חשבון Google, חשבון Mi, ונתוני משתמש אחרים</string>
     <string name="cloud_app_name">גיבוי Mi Cloud</string>
     <string name="cloud_home_title">Mi Cloud</string>
@@ -226,6 +230,7 @@
     <string name="restore_backup">שחזור</string>
     <string name="enable_encrypt_description">הצפנה</string>
     <string name="disable_encrypt_description">ביטול הצפנה</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -234,6 +239,7 @@
     <string name="feature_title_contacts">אנשי קשר</string>
     <string name="feature_title_sms">הודעות</string>
     <string name="feature_title_mms">הודעת מולטימדיה (MMS)</string>
+    <string name="feature_title_mms_setting">הגדרות הודעה</string>
     <string name="feature_title_account">חשבון Mi</string>
     <string name="feature_title_antispam">רשימת החסומים</string>
     <string name="summary_err_backup_encrypting">היכנס לחשבון Mi שלך.</string>
@@ -392,9 +398,10 @@
     <string name="button_clean_garbage">פינוי שטח</string>
     <string name="button_quit">יציאה</string>
     <string name="soft_ap_creating">יוצר נקודה חמה…</string>
-    <string name="wait_link">"חבר את המכשיר הישן אל נקודה חמה.
- אל תעזוב דף זה עד סיום ההתחברות."</string>
-    <string name="old_way">תוכל גם להתחבר באמצעות קוד QR. לחץ על מנת בכדי ליצור קוד.</string>
+    <string name="wait_link">"פתח את Mi Mover במכשיר הישן,
+ לחץ \"אני השולח\" ובחר נקודה חמה להתחברות.
+ אל תסגור את הדף לפני שתצור התחברות."</string>
+    <string name="old_way">תוכל ליצור קוד QR על המכשיר החדש ואז לסרוק אותו באמצעות המכשיר הישן.</string>
     <string name="soft_ap_create_failed">לא ניתן היה ליצור נקודה חמה</string>
     <string name="scan_soft_ap_label">התחבר למכשיר הישן</string>
     <string name="scan_soft_ap">מחפש אחר מכשירים חדשים…</string>
@@ -565,6 +572,7 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
 עליך ליצור גיבוי iCloud תחילה."</string>
     <string name="list_footer_tip_title">טיפים:</string>
     <string name="import_tip_summary">עקב בעיות תאימות, באפשרותך להעביר נתונים חלקיים בלבד בלבד מהתקני iOS. ודא כי יצרת גיבוי iCloud לפני התחלת ההעברה.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">ייבוא</string>
     <string name="select_empty">בחירת פריטים לייבוא</string>
     <string name="select_item_summary_wait">ממתין…</string>
@@ -640,8 +648,14 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
     <string name="dialog_app_upgrade_message">גרסה חדשה של Mi Mover זמינה כעת. האם לעדכן את Mi Mover כעת?</string>
     <string name="dialog_app_upgrade_exit">יציאה</string>
     <string name="dialog_app_upgrade_download">עדכון</string>
-    <string name="dialog_backup_password_change_machine_tips">"You won't be able to transfer password-protected backups. Turn off backup password before using Mi Mover."</string>
-    <string name="dialog_backup_password_backup_tips">"Can't back up items when backup password is on. Turn off backup password."</string>
-    <string name="dialog_backup_password_cancel">Cancel</string>
-    <string name="dialog_backup_password_to_settings">Settings</string>
+    <string name="dialog_backup_password_change_machine_tips">לא תוכל להעביר גיבוי עבור סיסמאות-מוגנות. כבה את גיבוי עבור ססמאות בשימוש Mi Mover.</string>
+    <string name="dialog_backup_password_backup_tips">לא יכול לגבות פריטים כאשר גיבוי הסיסמאות מופעל. כבה את מגבה הסיסמאות.</string>
+    <string name="dialog_backup_password_cancel">ביטול</string>
+    <string name="dialog_backup_password_to_settings">הגדרות</string>
+    <string name="user_feedback">משוב</string>
+    <string name="iCloud_ID_verification_tip">הכנס את קוד אימות SMS למספר הטלפון המשויך למזהה חשבון Apple. התעלם מקוד המוקפץ המוצג על גבי צג ה iPhone שלך.</string>
+    <string name="trans_complete_restoring">הועבר בהצלחה. משחזר נתוני יישומים…</string>
+    <string name="dialog_backup_password_auto_backup_tips">לא יכול לגבות פריטים כאשר גיבוי הסיסמאות מופעל. כבה את מגבה הסיסמאות.</string>
+    <string name="dialog_backup_password_change_device_restore_tips">לא יכול לגבות פריטים כאשר גיבוי הסיסמאות מופעל. כבה את מגבה הסיסמאות תחילה.</string>
+    <string name="dialog_backup_password_restore_tips">לא יכול לשחזר פריטים כאשר גיבוי הסיסמאות מופעל. כבה את מגבה הסיסמאות תחילה.</string>
 </resources>

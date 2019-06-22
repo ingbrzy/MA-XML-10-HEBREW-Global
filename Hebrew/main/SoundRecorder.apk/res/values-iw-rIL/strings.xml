@@ -9,6 +9,9 @@
     <string name="button_queue_for_wifi">המתן</string>
     <string name="button_start_now">הורדה</string>
     <string name="call_record">שיחות מוקלטות</string>
+    <string name="call_record_list_group_all">הכל</string>
+    <string name="call_record_list_group_connected">מחובר</string>
+    <string name="call_record_list_group_unconnected">לא מחובר</string>
     <string name="clear_records">מחק הקלטות שסונכרנו</string>
     <string name="cloud_record_open">סנכרן הקלטות</string>
     <string name="cloud_record_tip">סנכרן הקלטות עם-Mi Cloud.</string>
@@ -140,6 +143,7 @@
     <string name="preference_record_scenes_dialog_title">בחר סוג הקלטה</string>
     <string name="preference_scenes">סוג ההקלטה</string>
     <string name="preference_silent_mode">השתק צלצול בעת הקלטה</string>
+    <string name="preference_status_bar_indicator_prompt">הצג את קיצור הדרך עבור שורת המצב כאשר אתה מקליט</string>
     <string name="preference_tip_rename">שנה את שמות ההקלטות באופן ידני</string>
     <string name="privacy_policy_title">מדיניות הפרטיות</string>
     <string name="recognition_error_cancel">בוטל</string>
@@ -231,6 +235,9 @@
     <string name="service_instructions">אודות iflyrec.com</string>
     <string name="share">שיתוף</string>
     <string name="share_dialog_title">שתף באמצעות</string>
+    <string name="shortcut_records">הקלטות</string>
+    <string name="shortcut_start_record">התחל הקלטה</string>
+    <string name="shortcut_stop_record">עצירת הקלטה</string>
     <string name="sound_recorder_settings">הגדרות</string>
     <string name="speech_recognition_complete">תומלל</string>
     <string name="speech_recognition_running_tip">"מעבד "</string>
