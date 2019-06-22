@@ -358,7 +358,6 @@
     <string name="private_dns_mode_provider">‏שם מארח של ספק DNS פרטי</string>
     <string name="private_dns_mode_provider_failure">לא ניתן היה להתחבר</string>
     <string name="private_dns_mode_provider_hostname_hint">‏צריך להזין את שם המארח של ספק DNS</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="remaining_length_format">נשארו %1$s</string>
     <string name="respond_via_sms_canned_response_1">לא נוח לי עכשיו. מה קורה?</string>
     <string name="respond_via_sms_canned_response_2">תיכף אחזור אליך.</string>
