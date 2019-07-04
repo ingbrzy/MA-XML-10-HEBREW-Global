@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>מיון לפי תאריך הקבלה</item>
+        <item>מיין לפי מספר ההתראות</item>
+        <item>יישומים המציגים התראות</item>
+        <item>יישומים המציגים התראות</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>הצג את תוכן ההתראה</item>
+        <item>"אל תאפשר התראות ב'מסך הנעילה'"</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>הצג את תוכן ההתראה</item>
+        <item>הצג את כל ההתראות אך הסתר את תוכנן</item>
+        <item>"אל תאפשר התראות ב'מסך הנעילה'"</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>אנדרואיד</item>
+    </string-array>
+</resources>

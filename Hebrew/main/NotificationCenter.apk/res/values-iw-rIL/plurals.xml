@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sent_frequency_per_day">
+        <item quantity="other">%d התראות היום</item>
+        <item quantity="one">%d התראה היום</item>
+        <item quantity="two">%d התראות היום</item>
+        <item quantity="many">%d התראות היום</item>
+    </plurals>
+    <plurals name="sent_frequency_per_week">
+        <item quantity="other">%d התראות השבוע</item>
+        <item quantity="one">התראה %d השבוע</item>
+        <item quantity="two">%d התראות השבוע</item>
+        <item quantity="many">%d התראות השבוע</item>
+    </plurals>
+</resources>

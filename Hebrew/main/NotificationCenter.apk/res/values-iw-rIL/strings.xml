@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">התראות</string>
+    <string name="default_list_type">מיון לפי תאריך הקבלה</string>
+    <string name="disable_float_notification">הודעות צפות זמינות אינן מאופשרות</string>
+    <string name="disable_lockscreen_notification">התראות במסך הנעילה אינן מאופשרות</string>
+    <string name="disable_show_badge_notification">התראות תגים אינן מאופשרות</string>
+    <string name="enable_float_notification">הודעות צפות זמינות כעת</string>
+    <string name="enable_lockscreen_notification">התראות במסך הנעילה מאופשרות כעת</string>
+    <string name="enable_show_badge_notification">התראות תגים מאופשרות</string>
+    <string name="expandable_under_keyguard">פתח את לוח ההתראות במסך הנעילה</string>
+    <string name="float_notifications">התראות צפות</string>
+    <string name="hint_search_all">חפש אחר יישומים</string>
+    <string name="hint_search_in_disabled_apps">חפש אחר יישומים שאינן מציגים התראות</string>
+    <string name="hint_search_in_enabled_apps">חפש אחר יישומים המציגים התראות</string>
+    <string name="list_title_disable_notification">התראות אינן מאופשרות</string>
+    <string name="loading">רק רגע…</string>
+    <string name="lock_screen_display_rules">פורמט</string>
+    <string name="lock_screen_tip_toast">ראשית, אפשר התראות \"באפשר התראות\"</string>
+    <string name="lockscreen_notifications">"התראות 'מסך הנעילה'"</string>
+    <string name="not_sent_recently">לא לאחרונה</string>
+    <string name="notification_display_setting">לוח ההתראות</string>
+    <string name="notification_display_style">סוג ההתראות</string>
+    <string name="notification_fold_summary">כל ההתראות שאינן חשובות יופיעו בתיקיה נפרדת</string>
+    <string name="notification_fold_title">תיקית התראות</string>
+    <string name="notification_manager">התראות יישום</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
+    <string name="off">כיבוי</string>
+    <string name="on">מופעל</string>
+    <string name="show_badge_notifications">התרעות תגים</string>
+    <string name="summary_disable_float_notification">הודעות צפות זמינות אינן מאופשרות</string>
+    <string name="summary_disable_lockscreen_notification">התראות במסך הנעילה אינן מאופשרות</string>
+    <string name="summary_disable_show_badge_notification">התראות תגים אינן מאופשרות</string>
+    <string name="summary_enable_float_notification">הודעות צפות זמינות כעת</string>
+    <string name="summary_enable_lockscreen_notification">התראות במסך הנעילה מאופשרות כעת</string>
+    <string name="summary_enable_show_badge_notification">התראות תגים מאופשרות</string>
+    <string name="summary_float_enable_notification_first">אפשר התראות על מנת להפעיל התראות צפות</string>
+    <string name="summary_lock_screen_enable_notification_first">אפשר התראות על מנת להפעיל התראות על גבי מסך הנעילה</string>
+    <string name="summary_show_badge_enable_notification_first">אפשר התראות על מנת להפעיל התראות תגים</string>
+</resources>
