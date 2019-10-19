@@ -17,7 +17,6 @@
     <string name="dialog_market_score_title_step2">תודה לך על המשוב!</string>
     <string name="dual_app_title">יישומים משוכפלים</string>
     <string name="dual_app_words">לכל חשבון מגיע יישום משלו</string>
-    <string name="empty">" "</string>
     <string name="fastboot_locked_answer_1">"Fastboot הינה השיטה המסורתית לצריבת מכשירי Mi. כאשר מכשירך נמצא במצב Fastboot, ניתן לגשת לכל הנתונים המאוחסנים בו ולמחוק אותם באופן ישיר. אנו נועלים את Fastboot על מנת לודא כי הנתונים שלך ישארו בטוחים במידה ותאבד את מכשירך, כמו גם על מנת להבטיח את מהימנות תכונות 'איתור המכשיר'."</string>
     <string name="fastboot_locked_answer_2">"במקרה של אובדן מכשירך, Fastboot יבטיח את בטחון הפריטים המאוחסנים בו. במידה ותבטל את נעילת Fastboot, לא תוכל עוד לנעול את מכשירך מרחוק או למחוק נתונים באמצעות 'איתור המכשיר'. לכן איננו ממליצים על ביטול נעילת Fastboot במכשירך."</string>
     <string name="fastboot_locked_answer_3">"עליך להשתמש בכלי לביטול הנעילה מאתר האינטרנט של MIUI. על מנת לבטל את נעילת המכשיר, עלינו לודא כי המכשיר שייך לך. לכן עליך להיכנס לחשבון Mi שלך ולהפעיל את 'איתור המכשיר'."</string>

@@ -116,7 +116,6 @@
     <string name="dialog_type_image">תמונות</string>
     <string name="dialog_type_text">מסמכים</string>
     <string name="dialog_type_video">סרטונים</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="display_name">הצג שם</string>
     <string name="domain">דומיין</string>
     <string name="download_success">ירד בהצלחה</string>
@@ -152,7 +151,6 @@
     <string name="favorite_ringtone">צלצולים</string>
     <string name="favorite_screen_cap">צילומי מסך</string>
     <string name="feedback_send_email_body_extra_info">אל תמחק את המידע שלהלן. זה יעזור לנו לאתר את הבעיה.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">ניתן לקריאה:</string>
     <string name="file_info_canwrite">ניתן לכתיבה:</string>
     <string name="file_info_ishidden">מוסתר:</string>

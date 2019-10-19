@@ -435,7 +435,6 @@
     <string name="not_limited_brand">ללא הגבלה</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
@@ -987,7 +986,6 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">נתונים סלולריים שנשלחו</string>
     <string name="usage_type_no_coverage">זמן ללא אות</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="power_screen">מסך</string>
     <string name="power_wifi">רשת אלחוטית</string>
@@ -1212,17 +1210,12 @@ Rolled over extra data"</string>
     <string name="power_center_list_item_auto_brightness">התאמת בהירות אוטומטית</string>
     <string name="power_center_list_item_deep_save_title">הגדרות מתקדמות</string>
     <string name="power_center_list_item_battery_status_time">"ש'"</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
-    <string name="power_center_list_item_battery_status_capacity">מיליאמפר</string>
     <string name="power_center_stop_scan_title">עצירת הסריקה</string>
     <string name="hide_mode_result_summary_text">התאמה אישית של חסכון בסוללה עבור כל יישום בנפרד</string>
     <string name="auto_task_result_summary_text">בגדרת משימות אוטומטיות עבור חסכון בסוללה</string>
     <string name="pc_settings_title">סוללה והגדרות ביצועים</string>
     <string name="pc_main_activity_back">חזרה</string>
     <string name="extreme_power_save_mode_card_summary">הפעל מצב חסכון מירבי בכדי לשמור על הסוללה כאשר היא נחלשת.</string>
-    <string name="power_center_list_item_battery_health_model_voltage">V %s</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s מיליאמפר</string>
     <string name="power_save_ps_limit">הגבל את פעילות יישומי המערכת</string>
     <string name="power_save_ps_freeze">הקפא יישומים ברקע</string>
     <string name="power_save_ps_clean">נקה מטמון כאשר המכשיר נעול</string>
@@ -1428,7 +1421,6 @@ Rolled over extra data"</string>
     <string name="menu_summary_networkassistants_4">חבילת הגלישה נגמרת</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1439,14 +1431,12 @@ Rolled over extra data"</string>
     <string name="menu_text_garbage_cleanup">מנקה</string>
     <string name="menu_summary_garbage_cleanup">אין אשפה</string>
     <string name="menu_summary_garbage_cleanup_ex">נקה קובצי זבל בנפח %s</string>
-    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">סוללה וביצועים</string>
     <string name="menu_summary_power_manager">מצב חיסכון בסוללה מאפשר זמן שימוש ארוך יותר בין טעינות</string>
     <string name="menu_summary_power_manager_1">הסוללה טעונה במלואה</string>
     <string name="menu_summary_power_manager_2">%s נותרו</string>
     <string name="menu_summary_power_manager_3">חבר מטען</string>
     <string name="menu_summary_power_manager_4">%s לטעינה מלאה</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">הסריקה הקודמת בוטלה</string>
     <string name="examination_score_100">הכל נראה תקין!</string>
     <string name="examination_score_80_100">מספר פריטים ניתנים לייעול</string>
@@ -1829,7 +1819,6 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -2455,7 +2444,6 @@ Rolled over extra data"</string>
     <string name="gb_advance_settings_reset_dialog_content">האם לשחזר את הגדרות היצרן כעת?</string>
     <string name="title_reply">רשום הערה</string>
     <string name="title_like">סמן ב\"אהבתי\"</string>
-    <string name="ellipsis">…</string>
     <string name="game_video_net_data">גלישה סלולרית</string>
     <string name="game_wid_viewpoint_buttom">קח הפסקה קצרה.</string>
     <string name="video_repeat">נגן שוב</string>

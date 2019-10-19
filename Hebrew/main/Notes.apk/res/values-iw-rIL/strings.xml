@@ -141,7 +141,6 @@
     <string name="note_sort_way">בחר כיצד למיין את ההערות שלך</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
-    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">תזכורת לפתק</string>
     <string name="permdesc_accessNote">יישומים זדוניים עשויים לעשות בכך שימוש על מנת לגשת לנתוניך האישיים.</string>
     <string name="permission_get_account_desc">סנכרון הפתקים עם הענן</string>

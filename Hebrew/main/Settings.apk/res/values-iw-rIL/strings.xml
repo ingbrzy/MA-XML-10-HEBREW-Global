@@ -480,7 +480,6 @@ ApatX–Adaptive: מצב קודק"</string>
 נראה שכבר עשית את הפעולות שלהלן, הוסף חשבון חשבון Mi שנית; אם לא תעשה זאת לא תוכל לפתוח את הנעילה של מכשירך."</string>
     <string name="bootloader_tips_ok">הבנתי</string>
     <string name="bootloader_tips_warning">אל תתנתק מהרשת, התנתק מחשבון Mi, בצע איפוס להגדרות יצרן או מחק נתוני מערכת.</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">צבע הנורית</string>
     <string name="breathing_light_color_summary">צבע הנורית בעת קבלת התראה חדשה</string>
     <string name="breathing_light_freq_summary">הבהב בקבלת התראות חדשות</string>
@@ -811,7 +810,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="dialog_title_hdmi_color_calibration">תיקון צבע קבוע מראש</string>
     <string name="dialog_title_login">היכנס לחשבון Mi שלך</string>
     <string name="dialog_yes">כן</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">הערה: תוכל להשתמש ביישום זה לאחר אתחול המכשיר רק במידה ותבטל את נעילת מכשירך</string>
     <string name="disable_overlays">השבת שכבת על של HW</string>
     <string name="disable_overlays_summary">השתמש תמיד ב-GPU עבור צלימת שכבות המסך</string>
@@ -839,7 +837,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="dndm_auto_button_title">"חזרה על תזמון מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_setting_group">מתוזמן</string>
     <string name="dndm_auto_time_setting">הגדר שעה</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">עד</string>
     <string name="dndm_auto_time_turn_off_title">"כבה אוטומטית את מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_time_turn_on">מ:</string>
@@ -2045,7 +2042,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="power_remaining_less_than_duration_only">נותרו פחות מ-%1$s</string>
     <string name="power_remaining_more_than_subtext">יותר מ-%1$s נותרו (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">נותרו יותר מ-%1$s</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_settings_title">ביצועי מערכת</string>
     <string name="power_usage_history">שימוש בסוללה</string>
     <string name="power_usage_summary_title">סוללה &amp; ביצועים</string>
@@ -2177,7 +2173,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="private_sms_need_to_unlock">דרושה סיסמה:</string>
     <string name="private_sms_recording_intro_header">צייר תבנית לפתיחה:</string>
     <string name="private_sms_reset_by_account">על מנת לאפס את סיסמתך, היכנס לחשבון Mi שלך</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">פעיל</string>
     <string name="provision_back">הקודם</string>
     <string name="provision_next">הבא</string>
@@ -2572,7 +2567,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="security_encryption_attention_3">יהיה עליך להגדיר סיסמה חדשה עבור מסך הנעילה.</string>
     <string name="security_encryption_attention_4">הקפד לזכור את סיסמת מסך הנעילה שלך, אחרת יהיה עליך לבצע איפוס מלא ולמחוק את כל הנתונים במכשיר זה.</string>
     <string name="security_encryption_attention_info">באפשרותך להצפין חשבונות, הגדרות, יישומים שהורדו ונתונים שלהם, מדיה וקבצים אחרים.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">חשוב</string>
     <string name="security_encryption_close_dialog_info">בחירה שלא להצפין את המכשיר באמצעות סיסמת מסך הנעילה עשויה לגרום לשירותי Google מסויימים להיות לא זמינים.</string>
     <string name="security_encryption_close_dialog_title">חזור אל הגנה באמצעות סיסמה כברירת מחדל</string>
@@ -2686,7 +2680,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">"התראות, לחצני בקרת נגן המוסיקה וקיצורי דרך לא יוצגו ב'מסך הנעילה'."</string>
     <string name="skip_step">דלג</string>
@@ -2768,7 +2761,6 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="status_bar_carrier_settings_no_sim_card">אין כרטיס SIM</string>
     <string name="status_bar_settings">התראות &amp; שורת מצב</string>
     <string name="status_bar_settings_all_app_display_loading">רק רגע…</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">התראות יישומים</string>
     <string name="status_bar_settings_notification_bar">לוח ההתראות</string>
     <string name="status_bar_settings_status_bar">שורת מצב</string>
@@ -3362,14 +3354,12 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
