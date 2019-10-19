@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>מדד איכות האויר %1$s</item>
+        <item>מדד איכות האויר %1$s</item>
+        <item>מדד איכות האויר %1$s</item>
+        <item>מדד איכות האויר %1$s</item>
+        <item>מדד איכות האויר %1$s</item>
+        <item>מדד איכות האויר %1$s</item>
+        <item>מדד איכות האויר %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -92,6 +110,7 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>LHDC</item>
         <item>אפשר קודים אופציונליים</item>
         <item>השבת קודים אופציונליים</item>
     </string-array>
@@ -103,7 +122,8 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>אפשר קודים אופציונליים</item>
+        <item>LHDC</item>
+        <item>השבת קודים אופציונליים</item>
         <item>השבת קודים אופציונליים</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">

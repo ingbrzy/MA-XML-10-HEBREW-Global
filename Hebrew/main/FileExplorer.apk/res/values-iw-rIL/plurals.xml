@@ -66,22 +66,4 @@
         <item quantity="two">%1$d פריטים נבחרו</item>
         <item quantity="many">%1$d פריטים נבחרו</item>
     </plurals>
-    <plurals name="search_head_hint_app">
-        <item quantity="other">קבצים קשורים ליישום \"%1$s\" (%2$d פריטים)</item>
-        <item quantity="one">קבצים קשורים ליישום \"%1$s\" (פריט %2$d)</item>
-        <item quantity="two">קבצים קשורים ליישום \"%1$s\" (%2$d פריטים)</item>
-        <item quantity="many">קבצים קשורים ליישום \"%1$s\" (%2$d פריטים)</item>
-    </plurals>
-    <plurals name="search_head_hint_file">
-        <item quantity="other">קבצים קשורים ל\"%1$s\" (%2$d פריטים)</item>
-        <item quantity="one">קבצים קשורים ל\"%1$s\" (פריט %2$d)</item>
-        <item quantity="two">קבצים קשורים ל\"%1$s\" (%2$d פריטים)</item>
-        <item quantity="many">קבצים קשורים ל\"%1$s\" (%2$d פריטים)</item>
-    </plurals>
-    <plurals name="search_head_hint_tag">
-        <item quantity="other">קבצים קשורים לתגית \"%1$s\" (%2$d פריטים)</item>
-        <item quantity="one">קבצים קשורים לתגית \"%1$s\" (פריט %2$d)</item>
-        <item quantity="two">קבצים קשורים לתגית \"%1$s\" (%2$d פריטים)</item>
-        <item quantity="many">קבצים קשורים לתגית \"%1$s\" (%2$d פריטים)</item>
-    </plurals>
 </resources>

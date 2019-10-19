@@ -11,12 +11,17 @@
     </string-array>
     <string-array name="backup_automatically_key_words">
         <item>גבה תמונות</item>
-        <item>סנכרן תמונות עם ענן Mi</item>
+        <item>סנכרן תמונות עם הענן</item>
     </string-array>
     <string-array name="last_weekend_title">
         <item>סופי השבוע שלי</item>
         <item>פיסות חיים</item>
         <item>זיכרונות סוף השבוע</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>העבר</item>
+        <item>העתק</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>ינואר</item>

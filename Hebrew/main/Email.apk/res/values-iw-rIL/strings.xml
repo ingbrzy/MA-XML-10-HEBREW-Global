@@ -35,7 +35,7 @@
     <string name="account_settings_incoming_summary">שם משתמש, סיסמה, והגדרות שרת אחרות</string>
     <string name="account_settings_login_dialog_content_fmt">"שם המשתמש או את הסיסמה עבור %s  שגויים.
  לעדכן אותם עכשיו?"</string>
-    <string name="account_settings_login_dialog_reason_fmt" formatted="false">לא ניתן היה להיכנס אל %s. השרת אומר: %s</string>
+    <string name="account_settings_login_dialog_reason_fmt">לא ניתן היה להיכנס אל %1$s. השרת אומר: %2$s</string>
     <string name="account_settings_login_dialog_title">לא ניתן היה להיכנס</string>
     <string name="account_settings_mail_check_frequency_dialog_title">"עליך לבצע רענון של 'דואר' באופן ידני על מנת לסנכן את דברי הדוא\"ל שלך"</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">"יהיה עליך לבצע סנכרון של 'דואר' באופן ידני על מנת שתוכל לסנכרן הודעות ואירועי לוח שנה."</string>
@@ -232,6 +232,7 @@
     <string name="battery_saver">חסכון בסוללה</string>
     <string name="battery_saver_keywords">חסכון בסוללה;שלח נתוני סוללה</string>
     <string name="bcc">העתק סמוי</string>
+    <string name="bcc_heading">"העתק סמוי: "</string>
     <string name="bill_center_setting">הגדרות חיוב</string>
     <string name="bill_center_setting_head">ייבא מידע מחשבונות אלה</string>
     <string name="bill_cycle_text">מחזור חיוב</string>
@@ -252,6 +253,7 @@
     <string name="cancel_pop3_attchemt_downloading">לא ניתן לבטל הורדות של קבצים מצורפים בחשבונות POP3</string>
     <string name="cant_move_or_change_labels">לא ניתן להעביר פריטים ממספר חשבונות.</string>
     <string name="cc">העתק</string>
+    <string name="cc_attribution">העתק: %1$s&lt;br></string>
     <string name="cc_bcc">העתק/העתק סמוי</string>
     <string name="cc_heading">"העתק: "</string>
     <string name="change_folders_selection_dialog_title">שנה תיקיות</string>
@@ -269,6 +271,7 @@
     <string name="click_download_all_content">[ לחץ על מנת להוריד תוכן ]</string>
     <string name="click_to_reload">הקש על המסך על מנת לרענן</string>
     <string name="collapse_recipient_details">צמצם את פרטי הנמען</string>
+    <string name="colon">:</string>
     <string name="compose">צור הודעה</string>
     <string name="compose_attachment_number_limit">לא ניתן לצרף יותר מ-10 קבצים</string>
     <string name="compose_paste_address_oob">יותר מידי תוים</string>
@@ -491,6 +494,7 @@
     <string name="gmail_web_login_required_message">היכנס ל-Gmail</string>
     <string name="have_auth_code">יש לי קוד</string>
     <string name="header_category_account">חשבונות</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">משוב</string>
     <string name="header_label_general_preferences">כללי</string>
     <string name="help_and_info">עזרה</string>
@@ -513,6 +517,7 @@
     <string name="invalid_recipient">"הכתובת %s  אינה חוקית."</string>
     <string name="invalid_recipient_title">שגיאת נמען</string>
     <string name="kilobytes">%s KB</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">אין עדיין מיילים.</string>
     <string name="load_from_remote">חיפוש בתיבת הדואר בשרת</string>
     <string name="load_more">טען עוד</string>
@@ -761,7 +766,7 @@
     <string name="permission_read_attachment_label">קרא קבצים מצורפים</string>
     <string name="phone">טלפון</string>
     <string name="photo_load_failed">לא ניתן היה לטעון את התמונה</string>
-    <string name="photo_view_count" formatted="false">%d מתוך %d</string>
+    <string name="photo_view_count">%1$d מתוך %2$d</string>
     <string name="please_fill_in_your_mailbox_information2">הזן את פרטי תיבת הדואר שלך</string>
     <string name="pls_parse_bill_discribe">"נתח חשבונות ומידע אודות טיולים בדוא\"ל שלך
 על מנת לקבל תזכורות אודות תשלומים וטיולים"</string>
@@ -900,13 +905,14 @@
     <string name="refreshing_done">בוצע</string>
     <string name="release_to_refresh">שחרר לרענון</string>
     <string name="remind_attachment_size_limit">על דברי הדוא\"ל שלך להיות בגודל של פחות מ-%sMB</string>
+    <string name="remote_no_mail">אין מיילים נוספים הנמצאים על השרת.</string>
     <string name="remove_account">הסר את החשבון</string>
     <string name="remove_folder">הסר מ- %1$s</string>
     <string name="remove_star">הסר סימון בכוכב</string>
     <string name="reply">השב</string>
     <string name="reply_add_bodycontent">להוסיף את התשובה לגוף ההודעה?</string>
     <string name="reply_all">השב לכולם</string>
-    <string name="reply_attribution" formatted="false">%s כתב/ה בתאריך %s:</string>
+    <string name="reply_attribution">%2$s כתב/ה בתאריך %1$s:</string>
     <string name="report_phishing">דווח על דיוג</string>
     <string name="report_spam">דווח כספאם</string>
     <string name="request_copy_db_to_disk">"'דואר' מבקש להעתיק את מסד הנתונים שלך לתוך קובץ"</string>
@@ -984,12 +990,13 @@
     <string name="silent_ringtone">השתק</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">הסיסמה עבור שרת הדואר היוצא שגויה</string>
     <string name="sort_attachment">מיין לפי</string>
     <string name="storage">אחסון</string>
     <string name="str_select_all">בחר הכל</string>
     <string name="str_select_none">הסר בחירה מהכל</string>
-    <string name="subject_and_snippet" formatted="false">%s — %s</string>
+    <string name="subject_and_snippet">%1$s — %2$s</string>
     <string name="subject_hint">נושא</string>
     <string name="sync_contacts_fail_per_content">לחץ על מנת לאפשר גישה לאנשי הקשר</string>
     <string name="sync_contacts_fail_per_title">לא ניתן היה לסנכרן אנשי קשר</string>

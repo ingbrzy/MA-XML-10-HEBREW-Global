@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="feed_back_home">
+        <item quantity="other">חוזר לעמוד הבית בעוד %1$dשניות…</item>
+        <item quantity="one">חוזר לעמוד הבית בעוד שנייה %1$d…</item>
+        <item quantity="two">חוזר לעמוד הבית בעוד %1$dשניות…</item>
+        <item quantity="many">חוזר לעמוד הבית בעוד %1$dשניות…</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">הכתוביות יוצגו בהקדם של %.1f שניות</item>
         <item quantity="one">הכתוביות יוצגו בהקדם של שניה %.1f</item>
@@ -36,28 +42,58 @@
         <item quantity="two">%d סרטונים</item>
         <item quantity="many">%d סרטונים</item>
     </plurals>
-    <plurals name="pw_comment_count">
-        <item quantity="other">%d הערות</item>
-        <item quantity="one">הערה %d</item>
-        <item quantity="two">%d הערות</item>
-        <item quantity="many">%d הערות</item>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">למחוק %s פריטים כעת?</item>
+        <item quantity="one">למחוק פריט %s כעת?</item>
+        <item quantity="two">למחוק %s פריטים כעת?</item>
+        <item quantity="many">למחוק %s פריטים כעת?</item>
     </plurals>
-    <plurals name="pw_comment_sub_count">
-        <item quantity="other">%d תגובות</item>
-        <item quantity="one">תגובה %d</item>
-        <item quantity="two">%d תגובות</item>
-        <item quantity="many">%d תגובות</item>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">פריטים %s נבחרו</item>
+        <item quantity="one">פריט %s נבחר</item>
+        <item quantity="two">פריטים %s נבחרו</item>
+        <item quantity="many">פריטים %s נבחרו</item>
     </plurals>
-    <plurals name="pw_comment_view_all_comment">
-        <item quantity="other">הצג %d הערות</item>
-        <item quantity="one">הצג הערה %d</item>
-        <item quantity="two">הצג %d הערות</item>
-        <item quantity="many">הצג %d הערות</item>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">גודל קובץ: %.2f ק\"ב</item>
+        <item quantity="one">גודל קובץ: %.2f ק\"ב</item>
+        <item quantity="two">גודל קובץ: %.2f ק\"ב</item>
+        <item quantity="many">גודל קובץ: %.2f ק\"ב</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s תוצאות עבור %1$s</item>
+        <item quantity="one">%2$s תוצאה עבור %1$s</item>
+        <item quantity="two">%2$s תוצאות עבור %1$s</item>
+        <item quantity="many">%2$s תוצאות עבור %1$s</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d תמונות</item>
+        <item quantity="one">תמונה %d</item>
+        <item quantity="two">%d תמונות</item>
+        <item quantity="many">%d תמונות</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d סרטונים</item>
+        <item quantity="one">סרטון %d</item>
+        <item quantity="two">%d סרטונים</item>
+        <item quantity="many">%d סרטונים</item>
     </plurals>
     <plurals name="subscriber">
-        <item quantity="other">  מנויים</item>
-        <item quantity="one">  מנוי</item>
-        <item quantity="two">  מנויים</item>
-        <item quantity="many">  מנויים</item>
+        <item quantity="other">%s מנויים</item>
+        <item quantity="one">מנוי%s </item>
+        <item quantity="two">%s מנויים</item>
+        <item quantity="many">%s מנויים</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">הכתוביות הועברו %.1f שניות קדימה</item>
+        <item quantity="one">הכתוביות הועברו שניה %.1f קדימה</item>
+        <item quantity="two">הכתוביות הועברו %.1f שניות קדימה</item>
+        <item quantity="many">הכתוביות הועברו %.1f שניות קדימה</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">הכתוביות מושהות למשך %.1f שניות</item>
+        <item quantity="one">הכתוביות מושהות למשך שניה %.1f</item>
+        <item quantity="two">הכתוביות מושהות למשך %.1f שניות</item>
+        <item quantity="many">הכתוביות מושהות למשך %.1f שניות</item>
     </plurals>
 </resources>

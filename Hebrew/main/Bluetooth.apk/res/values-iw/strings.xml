@@ -32,7 +32,7 @@
     <string name="bt_enable_title" />
     <string name="bt_error_btn_ok">אישור</string>
     <string name="bt_share_picker_label">Bluetooth</string>
-    <string name="bt_sm_2_1">‏אין מספיק שטח אחסון בכרטיס ה-SD לשמירת הקובץ מאת %1$s</string>
+    <string name="bt_sm_2_1">‏אין מספיק שטח פנוי באחסון ה-USB לשמירת הקובץ מאת %1$s</string>
     <string name="bt_sm_2_2">שטח דרוש: %1$s</string>
     <string name="bt_toast_1">"הקובץ יתקבל. בדוק את ההתקדמות בחלונית 'הודעות'."</string>
     <string name="bt_toast_2">לא ניתן לקבל את הקובץ.</string>
@@ -93,7 +93,9 @@
     <string name="opp_notification_group">‏שיתוף Bluetooth</string>
     <string name="outbound_history_title">העברות יוצאות</string>
     <string name="outbound_noti_title">‏שיתוף Bluetooth: נשלחו קבצים</string>
+    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">‏תם הזמן שהוקצב להסכמה לחיבור עם %1$s</string>
+    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">‏תם הזמן הקצוב להזנת קוד הפעלה עם %1$s</string>
     <string name="pbap_notification_group">‏שיתוף אנשי קשר באמצעות Bluetooth</string>
     <string name="pbap_session_key_dialog_header">‏דרוש קוד הפעלת Bluetooth</string>
@@ -108,7 +110,7 @@
     <string name="status_connection_error">החיבור נכשל.</string>
     <string name="status_file_error">בעיית אחסון.</string>
     <string name="status_forbidden">מכשיר היעד לא התיר את ההעברה.</string>
-    <string name="status_no_sd_card">‏אין כרטיס SD. הכנס כרטיס SD כדי לשמור קבצים שהועברו.</string>
+    <string name="status_no_sd_card">‏אין אחסון USB.</string>
     <string name="status_not_accept">התוכן אינו נתמך.</string>
     <string name="status_pending">העברת הקובץ עדיין לא החלה.</string>
     <string name="status_protocol_error">לא ניתן לטפל בבקשה כהלכה.</string>

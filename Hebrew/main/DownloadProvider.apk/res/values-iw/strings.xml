@@ -7,7 +7,7 @@
     <string name="permdesc_downloadManagerAdvanced">מאפשר לאפליקציה לגשת לפונקציות המתקדמות של מנהל ההורדות. אפליקציות זדוניות עלולות לנצל אפשרות זו כדי לשבש הורדות ולגשת למידע פרטי.</string>
     <string name="permlab_downloadCompletedIntent">שלח התראות על הורדות.</string>
     <string name="permdesc_downloadCompletedIntent">מאפשר לאפליקציה לשלוח התראות לגבי הורדות שהסתיימו. אפליקציות זדוניות עלולות לנצל אפשרות זו כדי לבלבל אפליקציות אחרות המורידות קבצים.</string>
-    <string name="permlab_seeAllExternal">‏הצג את כל ההורדות לכרטיס SD</string>
+    <string name="permlab_seeAllExternal">‏הצג את כל ההורדות לאמצעי אחסון מסוג USB</string>
     <string name="permdesc_seeAllExternal">‏מאפשר לאפליקציה לראות את כל ההורדות לכרטיס ה-SD, בלי קשר לאפליקציה שהורידה אותן.</string>
     <string name="permlab_downloadCacheNonPurgeable">שמור מקום בקובץ השמור של ההורדות</string>
     <string name="permdesc_downloadCacheNonPurgeable">מאפשר לאפליקציה להוריד קבצים לקובץ השמור של הורדות שלא ניתן למחוק באופן אוטומטי כאשר דרוש למנהל ההורדות שטח נוסף.</string>
@@ -37,4 +37,5 @@
     <string name="download_queued">בתור</string>
     <string name="download_running">מתבצע</string>
     <string name="download_error">נכשל</string>
+    <string name="download_running_percent">מתבצע, %s</string>
 </resources>

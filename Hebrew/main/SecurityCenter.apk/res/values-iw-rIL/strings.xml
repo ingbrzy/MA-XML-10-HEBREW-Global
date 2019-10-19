@@ -73,7 +73,7 @@
     <string name="dlg_not_block_call">לבטל את חסימת המספרים שנבחרו? הם יתווספו לרשימת החריגים, אך פריטים אשר נחסמו בעבר לא יוצגו ביומן השיחות.</string>
     <string name="dlg_update_date_title">אזהרה</string>
     <string name="dlg_update_data_content">אינך מחובר לרשת האלחוטית. שימוש בנתונים סלולריים עשוי להוביל לחיובים נוספים. להמשיך בכל זאת?</string>
-    <string name="dlg_sec_network_unavailable">"יישום ה'אבטחה' אינו יכול לבצע עדכון כיוון שהגבלת את החיבור לאינטרנט. לאפשר ל'אבטחה' להתחבר לאינטרנט?"</string>
+    <string name="dlg_sec_network_unavailable">לא ניתן לעדכן את יישום האבטחה כי הגבלת את החיבור לאינטרנט. לאפשר ליישום האבטחה להתחבר לאינטרנט?</string>
     <string name="dlg_update_btn_contiue">המשך</string>
     <string name="dlg_update_btn_open">אפשר</string>
     <string name="dlg_update_updating">מעדכן…</string>
@@ -142,7 +142,7 @@
     <string name="sms_filter">מסנן חכם</string>
     <string name="sms_keywords">רשימת מילות מפתח חסומות</string>
     <string name="sms_service">חסום מסרוני שירות</string>
-    <string name="sms_stranger_block">חסום מסרונים מזרים</string>
+    <string name="sms_stranger_block">נחסם</string>
     <string name="sms_contact_block">חסום מסרונים מאנשי קשר</string>
     <string name="sms_malicious_url">חסום מסרונים המכילים קישורים זדוניים</string>
     <string name="sms_cloud_block">רשימת חסומים בענן</string>
@@ -168,7 +168,9 @@
     <string name="sms_delete_title">מחיקת הודעות</string>
     <string name="call_delete_title">מחיקת יומן שיחות</string>
     <string name="sms_delete_hint">למחוק את כל ההודעות החסומות ממספר זה?</string>
+    <string name="sms_delete_all_hint">מחק את כל ההודעות כעת?</string>
     <string name="call_delete_hint">למחוק את כל השיחות החסומות ממספר זה?</string>
+    <string name="call_delete_all_hint">מחק את כל השיחות שנחסמו?</string>
     <string name="backsound_set_hint">"להגדיר את הודעת ה'לא זמין' שלך כ: %s?"</string>
     <string name="report">דווח</string>
     <string name="report_only">בחר הודעה לדיווח</string>
@@ -178,6 +180,7 @@
     <string name="report_warning_title">שים לב</string>
     <string name="st_sub_title_customize_mode_name">שם</string>
     <string name="read_all_sms">קרא הכל</string>
+    <string name="delete_all_sms">מחק הכל</string>
     <string name="loding">טוען נתונים</string>
     <string name="action_source_sms_title">הודעות חסומות</string>
     <string name="action_source_call_title">שיחות חסומות</string>
@@ -207,6 +210,7 @@
     <string name="st_antispam_title_anoy_incoming">שיחות מזרים</string>
     <string name="st_antispam_title_null_incoming">מספרים חסויים</string>
     <string name="st_antispam_title_service_sms">התראות שירות</string>
+    <string name="st_antispam_title_mms">הודעת מולטימדיה (MMS)</string>
     <string name="st_summary_keywords_blacklist">הוסף מילות מפתח לחסימת הודעות</string>
     <string name="st_summary_blacklist_numbers">חסום קבלת שיחות והודעות ממספרים ואזורים מסויימים</string>
     <string name="st_summary_whitelist_numbers">אפשר קבלת שיחות והודעות ממספרים ואזורים מסויימים</string>
@@ -290,7 +294,7 @@
     <string name="st_share_settings">השתמש בהגדרות של SIM 1</string>
     <string name="st_msg_settings">רשימת מסרונים חסומים</string>
     <string name="st_msg_intercept_contacts">חסום מסרונים מאנשי קשר</string>
-    <string name="st_msg_stranger_group">חסום מסרונים מזרים</string>
+    <string name="st_msg_stranger_group">חסום הודעות מזרים</string>
     <string name="st_msg_other_group">אחר</string>
     <string name="st_msg_keyword_group">מילות מפתח</string>
     <string name="st_msg_keyword_black">רשימת מילות מפתח חסומות</string>
@@ -312,11 +316,11 @@
     <string name="st_confirm_dialog_summary_contact_call">כל השיחות מאנשי קשר יחסמו.</string>
     <string name="st_confirm_dialog_summary_oversea_call">הפעל על מנת לחסום שיחות נכנסות ממספרי טלפון מחו\"ל.</string>
     <string name="cta_dialog_title">חיבור אינטרנט</string>
-    <string name="cta_dialog_msg">&lt;Data>תהיה חייב להסכים ל&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">מדיניות פרטיות&lt;/a> לפני שתשתמש באבטחה. אבטחה תזדקק לחיבור לרשת האינטרנט וגישה אל מיקומך על מנת לעבוד באופן תקין ועל מנת לשמור את תכנת האנטי וירוס מעודכנת. האם אתה מסכים?&lt;/Data></string>
     <string name="cta_dialog_negative">יציאה</string>
     <string name="cta_dialog_positive">מסכים</string>
     <string name="cta_settings">אפשר חיבור לאינטרנט</string>
-    <string name="gdpr_msg">"&lt;Data>על מנת שתוכל להשתמש בתכונות הבסיסיות של 'אבטחה', עליך להסכים לכך ש-Xiaomi תאסוף, תעבד ותשתמש בנתונים האישיים שלך, כולל מידע אודות הדרכים בהן הינך משתמש בתכונות האבטחה (לדוגמה: סטטיסטיקות של שימוש בנתונים סלולריים, מידע אודות תוכנות זדוניות, וכמו כן מידע בסיסי אודות מכשירך) ובסוגים אחרים של מידע המצויינים ב&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">מדיניות הפרטיות&lt;/a> שלנו.&lt;/Data>"</string>
+    <string name="gdpr_msg">&lt;Data>בכדי להשתמש במאפיינים הבסיסיים של יישום האבטחה, עליך להסכים לכך ש-Xiaomi תאסוף, תעבד ותשתמש בנתונים האישיים שלך, כולל מידע על שימושך במאפייני יישום האבטחה (למשל, נתונים סטטיסטיים על שימוש באינטרנט סלולרי, מידע על תכונות זדוניות וגם מידע בסיסי אודות המכשיר), ובסוגי מידע אחרים כפי שמפורט &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">במדיניות הפרטיות&lt;/a>.שלנו&lt;/Data></string>
+    <string name="cta_main_purpose">ברוכים הבאים לאבטחה! תוכל להשתמש ביישום זה בכדי לנקות שאריות קבצים ונתונים, לאתר ולהסיר וירוסים, למטב את הביצועים עבור משחקים, לחסוך בחיי סוללה, לנהל יישומים, ועוד.</string>
     <string name="app_name_na">שימוש בנתונים</string>
     <string name="list_empty_text">ריק</string>
     <string name="dialog_title_attention">שים לב</string>
@@ -431,6 +435,7 @@
     <string name="not_limited_brand">ללא הגבלה</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
@@ -939,7 +944,7 @@ Rolled over extra data"</string>
     <string name="om_running_system_apps">יישומי מערכת פעילים</string>
     <string name="om_running_third_apps">הפעל יישומי צד שלישי</string>
     <string name="om_locked_apps_summary">האצת מהירות תתעלם מיישומים נעולים.</string>
-    <string name="power_center_title">אופטימיזציית (ייעול) סוללה</string>
+    <string name="power_center_title">סוללה וביצועים</string>
     <string name="power_center_back">חזרה</string>
     <string name="power_center_auto_shutdown">תזמון כיבוי/הפעלה</string>
     <string name="power_center_ontime_boot">זמן הפעלה</string>
@@ -982,6 +987,7 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">נתונים סלולריים שנשלחו</string>
     <string name="usage_type_no_coverage">זמן ללא אות</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="power_screen">מסך</string>
     <string name="power_wifi">רשת אלחוטית</string>
@@ -989,6 +995,8 @@ Rolled over extra data"</string>
     <string name="power_cell">מצב המתנה סלולרי</string>
     <string name="power_phone">שיחות קוליות</string>
     <string name="power_idle">מצב המתנה</string>
+    <string name="power_ambient_display">תצוגה רגישה לסביבה</string>
+    <string name="battery_desc_ambient_display">צריכת אנרגיה בתצוגה רגישה לסביבה</string>
     <string name="usage_type_cpu">סה\"כ CPU</string>
     <string name="usage_type_cpu_foreground">CPU בחזית</string>
     <string name="usage_type_wake_lock">השאר עירני</string>
@@ -1056,7 +1064,7 @@ Rolled over extra data"</string>
     <string name="btn_text_optimize_now">ייעל</string>
     <string name="btn_text_optimize_manually">ייעל באופן ידני</string>
     <string name="battery_history_activity_title">היסטוריה</string>
-    <string name="btn_text_goto_power_rank">הצג דירוג סוללה</string>
+    <string name="btn_text_goto_power_rank">הצג סטיסטיקה</string>
     <string name="btn_text_goto_setup">עבור להגדרות</string>
     <string name="power_save_title_text">חסכון בסוללה</string>
     <string name="power_save_summary_text">"הפעל את 'חסכון בסוללה' להפחתת פעילות רקע של יישומים, הפסקת סנכרון, וצמצום אנימציות מערכת."</string>
@@ -1082,7 +1090,7 @@ Rolled over extra data"</string>
     <string name="deep_power_save_item_title_bluetooth">כיבוי Bluetooth</string>
     <string name="deep_power_save_item_summary_bluetooth">"כבה את הבלוטות' לחיסכון בסלולה"</string>
     <string name="deep_power_save_item_title_lock_screen_time">הפעל מצב מסך שינה</string>
-    <string name="deep_power_save_item_summary_lock_screen_time">שים מסך במצב שינה לאחר 30 שניות של חוסר פעילות בכדי לשמור על סוללה</string>
+    <string name="deep_power_save_item_summary_lock_screen_time">שים מסך במצב שינה לאחר 15 שניות של חוסר פעילות בכדי לשמור על סוללה</string>
     <string name="power_save_mode_enable">חסכון בסוללה</string>
     <string name="power_save_mode_summary">נטר תהליכי רקע וכבה את הסנכרון.</string>
     <string name="power_optimize_save_mode_not_opened">"'חסכון בסוללה' כבוי"</string>
@@ -1204,12 +1212,17 @@ Rolled over extra data"</string>
     <string name="power_center_list_item_auto_brightness">התאמת בהירות אוטומטית</string>
     <string name="power_center_list_item_deep_save_title">הגדרות מתקדמות</string>
     <string name="power_center_list_item_battery_status_time">"ש'"</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">מיליאמפר</string>
     <string name="power_center_stop_scan_title">עצירת הסריקה</string>
     <string name="hide_mode_result_summary_text">התאמה אישית של חסכון בסוללה עבור כל יישום בנפרד</string>
     <string name="auto_task_result_summary_text">בגדרת משימות אוטומטיות עבור חסכון בסוללה</string>
-    <string name="pc_settings_title">הגדרות ייעול סוללה</string>
+    <string name="pc_settings_title">סוללה והגדרות ביצועים</string>
     <string name="pc_main_activity_back">חזרה</string>
     <string name="extreme_power_save_mode_card_summary">הפעל מצב חסכון מירבי בכדי לשמור על הסוללה כאשר היא נחלשת.</string>
+    <string name="power_center_list_item_battery_health_model_voltage">V %s</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s מיליאמפר</string>
     <string name="power_save_ps_limit">הגבל את פעילות יישומי המערכת</string>
     <string name="power_save_ps_freeze">הקפא יישומים ברקע</string>
     <string name="power_save_ps_clean">נקה מטמון כאשר המכשיר נעול</string>
@@ -1229,20 +1242,40 @@ Rolled over extra data"</string>
     <string name="power_setting_category_other">הגדרות נוספות</string>
     <string name="power_setting_background_app_save_title">רקע עבור חסכון בסוללה</string>
     <string name="power_setting_background_app_save_summary">הגבל את פעילות היישומים ברקע ללא השפעה על הפונקציונליות</string>
+    <string name="power_setting_warm_configure">בקרת טמפרטורה</string>
+    <string name="power_setting_config_scenario_policies_title">תרחישים</string>
+    <string name="power_setting_scenario_policies_summary">זהה תרחישים על מנת להחליף בין מצבי חיסכון באנרגיה באופן אוטומטי</string>
+    <string name="power_setting_important_warning">שים לב</string>
+    <string name="power_setting_warm_performance_tip">תרחישים בהם צריכת האנרגיה תהיה גבוהה טמפרטורת המכשיר שלך תעלה מעל לברירת המחדל של מצב טמפרטורת המכשרי שלך.</string>
+    <string name="power_setting_features">תכונות מיוחדות</string>
+    <string name="power_setting_wireless_reverse_charging_title">טעינת רשת אלחוטית אחורית</string>
+    <string name="power_setting_wireless_reverse_charging_summary">טען מכשירים תומאים באמצעות רשת אלחוטית</string>
+    <string name="battery_and_property">סוללה וביצועים</string>
     <string name="power_settings_lock_screen_saver_title">הגדרות מסך נעילה</string>
     <string name="quick_optimize_sub_summary_with_battery_text">התווסף %1$s, נותרו בערך %2$s</string>
     <string name="quick_optimize_sub_battery_text">נותרו בערך %s</string>
     <string name="power_main_battery_last_day_hour">"%1$s ימים %2$s ש' נותרו"</string>
-    <string name="power_main_battery_last_hour_minute">%1$sh %2$sm remaining</string>
-    <string name="pc_main_battery_text_day">Added %1$sm, about %2$sd remaining</string>
-    <string name="pc_main_battery_text_day_hour">Added %1$sm, about %2$sd %3$sh remaining</string>
-    <string name="pc_main_battery_text_hour">Added %1$sm, about %2$sh remaining</string>
-    <string name="pc_main_battery_text_hour_minute">Added %1$sm, about %2$sh %3$sm remaining</string>
-    <string name="pc_main_battery_text_minute">Added %1$sm, about %2$sm remaining</string>
-    <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh remaining</string>
-    <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm remaining</string>
-    <string name="pc_main_power_manager_day_hour">%1$sd %2$sh until fully charged</string>
-    <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm until fully charged</string>
+    <string name="power_main_battery_last_hour_minute">"%1$s ש' %2$s ד' נותרו"</string>
+    <string name="pc_main_battery_text_day">"התווספו %1$s ד', בערך %2$s ד' נותרו"</string>
+    <string name="pc_main_battery_text_day_hour">"התווספו %1$s ד', בערך %2$s ד' %3$s ש' נותרו"</string>
+    <string name="pc_main_battery_text_hour">"התווספו %1$s ד', בערך %2$s ש' נותרו"</string>
+    <string name="pc_main_battery_text_hour_minute">"התווספו %1$s ד', בערך %2$s ש' %3$s ד' נותרו"</string>
+    <string name="pc_main_battery_text_minute">"התווספו %1$s ד', בערך %2$s ד' נותרו"</string>
+    <string name="pc_main_sub_battery_text_day_hour">"%1$s ימים %2$s ש' נותרו"</string>
+    <string name="pc_main_sub_battery_text_hour_minute">"%1$s ש' %2$s ד' נותרו"</string>
+    <string name="pc_main_power_manager_day_hour">"%1$s ימים %2$s ש' עד לטעינה מלאה"</string>
+    <string name="pc_main_power_manager_hour_minute">"%1$s שעות %2$s ד' לטעינה מלאה"</string>
+    <string name="battery_statistics_activity_title">פרטי השימוש בסוללה</string>
+    <string name="pc_battery_history_consume_rank_menu_item">דירוג</string>
+    <string name="pc_battery_history_battery_detail_menu_item">פרטים</string>
+    <string name="pc_battery_history_rank_percent_menu_item">אחוזים</string>
+    <string name="pc_battery_history_rank_mha_menu_item">מיליאמפר לשעה</string>
+    <string name="pc_battery_detail_curve_reference_now">כעת</string>
+    <string name="pc_battery_detail_device_item_title">פרטי השימוש בסוללה</string>
+    <string name="pc_statistics_battery_use_title">שימוש בסוללה</string>
+    <string name="pc_statistics_battery_use_summary">%s עד ההטענה האחרונה</string>
+    <string name="pc_statistics_battery_use_hour_minute">"%1$dש' %2$d ד' מאז ההטענה האחרונה"</string>
+    <string name="pc_statistics_battery_last_hour_minute">"%1$d ש' %2$d ד' נותרו"</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s מרוקן סוללה</string>
     <string name="notification_battery_scan_consume_abnormal_summary">לחץ על מנת לפתור את הבעיה</string>
     <string name="pc_abnormal_scan_reason_prevent_standby">מונע מהמערכת להיכנס למצב שינה</string>
@@ -1252,6 +1285,38 @@ Rolled over extra data"</string>
     <string name="pc_abnormal_scan_reason_wake_system">מעיר את המערכת באופן תכוף מדיי</string>
     <string name="pc_abnormal_scan_reason_reconnect">מנסה להתחבר לרשת באופן תכוף מדיי</string>
     <string name="pc_abnormal_scan_button_text">סגירת יישומים</string>
+    <string name="superpower_settings">חיסכון קיצוני בסוללה</string>
+    <string name="superpower_notification_time_12">EEEE, d MMMM</string>
+    <string name="superpower_notification_time_24">EEEE, d MMMM</string>
+    <string name="superpower_notification_hint_enter">הפעל</string>
+    <string name="superpower_savemode_limit1">ערכת נושא מוחשכת</string>
+    <string name="superpower_savemode_limit2">הגבל פעילות רקע</string>
+    <string name="superpower_savemode_limit3">"הגבל פעילות צריכת אנרגיה (סנכרון, GPS, רטט, עמעום מסך וכדו'.)"</string>
+    <string name="superpower_savemode_limit4">אפשר ליישומים מסוימים לעבוד באופן תקין</string>
+    <string name="superpower_settins_switch_summary">"הגבל את רוב התכונות הצורכות אנרגיה על מנת להשאיר פונקציות בסיסיות ( לדוג'. שיחות, SMS, ויישומים נבחרים) זמינים ככל הניתן"</string>
+    <string name="superpower_settins_autoleave_title">כבה באופן אוטמטי</string>
+    <string name="superpower_settins_autoleave_summary">כבה מצב חיסכון קיצוני בסוללה כאשר הסוללה טעונה מעל 50%</string>
+    <string name="superpower_settins_other">הגדרות נוספות</string>
+    <string name="superpower_settins_autoenter_title">הפעל באופן אוטומטי</string>
+    <string name="superpower_settins_autoenter_summary">הפעל מצב חיסכון קיצוני בסוללה כאשר בסוללה נותרו רק 10%</string>
+    <string name="superpower_notification_title">פחות מ 10% נותרו בסוללה</string>
+    <string name="superpower_notification_summary">הפעל מצב חיסכון קיצוני בסוללה</string>
+    <string name="superpower_dialog_title">חיסכון קיצוני בסוללה</string>
+    <string name="superpower_dialog_massage">חיסכון קיצוני בסוללה יגביל את רוב תכונות צריכת החשמל ותקטין את ביצועי המכשיר בכדי לאפשר שמירה על פונקציונליות בסיסית (למשל שיחות, SMS, וחיבור לרשת) לזמן ארוך ככל שניתן. האם להפעיל חיסכון קיצוני בסוללה?</string>
+    <string name="superpower_dialog_button_ok">אישור</string>
+    <string name="superpower_dialog_button_disable_dialog">אל תציג שוב</string>
+    <string name="superpower_progress_title">זמן שנותר</string>
+    <string name="superpower_progress_content">הפעל מצב חיסכון קיצוני בסוללה…</string>
+    <string name="superpower_progress_turnoff_items">הגבל פעילות צריכת אנרגיה</string>
+    <string name="superpower_progress_turnoff_process">הגבל פעילות רקע</string>
+    <string name="superpower_progress_turndown_brightness">הפחת את בהירות המסך</string>
+    <string name="superpower_progress_switch_home">מחליף לערכת נושא מוחשכת</string>
+    <string name="superpower_progress_left_time">%1$d שעות %2$d דקות</string>
+    <string name="pc_search_keywords_battery">סוללה</string>
+    <string name="pc_search_keywords_battery_save">חסכון בסוללה</string>
+    <string name="pc_search_keywords_battery_use">שימוש בסוללה</string>
+    <string name="pc_search_keywords_capacity">קיבולת הסוללה</string>
+    <string name="pc_search_keywords_property">ביצועים</string>
     <string name="handle_bar_title_system">מערכת</string>
     <string name="apps_list_header_title_sms">בדוק את יישום ההודעות</string>
     <string name="apps_list_header_title_sms_access">הגבל גישה לקודי אימות</string>
@@ -1319,7 +1384,7 @@ Rolled over extra data"</string>
     <string name="sp_settings_check_item_title_wifi">רשת אלחוטית</string>
     <string name="sp_settings_check_item_title_root">Root</string>
     <string name="sp_settings_check_item_title_update">עדכוני מערכת</string>
-    <string name="sp_settings_check_item_title_virus_exception">וירוסים חריגים</string>
+    <string name="sp_settings_check_item_title_virus_exception">חריגים</string>
     <string name="sp_settings_check_item_title_sign_exception">חתימות חריגות</string>
     <string name="sp_settings_check_item_summary_virus_exception">נהל את רשימת הוירוסים החריגים</string>
     <string name="sp_settings_check_item_summary_sign_exception">נהל את רשימת החתימות החריגות</string>
@@ -1327,7 +1392,7 @@ Rolled over extra data"</string>
     <string name="sp_empty_title_sign_exception">לחץ והחזק את היישום על מנת להוסיפו לרשימת החריגים</string>
     <string name="sp_toast_removed_from_sign_white_list">"הוסר מ'רשימת החריגים'. הפריט יסרק בפעם הבאה."</string>
     <string name="sp_network_privacy_dialog_title">לא ניתן להשתמש בסריקת האבטחה</string>
-    <string name="sp_network_privacy_dialog_message">"יישום ה'אבטחה' אינו יכול לעבוד באופן תקין כיוון שהגבלת את החיבור לאינטרנט. לאפשר ל'אבטחה' להתחבר לאינטרנט?"</string>
+    <string name="sp_network_privacy_dialog_message">יישום האבטחה לא יכול לעבוד כנדרש כי הגבלת את החיבור לאינטרנט. לאפשר ליישום האבטחה להתחבר לאינטרנט?</string>
     <string name="sp_settings_exception_count_zero">אין פריטים</string>
     <string name="sp_monitored_apps_count_zero">אין יישומי תשלומים מוגנים</string>
     <string name="monitor_app_more">עוד</string>
@@ -1355,8 +1420,6 @@ Rolled over extra data"</string>
     <string name="btn_text_quick_scan">סרוק</string>
     <string name="menu_text_antivirus">סריקת אבטחה</string>
     <string name="menu_summary_antivirus">סרוק אם יש וירוסים במכשירך</string>
-    <string name="menu_summary_antivirus_2">זוהו סיכונים אפשריים</string>
-    <string name="menu_summary_antivirus_3">המכשיר לא נסרק</string>
     <string name="menu_text_optimize_manage">האצת מהירות</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_summary_networkassistants">נהל את תכנית הנתונים שלך</string>
@@ -1365,24 +1428,25 @@ Rolled over extra data"</string>
     <string name="menu_summary_networkassistants_4">חבילת הגלישה נגמרת</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_antispam">רשימת החסומים</string>
     <string name="menu_summary_antispam">חסום שיחות והודעות</string>
-    <string name="menu_summary_antispam_2">שיחות והודעות שנחסמו</string>
     <string name="menu_text_license_manager">הרשאות</string>
     <string name="menu_text_garbage_cleanup">מנקה</string>
     <string name="menu_summary_garbage_cleanup">אין אשפה</string>
-    <string name="menu_summary_garbage_cleanup_2">נפח האשפה</string>
-    <string name="menu_summary_garbage_cleanup_3">נקה את האשפה עכשיו</string>
-    <string name="menu_text_power_manager">אופטימיזציית (ייעול) סוללה</string>
+    <string name="menu_summary_garbage_cleanup_ex">נקה קובצי זבל בנפח %s</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
+    <string name="menu_text_power_manager">סוללה וביצועים</string>
     <string name="menu_summary_power_manager">מצב חיסכון בסוללה מאפשר זמן שימוש ארוך יותר בין טעינות</string>
     <string name="menu_summary_power_manager_1">הסוללה טעונה במלואה</string>
     <string name="menu_summary_power_manager_2">%s נותרו</string>
     <string name="menu_summary_power_manager_3">חבר מטען</string>
     <string name="menu_summary_power_manager_4">%s לטעינה מלאה</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">הסריקה הקודמת בוטלה</string>
     <string name="examination_score_100">הכל נראה תקין!</string>
     <string name="examination_score_80_100">מספר פריטים ניתנים לייעול</string>
@@ -1397,7 +1461,6 @@ Rolled over extra data"</string>
     <string name="activity_title_power_manager">אופטימיזציית (ייעול) סוללה</string>
     <string name="activity_title_garbage_cleanup">מנקה</string>
     <string name="menu_summary_app_manager">עדכון והסרת יישומים</string>
-    <string name="menu_summary_app_manager_2">קיימים עדכונים זמינים</string>
     <string name="memory_check_content">%s התפנו</string>
     <string name="memory_clear_unused">ניקוי מטמון (%s)</string>
     <string name="activity_title_virus">וירוס</string>
@@ -1470,7 +1533,7 @@ Rolled over extra data"</string>
     <string name="hints_virus_app_list_item_summary">יישום</string>
     <string name="hints_virus_apk_list_item_summary">apk</string>
     <string name="hints_loading_text">טוען…</string>
-    <string name="security_center_slogan">אבטחה. תמיד על המשמר.</string>
+    <string name="security_center_slogan">שמור על מהירות ואבטחת המכשיר שלך</string>
     <string name="activity_title_auto_start_manager">הפעלה אוטומטית</string>
     <string name="activity_title_permission_manager">הרשאות</string>
     <string name="activity_title_other_permission_manager">הרשאות אחרות</string>
@@ -1496,6 +1559,8 @@ Rolled over extra data"</string>
     <string name="permission_action_accept">קבל</string>
     <string name="permission_action_prompt">שאל</string>
     <string name="permission_action_reject">דחה</string>
+    <string name="permission_action_always">אשר תמיד</string>
+    <string name="permission_action_foreground">בזמן שימוש באפליקציה</string>
     <string name="empty_title_permission_apps_list">אין יישומים.</string>
     <string name="old_sdk_deny_warning">היישום אינו עונה לדרישות ההרשאה העדכניות של אנדרואיד. דחיית הרשאות עשויה להשפיע על הצורה בה יישום זה יעבוד.</string>
     <string name="empty_title_root_apps">אין הרשאות Root לאף יישום.</string>
@@ -1558,10 +1623,10 @@ Rolled over extra data"</string>
     <string name="empty_title_manual_item_white_list">אין חריגים.</string>
     <string name="title_cloud_account">חשבון Mi</string>
     <string name="summary_cloud_account">מצה את המירב ממכשיר ה-Mi שלך</string>
-    <string name="title_cloud_service">Mi Cloud</string>
+    <string name="title_cloud_service">Xiaomi Cloud</string>
     <string name="summary_cloud_service">סנכרן את התמונות, אנשי הקשר שלך ועוד, בין כל המכשירים שלך</string>
     <string name="title_network_switch">חיבור רשת</string>
-    <string name="summary_network_switch">"אפשר ליישום ה'אבטחה' להתחבר לאינטרנט"</string>
+    <string name="summary_network_switch">אשר ליישום האבטחה להתחבר לאינטרנט</string>
     <string name="title_power_optimizer">חסכון בסוללה</string>
     <string name="summary_power_optimizer">הפחת את ביצועי מכשירך כאשר הסוללה חלשה</string>
     <string name="title_data_flow_monitor">ניטור השימוש בנתונים מופעל</string>
@@ -1652,7 +1717,7 @@ Rolled over extra data"</string>
     <string name="summary_eye_shield">כבה את מצב הקריאה כדי לחזור להגדרות ברירת המחדל.</string>
     <string name="button_eye_shield">כבה</string>
     <string name="title_dark_mode">מספר פריטים לא מוצגים כראוי</string>
-    <string name="summary_dark_mode">Some pages are rendered black because of third party services</string>
+    <string name="summary_dark_mode">דפים מסוימים ירונדרו לשחור בגלל יישומי צד שלישי</string>
     <string name="button_dark_mode">תיקון</string>
     <string name="toast_dark_mode_fixed">תוקן בהצלחה. צא מדף זה על מנת להחיל את השינויים.</string>
     <string name="summary_default_app">%s אינו מוגדר כיישום ברירת מחדל של המערכת</string>
@@ -1672,7 +1737,7 @@ Rolled over extra data"</string>
     <string name="antivirus_none_engine_dialog_ok">אישור</string>
     <string name="antivirus_privacy_dialog_title">מדיניות הפרטיות</string>
     <string name="antivirus_privacy_dialog_summary">תכונה זו מצפינה ומעלה את מזהה המכשיר שלך לשרתי Avast, AVL ו-Tencent (%s).</string>
-    <string name="antivirus_privacy_dialog_summary_link">"הצג את 'מדיניות הפרטיות'"</string>
+    <string name="antivirus_privacy_dialog_summary_link">מדיניות הפרטיות</string>
     <string name="antivirus_privacy_dialog_cloudscan">העלה שמות ופרטי יישומים</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">העלה וסרוק את שמות ופרטי היישומים באמצעות הגדרות וירוסים מקוונות.</string>
     <string name="antivirus_privacy_dialog_ok">אישור</string>
@@ -1682,7 +1747,7 @@ Rolled over extra data"</string>
     <string name="antivirus_not_wlan">אינך מחובר לרשת האלחוטית. שימוש בנתונים סלולריים עשוי להוביל לחיובים נוספים. להמשיך בכל זאת?</string>
     <string name="antivirus_longtime_no_update">"נראה כי הגדרות הוירוסים שלך ישנות. עדכונים על בסיס קבוע מסייעים לקבלת תוצאות סריקה טובות יותר. לאפשר ל'אבטחה' להתחבר לאינטרנט ולעדכן את הגדרות הוירוסים?"</string>
     <string name="antivirus_longtime_no_update1">נראה כי הגדרות הוירוסים שלך ישנות. עדכונים על בסיס קבוע מסייעים לקבלת תוצאות סריקה טובות יותר. עדכן את ההגדרות ונסה שוב.</string>
-    <string name="antivirus_sec_network_unavailable">"יישום ה'אבטחה' אינו יכול לבצע עדכון כיוון שהגבלת את החיבור לאינטרנט. לאפשר ל'אבטחה' להתחבר לאינטרנט?"</string>
+    <string name="antivirus_sec_network_unavailable">לא ניתן לעדכן את יישום האבטחה כי הגבלת את החיבור לאינטרנט. לאפשר ליישום האבטחה להתחבר לאינטרנט?</string>
     <string name="antivirus_update_btn_contiue">המשך</string>
     <string name="antivirus_update_btn_open">אפשר</string>
     <string name="antivirus_update_btn_update">עדכון</string>
@@ -1764,6 +1829,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_action">הצג</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -1820,7 +1886,7 @@ Rolled over extra data"</string>
     <string name="ac_enter_applock">היכנס לנועל היישומים</string>
     <string name="ac_mask_all_apps">הסתר עבור כל היישומים</string>
     <string name="ac_unmask_all_apps">בטל הסתרה עבור כל היישומים</string>
-    <string name="ac_summaryOn">מופעל, נידרשת סיסמה לפתיחת יישומים</string>
+    <string name="ac_summaryOn">הזן סיסמה לפתיחת יישומים מוגנים</string>
     <string name="ac_summaryOff">כבוי, לא נידרשת סיסמה לפתיחת יישומים</string>
     <string name="lockpattern_tutorial_cancel_label">ביטול</string>
     <string name="lockpattern_tutorial_continue_label">הבא</string>
@@ -1834,8 +1900,8 @@ Rolled over extra data"</string>
     <string name="modifypassword">שינוי סוג הסיסמה</string>
     <string name="back_modifypassword">חזרה לעמוד סוג שינוי הסיסמה</string>
     <string name="showpattern">הצג תבנית</string>
-    <string name="notification_mask_title">הסתר תוכן</string>
-    <string name="notification_mask_summary">"הסתר התראות ב'מסך הנעילה' וב'לוח ההתראות'"</string>
+    <string name="notification_mask_title">הסתר את תוכן ההתראות</string>
+    <string name="notification_mask_summary">אל תציג את תוכן ההתראות עבור יישומים מוגנים</string>
     <string name="convenient_mode">בטל את נעילת כל היישומים בפעם אחת</string>
     <string name="convenient_summary">הזן סיסמה פעם אחת לפתיחת כל היישומים</string>
     <string name="suggest_app_tolock">הצעות</string>
@@ -2101,12 +2167,12 @@ Rolled over extra data"</string>
     <string name="app_manager_reset_app_preferences_title">לאפס את העדפות היישום?</string>
     <string name="app_manager_reset_app_preferences_desc">"פעולה זו תביא לאיפוס כל ההעדפות עבור:
 
- "<li>יישומים מושבתים</li>"
- "<li>התראות של יישומים מושבתים</li>"
- "<li>יישומי ברירת מחדל עבור פעולות</li>"
- "<li>מגבלות נתוני רקע עבור יישומים</li>"
+"<li>יישומים מושבתים</li>"
+"<li>התראות של יישומים מושבתים</li>"
+"<li>יישומי ברירת מחדל עבור פעולות</li>"
+"<li>מגבלות נתוני רקע עבור יישומים</li>"
 
- לא תאבד כל נתוני יישומים."</string>
+יישומי הנתונים לא ילכו לאיבוד."</string>
     <string name="app_manager_reset_app_preferences_button">איפוס יישומים</string>
     <string name="app_manager_disable_text">השבת</string>
     <string name="app_manager_enable_text">אפשר</string>
@@ -2148,6 +2214,7 @@ Rolled over extra data"</string>
     <string name="app_manager_find_apps">חפש יישומים</string>
     <string name="app_manager_thumbnail_blur_title">עמעם תצוגה מקדימה של יישומים</string>
     <string name="app_manager_thumbnail_blur_summary">עמעם יישומים בתצוגה מקדימה באחרונים</string>
+    <string name="app_manager_power_consume">%.1f%%</string>
     <string name="ad_btn_default_text">מידע נוסף</string>
     <string name="open_activity_err">היישום לא נמצא</string>
     <string name="low_memory_warning_dialog_title">אין מספיק שטח פנוי</string>
@@ -2203,7 +2270,7 @@ Rolled over extra data"</string>
     <string name="already_close_gamebooster">מאיץ מהירות המשחקים כבוי</string>
     <string name="no_game">לא ניתן היה למצוא משחקים</string>
     <string name="gamebooster_network_dialog_title">תכונות מסויימות אינן זמינות</string>
-    <string name="gamebooster_network_dialog_message">"לאפשר ל'אבטחה' להתחבר לרשת על מנת שתוכל להשתמש בכל התכונות של 'מאיץ מהירות המשחקים'?"</string>
+    <string name="gamebooster_network_dialog_message">לאפשר ליישום האבטחה להתחבר לאינטרנט על מנת להשתמש בכל המאפיינים של \"משחקים טורבו\"?</string>
     <string name="ask_create_shortcut">"האם ליצור קיצור דרך ב'מסך הבית'?"</string>
     <string name="create_shortcut">"צור קיצור דרך ב'מסך הבית' עבור 'מאיץ מהירות המשחקים'"</string>
     <string name="i_know">הבנתי</string>
@@ -2215,6 +2282,12 @@ Rolled over extra data"</string>
     <string name="gmscore_support_service">שירותי גוגל בסיסיים</string>
     <string name="gmscore_support_remind">הפעל תכונה זו במידה והינך חווה בעיות שימוש ב-Gmail, מפות Google ויישומי Google אחרים. הפעלת תכונה זו תקצר במעט את חיי הסוללה.</string>
     <string name="google_base_app_install_choice">האפליקציה זקוקה למסגרת Google Services כדי לעבוד כנדרש, להוריד ולהתקין אותה?</string>
+    <string name="function_gwsd_title">אל תאפשר שיחות נכנסות המפריעות לנתוני חיבור כרטיס SIM</string>
+    <string name="function_gwsd_detail">"אודות מאפיין זה:
+ 1. שיחות נכנסות לכרטיס הסים לתעבורת נתונים לא יפריעו לחיבור לאינטרנט הסלולרי. רק בעת מענה לשיחה החיבור יתנתק.
+ 2. כשמאפיין זה מופעל, המתקשר לא ישמע את הצליל של שיחה ממתינה. שיחות נכנסות ינותקו אם לא תענה תוך 6 שניות. 
+ 3. מאפיין זה עובד רק עם כרטיסי סים לתעבורת נתונים. שיחות לכרטיס הסים העיקרי ינתקו את החיבור לאינטרנט הסלולרי.
+ 4. מאפיין זה נתמך רק על-ידי China Mobile ו-China Unicom."</string>
     <string name="application_item_disable">מוגבל</string>
     <string name="application_item_already_permission">מאופשר</string>
     <string name="man_add_application">הוסף יישומי הפעלה אוטומטית באופן ידני</string>
@@ -2347,6 +2420,7 @@ Rolled over extra data"</string>
     <string name="gamebox_display_3">בהיר</string>
     <string name="gamebox_display_4">בהיר &amp; רווי</string>
     <string name="gamebox_display_set">"שיפורים חזותיים: "</string>
+    <string name="gamebox_milink">שידור</string>
     <string name="gb_first_window_title">מאיץ מהירות המשחקים</string>
     <string name="gb_first_window_summary">מאיץ מהירות וביצועים ברמת מערכת</string>
     <string name="gb_first_window_gamebox_summary_four">נקה מטמון, צור הקלטות וצילומי מסך</string>
@@ -2381,6 +2455,7 @@ Rolled over extra data"</string>
     <string name="gb_advance_settings_reset_dialog_content">האם לשחזר את הגדרות היצרן כעת?</string>
     <string name="title_reply">רשום הערה</string>
     <string name="title_like">סמן ב\"אהבתי\"</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">גלישה סלולרית</string>
     <string name="game_wid_viewpoint_buttom">קח הפסקה קצרה.</string>
     <string name="video_repeat">נגן שוב</string>
@@ -2430,12 +2505,21 @@ Rolled over extra data"</string>
     <string name="function_shield_eye_shield">כבה מצב קריאה</string>
     <string name="function_shield_three_finger">הגבל מחוות צילום מסך</string>
     <string name="function_shield_pull_notification_bar">אל תפתח את לוח ההתראות</string>
+    <string name="function_shield_voice_trigger">אל תעיר את Mi Ai באמצעות קול</string>
     <string name="choose_gs_show_way">בחר את כיוון דף הבית</string>
     <string name="gs_show_way">כיוון דף הבית</string>
     <string name="gs_show_way_horizontal">אופקי</string>
     <string name="gs_show_way_vertical">אנכי</string>
     <string name="gb_global_settings">הגדרות כלליות</string>
     <string name="gb_add_game_hint">הוסף פריטים מרשימת היישומים</string>
+    <string name="gb_first_guide_title">מאיץ מהירות וביצועים ברמת מערכת</string>
+    <string name="gb_first_guide_gamebox_des">השתמש באוזניות כאשר אתה משחק במשחקים</string>
+    <string name="gb_first_guide_handsfree_des">ענה לשיחות ברקע</string>
+    <string name="gb_first_guide_shortcut_des">קיצור דרך למסך הבית עבור מאיץ המשחקים נוצר</string>
+    <string name="gb_first_guide_function_shiled_title">כבה את תכונות מערכת כאשר מאיץ המשחקים פועל</string>
+    <string name="stop_milink_connect">הפסק הקרנה</string>
+    <string name="other_milink_connect">"לא ניתן היה לשדר. פיצ'ר אחר מנסה לשדר כעת."</string>
+    <string name="alert_back_milink_hangup_tips_content">שידור אינו יכול להיות מופרע כאשר אתה מסיים שיחה. תוכל ללחוץ על כפתור הפעלה בכדי להפעיל את המסך.</string>
     <string name="notify_channel_name_security">אבטחת מערכת</string>
     <string name="privacy_apps_category_title">אפליקציות נסתרות</string>
     <string name="privacy_apps">אפליקציות נסתרות</string>
@@ -2450,6 +2534,12 @@ Rolled over extra data"</string>
     <string name="privacy_apps_checkbox_remind_choice">לא להציג שוב</string>
     <string name="privacy_apps_go_to_use">התחל</string>
     <string name="privacy_apps_close">סגור</string>
+    <string name="privacy_apps_shield_message_title">אל תציג התראות</string>
+    <string name="privacy_apps_shield_message_summary">אל תציג התראות עבור יישומים מוגנים</string>
+    <string name="privacy_apps_begin_use">התחלה</string>
+    <string name="privacy_apps_next_stup">הבא</string>
+    <string name="privacy_apps_button_know">הבנתי</string>
+    <string name="privacy_apps_tutorial_dlg_title">כיצד למצוא יישומים מוסתרים</string>
     <string name="first_aid_stop_scan">עצור סריקה</string>
     <string name="first_aid_scanning_item1">מאבחן בעיות ביצועים…</string>
     <string name="first_aid_scanning_item2">מאבחן בעיות רשת…</string>
@@ -2522,6 +2612,55 @@ Rolled over extra data"</string>
     <string name="third_desktop_dialog_content">"משגר אפליקציות הישומים מצדדים שלישיים עלול לגרום לבעיות כמו דליפת נתונים, סוללה מתרקונת בקצב מהיר, וכו ', רק משגרי יישומים שאומתו על ידי MIUI ניתן להגדיר כמשגרי ברירת המחדל שלך."</string>
     <string name="third_desktop_dialog_ok">הבנתי</string>
     <string name="user_guide">החלק כלפי מעלה לקבלת משחקים חדשים</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">ברוך הבא ל %1s! יישום זה מאפשר לך להשתמש בתכונות הבאות: %2s.</string>
+    <string name="system_permission_declare_privacy_declare">אנו מכבדים את פרטיותך. לתשומת לבך, %1s צריכה לאסוף את הנתונים שלך וזקוקה להרשאות הבאות בכדי לעבוד כנדרש:</string>
+    <string name="system_permission_declare_analytics_declare">תודה שנרשמת לתוכנית חוויית המשתמש שלנו. ההתקן שלך צריך להיות מחובר לאינטרנט בכדי לאפשר לתכונה זו לפעול כנדרש. תדרש להעניק את ההרשאות הבאות בכדי לאפשר לנו לאסוף את הנתונים שיסייעו לנו לשפר את המוצרים והשירותים שלנו. נתונים אלה נאספים למטרות סטטיסטיות בלבד. לא נוכל להשתמש בנתונים אלו בכדי לזהות אותך באופן אישי.</string>
+    <string name="system_permission_declare_privacy_no_permission">לתשומת לבך, %1s צריכה לאסוף את הנתונים שלך כדי לעבוד כנדרש. אנו מכבדים את פרטיותך.</string>
+    <string name="system_permission_declare_use_network">התחבר לרשת</string>
+    <string name="system_permission_declare_use_network_no_permission">התחבר לרשת</string>
+    <string name="system_permission_declare_no_say_no">אם אתה בוחר שלא לתת את ההרשאות הנדרשות או לא מאפשר לנו לאסוף ולהשתמש במידע שלך, היישום לא יוכל לעבוד באופן תקין.</string>
+    <string name="system_permission_declare_no_say_no_analytics">אם אינך מעוניין להעניק הרשאות, תוכל לבטל את הרשמתך בהגדרות > הגדרות נוספות > פרטיות> תכנית חווית משתמש.</string>
+    <string name="system_permission_declare_no_say_no_non_mandatory">אם אתה בוחר שלא לתת את ההרשאות הנדרשות או לא מאפשר לנו לאסוף ולהשתמש במידע שלך, היישום לא יוכל לעבוד באופן תקין.</string>
+    <string name="system_permission_declare_revoke_uninstallable">באפשרותך להתנתק, להסיר את האפליקציה או לבטל את ההרשאה תחת \"אבטחה\" > ניהול אפליקציות > הרשאות > הרשאות.</string>
+    <string name="system_permission_declare_revoke_system">תוכל לצאת מיישום זה.</string>
+    <string name="system_permission_declare_double_link">&lt;Data>קרא והסכם לשלנו&lt;a href=\"%1$s\">הסכם משתמש&lt;/a>ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>לפני שתשתמש בתכונה זו&lt;/Data></string>
+    <string name="system_permission_declare_user_agreement">&lt;Data>קרא והסכם לשלנו&lt;a href=\"%1$s\">הסכם משתמש&lt;/a>לפני שתשתמש בתכונה זו&lt;/Data></string>
+    <string name="system_permission_declare_privacy_policy">&lt;Data>קרא והסכם לשלנו &lt;a href=\"%1$s\"> מדיניות פרטיות&lt;/a> לפני שתשתמש בתכונה זו.&lt;/Data></string>
+    <string name="system_permission_declare_agree">מסכים</string>
+    <string name="system_permission_declare_disagree">לא מסכים</string>
+    <string name="system_permission_perm_send_mms">שלח MMS</string>
+    <string name="system_permission_perm_read_mms">קרא MMS</string>
+    <string name="system_permission_perm_answer_call">בצע שיחות</string>
+    <string name="system_permission_perm_read_numbers">קרא מספרי טלפון</string>
+    <string name="permgroupdesc_contacts">גישה לאנשי הקשר</string>
+    <string name="permgroupdesc_location">גישה לפרטי המיקום</string>
+    <string name="permgroupdesc_calendar">גישה לאירועי לוח השנה</string>
+    <string name="permgroupdesc_sms">קריאה או שליחה של הודעות טקסט</string>
+    <string name="permgroupdesc_storage">גישה לתמונות או קבצים במכשיר</string>
+    <string name="permgroupdesc_microphone">הקלטת אודיו</string>
+    <string name="permgroupdesc_camera">צילום תמונות והקלטת סרטונים</string>
+    <string name="permgroupdesc_calllog">גישה ושמירה של פריטים בהיסטוריית השיחות</string>
+    <string name="permgroupdesc_phone">ביצוע וניהול שיחות</string>
+    <string name="permgroupdesc_sensors">גישה לנתונים של חיישני גוף</string>
+    <string name="permgroupdesc_recognition">גישה לנתוני בריאות ופעילות</string>
+    <string name="phone_manage">תוכנות עזר</string>
+    <string name="securitycenter_tab_title">אבטחה</string>
+    <string name="phone_manage_system_tool_title">כלים</string>
+    <string name="phone_manage_system_tool_summary">כלים שימושיים ברמת המערכת</string>
+    <string name="phone_manage_clean_title">מנקה</string>
+    <string name="phone_manage_clean_summary">פנה נפח אחסון</string>
+    <string name="phone_manage_app_manager_summary">נהל את האפליקציות במכשירך</string>
+    <string name="phone_manage_electric_title">סוללה</string>
+    <string name="phone_manage_electric_summary">מטב את מכשירך לחיסכון בצריכת סוללה</string>
+    <string name="phone_manage_special_title">מאפיינים מיוחדים</string>
+    <string name="phone_manage_special_summary">התרשם מפונקציות נוספות שלנו</string>
+    <string name="system_tool_green_guard">מגן משפחתי</string>
+    <string name="system_tool_sos">למצבי חירום</string>
+    <string name="power_save_mode">חיסכון בסוללה</string>
+    <string name="power_save_settings">הגדרות סוללה</string>
+    <string name="banner_optimizemanage_summary">פינוי זיכרון</string>
+    <string name="banner_red_money_assist_summary">פתח מעטפות אדומות מהר יותר</string>
+    <string name="banner_red_money_assist_button">הפעל</string>
     <string name="resource_securitycenter_settings">אבטחה</string>
     <string name="keywords_securitycenter_settings">שימוש בסוללה;נהל התחלה אוטומטית;התקן באמצעות USB;הרשאות היישום;רכוש נתונים סלולריים;רשימת החסומים;שימוש בנתונים;תכנית כיול נתונים;בדיקת רשת;חסוך בסוללה;התחממות;הפעלה;כיבוי;סוללה;התרוקנות;בעיות סוללה;אנרגיה;חסכון בסוללה;חסכון באנרגיה;חסכון באנרגיה;חסכון בסוללה; התחלה אוטומטית;הרשאות;התחלה אוטומטית;התחלה אוטומטית של MIUI; התחלה אוטומטית של יישומים; יישומי התחלה אוטומטית;התחלת שרשרת;התחלה משורשרת;התחלת טריגר: התקנת USB;התקן מהמחשב;התקנת ADB; מיקום;גישה לאנשי הקשר; נתונים;נתונים סלולריים;רכוש נתונים;טען נתונים;חבילת נתונים; חסום;רשימה שחורה;רשימת חסומים חכמה;תרמית;מבצעים;סוכנים;רשימת השיחות החסומות;רשימת ההודעות החסומות;רשימת ההודעות החסומות;רשימת המסרונים החסומים;רשימה שחורה;רשימה שחורה;רשימת החסומים;רשימת החסומים;תרמית;חסימת איש קשר;חסימת אנשי קשר; תעבורה; כיול; חיבור;בדיקת אינטרנט; שימוש בסוללה; ייעול סוללה;צריכת אנרגיה; משחק;מאיץ מהירות;Glory of the king;מצב ביצועים;DND</string>
     <string name="path_securitycenter_settings">יישומי מערכת/אבטחה</string>

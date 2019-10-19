@@ -9,7 +9,7 @@
     <string name="passport_login">היכנס</string>
     <string name="passport_relogin">היכנס שוב</string>
     <string name="passport_skip_login">דלג</string>
-    <string name="passport_skip_setup_account_title">לא להשתמש בשירות ענן Mi?</string>
+    <string name="passport_skip_setup_account_title">לא להשתמש ב Xiaomi Cloud?</string>
     <string name="passport_skip_setup_account_msg">"באפשרותך להגדיר את חשבון Mi מאוחר יותר ב'הגדרות'."</string>
     <string name="passport_confirm_login">המשך</string>
     <string name="passport_find_password_on_web_msg">בקר ב- account.mi.com על מנת לאפס את סיסמתך.</string>
@@ -139,10 +139,7 @@
     <string name="passport_querying_phone_info">מבקש פרטי חשבון…</string>
     <string name="passport_area_code_title">קידומת מדינה</string>
     <string name="passport_area_code_hot">בשימוש שכיח</string>
-    <string name="passport_user_agreement_p1">מסכים ל</string>
-    <string name="passport_user_agreement_p2">הסכם המשתמש</string>
-    <string name="passport_user_agreement_p3"> ול</string>
-    <string name="passport_user_agreement_p4">מדיניות הפרטיות</string>
+    <string name="passport_user_agreement_link">&lt;Data>קראתי והסכמתי לXiaomi &lt;a href=%1$s>הסכם משתמש&lt;/a> ו &lt;a href=%2$s>מדיניות פרטיות&lt;/a>.&lt;/Data></string>
     <string name="passport_privacy_policy">מדיניות הפרטיות</string>
     <string name="passport_user_agreement">הסכם המשתמש</string>
     <string name="passport_license_host_unreachable">לא ניתן להתחבר לרשת. ניתן להציג דף זה ב- %s.</string>
@@ -212,21 +209,22 @@
     <string name="passport_get_innetdate_msg">&lt;font color=Red>נדמה כי&lt;/font> המספר %s מוחזר על ידי ספק הרשת שלך. לבדוק מתי המספר היה מקוון?</string>
     <string name="passport_get_innetdate_agree">בדיקה</string>
     <string name="passport_get_innetdate_disagree">לא</string>
-    <string name="passport_extra_gdpr_license">"יצירת חשבון Mi שלך משמעותה שהינך מסכים לכך ש-Xiaomi תאסוף, תעבד ותשתמש בנתונים האישיים שלך, כולל נתוני אימות (לדוגמה: קודי אימות), נתוני 'שטח שני' (לדוגמה: פרטי השימוש שלך ב'שטח שני', מספרי זיהוי בהם נעשה שימוש ב'שטח ראשון' ו'שטח שני'), ונתונים אחרים המצויינים במדיניות הפרטיות שלנו. קרא את מדיניות הפרטיות שלנו על מנת להבין כיצד אנו מעבדים ומשתמשים בנתונים אישיים."</string>
     <string name="passport_talkback_image_captcha">קוד אימות תמונה</string>
     <string name="passport_talkback_voice_captcha">השמע קוד אימות קולי</string>
     <string name="passport_talkback_switch_voice_captcha">החלף לקוד אימות קולי</string>
     <string name="passport_talkback_switch_image_captcha">החלף לקוד אימות תמונה</string>
-    <string name="passport_license_info_open">פרטים</string>
-    <string name="passport_license_info_collapse">צמצם</string>
     <string name="passport_first_login_prompt">חשבון Mi יווצר באופן אוטומטי כאשר תרשם בפעם הראשונה.</string>
     <string name="passport_wx_bind_account_limit">לא יכול ליצור חשבון. נסה אפשרויות כניסה אחרות.</string>
     <string name="facebook_app_id">2263965750590514</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
+    <string name="passport_ticket_login_select_sim_card">בחר כרטיס סים</string>
+    <string name="passport_ticket_login_select_sim_card_cancel">ביטול</string>
+    <string name="passport_ticket_login_select_sim_card_1">סים 1</string>
+    <string name="passport_ticket_login_select_sim_card_2">סים 2</string>
     <string name="search_app_name">חשבון Mi</string>
     <string name="search_mi_account">חשבון Mi</string>
-    <string name="search_mi_account_key_words">Mi Cloud,הגדרות חשבון,פרטי Mi Pay,צא</string>
+    <string name="search_mi_account_key_words">Xiaomi Cloud,הגדרות חשבון,פרטי Mi Pay,צא</string>
     <string name="search_mi_account_desc">חשבון Mi</string>
     <string name="search_mi_account_path">הגדרות/חשבון Mi</string>
     <string name="search_user_detail">פרטים אישיים</string>
@@ -253,15 +251,21 @@
     <string name="bind_sns_description">היכנס באמצעות %s</string>
     <string name="add_account">חבר חשבון</string>
     <string name="qq">QQ</string>
+    <string name="weixin">WeChat</string>
     <string name="bind_qq">QQ</string>
+    <string name="bind_weixin">חבר את חשבון ה-WeChat שלך</string>
+    <string name="need_install_wechat">התקן את WeChat תחילה</string>
     <string name="facebook">Facebook</string>
+    <string name="google">גוגל</string>
     <string name="bind_facebook">חבר את חשבון ה-Facebook שלך</string>
+    <string name="bind_google">חבר את חשבון ה-Google שלך</string>
     <string name="binded">מחובר</string>
     <string name="nobind">לא מחובר</string>
     <string name="button_unbind">התנתק</string>
     <string name="unbind_sns_description">לאחר ניתוק חשבון זה, לא תוכל להשתמש בפרטי חשבון ה- %s שלך על מנת להיכנס לחשבון Mi שלך.</string>
     <string name="confirm_unbind">לנתק חשבון זה?</string>
-    <string name="binded_description" formatted="false">%s התחבר אל חשבון Mi שלך. הפרופיל שלך עודכן במידע שבחשבון ה- %s שלך.</string>
+    <string name="binded_description" formatted="false">"%s התחבר לחשבון Mi שלך.
+ תוכל להתחבר לחשבון Mi בשימוש %s כעת."</string>
     <string name="access_token_expired_warning">פג תוקף חשבון Weibo</string>
     <string name="access_token_invalid_warning">חשבון Weibo לא חוקי</string>
     <string name="service_error">שגיאת שירות</string>
@@ -345,7 +349,7 @@
     <string name="account_mibi_charge">טעינה</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_xiaomi_service">שירותים</string>
-    <string name="cloud_service">Mi Cloud</string>
+    <string name="cloud_service">Xiaomi Cloud</string>
     <string name="vip_account_settings">הגדרות VIP</string>
     <string name="xiao_mi_vip">Mi VIP</string>
     <string name="mi_vip_info">הצג פריבילגיות</string>
@@ -357,8 +361,11 @@
     <string name="activity_not_found_notice">לא ניתן למצוא את היישום</string>
     <string name="scan_barcode_title">על מנת להיכנס לחשבון Mi שלך, סרוק את קוד ה-QR</string>
     <string name="talkback_scan_barcode">סריקת קוד QR</string>
-    <string name="scan_barcode">סרוק קוד QR על מנת להיכנס</string>
     <string name="agreement_and_privacy">מדיניות הפרטיות והסכם משתמש</string>
+    <string name="system_ad">פרסומות ביישומי מערכת</string>
+    <string name="system_ad_switch">פרסומות ביישומי מערכת</string>
+    <string name="system_ad_summary">"הפעל תכונה זו על מנת לאפשר צפיה של מספר מוגבל של פרסומות על גבי יישומי מערכת. פרסומות אלו עוזרות לנו לפתח ולשפר את המוצרים והשירותים שלנו. תוכל לבחור לכבות תכונה זו בכל זמן. תודה על תמיכתך! "</string>
+    <string name="system_ad_list">צפה ביישומים קשורים.</string>
     <string name="authorize_title">הרשאה</string>
     <string name="my_device_title">מכשיר נוכחי</string>
     <string name="device_list_title">המכשירים שלי</string>
@@ -370,6 +377,13 @@
     <string name="device_delete_success_title">יצא</string>
     <string name="device_delete_success_message">במידה ולא נכנסת באמצעות מכשיר זה, שנה סיסמתך באופן מידי.</string>
     <string name="change_password">שנה סיסמה</string>
+    <string name="two_factor_auth">אימות דו-שלבי</string>
+    <string name="two_factor_auth_summary">כאשר אתה מנסה להיכנס באמצעות התקן חדש או במיקום חדש, תקבל הודעה על כך בהתקנים אחרים המחוברים. יהיה עליך לאשר אם נסיונות כניסה אלו אושרו על-ידך.</string>
+    <string name="two_factor_auth_method">סוג אימות</string>
+    <string name="two_factor_auth_click_confirm">אשר על מנת להיכנס</string>
+    <string name="two_factor_auth_click_confirm_summary">תוכל לראות התראה במכשירי Mi אחרים המחוברים. לחץ על ההתראות לאפשר חיבור למכשיר חדש.</string>
+    <string name="two_factor_auth_need_code">הזן קוד</string>
+    <string name="two_factor_auth_need_code_summary">תוכל לראות קוד במכשירי Mi מחוברים. הזן קוד זה על המכשיר החדש בכדי להיכנס.</string>
     <string name="completed">הכל מוכן!</string>
     <string name="no_network_title">לא ניתן להתחבר לרשת.</string>
     <string name="no_network_btn">רענן</string>
@@ -378,9 +392,9 @@
     <string name="empty_device_list_notice">אין מכשירים</string>
     <string name="device_name">שם המכשיר</string>
     <string name="sim_card">כרטיס SIM</string>
-    <string name="multi_user_not_show_sync_activity_title">אל תפעיל את הסנכרון עם Mi Cloud</string>
+    <string name="multi_user_not_show_sync_activity_title">אל תפעיל את הסנכרון עם Cloud</string>
     <string name="multi_user_not_show_sync_activity_message_1">"נראה כי הינך משתמש ב'שטח ראשון' של חשבון Mi שלך."</string>
-    <string name="multi_user_not_show_sync_activity_message_2">"במקרה כזה, כל הנתונים יסונכרנו ל'שטח שני' שלך. על מנת להמנע מכך, אל תפעיל את הסנכרון עם Mi Cloud."</string>
+    <string name="multi_user_not_show_sync_activity_message_2">"במקרה כזה, כל הנתונים יסונכרנו ל'שטח שני' שלך. על מנת להמנע מכך, אל תפעיל את הסנכרון עם הענן."</string>
     <string name="find_device_access_denied">לא ניתן לקבל סטטוס, הגישה נדחתה</string>
     <string name="find_device_account_error">לא ניתן לקבל סטטוס עקב בעיה בחשבון</string>
     <string name="find_device_null_credential_error">לא ניתן לקבל מידע אודות המכשיר, צור קשר עם שירות הלקוחות של Xiaomi</string>
@@ -462,13 +476,13 @@ ID:%s
     <string name="diagnosis_log_send_failed">לא ניתן היה לשלוח את היומן.</string>
     <string name="temporary_not_available">תכונה זו עדיין לא זמינה.</string>
     <string name="ok">אישור</string>
-    <string name="select_all">בחירת הכל</string>
+    <string name="select_all">בחר הכל</string>
     <string name="i_agree">אישור</string>
     <string name="i_agree_continue">מסכים</string>
     <string name="exit">יציאה</string>
     <string name="passport_privacy_policy_required">מדיניות פרטיות (חובה)</string>
     <string name="passport_user_agreement_required">הסכם משתמש (חובה)</string>
-    <string name="kr_license_desc">אתה חייב להסכים להסכם המשתמש ומדיניות הפרטיות לפני שתשתמש בחשבון חשבון Mi ושירותי ענן Mi.</string>
+    <string name="kr_license_desc">אתה חייב להסכים להסכם המשתמש ומדיניות הפרטיות לפני שתשתמש בחשבון חשבון Mi ושירותי Xiaomi Cloud.</string>
     <string name="kr_permission_desc">נדרשות הרשאות</string>
     <string name="optional_permissions">הרשאות אופצנליות</string>
     <string name="permission_group_contacts">אנשי קשר</string>
@@ -479,4 +493,6 @@ ID:%s
     <string name="kr_permission_phone_desc">בעבור הגנה על חשבונך</string>
     <string name="kr_permission_storage_desc">בעבור שמירה של אבחונים</string>
     <string name="kr_permission_sms_desc">בשימוש עבור מילוי אוטומטי של קוד אימות</string>
+    <string name="system_ad_switch_failed">לא ניתן להחיל את ההגדרה</string>
+    <string name="ep_unsupported">לא ניתן להתחבר לחשבון Mi ממכשירך</string>
 </resources>

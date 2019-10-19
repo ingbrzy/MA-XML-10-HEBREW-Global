@@ -15,6 +15,7 @@
     <string name="alarm_notify_snooze_label">נודניק %s</string>
     <string name="alarm_notify_text">הפעל נודניק או כבה שעון מעורר.</string>
     <string name="alarm_repeat">חזור</string>
+    <string name="alarm_ringtone">רינגטון שעון מעורר</string>
     <string name="alarm_settings">הגדרות שעון מעורר</string>
     <string name="alarm_settings_category_title">הגדרות השעון המעורר</string>
     <string name="alarm_vibrate">רטט</string>
@@ -40,6 +41,7 @@
     <string name="clock_bg_button_setting_title">צבע הרקע</string>
     <string name="close_alarm">כיבוי</string>
     <string name="common_settings">הגדרות</string>
+    <string name="confirm">אישור</string>
     <string name="confirm_abort">ביטול</string>
     <string name="content_desc_keep_screen">לחצן \"השאר את המסך דלוק\"</string>
     <string name="control_set_alarm">הגדרת שעון מעורר</string>
@@ -54,10 +56,17 @@
     <string name="delete_timer_item_title">מחק משימת טיימר</string>
     <string name="delete_timezone_title">מחק אזור זמן</string>
     <string name="dialog_confirm_abort">לבטל שינויים?</string>
+    <string name="dialog_legal_off_day">&lt;Data>נראה כאילו אתה משתמש בשעון מעורר עבור חגים. תכונה זו זקוקה לחיבור אינטרנט על מנת לעבוד באופן תקין. לפני שתשתמש בתכונה זו, עליך להסכים ל &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו &lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>.האם אתה מסכים?&lt;/Data></string>
+    <string name="dialog_legal_off_day_desc">השעון אינו מאפשר להתחבר לאינטרנט על מנת לקבל עדכונים אודות חגים. שעון מעורר עבור חגים יצלצל משבת עד ראשון.</string>
+    <string name="dialog_legal_workday">&lt;Data>נראה כאילו אתה משתמש בשעון מעורר עבור ימים שבועיים. תכונה זו זקוקה לחיבור אינטרנט על מנת לעבוד באופן תקין. לפני שתשתמש בתכונה זו, עליך להסכים ל &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו &lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>. האם אתה מסכים?&lt;/Data></string>
+    <string name="dialog_legal_workday_and_off_day">&lt;Data>נראה כאילו אתה משתמש בשעון מעורר עבור ימים שבועיים וחגים. תכונה זו זקוקה לחיבור אינטרנט על מנת לעבוד באופן תקין. לפני שתשתמש בתכונה זו, עליך להסכים ל &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו &lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>. האם אתה מסכים?&lt;/Data></string>
+    <string name="dialog_legal_workday_and_off_day_desc">השעון אינו מאפשר להתחבר לאינטרנט על מנת לקבל עדכונים אודות חגים. שעון מעורר עבור ימי השבוע יצלצל מיום שני עד שישי. שעון מעורר עבור חגים יצלצל משבת עד ראשון.</string>
+    <string name="dialog_legal_workday_desc">השעון אינו מאפשר להתחבר לאינטרנט על מנת לקבל עדכונים אודות ימי עבודה. שעון מעורר עבור ימי השבוע יצלצל מיום שני עד שישי.</string>
     <string name="dialog_message_agree">מסכים</string>
     <string name="dialog_message_for_contact_permission">השעון זקוק להרשאת גישה לאנשי הקשר שלך כדי לאפשר התראות על ימי הולדת. מסכים?</string>
     <string name="dialog_message_negative">לא מסכים</string>
     <string name="dialog_message_not_remind">אל תציג שוב</string>
+    <string name="dialog_net_permission_in_repeat_type">&lt;Data>תכונה זו זקוקה לחיבור אינטרנט על מנת לעבוד באופן תקין. לפני שתשתמש בתכונה זו, עליך להסכים ל &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו &lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>. האם אתה מסכים?&lt;/Data></string>
     <string name="dialog_privacy_content">על מנת לקבל ולסנכרן תוכן רלוונטי בעבור חגים וחופשות מקומיים, התאמת שעונים מעוררים ובכדי לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים ל%1$s ו -%2$s שלנו. האם אתה מסכים?</string>
     <string name="dialog_privacy_content_global">בכדי לספק שירותים מותאמים, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים ל%1$s ו -%2$s שלנו. האם אתה מסכים?</string>
     <string name="dialog_privacy_content_news">בכדי לספק שירותים מותאמים, ובכללם את חדשות הבוקר אל השעון המעורר, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים ל%1$s ו -%2$s שלנו. האם אתה מסכים?</string>
@@ -67,6 +76,7 @@
     <string name="dynamic_alarm_speech">שעון מעורר חכם</string>
     <string name="edit_alarm">ערוך שעון מעורר</string>
     <string name="edit_systemtime">שנה שעת מערכת</string>
+    <string name="edit_systemtime_setting_summary">תאריך, שעה, ושעון כפול</string>
     <string name="every_day">כל יום</string>
     <string name="expired_timers_dismissed">הטיימר בוטל בהצלחה</string>
     <string name="force_touch_add_alarm">הוספת שעון מעורר</string>
@@ -80,9 +90,7 @@
     <string name="hour_unit">שעות +</string>
     <string name="install_weather_app_error">לא ניתן היה לטעון את היישום</string>
     <string name="install_weather_app_loading">רק רגע…</string>
-    <string name="invalid_time">"שעה לא חוקית:
-%3$s %1$d:
-%2$d "</string>
+    <string name="invalid_time">שעה לא חוקית: %3$s %1$d: %2$d</string>
     <string name="invalid_timer_length">משך הזמן של הטיימר אינו חוקי</string>
     <string name="keep_screen_on">השאר את המסך דולק</string>
     <string name="korea_permission_calendar">לוח שנה</string>
@@ -104,8 +112,11 @@
     <string name="life_post_setting">דיווח בוקר</string>
     <string name="life_post_setting_FBE_remind">עקב מגבלות המערכת, ייתכן שנתוני מזג האוויר בדיווחי הבוקר לא יוצגו בצורה נכונה לאחר אתחול המכשיר.</string>
     <string name="life_post_setting_close_title">השבת דיווח בבוקר</string>
+    <string name="life_post_setting_open_background_subtitle">הצג תמונת רקע עבור שעונים מעוררים קשורים</string>
+    <string name="life_post_setting_open_background_title">הצג תמונת רקע</string>
     <string name="life_post_setting_open_desc">בטל חזרה של שעונים מעוררים בין 04:00 10:00 בכדי להאזין לתחזית הנוכחית</string>
     <string name="life_post_setting_open_subtitle">קבל מידע אודות מזג האויר בעת כיבוי שעונים מעוררים בין 4:00 ל- 9:30</string>
+    <string name="life_post_setting_open_summary">נתוני מזג האוויר בשעון המעורר הראשון יכבו בין השעות 4:00 ל 10:00</string>
     <string name="life_post_setting_open_title">קבל דיווחי בוקר</string>
     <string name="life_post_setting_wake_up_list_title">היסטורית השכמות</string>
     <string name="life_post_wake_up_acumu_day_title">ספירת ימים</string>
@@ -118,6 +129,7 @@
     <string name="life_post_weather_invalid">הקש כדי לקבל מידע אודות מזג האוויר</string>
     <string name="life_post_weather_no_network">התחבר לרשת על מנת לקבל עדכונים אודות מזג האוויר</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
+    <string name="listen_news_privacy">&lt;Data>&lt;על מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
     <string name="loading_ringtone">טוען צלצול…</string>
     <string name="menu_add_worldclock">הוסף אזור זמן</string>
     <string name="menu_desk_clock">שעון</string>
@@ -125,25 +137,54 @@
     <string name="menu_item_dock_settings">הגדרות עגינה</string>
     <string name="menu_item_sort_by_gmt_offset">מיון לפי זמן</string>
     <string name="menu_item_sort_by_name">מיון לפי שם</string>
+    <string name="module_dialog_negative">לא מסכים</string>
+    <string name="module_dialog_neutral">הבנתי</string>
+    <string name="module_dialog_positive">מסכים</string>
     <string name="module_download_cancel">לא, תודה</string>
-    <string name="module_download_data_msg">השעון צריך להוריד קבצי שמע עבור שעונים מעוררים חכמים MIUI. שעונים מעוררים חכמים מכילים תכונות אודיו המאפשרות לכלול את נתוני מזג האוויר אל תוך השעון המעורר 20 מגה של נתוני רשת סלולרים נדרשים עבור הורדה זו. האם להוריד כעת?</string>
+    <string name="module_download_data_msg">בכדי להפוך התראות MIUI חכמות לזמינות, השעון צריך להוריד קבצי שמע. שעון מעורר חכם מכיל תכונות שמע המאפשרות לכלול מידע אודות מזג האוויר הנוכחי אל תוך השעון המעורר. נדרשים כ 20 מ\"ב של נתונים סלולריים עבור הורדה זו האם להוריד כעת?</string>
     <string name="module_download_data_msg_golbal">שעון צריך להוריד קבצי שמע עבור שעונים מעוררים חכמים. נדרשים 20מגה של נתונים ניידים עבור הורדה זו. האם להוריד כעת?</string>
     <string name="module_download_data_msg_replace">שעון צריך להוריד קבצי שמע עבור שעונים מעוררים חכמים. נדרשים 20מגה של נתונים ניידים עבור הורדה זו. האם להוריד כעת?</string>
     <string name="module_download_data_msg_timer">שעון צריך להוריד קבצי שמע עבור שעוני רקע. נדרשים 20מגה של נתונים ניידים עבור הורדה זו. האם להוריד כעת?</string>
     <string name="module_download_fail">לא ניתן היה להוריד את קובצי האודיו הנוספים</string>
-    <string name="module_download_msg">השעון צריך להוריד קבצי שמע עבור שעונים מעוררים חכמים MIUI. שעונים מעוררים חכמים מכילים תכונות אודיו המאפשרות לכלול את נתוני מזג האוויר אל תוך השעון המעורר. האם להוריד כעת?</string>
+    <string name="module_download_failure">לא ניתן היה להוריד שמע. בדוק את הגדרות הרשת שלך ונסה שנית.</string>
+    <string name="module_download_msg">בכדי להפוך התראות MIUI חכמות לזמינות, השעון צריך להוריד קבצי שמע. שעון מעורר חכם מכיל תכונות שמע המאפשרות לכלול מידע אודות מזג האוויר הנוכחי אל תוך השעון המעורר. האם להוריד כעת?</string>
     <string name="module_download_msg_golbal">השעון צריך להוריד קבצי שמע עבור שעונים חכמים MIUI. האם להוריד כעת?</string>
     <string name="module_download_msg_replace">עדכון שמע זמין עבור שעונים מעוררים חכמים MIUI? האם להוריד כעת?</string>
     <string name="module_download_msg_timer">השעון צריך להוריד קבצי שמע עבור שעוני רעש רקע. האם להוריד כעת?</string>
-    <string name="module_download_no_network">לא ניתן להתחבר לאינטרנט. נא לבדוק את הגדרות הרשת ולנסות שוב.</string>
+    <string name="module_download_no_network">שעון צריך להתחבר לאינטרנט על מנת להוריד שמע. בדוק את הגדרות הרשת ונסה שוב.</string>
     <string name="module_download_ok">אפשר</string>
-    <string name="module_download_success">הורדת קובצי האודיו הנוספים הושלמה בהצלחה</string>
+    <string name="module_download_success">קבצי אודיו ירדו בהצלחה</string>
     <string name="module_download_title">נדרשים קובצי אודיו נוספים</string>
-    <string name="module_downloading">מתבצעת הורדה של קובצי אודיו נוספים…</string>
+    <string name="module_downloading">מוריד שמע…</string>
+    <string name="module_update_success">עדכן שמע עבור התראות חכמות MIUI הורד בהצלחה. באפשרותך להגדיר שעונים מעוררים חכמים של MIUI בהגדרות השעון.</string>
+    <string name="module_update_success_control">הבנתי</string>
+    <string name="module_weather_ringtone_download_data">שעון מזג האוויר יבחר רינגטונים שונים בהתאם למצב מזג האוויר. השעון צריך להוריד ≈30מ\"ב של שמע על מנת לגרום לזה לעבוד. האם להוריד כעת?</string>
+    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>&lt;שעון מזג אוויר בוחר רינגטונים שונים בהתאם למזג האוויר הנוכחי. השעון צריך להתחבר לאינטרנט על מנת להוריד ≈30מב של קבצי שמע. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
+    <string name="module_weather_ringtone_download_wifi">שעון מזג האוויר יבחר רינגטונים שונים בהתאם למצב מזג האוויר. השעון צריך להוריד30 ≈מ\"ב של שמע על מנת לגרום לזה לעבוד. האם להוריד כעת?</string>
+    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>&lt;שעון מזג אוויר בוחר רינגטונים שונים בהתאם למזג האוויר הנוכחי. השעון צריך להתחבר לאינטרנט על מנת להוריד קבצי שמע. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
+    <string name="module_weather_ringtone_introduce">שעון מזג אוויר בוחר רינגטונים שונים בהתאם למזג האוויר הנוכחי. זה גם מאפשר לך להאזין לפרטי מזג האוויר הנוכחי בבוקר.</string>
+    <string name="module_weather_ringtone_introduce_global">שעון מזג אוויר בוחר רינגטונים שונים בהתאם למזג האוויר הנוכחי.</string>
+    <string name="module_weather_ringtone_update_data">מזג האוויר מגיע כעת עם מוזיקת רקע והודעות קוליות טובות יותר. שעון צריך להוריד ≈ 30MB של שמע כדי לגרום לזה לעבוד. האם להוריד כעת?</string>
+    <string name="module_weather_ringtone_update_success">שעון מעורר מזג האוויר מגיע יחד עם מוסיקת רקע והתראה קולית. תוכל ליצור שעון מעורר חדש זו על מנת לנסות תכונה זו.</string>
+    <string name="module_week_ringtone_download_data">שעון שבועי משמיע צלילי טבע בכל אחד מימות השבוע. השעון צריך להוריד ≈30מ\"ב של שמע על מנת לגרום לזה לעבוד. האם להוריד כעת?</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data>&lt;שעון מעורר שבועי מנגן צלילי טבע בכל יום מימות השבוע. השעון צריך להתחבר לאינטרנט על מנת להוריד קבצי שמע. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
+    <string name="module_week_ringtone_download_wifi">שעון שבועי משמיע צלילי טבע בכל אחד מימות השבוע. השעון צריך להוריד שמע על מנת לגרום לזה לעבוד. האם להוריד כעת?</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>&lt;שעון מעורר שבועי מנגן צלילי טבע בכל יום מימות השבוע. השעון צריך להתחבר לאינטרנט על מנת להוריד קבצי שמע. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
+    <string name="module_week_ringtone_introduce">שעון מעורר שבועי משמיע צלילים שונים של טבע בכל יום של השבוע.</string>
+    <string name="module_week_ringtone_update_data">שעון שבועי משמיע צלילי טבע בכל אחד מימות השבוע. השעון צריך להוריד ≈30מ\"ב של שמע על מנת לגרום לזה לעבוד. האם להוריד כעת?</string>
+    <string name="module_week_ringtone_update_success">שעון מעורר שבועי מגיע יחד עם מוסיקת רקע והתראה קולית. תוכל ליצור שעון מעורר חדש זו על מנת לנסות תכונה זו.</string>
+    <string name="module_white_noise_download_data">שעון צריך להוריד קבצי שמע עבור שעוני רקע. נדרשים 30מגה של נתונים ניידים עבור הורדה זו. האם להוריד כעת?</string>
+    <string name="module_white_noise_download_data_privacy">&lt;Data>&lt;על מנת להוריד קבצי שמע עבור שעון ספירה לאחור מופחת רעש (≈30מב) ועל מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו &lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>. אתה משתמש בנתונים סלולריים כעת. האם אתה מסכים?&lt;/Data></string>
+    <string name="module_white_noise_download_wifi">השעון צריך להוריד קבצי שמע עבור שעוני רעש רקע. האם להוריד כעת?</string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data>&lt;על מנת להוריד קבצי שמע עבור שעון ספירה לאחור מופחת רעש ועל מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
     <string name="monday_to_friday">"ימי ב' עד ו'"</string>
     <string name="more_setting">הגדרות נוספות</string>
     <string name="more_settings">הגדרות</string>
+    <string name="network_privacy">&lt;Data>על מנת לקבל ולסנכרן תוכן רלוונטי בעבור חגים וחופשות מקומיים, התאמת שעונים מעוררים ובכדי לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
+    <string name="network_privacy_global">&lt;Data>&lt;על מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
     <string name="never">פעם אחת</string>
+    <string name="no_alarm_setting">אין שעונים מעוררים כאן</string>
+    <string name="no_worldclock">אין שעונים מעוררים כאן</string>
     <string name="oneshot_alarm">מחק שעון מעורר לאחר שהופעל</string>
     <string name="open_keep_screen">המסך יישאר דלוק</string>
     <string name="other_category_title">אחר</string>
@@ -151,6 +192,7 @@
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">המלצות מותאמות אישית עבור תוכן</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="privacy_policy_title">מדיניות הפרטיות</string>
     <string name="remind_ringtone">צלצול</string>
     <string name="repeat_count">פעמים</string>
     <string name="repeat_count_value_five">5</string>
@@ -160,27 +202,41 @@
     <string name="repeat_count_value_two">2</string>
     <string name="reset">אפס</string>
     <string name="revert">חזרה</string>
+    <string name="ringtone_all">כל הרינגטונים</string>
+    <string name="ringtone_dew">טללי שחר</string>
+    <string name="ringtone_dream">חלום בהקיץ</string>
+    <string name="ringtone_firefly">גחליליות</string>
+    <string name="ringtone_other">צלצולים נוספים</string>
+    <string name="ringtone_weather">שעון מעורר מזג אוויר</string>
+    <string name="ringtone_week">שעון מעורר שבועי</string>
     <string name="search_alarm_clock_keywords">התראה;שעון מעורר;</string>
     <string name="search_stopwatch_keywords">שעון עצר</string>
     <string name="search_timer_keywords">טיימר (מונה לאחור)</string>
     <string name="search_worldclock_keywords">זמן;שעון עולמי;שעון</string>
     <string name="set_alarm">בחר שעה</string>
+    <string name="set_alarm_choose_ringtone">בחר רינגטון</string>
     <string name="set_alarm_done">בוצע</string>
+    <string name="set_alarm_other">אחר</string>
+    <string name="setting_alarm_arriving_subtitle">הצג התראות לפני שהשעון המעורר נכבה</string>
     <string name="setting_alarm_arriving_summary">שלח התראה לפני צלצול</string>
     <string name="setting_alarm_arriving_title">התראה לפני צלצול</string>
     <string name="settings">הגדרות</string>
-    <string name="shortcut_new_alarm">Set alarm</string>
-    <string name="shortcut_start_timer">Start timer</string>
-    <string name="shortcut_stop_watch">Start stopwatch</string>
+    <string name="shortcut_new_alarm">הגדר שעון מעורר</string>
+    <string name="shortcut_start_timer">הגדר טיימר</string>
+    <string name="shortcut_stop_watch">התחל שעון עצר</string>
     <string name="shut_down_keep_screen">המסך לא יישאר דלוק</string>
+    <string name="shutdown_alarm_alert_enable_summary">השעונים המעוררים יתכבו לפחות 10 דקות לאחר כיבוי המכשיר</string>
+    <string name="shutdown_alarm_alert_title">כיבוי שעון מעורר</string>
     <string name="shutdown_alarm_disable_summary">השעון המעורר ישאר דלוק לאחר כיבוי המכשיר</string>
-    <string name="shutdown_alarm_enable_summary">השעון המעורר ישתתק במידה אם תגדיר אותו לפחות 5 דקות לאחר כיבוי המכשיר</string>
+    <string name="shutdown_alarm_enable_summary">השעון מעורר יכבה אם הוא נקבע למשך 10 דקות לפחות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="slider_text">החלק מעלה לכיבוי</string>
     <string name="snooze_confirm_cancel">כבה שעון מעורר</string>
     <string name="snooze_duration">נודניק</string>
+    <string name="snooze_duration_text">%1$s| %2$s</string>
     <string name="snooze_duration_title">נודניק</string>
     <string name="snooze_duration_value">מרווח הזמן (דקות)</string>
     <string name="snooze_duration_value_fifteen">15</string>
@@ -193,8 +249,13 @@
     <string name="star_wy_alarm_speech">הכר את רוי וואנג</string>
     <string name="start">התחל</string>
     <string name="start_up">התחל</string>
+    <string name="status_bar_clock_date_time_format">H:mm:ss</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
+    <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
     <string name="stopwatch_lap_empty_text">אין הקפות</string>
     <string name="stopwatch_title">שעון עצר</string>
+    <string name="symbol_colon">:</string>
+    <string name="system_permission_purpose">יצירת התראות לימי חול והגדרת רינגטונים אישיים</string>
     <string name="system_time_setting">הגדרות</string>
     <string name="system_time_settings_category_title">הגדרות שעה</string>
     <string name="temperature_unit">℃</string>
@@ -215,6 +276,7 @@
     <string name="timer_alert_type_forest">יער</string>
     <string name="timer_alert_type_mute">ברירת המחדל</string>
     <string name="timer_alert_type_rain">גשם מטפטף</string>
+    <string name="timer_alert_type_spring_rain">גשם קייצי</string>
     <string name="timer_alert_type_stove_fire">אח בוערת</string>
     <string name="timer_alert_type_summer_night">ליל קיץ</string>
     <string name="timer_can_continue_in_timer">פתח את הטיימר כדי להפעיל אותו מחדש</string>
@@ -246,21 +308,26 @@
     <string name="tomorrow">מחר</string>
     <string name="turn_off_a_repeat_alarm">בטל שעון מעורר חוזר</string>
     <string name="turn_off_this_repeat_alarm">בטל שעון מעורר חוזר זה</string>
-    <string name="upcoming_alarm">השעון המעורר הבא: %s</string>
-    <string name="upcoming_alarm_hint">באפשרותך לסגור שעון מעורר זה מראש</string>
+    <string name="upcoming_alarm">השעון המעורר הבא: %s</string>
+    <string name="upcoming_alarm_hint">תוכל לכבות את השעון המעורר כעת</string>
     <string name="update_notification_info">מעדכן ברקע…</string>
     <string name="user_agreement">הסכם משתמש</string>
     <string name="vibrate_pref_summary">הפעל רטט יחד עם צלצול השעון המעורר</string>
     <string name="vibrate_when_ringing">הפעל רטט בזמן צלצול</string>
+    <string name="volume_button_setting_desc">רשום פונקציות עבור הפעלה ועוצמת שמע כפתורי +/-</string>
     <string name="volume_button_setting_summary">הגדר תיפקוד לחצני העוצמה בעת צלצול השעון המעורר</string>
     <string name="volume_button_setting_title">לחצני עוצמה</string>
     <string name="workday_alarm_clock">שעון מעורר של יום עבודה</string>
     <string name="worldclock_empty_text">אין אזורי זמן</string>
     <string name="worldclock_input_hint_text">חפש מדינה או עיר</string>
+    <string name="worldclock_resident_city_text">שעון משני:%s</string>
+    <string name="worldclock_resident_city_text_detail">שעון כפול פועל כעת</string>
     <string name="worldclock_search_city">בחר עיר</string>
     <string name="worldclock_title">שעון</string>
     <string name="worldclock_world_time">אזורי זמן</string>
+    <string name="worldcolock_date_display_prefix">נוכחי: </string>
     <string name="worldcolock_timezone_current">עכשיו: %1$s</string>
+    <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%sש</string>
     <string name="worldcolock_timezone_local">זהה לשעה המקומית</string>

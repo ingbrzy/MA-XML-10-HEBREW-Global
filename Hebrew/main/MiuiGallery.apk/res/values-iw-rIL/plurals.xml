@@ -66,6 +66,12 @@
         <item quantity="two">(%d פריטים)</item>
         <item quantity="many">(%d פריטים)</item>
     </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d פריטים</item>
+        <item quantity="one">פריט %1$d</item>
+        <item quantity="two">%1$d פריטים</item>
+        <item quantity="many">%1$d פריטים</item>
+    </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d תמונות של %2$s יתווספו</item>
         <item quantity="one">תמונה %1$d של %2$s תתווסף</item>
@@ -91,10 +97,10 @@
         <item quantity="many">%d פריטים גדולים מדיי בכדי לגבות</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d תמונות או סרטונים | הופסק</item>
-        <item quantity="one">תמונה או סרטון %d | הופסק</item>
-        <item quantity="two">%d תמונות או סרטונים | הופסק</item>
-        <item quantity="many">%d תמונות או סרטונים | הופסק</item>
+        <item quantity="other">ישוב לפעול בעוד %d דקות</item>
+        <item quantity="one">ישוב לפעול בעוד דקה %d</item>
+        <item quantity="two">ישוב לפעול בעוד %d דקות</item>
+        <item quantity="many">ישוב לפעול בעוד %d דקות</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d תמונות וסרטונים | %2$s</item>
@@ -115,14 +121,20 @@
         <item quantity="many">%d תמונות</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">שמור %d תמונות נבחרות ומחק את השאר?</item>
-        <item quantity="one">שמור %d תמונה נבחרת ומחק את השאר?</item>
-        <item quantity="two">שמור %d תמונות נבחרות ומחק את השאר?</item>
-        <item quantity="many">שמור %d תמונות נבחרות ומחק את השאר?</item>
+        <item quantity="other">מחק %d תמונות שלא נבחרו?</item>
+        <item quantity="one">מחק תמונה %d שלא נבחרה?</item>
+        <item quantity="two">מחק %d תמונות שלא נבחרו?</item>
+        <item quantity="many">מחק %d תמונות שלא נבחרו?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">למחוק %d תמונות</item>
+        <item quantity="one">למחוק תמונה %d</item>
+        <item quantity="two">למחוק %d תמונות</item>
+        <item quantity="many">למחוק %d תמונות</item>
     </plurals>
     <plurals name="burst_save_selected">
         <item quantity="other">שמור %d תמונות שנבחרו</item>
-        <item quantity="one">שמור %d תמונה שנבחרה</item>
+        <item quantity="one">שמור תמונה %d שנבחרה</item>
         <item quantity="two">שמור %d תמונות שנבחרו</item>
         <item quantity="many">שמור %d תמונות שנבחרו</item>
     </plurals>
@@ -157,10 +169,10 @@
         <item quantity="many">%d פריטים נבחרו</item>
     </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">מחק %d צילום מתפרץ מ Mi Cloud וכל המכשירים המסונכרנים?</item>
-        <item quantity="one">מחק %d צילום מתפרץ מ Mi Cloud וכל המכשירים המסונכרנים?</item>
-        <item quantity="two">מחק %d צילום מתפרץ מ Mi Cloud וכל המכשירים המסונכרנים?</item>
-        <item quantity="many">מחק %d צילום מתפרץ מ Mi Cloud וכל המכשירים המסונכרנים?</item>
+        <item quantity="other">האם למחוק %d צילומים מתפרצים מ Xiaomi Cloud וכל המכשירים המסונכרנים?</item>
+        <item quantity="one">האם למחוק צילום מתפרץ %d מ Xiaomi Cloud וכל המכשירים המסונכרנים?</item>
+        <item quantity="two">האם למחוק %d צילומים מתפרצים מ Xiaomi Cloud וכל המכשירים המסונכרנים?</item>
+        <item quantity="many">האם למחוק %d צילומים מתפרצים מ Xiaomi Cloud וכל המכשירים המסונכרנים?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">מחק %d צילומים מתפרצים?</item>
@@ -169,16 +181,22 @@
         <item quantity="many">מחק %d צילומים מתפרצים?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">מחק %d צילומים מתפרצים מ Mi Cloud וכל המכשירים המסונכרנים?</item>
-        <item quantity="one">מחק %d צילום מתפרץ מ Mi Cloud ומכשיר זה?</item>
-        <item quantity="two">מחק %d צילומים מתפרצים מ Mi Cloud וכל המכשירים המסונכרנים?</item>
-        <item quantity="many">מחק %d צילומים מתפרצים מ Mi Cloud וכל המכשירים המסונכרנים?</item>
+        <item quantity="other">האם למחוק %d צילומים מתפרצים מ Xiaomi Cloud וכל המכשירים המסונכרנים?</item>
+        <item quantity="one">האם למחוק צילום מתפרץ %d מ Xiaomi Cloud וכל המכשירים המסונכרנים?</item>
+        <item quantity="two">האם למחוק %d צילומים מתפרצים מ Xiaomi Cloud וכל המכשירים המסונכרנים?</item>
+        <item quantity="many">האם למחוק %d צילומים מתפרצים מ Xiaomi Cloud וכל המכשירים המסונכרנים?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d פריטים נמחקו</item>
+        <item quantity="one">פריט %d נמחק</item>
+        <item quantity="two">%d פריטים נמחקו</item>
+        <item quantity="many">%d פריטים נמחקו</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">למחוק %d פריטים מכל המכשירים ומ-Mi Cloud?</item>
-        <item quantity="one">למחוק פריט %d מכל המכשירים ומ-Mi Cloud?</item>
-        <item quantity="two">למחוק %d פריטים מכל המכשירים ומ-Mi Cloud?</item>
-        <item quantity="many">למחוק %d פריטים מכל המכשירים ומ-Mi Cloud?</item>
+        <item quantity="other">האם למחוק %d פריטים מכל המכשירים ו Xiaomi Cloud?</item>
+        <item quantity="one">האם למחוק פריט %d מכל המכשירים ו Xiaomi Cloud?</item>
+        <item quantity="two">האם למחוק %d פריטים מכל המכשירים ו Xiaomi Cloud?</item>
+        <item quantity="many">האם למחוק %d פריטים מכל המכשירים ו Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_media_from_local">
         <item quantity="other">למחוק %d פריטים?</item>
@@ -187,28 +205,28 @@
         <item quantity="many">למחוק %d פריטים?</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">למחוק %d פריטים מאלבום זה ומ-Mi Cloud?</item>
-        <item quantity="one">למחוק פריט %d מאלבום זה ומ-Mi Cloud?</item>
-        <item quantity="two">למחוק %d פריטים מאלבום זה ומ-Mi Cloud?</item>
-        <item quantity="many">למחוק %d פריטים מאלבום זה ומ-Mi Cloud?</item>
+        <item quantity="other">מחק %d פריטים מאלבום זה ו Xiaomi Cloud?</item>
+        <item quantity="one">מחק פריט %d מאלבום זה ו Xiaomi Cloud?</item>
+        <item quantity="two">מחק %d פריטים מאלבום זה ו Xiaomi Cloud?</item>
+        <item quantity="many">מחק %d פריטים מאלבום זה ו Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">למחוק %d תמונות מכל המכשירים ומ-Mi Cloud?</item>
-        <item quantity="one">למחוק תמונה זו מכל המכשירים ומ-Mi Cloud?</item>
-        <item quantity="two">למחוק %d תמונות מכל המכשירים ומ-Mi Cloud?</item>
-        <item quantity="many">למחוק %d תמונות מכל המכשירים ומ-Mi Cloud?</item>
+        <item quantity="other">למחוק %d תמונות מכל המכשירים ומ-Xiaomi Cloud?</item>
+        <item quantity="one">למחוק %d תמונות מכל המכשירים ומ- Xiaomi Cloud?</item>
+        <item quantity="two">למחוק %d תמונות מכל המכשירים ומ-Xiaomi Cloud?</item>
+        <item quantity="many">למחוק %d תמונות מכל המכשירים ומ-Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_photo_from_local">
-        <item quantity="other">למחוק %d תמונות?</item>
-        <item quantity="one">למחוק תמונה זו?</item>
-        <item quantity="two">למחוק %d תמונות?</item>
-        <item quantity="many">למחוק %d תמונות?</item>
+        <item quantity="other">מחק %d תמונות?</item>
+        <item quantity="one">מחק תמונה %d?</item>
+        <item quantity="two">מחק %d תמונות?</item>
+        <item quantity="many">מחק %d תמונות?</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">למחוק %d תמונות מאלבום זה ומ-Mi Cloud?</item>
-        <item quantity="one">למחוק תמונה זו מאלבום זה ומ-Mi Cloud?</item>
-        <item quantity="two">למחוק %d תמונות מאלבום זה ומ-Mi Cloud?</item>
-        <item quantity="many">למחוק %d תמונות מאלבום זה ומ-Mi Cloud?</item>
+        <item quantity="other">האם למחוק %d מאלבום זה ו Xiaomi Cloud?</item>
+        <item quantity="one">האם למחוק תמונה זו %d מאלבום זה ו Xiaomi Cloud?</item>
+        <item quantity="two">האם למחוק %d מאלבום זה ו Xiaomi Cloud?</item>
+        <item quantity="many">האם למחוק %d מאלבום זה ו Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">מחק %d צילומים ממכשירך?</item>
@@ -217,22 +235,22 @@
         <item quantity="many">מחק %d צילומים ממכשירך?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">למחוק %d סרטונים מכל המכשירים ומ-Mi Cloud?</item>
-        <item quantity="one">למחוק סרטון זה מכל המכשירים ומ-Mi Cloud?</item>
-        <item quantity="two">למחוק %d סרטונים מכל המכשירים ומ-Mi Cloud?</item>
-        <item quantity="many">למחוק %d סרטונים מכל המכשירים ומ-Mi Cloud?</item>
+        <item quantity="other">האם למחוק %d סרטונים מכל המכשירים ו Xiaomi Cloud?</item>
+        <item quantity="one">האם למחוק סרטון %d מכל המכשירים ו Xiaomi Cloud?</item>
+        <item quantity="two">האם למחוק %d סרטונים מכל המכשירים ו Xiaomi Cloud?</item>
+        <item quantity="many">האם למחוק %d סרטונים מכל המכשירים ו Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_video_from_local">
-        <item quantity="other">למחוק %d סרטונים?</item>
-        <item quantity="one">למחוק סרטון זה?</item>
-        <item quantity="two">למחוק %d סרטונים?</item>
-        <item quantity="many">למחוק %d סרטונים?</item>
+        <item quantity="other">מחק %d סרטונים?</item>
+        <item quantity="one">מחק סרטון %d?</item>
+        <item quantity="two">מחק %d סרטונים?</item>
+        <item quantity="many">מחק %d סרטונים?</item>
     </plurals>
     <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">למחוק %d סרטונים מאלבום זה ומ-Mi Cloud?</item>
-        <item quantity="one">למחוק סרטון זה מאלבום זה ומ-Mi Cloud?</item>
-        <item quantity="two">למחוק %d סרטונים מאלבום זה ומ-Mi Cloud?</item>
-        <item quantity="many">למחוק %d סרטונים מאלבום זה ומ-Mi Cloud?</item>
+        <item quantity="other">האם למחוק %d סרטונים מאלבום זה ו Xiaomi Cloud?</item>
+        <item quantity="one">האם למחוק סרטון %d מאלבום זה ו Xiaomi Cloud?</item>
+        <item quantity="two">האם למחוק סרטון %d מאלבום זה ו Xiaomi Cloud?</item>
+        <item quantity="many">האם למחוק %d סרטונים מאלבום זה ו Xiaomi Cloud?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">לא ניתן היה להוריד %1$d קבצים</item>
@@ -263,6 +281,12 @@
         <item quantity="one">דולגה תמונה אחת שלא ניתן היה להציג.</item>
         <item quantity="two">דולגו %1$d תמונות שלא ניתן היה להציג.</item>
         <item quantity="many">דולגו %1$d תמונות שלא ניתן היה להציג.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d קבצים</item>
+        <item quantity="one">קובץ %1$d</item>
+        <item quantity="two">%1$d קבצים</item>
+        <item quantity="many">%1$d קבצים</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d פריטים ממתינים לגיבוי</item>
@@ -319,10 +343,10 @@
         <item quantity="many">%1$d פריטים בסה\"כ</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-        <item quantity="other">התמונות שנבחרו אינן על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
-        <item quantity="one">התמונה שנבחרה אינה על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
-        <item quantity="two">התמונות שנבחרו אינן על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
-        <item quantity="many">התמונות שנבחרו אינן על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
+        <item quantity="other">התמונות שנבחרו אינן על המכשיר, האם להוריד באמצעות שימוש בנתונים סלולריים?</item>
+        <item quantity="one">התמונה שנבחרה אינה על המכשיר, האם להוריד באמצעות שימוש בנתונים סלולריים?</item>
+        <item quantity="two">התמונות שנבחרו אינן על המכשיר, האם להוריד באמצעות שימוש בנתונים סלולריים?</item>
+        <item quantity="many">התמונות שנבחרו אינן על המכשיר, האם להוריד באמצעות שימוש בנתונים סלולריים?</item>
     </plurals>
     <plurals name="picker_all_image_will_download">
         <item quantity="other">התמונות שנבחרו אינן על מכשיר. תתבצע הורדה.</item>
@@ -331,10 +355,10 @@
         <item quantity="many">התמונות שנבחרו אינן על מכשיר. תתבצע הורדה.</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">התמונות שנבחרו (%dMB) אינן על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
-        <item quantity="one">התמונה שנבחרה (%dMB) אינה על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
-        <item quantity="two">התמונות שנבחרו (%dMB) אינן על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
-        <item quantity="many">התמונות שנבחרו (%dMB) אינן על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
+        <item quantity="other">התמונות שנבחרו (%dMB) אינן על המכשיר, האם להוריד באמצעות שימוש בנתונים סלולריים?</item>
+        <item quantity="one">התמונה שנבחרה (%dMB) אינה על המכשיר, האם להוריד באמצעות שימוש בנתונים סלולריים?</item>
+        <item quantity="two">התמונות שנבחרו (%dMB) אינן על המכשיר, האם להוריד באמצעות שימוש בנתונים סלולריים?</item>
+        <item quantity="many">התמונות שנבחרו (%dMB) אינן על המכשיר, האם להוריד באמצעות שימוש בנתונים סלולריים?</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">לבטל את הורדת %d התמונות הנותרות?</item>
@@ -419,6 +443,12 @@
         <item quantity="one">לא ניתן היה לשתף. עדיין מעבד תמונה %d…</item>
         <item quantity="two">לא ניתן היה לשתף. עדיין מעבד %d תמונות…</item>
         <item quantity="many">לא ניתן היה לשתף. עדיין מעבד %d תמונות…</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d שניות</item>
+        <item quantity="one">שניה %1$d</item>
+        <item quantity="two">%1$d שניות</item>
+        <item quantity="many">%1$d שניות</item>
     </plurals>
     <plurals name="slim_complete_photo_count">
         <item quantity="other">%d תמונות יועלו</item>

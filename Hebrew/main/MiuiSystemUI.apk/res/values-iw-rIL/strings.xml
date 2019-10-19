@@ -36,6 +36,7 @@
     <string name="accessibility_camera_button">מצלמה</string>
     <string name="accessibility_carrier_network_change_mode">מתבצע שינוי של ספק הרשת.</string>
     <string name="accessibility_cast_name">מחובר אל %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">שידור המסך הופסק.</string>
     <string name="accessibility_cell_data">גלישה סלולרית</string>
     <string name="accessibility_cell_data_off">גלישה סלולרית מושבתת</string>
@@ -317,14 +318,12 @@
     <string name="block_notification_content_text">"ההתראות של %1$s לא יוצגו שוב. תוכל לשנות זאת ב'הגדרות'."</string>
     <string name="block_notification_desc">"התראות היישום לא יוצגו שוב. תוכל לשנות זאת ב'הגדרות'."</string>
     <string name="block_notification_text">הסתר</string>
-    <string name="block_record_notification_text">מסתיר התראות מ- %1$s.</string>
-    <string name="block_record_notification_title">ההתראות הוסתרו</string>
     <string name="bluetooth_a2dp_profile_summary_connected">מחובר לשמע מדיה</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">השתמש עבור שמע של מדיה</string>
     <string name="bluetooth_active_battery_level">פעיל, אחוז הסוללה %1$s</string>
     <string name="bluetooth_active_no_battery_level">פעיל</string>
     <string name="bluetooth_battery_level">אחוז הסוללה %1$s</string>
-    <string name="bluetooth_connected">מתחבר%1$s</string>
+    <string name="bluetooth_connected">התחבר אל %1$s</string>
     <string name="bluetooth_connected_battery_level">מתחבר | סוללה %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">%1$s מקושר (ללא מדיה)</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">מתחבר (אין מדיה) | סוללה%1$s%2$s</string>
@@ -516,6 +515,7 @@
     <string name="description_direction_left">החלק שמאלה עבור %s.</string>
     <string name="description_direction_up">החלק מעלה עבור %s.</string>
     <string name="description_image_button_answer">מענה</string>
+    <string name="description_image_button_bubble_answer">רמקול</string>
     <string name="description_image_button_reject">דחיה</string>
     <string name="description_image_icon_sim_card">SIM %1$d</string>
     <string name="description_target_search">חיפוש</string>
@@ -530,7 +530,6 @@
     <string name="development_settings_title">אפשרויות מפתח</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">הערה: תוכל להשתמש במקלדת זו לאחר אתחול המכשיר רק במידה ותבטל את נעילת מכשירך.</string>
-    <string name="disable_notification_summary">לעולם אל תציג התראות מיישומים נבחרים</string>
     <string name="disable_notification_title">הסתר התראות</string>
     <string name="disable_overlays">השבת שכבת על של HW</string>
     <string name="disable_overlays_summary">השתמש תמיד ב-GPU עבור צלימת שכבות המסך</string>
@@ -589,30 +588,31 @@
     <string name="enable_terminal_title">טרמינל מקומי</string>
     <string name="enabled_by_admin">אופשר על ידי המנהל</string>
     <string name="ethernet_label">אתרנט</string>
-    <string name="expanded_confirm_disable_notification">הסתר</string>
     <string name="expanded_header_battery_charged">טעון</string>
     <string name="expanded_header_battery_charging">בטעינה</string>
     <string name="expanded_header_battery_charging_with_time">%s לטעינה מלאה</string>
     <string name="expanded_header_battery_not_charging">לא בטעינה</string>
     <string name="expanded_notification_manager">ניהול התראות</string>
     <string name="experimental">ניסיוני</string>
-    <string name="ext_media_badremoval_notification_message">בטל טעינה של כרטיס זכרון לפני הסרתו למניעת אובדן נתונים.</string>
-    <string name="ext_media_badremoval_notification_title">כרטיס זכרון הוסר באופן לא צפוי</string>
+    <string name="ext_media_badremoval_notification_message">בטל טעינה של אחסון USB לפני הסרתו למניעת אובדן נתונים.</string>
+    <string name="ext_media_badremoval_notification_title">אחסון USB הוסר באופן לא צפוי</string>
     <string name="ext_media_checking_notification_message">מחפש אחר שגיאות.</string>
-    <string name="ext_media_checking_notification_title">מכין כרטיס זכרון</string>
+    <string name="ext_media_checking_notification_title">מכין אחסון USB</string>
     <string name="ext_media_mountable_notification_message">הקש לפתיחת מנהל הקבצים</string>
     <string name="ext_media_mountable_notification_title">מחובר התקן אחסון USB</string>
-    <string name="ext_media_nofs_notification_message">כרטיס זכרון ריק או מכיל מערכת קבצים שאינה נתמכת.</string>
-    <string name="ext_media_nofs_notification_title">כרטיס זכרון ריק</string>
-    <string name="ext_media_nomedia_notification_message">כרטיס הזכרון הוסר. הכנס כרטיס חדש.</string>
-    <string name="ext_media_nomedia_notification_title">כרטיס הזכרון הוסר</string>
+    <string name="ext_media_nofs_notification_message">אחסון USB ריק או מכיל מערכת קבצים שאינה נתמכת.</string>
+    <string name="ext_media_nofs_notification_title">אחסון USB ריק</string>
+    <string name="ext_media_nomedia_notification_message">אחסון USB הוסר. הכנס מדיה חדשה.</string>
+    <string name="ext_media_nomedia_notification_title">אחסון USB הוסר</string>
     <string name="ext_media_safe_remove">הסר בבטחה</string>
-    <string name="ext_media_safe_unmount_notification_message">כעת ניתן להסיר בבטחה את כרטיס הזכרון.</string>
-    <string name="ext_media_safe_unmount_notification_title">כרטיס הזכרון ניתן להסרה בבטחה</string>
-    <string name="ext_media_unmountable_notification_message">כרטיס זכרון פגום. ייתכן שעליך לפרמט אותו.</string>
-    <string name="ext_media_unmountable_notification_title">כרטיס זכרון פגום</string>
+    <string name="ext_media_safe_unmount_notification_message">כעת ניתן להסיר בבטחה את אחסון ה-USB.</string>
+    <string name="ext_media_safe_unmount_notification_title">אחסון ה-USB ניתן להסרה בבטחה</string>
+    <string name="ext_media_unmountable_notification_message">אחסון USB פגום. ייתכן שעליך לפרמט אותו.</string>
+    <string name="ext_media_unmountable_notification_title">אחסון USB פגום</string>
     <string name="external_source_trusted">מאופשר</string>
     <string name="external_source_untrusted">לא מורשה</string>
+    <string name="face_data_apply_for_category_title">ביטול נעילה באמצעות נתוני פנים</string>
+    <string name="face_data_apply_for_keyguard_title">מסך הנעילה</string>
     <string name="face_data_input_camera_fail">לא ניתן היה לטעון את המצלמה</string>
     <string name="face_data_input_camera_ok">טוען את המצלמה…</string>
     <string name="face_data_input_cancel">ביטול</string>
@@ -644,6 +644,7 @@
     <string name="face_unlock_be_on_the_screen">החזק את המכשיר מול פניך</string>
     <string name="face_unlock_by_notification_screen_on_msg">באפשרותך לבטל את נעילת המכשיר באמצעות נתוני פנים בכל פעם שתאורת המסך נדלקת עבור התראות נכנסות. הדבר עשוי לרוקן את הסוללה מהר יותר.</string>
     <string name="face_unlock_by_notification_screen_on_title">"אפשר את 'ביטול נעילה באמצעות פנים' כאשר תאורת המסך דולקת"</string>
+    <string name="face_unlock_category_title">אפשרויות נעילת מסך</string>
     <string name="face_unlock_check_failed">לא ניתן היה לזהות אותך</string>
     <string name="face_unlock_close_screen">התקרב למסך</string>
     <string name="face_unlock_down">הרם את ראשך</string>
@@ -740,6 +741,26 @@
     <string name="gxzw_area">סורק טביעת אצבע</string>
     <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">לחץ חזק יותר</string>
+    <string name="gxzw_quick_open_add_event">הוסף אירוע</string>
+    <string name="gxzw_quick_open_add_event_sub">לוח שנה</string>
+    <string name="gxzw_quick_open_alipay_pay">קוד תשלום</string>
+    <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
+    <string name="gxzw_quick_open_alipay_scan">סורק</string>
+    <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
+    <string name="gxzw_quick_open_qr_code">קוד QR</string>
+    <string name="gxzw_quick_open_qr_code_sub">סורק</string>
+    <string name="gxzw_quick_open_search">חיפוש</string>
+    <string name="gxzw_quick_open_search_sub">דפדפן</string>
+    <string name="gxzw_quick_open_skip_teach">דלג על ההדרכה</string>
+    <string name="gxzw_quick_open_wechat_pay">קוד תשלום</string>
+    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
+    <string name="gxzw_quick_open_wechat_scan">סורק</string>
+    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
+    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
+    <string name="gxzw_quick_open_xiaoai_title1">אמור את שם היישום אשר בכוונתך להפעיל</string>
+    <string name="gxzw_quick_open_xiaoai_title2">אמור את שם התכונה אשר בכוונתך להפעיל</string>
+    <string name="gxzw_quick_tip_press">המשך ללחוץ…</string>
+    <string name="gxzw_quick_tip_slide">אל תרים את אצבעך. החלק על מנת לבחור.</string>
     <string name="gxzw_try_again">נסה שוב</string>
     <string name="gxzw_try_more_again">נסה שוב</string>
     <string name="gxzw_use_password">השתמש בסיסמה שלך לביטול הנעילה</string>
@@ -763,7 +784,7 @@
     <string name="how_to_use_drawer">כיצד לפתוח את תפריט ההחלקה</string>
     <string name="how_to_use_drawer_summary">החלק ימינה בחלק העליון של המסך</string>
     <string name="how_to_use_fsg">באפשרותך לבצע פעולות אלה באמצעות מחוות:</string>
-    <string name="ime_security_warning">%1$s מסוגל לשמור את כל מה שאתה מקליד, כולל סיסמאות, מספרי כרטיסי אשראי, ונתונים אישיים אחרים.</string>
+    <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
     <string name="immediately_destroy_activities">אל תשאיר פעילויות</string>
     <string name="immediately_destroy_activities_summary">סגור כל פעילות כאשר המשתמש עוזב אותה</string>
     <string name="important_desc">"כל ההתראות החשובות יופיעו ישירות ב'לוח ההתראות'."</string>
@@ -778,6 +799,7 @@
     <string name="input_password_after_boot_msg">לביטול נעילת המכשיר, הזן סיסמתך</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">לא ניתן להחליף בין שטחים במהלך שיחה</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">לא ניתן להחליף שטחים כאשר מצב בקרת ההורים מופעל</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">לא ניתן היה להחליף בין משטחים כאשר מצב חיסכון קיצוני בסוללה עובד</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">"עליך להיכנס ל'שטח ראשון' לאחר שהמכשיר אותחל"</string>
     <string name="input_password_hint_text">הזן סיסמה</string>
     <string name="input_pattern_hint_text">צייר את תבנית הפתיחה שלך</string>
@@ -858,6 +880,10 @@
     <string name="keyguard_charged">נטען</string>
     <string name="keyguard_charging_back_to_lockscreen">חזרה אל מסך הנעילה</string>
     <string name="keyguard_charging_info_battery_used_time_text">משך פעילות הסוללה</string>
+    <string name="keyguard_charging_info_data_c">℃%s</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">התרוקנות</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">היום %s</string>
@@ -885,6 +911,7 @@
     <string name="keyguard_missing_sim_instructions_long">כרטיס ה-SIM חסר או שאינו קריא. הכנס כרטיס SIM.</string>
     <string name="keyguard_missing_sim_message">אין כרטיס SIM בטלפון.</string>
     <string name="keyguard_missing_sim_message_short">אין כרטיס SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">הרשת נעולה</string>
     <string name="keyguard_password_enter_password_code">הזן סיסמה כדי לפתוח את הנעילה</string>
     <string name="keyguard_password_enter_pin_code">הזן קוד PIN</string>
@@ -968,6 +995,7 @@
     <string name="left_keycode">קוד מקש שמאלי</string>
     <string name="left_nav_bar_button_type">לחצן שמאלי נוסף</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">"לחץ לשינוי או הסרה של סיסמת הגיבויים המלאים עבור 'מסך הבית'"</string>
     <string name="local_backup_password_summary_none">"גיבויים מלאים של 'מסך הבית' אינם מוגנים כרגע"</string>
     <string name="local_backup_password_title">"סיסמת גיבוי ל'מסך הבית'"</string>
@@ -1041,17 +1069,18 @@ MMMM d"</string>
     <string name="miui_guide_dialog_message">"צלילי מדיה (מוזיקה, וידאו וכדומה) יושמעו גם במצב שקט. תוכל לשנות זאת ב'הגדרות'."</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">הנעילה בוטלה על ידי התקן Bluetooth</string>
     <string name="miui_ringer_count_down">ספירה לאחור</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">שקט</string>
     <string name="miui_ringer_standard_description">השתקת צלצולים עבור שיחות והתראות נכנסות</string>
     <string name="miui_ringer_total">נא לא להפריע</string>
     <string name="miui_ringer_total_description">השתקת צלילים והשבתת רטט עבור כל ההתראות למעט השעון המעורר</string>
     <string name="miui_screen_rotation_freeze_message">סיבוב אוטומטי בוטל.</string>
-    <string name="miui_toast_zen_dnd_to_off">הצלילים והרטט הוחזרו למצב הרגיל</string>
-    <string name="miui_toast_zen_standard_to_off">הצלילים הוחזרו למצב הרגיל</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">צלצולים, צלילי התראות ומדיה יושמעו.</string>
-    <string name="miui_toast_zen_to_dnd">צלילים הושתקו ורטט הושבת</string>
-    <string name="miui_toast_zen_to_standard">הושתקו צלילים עבור שיחות והתראות</string>
-    <string name="miui_toast_zen_to_standard_when_shield_media">צלצולים, צלילי התראות ומדיה יושתקו.</string>
+    <string name="miui_toast_zen_dnd_to_off">מצב נא לא להפריע כבוי כעת. צלילים ורטט שוחזרו למצב נורמלי.</string>
+    <string name="miui_toast_zen_standard_to_off">מצב שקט כבוי מעכשיו. הטלפון ישמיע רינגטונים כרגיל.</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">מצב שקט כבוי מעכשיו. הטלפון ישמיע רינגטונים וגם צלילי התראות ומדיה.</string>
+    <string name="miui_toast_zen_to_dnd">מחליף למצב \"נא לא להפריע\". צלילים יושתקו ורטט במצב מושתק כעת.</string>
+    <string name="miui_toast_zen_to_standard">עברת למצב שקט. מעתה הטלפון לא ישמיע רינגטונים כשיתקבלו שיחות והודעות.</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">עברת למצב שקט. מעתה הטלפון לא ישמיע רינגטונים או צלילי התראות ומדיה.</string>
     <string name="mobile_data">גלישה סלולרית</string>
     <string name="mobile_data_always_on">נתונים סלולריים פעילים תמיד</string>
     <string name="mobile_data_always_on_summary">השאר תמיד את חיבור הנתונים הסלולרי פעיל, גם כאשר חיבור הרשתות האלחוטיות פעיל (לצורך החלפה מהירה בין רשתות).</string>
@@ -1068,12 +1097,14 @@ MMMM d"</string>
 
 למידע נוסף פנה אל המנהל שלך."</string>
     <string name="monitoring_description_ca_cert_settings">פתח את האישורים המהימנים</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">תעודת הסמכה מותקנת על גבי מכשיר זה. תעבורת הרשת המאובטחת שלך עשויה להיות מנוטרת או לעבור עריכה על ידי גורמים אחרים.</string>
     <string name="monitoring_description_do_body">מנהל המכשיר יכול לנטר ולנהל את ההגדרות, האפליקציות, הנתונים שקשורים למכשירך, פרטי המיקום של מכשירך וגישת ארגונים.</string>
     <string name="monitoring_description_do_body_vpn">אתה מחובר אל %1$s, שיכולה לנטר את הפעילות שלך ברשת, כולל אימייל, אפליקציות וגלישה באתרי אינטרנט.</string>
     <string name="monitoring_description_do_header_generic">המכשיר שלך מנוהל על-ידי %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s משתמש ב-%2$s כדי לנהל את מכשירך.</string>
     <string name="monitoring_description_do_learn_more">מידע נוסף</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">הארגון אליו הינך שייך התקין תעודת הסמכה בפרופיל העבודה שלך. תעבורת הרשת המאובטחת שלך עשויה להיות מנוטרת או לעבור עריכה.</string>
     <string name="monitoring_description_managed_profile_named_vpn">פרופיל העבודה שלך מחובר אל %1$s, אשר יכול לנטר את פעילות הרשת שלך, כולל דוא\"ל, יישומים ואתרי אינטרנט.</string>
     <string name="monitoring_description_management">"מכשירך מנוהל על ידי הארגון אליו הינך שייך.
@@ -1105,6 +1136,7 @@ MMMM d"</string>
 
 אתה גם מחובר לרשת VPN, שיכולה לנטר את הפעילות שלך ברשת."</string>
     <string name="monitoring_description_vpn_settings">פתח את הגדרות ה-VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">תעודות CA</string>
     <string name="monitoring_subtitle_network_logging">רישום רשת</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1119,6 +1151,7 @@ MMMM d"</string>
     <string name="nav_guide_message">השתמש במחוות כדי להסתיר/להציג לחצנים מתוכנתים.</string>
     <string name="nav_guide_ok">הגדר</string>
     <string name="nav_guide_title">הסתר את הלחצנים המתוכנתים</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">ללא</string>
     <string name="no_multi_window_app">"לא קיימים יישומים התומכים ב'מסך מפוצל'"</string>
     <string name="no_notification_tips">אין הודעות</string>
@@ -1190,10 +1223,10 @@ MMMM d"</string>
     <string name="okay">אישור</string>
     <string name="oldman_airplane_mode_text">מצב טיסה</string>
     <string name="oldman_incall_text">חזרה אל השיחה</string>
-    <string name="open_camera_hint_text">החלק שמאלה לפתיחת המצלמה</string>
+    <string name="open_camera_hint_text">גרור את האייקון על מנת לפתוח מצלמה</string>
     <string name="open_extreme_power_save_mode_title">הפעל מצב של חיסכון קיצוני בסוללה</string>
     <string name="open_lock_screen_magazine_hint_text">החלק ימינה לאפשריות נוספות</string>
-    <string name="open_remote_center_hint_text">החלק ימינה בכדי לפתוח את מרכז השליטה</string>
+    <string name="open_remote_center_hint_text">החלק ימינה בכדי לצפות בפקדים</string>
     <string name="other">אחר</string>
     <string name="overlay_display_devices_title">צור הדמיית תצוגות משניות</string>
     <string name="overview">סקירה כללית</string>
@@ -1202,11 +1235,11 @@ MMMM d"</string>
     <string name="phone_locked_foget_password">שכחת את הסיסמה?</string>
     <string name="phone_locked_foget_password_mehod_back">חזרה</string>
     <string name="phone_locked_foget_password_method">שכחת את הסיסמה?</string>
-    <string name="phone_locked_foget_password_method_content">"&lt;Data>עליך &lt;font color=#a5220e>למחוק את כל הנתונים &lt;/font> שעל גבי המכשיר שלך, כולל תמונות ואנשי קשר ואז להגדיר סיסמה חדשה עבור 'מסך הנעילה'.;&lt;/Data>"</string>
+    <string name="phone_locked_foget_password_method_content">"&lt;Data>עליך &lt;font color=#a5220e>למחוק את כל הנתונים &lt;/font> שעל גבי המכשיר שלך, כולל תמונות ואנשי קשר ואז להגדיר סיסמה חדשה עבור 'מסך הנעילה'.&lt;/Data>"</string>
     <string name="phone_locked_foget_password_method_next">הבא</string>
     <string name="phone_locked_foget_password_ok">הבנתי</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>כבה את מכשירך, לחץ וכבה את &lt;font color=#a5220e>לחצן ההפעלה&lt;/font> ואת &lt;font color=#a5220e>לחצן הגברת השמע&lt;/font> בו זמנית עד להופעת הלוגו של Mi.;&lt;/Data></string>
-    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>בחר &lt;font color=#a5220e>\"הסרה &amp;amp; איפוס\"&lt;/font> והמתן לביצוע אתחול של המכשיר.;&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>כבה את מכשירך, לחץ וכבה את &lt;font color=#a5220e>לחצן ההפעלה&lt;/font> ואת &lt;font color=#a5220e>לחצן הגברת השמע&lt;/font> בו זמנית עד להופעת הלוגו של Mi.&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>בחר &lt;font color=#a5220e>\"הסרה &amp;amp; איפוס\"&lt;/font> והמתן לביצוע אתחול של המכשיר.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">כיצד למחוק נתונים?</string>
     <string name="phone_locked_string">הטלפון ננעל</string>
     <string name="picture_color_mode">מצב צבע תמונה</string>
@@ -1282,6 +1315,7 @@ MMMM d"</string>
     <string name="private_dns_mode_provider">שם המארח של DNS פרטי</string>
     <string name="private_dns_mode_provider_failure">לא ניתן להתחבר</string>
     <string name="private_dns_mode_provider_hostname_hint">הזן את שם המארח של ספק ה-DNS</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">ייתכן שמתבצע ניטור הפרופיל</string>
     <string name="prompt_danger">סכנה</string>
     <string name="prompt_detecting">מזהה</string>
@@ -1295,6 +1329,7 @@ MMMM d"</string>
     <string name="qs_dnd_replace">החלף</string>
     <string name="qs_dnd_until">עד השעה %s</string>
     <string name="qs_edit">עריכה</string>
+    <string name="qs_open_night_mode_alert_summary">הגדרות תצוגה מסוימות אינן תואמות למצב מוחשך. יחד עם זאת, הם ישוחזרו כאשר תכבה את מצב מוחשך.</string>
     <string name="qs_rearrange">שנה את פריסת ההגדרות המהירות</string>
     <string name="quick_settings">הגדרות מהירות</string>
     <string name="quick_settings_autobrightness_label">בהירות אוטומטית</string>
@@ -1363,6 +1398,7 @@ MMMM d"</string>
     <string name="quick_settings_night_secondary_label_on_at">יופעל בשעה %s</string>
     <string name="quick_settings_night_secondary_label_on_at_sunset">יופעל עם זריחה</string>
     <string name="quick_settings_night_secondary_label_until_sunrise">עד השקיעה</string>
+    <string name="quick_settings_nightmode_label">מצב מוחשך</string>
     <string name="quick_settings_notifications_label">הודעות</string>
     <string name="quick_settings_papermode_label">מצב קריאה</string>
     <string name="quick_settings_powermode_label">מצב ביצועים</string>
@@ -1413,11 +1449,13 @@ MMMM d"</string>
     <string name="recents_accessibility_split_screen_top">פצל את המסך בחלק העליון</string>
     <string name="recents_app_info_button_label">פרטי האפליקציה</string>
     <string name="recents_caption_resize">בחר מתוה משימה חדש</string>
+    <string name="recents_dimiss_task">ניקוי</string>
     <string name="recents_drag_hint_message">לחץ והחזק את היישום, ואז גרור אותו.</string>
     <string name="recents_empty_message">אין פריטים שנוספו לאחרונה</string>
     <string name="recents_empty_message_dismissed_all">איפסת את הכול</string>
     <string name="recents_empty_message_multi_window">"פתח יישומים מתוך 'מסך הבית'"</string>
     <string name="recents_exit_multi_window_mode">יציאה</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">לא ניתן להשתמש במסך חצוי בשעת שידור</string>
     <string name="recents_incompatible_app_message">"יישום זה אינו תומך ב'מסך מפוצל'"</string>
     <string name="recents_launch_disabled_message">%s מושבתת במצב בטוח.</string>
     <string name="recents_launch_error_message">לא ניתן להפעיל את %s.</string>
@@ -1428,6 +1466,7 @@ MMMM d"</string>
     <string name="recents_multistack_add_stack_dialog_split_vertical">פיצול אנכי</string>
     <string name="recents_search_bar_label">חיפוש</string>
     <string name="recents_stack_action_button_label">אפס הכול</string>
+    <string name="recents_task_screening">משדר</string>
     <string name="recents_title_app_manager">ניהול יישומים</string>
     <string name="recents_title_game">משחקים</string>
     <string name="recents_title_garbage_cleanup">מנקה</string>
@@ -1779,11 +1818,11 @@ MMM d"</string>
     <string name="usb_preference_title">אפשרויות להעברת קבצים ב-USB</string>
     <string name="usb_ptp_text">תמונות</string>
     <string name="usb_share_net_info">שימוש בחיבור האינטרנט של המחשב</string>
-    <string name="usb_storage_error_message">קיימת בעיה עם כרטיס הזכרון שלך.</string>
-    <string name="usb_storage_message">התחברת למחשב באמצעות USB. לחץ על הכפתור המופיע מטה לשיתוף קבצים בין המחשב לכרטיס הזכרון של האנדרואיד שלך.</string>
+    <string name="usb_storage_error_message">אירעה שגיאה במהלך נסיון הצגת ההתקן שלך כאחסון USB.</string>
+    <string name="usb_storage_message">התחברת למחשב באמצעות USB. לחץ על הכפתור המופיע מטה לשיתוף קבצים בין המחשב לאחסון ה-USB של האנדרואיד שלך.</string>
     <string name="usb_storage_notification_message">בחר על מנת להעתיק קבצים למחשב ומהמחשב שלך.</string>
     <string name="usb_storage_notification_title">USB מחובר</string>
-    <string name="usb_storage_stop_message">לפני כיבוי אחסון ה-USB, ודא שביטלת את טעינת (“ejected”) כרטיס הזכרון של התקן האנדרואיד שלך מהמחשב.</string>
+    <string name="usb_storage_stop_message">לפני כיבוי אחסון ה-USB, ודא שביטלת את טעינת (“ejected”) אחסון ה-USB של התקן האנדרואיד שלך מהמחשב.</string>
     <string name="usb_storage_stop_notification_message">בחר על מנת לכבות אחסון USB.</string>
     <string name="usb_storage_stop_notification_title">כבוי אחסון USB</string>
     <string name="usb_storage_stop_title">אחסון ה-USB בשימוש</string>
@@ -1857,6 +1896,7 @@ MMM d"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">הקסדצימלי</string>
     <string name="wapi_yes">כן</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">עודכן %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">כרגע אין מקומות פנויים בנקודת הגישה</string>
     <string name="wifi_auto_sel_wapi_cert">בחר באופן אוטומטי</string>
@@ -1890,12 +1930,14 @@ MMM d"</string>
     <string name="wifi_security_none">ללא</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>

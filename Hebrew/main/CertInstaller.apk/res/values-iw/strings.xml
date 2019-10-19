@@ -26,8 +26,8 @@
     <string name="cert_too_large_error">לא ניתן להתקין מפני שהאישור גדול מדי.</string>
     <string name="cert_missing_error">לא ניתן להתקין מפני שקובץ האישור לא נמצא.</string>
     <string name="cert_read_error">לא ניתן להתקין מפני שקובץ האישור לא נמצא.</string>
-    <string name="no_cert_file_found">‏לא נמצא קובץ אישור בכרטיס ה-SD.</string>
-    <string name="sdcard_not_present">‏אין כרטיס SD.</string>
+    <string name="no_cert_file_found">‏לא נמצא קובץ אישור באמצעי אחסון מסוג USB.</string>
+    <string name="sdcard_not_present">‏אחסון USB לא זמין.</string>
     <string name="only_primary_user_allowed">רק הבעלים של מכשיר זה יכול להתקין אישורים.</string>
     <string name="credential_usage_label">השימוש בפרטי הכניסה:</string>
     <string name="certificate_capabilities_warning">הערה: המנפיק של אישור זה עשוי לבדוק את כל התנועה אל המכשיר וממנו.</string>

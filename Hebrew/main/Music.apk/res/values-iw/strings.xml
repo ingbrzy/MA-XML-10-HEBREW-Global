@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">נווט לדף הבית</string>
-    <string name="abc_action_bar_up_description">נווט למעלה</string>
+    <string name="abc_action_bar_home_description">ניווט לדף הבית</string>
+    <string name="abc_action_bar_up_description">ניווט למעלה</string>
     <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
-    <string name="abc_action_mode_done">בוצע</string>
-    <string name="abc_activity_chooser_view_see_all">ראה הכל</string>
-    <string name="abc_activitychooserview_choose_application">בחר אפליקציה</string>
+    <string name="abc_action_mode_done">סיום</string>
+    <string name="abc_activity_chooser_view_see_all">הצגת הכול</string>
+    <string name="abc_activitychooserview_choose_application">בחירת אפליקציה</string>
     <string name="abc_capital_off">כבוי</string>
-    <string name="abc_capital_on">פועל</string>
+    <string name="abc_capital_on">מופעל</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">מחיקה</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">רווח</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">תפריט+</string>
     <string name="abc_search_hint">חיפוש…</string>
-    <string name="abc_searchview_description_clear">מחק שאילתה</string>
+    <string name="abc_searchview_description_clear">מחיקת השאילתה</string>
     <string name="abc_searchview_description_query">שאילתת חיפוש</string>
     <string name="abc_searchview_description_search">חיפוש</string>
-    <string name="abc_searchview_description_submit">שלח שאילתה</string>
+    <string name="abc_searchview_description_submit">שליחת שאילתה</string>
     <string name="abc_searchview_description_voice">חיפוש קולי</string>
-    <string name="abc_shareactionprovider_share_with">שתף עם</string>
-    <string name="abc_shareactionprovider_share_with_application">שתף עם %s</string>
-    <string name="abc_toolbar_collapse_description">כווץ</string>
+    <string name="abc_shareactionprovider_share_with">שיתוף עם</string>
+    <string name="abc_shareactionprovider_share_with_application">שיתוף עם %s</string>
+    <string name="abc_toolbar_collapse_description">כיווץ</string>
     <string name="common_google_play_services_enable_button">הפעל</string>
     <string name="common_google_play_services_enable_text">‏האפליקציה %1$s לא תפעל אם לא תפעיל את שירותי Google Play.</string>
     <string name="common_google_play_services_enable_title">‏הפעל את שירותי Google Play</string>
@@ -54,7 +64,9 @@
     <string name="exo_download_notification_channel_name">הורדות</string>
     <string name="exo_download_removing">מסיר הורדות</string>
     <string name="exo_item_list">%1$s‏, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f מגה סיביות לשנייה</string>
     <string name="exo_track_mono">מונו</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">אוטומטי</string>
     <string name="exo_track_selection_none">ללא</string>
     <string name="exo_track_selection_title_audio">אודיו</string>
@@ -65,6 +77,7 @@
     <string name="exo_track_surround_5_point_1">סראונד 5.1</string>
     <string name="exo_track_surround_7_point_1">סראונד 7.1</string>
     <string name="exo_track_unknown">לא ידוע</string>
+    <string name="expand_button_title">מתקדם</string>
     <string name="fcm_fallback_notification_channel_label">שונות</string>
     <string name="gcm_fallback_notification_channel_label">שונות</string>
     <string name="s1">שמור את התמונה</string>
@@ -75,4 +88,8 @@
     <string name="s6">האם לאפשר למודעה ליצור אירוע ביומן?</string>
     <string name="s7">מודעת בדיקה</string>
     <string name="search_menu_title">חיפוש</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">כבוי</string>
+    <string name="v7_preference_on">מופעל</string>
 </resources>

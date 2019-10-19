@@ -48,6 +48,30 @@
         <item quantity="two">%d שניות</item>
         <item quantity="many">%d שניות</item>
     </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">שנה את מרווח הצלצולים ל %d דקות</item>
+        <item quantity="one">שנה את מרווח הצלצול ל %d דקה</item>
+        <item quantity="two">שנה את מרווח הצלצולים ל %d דקות</item>
+        <item quantity="many">שנה את מרווח הצלצולים ל %d דקות</item>
+    </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">התכבה %1$s פעמים</item>
+        <item quantity="one">התכבה פעם %1$s</item>
+        <item quantity="two">התכבה %1$s פעמים</item>
+        <item quantity="many">התכבה %1$s פעמים</item>
+    </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">בכל %1$s דקה, התכבה %2$s פעמים</item>
+        <item quantity="one">בכל %1$s דקה, כבה %2$s פעמים</item>
+        <item quantity="two">בכל %1$s דקה, התכבה %2$s פעמים</item>
+        <item quantity="many">בכל %1$s דקה, התכבה %2$s פעמים</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">בכל %1$s דקות</item>
+        <item quantity="one">בכל דקה %1$s</item>
+        <item quantity="two">בכל %1$s דקות</item>
+        <item quantity="many">בכל %1$s דקות</item>
+    </plurals>
     <plurals name="snooze_duration_summary">
         <item quantity="other">הצלצול המעורר יפסק %2$s בשעות (%1$s דקות. בכל פעם)</item>
         <item quantity="one">הצלצול המעורר יפסק %2$s בשעה (%1$s דקות)</item>

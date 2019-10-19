@@ -24,6 +24,12 @@
         <item quantity="two">ממוצע של %1$s תחנות</item>
         <item quantity="many">ממוצע של %1$s תחנות</item>
     </plurals>
+    <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">תחזית עבור %1$s ימים</item>
+        <item quantity="one">תחזית עבור %1$s ימים</item>
+        <item quantity="two">תחזית עבור %1$s ימים</item>
+        <item quantity="many">תחזית עבור %1$s ימים</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">תחזית עבור %1$s ימים</item>
         <item quantity="one">תחזית עבור יום %1$s</item>

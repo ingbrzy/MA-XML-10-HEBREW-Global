@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">זהירות</string>
     <string name="VideoView_error_text_invalid_progressive_playback">סרטון זה אינו חוקי להעברה כמדיה זורמת למכשיר זה.</string>
     <string name="selectTextMode">בחר טקסט</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">סמל טביעת אצבע</string>
     <string name="paste_as_plain_text">הדבק כטקסט פשוט</string>
     <string name="autofill">מילוי אוטומטי</string>
@@ -386,6 +387,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">קוד תכונה הושלם.</string>
     <string name="fcError">בעיה בחיבור או קוד תכונה לא תקין.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">מצא</string>
     <string name="find_next">חפש את הבא</string>
     <string name="find_on_page">חפש בדף</string>
@@ -591,6 +593,7 @@
     <string name="kg_reordering_delete_drop_target_text">הסר</string>
     <string name="kg_sim_pin_instructions">‏הזן קוד גישה ל-SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">‏מבטל נעילה של כרטיס SIM…</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"הקלדת סיסמה שגויה %1$d פעמים.
 
 נסה שוב בעוד %2$d שניות."</string>
@@ -875,6 +878,7 @@
     <string name="notification_channel_wfc">‏שיחות Wi-Fi</string>
     <string name="notification_hidden_text">הודעה חדשה</string>
     <string name="notification_listener_binding_label">מאזין להתראות</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">שירות של דירוג הודעות</string>
     <string name="notification_reply_button_accessibility">השב</string>
     <string name="notification_title">שגיאת כניסה עבור %1$s</string>
@@ -987,8 +991,8 @@
     <string name="permdesc_requestInstallPackages">מתיר לאפליקציה לבקש התקנה של חבילות.</string>
     <string name="permdesc_route_media_output">מאפשר לאפליקציה לנתב פלט מדיה למכשירים חיצוניים אחרים.</string>
     <string name="permdesc_runInBackground">האפליקציה הזו יכולה לפעול ברקע. ייתכן שהסוללה תתרוקן מהר יותר במצב זה.</string>
-    <string name="permdesc_sdcardRead">‏מאפשר לאפליקציה לקרוא את תוכן כרטיס ה-SD שלך.</string>
-    <string name="permdesc_sdcardWrite">‏מאפשר לאפליקציה לכתוב לכרטיס ה-SD.</string>
+    <string name="permdesc_sdcardRead">‏מאפשר לאפליקציה לקרוא את תוכן אחסון ה-USB שלך.</string>
+    <string name="permdesc_sdcardWrite">‏מאפשר לאפליקציה לכתוב להתקן האחסון מסוג USB.</string>
     <string name="permdesc_sendSms">‏מאפשר לאפליקציה לשלוח הודעות SMS. הדבר עשוי לגרום לחיובים בלתי צפויים. אפליקציות זדוניות עלולות לגרום לעלויות על ידי שליחת הודעות ללא אישורך.</string>
     <string name="permdesc_setAlarm">מאפשר לאפליקציה להגדיר התראה באפליקציה מותקנת של שעון מעורר. אפליקציות מסוימות של שעון מעורר אינן מיישמות תכונה זו.</string>
     <string name="permdesc_setInputCalibration">מאפשרת לאפליקציה לשנות את פרמטרי הכיול של מסך המגע. לעולם לא אמורה להיות נחוצה לאפליקציות רגילות.</string>
@@ -1129,8 +1133,8 @@
     <string name="permlab_requestInstallPackages">בקשה להתקנת חבילות</string>
     <string name="permlab_route_media_output">ניתוב פלט מדיה</string>
     <string name="permlab_runInBackground">פעולה ברקע</string>
-    <string name="permlab_sdcardRead">‏קריאת התוכן של כרטיס ה-SD שלך</string>
-    <string name="permlab_sdcardWrite">‏שינוי או מחיקה של תוכן כרטיס ה-SD שלך</string>
+    <string name="permlab_sdcardRead">‏קריאת התוכן של אחסון ה-USB שלך</string>
+    <string name="permlab_sdcardWrite">‏שינוי או מחיקה של תוכן אחסון ה-USB שלך</string>
     <string name="permlab_sendSms">‏שליחה והצגה של הודעות SMS</string>
     <string name="permlab_setAlarm">הגדרת התראה</string>
     <string name="permlab_setInputCalibration">שינוי הכיול של מכשיר קלט</string>
@@ -1221,7 +1225,7 @@
     <string name="printing_disabled_by">ההדפסה הושבתה על ידי %s.</string>
     <string name="profile_encrypted_detail">פרופיל העבודה נעול</string>
     <string name="profile_encrypted_message">הקש לביטול נעילת פרופיל העבודה</string>
-    <string name="progress_erasing">‏מוחק כרטיס SD...</string>
+    <string name="progress_erasing">‏מוחק אחסון USB...</string>
     <string name="quick_contacts_not_available">לא נמצאה אפליקציה להצגת התוכן הזה.</string>
     <string name="reason_service_unavailable">שירות ההדפסה לא הופעל</string>
     <string name="reason_unknown">לא ידוע</string>
@@ -1523,7 +1527,7 @@
     <string name="wfc_mode_wifi_preferred_summary">‏Wi-Fi מועדף</string>
     <string name="whichApplication">השלמת פעולה באמצעות</string>
     <string name="whichApplicationLabel">השלם פעולה</string>
-    <string name="whichApplicationNamed">‏השלם את הפעולה באמצעות %1$s</string>
+    <string name="whichApplicationNamed">‏להשלמת הפעולה באמצעות %1$s</string>
     <string name="whichEditApplication">ערוך באמצעות</string>
     <string name="whichEditApplicationLabel">עריכה</string>
     <string name="whichEditApplicationNamed">‏ערוך באמצעות %1$s</string>
@@ -1569,6 +1573,9 @@
     <string name="wifi_p2p_show_pin_message">קוד גישה:</string>
     <string name="wifi_p2p_to_message">אל:</string>
     <string name="wifi_p2p_turnon_message">‏הפעל Wi-Fi ישיר. פעולה זו תכבה את הנקודה לשיתוף אינטרנט ב-Wi-Fi.</string>
+    <string name="wifi_softap_config_change">שינויים להגדרות של הנקודה לשיתוף אינטרנט</string>
+    <string name="wifi_softap_config_change_detailed">‏מכשיר זה לא תומך בהעדפות שלך ל-5GHz בלבד. במקום זאת, מכשיר זה ישתמש בתדר 5GHz כשיהיה זמין.</string>
+    <string name="wifi_softap_config_change_summary">התדר של הנקודה לשיתוף אינטרנט השתנה.</string>
     <string name="wifi_wakeup_enabled_content">המיקום הנוכחי שלך הוא בקרבת הרשת השמורה: %1$s</string>
     <string name="wifi_wakeup_enabled_title">‏רשת Wi‑Fi הופעלה אוטומטית</string>
     <string name="wifi_wakeup_onboarding_action_disable">אל תפעיל שוב</string>
@@ -1597,6 +1604,7 @@
     <string name="zen_mode_feature_name">נא לא להפריע</string>
     <string name="zen_mode_forever">עד הכיבוי</string>
     <string name="zen_mode_forever_dnd">"עד שתכבה את 'נא לא להפריע'"</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">עד %1$s</string>
     <string name="zen_upgrade_notification_content">יש להקיש כדי לבדוק מה חסום.</string>
     <string name="zen_upgrade_notification_title">"ההגדרה 'נא לא להפריע' השתנתה"</string>

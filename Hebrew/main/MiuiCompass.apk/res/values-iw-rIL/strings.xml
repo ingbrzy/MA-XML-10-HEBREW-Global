@@ -37,7 +37,7 @@
     <string name="do_not_show_next_time">אל תציג שוב</string>
     <string name="error_camera_unavailable">בדוק האם יישום אחר עושה שימוש במצלמה כרגע.</string>
     <string name="error_camera_unavailable_title">המצלמה אינה זמינה</string>
-    <string name="first_using_dialog_message">המצפן זקוק לחיבור הרשת, המצלמה ושירותי המיקום של מכשירך על מנת לעבוד כרגיל.</string>
+    <string name="first_using_dialog_message">המצפן זקוק לחיבור רשת, לגישה למצלמה ושירותי המיקום של מכשירך על מנת לעבוד כרגיל.</string>
     <string name="first_using_dialog_title">הרשאות גישה</string>
     <string name="guide_toast">בכדי לכייל, הזז את המכשיר כפי שמוצג להלן.</string>
     <string name="latitude">קו רוחב (LAT)</string>
@@ -53,8 +53,10 @@
     <string name="longitude">קו אורך (LON)</string>
     <string name="mobiledata_alert_dialog_message">להתחבר לאינטרנט על מנת לבצע כיול גובה?</string>
     <string name="mobiledata_alert_dialog_title">אזהרת שימוש בנתונים</string>
-    <string name="open_perm_msg">המצפן זקוק להרשאת גישה למידע המיקום ולמצלמה. ההרשאה נחוצה כדי לקבוע את הקואורדינטות ולהעניק תצוגות מקדימות חיות. לאפשר?</string>
+    <string name="open_perm_msg">המצפן זקוק להרשאות גישה למידע אודות המיקום שלך ולגישה למצלמה. ההרשאה נחוצה בכדי לקבוע את הקואורדינטות ולהעניק תצוגות מקדימות חיות. האם לאפשר?</string>
     <string name="open_perm_title">נדרשות הרשאות</string>
+    <string name="permission_camera_desc">שימוש בפלס מים</string>
+    <string name="permission_location_desc">תצוגת הקואורדינטות והלחץ האטמוספרי</string>
     <string name="preference_other">אחר</string>
     <string name="preference_privacy_title">מדיניות הפרטיות</string>
     <string name="pressure">%.1f</string>

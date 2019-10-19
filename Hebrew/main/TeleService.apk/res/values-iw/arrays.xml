@@ -192,6 +192,31 @@
         <item>‏4K (משופר, מאובטח)</item>
         <item>‏720p‏, 1080p (מסך כפול)</item>
     </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>‏GSM/WCDMA מועדפת</item>
+        <item>‏GSM בלבד</item>
+        <item>‏WCDMA בלבד</item>
+        <item>‏GSM/‏WCDMA אוטומטית</item>
+        <item>‏CDMA/EvDo אוטומטית</item>
+        <item>‏CDMA ללא EvDo</item>
+        <item>‏EvDo בלבד</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>גלובלי</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>‏TDSCDMA בלבד</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>גלובלי</item>
         <item>LTE / CDMA</item>

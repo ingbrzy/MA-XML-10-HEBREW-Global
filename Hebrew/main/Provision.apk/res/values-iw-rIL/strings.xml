@@ -26,13 +26,16 @@
     <string name="other_settings_user_experience_summary_index">הצג פרטים</string>
     <string name="other_settings_upload_debug_log_title">שלח נתוני אבחון באופן אוטומטי</string>
     <string name="other_settings_upload_debug_log_summary">סטטיסטיקות השימוש אשר מסייעות לנו לאתר ולפתור בעיות עשויות להכיל את פרטיך האישיים</string>
-    <string name="other_settings_auto_update">עדכן באופן אוטומטי</string>
-    <string name="other_settings_auto_update_summary">מערכת MIUI תבחר את הרגע המתאים ביותר להתקנת העדכונים</string>
-    <string name="other_settings_ad_enable">המלצות מותאמות אישית עבור פרסומות</string>
-    <string name="other_settings_ad_enable_summary">קבל פרסומות מותאמות אישית על סמך נתוני ההתנהגות שלך</string>
+    <string name="other_settings_auto_update">עדכון מערכת אוטוטמי</string>
+    <string name="other_settings_auto_update_summary">MIUI יבחר את הזמן הטוב ביותר עבור הורדה והתקנה של עדכונים. המכשיר יאותחל באופן אוטומטי בכדי להחיל שינויים.</string>
+    <string name="other_settings_ad_enable">פרסומות מותאמות אישית</string>
+    <string name="other_settings_ad_enable_summary">התאם את הפרסומות לתחומי העניין שלך</string>
+    <string name="other_settings_ad_disable_summary">הפעל להתאמה אישית של פרסומות</string>
+    <string name="other_settings_ad_dialog_content">לאחר השבתת מאפיין זה, לא תקבל יותר פרסומות בהתאמה אישית. עם זאת, עדיין תראה פרסומות, והן לא יהיו רלוונטיות לתחומי העניין שלך. למידע נוסף אודות פרסום בהתאמה אישית עיין במדיניות הפרטיות של Xiaomi. בכל זאת להשבית פרסומות בהתאמה אישית?</string>
     <string name="other_settings_enhanced_lockscreen">טפט קרוסלה</string>
-    <string name="other_settings_enhanced_lockscreen_summary">קבל תמונות מובילות וסיפורים ישירות למסך הנעילה שלך באופן יום יומי. הפעל את תנאי השימוש.</string>
-    <string name="other_settings_enhanced_lockscreen_summary_index">תנאי השימוש</string>
+    <string name="other_settings_enhanced_lockscreen_summary">קבל תמונות פופלריות וסיפורים ישירות למסך הנעילה שלך מדי יום.%1$s ו %2$s</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">הסכם הרישיון עבור משתמש הקצה</string>
+    <string name="other_settings_enhanced_lockscreen_privacy_index">מדיניות הפרטיות</string>
     <string name="back">הקודם</string>
     <string name="next">הבא</string>
     <string name="skip_underline">דלג על שלב זה</string>
@@ -51,12 +54,17 @@
     <string name="terms_of_use_label">"פרטיותך חשובה לנו מאוד. אנא קרא את 'תנאי השירות' ואת 'מדיניות הפרטיות' שלנו כדי להבין איזה מידע אנו אוספים, כיצד אנו משתמשים בו ומהן האפשרויות העומדות בפניך.
 
 כדי שתוכל להשתמש ב-MIUI עליך להסכים קודם ל'תנאי השירות' ו'מדיניות הפרטיות' שלנו. %s ורכיבי החשבון של Mi יתחברו לאינטרנט וידרשו את המיקום שלך."</string>
-    <string name="terms_of_use_lable_apps">שירותי Mi, שירותי Mi SIM, Mi Cloud, איתור המכשיר שלך, מסך הבית, מרכז משחקים, MAB, MIUI Daemon ורכיבי מערכת MSA, שירותי תרגום, יישומים מהירים, כספת יישומים, סטטיסטיקה, Mi Link</string>
+    <string name="terms_of_use_lable_apps">שירותי Mi, שירותי הפעלת Mi SIM, Xiaomi Cloud, איתור המכשיר שלך, מסך הבית, מרכז משחקים, MIUI Daemon, רכיבי מערכת MSA, שירותי תרגום, יישומים מהירים, כספת יישומים, סטטיסטיקה, Mi Link</string>
+    <string name="terms_of_use_label_mab">, MAB</string>
+    <string name="terms_of_use_label_Mistore">, Mi Store הרחבת מערכת</string>
     <string name="terms_of_use_lable_gms">, שירותי Google Play</string>
     <string name="terms_of_use_label_systemhelper">, שירות רישום עצמי</string>
+    <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider (ספק שירותי מיקום משולב), HTMLViewer (מציג HTML)</string>
     <string name="terms_of_use_lable_smart_cards">, כרטיסים חכמים</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
     <string name="terms_of_use_label_updater">, עדכונים</string>
+    <string name="terms_of_use_label_package">, חבילת התקנה</string>
+    <string name="terms_of_use_label_phrase">, ביטויים שכיחים</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 עליך להסכים למדיניות הפרטיות של Facemoji לפני שתוכל להשתמש בתכונה זו."</string>
@@ -88,7 +96,7 @@
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">השתמש בטביעת האצבע שלך לביטול נעילת המכשיר, או על מנת להיכנס ליישומים ושירותים.</string>
     <string name="content_description_start">התחלה</string>
-    <string name="start_up_slogan">נועדה לחוויית מסך מלא</string>
+    <string name="start_up_slogan">Life gets easier</string>
     <string name="content_description_miui_version">MIUI 10</string>
     <string name="content_description_complete">הסתיים</string>
     <string name="language_picker_other_languages_title">שפות נוספות</string>

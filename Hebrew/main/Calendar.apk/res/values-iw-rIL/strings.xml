@@ -8,12 +8,13 @@
     <string name="accessibility_repeats">חזרה</string>
     <string name="accessibility_sync_cal">סנכרון לוח שנה</string>
     <string name="account_and_calendar">חשבונות</string>
-    <string name="action_bar_date_button_title">חישוב תאריך</string>
     <string name="action_bar_return">חזרה</string>
     <string name="action_text_card_manager">ערוץ</string>
     <string name="add_anniversary">הוסף יום ציון שנתי</string>
     <string name="add_countdown">"הוסף 'ספירה לאחור'"</string>
     <string name="add_event">הוסף אירוע</string>
+    <string name="add_holiday_desc">הוסף חג או חופשה כאן</string>
+    <string name="add_holiday_title">הוסף יום חופש או חג</string>
     <string name="agenda_month_empty_hint">אין אירועים ביום זה</string>
     <string name="agenda_tomorrow">מחר, %1$s</string>
     <string name="agenda_view">אירועים</string>
@@ -61,6 +62,7 @@
     <string name="cards_language_hint">כרטיסים מסוימים לא יהיו זמינים בשפה שנבחרה.</string>
     <string name="change_response_title">שינוי תגובה</string>
     <string name="change_zodiac">שנה את המזל מגלגל המזלות</string>
+    <string name="choose_your_holidays">בחר ימי חופשה וחגים</string>
     <string name="click_to_share">הקש כדי לשתף</string>
     <string name="close_alarm">כיבוי</string>
     <string name="contacts_permission_desc">גישה אל פרטי קשר</string>
@@ -73,6 +75,7 @@
 
 • גש אליו מכל דפדפן.
 •גבה את האירועים שלך באופן מאובטח."</string>
+    <string name="create_kundli">צור את Kundli</string>
     <string name="creating_event">האירוע נוצר</string>
     <string name="creating_event_with_guest">שולח הזמנות…</string>
     <string name="daily">יומי</string>
@@ -93,6 +96,7 @@
     <string name="date_interval_text_to">עד ה: %1$s</string>
     <string name="date_jump_hint">עבור ישירות ליום מסויים</string>
     <string name="date_jump_title">עבור לתאריך</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (היום)"</string>
     <string name="day_view_new_event_hint">ארוע חדש</string>
     <string name="default_reminder_mode">תזכורות</string>
@@ -133,6 +137,7 @@
     <string name="edit_event_tab_countdown">ספירה לאחור</string>
     <string name="edit_event_tab_event">אירוע</string>
     <string name="edit_event_to_label">עד</string>
+    <string name="edit_your_long_holidays">ערוך ימי חופשה או חג</string>
     <string name="email_guests_label">שלח דוא\"ל לאורחים</string>
     <string name="email_install_hint">"התקנת יישום ה'דואר' הוסרה. התקן שוב את 'דואר' על מנת לשחזר חשבונות לוח שנה או להוסיף חשבון חדש."</string>
     <string name="email_picker_label">שלח דוא\"ל באמצעות</string>
@@ -161,6 +166,12 @@
     <string name="event_view">הצג אירוע</string>
     <string name="every_weekday">אמצע שבוע (שני–שישי)</string>
     <string name="fb_birthday_failure">לא יכו לייבא תאריכי ימי הולדת מפייסבוק. נסה שוב.</string>
+    <string name="fb_birthday_import_pref_desc">ייבא ימי הולדת של חבריך מחשבון פייסבוק</string>
+    <string name="fb_birthday_import_pref_title">ייבא כעת</string>
+    <string name="fb_birthday_logout_failure">עוד לא הוספת את חשבון פייסבוק</string>
+    <string name="fb_birthday_logout_pref_desc">הסר חשבון פייסבוק יחד עם ימי הולדת של חבריך</string>
+    <string name="fb_birthday_logout_pref_title">הסר חשבון פייסבוק</string>
+    <string name="fb_birthday_logout_success">חשבון פייסבוק הוסר בהצלחה</string>
     <string name="fb_birthday_region_warning">תכונה זו אינה זמינה באזור שלך</string>
     <string name="fb_birthday_success">ימי הולדת יובאו בהצלחה מפייסבוק</string>
     <string name="fb_calendar_account_name">לוח שנה מקומי של Mi</string>
@@ -169,6 +180,7 @@
     <string name="festival_detail_title">חג</string>
     <string name="file_exception">התרחשה שגיאה</string>
     <string name="fixtures">תאריך קבוע</string>
+    <string name="fourth_saturday_holiday">כל שבת שניה ורביעית היא חופשית</string>
     <string name="from_google_group_calendar">יומן Google</string>
     <string name="gadget_no_events">אין אירועי לוח שנה קרובים</string>
     <string name="gadget_title">לוח שנה</string>
@@ -183,6 +195,10 @@
     <string name="greetingcard_end_of_page">זה הכל לעת עתה. חזור מאוחר יותר!</string>
     <string name="greetingcard_notification_desc">בדוק את הסטטוס האחרון</string>
     <string name="greetingcard_notification_title">הפיד היומי שלך מוכן</string>
+    <string name="greetingcard_reminder_dialog_message">אפשר ללוח שנה לשלוח התראות יומיות עבור איחולים וסטטוסים?</string>
+    <string name="greetingcard_reminder_dialog_negative">לא תודה</string>
+    <string name="greetingcard_reminder_dialog_positive">אשר</string>
+    <string name="greetingcard_reminder_dialog_title">קבל התראות</string>
     <string name="greetingcard_reminder_disabled_status">לא תקבל תזכורות יומיות עבור סטטוס WhatsApp.</string>
     <string name="greetingcard_reminder_disabled_text">הפעל תזכורת</string>
     <string name="greetingcard_reminder_enabled_status">קבל תזכורות יומיות עבור סטטוס WhatsApp.</string>
@@ -203,8 +219,15 @@
     <string name="hint_what">שם אירוע</string>
     <string name="hint_where">מיקום</string>
     <string name="holiday_card_title">ביום הזה</string>
+    <string name="holiday_date">תאריך</string>
+    <string name="holiday_date_title">תאריך החג</string>
     <string name="holiday_detail_read_more">עוד</string>
-    <string name="horoscope_select_activity_label">בחירת מזל</string>
+    <string name="holiday_name">שם החג</string>
+    <string name="holiday_name_empty">שם החג או החופשה לא יכול להיוותר ריק</string>
+    <string name="holiday_name_exists">שם החג או החופשה קיים כבר</string>
+    <string name="holiday_saved">נשמר בהצלחה</string>
+    <string name="holidays_title">ימי חופשה או חגים</string>
+    <string name="horoscope_select_activity_label">בחר מזל</string>
     <string name="image_processing">"תמונה isn't מוכנה"</string>
     <string name="import_action">ייבוא</string>
     <string name="import_birthday">ייבא יום הולדת</string>
@@ -225,9 +248,21 @@
     <string name="loading">רק רגע…</string>
     <string name="local_calendar_display_name">לוח שנה מקומי</string>
     <string name="local_owner_account_name">נשמר על גבי המכשיר</string>
+    <string name="long_holiday_date_place_holder">dd MMMM</string>
+    <string name="long_holiday_dates">מתחיל מ %1$s</string>
+    <string name="long_holiday_month_off">ימיי חופשה חודשיים</string>
+    <string name="long_holiday_week_off">ימי חופשה שבועיים</string>
     <string name="lunar_date">תאריך ירחי</string>
+    <string name="manage_holidays">נהל ימי חופשה או חגים</string>
+    <string name="manage_title">נהל</string>
     <string name="match_finished">לא ניתן להגדיר תזכורות עבור משחקים מתמשכים או משחקים בהם סיימת לשחק</string>
     <string name="match_select_activity_label">ליגות</string>
+    <string name="match_zodiac">התאם את המזל שלך</string>
+    <string name="menstruation_card_default_title">אין תיעוד אודות המחזור הווסתי</string>
+    <string name="menstruation_card_error_sub_title">סגור את לוח השנה והפעל אותו שנית.</string>
+    <string name="menstruation_card_error_title">לא ניתן היה לקבל נתונים</string>
+    <string name="menstruation_card_private_mode_sub_title">מצב פרטי</string>
+    <string name="menstruation_card_private_mode_title">מחזור הווסת</string>
     <string name="menu_general_preferences">כללי</string>
     <string name="menu_reminder_preferences">תזכורות</string>
     <string name="missing_name">(ללא שם)</string>
@@ -256,7 +291,9 @@
     <string name="news">חדשות</string>
     <string name="no_contact_birthday_hint">אין ימי הולדת לייבוא</string>
     <string name="no_events_hint">אין אירועים</string>
+    <string name="no_holiday_selected">לא נבחרו ימי חופשה</string>
     <string name="no_internet">לא ניתן להתחבר לאינטרנט</string>
+    <string name="no_long_holidays">אין ימי חג או חופשה בזמן הקרוב</string>
     <string name="no_network">"לא ניתן היה להתחבר לרשת.
 בדוק את הגדרות הרשת ונסה שוב."</string>
     <string name="no_network_btn">נסה שוב</string>
@@ -265,6 +302,7 @@
     <string name="no_visiable_calendar_message">עליך להוסיף חשבון לוח שנה. לחץ על \"הוספת חשבון\" על מנת להמשיך.</string>
     <string name="no_visiable_calendar_select_account">הוספת חשבון</string>
     <string name="no_visiable_calendar_title">הוספת חשבון</string>
+    <string name="not_more_than_three_weekday">תוכל לבחור עד 3 ימים</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">לוח תזכורות</string>
     <string name="panchang_amanta">אמנטה</string>
@@ -282,12 +320,14 @@
     <string name="panchang_ritu">ריטו</string>
     <string name="panchang_shaka_samvat">שאקה סמבט</string>
     <string name="panchang_sun_sign">מזל שמשי</string>
+    <string name="panchang_till_time">עד %1$s $</string>
     <string name="panchang_tithi">טיטי</string>
     <string name="panchang_to"> עד </string>
     <string name="panchang_upto"> עד </string>
     <string name="panchang_vikram_samvat">ויקראם סמבט</string>
     <string name="panchang_yamaghanta">יאמאגנטה</string>
     <string name="panchang_yog">יוג</string>
+    <string name="partner_compatibility">התאמת בן זוג</string>
     <string name="path_calendar_settings">יישומי מערכת/לוח שנה/הגדרות</string>
     <string name="prefDialogTitle_vibrateWhen">רטט</string>
     <string name="pref_reminder_time">זמן תזכורת</string>
@@ -342,11 +382,13 @@
     <string name="response_no">לא</string>
     <string name="response_yes">כן</string>
     <string name="rest_day_indication">: )</string>
+    <string name="saturday_click_disabled">כל שבת שניה ורביעית הם חופשה</string>
     <string name="saving_event">האירוע נשמר</string>
     <string name="saving_event_with_guest">שולח עדכונים…</string>
     <string name="search_calendar">תאריך;מועדי חמה;ירחי;אלמנך;מזל;לו\"ז;פגישה;תזכורת;חופשה;חג;יום הולדת;2016;2017;ראש השנה הסיני;יום השנה החדשה;יום המופעלים הבינלאומי;פסטיבל אמצע הסתיו</string>
     <string name="search_calendar_edit_event">פגישה;תזכורת;לו\"ז</string>
     <string name="search_calendar_settings">לוח שנה;לו\"ז;תזכורת</string>
+    <string name="second_saturday_holiday">כל שבת שניה היא יום חופשי</string>
     <string name="select_date">עבור לתאריך</string>
     <string name="set_reminder">הגדר תזכורת</string>
     <string name="setting_about_calendar_version">גרסת לוח שנה:</string>
@@ -355,6 +397,7 @@
     <string name="setting_about_summary">גרסה:</string>
     <string name="setting_accounts">חשבונות לוח שנה</string>
     <string name="setting_change_language">בחר שפת לוח שנה</string>
+    <string name="setting_desc_import_todo">ייבא משימות מתוזמנות מפתקים</string>
     <string name="setting_fb_birthdays_title">ייבא ימי הולדת מפייסבוק</string>
     <string name="setting_features_title">הגדרות תכונה</string>
     <string name="setting_holiday_display_desc">כרטיסי הברכה ממוקמים מתחת לסדר היום שלך בעמוד הבית</string>
@@ -362,12 +405,18 @@
     <string name="setting_others">עוד</string>
     <string name="setting_title_about">אודות</string>
     <string name="setting_title_holiday_display">הצג חגים</string>
+    <string name="setting_title_import_todo">ייבא משימות</string>
     <string name="setting_title_policy">מדיניות הפרטיות</string>
+    <string name="settings_show_long_holiday">ימי חופשה או חגים ארוכים</string>
+    <string name="settings_show_long_holiday_description">תכנן את החופשה או החג שלך מראש</string>
+    <string name="settings_show_p_tracker">הצג פרטים אודות ווסת</string>
+    <string name="settings_show_p_tracker_description">המשיכי לעקוב אחר המחזור שלך</string>
     <string name="share_image">שתף</string>
     <string name="share_image_label">שתף באמצעות</string>
     <string name="share_title">שיתוף</string>
     <string name="show_day_view">הצג יום</string>
     <string name="show_indic_date_summary">לוח שנה הינדי זמין כאשר השפה ההודית מוגדרת כשפת מערכת במכשיר שלך</string>
+    <string name="single_selected_holiday">%1$s הוא יום חופשי</string>
     <string name="start_date_calculate">חישוב</string>
     <string name="storage_permission_denied">קודם עליך לאפשר גישה לזיכרון</string>
     <string name="subscribe_card">הירשם כעת</string>
@@ -389,11 +438,16 @@
     <string name="talk_back_read_date">%1$s (%2$s על פי לוח השנה הירחי).</string>
     <string name="talk_back_setting">הגדרות</string>
     <string name="template_announce_item_index">אירוע %1$s מתוך %2$s.</string>
+    <string name="three_selected_holiday">%1$s,%2$s, ו %3$s הנם ימי חופשה</string>
     <string name="time_zone">אזור זמן</string>
     <string name="timezone_label">איזור זמן</string>
+    <string name="title_p_tracker">ווסת</string>
     <string name="today">היום</string>
     <string name="today_at_time_fmt">היום ב-%s</string>
     <string name="today_no_events">אין אירועים</string>
+    <string name="todays_panchang_title">"\"פאנצאנג'\" יומי"</string>
+    <string name="todo_audio_event">"[משימה קולית] "</string>
+    <string name="todo_event">משימות קרובות</string>
     <string name="tomorrow">מחר</string>
     <string name="tomorrow_at_time_fmt">מחר ב-%s</string>
     <string name="too_long_content">התוכן ארוך מידי</string>
@@ -420,6 +474,7 @@
     <string name="travel_seat_number_text">מושב</string>
     <string name="travel_train_number_text">רכבת</string>
     <string name="travel_train_station">תחנת רכבת</string>
+    <string name="two_selected_holiday">%1$s ו %2$s הינם ימי חופשה</string>
     <string name="unsubscribe_card">ביטול הרשמה</string>
     <string name="unsubscribe_card_success">ביטול ההרשמה ל-\"%1$s\" בוצע בהצלחה</string>
     <string name="unsubscribing_card">ביטול מינוי</string>
@@ -443,4 +498,8 @@
     <string name="xiaomi_calendar_display_name">לוח שנה של חשבון Mi</string>
     <string name="yearly">שנתי (בכל %s)</string>
     <string name="yearly_plain">שנתי</string>
+    <string name="action_bar_date_button_title">חישוב תאריך</string>
+    <string name="preferences_week_settings_title">הגדרות שבועיות</string>
+    <string name="preferences_weekly_holiday_summary">ימים נבחרים יסומנו כימים בחופשה</string>
+    <string name="preferences_weekly_holiday_title">ימי חופש</string>
 </resources>

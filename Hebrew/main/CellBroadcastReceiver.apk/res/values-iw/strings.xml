@@ -2,7 +2,7 @@
 <resources>
     <string name="button_dismiss">אישור</string>
     <string name="app_label">שידורים סלולריים</string>
-    <string name="sms_cb_settings">התרעות חירום</string>
+    <string name="sms_cb_settings">הגדרות שידורים סלולריים</string>
     <string name="cell_broadcast_settings_not_available">הגדרות של שידור סלולרי אינן זמינות עבור המשתמש הזה</string>
     <string name="no_cell_broadcasts">"אין התראות פעילות באזור שלך. ניתן לשנות את ההגדרות של 'התראה' דרך תפריט 'הגדרות'."</string>
     <string name="menu_preferences">הגדרות</string>

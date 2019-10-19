@@ -1010,8 +1010,8 @@
     <string name="credentials_configure_lock_screen_hint">כדי להשתמש באחסון פרטי כניסה, עליך להגדיר מסך נעילה מאובטח במכשיר</string>
     <string name="credentials_enabled">אחסון האישורים מופעל.</string>
     <string name="credentials_erased">אחסון האישורים נמחק.</string>
-    <string name="credentials_install">‏התקן מכרטיס SD</string>
-    <string name="credentials_install_summary">‏התקנת אישורים מכרטיס SD</string>
+    <string name="credentials_install">התקן מאמצעי אחסון</string>
+    <string name="credentials_install_summary">התקנת אישורים מאמצעי אחסון</string>
     <string name="credentials_not_erased">לא ניתן למחוק את האמצעי לאחסון אישורים.</string>
     <string name="credentials_old_password">הסיסמה הנוכחית:</string>
     <string name="credentials_reset">נקה פרטי כניסה</string>
@@ -1303,6 +1303,7 @@
     <string name="dialog_stop_title">לעצור את האפליקציה?</string>
     <string name="direct_boot_unaware_dialog_message">שים לב: לאחר הפעלה מחדש של המכשיר, ניתן להפעיל את האפליקציה רק לאחר שתבטל את נעילת הטלפון</string>
     <string name="directory_access">גישה לספרייה</string>
+    <string name="directory_on_volume">%1$s (%2$s)</string>
     <string name="disable_overlays">‏השבת שכבות על של HW</string>
     <string name="disable_overlays_summary">‏השתמש תמיד ב-GPU להרכבת מסך</string>
     <string name="disable_service_message">"הקשה על 'אישור' תפסיק את %1$s."</string>
@@ -1341,9 +1342,9 @@
     <string name="display_vr_pref_title">‏כשהמכשיר במצב VR</string>
     <string name="dlg_cancel">ביטול</string>
     <string name="dlg_close">סגור</string>
-    <string name="dlg_confirm_unmount_text">‏אם תבטל את טעינת כרטיס ה-SD, הפעולה של אפליקציות מסוימות שאתה משתמש בהן תופסק וייתכן שהן לא יהיו זמינות עד שתטען מחדש את כרטיס ה-SD.</string>
-    <string name="dlg_confirm_unmount_title">‏לבטל את הטעינה של כרטיס ה-SD?</string>
-    <string name="dlg_error_unmount_text">‏לא ניתן לבטל את טעינת כרטיס ה-SD. נסה שוב מאוחר יותר.</string>
+    <string name="dlg_confirm_unmount_text">‏אם תבטל את טעינת אחסון ה-USB, אפליקציות מסוימות שבהן אתה משתמש יופסקו וייתכן שלא יהיו זמינות עד שתטען מחדש את אחסון ה-USB.</string>
+    <string name="dlg_confirm_unmount_title">‏לבטל את טעינת אחסון ה-USB?</string>
+    <string name="dlg_error_unmount_text">‏לא ניתן לבטל את הטעינה של אחסון ה-USB. נסה שוב מאוחר יותר.</string>
     <string name="dlg_error_unmount_title" />
     <string name="dlg_ok">אישור</string>
     <string name="dlg_remove_locales_error_message">שמור לפחות שפה מועדפת אחת</string>
@@ -1495,8 +1496,8 @@
     <string name="enterprise_privacy_wipe_device">מנהל המערכת יכול למחוק את כל הנתונים מהמכשיר</string>
     <string name="erase_esim_storage">‏מחיקת eSIM</string>
     <string name="erase_esim_storage_description">‏מחיקה של כל כרטיסי ה-eSIM בטלפון. פעולה זו לא תבטל את תוכנית השירות הסלולרי שלך.</string>
-    <string name="erase_external_storage">‏מחק כרטיס SD</string>
-    <string name="erase_external_storage_description">‏מחיקת כל הנתונים שבכרטיס ה-SD, כגון מוזיקה או תמונות</string>
+    <string name="erase_external_storage">‏מחק אחסון USB</string>
+    <string name="erase_external_storage_description">‏מחיקת כל הנתונים באחסון ה-USB הפנימי, כגון פריטי מוזיקה או תמונות</string>
     <string name="error_adding_apn_type">‏הספק לא מתיר הוספה של APNs מסוג %s.</string>
     <string name="error_apn_empty">‏ה-APN לא יכול להיות ריק.</string>
     <string name="error_mcc_not3">‏שדה MCC חייב להכיל 3 ספרות.</string>
@@ -1513,7 +1514,7 @@
     <string name="experimental_category_title">ניסיוניות</string>
     <string name="experimental_preference">(ניסיוני)</string>
     <string name="external_code_size_label">‏אפליקציה של אחסון USB</string>
-    <string name="external_data_size_label">‏כרטיס SD</string>
+    <string name="external_data_size_label">‏נתוני אחסון USB</string>
     <string name="external_source_switch_title">אפשר ממקור זה</string>
     <string name="external_source_trusted">מורשה</string>
     <string name="external_source_untrusted">לא מורשה</string>
@@ -1525,7 +1526,7 @@
     <string name="filter_all_apps">כל האפליקציות</string>
     <string name="filter_apps_all">כל האפליקציות</string>
     <string name="filter_apps_disabled">אפליקציות מושבתות</string>
-    <string name="filter_apps_onsdcard">‏בכרטיס SD</string>
+    <string name="filter_apps_onsdcard">‏אחסון USB</string>
     <string name="filter_apps_running">פועלות</string>
     <string name="filter_apps_third_party">הורדו</string>
     <string name="filter_dlg_title">בחר אפשרויות סינון</string>
@@ -1568,6 +1569,7 @@
     <string name="fingerprint_unlock_title">תוכל לבטל את נעילת הטלפון באמצעות טביעת אצבע. מטעמי אבטחה, אפשרות זו מחייבת נעילת מסך לגיבוי.</string>
     <string name="fingerprint_usage_category_title">השתמש בטביעות אצבע ל-</string>
     <string name="finish_button_label">סיום</string>
+    <string name="firmware_title">Android</string>
     <string name="firmware_version">‏גרסת Android</string>
     <string name="font_size_make_larger_desc">הגדלה</string>
     <string name="font_size_make_smaller_desc">הקטנה</string>
@@ -1610,6 +1612,7 @@
     <string name="gadget_picker_title">"בחר גאדג'ט"</string>
     <string name="gadget_state_off">כבוי</string>
     <string name="gadget_state_on">פועל</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">מכבה</string>
     <string name="gadget_state_turning_on">מפעיל</string>
     <string name="gadget_sync">סנכרון</string>
@@ -1822,6 +1825,7 @@
     <string name="legal_information">מידע משפטי</string>
     <string name="license_title">רישיון</string>
     <string name="lift_to_wake_title">הרם כדי להוציא ממצב שינה</string>
+    <string name="link_speed">%1$d Mbps</string>
     <string name="loading_notification_apps">טוען אפליקציות...</string>
     <string name="local_backup_password_summary_change">הקש כדי לשנות או להסיר את הסיסמה לגיבויים מלאים בשולחן העבודה</string>
     <string name="local_backup_password_summary_none">גיבויים מלאים בשולחן העבודה אינם מוגנים כעת</string>
@@ -2041,7 +2045,7 @@
 "<li>נתוני משתמש אחרים</li></string>
     <string name="master_clear_desc_erase_external_storage">"‏
 
-כדי למחוק פריטי מוזיקה, תמונות ונתוני משתמש אחרים, יש למחוק את "<b>כרטיס ה-SD</b>.</string>
+כדי למחוק פריטי מוזיקה, תמונות ונתוני משתמש אחרים, יש למחוק את "<b>אחסון ה-USB</b>.</string>
     <string name="master_clear_desc_no_cancel_mobile_plan">"
 
 מחיקת הנתונים לא תבטל את תוכנית השירות הסלולרי שלך."</string>
@@ -2095,6 +2099,7 @@
     <string name="memory_summary">ממוצע של %1$s מתוך %2$s זיכרון בשימוש</string>
     <string name="memory_usage">שימוש בזיכרון</string>
     <string name="memory_usage_apps">זיכרון בשימוש על ידי אפליקציות</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">בשלוש השעות האחרונות נעשה בממוצע שימוש ב-%1$s מהזיכרון</string>
     <string name="menu_cancel">מחיקה</string>
     <string name="menu_delete">‏מחק APN</string>
@@ -2136,7 +2141,7 @@
     <string name="move_app_failed_dlg_text">לא ניתן להעביר את האפליקציה. %1$s</string>
     <string name="move_app_failed_dlg_title" />
     <string name="move_app_to_internal">העבר לטלפון</string>
-    <string name="move_app_to_sdcard">‏העבר לכרטיס SD</string>
+    <string name="move_app_to_sdcard">‏העבר לאמצעי אחסון מסוג USB</string>
     <string name="move_error_device_admin">אין אפשרות להתקין את אפליקציית מנהל המכשיר על מדיה חיצונית</string>
     <string name="moving">מעביר</string>
     <string name="mtp_ptp_mode_summary">‏פונקציית MTP או PTP פעילה</string>
@@ -2169,6 +2174,7 @@
     <string name="nfc_how_it_works_got_it">הבנתי</string>
     <string name="nfc_how_it_works_title">תשלום במסוף</string>
     <string name="nfc_more_title">עוד...</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">ברירת המחדל לתשלום</string>
     <string name="nfc_payment_default_not_set">לא מוגדרת</string>
     <string name="nfc_payment_favor_default">תמיד</string>
@@ -2349,6 +2355,7 @@
     <string name="overlay_display_devices_title">צור הדמיית תצוגות משניות</string>
     <string name="overlay_settings">תצוגה מעל אפליקציות אחרות</string>
     <string name="owner_info_settings_edit_text_hint">‏לדוגמה, ה-Android של יוסי.</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">ללא</string>
     <string name="owner_info_settings_title">הודעה במסך הנעילה</string>
     <string name="packages_subtitle">חבילות כלולות</string>
@@ -2404,6 +2411,7 @@
     <string name="power_remaining_less_than_duration_only">נותרו פחות מ-%1$s</string>
     <string name="power_remaining_more_than_subtext">נותרו יותר מ-%1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">הזמן שנותר: יותר מ-%1$s</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">מסך</string>
     <string name="power_unaccounted">שונות</string>
     <string name="power_usage_level_and_status">%1$s - %2$s</string>
@@ -2469,6 +2477,8 @@
     <string name="private_dns_mode_provider_failure">לא ניתן היה להתחבר</string>
     <string name="private_dns_mode_provider_hostname_hint">‏צריך להזין את שם המארח של ספק DNS</string>
     <string name="process_dex2oat_label">אופטימיזציית אפליקציה</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_provider_in_use_description">הספק %1$s נמצא בשימוש.</string>
     <string name="process_service_in_use_description">השירות %1$s נמצא בשימוש.</string>
@@ -2749,32 +2759,32 @@ Voice over Wi-Fi:‏ %3$s
     <string name="screensaver_settings_summary_sleep">במהלך טעינה</string>
     <string name="screensaver_settings_title">שומר מסך</string>
     <string name="screensaver_settings_when_to_dream">מתי להפעיל</string>
-    <string name="sd_card_settings_label">‏כרטיס SD</string>
-    <string name="sd_card_storage">‏אחסון בכרטיס SD</string>
-    <string name="sd_eject">‏בטל טעינה של כרטיס SD</string>
-    <string name="sd_eject_summary">‏בטל את טעינת כרטיס SD כדי שתוכל להסיר אותו בבטחה</string>
+    <string name="sd_card_settings_label">‏אחסון USB</string>
+    <string name="sd_card_storage">‏אחסון USB</string>
+    <string name="sd_eject">בטל טעינה של אחסון משותף</string>
+    <string name="sd_eject_summary">‏בטל טעינה של אמצעי אחסון פנימי מסוג USB</string>
     <string name="sd_ejecting_summary">ביטול טעינה מתבצע</string>
     <string name="sd_ejecting_title">מבטל טעינה</string>
-    <string name="sd_format">‏מחק כרטיס SD</string>
-    <string name="sd_format_summary">‏מוחק את כל הנתונים שבכרטיס SD, כגון מוזיקה ותמונות.</string>
-    <string name="sd_insert_summary">‏הכנס כרטיס SD לצורך טעינה</string>
-    <string name="sd_memory">‏כרטיס SD</string>
-    <string name="sd_mount">‏טען כרטיס SD</string>
+    <string name="sd_format">‏מחק אחסון USB</string>
+    <string name="sd_format_summary">‏מוחק את כל הנתונים שבאמצעי האחסון הפנימי מסוג USB, כגון מוזיקה ותמונות.</string>
+    <string name="sd_insert_summary">‏הכנס אחסון USB לצורך טעינה</string>
+    <string name="sd_memory">‏אחסון USB</string>
+    <string name="sd_mount">‏טען אחסון USB</string>
     <string name="sd_mount_summary" />
     <string name="sdcard_changes_instructions">‏השינויים ייכנסו לתוקף לאחר שכבל ה-USB יחובר מחדש.</string>
-    <string name="sdcard_format">‏מחק כרטיס SD</string>
-    <string name="sdcard_setting">‏כרטיס SD</string>
+    <string name="sdcard_format">‏מחק אחסון USB</string>
+    <string name="sdcard_setting">‏אחסון USB</string>
     <string name="sdcard_settings_available_bytes_label">נפח זמין (בייטים):</string>
-    <string name="sdcard_settings_bad_removal_status">‏כרטיס SD הוסר תוך כדי שימוש!</string>
-    <string name="sdcard_settings_mass_storage_status">‏כרטיס ה-SD משמש כהתקן אחסון בנפח גדול.</string>
-    <string name="sdcard_settings_not_present_status">‏אין כרטיס SD.</string>
-    <string name="sdcard_settings_read_only_status">‏כרטיס ה-SD טעון לקריאה בלבד.</string>
-    <string name="sdcard_settings_scanning_status">‏סורק כרטיס SD למציאת מדיה...</string>
+    <string name="sdcard_settings_bad_removal_status">‏אחסון USB הוסר תוך כדי שימוש!</string>
+    <string name="sdcard_settings_mass_storage_status">‏אחסון ה-USB משמש כמכשיר אחסון בנפח גדול.</string>
+    <string name="sdcard_settings_not_present_status">‏לא נמצא אחסון USB טעון.</string>
+    <string name="sdcard_settings_read_only_status">‏אחסון ה-USB טעון לקריאה בלבד.</string>
+    <string name="sdcard_settings_scanning_status">‏סורק אחסון USB עבור מדיה...</string>
     <string name="sdcard_settings_screen_mass_storage_text">‏הפעל אחסון USB בנפח גדול</string>
     <string name="sdcard_settings_total_bytes_label">נפח כולל (בייטים):</string>
-    <string name="sdcard_settings_unmounted_status">‏כעת ניתן להסיר את כרטיס ה-SD באופן בטוח.</string>
+    <string name="sdcard_settings_unmounted_status">‏כעת ניתן להסיר את אחסון ה-USB באופן בטוח.</string>
     <string name="sdcard_settings_used_bytes_label">ניצול נפח (בייטים):</string>
-    <string name="sdcard_unmount">‏בטל טעינה של כרטיס SD</string>
+    <string name="sdcard_unmount">‏בטל טעינה של אחסון USB</string>
     <string name="search_menu">חפש בהגדרות</string>
     <string name="search_menu_title">חיפוש</string>
     <string name="search_results_title">הגדרות</string>
@@ -2979,6 +2989,7 @@ Voice over Wi-Fi:‏ %3$s
     <string name="sim_select_card">‏בחר כרטיס SIM</string>
     <string name="sim_selection_channel_title">‏בחירת SIM</string>
     <string name="sim_selection_required_pref">יש לציין בחירה</string>
+    <string name="sim_settings_summary">%1$s ‏- %2$s</string>
     <string name="sim_settings_title">‏כרטיסי SIM</string>
     <string name="sim_setup_wizard_title">‏כרטיסי SIM</string>
     <string name="sim_signal_strength">‏%1$d dBm ‏%2$d asu</string>
@@ -3037,6 +3048,7 @@ Voice over Wi-Fi:‏ %3$s
     <string name="starting_android">‏מפעיל את Android…</string>
     <string name="status_awaiting_tap">הקש על תג כדי לכתוב...</string>
     <string name="status_awake_time">משך פעילות</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bt_address">‏כתובת Bluetooth</string>
     <string name="status_data_network_type">סוג הרשת של חבילת הגלישה</string>
     <string name="status_data_state">מצב רשת סלולרית</string>
@@ -3142,7 +3154,7 @@ Voice over Wi-Fi:‏ %3$s
     <string name="storage_photos_videos">תמונות וסרטונים</string>
     <string name="storage_rename_title">שינוי שם של אמצעי אחסון</string>
     <string name="storage_settings">אחסון</string>
-    <string name="storage_settings_summary">‏בטל טעינת כרטיס SD, הצג את שטח האחסון הזמין</string>
+    <string name="storage_settings_summary">‏בטל טעינת אחסון USB, הצג אחסון זמין</string>
     <string name="storage_settings_title">הגדרות אחסון</string>
     <string name="storage_size_large">^1<small><small> ^2</small></small></string>
     <string name="storage_size_large_alternate">^1<small> <font size="20">^2</font></small></string>
@@ -3269,6 +3281,7 @@ Voice over Wi-Fi:‏ %3$s
     <string name="sum_carrier_select">בחר מפעיל רשת</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s עד %2$s</string>
     <string name="support_country_format">%1$s - %2$s</string>
     <string name="support_summary">"מאמרי עזרה, תמיכה טלפונית ותמיכה בצ'אט, תחילת העבודה"</string>
@@ -3467,7 +3480,7 @@ Voice over Wi-Fi:‏ %3$s
     <string name="unlock_set_unlock_pin_summary">אבטחה בינונית עד גבוהה</string>
     <string name="unlock_set_unlock_pin_title">קוד גישה</string>
     <string name="unlock_setup_wizard_fingerprint_details">"לאחר הגדרה של נעילת מסך, תוכל גם להגדיר את טביעת האצבע ב'הגדרות' > 'אבטחה'."</string>
-    <string name="unmount_inform_text">‏הטעינה של כרטיס SD תבוטל.</string>
+    <string name="unmount_inform_text">‏הטעינה של אחסון USB תבוטל.</string>
     <string name="unrestricted_app_summary">‏אפשרות לגישה בלתי מוגבלת לנתונים כשחוסך הנתונים (Data Saver) פועל</string>
     <string name="unrestricted_app_title">שימוש בלתי מוגבל בנתונים</string>
     <string name="unrestricted_data_saver">גישה בלתי מוגבלת לנתונים</string>
@@ -4273,8 +4286,10 @@ Voice over Wi-Fi:‏ %3$s
     <string name="zone_auto_summaryOff">לפי אזור הזמן שמספקת הרשת</string>
     <string name="zone_auto_summaryOn">לפי אזור הזמן שמספקת הרשת</string>
     <string name="zone_change_to_from_dst">%1$s מתחיל בתאריך %2$s.</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">משתמש ב-%1$s. %2$s מתחיל ב-%3$s.</string>
     <string name="zone_info_footer_no_dst">משתמש ב-%1$s. ללא שעון קיץ.</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">מיין לפי סדר אלפביתי</string>
     <string name="zone_list_menu_sort_by_timezone">מיין לפי אזור זמן</string>
     <string name="zone_menu_by_offset">‏בחירה לפי קיזוז ל-UTC</string>

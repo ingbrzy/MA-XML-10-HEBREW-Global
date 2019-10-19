@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">לחץ והחזק את הכפתור על הקופסא למשך %1$d שניות</item>
+        <item quantity="one">לחץ והחזק את הכפתור על הקופסא למשך %1$d שניה</item>
+        <item quantity="two">לחץ והחזק את הכפתור על הקופסא למשך %1$d שניות</item>
+        <item quantity="many">לחץ והחזק את הכפתור על הקופסא למשך %1$d שניות</item>
+    </plurals>
+</resources>

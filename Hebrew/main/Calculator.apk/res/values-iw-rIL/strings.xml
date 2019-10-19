@@ -18,6 +18,7 @@
     <string name="cancel">ביטול</string>
     <string name="children_education">חינוך ילדים</string>
     <string name="choose_currency">בחר מטבע</string>
+    <string name="choose_radix">בחר במערכת ספרתית</string>
     <string name="choose_unit">בחר יחידה</string>
     <string name="city">עיר</string>
     <string name="clearDesc">ניקוי</string>
@@ -28,6 +29,7 @@
     <string name="convertion_unit">ממיר יחידות</string>
     <string name="convertion_unit_area">ממיר שטח</string>
     <string name="convertion_unit_length">ממיר אורך</string>
+    <string name="convertion_unit_radix">מערכות ספרתיות</string>
     <string name="convertion_unit_temperature">ממיר טמפרטורה</string>
     <string name="convertion_unit_time">ממיר זמן</string>
     <string name="convertion_unit_velocity">ממיר מהירות</string>
@@ -112,6 +114,7 @@
     <string name="item_title_dress_size">מידת ביגוד</string>
     <string name="item_title_length_conversion">אורך</string>
     <string name="item_title_mortgage">משכנתא</string>
+    <string name="item_title_radix">מערכות ספרתיות</string>
     <string name="item_title_scientific_calculator">מדעי</string>
     <string name="item_title_tax">מיסים</string>
     <string name="item_title_temprature_conversion">טמפרטורה</string>
@@ -174,6 +177,7 @@
     <string name="mortgage_item_years">הלוואה קבועה</string>
     <string name="mortgage_loans_amount">סכום המשכנתא</string>
     <string name="mortgage_provident_found_interest_rate">שיעור הריבית של הקרן</string>
+    <string name="mortgage_provider_east_money">הנתונים סופקו ע\"י East Money</string>
     <string name="mortgage_repayment_amount">סכום ההחזר</string>
     <string name="mortgage_result">התוצאה</string>
     <string name="mortgage_show_details">הצג פרטים</string>
@@ -186,6 +190,7 @@
     <string name="negDesc">החלף בין טמפרטורות מתחת ומעל לאפס</string>
     <string name="network_confirm_content">ממיר המטבע, מחשבוני המס והמשכנתא זקוקים לחיבור לאינטרנט ולגישה לשירותי המיקום על מנת שיוכלו לפעול באופן תקין.</string>
     <string name="network_confirm_title">נדרשת הרשאה</string>
+    <string name="network_purpose">ברוך הבא למחשבון! המחשבון מאפשר לחשב שערי מט\"ח, החזרי משכנתאות ועוד.</string>
     <string name="none">ללא</string>
     <string name="not_supported_due_to_language">אפשרות זו זמינה רק בשפה הסינית</string>
     <string name="ok">אשר</string>
@@ -318,11 +323,13 @@
     <string name="unit_data_display_currency_aed">דירהם איחוד האמירויות הערביות</string>
     <string name="unit_data_display_currency_ars">פזו ארגנטינאי</string>
     <string name="unit_data_display_currency_aud">דולר אוסטרלי</string>
+    <string name="unit_data_display_currency_bdt">טאקה מבנגלדש</string>
     <string name="unit_data_display_currency_bgn">לב בולגרי</string>
     <string name="unit_data_display_currency_bhd">דינר בחרייני</string>
     <string name="unit_data_display_currency_bnd">דולר ברוניי</string>
     <string name="unit_data_display_currency_brl">ריאל ברזילאי</string>
     <string name="unit_data_display_currency_byn">רובל בלרוסי</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">דולר קנדי</string>
     <string name="unit_data_display_currency_chf">פרנק שווייצרי</string>
     <string name="unit_data_display_currency_clp">"פזו צ'ילאני"</string>
@@ -408,6 +415,10 @@
     <string name="unit_data_display_length_um">מיקרומטר</string>
     <string name="unit_data_display_length_yd">יארד</string>
     <string name="unit_data_display_length_zhang">"ג'אנג"</string>
+    <string name="unit_data_display_radix_10">עֶשׂרוֹנִי</string>
+    <string name="unit_data_display_radix_16">הקסדצימלי</string>
+    <string name="unit_data_display_radix_2">בינארי</string>
+    <string name="unit_data_display_radix_8">אוקטלי</string>
     <string name="unit_data_display_temperature_c">צלזיוס</string>
     <string name="unit_data_display_temperature_f">פרנהייט</string>
     <string name="unit_data_display_temperature_k">קלווין</string>
@@ -601,8 +612,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">לא להתחבר להורדות. בדוק אם יישום זה מכיל את כל ההרשאות הנדרשות בהגדרות > תחת יישומים מותקנים.</string>
     <string name="xiaomi_external_storage_unavailable">אחסון לא זמין. בדוק את כרטיס SD שלך.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"מציגים את גרסה %1$s
 גודל: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"מציגים את גרסה %1$s
@@ -610,5 +624,9 @@
     <string name="xiaomi_update_dialog_title">%1$s עודכן!</string>
     <string name="year" />
     <string name="preference_use_voice">קלט קולי</string>
+    <string name="preference_use_voice_summary">הפעל כדי להשתמש בפלט דיבור בביצוע חישובים</string>
+    <string name="preference_use_voice_title">פלט דיבור</string>
+    <string name="preference_user_feedback_title">משוב</string>
+    <string name="voice_guide_text">כאן ניתן להפעיל פלט דיבור</string>
     <string name="warn_locale_unsupport_for_voice">קלט קולי עבור שפה זו אינו זמין כעת.</string>
 </resources>

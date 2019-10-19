@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="alert_message_clear_records">למחוק את ההקלטות שנבחרו?</string>
+    <string name="alert_message_clear_records">האם למחוק את ההקלטות שנבחרו?</string>
     <string name="alert_message_delete_local_record">האם למחוק הקלטה זו?</string>
-    <string name="alert_message_delete_record">מחיקת ההקלטה ממכשירך תביא למחיקתה גם מ-Mi Cloud. למחוק כעת?</string>
+    <string name="alert_message_delete_record">מחיקת ההקלטה ממכשירך תביא למחיקתה גם מ- Xiaomi Cloud. האם למחוק כעת?</string>
     <string name="alert_message_delete_record_title">למחוק הקלטה?</string>
     <string name="app_name">רשמקול</string>
     <string name="back">חזרה</string>
@@ -14,12 +14,12 @@
     <string name="call_record_list_group_unconnected">לא מחובר</string>
     <string name="clear_records">מחק הקלטות שסונכרנו</string>
     <string name="cloud_record_open">סנכרן הקלטות</string>
-    <string name="cloud_record_tip">סנכרן הקלטות עם-Mi Cloud.</string>
-    <string name="cloud_service_state_open_reminder">הפעל את הסנכרון עם Mi Cloud כדי לסנכרן הקלטות.</string>
+    <string name="cloud_record_tip">סנכרן הקלטות עם Xiaomi Cloud.</string>
+    <string name="cloud_service_state_open_reminder">הפעל סנכרון עם cloud על מנת לסנכרן הקלטות.</string>
     <string name="cloud_status_full_dialog_cancel">לא כעת</string>
     <string name="cloud_status_full_dialog_msg">אחסון הענן שלך מלא, לא ניתן לסנכרן הקלטות. שדרג את חשבונך לקבלת שטח אחסון נוסף.</string>
     <string name="cloud_status_full_dialog_ok">שדרוג</string>
-    <string name="cloud_status_full_dialog_title">שטח האחסון ב-Mi Cloud מלא</string>
+    <string name="cloud_status_full_dialog_title">אחסון Xiaomi Cloud מלא כעת</string>
     <string name="data_connection_body">שימוש בחיבור הנתונים הסלולרי שלך להורדת קובץ זה יגדיל את צריכת הנתונים, חריגה ממסגרת תכנית הגלישה שלך עלולה להיות כרוכה בחיובים נוספים.</string>
     <string name="data_connection_button_text">אישור</string>
     <string name="data_connection_title">אזהרת שימוש בנתונים</string>
@@ -28,7 +28,7 @@
     <string name="deleting_message">מוחק…</string>
     <string name="details">פרטים</string>
     <string name="dialog_content_storage_full">ההקלטה נעצרה משום שלא נותר מספיק שטח אחסון פנוי על גבי המכשיר שלך.</string>
-    <string name="dialog_privacy_revoke_tips">לאחר שלילת ההרשאה, היישום יפסיק לאסוף נתונים וכל הנתונים הקשורים ימחקו מהשרתים. הדבר עשוי להפוך את היישום לבלתי שמיש וירטואלית. לשלול את ההרשאה בכל זאת? על מנת להבטיח את אבטחת החשבון שלך, היכנס אל i.mi.com לפני שלילת ההרשאה עבור שירותי Mi Cloud.</string>
+    <string name="dialog_privacy_revoke_tips">לאחר שלילת ההרשאה, היישום יפסיק לאסוף נתונים וכל הנתונים הקשורים ימחקו מהשרתים. הדבר עשוי להפוך את היישום לבלתי שמיש וירטואלית. לשלול את ההרשאה בכל זאת? על מנת להבטיח את אבטחת החשבון שלך, היכנס אל i.mi.com לפני שלילת ההרשאה עבור שירותי Xiaomi Cloud.</string>
     <string name="dialog_title_storage_full">אין מספיק מקום</string>
     <string name="download">הורדה</string>
     <string name="duration_format_hour">%sש</string>
@@ -180,7 +180,7 @@
     <string name="recognize_extra_price_desp">(הטבות אקסקלוסיביות עבור משתמשי Mi)</string>
     <string name="record">הקלטה</string>
     <string name="record_back_pressed_hint">"לעצירת ההקלטה, לחץ שוב על 'חזרה'"</string>
-    <string name="record_download">הורד מ-Mi Cloud</string>
+    <string name="record_download">הורד Xiaomi Cloud</string>
     <string name="record_download_complete">ההורדה הושלמה</string>
     <string name="record_download_msg">ניתן לנגן הקלטות לאחר סיום הורדתן בלבד.</string>
     <string name="record_download_msg_reload">הקלטה זו אינה קיימת.</string>
@@ -245,7 +245,9 @@
     <string name="status_bar_back">"לחץ על מנת לחזור ל'רשמקול'"</string>
     <string name="status_bar_recording">מקליט…</string>
     <string name="status_bar_recording_pause">הרשמקול הופסק</string>
+    <string name="text_btn_backward_3_seconds">3 שניות אחרונות</string>
     <string name="text_btn_complete">עצירה</string>
+    <string name="text_btn_forward_3_seconds">קפוץ שלוש שניות קדימה</string>
     <string name="text_btn_list">הקלטות</string>
     <string name="text_btn_mark">סימון</string>
     <string name="text_btn_pause">הפסקה</string>
@@ -255,11 +257,16 @@
     <string name="text_btn_recording">הקלט</string>
     <string name="text_btn_wave">גל</string>
     <string name="text_finish">אישור</string>
+    <string name="text_play_speed_0_5">מהירות השמעה 0.5X</string>
+    <string name="text_play_speed_1_0">מהירות השמעה רגילה</string>
+    <string name="text_play_speed_1_5">מהירות השמעה 1.5X</string>
+    <string name="text_play_speed_2_0">מהירות השמעה 2X</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s יכול להקליט למשך כ- %2$s</string>
     <string name="toast_uninstall_fileexplorer">"'מנהל הקבצים' אינו מותקן"</string>
+    <string name="usage_description">תמלול קובצי שמע וסנכרון פריטים עם הענן</string>
     <string name="webview_check_network">הגדרות רשת</string>
     <string name="webview_data_error">התרחשה שגיאה</string>
     <string name="webview_locating_fail">לא ניתן היה לאתר את מיקומך</string>

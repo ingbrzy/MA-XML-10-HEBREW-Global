@@ -48,6 +48,18 @@
         <item quantity="two">%1$d אנשים מחוברים</item>
         <item quantity="many">%1$d אנשים מחוברים</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">תוכל להקיש עד %d תווים</item>
+        <item quantity="one">תוכל להקיש עד %d תוו</item>
+        <item quantity="two">תוכל להקיש עד %d תווים</item>
+        <item quantity="many">תוכל להקיש עד %d תווים</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">הזן %d תוים לכל הפחות</item>
+        <item quantity="one">הזן %d תוו לכל הפחות</item>
+        <item quantity="two">הזן %d תוים לכל הפחות</item>
+        <item quantity="many">הזן %d תוים לכל הפחות</item>
+    </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">על קוד ה-PIN להיות באורך %d ספרות</item>
         <item quantity="one">על קוד ה-PIN להיות באורך ספרה %d</item>

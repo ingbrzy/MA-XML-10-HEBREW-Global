@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"אנו גאים להציג את גרסת %1$s
 גודל עדכון דלתא: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">האחסון אינו זמין, בדוק את כרטיס הזכרון שלך.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">לא ניתן היה להתחיל את ההורדה, ודא כי מנהל ההורדות עובד כראוי.</string>
     <string name="app_name">גיבוי</string>
     <string name="local_app_name">גיבוי</string>
@@ -48,8 +51,8 @@
     <string name="camera_summary">הגדרות המצלמה (לא כולל תמונות)</string>
     <string name="gallery_summary">הגדרות גלריה</string>
     <string name="account_summary">גיבוי חשבון Google, חשבון Mi, ונתוני משתמש אחרים</string>
-    <string name="cloud_app_name">גיבוי Mi Cloud</string>
-    <string name="cloud_home_title">Mi Cloud</string>
+    <string name="cloud_app_name">גיבוי בענן Xiaomi Cloud</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
     <string name="prompt_reading">קורא…</string>
     <string name="prompt_sending">מעלה…</string>
     <string name="prompt_writing">שומר…</string>
@@ -57,17 +60,17 @@
     <string name="backup_update">עדכון</string>
     <string name="backup_delete">מחק:</string>
     <string name="findlost_contact">שחזר אנשי קשר</string>
-    <string name="findlost_contact_online">שחזר אנשי קשר מתוך Mi Cloud</string>
+    <string name="findlost_contact_online">שחזר אנשי קשר מהענן</string>
     <string name="cloud_backup_login">היכנס לחשבון Mi שלך</string>
     <string name="cloud_backup_hint">על מנת לגשת לגיבויים שלך, היכנס כעת</string>
-    <string name="cloud_backup_window_title">גיבוי Mi Cloud</string>
-    <string name="cloud_restore_window_title">שחזור Mi Cloud</string>
+    <string name="cloud_backup_window_title">גיבויים ב-Xiaomi Cloud</string>
+    <string name="cloud_restore_window_title">שחזר מ-Xiaomi Cloud</string>
     <string name="cloud_restore_title">שחזור נתוני גיבוי</string>
     <string name="local_backup_window_title">נתוני גיבוי מקומי</string>
     <string name="local_restore_window_title">שחזור מקומי</string>
     <string name="account_login">היכנס</string>
     <string name="miliao_account_login">היכנס באמצעות Mi Talk</string>
-    <string name="miliao_account_guide">השתמש בחשבון Mi שלך על מנת להיכנס אל Mi Cloud, חנות ערכות הנושא של MIUI, ושרותי Mi נוספים מכל מקום.</string>
+    <string name="miliao_account_guide">השתמש בחשבון Mi שלך כדי להתחבר ל-Xiaomi Cloud, לנושאי MIUI ולשירותי Mi אחרים, מכל מקום.</string>
     <string name="auto_backup">תזמן שגרת גיבוי</string>
     <string name="contact_title">אנשי קשר</string>
     <string name="call_title">יומן שיחות</string>
@@ -115,7 +118,7 @@
     <string name="sc_network_unavailable">בדוק את החיבור שלך ונסה שוב.</string>
     <string name="sc_bad_request">בקשה לא חוקית</string>
     <string name="sc_unaccess_password_file">לא ניתן למצוא את סיסמת הרשת האלחוטית</string>
-    <string name="sc_service_unavailable">Mi Cloud אינו זמין</string>
+    <string name="sc_service_unavailable">Xiaomi Cloud אינו זמין</string>
     <string name="sc_unauthorized">היכנס שוב</string>
     <string name="sc_request_timeout">פג תוקף הבקשה</string>
     <string name="sc_precondition_failed">עליך להוסיף כתובת דוא\"ל לחשבון Mi שלך תחילה.</string>
@@ -135,7 +138,7 @@
     <string name="restore_failed">לא ניתן היה לשחזר</string>
     <string name="local_select_sysdata">מערכת</string>
     <string name="local_select_userapp">יישומים</string>
-    <string name="local_select_account_contact">חשבונות ואנשי קשר</string>
+    <string name="local_select_account_contact">חשבונות &amp; אנשי קשר</string>
     <string name="local_select_files">כרטיס זכרון</string>
     <string name="local_select_image">תמונות</string>
     <string name="local_select_audio">קבצי שמע</string>
@@ -173,7 +176,7 @@
     <string name="deselect_all">הסר בחירה מהכל</string>
     <string name="reverse_all">נקה הכל</string>
     <string name="refresh">רענון</string>
-    <string name="cloud_item_info_summary">" (מקומי: %1$s | Mi Cloud: %2$s)"</string>
+    <string name="cloud_item_info_summary">(מקומי: %1$s | Xiaomi Cloud: %2$s)</string>
     <string name="cloud_restore_guide">"על מנת לשחזר את נתוני המשתמש עבור %s, לחץ על 'שחזור'"</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009הורד את יישום Mi Talk ובצע כניסה.
 \u0009http://www.miliao.com
@@ -227,6 +230,7 @@
     <string name="restore_backup">שחזור</string>
     <string name="enable_encrypt_description">הצפנה</string>
     <string name="disable_encrypt_description">ביטול הצפנה</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">רק רגע…</string>
     <string name="state_mounting">ניגש אל אחסון הנתב…</string>
     <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
@@ -257,7 +261,7 @@
     <string name="err_pkg_not_exist">לא ניתן היה למצוא את היישום.</string>
     <string name="err_user_abort">בוטל על ידי המשתמש.</string>
     <string name="err_binder_died">היישום עצר באופן לא צפוי.</string>
-    <string name="err_no_gms">גרסת היישום אינה תואמת. התקן גרסה זו בנפרד.</string>
+    <string name="err_no_gms">גרסת היישום אינה תואמת. התקן גרסה זו בנפרד</string>
     <string name="backup_is_running">מבצע גיבוי של המכשיר</string>
     <string name="restore_is_running">מבצע שחזור של המכשיר</string>
     <string name="notif_backup_title">נתוני הגיבוי</string>
@@ -313,9 +317,7 @@
     <string name="trans_detail_item_app_data_too_large_tip">נראה כי פריט זה גדול מידי מכדי שיוכל להיות מועבר.</string>
     <string name="trans_detail_item_app_data_skip_data">לא יכול להעביר נתוני יישומים</string>
     <string name="trans_detail_item_app_data_selected_tip">יישומים קשורים נבחרו גם כן.</string>
-    <string name="trans_detail_list_footer">"1. תוכל לבחור יישומים באופן פרטני שאתה מעוניין להעביר.
-2. אם תבחר נתוני ייישום, יישומים קשורים יבחרו אף הן.
-3. נתונים עבור WeChat וQQ עלולים שלא לעבור עקב בעיות תאימות. תוכל לנסות את תכונת ההעברה ביישום."</string>
+    <string name="trans_detail_list_footer">1. תוכל לבחור יישומים באופן פרטני שאתה מעוניין להעביר. 2. אם תבחר נתוני ייישום, יישומים קשורים יבחרו אף הן. 3. נתונים עבור WeChat וQQ עלולים שלא לעבור עקב בעיות תאימות. תוכל לנסות את תכונת ההעברה ביישום.</string>
     <string name="trans_detail_page_tip">ככל שתבחר יותר יישומים כך גם תהליך ההעברה יארוך זמן רב יותר.</string>
     <string name="trans_detail_sys_data_list_title">יישומי מערכת</string>
     <string name="trans_detail_app_data_list_title">נתוני יישום</string>
@@ -375,9 +377,7 @@
     <string name="trans_wait_trans_data">"מחובר אל המכשיר הישן.
 ממתין להעברת הנתונים…"</string>
     <string name="trans_select_data">בחר פריטים לשליחה</string>
-    <string name="trans_select_data_tips">"בחר פריטים להעברה.
- פריטים קודמים על מכשירים חדשים ימחקו.
- (גודל הפריטים שהועברו שאתה רואה כעת הנו משוער.)"</string>
+    <string name="trans_select_data_tips">בחר פריטים להעברה. פריטים קודמים על מכשירים חדשים ימחקו. (גודל הפריטים שהועברו שאתה רואה כעת הנו משוער.)</string>
     <string name="trans_select_data_no_space">"אין מספיק מקום פנוי בשטח האחסון של ההתקן החדש (%s זמינים).
 פנה מקום או העבר פריטים חשובים בלבד."</string>
     <string name="trans_select_data_too_large">"בחרת בפריטים רבים מידי להעברה.
@@ -394,9 +394,7 @@
     <string name="button_clean_garbage">פינוי שטח</string>
     <string name="button_quit">יציאה</string>
     <string name="soft_ap_creating">יוצר נקודה חמה…</string>
-    <string name="wait_link">"פתח את Mi Mover במכשיר הישן,
- לחץ \"אני השולח\" ובחר נקודה חמה להתחברות.
- אל תסגור את הדף לפני שתצור התחברות."</string>
+    <string name="wait_link">פתח את Mi Mover במכשיר הישן, לחץ אני השולח ובחר נקודה חמה להתחברות. אל תסגור את הדף לפני שתצור התחברות.</string>
     <string name="old_way">תוכל ליצור קוד QR על המכשיר החדש ואז לסרוק אותו באמצעות המכשיר הישן.</string>
     <string name="soft_ap_create_failed">לא ניתן היה ליצור נקודה חמה</string>
     <string name="scan_soft_ap_label">התחבר למכשיר הישן</string>
@@ -438,7 +436,7 @@
     <string name="trans_intro_desc_1">בטלפון Mi, התחבר לרשת האלחוטית ולחץ על \"אני נמען\". בחר את התקן ה-iOS שלך, היכנס ל-iCloud וייבא נתונים.</string>
     <string name="trans_intro_question_2">%d. כיצד להשתמש ב-Mi Mover להעברת נתונים מהתקן אנדרואיד?</string>
     <string name="trans_intro_title_new">בטלפון חדש:</string>
-    <string name="trans_intro_desc_new">לחץ על \"אני נמען\". קוד QR יווצר.</string>
+    <string name="trans_intro_desc_new">לחץ על אני נמען. קוד QR יווצר.</string>
     <string name="trans_intro_title_old">בטלפון ישן:</string>
     <string name="trans_intro_desc_old">לחץ על \"אני השולח\". סרוק את קוד ה-QR המופיע בטלפון החדש, המתן עד לאחר ש-Mi Mover יזהה אילו קבצים עליו לשלוח, ואז לחץ על \"שליחה\".</string>
     <string name="trans_intro_desc_old_market">הקש על \"התחל\". סרוק את קוד ה-QR לטלפון החדש, המתן עד שאפליקציית Mi Mover תזהה אילו קבצים צריך לשלוח, והקש על \"שלח\".</string>
@@ -461,13 +459,13 @@
     <string name="trans_intro_title_account">חשבונות וסיסמאות:</string>
     <string name="trans_intro_desc_account">"עליך להיכנס שוב לחשבונותיך (לדוגמה: Google, Exchange, חשבון Mi, וכו') במכשיר חדש מסיבות אבטחה."</string>
     <string name="trans_intro_title_private">אלבום מוסתר:</string>
-    <string name="trans_intro_desc_private">Mi Mover לא יכול לגשת לתמונות ואלבומים מוסתרים כיוון שהם מוצפנים. באפשרותך לשחזר תמונות אלה מ-Mi Cloud במכשיר חדש.</string>
+    <string name="trans_intro_desc_private">Mi Mover לא יכול לקבל גישה לתמונות באלבום המוסתר, כי התמונות מוצפנות. ניתן לשחזר את התמונות האלה מ-Xiaomi Cloud במכשיר חדש.</string>
     <string name="trans_intro_title_multiuser">"נתוני 'שטח שני':"</string>
     <string name="trans_intro_desc_multiuser">"Mi Mover אינו יכול לגשת לפריטים ב'שטח שני'. העבר פריטים ל'שטח ראשון' תחילה והתחל שם את הפעלת Mi Mover."</string>
     <string name="trans_intro_title_multiapp">"נתוני 'יישומים משוכפלים':"</string>
     <string name="trans_intro_desc_multiapp">"Mi Mover אינו מעביר נתוני 'יישומים משוכפלים' על מנת להימנע מסתירות בין קבצים."</string>
     <string name="trans_intro_title_gms">מידע נוצר באמצעות יישומי גוגל:</string>
-    <string name="trans_intro_desc_gms">עקב היתכנות גבוהה של כשל בהעברת הקבצים העלולים להיגרם עקב בעיות תאימות, Mi Mover לא תומך בהעברת נתונים שנוצרו ע\"י יישומי גוגל.</string>
+    <string name="trans_intro_desc_gms">עקב היתכנות גבוהה של כשל בהעברת הקבצים העלולים להיגרם עקב בעיות תאימות, Mi Mover לא תומך בהעברת נתונים שנוצרו עי יישומי גוגל.</string>
     <string name="trans_intro_question_9_market">%d. משוב.</string>
     <string name="trans_intro_desc_9_method_1_title">1. שתף את המשוב שלך באמצעות אפליקציית \"משוב\".</string>
     <string name="trans_intro_desc_9_method_1_dec">עבור אל מסך הבית> כלים > משוב.</string>
@@ -553,8 +551,7 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
     <string name="hsa_sending">שולח…</string>
     <string name="hsa_send_failed">לא ניתן היה לשלוח קוד אימות. המתן דקה או שתיים ונסה שוב.</string>
     <string name="hsa_tip_title">טיפים:</string>
-    <string name="hsa_tip_message">"1. הודעה המכילה את קוד האימות נשלחה אל ההתקן המקושר לחשבון Apple ID שלך.
-2. כבה את האימות הדו-שלבי במידה וקוד האימות אינו עובד."</string>
+    <string name="hsa_tip_message">1. אם אינך לקבל את קוד האימות, ודא שכבר נרשמת לשירות iCloud באמצעות מכשיר אפל שברשותך. אם קוד האימות שהזנת איננה עוזרת, בטל את אופציית האימות הכפולה.</string>
     <string name="hsa_tip_message_with_device">"1. הודעה המכילה את קוד האימות נשלחה אל \"%s\" המקושר לחשבון Apple ID שלך.
 2. כבה את האימות הדו-שלבי במידה וקוד האימות אינו עובד."</string>
     <string name="hsa_tip_message_shutdown_hsa">כיצד לכבות את האימות הדו-שלבי</string>
@@ -568,6 +565,7 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
 עליך ליצור גיבוי iCloud תחילה."</string>
     <string name="list_footer_tip_title">טיפים:</string>
     <string name="import_tip_summary">עקב בעיות תאימות, באפשרותך להעביר נתונים חלקיים בלבד בלבד מהתקני iOS. ודא כי יצרת גיבוי iCloud לפני התחלת ההעברה.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">ייבוא</string>
     <string name="select_empty">בחירת פריטים לייבוא</string>
     <string name="select_item_summary_wait">ממתין…</string>
@@ -648,9 +646,10 @@ https://appleid.apple.com/#!&amp;page=signin לסגירה"</string>
     <string name="dialog_backup_password_cancel">ביטול</string>
     <string name="dialog_backup_password_to_settings">הגדרות</string>
     <string name="user_feedback">משוב</string>
-    <string name="iCloud_ID_verification_tip">הכנס את קוד אימות SMS למספר הטלפון המשויך למזהה חשבון Apple. התעלם מקוד המוקפץ המוצג על גבי צג ה iPhone שלך.</string>
+    <string name="iCloud_ID_verification_tip">הקש אשר במכשיר האפל שברשותך על מנת לגרום לקוד האימות להופיע. הוסף את קוד האימות כאן.</string>
     <string name="trans_complete_restoring">הועבר בהצלחה. משחזר נתוני יישומים…</string>
     <string name="dialog_backup_password_auto_backup_tips">לא יכול לגבות פריטים כאשר גיבוי הסיסמאות מופעל. כבה את מגבה הסיסמאות.</string>
     <string name="dialog_backup_password_change_device_restore_tips">לא יכול לגבות פריטים כאשר גיבוי הסיסמאות מופעל. כבה את מגבה הסיסמאות תחילה.</string>
     <string name="dialog_backup_password_restore_tips">לא יכול לשחזר פריטים כאשר גיבוי הסיסמאות מופעל. כבה את מגבה הסיסמאות תחילה.</string>
+    <string name="trans_cancel_dialog_survey_title">מדוע עצרת את ההעברה?</string>
 </resources>

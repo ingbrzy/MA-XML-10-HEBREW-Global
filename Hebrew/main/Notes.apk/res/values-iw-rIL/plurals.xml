@@ -7,10 +7,22 @@
         <item quantity="many">מחק %1$s פריטים?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">פריטים %1$s לא סונכרנו</item>
-        <item quantity="one">פריט %1$s לא סונכרן</item>
-        <item quantity="two">פריטים %1$s לא סונכרנו</item>
-        <item quantity="many">פריטים %1$s לא סונכרנו</item>
+        <item quantity="other">%1$s פריטים לא סונכרנו</item>
+        <item quantity="one">%1$s פריט אינו סונכרן</item>
+        <item quantity="two">%1$s פריטים לא סונכרנו</item>
+        <item quantity="many">%1$s פריטים לא סונכרנו</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">בעוד %1$d ימים</item>
+        <item quantity="one">בעוד יום %1$d</item>
+        <item quantity="two">בעוד %1$d ימים</item>
+        <item quantity="many">בעוד %1$d ימים</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d ימים לפני</item>
+        <item quantity="one">יום %1$d לפני</item>
+        <item quantity="two">%1$d ימים לפני</item>
+        <item quantity="many">%1$d ימים לפני</item>
     </plurals>
     <plurals name="format_move_notes_out_folder">
         <item quantity="other">הוסרו %1$s הפתקים מהתיקייה</item>
@@ -41,6 +53,36 @@
         <item quantity="one">הסרת הסתרת %1$s הפתק הצליחה</item>
         <item quantity="two">הסרת הסתרת %1$s הפתקים הצליחה</item>
         <item quantity="many">הסרת הסתרת %1$s הפתקים הצליחה</item>
+    </plurals>
+    <plurals name="todo_N_days_after">
+        <item quantity="other">בתוך %1$d ימים</item>
+        <item quantity="one">בתוך %1$d יום</item>
+        <item quantity="two">בתוך %1$d ימים</item>
+        <item quantity="many">בתוך %1$d ימים</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">לפני %1$d ימים</item>
+        <item quantity="one">לפני יום %1$d</item>
+        <item quantity="two">לפני %1$d ימים</item>
+        <item quantity="many">לפני %1$d ימים</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">למחוק %1$s משימות?</item>
+        <item quantity="one">למחוק%1$s משימה?</item>
+        <item quantity="two">למחוק %1$s משימות?</item>
+        <item quantity="many">למחוק %1$s משימות?</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">לפני %1$d ימים</item>
+        <item quantity="one">לפני יום %1$d</item>
+        <item quantity="two">לפני %1$d ימים</item>
+        <item quantity="many">לפני %1$d ימים</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">בתוך %1$d ימים</item>
+        <item quantity="one">בתוך %1$d יום</item>
+        <item quantity="two">בתוך %1$d ימים</item>
+        <item quantity="many">בתוך %1$d ימים</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">%d תווים</item>

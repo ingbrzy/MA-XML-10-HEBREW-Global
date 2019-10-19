@@ -100,6 +100,7 @@
     <string name="call_sim_menu_title_suffix">(עיקרי)</string>
     <string name="call_telex">התקשר לטלקס</string>
     <string name="call_tty_tdd">התקשר ל-TTY/TDD</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">התקשר לעבודה</string>
     <string name="call_work_mobile">התקשר לנייד בעבודה</string>
@@ -133,6 +134,7 @@
     <string name="callrecordview_menu_delete_sim">נקה רישומי היסטורית שיחות (%s)</string>
     <string name="callrecordview_menu_delete_stranger">נקה מספרים לא מזוהים</string>
     <string name="callrecordview_menu_edit_call_note">ערוך הערה לשיחה</string>
+    <string name="callrecordview_menu_identify_numbers">זהה מספרי טלפון</string>
     <string name="callrecordview_menu_ip">חיוג IP אוטומטי</string>
     <string name="callrecordview_menu_livetalk">חבילת Top-up</string>
     <string name="callrecordview_menu_misim">Mi SIM</string>
@@ -181,11 +183,11 @@
     <string name="cloud_antispam_mark">דגל</string>
     <string name="cloud_antispam_marked">סומן בדגל</string>
     <string name="cloud_antispam_title">מזהה מתקשר</string>
-    <string name="cloud_recommend_msg">לחץ לסנכרון אנשי קשר עם Mi Cloud</string>
-    <string name="cloud_state_disabled">סנכרון אנשי קשר עם Mi Cloud</string>
+    <string name="cloud_recommend_msg">לחץ לסנכרון אנשי קשר עם הענן.</string>
+    <string name="cloud_state_disabled">סנכרן אנשי קשר עם ענן</string>
     <string name="cloud_state_loading">רק רגע…</string>
-    <string name="cloud_state_sync_finished">סונכרן עם MI Cloud</string>
-    <string name="cloud_state_syncing">סונכרן עם Mi Cloud</string>
+    <string name="cloud_state_sync_finished">סונכרן עם ענן</string>
+    <string name="cloud_state_syncing">מסנכרן עם ענן</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
@@ -212,9 +214,10 @@
     <string name="contact_detail_action_item_nocalllog">אין היסטוריה להצגה</string>
     <string name="contact_detail_calllog_call_note_tips">הערות</string>
     <string name="contact_detail_calllog_call_record_tips">שיחה מוקלטת</string>
+    <string name="contact_detail_calllog_correct_yellow_page">תקן או דווח</string>
     <string name="contact_detail_calllog_empty">אין היסטוריה</string>
     <string name="contact_detail_entry_pay">שלח כסף</string>
-    <string name="contact_detail_entry_pay_dialog_title">בחירת מספר טלפון</string>
+    <string name="contact_detail_entry_pay_dialog_title">בחר מספר טלפון</string>
     <string name="contact_detail_entry_pay_request">בקש כסף</string>
     <string name="contact_detail_menu_delete_miprofile">מחק כרטיס</string>
     <string name="contact_detail_miprofile_accept">החלף כרטיסי איש קשר</string>
@@ -233,6 +236,7 @@
     <string name="contact_detail_miprofile_save_success_toast">כרטיס איש הקשר התקבל</string>
     <string name="contact_detail_miprofile_settings_header">הגדרות נוספות</string>
     <string name="contact_detail_miprofile_subtitle">הכרטיסים הוחלפו כבר</string>
+    <string name="contact_detail_more_calllog">הצג עוד</string>
     <string name="contact_detail_profile_switch_fail_network_toast">לא ניתן להתחבר לרשת</string>
     <string name="contact_detail_profile_switch_fail_toast">משהו השתבש עם השרת שלנו</string>
     <string name="contact_detail_profile_switch_off">כבה כרטיסי איש קשר</string>
@@ -252,7 +256,8 @@
     <string name="contact_editor_prompt_zero_accounts">אחסן בנייד או בחשבון מקוון חדש</string>
     <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
     <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
-    <string name="contact_import_methods_dialog_title">בחירת שיטת יבוא</string>
+    <string name="contact_import_methods_dialog_title">בחר שיטת יבוא</string>
+    <string name="contact_is_deleted">איש קשר זה נמחק</string>
     <string name="contact_is_readOnly">לא ניתן לערוך אנשי קשר המוגדרים לצפיה בלבד</string>
     <string name="contact_list_loading">טוען…</string>
     <string name="contact_pick_photo">תמונה</string>
@@ -296,13 +301,13 @@
     <string name="deleteConfirmationDetail">למחוק את \"%s\"?</string>
     <string name="deleteConfirmation_title">למחוק איש קשר זה?</string>
     <string name="delete_call_log_message">לנקות את יומן השיחות?</string>
-    <string name="delete_call_log_selected_title">לנקות את יומן השיחות שנבחר?</string>
+    <string name="delete_call_log_selected_title">האם לנקות את יומן השיחות שנבחר?</string>
     <string name="delete_call_log_title">ניקוי יומן שיחות</string>
     <string name="delete_contact_calllog_title">לנקות את יומן השיחות?</string>
     <string name="delete_dial_input">מחיקה</string>
     <string name="delete_duplicate">מזג</string>
     <string name="delete_duplicate_message">"ממזג אנשי קשר… "</string>
-    <string name="delete_group_dialog_message">מחק את קבוצה \"%1$s\", אנשי הקשר עצמם לא יימחקו.</string>
+    <string name="delete_group_dialog_message">האם למחוק את %1$s? אנשי הקשר עצמם לא ימחקו.</string>
     <string name="delete_group_dialog_title">מחק קבוצה</string>
     <string name="delete_selected_sim_entry_miui">מחק אנשי קשר שנבחרו</string>
     <string name="delete_sim_entries_finish">אנשי קשר בכרטיס ה-SIM נמחקו</string>
@@ -436,6 +441,8 @@
     <string name="edit_contact">ערוך איש קשר</string>
     <string name="edit_contact_card_title">בחר פריטים לשיתוף</string>
     <string name="edit_contact_photo">ערוך תמונת איש קשר</string>
+    <string name="eight">8</string>
+    <string name="eight_letter">TUV</string>
     <string name="email">שלח דוא\"ל</string>
     <string name="emailLabelsGroup">דוא\"ל</string>
     <string name="email_custom">שלח דוא\"ל ל-%s</string>
@@ -487,9 +494,14 @@
     <string name="favoritesFrequentContacted">אנשי קשר בשימוש שכיח</string>
     <string name="favorites_list_empty">אין מועדפים</string>
     <string name="firewall_setting">רשימת החסומים</string>
+    <string name="five">5</string>
+    <string name="five_letter">JKL</string>
     <string name="force_touch_miprofile">כרטיס איש קשר</string>
     <string name="force_touch_new_contact">איש קשר חדש</string>
+    <string name="four">4</string>
+    <string name="four_letter">GHI</string>
     <string name="frequentList">שכיח</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">שם</string>
     <string name="gallery">גלריה</string>
     <string name="generic_no_account_prompt">שמור את אנשי הקשר שלך בטוחים גם אם תאבד את הטלפון שלך: סנכרן אותם באמצעות שרות מקוון.</string>
@@ -673,6 +685,7 @@
     <string name="miprofile_contact_header">אנשי קשר עם כרטיסי איש קשר</string>
     <string name="miprofile_contact_meaasge">אנשי קשר מקומיים</string>
     <string name="miprofile_contact_verifying">מאמת</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ערוך פרופיל</string>
     <string name="miprofile_error_accept_self">לא ניתן להחליף את כרטיס איש הקשר האישי שלך</string>
     <string name="miprofile_error_no_miaccount">היכנס לחשבון Mi שלך</string>
@@ -746,6 +759,8 @@
     <string name="nickname_editor_title">ערוך כינוי</string>
     <string name="nickname_picker_name_column">שם איש קשר</string>
     <string name="nickname_picker_nickname_column">כותרת</string>
+    <string name="nine">9</string>
+    <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">יש צורך בחשבון על מנת ליצור קבוצות.</string>
     <string name="noContactHelpTextAccountsInfo" />
     <string name="noContactHelpTextImportXiaomiAccountInfo">שחזר נתוני אנשי קשר מחשבון Mi שלך</string>
@@ -782,6 +797,7 @@
     <string name="notification_action_voicemail_play">השמע</string>
     <string name="notification_new_voicemail_ticker">הודעה קולית חדשה מ-%1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+    <string name="one">1</string>
     <string name="openDialKeyboard">לוח מקשים</string>
     <string name="open_contact">צפה באיש קשר</string>
     <string name="open_dial_pad_description">פתח את לוח המקשים</string>
@@ -826,7 +842,10 @@
     <string name="path_wipe_data">יישומי מערכתנשי קשררגן אנשי קשרקה נתונים</string>
     <string name="payphone">טלפון ציבורי</string>
     <string name="people">אנשי קשר</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">טלפון</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
     <string name="phone_primary">עיקרי</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות על גבי המכשיר.</string>
@@ -857,6 +876,7 @@
     <string name="postal_postcode">מיקוד</string>
     <string name="postal_region">מדינה</string>
     <string name="postal_street">רחוב</string>
+    <string name="pound">\#</string>
     <string name="pref_key_photo">תמונה</string>
     <string name="pref_key_photo_word_summary">הקצה אוטומטית תמונה לאנשי קשר ללא תמונה</string>
     <string name="pref_key_photo_word_title">הקצה תמונות איש קשר</string>
@@ -986,6 +1006,7 @@
     <string name="scan_bussiness_card_merge_tip">הנתונים הסותרים הוחלפו</string>
     <string name="scan_duplicate_message">%1$d אנשי קשר עם מידע זהה</string>
     <string name="scan_merge">\"מחפש אחר כפילויות…\"</string>
+    <string name="scan_not_installed">התקן סורק תחילה</string>
     <string name="scan_qrcode_card_hint1">סרוק את קוד ה-QR המופיע מעלה</string>
     <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">סיבה: \"%s\".</string>
@@ -1036,6 +1057,8 @@
     <string name="set_data_package">הגדר תכנית נתונים תחילה</string>
     <string name="set_default">הגדר כברירת מחדל</string>
     <string name="set_photo_failed_msg">לא ניתן היה להקצות תמונה</string>
+    <string name="seven">7</string>
+    <string name="seven_letter">PQRS</string>
     <string name="share_contact_as">שתף אנשי קשר כ</string>
     <string name="share_error">לא ניתן לשתף איש קשר זה</string>
     <string name="share_over_limit">לא ניתן לשתף יותר מ-1000 אנשי קשר</string>
@@ -1046,6 +1069,8 @@
     <string name="shortcutContact">איש קשר</string>
     <string name="shortcutDialContact">"חיוג מהיר "</string>
     <string name="shortcutMessageContact">הודעה מהירה</string>
+    <string name="shortcut_new_contact_label">איש קשר חדש</string>
+    <string name="shortcut_scan_label">סרוק כרטיס ביקור</string>
     <string name="showAllContactsJoinItem">הצג את כל אנשי הקשר</string>
     <string name="simContacts_airplaneMode">בטל מצב טיסה על מנת לייבא אנשי קשר מכרטיס ה-SIM</string>
     <string name="simContacts_empty">אין אנשי קשר בכרטיס SIM</string>
@@ -1076,6 +1101,9 @@
     <string name="sim_unloaded">כרטיס ה-SIM אינו מותקן</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">אין חברי קבוצה</string>
+    <string name="six">6</string>
+    <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">חברות</string>
     <string name="smart_group_company_unavailable">אין פרטי חברה</string>
     <string name="smart_group_frequency_1">בחודש האחרון</string>
@@ -1115,6 +1143,8 @@
     <string name="special_code_security_exception">לא ניתן היה להשלים את הפעולה. זהו אינו חייגן ברירת המחדל שלך.</string>
     <string name="splitConfirmation">איש קשר זה יופרד למספר אנשי קשר.</string>
     <string name="splitConfirmation_title">להפריד איש קשר?</string>
+    <string name="star">*</string>
+    <string name="star_letter">,</string>
     <string name="starredList">מסומנים בכוכב</string>
     <string name="starred_contacts">מועדפים</string>
     <string name="status_available">זמין</string>
@@ -1134,6 +1164,8 @@
     <string name="t9_search_guide_zhuyin_title2">הזן \"3\" ו-\"5\" על מנת לחפש את \"<font fgcolor="">א</font>בי <font fgcolor="">כ</font>הן\"</string>
     <string name="take_new_photo">צלם תמונה חדשה</string>
     <string name="take_photo">צלם תמונה</string>
+    <string name="three">3</string>
+    <string name="three_letter">DEF</string>
     <string name="titleJoinContactDataWith">מזג אנשי קשר</string>
     <string name="title_other_devices">התקנים זמינים אחרים</string>
     <string name="title_paired_devices">התקנים מוצמדים</string>
@@ -1153,6 +1185,8 @@
     <string name="toast_text_copied">הטקסט הועתק</string>
     <string name="today">היום</string>
     <string name="transfer_accounts">העבר חשבונות</string>
+    <string name="two">2</string>
+    <string name="two_letter">ABC</string>
     <string name="type_incoming">שיחה נכנסת</string>
     <string name="type_missed">שיחה שלא נענתה</string>
     <string name="type_mx_msg">Mi Message</string>
@@ -1210,9 +1244,11 @@
     <string name="voip_audio_description">שיחת VoiP</string>
     <string name="voip_video_description">שיחת וידאו VoiP</string>
     <string name="websiteLabelsGroup">אתר</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">נקה נתונים</string>
     <string name="yellowPageNavigationIconLabel">דפי זהב</string>
     <string name="yellowPageNavigationLabel">דפי זהב</string>
+    <string name="yellowpage_address_tag">כתובת</string>
     <string name="yellowpage_fc_toast">"לא ניתן להשתמש בתכונה זו משום ש'דפי זהב' קרס."</string>
     <string name="yellowpage_navigation_ad_hint">פרסומת</string>
     <string name="yellowpage_navigation_balance_refresh_failed">לא ניתן היה לאמת את היתרה והנתונים הסלולריים, נסה שוב מאוחר יותר.</string>
@@ -1233,7 +1269,10 @@
     <string name="yellowpage_navigation_send_to_desktop_downloading">מוריד…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">לא ניתן להתחבר לרשת</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">נוסף אל מסך הבית</string>
+    <string name="yellowpage_provider_label">הנתונים מסופקים על-ידי</string>
     <string name="yellowpage_search_the_yellowpage">חיפוש בדפי זהב</string>
     <string name="yellowpage_user_profile">פרופיל</string>
+    <string name="zero">0</string>
     <string name="zero_items_selected">בחר פריטים</string>
+    <string name="zero_letter">+</string>
 </resources>

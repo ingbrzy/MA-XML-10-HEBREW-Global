@@ -19,104 +19,104 @@
         <item>אחסון</item>
     </string-array>
     <string-array name="settings_search_contacts">
-        <item>סנכרון אנשי קשר עם Mi Cloud</item>
+        <item>סנכרון אנשי קשר עם Xiaomi Cloud</item>
         <item>הפעל/הגדר סנכרון</item>
-        <item>אנשי קשר;יומן שיחות;ענן;סנכרון;שירותי ענן, Mi Cloud</item>
+        <item>אנשי קשר;יומן שיחות;ענן;סנכרון;שירותי ענן, Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_sms">
-        <item>סנכרן הודעות עם Mi Cloud</item>
+        <item>סנכרן הודעות עם Xioami Cloud</item>
         <item>הפעל/הגדר סנכרון</item>
-        <item>הודעות;SMS;MMS;ענן;סנכרון; שירותי ענן; ענן Mi</item>
+        <item>הודעות;SMS;MMS;ענן;סנכרון; שירותי ענן;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_gallery">
-        <item>סנכרן גלריה עם Mi Cloud</item>
+        <item>סנכרן גלריה עם Xiaomi Cloud</item>
         <item>הפעל/הגדר סנכרון</item>
-        <item>גלריה; תמונות; ענן; שירותי ענן; ענן Mi</item>
+        <item>גלריה; תמונות; ענן; שירותי ענן; Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_dial">
-        <item>סנכרן את היסטוריית השיחות עם Mi Cloud</item>
+        <item>סנכרן את היסטוריית השיחות עם Xiaomi Cloud</item>
         <item>הפעל/הגדר סנכרון</item>
-        <item>אנשי קשר;יומן שיחות;ענן;סנכרון;שירותי ענן, ענן Mi</item>
+        <item>אנשי קשר;יומן שיחות;ענן;סנכרון;שירותי ענן, Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recorder">
-        <item>סנכרן הקלטות עם-Mi Cloud</item>
+        <item>סנכרן הקלטות עם- Xiaomi Cloud</item>
         <item>הפעל/הגדר סנכרון</item>
-        <item>רשמקול;ענן;סנכרון; שירותי ענן; ענן Mi</item>
+        <item>רשמקול;ענן;סנכרון; שירותי ענן; Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_music">
-        <item>סנכרן מוסיקה עם Mi Cloud</item>
+        <item>סנכרן מוזיקה עם Xiaomi Cloud</item>
         <item>הפעל סנכרון</item>
-        <item>מוסיקה;ענן;סנכרון; שירותי ענן; ענן Mi</item>
+        <item>מוסיקה;ענן;סנכרון; שירותי ענן; Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
-        <item>סנכרן פתקים עם ענן Mi</item>
+        <item>סנכרון פתקים עם Xiaomi Cloud</item>
         <item>הפעל סנכרון</item>
-        <item>פתקים; ענן; סנכרון; שירותי ענן; ענן Mi</item>
+        <item>פתקים;מוסיקה;ענן;סנכרון; שירותי ענן; Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>סנכרן הגדרות Wi-Fi עם Mi Cloud</item>
+        <item>סנכרון הגדרות Wi-Fi עם Xiaomi Cloud</item>
         <item>הפעל סנכרון</item>
-        <item>WLAN;WI-FI;ענן;סנכרון;שירותי ענן; ענן Mi</item>
+        <item>WLAN;WI-FI;ענן;סנכרון;שירותי ענן; Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_calendar">
-        <item>סנכרן את לוח השנה עם Mi Cloud</item>
+        <item>סנכרון לוח שנה עם Xiaomi Cloud</item>
         <item>הפעל סנכרון</item>
-        <item>רשמקול;ענן;סנכרון; שירותי ענן; ענן Mi</item>
+        <item>לוח שנה;ענן;סנכרון; שירותי ענן; Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_browser">
-        <item>סנכרן את הדפדפן עם Mi Cloud</item>
+        <item>סנכרון דפדפן עם Xiaomi Cloud</item>
         <item>הפעל סנכרון</item>
-        <item>דפדפן;ענן;סנכרון; שירותי ענן; ענן Mi</item>
+        <item>דפדפן;ענן;סנכרון; שירותי ענן; Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>סנכרן אבטחה עם Mi Cloud</item>
+        <item>סנכרן אבטחה עם Xiaomi Cloud</item>
         <item>הפעל סנכרון</item>
-        <item>אבטחה;ענן;סנכרון;שירותי ענן;ענן Mi</item>
+        <item>אבטחה;ענן;סנכרון;שירותי ענן; Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>סנכרן את כספת היישומים עם ענן Mi</item>
+        <item>סנכרן את כספת היישומים עם Xiaomi Cloud</item>
         <item>הפעל סנכרון</item>
-        <item>כספת יישומים;כרטיסים;ענן;סנכרון;שירותי ענן;ענן Mi</item>
+        <item>כספת יישומים;כרטיסים;ענן;סנכרון;שירותי ענן; Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
-        <item>Mi Cloud, כל שירותי Mi במקום אחד.</item>
+        <item>Xiaomi Cloud, כל שירותי Mi במקום אחד.</item>
         <item>גש אל תמונות, אנשי קשר, הודעות ומכשירים מכל מקום</item>
-        <item>אחסון לא מספיק; חברות; אחסון;נפח אחסון;ענן;סנכרון;שירותי ענן; Mi Cloud;אשפה; פריטים שנמחקו;אבטחה</item>
+        <item>אחסון לא מספיק; חברות; אחסון;נפח אחסון;ענן;סנכרון;שירותי ענן; Xiaomi Cloud;אשפה; פריטים שנמחקו;אבטחה</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>איתור המכשיר</item>
         <item>מחק מידע ונעל את מכשירך במידה והוא אבד</item>
-        <item>אתר מכשיר,אבד; ענן;סנכרון; שירותי ענן; ענן Mi</item>
+        <item>אתר מכשיר,אבד; ענן;סנכרון; שירותי ענן; Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>איתור המכשיר</item>
         <item>מחק מידע ונעל את מכשירך במידה והוא אבד</item>
-        <item>אתר מכשיר,אבד; ענן;סנכרון; שירותי ענן; ענן Mi</item>
+        <item>אתר מכשיר,אבד; ענן;סנכרון; שירותי ענן; Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
-        <item>פריטים שנמחקו Mi Cloud</item>
+        <item>פריטים שנמחקו מ Xiaomi Cloud</item>
         <item>שחזר אנשי קשר, תומונות, הודעות ועוד</item>
-        <item>אשפה;מחק פריטים;פח אשפה; שחזר; שירותי ענן; Mi Cloud</item>
+        <item>אשפה;מחק פריטים;פח אשפה; שחזר; שירותי ענן; Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
-        <item>חברות בשירות Mi Cloud</item>
+        <item>רכוש מנוי ב-Xiaomi Cloud</item>
         <item>שדרג חברות, קבל יותר מקום אחסון ואבטח את המידע שלך</item>
-        <item>אין מספיק מקום אחסון; חברות; אחסון; שטח אחסון; סנכרון ענן; שירותי ענן; Mi Cloud; מגה; אולטרה; VIP; גיבוי; גיבוי; שחזור; אשפה; פריטים שנמחקו; פח אשפה</item>
+        <item>אין מספיק מקום אחסון; חברות; אחסון; שטח אחסון; סנכרון ענן; שירותי ענן; Xiaomi Cloud; מגה; אולטרה; VIP; גיבוי; גיבוי; שחזור; אשפה; פריטים שנמחקו; פח אשפה</item>
     </string-array>
     <string-array name="settings_search_backup_setting">
-        <item>גבה את מסך הבית על גבי ענן Mi</item>
+        <item>גבה את מסך הבית על גבי Xiaomi Cloud</item>
         <item>גבה את פריסת מסך הבית, רשימת יישומים מותקנים והגדרות מערכת</item>
-        <item>ענן;גיבוי;גיבוי;שירותי ענן; ענן Mi;מסך הבית;הפריסה;יישומים;הגדרות; תדירות גיבוי;נהל הגדרות; שחזר</item>
+        <item>ענן;גיבוי;גיבוי;שירותי ענן; Xiaomi Cloud;מסך הבית;הפריסה;יישומים;הגדרות; תדירות גיבוי;נהל הגדרות; שחזר</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>גיבויים</item>
         <item>פריטים מגובים</item>
-        <item>ענן;גיבוי;גיבוי; שירותי ענן;ענן Mi; מסך הבית;פריסה; יישומים;נהל גיבויים;שחזור</item>
+        <item>ענן;גיבוי;גיבוי; שירותי ענן;Xiaomi Cloud; מסך הבית;פריסה; יישומים;נהל גיבויים;שחזור</item>
     </string-array>
     <string-array name="settings_search_restore_device">
-        <item>שחזור פריטים מ-Mi Cloud</item>
+        <item>שחזור פריטים מ-Xiaomi Cloud</item>
         <item>הורד פריטים שגובו אל מכשירך</item>
-        <item>ענן;גיבוי;גיבוי;שחזור;שירותי ענן;ענן Mi</item>
+        <item>ענן;גיבוי;גיבוי;שחזור;שירותי ענן;Xiaomi Cloud</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>סנכרון נתוני יישום</item>

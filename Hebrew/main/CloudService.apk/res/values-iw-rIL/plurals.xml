@@ -91,10 +91,10 @@
         <item quantity="many">%d תמונות מוסתרות לא סונכרנו. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">הסנכרון מושהה. ממשיך בעוד %d דקות…</item>
-        <item quantity="one">הסנכרון מושהה. ממשיך בעוד %d דקה…</item>
-        <item quantity="two">הסנכרון מושהה. ממשיך בעוד %d דקות…</item>
-        <item quantity="many">הסנכרון מושהה. ממשיך בעוד %d דקות…</item>
+        <item quantity="other">המשך סנכרון לאחר %d דקות</item>
+        <item quantity="one">המשך סנכרון לאחר דקה %d</item>
+        <item quantity="two">המשך סנכרון לאחר %d דקות</item>
+        <item quantity="many">המשך סנכרון לאחר %d דקות</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">לפני דקה %s</item>
@@ -109,9 +109,9 @@
         <item quantity="many">לפני %s שעות</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s השירותים יסונכרנו עם שירות ענן Mi</item>
-        <item quantity="one">%s השירות יסונכרן עם שירות ענן Mi</item>
-        <item quantity="two">%s השירותים יסונכרנו עם שירות ענן Mi</item>
-        <item quantity="many">%s השירותים יסונכרנו עם שירות ענן Mi</item>
+        <item quantity="other">%s שירותים יסונכרנו עם Xiaomi Cloud</item>
+        <item quantity="one">שירות %s יסונכרן עם Xiaomi Cloud</item>
+        <item quantity="two">%s שירותים יסונכרנו עם Xiaomi Cloud</item>
+        <item quantity="many">%s שירותים יסונכרנו עם Xiaomi Cloud</item>
     </plurals>
 </resources>
