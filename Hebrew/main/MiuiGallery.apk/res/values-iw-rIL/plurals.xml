@@ -102,6 +102,12 @@
         <item quantity="two">ישוב לפעול בעוד %d דקות</item>
         <item quantity="many">ישוב לפעול בעוד %d דקות</item>
     </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">הפסק לסנכרן תמונות, סרטונים, אנשי קשר, פתקים ופריטים אחרים עם הענן בעוד %d דקות.</item>
+        <item quantity="one">הפסק לסנכרן תמונות, סרטונים, אנשי קשר, פתקים ופריטים אחרים עם הענן בעוד דקה %d.</item>
+        <item quantity="two">הפסק לסנכרן תמונות, סרטונים, אנשי קשר, פתקים ופריטים אחרים עם הענן בעוד %d דקות.</item>
+        <item quantity="many">הפסק לסנכרן תמונות, סרטונים, אנשי קשר, פתקים ופריטים אחרים עם הענן בעוד %d דקות.</item>
+    </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d תמונות וסרטונים | %2$s</item>
         <item quantity="one">תמונה או וידאו %1$d | %2$s</item>
@@ -289,10 +295,10 @@
         <item quantity="many">%1$d קבצים</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d פריטים ממתינים לגיבוי</item>
-        <item quantity="one">פריט 1 ממתין לגיבוי</item>
-        <item quantity="two">%1$d פריטים ממתינים לגיבוי</item>
-        <item quantity="many">%1$d פריטים ממתינים לגיבוי</item>
+        <item quantity="other">%1$d פריטים ממתינים לסנכרון</item>
+        <item quantity="one">%1$d פריט ממתין לסנכרון</item>
+        <item quantity="two">%1$d שני פריטים ממתינים לסנכרון</item>
+        <item quantity="many">%1$d פריטים ממתינים לסנכרון</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d תמונות</item>
@@ -301,28 +307,28 @@
         <item quantity="many">%1$d תמונות</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d תמונות ממתינות לגיבוי</item>
-        <item quantity="one">תמונה 1 ממתינה לגיבוי</item>
-        <item quantity="two">%1$d תמונות ממתינות לגיבוי</item>
-        <item quantity="many">%1$d תמונות ממתינות לגיבוי</item>
+        <item quantity="other">%1$d תמונות ממתינות לסנכרון</item>
+        <item quantity="one">תמונה %1$d ממתינה לסנכרון</item>
+        <item quantity="two">%1$d שתי תמונות ממתינות לסנכרון</item>
+        <item quantity="many">%1$d תמונות ממתינות לסנכרון</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">מגבה %1$d תמונות…</item>
-        <item quantity="one">מגבה תמונה…</item>
-        <item quantity="two">מגבה %1$d תמונות…</item>
-        <item quantity="many">מגבה %1$d תמונות…</item>
+        <item quantity="other">מסנכרן %1$dתמונות …</item>
+        <item quantity="one">מסנכרן %1$d תמונה…</item>
+        <item quantity="two">מסנכרן %1$d 2 תמונות …</item>
+        <item quantity="many">מסנכרן %1$d תמונות …</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">מגבה %1$d פריטים…</item>
-        <item quantity="one">מגבה פריט 1…</item>
-        <item quantity="two">מגבה %1$d פריטים…</item>
-        <item quantity="many">מגבה %1$d פריטים…</item>
+        <item quantity="other">מסנכרן %1$d פריטים …</item>
+        <item quantity="one">מסנכרן %1$d פריט …</item>
+        <item quantity="two">מסנכרן %1$d שני פריטים …</item>
+        <item quantity="many">מסנכרן %1$d פריטים …</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">מגבה %1$d סרטונים…</item>
-        <item quantity="one">מגבה וידאו…</item>
-        <item quantity="two">מגבה %1$d סרטונים…</item>
-        <item quantity="many">מגבה %1$d סרטונים…</item>
+        <item quantity="other">מסנכרן %1$d סרטונים …</item>
+        <item quantity="one">מסנכרן %1$d סרטון …</item>
+        <item quantity="two">מסנכרן %1$d שני סרטונים …</item>
+        <item quantity="many">מסנכרן %1$d סרטונים …</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d סרטונים</item>
@@ -331,10 +337,10 @@
         <item quantity="many">%1$d סרטונים</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d סרטונים ממתינים לגיבוי</item>
-        <item quantity="one">וידאו 1 ממתין לגיבוי</item>
-        <item quantity="two">%1$d סרטונים ממתינים לגיבוי</item>
-        <item quantity="many">%1$d סרטונים ממתינים לגיבוי</item>
+        <item quantity="other">%1$d סרטונים ממתינים לסנכרון</item>
+        <item quantity="one">%1$d סרטון ממתין לסנכרון</item>
+        <item quantity="two">%1$d שני סרטונים ממתינים לסנכרון</item>
+        <item quantity="many">%1$d סרטונים ממתינים לסנכרון</item>
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">%1$d פריטים בסה\"כ</item>

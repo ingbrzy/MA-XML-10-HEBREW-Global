@@ -12,6 +12,7 @@
     <string name="call_record_list_group_all">הכל</string>
     <string name="call_record_list_group_connected">מחובר</string>
     <string name="call_record_list_group_unconnected">לא מחובר</string>
+    <string name="cancel_rename">ביטול</string>
     <string name="clear_records">מחק הקלטות שסונכרנו</string>
     <string name="cloud_record_open">סנכרן הקלטות</string>
     <string name="cloud_record_tip">סנכרן הקלטות עם Xiaomi Cloud.</string>
@@ -73,6 +74,7 @@
     <string name="korea_permission_record_resc">להקלטת שמע</string>
     <string name="korea_permission_storage">אחסון</string>
     <string name="korea_permission_storage_desc">בעבור שמירה של הקלטות</string>
+    <string name="loading_more">רק רגע…</string>
     <string name="loading_order_list">רק רגע…</string>
     <string name="loading_order_list_empty">אין הזמנות כאן.</string>
     <string name="low_battery_error">נותרו פחות מ-5% סוללה. עצור ושמור את ההקלטה שלך על מנת לודא שלא תאבד.</string>
@@ -121,6 +123,7 @@
     <string name="online_recognize_order_upload">לאשר ולהעלות</string>
     <string name="online_recognize_order_uploading">מעלה %s…</string>
     <string name="online_recognize_other_order_upload">חכה עד שכל ההעלאות הושלמו ונסה שוב.</string>
+    <string name="online_recognize_progress">תמלול %s…</string>
     <string name="online_recognize_running">תמלול…</string>
     <string name="online_recognize_service_unavailable">השירות אינו זמין כעת. חכה דקה או שתיים ונסה שוב.</string>
     <string name="order_item_duration">משך זמן: %s</string>
@@ -190,15 +193,12 @@
     <string name="record_format_preference_title">פורמט הקלטה</string>
     <string name="record_list">הקלטות</string>
     <string name="record_list_call">שיחות מוקלטות</string>
-    <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">הקלטות שסונכרנו</string>
     <string name="record_list_cloud_call">שיחות מוקלטות שסונכרנו</string>
     <string name="record_list_cloud_fm">הקלטות רדיו FM שסונכרנו</string>
     <string name="record_list_fm">הקלטות FM</string>
     <string name="record_list_item_recognize_text">טקסט</string>
     <string name="record_mark_point">סמן את %s</string>
-    <string name="record_name_hour">.</string>
-    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">איכות הקלטה</string>
     <string name="record_resotre">משחזר רשומות</string>
     <string name="recording">מקליט</string>
@@ -225,7 +225,9 @@
     <string name="retry">נסה שוב</string>
     <string name="runtime_permission_ungranted">"לא ניתן להשתמש ב'רשמקול' עקב מחסור בהרשאות"</string>
     <string name="search_app">רשמקול</string>
+    <string name="search_empty">לא נמצאו תוצאות</string>
     <string name="search_enable_earpiece_title">השתמש במקלט לנגינת קבצי שמע</string>
+    <string name="search_hint">חיפוש</string>
     <string name="search_led_indicator">התראות מסך הנעילה</string>
     <string name="search_led_indicator_prompt">במהלך הקלטה, הצג קיצור דרך בשורת המצב ועמעם נורית חווי במסך הנעילה</string>
     <string name="search_quliaty_title">איכות ההקלטה</string>
@@ -261,9 +263,6 @@
     <string name="text_play_speed_1_0">מהירות השמעה רגילה</string>
     <string name="text_play_speed_1_5">מהירות השמעה 1.5X</string>
     <string name="text_play_speed_2_0">מהירות השמעה 2X</string>
-    <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s יכול להקליט למשך כ- %2$s</string>
     <string name="toast_uninstall_fileexplorer">"'מנהל הקבצים' אינו מותקן"</string>
     <string name="usage_description">תמלול קובצי שמע וסנכרון פריטים עם הענן</string>

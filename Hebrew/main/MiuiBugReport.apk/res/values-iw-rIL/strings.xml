@@ -35,8 +35,6 @@
  חזור חזרה לעמוד זה ולחץ \"סיים והעלה\"."</string>
     <string name="catch_full_log_item_content_title">צעדים:</string>
     <string name="catch_full_log_item_title_audio">שמע, מקליט קול ושיחה קולית</string>
-    <string name="catch_full_log_item_title_bt">Bluetooth</string>
-    <string name="catch_full_log_item_title_dump_heap">Lagging</string>
     <string name="catch_full_log_item_title_gps">שירותי מיקום</string>
     <string name="catch_full_log_item_title_sensor">חיישנים</string>
     <string name="catch_full_log_item_title_signal">טלפון, קליטה ומפעילים סלולריים</string>
@@ -71,7 +69,6 @@
     <string name="err_type">סוג השגיאה</string>
     <string name="err_type_app">יישומים</string>
     <string name="err_type_appstore">חנות היישומים</string>
-    <string name="err_type_bluetooth">Bluetooth</string>
     <string name="err_type_camera">מצלמה</string>
     <string name="err_type_hardware">חומרה</string>
     <string name="err_type_hardware_summary">"לחצנים, טעינה, חיישנים, וכו'."</string>
@@ -86,7 +83,6 @@
     <string name="err_type_systemapp">יישומי MIUI</string>
     <string name="err_type_translate">שפה</string>
     <string name="err_type_wifi">רשת אלחוטית</string>
-    <string name="err_type_xiaomi_family">Mi Home</string>
     <string name="err_type_xiaomi_service">שירות לקוחות</string>
     <string name="error_no_connection">לא ניתן היה להתחבר לרשת</string>
     <string name="feedback_bug_status_change_notification_desc">בעיה %1$s \"%2$s\"</string>
@@ -190,8 +186,6 @@
     <string name="feedback_tracking">עקוב אחר תקלות</string>
     <string name="feedback_version_label">גרסה</string>
     <string name="feesback_list">דיווחים</string>
-    <string name="first_position">2#</string>
-    <string name="floor">%1$s#</string>
     <string name="from">מ-%1$s</string>
     <string name="goon_feedback_main">המשך</string>
     <string name="hint_feedback_main">תאר את הבעיה</string>
@@ -222,7 +216,6 @@
     <string name="mi_service_dialog_content">כל תכונות המשוב יעברו ליישום \"שירותים ומשוב\". יישום המשוב יוסר ממסך הבית. לחץ על \"פתח\" על מנת לנסות את \"שירותים ומשוב\".</string>
     <string name="mi_service_dialog_title">מציג \"שירותים ומשוב\"</string>
     <string name="michat_app_name">תמיכה מקוונת</string>
-    <string name="michat_artificial_customer_phone">4001005678</string>
     <string name="michat_artificial_customer_phone_dial_error">אם אין באפשרותך לחייג לקו החם שמספרו 400, חייג %1$s באמצעות טלפון אחר</string>
     <string name="michat_artificial_customer_text">צוות התמיכה</string>
     <string name="michat_attach_image">תמונה</string>
@@ -328,7 +321,6 @@
     <string name="network_unavailable_dialog_content">הדיווח שלך ישלח עם חיבורך לרשת נתונים סלולרית.</string>
     <string name="network_unavailable_dialog_title">לא ניתן להתחבר לרשת</string>
     <string name="non_system_app_select">יישומים שהורדו</string>
-    <string name="nothing">--</string>
     <string name="open_feedback_main">עוד</string>
     <string name="packaging_dialog_content">יוצר דו\"ח…</string>
     <string name="passport_access_denied">הגישה נדחתה</string>
@@ -486,6 +478,7 @@
     <string name="passport_wrong_phone_number_format">הפורמט של מספר הטלפון שהזנת אינו חוקי</string>
     <string name="passport_wrong_vcode">הקוד שהזנת שגוי</string>
     <string name="pic_not_exist">תמונה זו אינה קיימת</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">המשוב שלך, יחד עם יומני השגיאה, ישלח לשרתי Mi.</string>
     <string name="plus_one_submit_dialog_not_show_again">זכור העדפה</string>
     <string name="post_miui_bbs_failed">לא ניתן היה לפרסם בפורום MIUI</string>
@@ -507,7 +500,6 @@
     <string name="save_pic_fail">לא ניתן היה לשמור את התמונה, בדוק את כרטיס הזכרון שלך</string>
     <string name="save_pic_success">התמונה נשמרה ב- %s</string>
     <string name="screen_lock">נעילת מסך</string>
-    <string name="second_position">3#</string>
     <string name="section_description">תאור</string>
     <string name="section_err_type">סוג השגיאה</string>
     <string name="section_screenshot">צילום מסך</string>
@@ -560,7 +552,6 @@
     <string name="toast_screenshot_too_large">לא ניתן להעלות תמונות או וידאו הגדולים מ-100MB.</string>
     <string name="toast_third_packagename_required">הזן שם יישום</string>
     <string name="toast_title_required">תאר את הבעיה שלך</string>
-    <string name="topic_author">1#</string>
     <string name="try_again">נסה שוב</string>
     <string name="upload_log_failed">לא ניתן היה לשלוח את היומנים</string>
     <string name="warning_field_empty">הזן %1$s</string>

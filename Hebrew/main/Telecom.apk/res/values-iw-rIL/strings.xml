@@ -45,6 +45,7 @@
     <string name="incall_error_call_failed">לא ניתן היה לבצע את השיחה.</string>
     <string name="incall_error_power_off">כבה את מצב הטיסה כדי לבצע שיחה.</string>
     <string name="incall_error_supp_service_unknown">שירות זה אינו נתמך.</string>
+    <string name="missedcall_notification_public_version_title">טלפון</string>
     <string name="no_vm_number">מספר תא קולי חסר</string>
     <string name="no_vm_number_msg">לא קיים מספר תא קולי בכרטיס ה-SIM.</string>
     <string name="non_primary_user">רק בעל המכשיר יכול לנהל את המספרים החסומים.</string>

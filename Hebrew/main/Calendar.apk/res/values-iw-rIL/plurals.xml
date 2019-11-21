@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">%d ימים לפני</item>
-        <item quantity="one">יום %d לפני</item>
-        <item quantity="two">%d ימים לפני</item>
-        <item quantity="many">%d ימים לפני</item>
+        <item quantity="other">%d ימים לפני האירוע</item>
+        <item quantity="one">%d יום לפני האירוע</item>
+        <item quantity="two">%d ימים לפני האירוע</item>
+        <item quantity="many">%d ימים לפני האירוע</item>
     </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">בעוד %1$d ימים ב- %2$s</item>
@@ -13,28 +13,28 @@
         <item quantity="many">בעוד %1$d ימים ב- %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">%1$d ימים %2$s</item>
-        <item quantity="one">%1$d יום לפני %2$s</item>
-        <item quantity="two">%1$d יומיים לפני%2$s</item>
-        <item quantity="many">%1$d ימים %2$s</item>
+        <item quantity="other">%1$d ימים לפני האירוע %2$s</item>
+        <item quantity="one">%1$d יום לפני האירוע %2$s</item>
+        <item quantity="two">%1$d ימים לפני האירוע %2$s</item>
+        <item quantity="many">%1$d ימים לפני האירוע %2$s</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d שעות לפני</item>
-        <item quantity="one">שעה %d לפני</item>
-        <item quantity="two">%d שעות לפני</item>
-        <item quantity="many">%d שעות לפני</item>
+        <item quantity="other">%d שעות לפני האירוע</item>
+        <item quantity="one">%d שעה לפני האירוע</item>
+        <item quantity="two">%d שעות לפני האירוע</item>
+        <item quantity="many">%d שעות לפני האירוע</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d דקות לפני</item>
-        <item quantity="one">דקה %d לפני</item>
-        <item quantity="two">%d דקות לפני</item>
-        <item quantity="many">%d דקות לפני</item>
+        <item quantity="other">%d דקות לפני האירוע</item>
+        <item quantity="one">%d דקה לפני האירוע</item>
+        <item quantity="two">%d דקות לפני האירוע</item>
+        <item quantity="many">%d דקות לפני האירוע</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d שבועות לפני</item>
-        <item quantity="one">שבוע %d לפני</item>
-        <item quantity="two">%d שבועות לפני</item>
-        <item quantity="many">%d שבועות לפני</item>
+        <item quantity="other">%d שבועות לפני האירוע</item>
+        <item quantity="one">%d שבוע לפני האירוע</item>
+        <item quantity="two">%d שבועות לפני האירוע</item>
+        <item quantity="many">%d שבועות לפני האירוע</item>
     </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s ימים</item>
@@ -116,7 +116,7 @@
     </plurals>
     <plurals name="event_reminders_to_max">
         <item quantity="other">ניתן להגדיר עד %d תזכורות</item>
-        <item quantity="one">ניתן להגדיר תזכורת אחת (%d) בלבד</item>
+        <item quantity="one">ניתן להגדיר עד %d תזכורות</item>
         <item quantity="two">ניתן להגדיר עד %d תזכורות</item>
         <item quantity="many">ניתן להגדיר עד %d תזכורות</item>
     </plurals>
@@ -125,6 +125,30 @@
         <item quantity="one">1+</item>
         <item quantity="two">%d+</item>
         <item quantity="many">%d+</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" ימים"</item>
+        <item quantity="one">" יום"</item>
+        <item quantity="two">" ימים"</item>
+        <item quantity="many">" ימים"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">"  שעות"</item>
+        <item quantity="one">"שעה  "</item>
+        <item quantity="two">"  שעות"</item>
+        <item quantity="many">"  שעות"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">"  דקות"</item>
+        <item quantity="one">"דקה  "</item>
+        <item quantity="two">"  דקות"</item>
+        <item quantity="many">"  דקות"</item>
+    </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">התזכורת הבאה בעוד %1$d דקות</item>
+        <item quantity="one">התזכורת הבאה בעוד %1$d דקה</item>
+        <item quantity="two">התזכורת הבאה בעוד %1$d דקות</item>
+        <item quantity="many">התזכורת הבאה בעוד %1$d דקות</item>
     </plurals>
     <plurals name="repeat_custom_prompt">
         <item quantity="other">בכל%1$sב%2$s</item>
@@ -155,12 +179,6 @@
         <item quantity="one">שנה %1$d</item>
         <item quantity="two">%1$d שנים</item>
         <item quantity="many">%1$d שנים</item>
-    </plurals>
-    <plurals name="travel_eta_advice">
-        <item quantity="other">%2$s דקות נסיעה ל- %1$s.</item>
-        <item quantity="one">%2$s דקת נסיעה ל- %1$s.</item>
-        <item quantity="two">%2$s דקות נסיעה ל- %1$s.</item>
-        <item quantity="many">%2$s דקות נסיעה ל- %1$s.</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">שבוע %d</item>

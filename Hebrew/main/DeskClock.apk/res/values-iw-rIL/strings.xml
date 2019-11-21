@@ -28,7 +28,6 @@
     <string name="app_label">שעון</string>
     <string name="auto_silence_never">לעולם לא</string>
     <string name="auto_silence_title">השתקה אוטומטית</string>
-    <string name="battery_charging_level">%d%%</string>
     <string name="birthday_alarm">תזכורת יום הולדת</string>
     <string name="birthday_alarm_summary">נגן את השיר \"Happy Birthday\" במקום הצליל הקבוע ביום הולדתך</string>
     <string name="cancel">חזרה</string>
@@ -46,7 +45,6 @@
     <string name="content_desc_keep_screen">לחצן \"השאר את המסך דלוק\"</string>
     <string name="control_set_alarm">הגדרת שעון מעורר</string>
     <string name="control_set_alarm_with_existing">השעון המעורר מוגדר: %s</string>
-    <string name="day_concat">", "</string>
     <string name="default_alarm_alert">צליל ברירת מחדל לשעונים מעוררים</string>
     <string name="default_alarm_title">צלצול ברירת מחדל</string>
     <string name="default_label">שעון מעורר</string>
@@ -123,13 +121,11 @@
     <string name="life_post_wake_up_item_acumu_day_title">ספירת ימים</string>
     <string name="life_post_wake_up_item_percentage_title">Mi Fans מאחוריך</string>
     <string name="life_post_wake_up_item_time_title">שעת השכמה</string>
-    <string name="life_post_wake_up_percentage_sign">%</string>
     <string name="life_post_wake_up_percentage_title">Mi Fans מאחוריך</string>
     <string name="life_post_wake_up_time_title">שעת השכמה</string>
     <string name="life_post_weather_invalid">הקש כדי לקבל מידע אודות מזג האוויר</string>
     <string name="life_post_weather_no_network">התחבר לרשת על מנת לקבל עדכונים אודות מזג האוויר</string>
-    <string name="life_post_weather_temperature_centigrade">°</string>
-    <string name="listen_news_privacy">&lt;Data>&lt;על מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
+    <string name="listen_news_privacy">&lt;Data>&lt;על מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
     <string name="loading_ringtone">טוען צלצול…</string>
     <string name="menu_add_worldclock">הוסף אזור זמן</string>
     <string name="menu_desk_clock">שעון</string>
@@ -156,32 +152,33 @@
     <string name="module_download_success">קבצי אודיו ירדו בהצלחה</string>
     <string name="module_download_title">נדרשים קובצי אודיו נוספים</string>
     <string name="module_downloading">מוריד שמע…</string>
+    <string name="module_unzipping">מחלץ אודיו…</string>
     <string name="module_update_success">עדכן שמע עבור התראות חכמות MIUI הורד בהצלחה. באפשרותך להגדיר שעונים מעוררים חכמים של MIUI בהגדרות השעון.</string>
     <string name="module_update_success_control">הבנתי</string>
     <string name="module_weather_ringtone_download_data">שעון מזג האוויר יבחר רינגטונים שונים בהתאם למצב מזג האוויר. השעון צריך להוריד ≈30מ\"ב של שמע על מנת לגרום לזה לעבוד. האם להוריד כעת?</string>
-    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>&lt;שעון מזג אוויר בוחר רינגטונים שונים בהתאם למזג האוויר הנוכחי. השעון צריך להתחבר לאינטרנט על מנת להוריד ≈30מב של קבצי שמע. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
+    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>&lt;שעון מזג אוויר בוחר רינגטונים שונים בהתאם למזג האוויר הנוכחי. השעון צריך להתחבר לאינטרנט על מנת להוריד ≈30מב של קבצי שמע. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
     <string name="module_weather_ringtone_download_wifi">שעון מזג האוויר יבחר רינגטונים שונים בהתאם למצב מזג האוויר. השעון צריך להוריד30 ≈מ\"ב של שמע על מנת לגרום לזה לעבוד. האם להוריד כעת?</string>
-    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>&lt;שעון מזג אוויר בוחר רינגטונים שונים בהתאם למזג האוויר הנוכחי. השעון צריך להתחבר לאינטרנט על מנת להוריד קבצי שמע. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
+    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>&lt;שעון מזג אוויר בוחר רינגטונים שונים בהתאם למזג האוויר הנוכחי. השעון צריך להתחבר לאינטרנט על מנת להוריד קבצי שמע. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
     <string name="module_weather_ringtone_introduce">שעון מזג אוויר בוחר רינגטונים שונים בהתאם למזג האוויר הנוכחי. זה גם מאפשר לך להאזין לפרטי מזג האוויר הנוכחי בבוקר.</string>
     <string name="module_weather_ringtone_introduce_global">שעון מזג אוויר בוחר רינגטונים שונים בהתאם למזג האוויר הנוכחי.</string>
     <string name="module_weather_ringtone_update_data">מזג האוויר מגיע כעת עם מוזיקת רקע והודעות קוליות טובות יותר. שעון צריך להוריד ≈ 30MB של שמע כדי לגרום לזה לעבוד. האם להוריד כעת?</string>
     <string name="module_weather_ringtone_update_success">שעון מעורר מזג האוויר מגיע יחד עם מוסיקת רקע והתראה קולית. תוכל ליצור שעון מעורר חדש זו על מנת לנסות תכונה זו.</string>
-    <string name="module_week_ringtone_download_data">שעון שבועי משמיע צלילי טבע בכל אחד מימות השבוע. השעון צריך להוריד ≈30מ\"ב של שמע על מנת לגרום לזה לעבוד. האם להוריד כעת?</string>
-    <string name="module_week_ringtone_download_data_privacy">&lt;Data>&lt;שעון מעורר שבועי מנגן צלילי טבע בכל יום מימות השבוע. השעון צריך להתחבר לאינטרנט על מנת להוריד קבצי שמע. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
-    <string name="module_week_ringtone_download_wifi">שעון שבועי משמיע צלילי טבע בכל אחד מימות השבוע. השעון צריך להוריד שמע על מנת לגרום לזה לעבוד. האם להוריד כעת?</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>&lt;שעון מעורר שבועי מנגן צלילי טבע בכל יום מימות השבוע. השעון צריך להתחבר לאינטרנט על מנת להוריד קבצי שמע. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
-    <string name="module_week_ringtone_introduce">שעון מעורר שבועי משמיע צלילים שונים של טבע בכל יום של השבוע.</string>
-    <string name="module_week_ringtone_update_data">שעון שבועי משמיע צלילי טבע בכל אחד מימות השבוע. השעון צריך להוריד ≈30מ\"ב של שמע על מנת לגרום לזה לעבוד. האם להוריד כעת?</string>
-    <string name="module_week_ringtone_update_success">שעון מעורר שבועי מגיע יחד עם מוסיקת רקע והתראה קולית. תוכל ליצור שעון מעורר חדש זו על מנת לנסות תכונה זו.</string>
+    <string name="module_week_ringtone_download_data">\"השעון המעורר של הטבע\" משמיע צלילים שונים, בהתאם לתאריך. השעון המעורר צריך להוריד קובצי אודיו בנפח כ-30 מ\"ב כדי לתפקד. להוריד אותם עכשיו?</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data>השעון המעורר של הטבע משמיע צלילים שונים, בהתאם לתאריך. השעון צריך להתחבר לאינטרנט ולהוריד קובצי אודיו בנפח כ-30 מב. לפני שימוש בשעון עליך לקרוא את &lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ואת&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו. מסכים?&lt;/Data></string>
+    <string name="module_week_ringtone_download_wifi">\"השעון המעורר של הטבע\" משמיע צלילים שונים, בהתאם לתאריך. השעון צריך להוריד קובצי אודיו כדי לתפקד. להוריד עכשיו?</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>השעון המעורר של הטבע משמיע צלילים שונים, בהתאם לתאריך. השעון צריך להתחבר לאינטרנט כדי להוריד קובצי אודיו. לפני שימוש בשעון עליך לקרוא את &lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ואת&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו. מסכים?&lt;/Data></string>
+    <string name="module_week_ringtone_introduce">\"השעון המעורר של הטבע\" משמיע צלילים שונים, בהתאם לתאריך.</string>
+    <string name="module_week_ringtone_update_data">\"השעון המעורר של הטבע\" משמיע צלילים שונים, בהתאם לתאריך. השעון המעורר צריך להוריד קובצי אודיו בנפח כ-30 מ\"ב כדי לתפקד. להוריד אותם עכשיו?</string>
+    <string name="module_week_ringtone_update_success">\"השעון המעורר של הטבע\" משמיע צלילים שונים, בהתאם לתאריך. ניתן ליצור התראה חדשה כדי לנסות את המאפיין החדש.</string>
     <string name="module_white_noise_download_data">שעון צריך להוריד קבצי שמע עבור שעוני רקע. נדרשים 30מגה של נתונים ניידים עבור הורדה זו. האם להוריד כעת?</string>
-    <string name="module_white_noise_download_data_privacy">&lt;Data>&lt;על מנת להוריד קבצי שמע עבור שעון ספירה לאחור מופחת רעש (≈30מב) ועל מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו &lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>. אתה משתמש בנתונים סלולריים כעת. האם אתה מסכים?&lt;/Data></string>
+    <string name="module_white_noise_download_data_privacy">&lt;Data>&lt;על מנת להוריד קבצי שמע עבור שעון ספירה לאחור מופחת רעש (≈30מב) ועל מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו &lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>. אתה משתמש בנתונים סלולריים כעת. האם אתה מסכים?&lt;/Data></string>
     <string name="module_white_noise_download_wifi">השעון צריך להוריד קבצי שמע עבור שעוני רעש רקע. האם להוריד כעת?</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data>&lt;על מנת להוריד קבצי שמע עבור שעון ספירה לאחור מופחת רעש ועל מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data>&lt;על מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
     <string name="monday_to_friday">"ימי ב' עד ו'"</string>
     <string name="more_setting">הגדרות נוספות</string>
     <string name="more_settings">הגדרות</string>
-    <string name="network_privacy">&lt;Data>על מנת לקבל ולסנכרן תוכן רלוונטי בעבור חגים וחופשות מקומיים, התאמת שעונים מעוררים ובכדי לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
-    <string name="network_privacy_global">&lt;Data>&lt;על מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href= %1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
+    <string name="network_privacy">&lt;Data>על מנת לקבל ולסנכרן תוכן רלוונטי בעבור חגים וחופשות מקומיים, התאמת שעונים מעוררים ובכדי לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב לקרוא ולהסכים &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
+    <string name="network_privacy_global">&lt;Data>&lt;על מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
     <string name="never">פעם אחת</string>
     <string name="no_alarm_setting">אין שעונים מעוררים כאן</string>
     <string name="no_worldclock">אין שעונים מעוררים כאן</string>
@@ -189,17 +186,11 @@
     <string name="open_keep_screen">המסך יישאר דלוק</string>
     <string name="other_category_title">אחר</string>
     <string name="pause">עצור</string>
-    <string name="percentage_sign">%</string>
     <string name="personal_recommend">המלצות מותאמות אישית עבור תוכן</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
     <string name="privacy_policy_title">מדיניות הפרטיות</string>
     <string name="remind_ringtone">צלצול</string>
     <string name="repeat_count">פעמים</string>
-    <string name="repeat_count_value_five">5</string>
-    <string name="repeat_count_value_one">1</string>
-    <string name="repeat_count_value_ten">10</string>
-    <string name="repeat_count_value_three">3</string>
-    <string name="repeat_count_value_two">2</string>
     <string name="reset">אפס</string>
     <string name="revert">חזרה</string>
     <string name="ringtone_all">כל הרינגטונים</string>
@@ -208,7 +199,7 @@
     <string name="ringtone_firefly">גחליליות</string>
     <string name="ringtone_other">צלצולים נוספים</string>
     <string name="ringtone_weather">שעון מעורר מזג אוויר</string>
-    <string name="ringtone_week">שעון מעורר שבועי</string>
+    <string name="ringtone_week">השעון המעורר של הטבע</string>
     <string name="search_alarm_clock_keywords">התראה;שעון מעורר;</string>
     <string name="search_stopwatch_keywords">שעון עצר</string>
     <string name="search_timer_keywords">טיימר (מונה לאחור)</string>
@@ -238,31 +229,18 @@
     <string name="snooze_duration_text">%1$s| %2$s</string>
     <string name="snooze_duration_title">נודניק</string>
     <string name="snooze_duration_value">מרווח הזמן (דקות)</string>
-    <string name="snooze_duration_value_fifteen">15</string>
-    <string name="snooze_duration_value_five">5</string>
-    <string name="snooze_duration_value_one">1</string>
-    <string name="snooze_duration_value_ten">10</string>
-    <string name="snooze_duration_value_thirty">30</string>
-    <string name="snooze_duration_value_twenty">20</string>
-    <string name="snooze_duration_value_twenty_five">25</string>
     <string name="star_wy_alarm_speech">הכר את רוי וואנג</string>
     <string name="start">התחל</string>
     <string name="start_up">התחל</string>
-    <string name="status_bar_clock_date_time_format">H:mm:ss</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
-    <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
     <string name="stopwatch_lap_empty_text">אין הקפות</string>
     <string name="stopwatch_title">שעון עצר</string>
     <string name="system_permission_purpose">יצירת התראות לימי חול והגדרת רינגטונים אישיים</string>
     <string name="system_time_setting">הגדרות</string>
     <string name="system_time_settings_category_title">הגדרות שעה</string>
-    <string name="temperature_unit">℃</string>
     <string name="time">זמן</string>
-    <string name="time_picker_colon">:</string>
     <string name="time_picker_label_hour">"שע'"</string>
     <string name="time_picker_label_minute">"ד'"</string>
     <string name="time_picker_label_second">"שנ'"</string>
-    <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">הקש על המסך להפסקת הצלצלול</string>
     <string name="timer_alarm_dot_matrix_label">טיימר</string>
     <string name="timer_alert_alert_silenced">שעון טיימר יושתק לאחר %1$s.</string>
@@ -285,8 +263,6 @@
     <string name="timer_continue_timer">הפעל את שעון העצר מחדש</string>
     <string name="timer_created">הטיימר נוסף בהצלחה</string>
     <string name="timer_end_time">הטיימר (שעון עצר) יעצור ב-%s</string>
-    <string name="timer_end_time_format">HH:mm MMM dd</string>
-    <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">אישור</string>
     <string name="timer_is_paused">הטיימר הושהה</string>
     <string name="timer_item_duration_display">%1$d דקות ו-%2$d שניות</string>

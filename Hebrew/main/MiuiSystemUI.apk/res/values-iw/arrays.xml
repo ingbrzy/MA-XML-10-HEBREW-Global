@@ -113,6 +113,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>מושבת</item>
+        <item>המסננים המופעלים</item>
+        <item>מופעל</item>
+    </string-array>
     <string-array name="clock_options">
         <item>הצג שעות, דקות ושניות</item>
         <item>הצג שעות ודקות (ברירת מחדל)</item>
@@ -145,7 +150,7 @@
         <item>‏תמיד השתמש בבדיקת HDCP</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>אל תבדוק לעולם</item>
+        <item>בלי לבדוק לעולם</item>
         <item>‏בדוק אם יש תוכן DRM בלבד</item>
         <item>בדוק תמיד</item>
     </string-array>

@@ -5,7 +5,7 @@
     <string name="calendar_sound">תזכורות לאירועים</string>
     <string name="calendar_tip">צליל התראה עבור אירועים עובדת עבור תזכורות עבור לוח שנה, פתקים ומשימות</string>
     <string name="follow_sim1">החל הגדרות SIM 1</string>
-    <string name="intelligent_recognition_item_summary">"זהה שיחות נכנסות שנעשו ע\"י ספקי שירות אחרים (לדוג'. שירותי משלוחים) השתמש ברינגטון נפרד עבורם"</string>
+    <string name="intelligent_recognition_item_summary">השתמש ברינגטון ייעודי עבור שיחות משירותי משלוח ומוניות. המאפיין הזה יעבור כאשר %s מוגדר כרינגטון ברירת המחדל שלך.</string>
     <string name="intelligent_recognition_item_title">זהה שירותים</string>
     <string name="mms">הודעות</string>
     <string name="more_ringtone">כל הרינגטונים</string>

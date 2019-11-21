@@ -101,7 +101,7 @@
     <string name="alert_selection_description">MIUI ינתח תמונות דומות ויסמן את הצילום הטוב ביותר בהתאם להעדפותיך.</string>
     <string name="alert_selection_title">בחר את הצילום הטוב ביותר</string>
     <string name="all_faces">תמונות עם אדם זה</string>
-    <string name="all_items_synced">כל האלבומים גובו ב-Xiaomi Cloud</string>
+    <string name="all_items_synced">כל האלבומים סונכרנו עם הענן</string>
     <string name="all_video_album_display_name">כל הסרטונים</string>
     <string name="already_create_baby_album">אלבום תינקות קיים כבר ב Xiaomi Cloud.</string>
     <string name="and">ו-</string>
@@ -116,20 +116,20 @@
     <string name="assistant_page_label">זכרונות</string>
     <string name="assistant_page_server_error">בדוק את הגדרות הרשת שלך</string>
     <string name="associate_face_album">בחר אלבום</string>
-    <string name="auto_backup_introduce">גיבוי אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
+    <string name="auto_backup_introduce">סנכרון אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
     <string name="auto_download_media_title">הורד תמונות Xiaomi Cloud באופן אוטומטי</string>
     <string name="auto_update_face">הוסף תמונות אוטומטית</string>
     <string name="auto_update_face_summary">התאם והוסף תמונות באופן אוטומטי לאלבום התינוק</string>
     <string name="auto_update_off">כבוי</string>
     <string name="auto_update_on">מופעל</string>
-    <string name="auto_upload_before_share_message">גבה אלבום זה בXiaomi Cloud לפני שתשתף</string>
+    <string name="auto_upload_before_share_message">סנכרן אלבום זה עם ענן Xiaomi לפני השיתוף</string>
     <string name="auto_upload_before_share_title">הערה</string>
     <string name="auto_upload_disable_tip">סנכרון עם ענן כבוי כעת</string>
     <string name="auto_upload_disable_toast_long_press_menu">סנכרון עם Cloud כבוי כעת</string>
     <string name="auto_upload_enable_toast_long_press_menu">סנכרון עם cloud פועל כעת</string>
     <string name="baby_album">אלבום תינוקות</string>
     <string name="baby_album_change_background">שנה תמונת רקע</string>
-    <string name="baby_album_needs_auto_backup_tip">לא ניתן לבטל גבוי אוטומטי לאלבום תינוקות</string>
+    <string name="baby_album_needs_auto_backup_tip">לא ניתן לבטל סנכרון אוטומטי לאלבום תינוקות</string>
     <string name="baby_album_new_photo_remind">ישנם תמונות חדשות באלבום התינוקות שלך.</string>
     <string name="baby_album_setting_title">פרטי התינוק</string>
     <string name="baby_album_settings">"הגדרות של 'אלבום תינוקות'"</string>
@@ -151,8 +151,8 @@
     <string name="baby_sexy">מין</string>
     <string name="baby_suffix">תינוק</string>
     <string name="back">חזרה</string>
-    <string name="backup_automatically_summary">גבה תמונות וסרטונים מכל ההתקנים ל-Xiaomi Cloud. תוכל לדפדף, למיין, לערוך ולשתף בנוחות תמונות וסרטונים על גבי כל המכשירים שלך.</string>
-    <string name="backup_automatically_title">גבה באופן אוטומטי</string>
+    <string name="backup_automatically_summary">סנכרן תמונות וסרטונים מכל המכשירים לענן Xiaomi. כך ניתן לעיין, למיין, לערוך ולשתף תמונות וסרטונים מכל המכשירים שבידכם בנוחות.</string>
+    <string name="backup_automatically_title">סנכרון אוטומטי</string>
     <string name="backup_battery_low_desc">עדיין יש באפשרותך להמשיך בגיבוי הפריטים</string>
     <string name="backup_battery_low_title">הגיבוי הופסק עקב סוללה חלשה</string>
     <string name="backup_close">סגור את הגיבוי</string>
@@ -163,7 +163,7 @@
     <string name="backup_cta_not_allow_desc">הסכם לגיבוי אוטומטי</string>
     <string name="backup_cta_not_allow_title">אין גישה לרשת</string>
     <string name="backup_detail_page_empty">אין סרטונים או תמונות הממתינים לגיבוי</string>
-    <string name="backup_detail_page_title">גיבוי Xiaomi Cloud</string>
+    <string name="backup_detail_page_title">פריטים מסונכרנים</string>
     <string name="backup_device_space_low_btn_text">הסר</string>
     <string name="backup_device_space_low_desc">פנה שטח אחסון על מנת להמשיך לגבות פריטים</string>
     <string name="backup_device_space_low_title">אין מספיק שטח אחסון</string>
@@ -179,15 +179,16 @@
     <string name="backup_no_wifi_btn_text">השתמש בנתונים</string>
     <string name="backup_no_wifi_desc">באפשרותך לגבות פריטים גם באמצעות שימוש בנתונים סלולריים</string>
     <string name="backup_no_wifi_title">הסנכרון יתחדש לאחר שתתחבר ל-Wi-Fi</string>
-    <string name="backup_only_in_wifi">השתמש בחיבור רשת אלחוטית בלבד לגבוי תמונות וסרטונים</string>
-    <string name="backup_only_in_wifi_summary">לעולם אל תשתמש בחיבור נתונים סלולרי לגיבוי של תמונות או סרטונים</string>
-    <string name="backup_only_wifi_dialog_message">להשתמש בחיבור נתונים סלולרי לגיבוי של תמונות וסרטונים?</string>
+    <string name="backup_only_in_wifi">השתמש רק בווי פיי‑ כדי לסנכרן תמונות וסרטונים</string>
+    <string name="backup_only_in_wifi_summary">לעולם אל תשמש בחיבור אינטרנט של הטלפון הנייד לסנכרון של תמונות וסרטונים</string>
+    <string name="backup_only_wifi_dialog_message">האם להשתמש בחיבור אינטנט של הטלפון הנייד לסנכרון של תמונות וסרטונים?</string>
     <string name="backup_pause">הפסק גיבוי</string>
+    <string name="backup_pause_dialog_title">השהה סנכרון</string>
     <string name="backup_pause_title">הסנכרון הושהה</string>
     <string name="backup_pending">יגובה באופן אוטומטי</string>
     <string name="backup_stop">עצור גיבוי</string>
     <string name="backup_sync_dialog_confirm">הפעלה</string>
-    <string name="backup_sync_dialog_tips">הפעל את הסנכרון עם Cloud על מנת לשנות את ההגדרות עבור הגיבויים.</string>
+    <string name="backup_sync_dialog_tips">הפעל סינכרון עם הענן על מנת לשנות הגדרות.</string>
     <string name="backup_sync_dialog_title">הסנכרון כבוי</string>
     <string name="backup_sync_error_btn_text">נסה שוב</string>
     <string name="backup_sync_error_desc">לא ניתן להתחבר ל Xiaomi Cloud</string>
@@ -221,7 +222,7 @@
     <string name="by_others">אחר</string>
     <string name="by_sms">מסרון</string>
     <string name="byteShort">B</string>
-    <string name="camera_needs_auto_backup_tip">אלבום המצלמה חייב להיות מגובה</string>
+    <string name="camera_needs_auto_backup_tip">אלבום המצלמה חייב להיות מסונכרן</string>
     <string name="cancel">ביטול</string>
     <string name="cancel_baby_lock_wallpaper_confirm_msg">להחליף לטפט ברירת מחדל של מסך הנעילה?</string>
     <string name="cancel_download_btn_text">עצירה</string>
@@ -249,6 +250,9 @@
     <string name="chooser_fragment_mishare_title">שתף את</string>
     <string name="cleaner_empty_value_description">הכל נראה תקין</string>
     <string name="cleaner_photo_pick_delete_selected">מחיקת התמונות שנבחרו</string>
+    <string name="cleaner_raw_action">נקה</string>
+    <string name="cleaner_raw_description">פנה שטח אחסון על-ידי קובצי תמונה גדולים מסוג RAW</string>
+    <string name="cleaner_raw_title">נקה קובצי RAW</string>
     <string name="cleaner_scan_description">ייעול הפריטים מפנה שטח אחסון על גבי מכשירך</string>
     <string name="cleaner_scan_exit_dialog_message">יהיה עליך להתחיל מחדש בפעם הבאה. לעצור את הסריקה כעת?</string>
     <string name="cleaner_scan_exit_dialog_positive">עצירה</string>
@@ -279,13 +283,13 @@
     <string name="close">סגירה</string>
     <string name="close_dialog_desc">סגור את תיבת הדיאלוג</string>
     <string name="cloud_camera_display_name">תמונות המצלמה</string>
-    <string name="cloud_guide_auto_backup_title">בחר אלבומים לגיבוי</string>
+    <string name="cloud_guide_auto_backup_title">יש לבחור אלבומים לסנכרון</string>
     <string name="cloud_guide_login_title">גבה תמונות וסרטונים אוטומטית</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
-    <string name="cloud_privacy_with_ai_album">הצהרת פרטיות אודות גיבוי אוטומטי ועיבוד תמונה</string>
-    <string name="cloud_privacy_with_face">הצהרת פרטיות אודות גיבוי אוטומטי וזיהוי פנים</string>
+    <string name="cloud_privacy_with_ai_album">הצהרת פרטיות על סנכרון אוטומטי ועיבוד תמונה</string>
+    <string name="cloud_privacy_with_face">הצהרת פרטיות על סנכרון אוטומטי וזיהוי פנים</string>
     <string name="cloud_screenshots_display_name">צילומי מסך</string>
-    <string name="cloud_settings">"גיבויים של 'גלריה'"</string>
+    <string name="cloud_settings">סנכרן</string>
     <string name="cloud_storage_extend">הרחבת שטח הענן</string>
     <string name="cloud_storage_ok_append_desc">זמין %s</string>
     <string name="cloud_storage_ok_desc">אחסון Xiaomi Cloud %s</string>
@@ -554,6 +558,7 @@
     <string name="face_name_edit">עריכה</string>
     <string name="face_name_input">הזן שם</string>
     <string name="face_recommend">המלצות</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">לא ניתן היה להשלים את התהליך</string>
     <string name="fail_to_pick_email">כתובת דוא\"ל לא חוקית</string>
     <string name="fail_to_sync_album">לא ניתן היה לסנכרן את האלבום. בדוק את חיבור הנתונים שלך ונסה שוב.</string>
@@ -564,6 +569,7 @@
     <string name="feature_guidance_photo_effects">"אפקטים חדשים לתמונות
 זמינים כעת"</string>
     <string name="feature_guidance_video_editor_smart_effects">אפקטים חדשים זמינים כעת</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_cannot_print">לא ניתן להדפיס פריט זה.</string>
     <string name="file_cannot_screen_throw">לא ניתן לשדר פריט זה.</string>
     <string name="file_sending">מעביר קבצים…</string>
@@ -586,6 +592,7 @@
     <string name="filter_category_scene">נוף</string>
     <string name="filter_category_sky">שמיים</string>
     <string name="filter_film_blackwhite">שחור&amp;לבן</string>
+    <string name="filter_film_classic">קלאסי</string>
     <string name="filter_film_dew">טל</string>
     <string name="filter_film_fade">מעומעם</string>
     <string name="filter_film_film">סרט</string>
@@ -694,6 +701,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">הגדר</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ה'גלריה' זקוקה לגישה אל 
 %s
  על מנת שתוכל לעבוד באופן תקין, לחץ 'הגדר' על מנת לעבור אל 'הרשאות'."</string>
@@ -786,7 +794,10 @@
     <string name="main_discard_confirm_message">ישנם שינויים שלא נשמרו</string>
     <string name="main_discard_negative_btn">ביטול</string>
     <string name="main_discard_positive_btn">שמירה &amp; יציאה</string>
+    <string name="main_save_cancel">ביטול</string>
+    <string name="main_save_compress">דחוס ושמור</string>
     <string name="main_save_error_msg">לא ניתן לשמור את השינויים עקב שגיאה</string>
+    <string name="main_save_origin">שמור את הקובץ המקורי</string>
     <string name="mark_myself_default_name">אני</string>
     <string name="mark_myself_suggestion_load_more">זה לא אני</string>
     <string name="mark_myself_suggestion_title">"בחר תמונות המכילות את פרצופך
@@ -805,7 +816,7 @@
     <string name="merge_album_title">מזג עם אדם</string>
     <string name="messagelist_sender_self">אני</string>
     <string name="mi_drop">Mi Share</string>
-    <string name="micloud_introduce">גיבוי אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
+    <string name="micloud_introduce">סנכרון אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
     <string name="midnight">בוקר</string>
     <string name="monday">שני</string>
     <string name="monday_short">"ב'"</string>
@@ -996,6 +1007,7 @@
     <string name="people_mark_mode_title_no_mark_name">בחר אדם</string>
     <string name="people_page_label">אנשים</string>
     <string name="people_page_unname">ללא שם</string>
+    <string name="percent_sign">%</string>
     <string name="permission_contacts_desc">להקצאת אנשי קשר לאנשים או תמונות</string>
     <string name="permission_contacts_name">אנשי הקשר</string>
     <string name="permission_optional_category">הרשאות אופציונליות</string>
@@ -1205,8 +1217,13 @@
     <string name="screen_doodle_talkback_size">שרבוט רוחב הקו</string>
     <string name="screen_editor_btn_delete">מחק</string>
     <string name="screen_editor_btn_save">שמור</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">למחוק את צילום המסך הזה?</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">בוצע</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ביטול</string>
     <string name="screen_save_dialog_btn_delete">מחיקת צילום מסך</string>
     <string name="screen_save_dialog_btn_save">"שמור ב'גלריה'"</string>
@@ -1264,6 +1281,9 @@
     <string name="search_title_recommend">מומלץ</string>
     <string name="search_title_suggestion">הצעות</string>
     <string name="search_title_tag">אובייקטים</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">מחפש מקרן…</string>
     <string name="secret_album_card_description">המקום הבטוח ביותר עבור כל הסודות הקטנים שלך</string>
     <string name="secret_album_card_title">נסה אלבום מוסתר</string>
@@ -1312,7 +1332,7 @@
     <string name="setup_network_connection">הגדרות רשת</string>
     <string name="share">שיתוף</string>
     <string name="share_album">שיתוף אלבום</string>
-    <string name="share_album_needs_auto_upload_tip">לא ניתן לכבות את הגיבוי עבור האלבומים המשותפים</string>
+    <string name="share_album_needs_auto_upload_tip">לא ניתן לכבות את הסנכרון עם הענן לאלבומים המשותפים</string>
     <string name="share_album_qr_code">קוד QR של האלבום</string>
     <string name="share_by_email_start">שתף את %1$s ברקע</string>
     <string name="share_by_email_successfully">%1$s שותף</string>
@@ -1499,6 +1519,8 @@
     <string name="unpublish_failed">לא ניתן היה להסיר מפרסום</string>
     <string name="unpublish_succeeded">האלבום הוסר מפרסום</string>
     <string name="unpublishing">מבטל…</string>
+    <string name="unsupport_raw">%s לא עובד עם קובצי תמונה RAW</string>
+    <string name="unsupport_raw_and_video">%s לא עובד עם סרטונים וקובצי תמונה RAW</string>
     <string name="unsupport_video">%s אינו עובד עם סרטונים</string>
     <string name="user_agree">מסכים</string>
     <string name="user_agreement2">תנאי השירות</string>

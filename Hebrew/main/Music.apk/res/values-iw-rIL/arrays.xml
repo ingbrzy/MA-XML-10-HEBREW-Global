@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recommendation_desc_week">
+        <item>המלצות ליום ראשון</item>
+        <item>המלצות ליום שני</item>
+        <item>המלצות ליום שלישי</item>
+        <item>המלצות ליום רביעי</item>
+        <item>המלצות ליום חמישי</item>
+        <item>המלצות ליום שישי</item>
+        <item>המלצות ליום שבת</item>
+    </string-array>
+</resources>

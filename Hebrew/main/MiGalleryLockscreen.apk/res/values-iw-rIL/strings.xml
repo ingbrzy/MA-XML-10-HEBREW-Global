@@ -11,7 +11,6 @@
     <string name="isornot_your_mi_account">האם זה חשבון Mi שלך?</string>
     <string name="nick_name">שם</string>
     <string name="passport_activate_token_expired">האימות נכשל. אנא נסה שוב.</string>
-    <string name="passport_auth_title" />
     <string name="passport_bad_authentication">שם משתמש או סיסמה לא חוקיים</string>
     <string name="passport_captcha_title">זיהוי תווים</string>
     <string name="passport_close">סגירה</string>

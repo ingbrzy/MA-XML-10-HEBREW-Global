@@ -33,7 +33,6 @@
     <string name="ad_close">סגור</string>
     <string name="ad_data_exception">שגיאת נתוני פרסומת</string>
     <string name="ad_recommend">קבלת המלצות</string>
-    <string name="ad_setting">Additional settings</string>
     <string name="add_music">הוסף שירים</string>
     <string name="add_to_last_of_playlist">הוסף לסוף רשימת ההשמעה</string>
     <string name="add_to_playlist_successful">נוסף בהצלחה</string>
@@ -104,7 +103,6 @@
     <string name="choose_stream_quality">בחר איכות הזרמה</string>
     <string name="click_to_shuffle">לחץ לעירבוב</string>
     <string name="close_music_time">"זמן שנותר: "</string>
-    <string name="comment_format" formatted="false">%s: %s</string>
     <string name="confirm">אישור</string>
     <string name="confirm_exit">לשמור את השינויים?</string>
     <string name="connect_now">התחבר</string>
@@ -114,6 +112,7 @@
     <string name="current_album">עטיפת אלבום נוכחית</string>
     <string name="current_lyric">מילות שיר נוכחיות</string>
     <string name="current_version">גרסה נוכחית</string>
+    <string name="daily_recommendation">מיקס יומי</string>
     <string name="dark_mode">מצב כהה</string>
     <string name="data_usage_warning">שימוש בנתונים</string>
     <string name="data_usage_warning_summary">שימוש בחיבור הנתונים הסלולרי שלך להזרמת מוסיקה באיכות גבוהה עשוי להגדיל את החיובים בגין צריכת הנתונים שלך.</string>
@@ -157,6 +156,10 @@
     <string name="dialog_renew_free_end">הניסיון החינמי שלך נגמר. הצטרף Hungama Pro?</string>
     <string name="dialog_renew_positive_text">כן, אני רוצה להיות כמו PRO (מקצוען)</string>
     <string name="dialog_renew_success">תודה על האישור</string>
+    <string name="dialog_score_btn_good">דרג</string>
+    <string name="dialog_score_prompt_bad">תודה על המשוב! נעשה כמיטב יכולתנו כדי לשפר את היישום והשירותים שלנו.</string>
+    <string name="dialog_score_prompt_good">תודה על תמיכתך! תרצה לדרג את האפליקציה שלנו גם ב-Google Play?</string>
+    <string name="dialog_score_title">דרג את היישום שלנו</string>
     <string name="dialog_song_sort_type">מיון שירים</string>
     <string name="dialog_song_sort_type_name">לפי שם</string>
     <string name="dialog_song_sort_type_playing_times">לפי מספר ההשמעות</string>
@@ -174,6 +177,7 @@
     <string name="dialog_title_remove_tracks">הסרה</string>
     <string name="disallow_add_to_fm">לא ניתן להוסיף שירים לרדיו FM</string>
     <string name="do_not_remind_this_version">אל תזכיר לי עבור גרסה זו</string>
+    <string name="do_not_support_google_voice_search">החיפוש הקולי של Google אינו נתמך במכשירך.</string>
     <string name="download">הורדה</string>
     <string name="download_added_to_list">נוסף לרשימת ההורדות</string>
     <string name="download_apk_desktop_installing">מתקין</string>
@@ -293,11 +297,8 @@
     <string name="filter_by_folder">לפי תיקיה</string>
     <string name="filter_by_folder_summary">בחר תיקיות להצגה</string>
     <string name="filter_by_size">לפי גודל</string>
-    <string name="filter_by_size_max">%dMB</string>
-    <string name="filter_by_size_min">%dKB</string>
     <string name="filter_by_size_prefix">"הסתר קבצים הקטנים מ- "</string>
     <string name="filter_by_size_summary">הסתר קבצי שמע קטנים</string>
-    <string name="filter_size_unit">%dKB</string>
     <string name="floating_view_dialog_desc">המוסיקה תפסיק להתנגן אם תעזוב דף זה. האם לעזוב בכל מקרה?</string>
     <string name="floating_view_dialog_leave">יציאה</string>
     <string name="floating_view_dialog_stay">הישאר</string>
@@ -325,7 +326,9 @@
     <string name="home_tab_search">חיפוש</string>
     <string name="hot_icon_in_fast_indexer">חם</string>
     <string name="hungama_batch_download_alert_summary">רק מנויי PRO יכולים להוריד שירים מרובים. לקבל מינוי PRO עכשיו?</string>
+    <string name="hungama_batch_download_alert_summary_toast">קבל מינוי להורדת כל רשימת ההשמעה.</string>
     <string name="hungama_free_download_out_summary">לא ניתן להוריד יותר משלושה שירים בחינם. לקבל מינוי PRO כדי להוריד שירים ללא הגבלה?</string>
+    <string name="hungama_free_download_out_summary_toast">כבר הורדת %d שירים. קבל מינוי כדי להוריד יותר.</string>
     <string name="hungama_privacy_desc">מדיניות פרטיות Hungama (אופציונלי)</string>
     <string name="hungama_privacy_tips_content">על מנת לקבל גישה לתוכן אונליין, תהיה חייב להסכים ל <a href="/link/click"> מדיניות הפרטיות של Hungama</a>.</string>
     <string name="hungama_privacy_tips_title">מדיניות פרטיות של Hungama</string>
@@ -390,8 +393,6 @@
     <string name="metered_allow">נגן</string>
     <string name="metered_beyond_alert">אירעה חריגה מתקרת השימוש בנתונים</string>
     <string name="metered_disallow">לא כעת</string>
-    <string name="metered_play_and_download_summary">"Don't show data usage warnings while streaming and downloading songs using mobile data."</string>
-    <string name="metered_play_and_download_title">Stream and download songs using mobile data</string>
     <string name="metered_play_toast">נעשה שימוש בנתונים סלולריים לנגינת שירים</string>
     <string name="metered_play_toast_with_beyond_data">נעשה שימוש בנתונים סלולריים לנגינת שירים. חרגת מהמגבלה ב- %s</string>
     <string name="metered_play_toast_with_data">נעשה שימוש בנתונים סלולריים לנגינת שירים, %s נותרו</string>
@@ -420,6 +421,7 @@
     <string name="more_settings">הגדרות מתקדמות</string>
     <string name="more_settings_summary">טיימר שינה, סינון קבצים ועוד</string>
     <string name="more_share">שיתוף</string>
+    <string name="more_splendid_contents">עוד</string>
     <string name="mulit_choice_management">נהל מספר פריטים</string>
     <string name="music_browser_label">מוסיקה</string>
     <string name="music_filter">סנן קבצי שמע</string>
@@ -544,7 +546,6 @@
     <string name="playlist_type_album">אלבומים</string>
     <string name="playlist_type_artist">אמן</string>
     <string name="playlist_type_billboard">מצעדים</string>
-    <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_my">רשימות ההשמעה שלי</string>
     <string name="playlist_type_recommend">רשימות השמעה נבחרות</string>
     <string name="please_download_first">עליך להוריד שיר זה לפני שתוכל להשתמש בו כצלצול</string>
@@ -555,6 +556,7 @@
     <string name="priority_storage_summary">הורד באופן אוטומטי אל כרטיס הזכרון החיצוני במידה וזמין</string>
     <string name="privacy_desc">מדיניות פרטיות</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=iw_IL</string>
     <string name="pro_member">מנוי PRO</string>
     <string name="project_device">טלפון Mi</string>
     <string name="prompt_grant_write_settings_permission">אפשר שינוי של הגדרות המערכת</string>
@@ -676,6 +678,7 @@
     <string name="tab_album_list">אלבומים</string>
     <string name="tab_artist">אמנים</string>
     <string name="tab_artist_list">אמנים</string>
+    <string name="tab_chart">מצעדים</string>
     <string name="tab_folder">תיקיות</string>
     <string name="tab_playlist">רשימות השמעה</string>
     <string name="tab_top_results">תוצאות מובילות</string>
@@ -738,6 +741,7 @@
     <string name="upgrade_music_message">העדכונים מוכנים. הפעל מחדש לעדכון.</string>
     <string name="upgrading_in_backstage">מעדכן ברקע</string>
     <string name="user_agreement">הסכם המשתמש</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=iw_IL</string>
     <string name="version_info">גרסה</string>
     <string name="video_play_cellular">מכשירך אינו מחובר ל-Wi-Fi. להשתמש בנתונים סלולריים?</string>
     <string name="video_replay_btn">נגן שוב</string>
@@ -751,4 +755,5 @@
  לחץ על %s על מנת להתחיל הורדה זו בפעם הבאה שתהיה מחובר לרשת אלחוטית.\""</string>
     <string name="wifi_required_title">עליך להתחבר לרשת אלחוטית על מנת להוריד קובץ זה</string>
     <string name="you_can_switch_mode_in_settings">ניתן להחליף בין המצבים בהגדרות</string>
+    <string name="you_may_like">יתכן שתאהב גם</string>
 </resources>

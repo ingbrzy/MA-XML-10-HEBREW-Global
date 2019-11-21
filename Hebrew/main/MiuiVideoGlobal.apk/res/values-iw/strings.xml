@@ -43,6 +43,7 @@
     <string name="cast_forward">העבר</string>
     <string name="cast_forward_10">העבר עשר שניות קדימה</string>
     <string name="cast_forward_30">העבר 30 שניות קדימה</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">השתק</string>
     <string name="cast_notification_connected_message">מחובר אל %1$s</string>
     <string name="cast_notification_connecting_message">מתחבר אל %1$s</string>
@@ -168,4 +169,5 @@
     <string name="s6">האם לאפשר למודעה ליצור אירוע ביומן?</string>
     <string name="s7">מודעת בדיקה</string>
     <string name="search_menu_title">חיפוש</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="pc_manage_active_app_items">
-        <item>הרדם יישומים</item>
-        <item>חסוך בצריכת חשמל</item>
+    <string-array name="emode_app_groups">
+        <item>אפליקציות מערכת</item>
+        <item>אפליקציות אחרות</item>
+        <item>יישומים נבחרים</item>
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>מותאם אישית</item>
@@ -12,10 +13,13 @@
         <item>יישומים פעילים</item>
         <item>יישומים במצב שינה</item>
     </string-array>
-    <string-array name="emode_app_groups">
-        <item>אפליקציות מערכת</item>
-        <item>אפליקציות אחרות</item>
-        <item>יישומים נבחרים</item>
+    <string-array name="pc_manage_active_app_items">
+        <item>הרדם יישומים</item>
+        <item>חסוך בצריכת חשמל</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>ביצועים</item>
+        <item>מאוזן</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>ברירת מחדל עבור מצב בקרת טמפרטורה</item>
@@ -25,9 +29,5 @@
         <item>עדיפות לבקרת טמפרטורה</item>
         <item>עדיפות לביצועים</item>
         <item>לא נתמך עבור חיסכון קיצוני בסלולה</item>
-    </string-array>
-    <string-array name="power_mode_entries">
-        <item>ביצועים</item>
-        <item>מאוזן</item>
     </string-array>
 </resources>

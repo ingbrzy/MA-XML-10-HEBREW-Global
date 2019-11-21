@@ -24,7 +24,7 @@
     <string name="print_fail_network_error">לא ניתן היה להדפיס. בדוק את חיבור הרשת שלך ונסה שוב.</string>
     <string name="print_help_label">עזרה</string>
     <string name="print_help_tip">יש לוודא כי מכשיר הטלפון שברשותך והמדפסת מחוברים לאותה רשת ה-Wi-Fi או ששירות Wi-Fi ישיר פועל. %1$s.</string>
-    <string name="print_help_tip_reg">צפייה בעזרה</string>
+    <string name="print_help_tip_reg">צפייה ב\"עזרה\"</string>
     <string name="print_searching_printers">מחפש אחר מדפסות…</string>
     <string name="print_submited">מוכן להדפסה</string>
     <string name="print_title">מדפיס…</string>

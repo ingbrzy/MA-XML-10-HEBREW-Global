@@ -87,7 +87,7 @@
     <string name="call_barring_sum">הגדרות חסימת שיחות קוליות</string>
     <string name="call_category">מתקשר</string>
     <string name="call_description_recording">מקליט…</string>
-    <string name="call_forward_option">אפשרויות להפניית שיחות</string>
+    <string name="call_forward_option">הפנית שיחה</string>
     <string name="call_forwarding_number_hint">הפנה שיחות אל</string>
     <string name="call_forwarding_settings">הגדרות הפנית שיחה</string>
     <string name="call_forwarding_settings_with_label">הגדרות הפנית שיחה (%s)</string>
@@ -156,7 +156,7 @@
     <string name="cdma_system_select_dialogtitle">בחירת מערכת</string>
     <string name="cdma_system_select_summary">שנה את מצב נדידת ה-CDMA</string>
     <string name="cdma_system_select_title">בחירת מערכת</string>
-    <string name="cell_bc_sms_disable">פונקציית מסרונים באמצעות שידור תאי מופעלת</string>
+    <string name="cell_bc_sms_disable">שליחת SMS באמצעות תקשורת סלולרית מושבתת</string>
     <string name="cell_bc_sms_enable">פונקציית מסרונים באמצעות שידור תאי מופעלת</string>
     <string name="cell_broadcast_settings">שידורי חירום</string>
     <string name="cell_broadcast_sms">מסרונים באמצעות שידור תאי</string>
@@ -194,6 +194,8 @@
     <string name="change_pin_succeeded">PIN התא הקולי עודכן</string>
     <string name="change_pin_system_error">לא ניתן להגדיר קוד PIN</string>
     <string name="change_pin_title">שנה את קוד ה-PIN של התא הקולי</string>
+    <string name="china_mobile_palm_category">שירותי ספק</string>
+    <string name="china_mobile_palm_title">מרכז שירותי CMCC אונליין</string>
     <string name="clir_choices_hide_number">הסתר מספר</string>
     <string name="clir_choices_network_default">ברירת מחדל של הרשת</string>
     <string name="clir_choices_show_number">הצג מספר</string>
@@ -229,8 +231,8 @@
     <string name="crescendo_ringer_summary">עוצמת הצלצול תתגבר בהדרגה עד לרמה שהגדרת</string>
     <string name="crescendo_ringer_title">עוצמת צלצול מתגברת</string>
     <string name="ct_ut_not_support_close_4glte">UT אינו זמין, כבה את המצב של 4G LTE מואץ בהגדרות</string>
-    <string name="data_enable_summary">אפשר שימוש בנתונים</string>
-    <string name="data_enabled">גלישה סלולרית מופעלת</string>
+    <string name="data_enable_summary">אפשר למכשיר זה להשתמש בנתונים סלולריים</string>
+    <string name="data_enabled">נתונים סלולריים</string>
     <string name="data_plan">תוכניות נתונים סלולריים</string>
     <string name="data_usage_disable_mobile">להשבית תעבורת נתונים סלולרית?</string>
     <string name="data_usage_template">השתמשת בגלישה סלולרית בנפח %1$s בתקופה %2$s</string>
@@ -356,7 +358,6 @@
     <string name="enhanced_4g_lte_mode_on_failed">לא ניתן היה להפעיל את VoLTE.</string>
     <string name="enhanced_4g_lte_mode_summary">השתמש בשירותי LTE לשיפור הקול ואמצעי תקשורת אחרים (מומלץ)</string>
     <string name="enhanced_4g_lte_mode_title">מצב 4G LTE מואץ</string>
-    <string name="enhanced_4g_lte_mode_title_variant">מצב שיחות מתקדם</string>
     <string name="enter_callbarring_password">הזן את סיסמת חסימת השיחות (4 ספרות)</string>
     <string name="enter_input" formatted="false">הודעת USSD חייבת להכיל בין %d ל-%d תווים. נסה שוב.</string>
     <string name="enter_pin2_text">קוד PIN2</string>
@@ -375,7 +376,7 @@
     <string name="fdn_contact_deleted">מספר החיוג הקבוע נמחק.</string>
     <string name="fdn_contact_updated">מספר החיוג הקבוע עודכן.</string>
     <string name="fdn_disabled">פונקציית חיוג מספרים קבועים מושבתת</string>
-    <string name="fdn_enable_puk2_requested">הסיסמה אינה נכונה. PIN2 נחסם. כדי לנסות שוב שנה את PIN2.</string>
+    <string name="fdn_enable_puk2_requested">הסיסמה שגויה, PIN2 נחסם. שנה את PIN2 ונסה שוב.</string>
     <string name="fdn_enabled">פונקציית חיוג מספרים קבועים מופעלת</string>
     <string name="fdn_failed">"פעולת 'מספרי חיוג קבועים' נכשלה."</string>
     <string name="fdn_full">"'מספרי חיוג קבועים' לא עודכן משום שהרשימה מלאה."</string>
@@ -383,6 +384,7 @@
     <string name="fdn_list_with_label">"רשימת 'מספרי חיוג קבועים' (%s)"</string>
     <string name="fdn_summary">"הגבל שיחות יוצאות ל'מספרי חיוג קבועים' (FDN) או למספרים עם קידומות מסוימות"</string>
     <string name="fdn_with_label">מספרי חיוג קבועים (%s)</string>
+    <string name="fiveg_switch_title">רשת 5G</string>
     <string name="flash_when_ring_summary">השתמש במבזק על מנת להתריע אודות שיחות נכנסות</string>
     <string name="flash_when_ring_title">הבהב בעת צלצול</string>
     <string name="forbidden_network">(מוגבלת)</string>
@@ -453,6 +455,7 @@
     <string name="ivr_type_cu_3">China Unicom 2G</string>
     <string name="ivr_type_settings">הגדרות תוכנית הנתונים</string>
     <string name="ivr_type_settings_hint">הזן את קוד תכנית הנתונים שלך</string>
+    <string name="jump_to_mobile_network_setting">הגדרות הרשת הסלולרית</string>
     <string name="keywords_carrier_settings_euicc">ספק, esim, sim, euicc</string>
     <string name="labelCDMAMore">הגדרות שיחה ברשת CDMA</string>
     <string name="labelCF">הפנית שיחה</string>
@@ -483,13 +486,14 @@
     <string name="lafs_disable">"'לוחות זמנים של נמלי תעופה מקומיים' כבוי"</string>
     <string name="lafs_enable">"'לוחות זמנים של נמלי תעופה מקומיים' מופעל"</string>
     <string name="list_language_dtitle">שפות</string>
-    <string name="list_language_summary">בחר שפת החדשות</string>
+    <string name="list_language_summary">בחר את שפת החדשות</string>
     <string name="list_language_title">שפה</string>
     <string name="load_networks_progress">מחפש…</string>
     <string name="local_disable">חדשות מקומיות מושבתות</string>
     <string name="local_enable">חדשות מקומיות מופעלות</string>
     <string name="local_weather_disable">פונקציית מזג אוויר מקומי מושבתת</string>
     <string name="local_weather_enable">פונקציית מזג אוויר מקומי מופעלת</string>
+    <string name="location">שטח</string>
     <string name="lodgings_disable">פונקציית בתי המלון מושבתת</string>
     <string name="lodgings_enable">פונקציית בתי המלון מופעלת</string>
     <string name="maintenance_disable">מצב תחזוקה מושבת</string>
@@ -591,6 +595,7 @@
     <string name="network_info_message">הודעת רשת</string>
     <string name="network_lte">LTE (מומלץ)</string>
     <string name="network_message">הודעת רשת</string>
+    <string name="network_mode_updating_title">סוג הרשת</string>
     <string name="network_operator_category">רשת</string>
     <string name="network_query_error">שגיאה במהלך חיפוש רשתות.</string>
     <string name="network_select_title">רשת</string>
@@ -619,7 +624,7 @@
     <string name="new_pin_label">קוד PIN חדש</string>
     <string name="no_change">לא נעשו שינויים.</string>
     <string name="no_checked_network">לא תוכל להתחבר לרשת הסלולרית ולבצע שיחות. לבחור רשת אחרת?</string>
-    <string name="no_internet_available">בכדי לבצע שיחת SIP, ראשית, בדוק את חיבור האינטרנט שלך.</string>
+    <string name="no_internet_available">על מנת לבצע שיחת SIP, ראשית, בדוק את חיבור האינטרנט שלך.</string>
     <string name="no_vm_number">מספר תא קולי חסר</string>
     <string name="no_vm_number_msg">לא קיים מספר תא קולי בכרטיס ה-SIM.</string>
     <string name="no_voip">חיוג SIP אינו נתמך</string>
@@ -655,6 +660,7 @@
     <string name="open_miui">פתיחה</string>
     <string name="opened_dual_4g_confirm_prompt">נראה שיש לך כרטיס סים שעובד רק בטכנולוגיית 4G. מצב 4G כפול הופעל באופן אוטומטי.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">כרטיס הסים %1$s תומך רק בטכנולוגיית 4G. מצב 4G כפול הופעל כדי לוודא שכרטיס הסים שלך יעבוד כנדרש.</string>
+    <string name="operator">ספק</string>
     <string name="optional_summary">&lt;נתון לבחירה></string>
     <string name="ota_activate">הפעל</string>
     <string name="ota_call_end">הקודם</string>
@@ -749,7 +755,7 @@
     <string name="phone_in_ecm_notification_title">מצב שיחת חירום חוזרת</string>
     <string name="pin2_attempts">"
 %d נסיונות נותרו."</string>
-    <string name="pin2_changed">קוד PIN2 עודכן</string>
+    <string name="pin2_changed">קוד PIN2 שונה בהצלחה.</string>
     <string name="pin2_error_exception">שגיאת רשת או בכרטיס ה-SIM</string>
     <string name="pin2_invalid">FDN לא עודכן כי הזנת קוד PIN שגוי.</string>
     <string name="pin2_invalid_or_name_is_too_long">הזנת קוד PIN שגוי או שהשם שהזנת ארוך מדי.</string>
@@ -805,14 +811,21 @@
     <string name="preferred_network_type_3g_only_warning">על כרטיס ה-SIM שלך לתמוך ב-3G על מנת להתחבר לרשת.</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">העדף 3G</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_cdma">העדף (3G (CDMA</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM אוטמטי</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">העדף LTE</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">העדף (4G (CDMA</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_custom">העדף 4G</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM אוטמטי</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred">העדף 5G</string>
     <string name="preferred_network_type_pref_entries_auto">אוטומטית</string>
     <string name="preferred_network_type_pref_entries_global">גלובלי</string>
     <string name="preferred_network_type_pref_entries_only_2g">2G (חסכון בסוללה)</string>
+    <string name="preferred_network_type_pref_entries_only_2g_lm_cr">GSM בלבד</string>
     <string name="preferred_network_type_pref_entries_only_3g">3G בלבד</string>
+    <string name="preferred_network_type_pref_entries_only_3g_lm_cr">WCDMA בלבד</string>
     <string name="preferred_network_type_title">סוג רשת מועדף</string>
     <string name="preferred_phone_account">חשבון חיוג מועדף</string>
+    <string name="preferred_wificall_roaming_title">העדפות נדידה</string>
     <string name="preferred_wificall_title">העדפות רשת</string>
     <string name="privacy_policy_title">מדיניות הפרטיות</string>
     <string name="private_num">מספר חסוי</string>
@@ -841,16 +854,16 @@
     <string name="register_automatically">רישום אוטומטי…</string>
     <string name="register_on_network">מבצע רישום ב- %s…</string>
     <string name="registration_done">רשום ברשת.</string>
-    <string name="registration_status_checking_status">בדוק סטטוס...</string>
-    <string name="registration_status_done">מקבל שיחות.</string>
-    <string name="registration_status_failed_try_later">רישום החשבון נכשל:(%s); נסה שוב מאוחר יותר</string>
-    <string name="registration_status_invalid_credentials">רישום החשבון נכשל: שם או סיסמה שגויים.</string>
-    <string name="registration_status_no_data">רישום החשבון הופסק מכיוון שאין חיבור אינטרנט.</string>
-    <string name="registration_status_no_wifi_data">רישום החשבון הופסק מכיוון שאין חיבור Wi-Fi.</string>
-    <string name="registration_status_not_receiving">לא מקבל שיחות.</string>
-    <string name="registration_status_not_running">רישום החשבון נכשל.</string>
+    <string name="registration_status_checking_status">בודק סטטוס…</string>
+    <string name="registration_status_done">ניתן לקבל שיחות.</string>
+    <string name="registration_status_failed_try_later">לא ניתן לרשום חשבון: %s. נסה מאוחר יותר.</string>
+    <string name="registration_status_invalid_credentials">לא ניתן לרשום חשבון: שם משתמש או סיסמה שגויים.</string>
+    <string name="registration_status_no_data">רישום החשבון נעצר, עקב הפסקת החיבור לאינטרנט.</string>
+    <string name="registration_status_no_wifi_data">רישום החשבון נעצר, עקב הפסקת החיבור הרשת האלחוטית.</string>
+    <string name="registration_status_not_receiving">לא ניתן לקבל שיחות.</string>
+    <string name="registration_status_not_running">לא ניתן ליצור חשבון.</string>
     <string name="registration_status_registering">מבצע רישום…</string>
-    <string name="registration_status_server_unreachable">רישום החשבון נכשל: אנא בדוק את שם השרת.</string>
+    <string name="registration_status_server_unreachable">לא ניתן לרשום חשבון: בדוק את שם השרת.</string>
     <string name="registration_status_still_trying">עדיין מנסה…</string>
     <string name="reject_via_sms">תגובות מהירות</string>
     <string name="reject_via_sms_summary">הצג לחצנים עבור סיום שיחות ושליחת מסרונים</string>
@@ -875,20 +888,52 @@
     <string name="retail_directory_enable">מדריך הקניות מופעל</string>
     <string name="retry_btn">נסה שוב</string>
     <string name="reverting_settings">משחזר הגדרות…</string>
-    <string name="roaming">נדידה</string>
+    <string name="roaming">התנתק מרשת הנתונים הסלולרית</string>
     <string name="roaming_alert_title">לאפשר נדידת נתונים?</string>
     <string name="roaming_disable">התחבר לשירותי נתונים בעת נדידה</string>
     <string name="roaming_enable">התחבר לשירותי נתונים בעת נדידה</string>
     <string name="roaming_notification_content">באפשרותך להוסיף קידומות מדינה באופן אוטומטי ובכך להפוך את החיוג לנוח יותר.</string>
     <string name="roaming_notification_title">נראה כי נדידת הנתונים מופעלת</string>
-    <string name="roaming_reenable_message">איבדת את החיבור שלך כיוון שהשארת את נדידת הנתונים ברשת הביתית שלך כבויה.</string>
+    <string name="roaming_reenable_message">נסה שימוש בנדידה על מנת להתחבר שוב.</string>
     <string name="roaming_warning">יתכן וייגבו ממך חיובים משמעותיים.</string>
     <string name="save">שמור</string>
     <string name="saving_account">שומר חשבון…</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
     <string name="search_antispam_setting">רשימת החסומים</string>
     <string name="search_app_name">"טלפון;הקלטת שיחות;הפנית שיחות;הפניה;שיחה ממתינה;רשימת החסומים;קידומת מדינה;קוד אזור;אזור חיוג;קידומות מדינה;קודי אזורים;הקלט שיחות;הקלט שיחה;לוח מקשים;שיחה;שיחות;טלפוניה;VoIP;VoLTE;שיחה שלא נענתה;שיחות שלא נענו;SIP;T9;טלפונית IP;'מספרי חיוג קבועים'"</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_sip_settings">@string/sip_settings</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
     <string name="selectContact">בחירת איש קשר</string>
     <string name="select_automatically">בחירת רשת אוטומטית</string>
+    <string name="select_dds_dialog_title">בחר בנתוני ברירת מחדל עבור SIM נתונים סלולריים</string>
     <string name="select_voice_call_sim">בחר כרטיס SIM</string>
     <string name="send_button">שליחה</string>
     <string name="send_keepalive_title">שלח keep-alive</string>
@@ -946,6 +991,7 @@
     <string name="sip_system_decide">אוטומטי</string>
     <string name="smart_divert_summary">הגדרות CFNRc</string>
     <string name="smart_divert_title">הטיה חכמה</string>
+    <string name="smsc_dialog_message">וודא שהמספר שהזנת הינו נכון. אחרת, לא תוכל לשלוח או לקבל הודעות SMS. צור קשר עם המפעיל הסלולרי שלך על מנת לאשרר את מספר ה SMCC שלך.</string>
     <string name="sports_news_settings">חדשות ספורט</string>
     <string name="status_hint_label_incoming_wifi_call">שיחת רשת אלחוטית מ:</string>
     <string name="status_hint_label_wifi_call">שיחת רשת אלחוטית</string>
@@ -958,11 +1004,11 @@
     <string name="sum_cdma_call_settings">"הגדרות שיחה נוספות עבור 'CDMA בלבד'"</string>
     <string name="sum_cfb_disabled">כבוי</string>
     <string name="sum_cfb_enabled">מפנה אל {0}</string>
-    <string name="sum_cfnrc_disabled">מושבתת</string>
+    <string name="sum_cfnrc_disabled">כבוי</string>
     <string name="sum_cfnrc_enabled">מפנה אל {0}</string>
     <string name="sum_cfnry_disabled">כבוי</string>
     <string name="sum_cfnry_enabled">מפנה אל {0}</string>
-    <string name="sum_cfu_disabled">מושבתת</string>
+    <string name="sum_cfu_disabled">כבוי</string>
     <string name="sum_cfu_enabled">מפנה את כל השיחות אל {0}</string>
     <string name="sum_cfu_enabled_indicator">מפנה את כל השיחות</string>
     <string name="sum_cfu_enabled_indicator_by_sim">כל השיחות ל-SIM %s יופנו</string>
@@ -1015,7 +1061,7 @@
     <string name="telocation_number_type_tel">טלפון קוי</string>
     <string name="telocation_setting">שירותי מיקום</string>
     <string name="telocation_show_settings">הצג הגדרות</string>
-    <string name="third_party_account_summary">חשבון זה נמצא בשימוש על ידי %s.</string>
+    <string name="third_party_account_summary">חשבון זה נמצא בשימוש על ידי יישום %s.</string>
     <string name="throttle_current_usage">נתונים שנעשה בהם שימוש בתקופה הנוכחית</string>
     <string name="throttle_data_rate_reduced_subtext">"בוצעה חריגה מה- %1$s המירבי
 קצב הנתונים הופחת ל- %2$d Kb/s"</string>
@@ -1035,6 +1081,7 @@
     <string name="time_end_minute">time end minute</string>
     <string name="time_formate_am">AM</string>
     <string name="time_formate_pm">PM</string>
+    <string name="time_interval_char">:</string>
     <string name="time_next_day">" היום הבא "</string>
     <string name="time_start">" מ: "</string>
     <string name="time_start_hour">time start hour</string>
@@ -1045,6 +1092,7 @@
     <string name="tty_mode_entries_hco">TTY HCO</string>
     <string name="tty_mode_entries_off">TTY כבוי</string>
     <string name="tty_mode_entries_vco">TTY VCO</string>
+    <string name="tty_mode_key">button_tty_mode_key</string>
     <string name="tty_mode_not_allowed_video_call">לא ניתן לשנות את מצב TTY בזמן שיחת וידאו</string>
     <string name="tty_mode_option_summary">הגדר מצב TTY</string>
     <string name="tty_mode_option_title">מצב TTY</string>
@@ -1101,9 +1149,10 @@
     <string name="voicemail">תא קולי</string>
     <string name="voicemail_abbreviated">תא קולי:</string>
     <string name="voicemail_change_pin_dialog_title">שינוי PIN</string>
+    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_default">ספק הרשת שלך</string>
     <string name="voicemail_notification_vibrate_when_title">רטט</string>
-    <string name="voicemail_notifications_preference_title">הודעות</string>
+    <string name="voicemail_notifications_preference_title">התראות</string>
     <string name="voicemail_number_not_set">&lt;לא מוגדר></string>
     <string name="voicemail_provider">שירות</string>
     <string name="voicemail_provider_summary">בחר שירות תא קולי</string>
@@ -1113,6 +1162,7 @@
     <string name="voicemail_settings_number_label">מספר תא קולי</string>
     <string name="voicemail_settings_number_title">מספר תא קולי</string>
     <string name="voicemail_settings_with_label">תא קולי (%s)</string>
+    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="voicemail_visual_voicemail_switch_title">תא קולי חזותי</string>
     <string name="voip_setting">הגדרות VoIP</string>
     <string name="volte_provision_notification_activate">הפעלה</string>
@@ -1125,24 +1175,31 @@
     <string name="volte_switch_title">השתמש ב VoLTE</string>
     <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">שירותי China Telecom VoLTE מסופקות באזורים בעלי כיסוי רשת VoLTE בלבד. שירותי ה-VoLTE מסופקים על ידי ספק הרשת.</string>
-    <string name="vowifi_emergency_notification_channel">שיחות Wi-Fi אזהרת חירום</string>
-    <string name="vowifi_emergency_notification_content">שיחות חירום אפשריות באזורים בהם קיים כיסוי רשת סלולרית</string>
-    <string name="vowifi_emergency_notification_title">שיחות Vodafone Wifi</string>
-    <string name="vowifi_emergency_warning_check">אל תציג שוב</string>
-    <string name="vowifi_emergency_warning_message">"שיחות באמצעות Wi-Fi אינן זמינות עבור שיחות חירום
-
- מכשירך יעבור באופן אוטומטי לרשת ניידת (2g/3g) בכדי לבצע שיחת חירום. 
-
- שיחות חירום אפשריות רק באזורים עם כיסוי רשת נייד."</string>
-    <string name="vowifi_emergency_warning_title">שיחות חירום באמצעות חיבור Wi-Fi</string>
+    <string name="vowifi_emergency_notification_channel">שיחות רשת אלחוטית אזהרת חירום</string>
+    <string name="vowifi_emergency_notification_content">שיחות חירום באזורים עם כיסוי סלולרי בלבד</string>
+    <string name="vowifi_emergency_notification_title">שיחות רשת אלחוטית Vodafone</string>
+    <string name="vowifi_emergency_warning_check">אל תציג שוב.</string>
+    <string name="vowifi_emergency_warning_message">"שיחות חירום אינן אפשריות באמצעות שיחות רשת אלחוטית. N
+ המכשיר עובר אוטומטית לרשת סלולרית (2G/3G) כדי לבצע שיחת חירום. N
+ שיחות חירום אפשריות רק באזורים עם כיסוי סלולרי."</string>
+    <string name="vowifi_emergency_warning_title">שיחות חירום באמצעות שיחת רשת אלחוטית</string>
     <string name="vvm_unsupported_message_format">סוג הודעה בלתי נתמך, חייג %s להאזנה.</string>
     <string name="wait_prompt_str">"לשלוח צלילים אלה?
 "</string>
     <string name="wfcmode_mobile_preferred">העדף רשתות סלולריות</string>
     <string name="wfcmode_wifi_only">Wi-Fi בלבד</string>
     <string name="wfcmode_wifi_preferred">העדף Wi-Fi</string>
+    <string name="wifi_call_accept">אישור</string>
+    <string name="wifi_call_available_message">מעתה באפשרותך להתחיל שיחות Wi-Fi. אם מכשירך מחובר לרשת Wi-Fi, ניתן יהיה לקיים שיחות טלפון גם באיזורים שאין להם כיסוי של רשת סלולרית.</string>
+    <string name="wifi_call_available_title">הפעלת אפשרות קיום שיחות Wi-Fi</string>
+    <string name="wifi_call_cancel">ביטול</string>
+    <string name="wifi_call_help">עזרה</string>
+    <string name="wifi_call_help_message">אם בחרת להעדיף רשתות ניידות, רשת הנייד תהיה ברירת המחדל לקיום שיחות. אם אין קליטה סלולרית, או שהקליטה נמוכה, יתבצע שימוש ברשת ה-Wi-Fi במקום.</string>
+    <string name="wifi_call_help_title">עזרה בהתחלת שיחות Wi-Fi</string>
+    <string name="wifi_call_notification_message">השירות הזה מסופק ע\"י חברת Orange. ייתכן כי ייקח לשירות מספר שעות להתחיל לפעול. נשלח לך הודעת SMS לאישור ברגע שהוא יהיה זמין.</string>
     <string name="wifi_call_setting">שיחות Wi-Fi</string>
     <string name="wifi_calling">שיחת רשת אלחוטית</string>
+    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="wifi_calling_settings_title">שיחות רשת אלחוטית</string>
     <string name="wificall_switch_summary">כאשר זה מתאפשר, השתמש ברשת Wi-Fi על מנת לקבל שיחות</string>
     <string name="wificall_switch_title">בצע שיחות באמצעות Wi-Fi</string>

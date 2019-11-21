@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day_index">
+        <item quantity="other">%1$d ימים</item>
+        <item quantity="one">%1$d יום</item>
+        <item quantity="two">%1$d ימים</item>
+        <item quantity="many">%1$d ימים</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">מטרה: הלכת %1$d צעדים</item>
+        <item quantity="one">מטרה: %1$d צעדים</item>
+        <item quantity="two">מטרה: הלכת צעד %1$d</item>
+        <item quantity="many">מטרה: הלכת %1$d צעדים</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" צעדים"</item>
+        <item quantity="one">" צעד"</item>
+        <item quantity="two">" צעדים"</item>
+        <item quantity="many">" צעדים"</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">יום %1$d למחזור</item>
+        <item quantity="one">יום %1$d למחזור</item>
+        <item quantity="two">יום %1$d למחזור</item>
+        <item quantity="many">יום %1$d למחזור</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d צעדים</item>
+        <item quantity="one">%1$d צעד</item>
+        <item quantity="two">%1$d צעדים</item>
+        <item quantity="many">%1$d צעדים</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="two">%1$d</item>
+        <item quantity="many">%1$d</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">לא תיעדת כבר %1$d ימים. תעדי את המחזור שלך על מנת לקבל חיזוי מדויק יותר.</item>
+        <item quantity="one">לא תיעדת כבר %1$d יום. תעדי את המחזור שלך על מנת לקבל חיזוי מדויק יותר.</item>
+        <item quantity="two">לא תיעדת כבר %1$d ימים. תעדי את המחזור שלך על מנת לקבל חיזוי מדויק יותר.</item>
+        <item quantity="many">לא תיעדת כבר %1$d ימים. תעדי את המחזור שלך על מנת לקבל חיזוי מדויק יותר.</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">מחזור זה ארך בסה\"כ %1$d ימים</item>
+        <item quantity="one">המחזור ארך בסה\"כ יום %1$d</item>
+        <item quantity="two">מחזור זה ארך בסה\"כ %1$d ימים</item>
+        <item quantity="many">מחזור זה ארך בסה\"כ %1$d ימים</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">יום %1$d לווסת המחזורי</item>
+        <item quantity="one">יום %1$d לווסת המחזורי</item>
+        <item quantity="two">יום %1$d של הווסת המחזורי</item>
+        <item quantity="many">יום %1$d לווסת המחזורי</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">יום %1$d למחזור</item>
+        <item quantity="one">יום %1$d למחזור</item>
+        <item quantity="two">יום %1$d למחזור</item>
+        <item quantity="many">יום %1$d למחזור</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d פעמים</item>
+        <item quantity="one">פעם %1$d</item>
+        <item quantity="two">%1$d פעמים</item>
+        <item quantity="many">%1$d פעמים</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">יום %1$d של המחזור</item>
+        <item quantity="one">יום %1$d של המחזור</item>
+        <item quantity="two">יום %1$d של המחזור</item>
+        <item quantity="many">יום %1$d של המחזור</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d ימים עד למחזור הבא</item>
+        <item quantity="one">יום %1$d עד למחזור הבא</item>
+        <item quantity="two">%1$d ימים עד למחזור הבא</item>
+        <item quantity="many">%1$d ימים עד למחזור הבא</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">זמן מוערך %1$d למחזור</item>
+        <item quantity="one">יום מוערך %1$d למחזור</item>
+        <item quantity="two">זמן מוערך %1$d למחזור</item>
+        <item quantity="many">זמן מוערך %1$d למחזור</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" ימים"</item>
+        <item quantity="one">" יום"</item>
+        <item quantity="two">" ימים"</item>
+        <item quantity="many">" ימים"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d שנים</item>
+        <item quantity="one">%1$d שנה</item>
+        <item quantity="two">%1$d שנים</item>
+        <item quantity="many">%1$d שנים</item>
+    </plurals>
+</resources>

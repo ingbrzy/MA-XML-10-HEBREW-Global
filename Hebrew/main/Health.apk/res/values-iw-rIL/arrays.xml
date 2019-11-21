@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_prompt_label">
+        <item>סביר</item>
+        <item>ארוך</item>
+        <item>ארוך מדיי</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>זמן לזוז!</item>
+        <item>למד עוד</item>
+        <item>זמן לזוז! שתה קצת מים וצא להליכה.</item>
+        <item>מידע נוסף</item>
+        <item>דלג על מספר מדרגות יחד</item>
+        <item>למידע נוסף</item>
+        <item>אל תשב למשך זמן רב מדיי</item>
+        <item>למד עוד</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 שעה</item>
+        <item>שעתיים</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>" קלריות"</item>
+        <item>" kJ"</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" ס\"מ"</item>
+        <item>" מ'"</item>
+        <item>" ק\"מ"</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>יום</item>
+        <item>שבוע</item>
+        <item>חודש</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>אין הגבלות</item>
+        <item>הגבל פעילות רקע</item>
+        <item>הפסק לאחר 10 דקות</item>
+        <item>לעולם לא</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" קמ\"ש"</item>
+        <item>" מ'"</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
+    </string-array>
+</resources>

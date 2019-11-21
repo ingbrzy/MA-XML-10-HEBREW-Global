@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">פעילות האצת מהירות הרשת תסתיים בעוד %d ימים. חדש את הפעילות כדי להימנע מבעיות מהירות של הרשת.</item>
+        <item quantity="one">פעילות האצת מהירות הרשת תסתיים בעוד יום %d. חדש את הפעילות כדי להימנע מבעיות מהירות של הרשת.</item>
+        <item quantity="two">פעילות האצת מהירות הרשת תסתיים בעוד %d ימים. חדש את הפעילות כדי להימנע מבעיות מהירות של הרשת.</item>
+        <item quantity="many">פעילות האצת מהירות הרשת תסתיים בעוד %d ימים. חדש את הפעילות כדי להימנע מבעיות מהירות של הרשת.</item>
+    </plurals>
+</resources>
