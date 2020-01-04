@@ -486,7 +486,6 @@
     <string name="passport_wrong_phone_number_format">הפורמט של מספר הטלפון שהזנת אינו חוקי</string>
     <string name="passport_wrong_vcode">הקוד שהזנת שגוי</string>
     <string name="pic_not_exist">תמונה זו אינה קיימת</string>
-    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">המשוב שלך, יחד עם יומני השגיאה, ישלח לשרתי Mi.</string>
     <string name="plus_one_submit_dialog_not_show_again">זכור העדפה</string>
     <string name="post_miui_bbs_failed">לא ניתן היה לפרסם בפורום MIUI</string>

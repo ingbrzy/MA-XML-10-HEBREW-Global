@@ -41,5 +41,4 @@
     <string name="download_queued">בתור</string>
     <string name="download_running">מוריד</string>
     <string name="download_error">לא ניתן היה להוריד</string>
-    <string name="download_running_percent">מוריד %s</string>
 </resources>
