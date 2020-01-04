@@ -52,6 +52,17 @@
         <item>25 דקות</item>
         <item>30 דקות</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>בימים שני עד שישי</item>
+        <item>בכל יום</item>
+        <item>בימי עבודה</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>בכל יום</item>
+        <item>בימים שני עד שישי</item>
+        <item>בימי עבודה</item>
+        <item>מותאם אישית</item>
+    </string-array>
     <string-array name="cities_names_miui">
         <item>"אבידג'אן"</item>
         <item>אקרה</item>
@@ -633,6 +644,22 @@
         <item>סורינאם</item>
         <item>אקוודור</item>
     </string-array>
+    <string-array name="days_of_week">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>בשעה שהוגדרה</item>
+        <item>15 דקות לפני</item>
+        <item>30 דקות לפני</item>
+        <item>שעה לפני</item>
+        <item>ללא</item>
+    </string-array>
     <string-array name="snooze_duration_entries">
         <item>דקה 1</item>
         <item>5 דקות</item>
@@ -641,6 +668,15 @@
         <item>20 דקות</item>
         <item>25 דקות</item>
         <item>30 דקות</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
     </string-array>
     <string-array name="time">
         <item>%1$s</item>
@@ -664,5 +700,10 @@
         <item>אל תעשה דבר</item>
         <item>נודניק</item>
         <item>התעלם</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

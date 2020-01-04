@@ -32,6 +32,13 @@
     <string name="call_anyone">התקשר</string>
     <string name="camera_error_title">שגיאת מצלמה</string>
     <string name="cancel">ביטול</string>
+    <string name="carsHome_title">מכונית</string>
+    <string name="cars_is_public">נפתחה</string>
+    <string name="cars_no_public">לא נפתחה</string>
+    <string name="cars_solution">"פתרון: "</string>
+    <string name="cars_suitability">"התאמה: "</string>
+    <string name="cars_title">סרוק מכונית או חלק ממנה</string>
+    <string name="carshome_data">התמיכה הטכנית ניתנת על-ידי Autohome Inc.</string>
     <string name="check_for_updates">בדוק אם קיימים עדכוני בטא</string>
     <string name="choose_open_code_app">בחר אפליקציה</string>
     <string name="choose_pay_title">בחר שיטת תשלום</string>
@@ -49,6 +56,7 @@
     <string name="continue_waiting">המשך להמתין</string>
     <string name="copy_text">העתק טקסט</string>
     <string name="copy_text_success">הטקסט הועתק</string>
+    <string name="copy_tracknum">העתק קוד מעקב</string>
     <string name="crop_cancel_description">ביטול</string>
     <string name="crop_done_description">בוצע</string>
     <string name="crop_title_study">חתוך את התמונה</string>
@@ -108,10 +116,12 @@
     <string name="got_it">הבנתי</string>
     <string name="gps">נווט</string>
     <string name="import_contact">ייבא איש קשר</string>
-    <string name="impunity_declaration_content">הסורק צריך להשתמש במצלמה שלך ולעבד את התמונות שלקחת תוך שימוש ביישום. אל תשתמש בסורק כדי לצלם או לסרוק תמונות המכילים את המידע האישי שלך. על-ידי הקשה \"מסכים\", אתה מסכים שלנו &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\">מדיניות פרטיות&lt;/a>&lt;/font> ולאפשר לסורק, להתחבר לאינטרנט.</string>
+    <string name="impunity_declaration_content">הסורק צריך להשתמש במצלמת המכשיר שלך ולעבד את התמונות שצולמו באמצעות האפליקציה. אל תשתמש בסורק כדי לצלם תמונות של חפצים המכילים מידע אישי. הקשה על \"מסכים\" מהווה הסכמה עם &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">מדיניות הפרטיות&lt;/a>&lt;/font> שלנו, ותאפשר לסורק להתחבר לאינטרנט.</string>
     <string name="impunity_declaration_negative_text">יציאה</string>
     <string name="impunity_declaration_title">מדיניות הפרטיות</string>
     <string name="jd_shopping_title">חפש ב JD</string>
+    <string name="jingdong">JD</string>
+    <string name="kuaidi100_data">מופעל על ידי Kuaidi 100</string>
     <string name="label_choose_picture">בחירת תמונה</string>
     <string name="label_flash_light">פנס</string>
     <string name="language_entry_chinese_cn">סינית מפושטת</string>
@@ -121,6 +131,7 @@
     <string name="language_entry_japanese">יפנית</string>
     <string name="language_entry_korean">קוריאנית</string>
     <string name="language_entry_spanish">ספרדית</string>
+    <string name="logistics">משלוח אקספרס</string>
     <string name="low_version_tip">"עדכן את MIUI לגרסתו החדשה ביותר על מנת שתוכל להשתמש ב'סורק'."</string>
     <string name="miracast_connect">הקרנה</string>
     <string name="miracast_connect_fail">לא ניתן היה להקרין, נסה שוב</string>
@@ -129,6 +140,7 @@
     <string name="miracast_message">להקרין אל %s?</string>
     <string name="miracast_switch_off">התצוגה האלחוטית כבויה</string>
     <string name="miracast_switch_tip">הפעל את התצוגה האלחוטית על מנת שתוכל להשתמש בתכונה זו</string>
+    <string name="mishop">חנות Mi</string>
     <string name="module_title_business_card">כרטיס ביקור</string>
     <string name="module_title_code">קוד QR</string>
     <string name="module_title_document">מסמך</string>
@@ -147,6 +159,7 @@
     <string name="not_insert_contact">לא ניתן להוסיף איש קשר</string>
     <string name="not_recommend_access_web_url">עבור בכל מקרה</string>
     <string name="note">הערה:</string>
+    <string name="now_state">"מיקום נוכחי: "</string>
     <string name="once">פעם אחת בלבד</string>
     <string name="open_url">פתח קישור אינטרנט</string>
     <string name="pay_no_tip">אל תציג שוב</string>
@@ -159,10 +172,16 @@
     <string name="plant_reg_fail_2">לא ניתן לזהות אובייקט זה. בסורק זה ניתן לזהות רק צמחים.</string>
     <string name="plant_support">"  (תמיכה טכנית)"</string>
     <string name="plant_title">סרוק את הצמח שברצונך לזהות</string>
+    <string name="please_try_again_later">המתן דקה או שתיים ונסה שוב</string>
     <string name="preparing_sd">מכין אחסון פנימי…</string>
     <string name="previous">הקודם</string>
     <string name="prompt">שים לב</string>
     <string name="qr_code_details">פרטי קוד QR:</string>
+    <string name="queryNum">בדוק הזמנה</string>
+    <string name="query_faile">סטטוס ופרטי ההזמנה עדיין לא סונכרנו. בדוק את ההזמנה שלך ידנית.</string>
+    <string name="query_inai">תן ל-Mi AI לעזור לך</string>
+    <string name="query_more">מידע נוסף</string>
+    <string name="query_tracknum">בדוק הזמנת משלוח אקספרס</string>
     <string name="recognize">סרוק</string>
     <string name="recognize_fail">לא ניתן היה לקרוא את הקוד</string>
     <string name="request_server_failed">לא ניתן היה להתחבר לשרת</string>
@@ -171,6 +190,7 @@
     <string name="sdk_not_ready">מכין את SDK. נסה שוב מאוחר יותר.</string>
     <string name="secure_access_web_url">עבור לאתר</string>
     <string name="see_app_details">הצג את פרטי היישום</string>
+    <string name="see_details">לחץ לצפייה בפרטים</string>
     <string name="select_dialog_confirm">אישור</string>
     <string name="send_mail">שלח דוא\"ל</string>
     <string name="setting_alipay">AliPay</string>
@@ -185,6 +205,13 @@
     <string name="shopping_title">צלם תמונה של המוצר</string>
     <string name="shopping_vendor_info">מופעל על ידי Taobao</string>
     <string name="spaceIsLow_content">אין מספיק מקום באחסון הפנימי. אנא פנה מקום.</string>
+    <string name="store_feedback_prompt">הזן קודם את המשוב שלך</string>
+    <string name="store_location_dialog">שירות זה ניתן על ידי Dianping. כל התמונות שתצלם במהלך השימוש בשירות זה, כולל פרטי המיקום הקשורים, ישותפו עם Dianping כדי שתוכל לקבל המידע אודות חנויות.</string>
+    <string name="store_location_fail">לא ניתן היה לקבל נתוני מיקום</string>
+    <string name="store_location_prompt">אפשר לסורק לגשת למיקום שלך כדי שתוכל לזהות חנויות</string>
+    <string name="store_module_title">חנות</string>
+    <string name="store_no_date">לא ניתן היה לזהות חנות</string>
+    <string name="store_title">סרוק סמל חנות</string>
     <string name="study_rotate_picture">מעבד תמונה…</string>
     <string name="study_scan_result">תוצאה</string>
     <string name="study_searching">מחפש תוצאות…</string>
@@ -192,6 +219,7 @@
     <string name="study_vendor_info">מופעל על ידי Zuoyebang</string>
     <string name="suggested_submission_success">המשוב שלך נשלח בהצלחה</string>
     <string name="switch_open">הפעלה</string>
+    <string name="taobao">Taobao</string>
     <string name="tel">טלפון</string>
     <string name="title">כותרת:</string>
     <string name="to_install_title">קוד QR זה מעביר לאפליקציה שהוסרה. להוריד את האפליקציה הזו עכשיו?</string>
@@ -232,6 +260,7 @@
     <string name="url_is_unknown">לא ניתן לבדוק האם אתר זה הינו אתר בטוח</string>
     <string name="url_is_unsafety">אתר זה אינו מאובטח</string>
     <string name="vender_info_translation_kingsoft">מופעל על ידי Kingsoft</string>
+    <string name="waybill_num">"הזמנה: "</string>
     <string name="web">אתר:</string>
     <string name="website_details">אתר:</string>
     <string name="weixin_code_tip">סרוק קוד QR זה באמצעות WeChat</string>
@@ -245,6 +274,8 @@
     <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (בקשתך תישלח לבדיקה בקרוב.)"</string>
     <string name="wx_not_installed_toast">תכונה זו צריכה להשתמש ב WeChat. התקן את WeChat תחילה.</string>
+    <string name="xiaoai_dialog">"נסה להגיד ל-Mi AI מה
+ברצונך לסרוק"</string>
     <string name="you_have_permission_to_download">הקש כדי להוריד גרסת בטא</string>
     <string name="you_id">"המזהה שלך: "</string>
     <string name="your_application_is_under_review">" (בקשתך נבדקת.)"</string>

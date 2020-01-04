@@ -92,6 +92,7 @@
     <string name="scenario_policies_summary">החלת אסטרטגיות שונות לחכסון באנרגיה עבור תרחישים שונים.</string>
     <string name="scenario_policies_title">תרחישים חכמים</string>
     <string name="scenario_policies_warmcontrol">בקרת טמפרטורה</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">לא ניתן היה למצוא יישומים</string>
     <string name="show_system_app">הצג יישומי מערכת</string>
     <string name="sleep_config_enhance_description">בכל פעם שמערכת MIUI תזהה שהינך ישן, היא תסגור את היישומים ברקע, תגביל את ה-NFC, Bluetooth GPS, הנתונים הסלולריים והשימוש ברשת האלחוטית ולא תאיר את המסך בעת קבלת התראות.</string>

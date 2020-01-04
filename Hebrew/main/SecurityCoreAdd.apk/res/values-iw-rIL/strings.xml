@@ -307,6 +307,7 @@
     <string name="sdcradfs_dialog_in_sec_message">"על מנת לבצע עדכון, עליך למחוק את 'שטח שני' שלך ואז ליצור אותו שוב. העבר את הנתונים מ'שטח שני' אל 'שטח ראשון' ואתחל את מכשירך על מנת להשלים את העדכון.
 במידה ולא תבצע עדכון, יישומים משוכפלים עשויים שלא לעבוד כראוי גם כן."</string>
     <string name="sdcradfs_dialog_in_sec_title">עדכון חשוב</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">לא נמצאו יישומים</string>
     <string name="secondSpace">שטח שני</string>
     <string name="second_owner_finger_print">"טביעת אצבע של 'שטח שני'"</string>
@@ -437,6 +438,7 @@
     <string name="use_xiaoai_open">הער תוך שימוש Mi Ai</string>
     <string name="wating">רק רגע…</string>
     <string name="weibo_send">שליחה אל Weibo</string>
+    <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">היכנס ושתף</string>
     <string name="whatsapp_send">שתף עם WhatsApp</string>
     <string name="xpsace_guide_button">צור</string>
@@ -453,9 +455,11 @@
     <string name="xspace_description">"'יישומים משוכפלים' הינו כלי אשר באמצעותו ניתן לשכפל יישומים בהם ניתן להשתמש בנפרד באמצעות חשבון אחר.
 
 יישומים משוכפלים מסויימים דורשים תמיכה במסגרת שירותי Google. במקרים כאלה, מסגרת שירותי Google נוצרת."</string>
+    <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_guide_des">השתמש בשני חשבונות מבלי להחליף</string>
     <string name="xspace_guide_title">יצירת יישום משוכפל</string>
     <string name="xspace_header">יישומים משוכפלים</string>
+    <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_completed">האייקון נוסף למסך הבית</string>
     <string name="xspace_install_completed_global">האייקון נוסף למגירה</string>
     <string name="xspace_install_failed">לא ניתן היה ליצור</string>
@@ -463,10 +467,14 @@
     <string name="xspace_introduce">מומלץ</string>
     <string name="xspace_label">יישומים משוכפלים</string>
     <string name="xspace_loading_msg">טוען יישומים…</string>
+    <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">מחיק חשבונות של יישומים משוכפלים</string>
     <string name="xspace_setting_label">הגדרות יישומים משוכפלים</string>
     <string name="xspace_uninstall_completed">הסרת ההתקנה של היישום המשוכפל בוצעה בהצלחה</string>
     <string name="xspace_uninstall_dialog_content">הסרת היישום המשוכפל תסיר את כל נתוני היישום.</string>
     <string name="xspace_uninstall_dialog_title">הסר התקנה של היישום המשוכפל</string>
     <string name="xspace_uninstalling">מסיר התקנה…</string>
+    <string name="xspace_weibo_title">Weibo</string>
+    <string name="xspace_weixin_title">WeChat</string>
+    <string name="xspace_whatsapp_title">WhatsApp</string>
 </resources>

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">הצג %d תגובות</item>
+        <item quantity="one">הצג תגובה אחת (%d)</item>
+        <item quantity="two">הצג %d תגובות</item>
+        <item quantity="many">הצג %d תגובות</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">חוזר לעמוד הבית בעוד %1$dשניות…</item>
         <item quantity="one">חוזר לעמוד הבית בעוד שנייה %1$d…</item>
@@ -29,6 +35,12 @@
         <item quantity="one">סרטון %d</item>
         <item quantity="two">%d סרטונים</item>
         <item quantity="many">%d סרטונים</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">התוכן שלך מכיל פריטים (%1$s) שמפרים את כללי הקהילות שלנו. חשבונך מושעה למשך %2$d ימים עד %3$s.</item>
+        <item quantity="one">התוכן שלך מכיל פריטים (%1$s) שמפרים את כללי הקהילות שלנו. חשבונך מושעה למשך יום אחד (%2$d) עד %3$s.</item>
+        <item quantity="two">התוכן שלך מכיל פריטים (%1$s) שמפרים את כללי הקהילות שלנו. חשבונך מושעה למשך %2$d ימים עד %3$s.</item>
+        <item quantity="many">התוכן שלך מכיל פריטים (%1$s) שמפרים את כללי הקהילות שלנו. חשבונך מושעה למשך %2$d ימים עד %3$s.</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d סרטונים</item>

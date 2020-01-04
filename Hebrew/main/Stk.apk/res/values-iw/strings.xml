@@ -21,6 +21,7 @@
     <string name="menu_end_session">סיים הפעלה</string>
     <string name="no_sim_card_inserted">‏הכנס כרטיס SIM כדי להפעיל את Toolkit SIM.</string>
     <string name="service_name">שם שירות</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stk_app_state">מצב אפליקציה</string>
     <string name="stk_channel_name">הודעות שירות סלולרי</string>
     <string name="stk_dialog_accept">כן</string>

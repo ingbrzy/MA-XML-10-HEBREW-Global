@@ -79,6 +79,27 @@
     <string name="collect_diagnosis_log">אוסף יומנים</string>
     <string name="com_permission_desc">"אין באפשרות וידאו Mi לגשת לסרטונים במכשירך. אפשר גישה ב'הגדרות'."</string>
     <string name="com_permission_title">נדרשות הרשאות</string>
+    <string name="comment_model_add_comment">הוסף תגובה</string>
+    <string name="comment_model_bg_add_comment">שתף את המחשבות שלך עם הקבוצה</string>
+    <string name="comment_model_bg_deleted_comment">תגובה זו נמחקה</string>
+    <string name="comment_model_comment">תגובות</string>
+    <string name="comment_model_confirm_delete">למחוק תגובה עכשיו?</string>
+    <string name="comment_model_copy">העתק</string>
+    <string name="comment_model_copy_fail">לא ניתן היה להעתיק</string>
+    <string name="comment_model_copy_success">הועתקה בהצלחה</string>
+    <string name="comment_model_delete">מחק</string>
+    <string name="comment_model_delete_fail">לא ניתן היה למחוק</string>
+    <string name="comment_model_delete_success">נמחקה בהצלחה</string>
+    <string name="comment_model_reply">תגובות</string>
+    <string name="comment_model_reply_comment">"השב ל-%s: "</string>
+    <string name="comment_model_report">דווח</string>
+    <string name="comment_model_report_fail">לא ניתן היה לדווח</string>
+    <string name="comment_model_report_success">דווחה בהצלחה</string>
+    <string name="comment_model_send_fail">לא ניתן היה לשלוח</string>
+    <string name="comment_model_send_fail_frequently">לא כל כך מהר! המתן דקה או שתיים ונסה שוב.</string>
+    <string name="comment_model_send_forbid_desc">מספר תגובות שפרסמת מכילות פריטים המפרים את כללי הקהילות שלנו. חשבונך הושעה כעת לצמיתות. כדי לערער על ההחלטה תוכל לכתוב לנו משוב מתוך היישום.</string>
+    <string name="comment_model_send_forbid_tips">החשבון הושעה</string>
+    <string name="comment_model_send_success">נשלחה בהצלחה</string>
     <string name="common_cancel">ביטול</string>
     <string name="confirm_activate_email">אומת</string>
     <string name="confirm_bundled_phone_dialog_title">אשר את מספר הטלפון המקושר</string>
@@ -92,7 +113,7 @@
     <string name="diagnosis_log_sent_format">"היומנים נשלחו בהצלחה.
 ID:%s
 שלח קוד זה לאחראי."</string>
-    <string name="dialog_privacy_info_new2">כדי להשתמש בשירותים אלה, עליך להסכים לכך ש-%1$s תאסוף ותעבד נתונים אישיים שלך ותשתמש בהם. הקשה על \"מסכים\" למטה מהווה אישור לכך שקראת את &lt;a href=%2$s>מדיניות הפרטיות&lt;/a> שלנו והסכמת אתה.</string>
+    <string name="dialog_privacy_info_new2">כדי להשתמש בשירותים אלה, עליך להסכים לכך ש-%1$s תאסוף ותעבד נתונים אישיים שלך ותשתמש בהם. הקשה על \"מסכים\" למטה מהווה אישור לכך שקראת את &lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו והסכמת אתה.</string>
     <string name="dialog_privacy_title">הרשאה</string>
     <string name="dialog_revoke_privacy_info_new2">לאחר ביטול ההרשאה, היישום יפסיק לאסוף נתונים, וכל הנתונים הרלוונטיים יימחקו מהשרתים שלנו. זה עלול לגרום לכך שלא ניתן יהיה להשתמש ביישום. לבטל את ההרשאה בכל מקרה?</string>
     <string name="dialog_revoke_privacy_title">מתבצע ביטול ההרשאה</string>
@@ -292,7 +313,7 @@ ID:%s
     <string name="lv_subtitle_onlinesub_loading">טוען כתוביות…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">טוען כתוביות…</string>
     <string name="lv_subtitle_onlinesub_right_declare">כתב ויתור</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">קבל כתוביות &lt;br/>&lt;br/>מ: &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>. &lt;br/>&lt;br/>כל הכתוביות המקוונות מסופקות על ידי &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">קבל כתוביות &lt;br/>&lt;br/>מ: &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>. &lt;br/>&lt;br/>כל הכתוביות המקוונות מסופקות על ידי &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
     <string name="lv_subtitle_onlinesub_save_failed">לא ניתן היה להוסיף כתוביות</string>
     <string name="lv_subtitle_onlinesub_save_success">הכתוביות נוספו בהצלחה</string>
     <string name="lv_subtitle_onlinesub_search_keyword">הזן מילות מפתח לחיפוש</string>
@@ -341,8 +362,15 @@ ID:%s
     <string name="no_recommend_data">אין סרטונים מומלצים כרגע</string>
     <string name="no_subscriptions">אין פריטים להצגה</string>
     <string name="not_show">אל תציג שוב</string>
+    <string name="notice_comment_action">%s הגיב/ה על הפוסט שלך</string>
+    <string name="notice_comment_action_deleted">תגובה זו נמחקה</string>
+    <string name="notice_feedback_content">יש עדכון על המשוב שלך. הקש כדי להציג.</string>
+    <string name="notice_like_action">%s אהב/ה את התגובה שלך</string>
+    <string name="notice_message_title">התראות</string>
+    <string name="notice_title">הודעות</string>
     <string name="notify_apk_installed">ההורדה הושלמה בהצלחה</string>
     <string name="ok">אישור</string>
+    <string name="order_alphabet">"א'-ת'"</string>
     <string name="order_recently_subscribe">מינויים חדשים</string>
     <string name="order_recently_updated">עודכנו לאחרונה</string>
     <string name="ovp_alert_dialog_download_install_task">מוריד את הרחבת ה-HD…</string>
@@ -350,6 +378,7 @@ ID:%s
     <string name="ovp_category">קטגוריות</string>
     <string name="ovp_confirm_delete_favor">האם להסיר את הפריטים שנבחרו מהמועדפים?</string>
     <string name="ovp_default_plugin_name">הרחבת HD</string>
+    <string name="ovp_detail_back_to_watch_more">גלה פריטים נוספים בדף הבית</string>
     <string name="ovp_detail_collapse_summary">הסתר</string>
     <string name="ovp_detail_collect">הוספה למועדפים</string>
     <string name="ovp_detail_comment">הערה</string>
@@ -392,12 +421,14 @@ ID:%s
     <string name="ovp_loading_video_netplay_label_v5">רק רגע…</string>
     <string name="ovp_local_videos_title">סרטונים מקומיים</string>
     <string name="ovp_navigation_category">קטגוריה</string>
+    <string name="ovp_navigation_content">שיתוף פעולה בתחום התוכן</string>
     <string name="ovp_navigation_favorites">מועדפים</string>
     <string name="ovp_navigation_feedback">משוב</string>
     <string name="ovp_navigation_history">היסטוריה</string>
     <string name="ovp_navigation_home">בית</string>
     <string name="ovp_navigation_language">שפה</string>
     <string name="ovp_navigation_localvideo">מקומי</string>
+    <string name="ovp_navigation_notice">התראות</string>
     <string name="ovp_navigation_setting">הגדרות</string>
     <string name="ovp_navigation_subscribe">מינוי</string>
     <string name="ovp_player_plugin_dlg_neg_btn">סגירה</string>
@@ -505,8 +536,8 @@ ID:%s
     <string name="passport_unknow_error">אירעה שגיאה לא ידועה</string>
     <string name="passport_unknow_host_network_error">בדוק את הגדרות הרשת ונסה שוב</string>
     <string name="passport_unknow_network_error">אירעה שגיאת רשת</string>
-    <string name="passport_user_agreement_link">&lt;Data>קראתי ואני מסכים ל&lt;a href=%1$s>הסכם המשתמש&lt;/a> ול&lt;a href=%2$s>מדיניות הפרטיות&lt;/a>של Xiaomi.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>קראתי ואני מסכים למסמכים הבאים: &lt;a href=%1$s>הסכם המשתמש&lt;/a> ו&lt;a href=%4$s>מדיניות הפרטיות&lt;/a> של Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>קראתי ואני מסכים ל&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a>של Xiaomi.&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>קראתי ואני מסכים למסמכים הבאים: &lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ו&lt;a href=\"%4$s\">מדיניות הפרטיות&lt;/a> של Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_intro">הזן סיסמה עבור %1$s</string>
     <string name="passport_v_code_error">קוד האימות שגוי</string>
     <string name="passport_vcode_notification_title">אימות הכניסה שלך לא הושלם</string>
@@ -543,6 +574,7 @@ ID:%s
     <string name="playlist_title">פלייליסט</string>
     <string name="plus_add_shortcut">יצירת קיצור דרך במסך הבית</string>
     <string name="plus_change_poster">שנה את עטיפת האלבום</string>
+    <string name="plus_continue_watching">המשך לצפות</string>
     <string name="plus_deleting_wait">מוחק</string>
     <string name="plus_fallback">משוב</string>
     <string name="plus_gallery_allvideos">כל הסרטונים</string>
@@ -561,6 +593,12 @@ ID:%s
     <string name="plus_gallery_video_title_mediatype">קטגוריות אחרות</string>
     <string name="plus_gallery_video_title_othergallery">סרטונים אחרים</string>
     <string name="plus_loading_text">טוען פריטים…</string>
+    <string name="plus_menu_delete">מחק</string>
+    <string name="plus_menu_delete_popup_text">למחוק עכשיו?</string>
+    <string name="plus_menu_properties">מאפיינים</string>
+    <string name="plus_menu_rename">שנה שם</string>
+    <string name="plus_menu_rename_fail">שם קובץ לא יכול להכיל \"/\"</string>
+    <string name="plus_menu_share">שתף</string>
     <string name="plus_mine_gallery">האלבומים שלי</string>
     <string name="plus_mine_videos">הסרטונים שלי</string>
     <string name="plus_player_8k_video_not_support">לא ניתן להפעיל סרטון באיכות 8K במכשיר זה</string>
@@ -599,7 +637,7 @@ ID:%s
     <string name="plus_player_subtitle_local_add_success">הכתוביות נוספו בהצלחה</string>
     <string name="plus_player_subtitle_no_file">אין כתוביות כאן.</string>
     <string name="plus_player_subtitle_online">כתוביות מקוונות</string>
-    <string name="plus_player_subtitle_online_declare_content">אתה עומר לחפש&lt;br/>כתוביות בתוך&lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>מסד נתונים.&lt;br/>כל הכתוביות מסופקות עי&lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
+    <string name="plus_player_subtitle_online_declare_content">אתה עומר לחפש&lt;br/>כתוביות בתוך&lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>מסד נתונים.&lt;br/>כל הכתוביות מסופקות ע\"י&lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
     <string name="plus_player_subtitle_online_declare_title">כתב ויתור</string>
     <string name="plus_player_subtitle_online_download_fail">לא ניתן היה להוריד כתוביות</string>
     <string name="plus_player_subtitle_online_download_start">מוריד כתוביות…</string>
@@ -611,6 +649,31 @@ ID:%s
     <string name="plus_player_unhide">בטל הסתרה</string>
     <string name="plus_player_video_not_support">פורמט וידאו זה אינו נתמך.</string>
     <string name="plus_poster_reset_default">שחזר את עטיפת האלבום המקורית</string>
+    <string name="plus_properties_bit_rate">קצב ביטים</string>
+    <string name="plus_properties_codec">קודק</string>
+    <string name="plus_properties_date">תאריך</string>
+    <string name="plus_properties_file">קובץ</string>
+    <string name="plus_properties_file_name">שם קובץ</string>
+    <string name="plus_properties_finished">הסתיים</string>
+    <string name="plus_properties_format">פורמט</string>
+    <string name="plus_properties_frame_rate">קצב פריימים</string>
+    <string name="plus_properties_last_playback_position">מיקום אחרון</string>
+    <string name="plus_properties_last_playback_time">נוגן לאחרונה</string>
+    <string name="plus_properties_length">משך זמן</string>
+    <string name="plus_properties_media">מדיה</string>
+    <string name="plus_properties_path">מיקום</string>
+    <string name="plus_properties_playback_history">היסטוריית ניגון מדיה</string>
+    <string name="plus_properties_resolution">רזולוציה</string>
+    <string name="plus_properties_sample_rate">קצב דגימה</string>
+    <string name="plus_properties_size">גודל</string>
+    <string name="plus_properties_status">מצב</string>
+    <string name="plus_properties_stream">הזרמה</string>
+    <string name="plus_properties_stream_title">כותרת</string>
+    <string name="plus_properties_type">סוג</string>
+    <string name="plus_properties_type_audio">שמע</string>
+    <string name="plus_properties_type_subtitle">כתוביות</string>
+    <string name="plus_properties_type_video">וידאו</string>
+    <string name="plus_properties_unfinish">לא הסתיים</string>
     <string name="plus_search_barhint">חפש אחר סרטונים מקומיים</string>
     <string name="plus_search_guide">חיפוש סרטונים</string>
     <string name="plus_search_result_empty">לא ניתן היה להשיג תוצאות</string>
@@ -650,6 +713,11 @@ ID:%s
     <string name="reload_sub_title">הקש כדי לנסות שנית.</string>
     <string name="reload_title">לא ניתן להתחבר לאינטרנט.</string>
     <string name="report">דוח</string>
+    <string name="report_content_fakement">ספאם או הונאה</string>
+    <string name="report_content_illegal">הצהרות בלתי חוקיות</string>
+    <string name="report_content_other">הפרות אחרות</string>
+    <string name="report_content_sexy">תוכן מיני מפורש</string>
+    <string name="report_content_violence">דברי שנאה</string>
     <string name="report_fail">לא ניתן לדווח. נסה שוב.</string>
     <string name="report_success">דווח בהצלחה</string>
     <string name="resend_active_email">שלח שוב</string>

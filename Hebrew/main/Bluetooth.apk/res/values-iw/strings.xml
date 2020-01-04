@@ -5,6 +5,7 @@
     <string name="ack_record">אשר רשומה</string>
     <string name="airplane_error_msg">‏לא ניתן להשתמש ב-Bluetooth במצב טיסה.</string>
     <string name="airplane_error_title">מצב טיסה</string>
+    <string name="app_name">Bluetooth</string>
     <string name="auth_notif_message">‏הקלד קוד הפעלה עבור %1$s</string>
     <string name="auth_notif_ticker">‏בקשת אימות של Obex</string>
     <string name="auth_notif_title">קוד הפעלה</string>
@@ -29,7 +30,9 @@
     <string name="bt_enable_line1">‏כדי להשתמש בשירותי Bluetooth, עליך להפעיל תחילה את Bluetooth.</string>
     <string name="bt_enable_line2">‏להפעיל Bluetooth כעת?</string>
     <string name="bt_enable_ok">הפעלה</string>
+    <string name="bt_enable_title" />
     <string name="bt_error_btn_ok">אישור</string>
+    <string name="bt_share_picker_label">Bluetooth</string>
     <string name="bt_sm_2_1_default">‏אין מספיק שטח אחסון בכרטיס ה-SD לשמירת הקובץ מאת \"%1$s\"</string>
     <string name="bt_sm_2_1_nosdcard">‏אין מספיק שטח פנוי באחסון ה-USB לשמירת הקובץ מאת \"%1$s\"</string>
     <string name="bt_sm_2_2">שטח דרוש: %1$s</string>
@@ -41,6 +44,7 @@
     <string name="bt_toast_6">שליחת קובץ אל \"%1$s\" הופסקה</string>
     <string name="btopp_live_folder">‏התקבל באמצעות Bluetooth</string>
     <string name="defaultname">דיבורית לרכב</string>
+    <string name="defaultnumber">000000</string>
     <string name="deleteAll_record">מחק את כל הרשומות</string>
     <string name="delete_record">מחק רשומה</string>
     <string name="download_cancel">עצור</string>
@@ -51,6 +55,7 @@
     <string name="download_line1">מאת: \"%1$s\"</string>
     <string name="download_line2">קובץ: %1$s</string>
     <string name="download_line3">גודל קובץ: %1$s</string>
+    <string name="download_line4" />
     <string name="download_line5">מקבל קובץ...</string>
     <string name="download_ok">הסתר</string>
     <string name="download_succ_line5">הקובץ התקבל</string>
@@ -90,7 +95,9 @@
     <string name="opp_notification_group">‏שיתוף Bluetooth</string>
     <string name="outbound_history_title">העברות יוצאות</string>
     <string name="outbound_noti_title">‏שיתוף Bluetooth: נשלחו קבצים</string>
+    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">‏תם הזמן שהוקצב להסכמה לחיבור עם %1$s</string>
+    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">‏תם הזמן הקצוב להזנת קוד הפעלה עם %1$s</string>
     <string name="pbap_notification_group">‏שיתוף אנשי קשר באמצעות Bluetooth</string>
     <string name="pbap_session_key_dialog_header">‏דרוש קוד הפעלת Bluetooth</string>
@@ -100,6 +107,7 @@
     <string name="permlab_bluetoothShareManager">גישה למנהל ההורדות.</string>
     <string name="permlab_bluetoothWhitelist">‏הכנס מכשיר Bluetooth לרשימה הלבנה.</string>
     <string name="start_server">‏הפעל שרת TCP</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_canceled">ההעברה בוטלה על ידי המשתמש.</string>
     <string name="status_connection_error">החיבור נכשל.</string>
     <string name="status_file_error">בעיית אחסון.</string>

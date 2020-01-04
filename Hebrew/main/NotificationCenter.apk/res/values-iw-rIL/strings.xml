@@ -26,6 +26,7 @@
     <string name="notification_fold_title">תיקית התראות</string>
     <string name="notification_manager">התראות יישום</string>
     <string name="notification_style_android">אנדרואיד</string>
+    <string name="notification_style_miui">MIUI</string>
     <string name="off">כיבוי</string>
     <string name="on">מופעל</string>
     <string name="settings_guide_title">צריך הגדרות נוספות?</string>

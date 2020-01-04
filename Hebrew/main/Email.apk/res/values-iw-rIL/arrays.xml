@@ -51,6 +51,10 @@
         <item>הודעה ישנה יותר</item>
         <item>דואר נכנס</item>
     </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>הכל</item>
+        <item>רק שולחים</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>כתובת:</item>
         <item>טל:</item>

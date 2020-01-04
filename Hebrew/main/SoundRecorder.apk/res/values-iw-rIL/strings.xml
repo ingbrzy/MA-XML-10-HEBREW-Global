@@ -25,6 +25,7 @@
     <string name="data_connection_button_text">אישור</string>
     <string name="data_connection_title">אזהרת שימוש בנתונים</string>
     <string name="delete">מחיקה</string>
+    <string name="delete_cloud_data_at_same_time">למחוק גם מהענן</string>
     <string name="delete_dialog_message">למחוק הקלטה?</string>
     <string name="deleting_message">מוחק…</string>
     <string name="details">פרטים</string>
@@ -143,6 +144,8 @@
     <string name="preference_online_orders">הזמנות אונליין</string>
     <string name="preference_recog_faqs">שאלות נפוצות לגבי תמלול אונליין</string>
     <string name="preference_recog_terms">תנאי השירות</string>
+    <string name="preference_record_desktop_indicator_summary">מציג מחוון כחול על מסך הבית בזמן שאפליקציית ההקלטה (Recorder) עובדת ברקע</string>
+    <string name="preference_record_desktop_indicator_title">מחוון מסך הבית</string>
     <string name="preference_record_scenes_dialog_title">בחר סוג הקלטה</string>
     <string name="preference_scenes">סוג ההקלטה</string>
     <string name="preference_silent_mode">השתק צלצול בעת הקלטה</string>
@@ -193,12 +196,15 @@
     <string name="record_format_preference_title">פורמט הקלטה</string>
     <string name="record_list">הקלטות</string>
     <string name="record_list_call">שיחות מוקלטות</string>
+    <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">הקלטות שסונכרנו</string>
     <string name="record_list_cloud_call">שיחות מוקלטות שסונכרנו</string>
     <string name="record_list_cloud_fm">הקלטות רדיו FM שסונכרנו</string>
     <string name="record_list_fm">הקלטות FM</string>
     <string name="record_list_item_recognize_text">טקסט</string>
     <string name="record_mark_point">סמן את %s</string>
+    <string name="record_name_hour">.</string>
+    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">איכות הקלטה</string>
     <string name="record_resotre">משחזר רשומות</string>
     <string name="recording">מקליט</string>
@@ -263,6 +269,9 @@
     <string name="text_play_speed_1_0">מהירות השמעה רגילה</string>
     <string name="text_play_speed_1_5">מהירות השמעה 1.5X</string>
     <string name="text_play_speed_2_0">מהירות השמעה 2X</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s יכול להקליט למשך כ- %2$s</string>
     <string name="toast_uninstall_fileexplorer">"'מנהל הקבצים' אינו מותקן"</string>
     <string name="usage_description">תמלול קובצי שמע וסנכרון פריטים עם הענן</string>

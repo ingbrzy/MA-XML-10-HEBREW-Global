@@ -48,6 +48,30 @@
         <item quantity="two">%d שניות</item>
         <item quantity="many">%d שניות</item>
     </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s שעות</item>
+        <item quantity="one">שעה אחת (%1$s)</item>
+        <item quantity="two">שעתיים (%1$s)</item>
+        <item quantity="many">%1$s שעות</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s שעות</item>
+        <item quantity="one">שעה אחת (%1$s)</item>
+        <item quantity="two">%1$s שעות</item>
+        <item quantity="many">%1$s שעות</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s דקות</item>
+        <item quantity="one">דקה אחת (%1$s)</item>
+        <item quantity="two">%1$s דקות</item>
+        <item quantity="many">%1$s דקות</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s דקות</item>
+        <item quantity="one">דקה אחת (%1$s)</item>
+        <item quantity="two">%1$s דקות</item>
+        <item quantity="many">%1$s דקות</item>
+    </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">שנה את מרווח הצלצולים ל %d דקות</item>
         <item quantity="one">שנה את מרווח הצלצול ל %d דקה</item>

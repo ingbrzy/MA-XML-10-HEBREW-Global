@@ -11,5 +11,6 @@
     <string name="pop_up_allow_notify_dialog">אשר</string>
     <string name="pop_up_deny_notify_dialog">דחה</string>
     <string name="sync_notification_title_format">פריט סנכרון נוכחי: %1$s</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmsf_activate_info">מידע אודות הפעלת XMSF</string>
 </resources>

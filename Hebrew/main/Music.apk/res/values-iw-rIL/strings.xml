@@ -14,6 +14,7 @@
     <string name="September">ספטמבר</string>
     <string name="Updated_at">"עודכן: "</string>
     <string name="account_and_cloud">חשבון</string>
+    <string name="account_logout">יציאה</string>
     <string name="action_item_add">הוספה אל</string>
     <string name="action_item_add_song">הוסף לרשימת ההשמעה</string>
     <string name="action_item_add_to_current_playlist">העברה לתור</string>
@@ -33,6 +34,7 @@
     <string name="ad_close">סגור</string>
     <string name="ad_data_exception">שגיאת נתוני פרסומת</string>
     <string name="ad_recommend">קבלת המלצות</string>
+    <string name="ad_setting">Additional settings</string>
     <string name="add_music">הוסף שירים</string>
     <string name="add_to_last_of_playlist">הוסף לסוף רשימת ההשמעה</string>
     <string name="add_to_playlist_successful">נוסף בהצלחה</string>
@@ -40,6 +42,8 @@
     <string name="agreement_desc">חשבון משתמש (חובה)</string>
     <string name="alaka_required">עליך לשלם עבור שיר זה על מנת להאזין לו</string>
     <string name="alarm_clock_ringtones_successful">שעון מעורר הוגדר בהצלחה</string>
+    <string name="album_cover">עטיפת אלבום</string>
+    <string name="album_is_empty">שם האלבום לא יכול להיות ריק.</string>
     <string name="album_label">עטיפות אלבומים</string>
     <string name="album_name">אלבום</string>
     <string name="all_album_count">כל האלבומים (%d)</string>
@@ -79,6 +83,7 @@
     <string name="artist_is_empty">שם אמן לא יכול להיוותר ריק.</string>
     <string name="artist_name">אמן</string>
     <string name="audio_picker_title">בחר שיר</string>
+    <string name="auto_recommend">אוטומטי (מומלץ)</string>
     <string name="auto_update">עדכן אוטומטית</string>
     <string name="auto_update_tip">ניתן לעדכן את אפליקציות המערכת באמצעות גלישה סלולרית. זה עלול לגרום לחיובים נוספים עבור גלישה.</string>
     <string name="available_playlist_name_format">רשימת השמעה חדשה %d</string>
@@ -101,8 +106,10 @@
     <string name="choose_download_quality">בחירת איכות הורדה</string>
     <string name="choose_music_lang_pref">שפה מועדפת עבור שירים</string>
     <string name="choose_stream_quality">בחר איכות הזרמה</string>
+    <string name="click_to_add_album_cover_and_lyric">הקש כדי להוסיף עטיפת אלבום ומילים</string>
     <string name="click_to_shuffle">לחץ לעירבוב</string>
     <string name="close_music_time">"זמן שנותר: "</string>
+    <string name="comment_format" formatted="false">%s: %s</string>
     <string name="confirm">אישור</string>
     <string name="confirm_exit">לשמור את השינויים?</string>
     <string name="connect_now">התחבר</string>
@@ -117,7 +124,7 @@
     <string name="data_usage_warning">שימוש בנתונים</string>
     <string name="data_usage_warning_summary">שימוש בחיבור הנתונים הסלולרי שלך להזרמת מוסיקה באיכות גבוהה עשוי להגדיל את החיובים בגין צריכת הנתונים שלך.</string>
     <string name="data_use_desc">מסמכים משפטיים</string>
-    <string name="date_format_str">dd-MM-yyyy</string>
+    <string name="date_format_str">dd.MM.yyyy</string>
     <string name="delete">מחיקה</string>
     <string name="delete_download">מחק</string>
     <string name="delete_file_as_well">מחק שיר זה לצמיתות</string>
@@ -213,13 +220,16 @@
     <string name="download_method">הורדה</string>
     <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
     <string name="download_paused_in_power_save_mode">"ההורדות מופסקות בעת שימוש במצב 'חסכון בסוללה'"</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">מוריד…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">איכות הורדה</string>
     <string name="download_quality_summary">הגדרות נוספות עבור הורדות שירים</string>
     <string name="download_queued">בתור</string>
     <string name="download_running">בתהליך</string>
     <string name="download_running_percent">בתהליך, %d%%</string>
     <string name="download_share_dialog">שתף באמצעות</string>
+    <string name="download_song_quality_title">איכות השירים שהורדת</string>
     <string name="download_start">מתחיל הורדה…</string>
     <string name="download_start_apk">"מתחיל להוריד… צפה בהתקדמות ב'לוח ההתראות'."</string>
     <string name="download_start_btn">הורדה</string>
@@ -297,8 +307,11 @@
     <string name="filter_by_folder">לפי תיקיה</string>
     <string name="filter_by_folder_summary">בחר תיקיות להצגה</string>
     <string name="filter_by_size">לפי גודל</string>
+    <string name="filter_by_size_max">%dMB</string>
+    <string name="filter_by_size_min">%dKB</string>
     <string name="filter_by_size_prefix">"הסתר קבצים הקטנים מ- "</string>
     <string name="filter_by_size_summary">הסתר קבצי שמע קטנים</string>
+    <string name="filter_size_unit">%dKB</string>
     <string name="floating_view_dialog_desc">המוסיקה תפסיק להתנגן אם תעזוב דף זה. האם לעזוב בכל מקרה?</string>
     <string name="floating_view_dialog_leave">יציאה</string>
     <string name="floating_view_dialog_stay">הישאר</string>
@@ -308,6 +321,8 @@
     <string name="format_not_support">פורמט זה אינו נתמך.</string>
     <string name="format_unsupported_or_corrupted">פורמט זה אינו נתמך או שהקובץ פגום</string>
     <string name="fragment_title_artist_album">אלבומים</string>
+    <string name="get_more_favorite_content_after_login">היכנס כדי לגלות שירים וסרטונים נוספים.</string>
+    <string name="google_account_login">היכנס באמצעות גוגל</string>
     <string name="goto_local_search">חפש במכשירך</string>
     <string name="goto_online_search">חפש באינטרנט</string>
     <string name="handle_later">לא כעת</string>
@@ -317,6 +332,7 @@
     <string name="headset_and_audio_effect_title">אוזניות ואפקטים קוליים</string>
     <string name="hide_album">הסתרת עטיפת האלבום</string>
     <string name="hide_lyric">הסתרת מילות השיר</string>
+    <string name="high_sound_quality">גבוה</string>
     <string name="higher_quality_music">שמע באיכות גבוהה</string>
     <string name="higher_quality_music_summary">הזרם והורד קבצים בעלי קצב גבוה יותר</string>
     <string name="home_tab_home">בית</string>
@@ -377,7 +393,10 @@
     <string name="local_page_artist_more">שירים נוספים מאת %s</string>
     <string name="local_page_playlist">רשימות השמעה</string>
     <string name="local_page_song_download_history">הורדות</string>
+    <string name="login_instantly">היכנס</string>
+    <string name="login_mi_account_and_gain_more_rights">היכנס באמצעות חשבון Mi שלך כדי לגשת לתכונות נוספות.</string>
     <string name="long_press_to_select_lyric">לחץ והחזק על מנת לבחור קובץ מלל מקומי</string>
+    <string name="low_sound_quality">נמוך</string>
     <string name="lrc_search_failed">לא ניתן היה למצוא את מילות השיר</string>
     <string name="lrc_searching">מחפש…</string>
     <string name="lyric_is_empty">אין מילות שיר זמינות</string>
@@ -393,6 +412,8 @@
     <string name="metered_allow">נגן</string>
     <string name="metered_beyond_alert">אירעה חריגה מתקרת השימוש בנתונים</string>
     <string name="metered_disallow">לא כעת</string>
+    <string name="metered_play_and_download_summary">"Don't show data usage warnings while streaming and downloading songs using mobile data."</string>
+    <string name="metered_play_and_download_title">Stream and download songs using mobile data</string>
     <string name="metered_play_toast">נעשה שימוש בנתונים סלולריים לנגינת שירים</string>
     <string name="metered_play_toast_with_beyond_data">נעשה שימוש בנתונים סלולריים לנגינת שירים. חרגת מהמגבלה ב- %s</string>
     <string name="metered_play_toast_with_data">נעשה שימוש בנתונים סלולריים לנגינת שירים, %s נותרו</string>
@@ -400,6 +421,7 @@
     <string name="metered_serious_alert_msg_with_beyond_data">כבר חרגת ממגבלת השימוש שלך בנתונים סלולריים ב- %s. להשתמש בנתונים סלולריים לנגינת שירים?</string>
     <string name="metered_serious_alert_msg_with_data">נותרו לך רק %s של נתונים סלולריים. להשתמש בנתונים סלולריים לנגינת שירים?</string>
     <string name="metered_serious_allow">נגן בכל זאת</string>
+    <string name="middle_sound_quality">רגיל</string>
     <string name="milink_unavaliable_please_update">Mi Link אינו זמין. עדכן את MIUI.</string>
     <string name="missing_title">&lt;לא מוכר></string>
     <string name="miuishare_account_login_ok">היכנס</string>
@@ -425,6 +447,7 @@
     <string name="mulit_choice_management">נהל מספר פריטים</string>
     <string name="music_browser_label">מוסיקה</string>
     <string name="music_filter">סנן קבצי שמע</string>
+    <string name="music_recommendation">המלצות שירים</string>
     <string name="music_service">שירות מוסיקה</string>
     <string name="music_settings">מוסיקה</string>
     <string name="mv_metered_play_summary">אל תציג אזהרת שימוש בנתונים</string>
@@ -441,6 +464,7 @@
     <string name="network_settings_error">לא ניתן להתחבר לרשת</string>
     <string name="network_traffic">נתונים בשימוש</string>
     <string name="next_time">לא כעת</string>
+    <string name="next_to_play">הבא</string>
     <string name="no_album_info">אין פרטים אודות האלבום</string>
     <string name="no_artist_info">אין פרטים אודות האמן</string>
     <string name="no_downloads">אין הורדות</string>
@@ -449,6 +473,7 @@
     <string name="no_local_songs">ריק</string>
     <string name="no_local_songs_selected">לא ניתן לשלוח שירים שלא הורדו</string>
     <string name="no_local_source_find">לא ניתן היה למצוא את השיר</string>
+    <string name="no_longer_prompt">אל תציג שוב</string>
     <string name="no_results_return">אין תוצאות חיפוש</string>
     <string name="no_scanned_songs">ריק</string>
     <string name="no_song_downloaded">לא ניתן היה למצוא שירים להורדה</string>
@@ -504,8 +529,10 @@
     <string name="online_service_open_tip">שירותי המוסיקה המקוונים מופעלים</string>
     <string name="online_service_title">שירותים מקוונים</string>
     <string name="online_switch">שירותי תוכן מקוון</string>
+    <string name="online_switch_confirm_title">כיבוי שירותי תוכן מקוון יהפוך את כל התכונות המקוונות לבלתי זמינות. לכבות בכל זאת?</string>
     <string name="online_switch_message">כיבוי של השירותים המקוונים ישפיע על שירותי והמלצות ה-VIP. לכבות בכל זאת?</string>
     <string name="online_switch_setting">הגדרות תוכן מקוון</string>
+    <string name="only_pro_can_choose_hd_sound_quality">שמע ב-HD זמין רק לבעלי מינוי PRO</string>
     <string name="open_online_service">עליך להפעיל את השירותים המקוונים על מנת שתוכל להשתמש בתכונה זו. להפעיל כעת?</string>
     <string name="open_service">הפעלה</string>
     <string name="operation_done_close">סגירה</string>
@@ -532,6 +559,7 @@
     <string name="pick_recent_song">נוגן לאחרונה</string>
     <string name="play_all_song">נגן הכל</string>
     <string name="play_empty_playlist">לא ניתן לנגן שירים. רשימת ההשמעה ריקה.</string>
+    <string name="play_history">היסטוריית ניגון מדיה</string>
     <string name="play_mode_all_loop">חזרה על הכל</string>
     <string name="play_mode_one_loop">לופ</string>
     <string name="play_mode_play_all">נגן הכל</string>
@@ -546,6 +574,7 @@
     <string name="playlist_type_album">אלבומים</string>
     <string name="playlist_type_artist">אמן</string>
     <string name="playlist_type_billboard">מצעדים</string>
+    <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_my">רשימות ההשמעה שלי</string>
     <string name="playlist_type_recommend">רשימות השמעה נבחרות</string>
     <string name="please_download_first">עליך להוריד שיר זה לפני שתוכל להשתמש בו כצלצול</string>
@@ -556,6 +585,7 @@
     <string name="priority_storage_summary">הורד באופן אוטומטי אל כרטיס הזכרון החיצוני במידה וזמין</string>
     <string name="privacy_desc">מדיניות פרטיות</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=iw_IL</string>
     <string name="pro_member">מנוי PRO</string>
     <string name="project_device">טלפון Mi</string>
     <string name="prompt_grant_write_settings_permission">אפשר שינוי של הגדרות המערכת</string>
@@ -566,6 +596,7 @@
     <string name="ready_to_play">הבא</string>
     <string name="recently_played">נוגן לאחרונה</string>
     <string name="recently_played_songs">אחרונים</string>
+    <string name="recommend_songs_when_playing_audio_files">קבל המלצות על שירים בזמן האזנה למוזיקה</string>
     <string name="recommended_file_size_download_in_mobile">להשתמש ב- %s של נתונים סלולריים על מנת להוריד קובץ זה?</string>
     <string name="recommended_no_file_size_download_in_mobile">להשתמש בחיבור הנתונים הסלולריים על מנת להוריד קובץ זה?</string>
     <string name="remove">הסרה</string>
@@ -587,6 +618,7 @@
     <string name="ringtones_successful">הרינגטון הוגדר בהצלחה</string>
     <string name="root_downloads">הורדות</string>
     <string name="save_changes">שמירת שינויים</string>
+    <string name="save_image">שמור תמונה</string>
     <string name="search_album_and_lyric">חיפוש עטיפות אלבומים ומילות שירים</string>
     <string name="search_empty">לא ניתן היה להשיג תוצאות</string>
     <string name="search_empty_subtitle_online_music">הקש על הכפתור מעלה על מנת לפתוח %s.</string>
@@ -611,7 +643,9 @@
     <string name="select_desc_sub">ניתן לבחור עד 3 שפות</string>
     <string name="select_device">בחר מכשיר</string>
     <string name="select_displayed_folders">בחר תיקיות להצגה</string>
+    <string name="select_local_album_cover">בחר תמונה</string>
     <string name="select_local_cover">בחירת עטיפה מקומית</string>
+    <string name="select_local_lyric">בחר קובץ</string>
     <string name="select_local_lyric_file">בחירת קובץ מלל מקומי</string>
     <string name="select_none">הסר בחירה מהכל</string>
     <string name="select_one_language">בחר שפה אחת לפחות</string>
@@ -661,6 +695,7 @@
     <string name="song_not_find">שיר זה אינו זמין.</string>
     <string name="song_offline">שיר זה אינו זמין עוד.</string>
     <string name="song_picker_complete">סיים</string>
+    <string name="song_quality_category">מוזיקה</string>
     <string name="songgroup_pick_album">אלבומים</string>
     <string name="songgroup_pick_playlist">רשימות השמעה</string>
     <string name="sort_by_name">שם</string>
@@ -673,11 +708,13 @@
     <string name="storage_sd_card">כרטיס זכרון</string>
     <string name="storage_usb">אחסון USB</string>
     <string name="streamloadingtext">מתחבר ל- %s</string>
+    <string name="switch_success">ההחלפה בוצעה בהצלחה</string>
     <string name="tab_album">אלבומים</string>
     <string name="tab_album_list">אלבומים</string>
     <string name="tab_artist">אמנים</string>
     <string name="tab_artist_list">אמנים</string>
     <string name="tab_chart">מצעדים</string>
+    <string name="tab_flow">צפה</string>
     <string name="tab_folder">תיקיות</string>
     <string name="tab_playlist">רשימות השמעה</string>
     <string name="tab_top_results">תוצאות מובילות</string>
@@ -730,6 +767,7 @@
     <string name="toast_uhd_songs_for_stream">נקבעה איכות הזרמה גבוהה</string>
     <string name="today">היום</string>
     <string name="top_chart_title">טבלאות</string>
+    <string name="track_play_history_after_login">היכנס כדי לצפות בהיסטוריית ניגון מדיה</string>
     <string name="ultra_high_quality">הגבוה ביותר</string>
     <string name="unknown_album_name">אלבום לא ידוע</string>
     <string name="unknown_artist_name">אמן לא ידוע</string>
@@ -740,6 +778,7 @@
     <string name="upgrade_music_message">העדכונים מוכנים. הפעל מחדש לעדכון.</string>
     <string name="upgrading_in_backstage">מעדכן ברקע</string>
     <string name="user_agreement">הסכם המשתמש</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=iw_IL</string>
     <string name="version_info">גרסה</string>
     <string name="video_play_cellular">מכשירך אינו מחובר ל-Wi-Fi. להשתמש בנתונים סלולריים?</string>
     <string name="video_replay_btn">נגן שוב</string>

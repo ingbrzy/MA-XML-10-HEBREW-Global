@@ -15,10 +15,13 @@
     <string name="anonymous">אנונימי</string>
     <string name="anonymous_type">נייד (לא מאובטח)</string>
     <string name="app_name">מנהל הקבצים</string>
+    <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">מצלמה</string>
     <string name="app_name_downloadedrom">חבילות</string>
     <string name="app_name_downloads">הורדות</string>
     <string name="app_name_market">חנות יישומים</string>
+    <string name="app_name_midrop">Mi Drop</string>
+    <string name="app_name_miui">MIUI</string>
     <string name="app_name_miuimusic">מוסיקה</string>
     <string name="app_name_miuiringtone">צלצול</string>
     <string name="app_name_miuiwallpaper">טפטים</string>
@@ -29,6 +32,7 @@
     <string name="auto_save_extend">הרחב</string>
     <string name="auto_upgrade">עדכן אוטומטית</string>
     <string name="big5_summary">קידוד ברירת מחדל של Windows עבור סינית מסורתית</string>
+    <string name="byteShort">B</string>
     <string name="can_not_send_with_too_many">לא ניתן לשלוח מספר כה רב של פריטים בבת אחת</string>
     <string name="cancel">ביטול</string>
     <string name="cancel_auto_save">לא תודה</string>
@@ -41,6 +45,7 @@
     <string name="category_album">אלבומים</string>
     <string name="category_all">הכל</string>
     <string name="category_apk">יישומים</string>
+    <string name="category_bluetooth">Bluetooth</string>
     <string name="category_document">מסמכים</string>
     <string name="category_download">הורדות</string>
     <string name="category_favorite">מועדפים</string>
@@ -111,6 +116,7 @@
     <string name="dialog_type_image">תמונות</string>
     <string name="dialog_type_text">מסמכים</string>
     <string name="dialog_type_video">סרטונים</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="display_name">הצג שם</string>
     <string name="domain">דומיין</string>
     <string name="download_success">ירד בהצלחה</string>
@@ -146,6 +152,7 @@
     <string name="favorite_ringtone">צלצולים</string>
     <string name="favorite_screen_cap">צילומי מסך</string>
     <string name="feedback_send_email_body_extra_info">אל תמחק את המידע שלהלן. זה יעזור לנו לאתר את הבעיה.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">ניתן לקריאה:</string>
     <string name="file_info_canwrite">ניתן לכתיבה:</string>
     <string name="file_info_ishidden">מוסתר:</string>
@@ -169,6 +176,7 @@
     <string name="ftp_username_and_passworld">היכנס</string>
     <string name="ftp_username_hint">שם משתמש</string>
     <string name="gbk_summary">קידוד ברירת מחדל של Windows עבור סינית מפושטת</string>
+    <string name="gigabyteShort">GB</string>
     <string name="homepage_tab_recent">לאחרונה</string>
     <string name="host">מארח</string>
     <string name="hot_sticker">מדבקות</string>
@@ -184,15 +192,18 @@
     <string name="info_system_version">גרסת מערכת:</string>
     <string name="invalid_name_or_password">שם משתמש או סיסמה לא חוקיים</string>
     <string name="just_now">ממש עכשיו</string>
+    <string name="kilobyteShort">KB</string>
     <string name="load_more">הצג עוד</string>
     <string name="loading">רק רגע…</string>
     <string name="local_image">תמונות</string>
     <string name="local_music">קבצי שמע</string>
+    <string name="local_network">LAN</string>
     <string name="local_video">קבצי וידאו</string>
     <string name="make_private">הסתר</string>
     <string name="make_private_msg_1">להסתיר קובץ זה?</string>
     <string name="make_private_msg_2">להסתיר קבצים אלו?</string>
     <string name="make_private_msg_3">כל הקבצים בתיקיה זו יהיו מוסתרים.</string>
+    <string name="megabyteShort">MB</string>
     <string name="menu_item_deep_clean">ניקוי יסודי</string>
     <string name="menu_item_ftp">התחבר למחשב</string>
     <string name="menu_item_midrop">העברת קבצים</string>
@@ -202,6 +213,7 @@
     <string name="menu_item_sort_date">תאריך שינוי</string>
     <string name="menu_item_sort_name">שם</string>
     <string name="menu_item_sort_type">סוג</string>
+    <string name="menu_item_usb">USB</string>
     <string name="mi_router_label">נתב</string>
     <string name="mode">מצב</string>
     <string name="month_day_format">dd MMM</string>
@@ -285,6 +297,7 @@
     <string name="permission_required">"לא ניתן היה לגשת לקבצים. אפשר ל'מנהל הקבצים' לגשת לקבצים ב'הגדרות'."</string>
     <string name="permission_storage">אחסון</string>
     <string name="permission_storage_desc">גישה, יצירת קבצים, גישה לאחסון ושמירת קבצים</string>
+    <string name="petabyteShort">PB</string>
     <string name="phone">אחסון פנימי</string>
     <string name="phone_storage">אחסון</string>
     <string name="phone_storage_apk_title">יישומים:</string>
@@ -372,6 +385,7 @@
     <string name="settings_about">אודות</string>
     <string name="settings_feedback">משוב</string>
     <string name="settings_score">"דירוג 'מנהל הקבצים'"</string>
+    <string name="share_facebook">Facebook</string>
     <string name="share_file_manger">"שיתוף 'מנהל הקבצים'"</string>
     <string name="share_via_qr_code">שיתוף באמצעות קוד QR</string>
     <string name="skip_file">דלג</string>
@@ -393,8 +407,11 @@
     <string name="str_clean">ניקוי</string>
     <string name="tab_common_app">יישומים &amp; תיקיות</string>
     <string name="tab_more">עוד</string>
+    <string name="terabyteShort">TB</string>
     <string name="terms_conditions">תנאים והתניות</string>
     <string name="terms_conditions_desc">קרא בעיון את ההסכם שלפניך סמן ובחר במידה ואתה מסכים לתנאים וההתניות שלהלן.</string>
+    <string name="time_am">AM</string>
+    <string name="time_pm">PM</string>
     <string name="time_to_upgrade">קיים עדכון זמין</string>
     <string name="tip">שים לב</string>
     <string name="title_app_tags">יישומים</string>

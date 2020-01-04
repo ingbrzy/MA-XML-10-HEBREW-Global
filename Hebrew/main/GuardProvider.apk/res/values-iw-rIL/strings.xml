@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AVL">AVL</string>
+    <string name="Avast">Avast</string>
+    <string name="DesAVL">AVL</string>
+    <string name="DesAvast">Avast</string>
+    <string name="DesMi">Mi</string>
+    <string name="DesTencent">Tencent</string>
+    <string name="Mi">Mi</string>
+    <string name="Tencent">Tencent</string>
     <string name="app_name">רכיבי אבטחה של MIUI</string>
+    <string name="avast_dialog_cloudscan" />
+    <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_header">תכונה זו מצפינה ומעלה את מזהה המכשיר שלך לשרתי Avast (%s).</string>
     <string name="avast_dialog_policy">מדיניות פרטיות</string>
     <string name="avast_dialog_title">מדיניות הפרטיות של Avast</string>
+    <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
     <string name="avast_virus_type_adware_description">וירוס זה הינו תוכנת פרסום המציגה פרסומות באופן אוטומטי.</string>
     <string name="avast_virus_type_cryportor_description">וירוס זה הינו יישום כופר (cryptor). זוהי תוכנה זדונית המועברת על ידי שכפול עצמי בתוך שטח האחסון.</string>
     <string name="avast_virus_type_dropper_description">"וירוס זה הינו 'דרופר' (dropper). הוא מכיל קוד אשר מתקין וירוסים זדוניים אחרים."</string>
@@ -18,9 +29,12 @@
     <string name="avast_virus_type_trjan_description">וירוס זה הינו סוס טרויאני. זוהי תוכנה זדונית שתוכננה לאפשר גישה מרחוק, שאינה מורשית למכשיר המשתמש. בדרך כלל אין לסוסים טרויאנים את היכולת לשכפל את עצמם כמו וירוסים. עם זאת, הם יכולים להוביל להתקנת תוכנות זדוניות אחרות על המכשיר, לגניבת נתונים, או פעולות זדוניות אחרות.</string>
     <string name="avast_virus_type_unknown_description">סוג זיהום שאינו מוכר.</string>
     <string name="avast_virus_type_worm_description">וירוס זה הינו וירוס תולעת. זוהי תוכנה זדונית עצמאית המשכפלת עצמה על מנת להיות מופצת למכשירים אחרים. היא מנצלת תכונות העברה של קבצים או מידע (כגון רשת) במערכת שלך, היא מסוגלת לנוע ללא כל פעולה אנושית. תולעים בדרך כלל גורמות לפחות לנזק מסויים ברשת.</string>
+    <string name="avl_dialog_cloudscan" />
+    <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_header">תכונה זו מצפינה ומעלה את מזהה המכשיר שלך לשרתי AVL (%s).</string>
     <string name="avl_dialog_policy">מדיניות פרטיות</string>
     <string name="avl_dialog_title">מדיניות הפרטיות של AVL</string>
+    <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="hello_world">שלום עולם!</string>
     <string name="menu_settings">הגדרות</string>
     <string name="tencent_dialog_cloudscan">סורק ומעלה את שמות ופרטי היישומים המשתמשים בהגנה מפני וירוסים online.</string>
@@ -28,4 +42,6 @@
     <string name="tencent_dialog_header">תכונה זו מצפינה ומעלה את מזהה המכשיר שלך לשרתי Tencent (%s).</string>
     <string name="tencent_dialog_policy">מדיניות פרטיות</string>
     <string name="tencent_dialog_title">מדיניות הפרטיות של Tencent’</string>
+    <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
