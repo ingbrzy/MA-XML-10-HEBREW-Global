@@ -100,7 +100,6 @@
     <string name="aqi_quality_index_light_pollution">זהירות</string>
     <string name="aqi_quality_index_moderate">מתון</string>
     <string name="aqi_quality_index_unhealthy">לא בריא</string>
-    <string name="auto_add_app_shortcut">新安装应用添加到桌面</string>
     <string name="auto_delete_category_dialog_content">האפליקציות הקיימות יוסרו מהקטגוריה הזו, והקטגוריה תימחק. למחוק את הקטגוריה עכשיו?</string>
     <string name="auto_delete_category_dialog_title">מתבצעת מחיקת הקטגוריה</string>
     <string name="backup_fail">"לא ניתן לגבות את הלאונצ'ר"</string>

@@ -370,6 +370,7 @@ ID:%s
     <string name="notice_title">הודעות</string>
     <string name="notify_apk_installed">ההורדה הושלמה בהצלחה</string>
     <string name="ok">אישור</string>
+    <string name="order_alphabet">"א'-ת'"</string>
     <string name="order_recently_subscribe">מינויים חדשים</string>
     <string name="order_recently_updated">עודכנו לאחרונה</string>
     <string name="ovp_alert_dialog_download_install_task">מוריד את הרחבת ה-HD…</string>
