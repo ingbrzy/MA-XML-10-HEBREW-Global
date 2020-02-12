@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">זהירות</string>
     <string name="VideoView_error_text_invalid_progressive_playback">סרטון זה אינו חוקי להעברה כמדיה זורמת למכשיר זה.</string>
     <string name="selectTextMode">בחר טקסט</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">סמל טביעת אצבע</string>
     <string name="paste_as_plain_text">הדבק כטקסט פשוט</string>
     <string name="autofill">מילוי אוטומטי</string>
@@ -462,7 +461,6 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">קוד תכונה הושלם.</string>
     <string name="fcError">בעיה בחיבור או קוד תכונה לא תקין.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">מצא</string>
     <string name="find_next">חפש את הבא</string>
     <string name="find_on_page">חפש בדף</string>
@@ -664,7 +662,6 @@
     <string name="kg_reordering_delete_drop_target_text">הסר</string>
     <string name="kg_sim_pin_instructions">‏הזן קוד גישה ל-SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">‏מבטל נעילה של כרטיס SIM…</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"הקלדת סיסמה שגויה %1$d פעמים.
 
 נסה שוב בעוד %2$d שניות."</string>
@@ -970,7 +967,6 @@
     <string name="notification_channel_wfc">‏שיחות Wi-Fi</string>
     <string name="notification_hidden_text">התראה חדשה</string>
     <string name="notification_listener_binding_label">מאזין להתראות</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">שירות של דירוג התראות</string>
     <string name="notification_reply_button_accessibility">השב</string>
     <string name="notification_title">שגיאת כניסה עבור %1$s</string>
@@ -1748,7 +1744,6 @@
     <string name="zen_mode_feature_name">נא לא להפריע</string>
     <string name="zen_mode_forever">עד הכיבוי</string>
     <string name="zen_mode_forever_dnd">"עד שתכבה את 'נא לא להפריע'"</string>
-    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">עד %1$s</string>
     <string name="zen_upgrade_notification_content">יש להקיש כדי לבדוק מה חסום.</string>
     <string name="zen_upgrade_notification_title">"ההגדרה 'נא לא להפריע' השתנתה"</string>
