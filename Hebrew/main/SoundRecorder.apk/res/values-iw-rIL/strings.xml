@@ -152,6 +152,10 @@
     <string name="preference_status_bar_indicator_prompt">הצג את קיצור הדרך עבור שורת המצב כאשר אתה מקליט</string>
     <string name="preference_tip_rename">שנה את שמות ההקלטות באופן ידני</string>
     <string name="privacy_policy_title">מדיניות הפרטיות</string>
+    <string name="recognition_button_add_to_queue">הוסף לתור</string>
+    <string name="recognition_button_cancel">לא עכשיו</string>
+    <string name="recognition_button_start">תמלל</string>
+    <string name="recognition_confirm_dialog_body">התמלול עשוי לקחת זמן מה. תקבל התראה כשהמטלה תושלם. לתמלל עכשיו?</string>
     <string name="recognition_error_cancel">בוטל</string>
     <string name="recognition_error_code">קוד שגיאה:%d</string>
     <string name="recognition_error_download_cancel">מאוחר יותר</string>
@@ -167,6 +171,11 @@
     <string name="recognition_error_internal">שגיאה פנימית</string>
     <string name="recognition_error_stopped">התמלול הופסק</string>
     <string name="recognition_error_unknown">שגיאה לא ידועה. דווח לנו ונסה שוב.</string>
+    <string name="recognition_interrupt_current_dialog_body">התמלול עשוי לקחת זמן מה. תקבל התראה כשהמטלה תושלם. לתמלל עכשיו? \"%s\" מתומלל עכשיו. להוסיף את המטלה הזו לתור התמלול?</string>
+    <string name="recognition_notification_channel">תמלול</string>
+    <string name="recognition_notification_complete_success">\"%s\" תומלל בהצלחה. יש להקיש כדי לצפות.</string>
+    <string name="recognition_notification_error">לא ניתן היה לתמלל את \"%s\"</string>
+    <string name="recognition_notification_running">מתמלל את \"%s\"…</string>
     <string name="recognition_process_dialog_body">הקלטות אחרות (%s) תומללו בזה הרגע. האם להפסיק את כל המשימות הפועלות והתחיל מחדש?</string>
     <string name="recognition_process_dialog_cancel">תור</string>
     <string name="recognition_process_dialog_confirm">כפה התחלה</string>
@@ -174,6 +183,7 @@
     <string name="recognition_status_downloaded">מנוע תמלול הורד בהצלחה</string>
     <string name="recognition_status_downloading">"מוריד "</string>
     <string name="recognition_status_init">"מכין "</string>
+    <string name="recognition_stop_current">הפסק פעולה נוכחית</string>
     <string name="recognize_choose_dialog_offline">תמלל בחינם</string>
     <string name="recognize_choose_dialog_offline_desp">תמלל מבלי להתחבר לאינטרנט</string>
     <string name="recognize_choose_dialog_online">לתמלל בענן</string>

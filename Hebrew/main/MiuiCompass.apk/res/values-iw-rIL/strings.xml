@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="allow">אפשר</string>
-    <string name="altitude">%.1f</string>
-    <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">גובה</string>
     <string name="altitude_uncalibrate_cancel">ביטול</string>
     <string name="altitude_uncalibrate_msg">לא ניתן לבצע כיול של מד הגובה ללא GPS או חיבור נתונים סלולרי.</string>
     <string name="altitude_uncalibrate_refresh">נסה שוב</string>
     <string name="altitude_uncalibrate_tip">נתונים לא מכוילים</string>
     <string name="altitude_unit">מ</string>
-    <string name="angle">%.0f</string>
     <string name="app_description_content">המצפן משמש לניווט והתמצאות ומציג עבורך את כיווני השמיים. ודא כי באפשרותך להסתדר ללא תכונות אלה לפני הסרת היישום.</string>
     <string name="app_description_title">אודות המצפן</string>
     <string name="app_label">מצפן</string>
@@ -21,7 +18,6 @@
     <string name="calibrate_tip">הטה את מכשירך וגלגל את הכדור מסביב למעגל</string>
     <string name="calibrate_title">כיול המצפן</string>
     <string name="cancel">ביטול</string>
-    <string name="cannot_get_location">--</string>
     <string name="compass_settings">הגדרות</string>
     <string name="cta_v2_app_purpose">מציג את הכיוונים, הקואורדינטות, הלחץ האטמוספרי ואת הגובה הנוכחי</string>
     <string name="dialog_body_no_network">התחבר לרשת אלחוטית או הפעל נתונים ניידים.</string>
@@ -60,9 +56,7 @@
     <string name="permission_location_desc">תצוגת הקואורדינטות והלחץ האטמוספרי</string>
     <string name="preference_other">אחר</string>
     <string name="preference_privacy_title">מדיניות הפרטיות</string>
-    <string name="pressure">%.1f</string>
     <string name="pressure_title">לחץ</string>
-    <string name="pressure_unit">hPa</string>
     <string name="shake_enter_tip">נער לכיול</string>
     <string name="unit_degree">מעלות</string>
     <string name="using_camera_confirm_cancel">יציאה</string>

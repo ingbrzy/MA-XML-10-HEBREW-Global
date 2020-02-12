@@ -7,7 +7,7 @@
     <string name="accessibility_shutter_button">צילום</string>
     <string name="action_search">חיפוש</string>
     <string name="address">כתובת:</string>
-    <string name="agree_app_use">סריקת קודי QR וזיהויים בתמונות אחרות</string>
+    <string name="agree_app_use">סורק קודי QR ותמונות אחרות (תכונות מסוימות עשויות להצריך קבלת גישה למיקום שלך)</string>
     <string name="agree_btn">מסכים</string>
     <string name="agree_camera_permission">לצילום תמונות והקלטת סרטונים</string>
     <string name="agree_storage_permission">לקבלת גישה לתמונות ולקבצים המאוחסנים במכשירך</string>
@@ -20,7 +20,6 @@
     <string name="back">חזרה</string>
     <string name="barcode_into_rectangle">מקם את הקוד בתוך המסגרת</string>
     <string name="birthday">יום הולדת:</string>
-    <string name="blog">Weibo</string>
     <string name="business_card">כרטיס ביקור</string>
     <string name="business_card_result_title">כרטיס ביקור</string>
     <string name="business_card_title">מקם את כרטיס הביקר בתוך המסגרת</string>
@@ -30,6 +29,8 @@
     <string name="business_no_result">לא ניתן היה לזהות את כרטיס הביקור. נסה שוב.</string>
     <string name="calender">לוח שנה</string>
     <string name="call_anyone">התקשר</string>
+    <string name="calories_logo_text">תמיכה ב-AI ניתנת על-ידי Health Hope</string>
+    <string name="calories_request_interface_text">תמיכה ב-AI</string>
     <string name="camera_error_title">שגיאת מצלמה</string>
     <string name="cancel">ביטול</string>
     <string name="carsHome_title">מכונית</string>
@@ -66,7 +67,6 @@
     <string name="document_crop_title">חתוך את המסמך</string>
     <string name="document_grayscale">גווני אפור</string>
     <string name="document_grayscale_tip_msg">"ממיר ל'גווני אפור'…"</string>
-    <string name="document_ocr">OCR</string>
     <string name="document_ocr_result_copy">העתק טקסט</string>
     <string name="document_ocr_result_save">"שמור ב'פתקים'"</string>
     <string name="document_ocr_result_title">תמונת מסמך</string>
@@ -120,7 +120,6 @@
     <string name="impunity_declaration_negative_text">יציאה</string>
     <string name="impunity_declaration_title">מדיניות הפרטיות</string>
     <string name="jd_shopping_title">חפש ב JD</string>
-    <string name="jingdong">JD</string>
     <string name="kuaidi100_data">מופעל על ידי Kuaidi 100</string>
     <string name="label_choose_picture">בחירת תמונה</string>
     <string name="label_flash_light">פנס</string>
@@ -200,7 +199,6 @@
     <string name="setting_preference_pay">שיטת תשלום מועדפת</string>
     <string name="setting_title">הגדרות</string>
     <string name="setting_use_last_choose">זכור בחירה קודמת</string>
-    <string name="setting_wechat">WeChat</string>
     <string name="shopping_searching">מחפש…</string>
     <string name="shopping_title">צלם תמונה של המוצר</string>
     <string name="shopping_vendor_info">מופעל על ידי Taobao</string>
@@ -219,7 +217,6 @@
     <string name="study_vendor_info">מופעל על ידי Zuoyebang</string>
     <string name="suggested_submission_success">המשוב שלך נשלח בהצלחה</string>
     <string name="switch_open">הפעלה</string>
-    <string name="taobao">Taobao</string>
     <string name="tel">טלפון</string>
     <string name="title">כותרת:</string>
     <string name="to_install_title">קוד QR זה מעביר לאפליקציה שהוסרה. להוריד את האפליקציה הזו עכשיו?</string>
@@ -271,7 +268,6 @@
     <string name="wifi_psd_toolong">הסיסמה ארוכה מדיי. הזן את הסיסמה באופן ידני.</string>
     <string name="wifi_pwd">סיסמה:</string>
     <string name="wifi_security">אבטחה:</string>
-    <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (בקשתך תישלח לבדיקה בקרוב.)"</string>
     <string name="wx_not_installed_toast">תכונה זו צריכה להשתמש ב WeChat. התקן את WeChat תחילה.</string>
     <string name="xiaoai_dialog">"נסה להגיד ל-Mi AI מה

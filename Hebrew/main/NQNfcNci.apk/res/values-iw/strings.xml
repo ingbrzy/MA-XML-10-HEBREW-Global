@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_nfc_enabled">‏NFC מופעל.</string>
-    <string name="android_beam">Android Beam</string>
     <string name="app_name">‏שירות Nfc</string>
     <string name="ask_nfc_tap">הקש על מכשיר אחר להשלמה</string>
     <string name="beam_busy">‏Beam אינו פנוי כעת. נסה שוב לאחר השלמת ההעברה הקודמת.</string>
@@ -27,14 +26,12 @@
     <string name="disconnected_peripheral">מנותק מ-%1$s</string>
     <string name="disconnecting_peripheral">מתנתק מ-%1$s</string>
     <string name="failed_to_enable_bt">‏לא ניתן להפעיל Bluetooth</string>
-    <string name="nfcUserLabel">Nfc</string>
     <string name="pair_no">לא</string>
     <string name="pair_yes">כן</string>
     <string name="pairing_peripheral">מבצע התאמה עם %1$s</string>
     <string name="pairing_peripheral_failed">לא ניתן לבצע התאמה עם %1$s</string>
     <string name="pay_with">שלם באמצעות</string>
     <string name="prompt_connect_to_network">להתחבר לרשת %1$s?</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_unable_to_connect">לא ניתן להתחבר לרשת</string>
     <string name="status_wifi_connected">מחובר</string>
     <string name="tap_again_to_complete">הקש שוב כדי להשלים באמצעות %1$s</string>
