@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="above_image">למעלה</string>
     <string name="accessibility_battery_level">%d אחוזים.</string>
     <string name="accessibility_battery_level_charging">הסוללה בטעינה, %d אחוז.</string>
     <string name="align_type">מיושר</string>
     <string name="always_style">תמיד</string>
     <string name="animation_clock_panel">חיוג גלי</string>
     <string name="aod_close_color_inversion">תכונה זו אינה יכולה להיות משולבת עם היפוך צבע. ראשית, כבה את היפוך צבע.</string>
-    <string name="aod_lock_screen_date">EEEE, d MMMM</string>
-    <string name="aod_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
     <string name="aod_mode_preview">תצוגה מקדימה</string>
     <string name="aod_mode_style">סגנון זמן ורקע</string>
     <string name="aod_mode_style_title">אפשרויות נוספות</string>
     <string name="aod_mode_summary">הצג שעון, תאריך, התראות ותמונות רקע כאשר המסך כבוי</string>
     <string name="aod_mode_time_summary">תזמן את ההפעלה והכיבוי של מצב \"מופעל תמיד\"</string>
     <string name="aod_mode_time_title">לוח זמנים</string>
-    <string name="aod_mode_title">תמיד במצב פועל</string>
+    <string name="aod_mode_title">תצוגה תמידית</string>
+    <string name="aod_show_date_and_time">הצג תאריך ושעה</string>
     <string name="aod_show_style_title">הצג פריטים</string>
     <string name="aod_style">נושא</string>
     <string name="aod_to_close">כיבוי</string>
     <string name="apply">החל</string>
     <string name="apply_succeed">הוחל בהצלחה</string>
     <string name="background_icon">רקע</string>
+    <string name="below_image">למטה</string>
     <string name="cancel">ביטול</string>
     <string name="choose_aod_style">בחר ערכת נושא</string>
     <string name="chosen_picture">בחר תמונת רקע</string>
     <string name="clock_panel_icon">פני השעון</string>
     <string name="color_change_with_time_description">שנה את צבע הטקסט באופן אוטומטי במהלך הזמן</string>
     <string name="color_change_with_time_title">שנה צבע באופן אוטומטי</string>
+    <string name="custom_image">תמונה בהתאמה אישית</string>
     <string name="deep_space_planet">חלל חיצון</string>
     <string name="deep_space_planet_des">נושא זה מתאים את עצמו לשינויי התאורה המתרחשים במשך היום. גם זמני הזריחה והשקיעה מותאמים למיקום שלך.</string>
     <string name="digital_clock">דיגיטלי</string>
@@ -56,17 +60,19 @@
     <string name="show_battery_status">הצג את מצב הבטריה</string>
     <string name="show_notification">הצג התראות</string>
     <string name="show_notificaton">הצג התראות</string>
+    <string name="shownone_arround_image">ללא</string>
     <string name="signature">חתימה</string>
     <string name="signature_default_content">האמן תמיד כי משהו נפלא עומד להתרחש</string>
     <string name="standard_clock_panel">סטנדרטי</string>
     <string name="standard_style">רגיל</string>
-    <string name="summary">"על מנת לשמור על צריכת אנרגיה נמוכה, פריטים לא יוצגו במצבים הבאים:
-1. כאשר המכשיר מונח בחשכה למשך זמן רב.
-2. כאשר מצב \"נא לא להפריע\" מופעל."</string>
+    <string name="summary">כדי לחסוך בחשמל, המערכת לא תציג פריטים אם המכשיר יהיה במקום חשוך לאורך זמן.</string>
     <string name="temporary_style">כ 10 שניות לאחר שתלחץ</string>
     <string name="text_color">צבע הטקסט</string>
     <string name="text_length_exceed_limit_alert">*הטקסט שהזנת ארוך מדיי</string>
     <string name="text_size">גודל הטקסט</string>
+    <string name="time_location">מיקום שעון</string>
     <string name="time_style">סגנון</string>
     <string name="time_style_layout">פריסה</string>
+    <string name="disable_aod_in_power_save_mode">כבה כאשר מצב חיסכון בסוללה מופעל</string>
+    <string name="disable_aod_in_power_save_mode_summary">כדי לחסוך בסוללה, אל תציג פריטים</string>
 </resources>

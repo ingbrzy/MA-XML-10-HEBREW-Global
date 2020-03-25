@@ -17,6 +17,9 @@
     <string name="cannot_change_parames">לא ניתן היה לשנות פרמטרים בעת ההקלטה</string>
     <string name="cannot_record">לא ניתן היה להקליט, נסה שוב מאוחר יותר.</string>
     <string name="close_screen_record">ההקלטה נעצרה</string>
+    <string name="date_day" />
+    <string name="date_month">/</string>
+    <string name="date_year">/</string>
     <string name="description_content">"'מקליט המסך' מספק יכולות הקלטה ברמת המערכת. לא תוכל להשתמש ב'מקליט המסך' במידה ותמשיך. אשר על מנת להמשיך."</string>
     <string name="description_title">"אודות 'מקליט המסך'"</string>
     <string name="deselect_all">הסר בחירה מהכל</string>
@@ -89,6 +92,7 @@
     <string name="stop_recording">עצירת הקלטה</string>
     <string name="storage_location">אחסון</string>
     <string name="storage_location_summary">בחירת שיטת האחסון המועדפת עליך</string>
+    <string name="timer_format">%s</string>
     <string name="unchecked">לא נבחרו</string>
     <string name="using_record_confirm_cancel">הגבל</string>
     <string name="using_record_confirm_ok">אפשר</string>

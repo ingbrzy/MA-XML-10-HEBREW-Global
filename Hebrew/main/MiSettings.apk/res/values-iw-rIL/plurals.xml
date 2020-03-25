@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="last_several_days">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום אחד (%d)</item>
+        <item quantity="two">%d ימים</item>
+        <item quantity="many">%d ימים</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">זמן המסך היום שווה לממוצע שלך ב-%d הימים האחרונים</item>
+        <item quantity="one">זמן המסך היום שווה לממוצע שלך ב-%d הימים האחרונים</item>
+        <item quantity="two">זמן המסך היום שווה לממוצע שלך ב-%d הימים האחרונים</item>
+        <item quantity="many">זמן המסך היום שווה לממוצע שלך ב-%d הימים האחרונים</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">זמן המסך היום נמוך ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
+        <item quantity="one">זמן המסך היום נמוך ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
+        <item quantity="two">זמן המסך היום נמוך ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
+        <item quantity="many">זמן המסך היום נמוך ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">זמן המסך היום גבוה ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
+        <item quantity="one">זמן המסך היום גבוה ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
+        <item quantity="two">זמן המסך היום גבוה ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
+        <item quantity="many">זמן המסך היום גבוה ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f פעמים</item>
+        <item quantity="one">פעם אחת (%.2f)</item>
+        <item quantity="two">%.2f פעמים</item>
+        <item quantity="many">%.2f פעמים</item>
+    </plurals>
+    <plurals name="usage_days">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום אחד (%d)</item>
+        <item quantity="two">%d ימים</item>
+        <item quantity="many">%d ימים</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">לא נעול %d פעמים</item>
         <item quantity="one">לא נעול פעם %d</item>
@@ -23,6 +59,12 @@
         <item quantity="one">קיבלת %d התראה</item>
         <item quantity="two">קיבלת %d התראות</item>
         <item quantity="many">קיבלת %d התראות</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d דקות הן צעד גדול קדימה לכיוון של מודעות וריכוז.</item>
+        <item quantity="one">דקה אחת (%d) היא צעד גדול קדימה לכיוון של מודעות וריכוז.</item>
+        <item quantity="two">%d דקות הן צעד גדול קדימה לכיוון של מודעות וריכוז.</item>
+        <item quantity="many">%d דקות הן צעד גדול קדימה לכיוון של מודעות וריכוז.</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d שעות</item>

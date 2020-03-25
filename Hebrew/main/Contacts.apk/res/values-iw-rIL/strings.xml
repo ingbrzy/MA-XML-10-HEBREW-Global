@@ -48,6 +48,11 @@
     <string name="back_description">חזרה</string>
     <string name="back_view_description">חזור</string>
     <string name="batch_delete">מחיקה מרובה</string>
+    <string name="bind_simcard_default">SIM ברירת מחדל לשיחות</string>
+    <string name="bind_simcard_menu">הגדר SIM ברירת מחדל לשיחות</string>
+    <string name="bind_simcard_no_dual">לא ניתן היה למצוא SIM כפול</string>
+    <string name="bind_simcard_not_set">לא הוגדר</string>
+    <string name="bind_simcard_title">SIM ברירת מחדל לשיחות</string>
     <string name="blacklist">חסום</string>
     <string name="bluetooth_connection_failed_toast">חיבור Bluetooth נקטע</string>
     <string name="blurbJoinContactDataWith">בחר את איש הקשר שברצונך למזג עם %s:</string>
@@ -61,7 +66,7 @@
     <string name="callAgain">התקשר שוב</string>
     <string name="callBack">התקשר חזרה</string>
     <string name="callDetailTitle">פרטי שיחה</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s דקות ו-%s שניות</string>
+    <string name="callDetailsDurationFormat">"%1$s דק' ו-%2$s שנ'"</string>
     <string name="callShortcutActivityTitle">בחר מספר לחיוג</string>
     <string name="call_assistant">התקשר ל-%s</string>
     <string name="call_callback">התקשר למספר חיוג-חזרה</string>
@@ -100,6 +105,7 @@
     <string name="call_sim_menu_title_suffix">(עיקרי)</string>
     <string name="call_telex">התקשר לטלקס</string>
     <string name="call_tty_tdd">התקשר ל-TTY/TDD</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">התקשר לעבודה</string>
     <string name="call_work_mobile">התקשר לנייד בעבודה</string>
@@ -172,7 +178,7 @@
     <string name="clearCallLogProgress_title">מנקה יומן שיחות…</string>
     <string name="clearFrequentsConfirmation">"מחק רשימת אנשי קשר בשימוש שכיח ב'אנשי קשר' ו'טלפון', ואלץ יישומי דואר ללמוד את ההעדפותיך מחדש."</string>
     <string name="clearFrequentsConfirmation_title">למחוק אנשי קשר בשימוש שכיח?</string>
-    <string name="clearFrequentsProgress_title">מנקה אנשי קשר בשימוש שכיח026</string>
+    <string name="clearFrequentsProgress_title">מנקה אנשי קשר בשימוש שכיח2026</string>
     <string name="clear_copy_number_description">נקה את המספר שהועתק</string>
     <string name="clear_default">הסר הגדרת ברירת מחדל</string>
     <string name="clear_digits">מחק מספר טלפון</string>
@@ -187,6 +193,7 @@
     <string name="cloud_state_loading">רק רגע…</string>
     <string name="cloud_state_sync_finished">סונכרן עם ענן</string>
     <string name="cloud_state_syncing">מסנכרן עם ענן</string>
+    <string name="cloud_upgrade_recommend">לא ניתן לסנכרן אנשי קשר בגלל שאין בענן מספיק שטח אחסון פנוי. שדרג את תוכנית האחסון בענן שלך.</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
@@ -194,6 +201,7 @@
     <string name="composer_has_no_exportable_contact">אין אנשי קשר ליצוא. במידה ויש לך אנשי קשר על גבי המכשיר, יתכן וספקי נתונים מסוימים אינם מאפשרים יצוא של אנשי הקשר מהמכשיר.</string>
     <string name="composer_not_initialized">יוצר קבצי vCard לא הופעל בצורה תקינה.</string>
     <string name="conference_call_disable_tip">לא יכול לבצע שיחות. ודא כי המכשיר שברשותך מחובר לתדר רשת 4G התומך ב VoLTE.</string>
+    <string name="confirm_delete_cloud_all_call_logs">למחוק את כל תיעוד היסטוריית השיחות עבור %s גם מהענן וגם ממכשיר זה?</string>
     <string name="confirm_delete_contact_all_call_logs">למחוק את כל ההיסטוריה של %s?</string>
     <string name="confirm_delete_selected_all_call_logs">לנקות את יומן השיחות?</string>
     <string name="confirm_delete_sim_entry_miui_title">מחק</string>
@@ -296,12 +304,15 @@
     <string name="date_time_set">הגדר</string>
     <string name="date_year_toggle">ציין שנה</string>
     <string name="default_ringtone">צלצול ברירת מחדל</string>
+    <string name="deleteCloudConfirmationDetail">למחוק את הפרטים ליצירת קשר %s גם מהענן וגם ממכשיר זה?</string>
     <string name="deleteConfirmation">איש קשר זה ימחק.</string>
     <string name="deleteConfirmationDetail">למחוק את \"%s\"?</string>
     <string name="deleteConfirmation_title">למחוק איש קשר זה?</string>
     <string name="delete_call_log_message">לנקות את יומן השיחות?</string>
     <string name="delete_call_log_selected_title">האם לנקות את יומן השיחות שנבחר?</string>
     <string name="delete_call_log_title">ניקוי יומן שיחות</string>
+    <string name="delete_conference_call_log_message">למחוק את כל ההקלטות של שיחות הוועידה עבור איש קשר זה עכשיו?</string>
+    <string name="delete_conference_call_log_title">מחק את הקלטות שיחות הוועידה</string>
     <string name="delete_contact_calllog_title">לנקות את יומן השיחות?</string>
     <string name="delete_dial_input">מחיקה</string>
     <string name="delete_duplicate">מזג</string>
@@ -378,17 +389,17 @@
     <string name="device_paired_dialog_title">מושך אנשי קשר…</string>
     <string name="device_pairing_dialog_message">מבצע צימוד…</string>
     <string name="device_pairing_dialog_title">הצמד התקנים</string>
-    <string name="device_transfer_by_bluetooth_message">"1. הפעל את Bluetooth במכשיר השני. 
+    <string name="device_transfer_by_bluetooth_message">"%1$d. הפעל את בלוטות' במכשיר השני.
 
-- ניתן למצוא את Bluetooth בהגדרות הרשת של מכשירי אנדרואיד. 
-- במכשירי iOS, ניתן למצוא את Bluetooth ב'הגדרות'. 
+- במכשירי אנדרואיד ניתן למצוא את פונקציית בלוטות' תחת הגדרות הרשת.
+- במכשירי iOS בלוטות' מופיע בהגדרות.
 
-2. יש להפעיל גם את מצב 'גלוי' במכשירי אנדרואיד. 
+%2$d. כמו כן, במכשירי אנדרואיד יש להפעיל את אפשרות זיהוי המכשיר.
 
-3. לחץ \"הבא\", והענק ל'אנשי קשר' את ההרשאות הנדרשות."</string>
-    <string name="device_transfer_by_sim_message">"\"1. שמור את אנשי הקשר מהמכשיר השני בכרטיס ה-SIM; 
+%3$d. הקש על \"הבא\", ותן את ההרשאות הנדרשות לרשימת אנשי הקשר."</string>
+    <string name="device_transfer_by_sim_message">"%1$d. שמור את אנשי הקשר מהמכשיר השני לכרטיס הסים;
 
-2. פתח את ההגדרות ביישום 'אנשי קשר' ועבור אל \"ייבא/ייצא אנשי קשר\" -- \"ייבוא מכרטיס SIM\", לחץ והחזק כל איש קשר שהוא על מנת לבחור בו, בחר את כל אנשי הקשר הרצויים ולחץ \"ייבוא\".\""</string>
+%2$d. פתח את הגדרות האפליקציה \"רשימת אנשי הקשר\", ואז עבור אל \"ייבוא/ייצוא אנשי קשר\" -- \"ייבוא מכרטיס סים\", לחץ לחיצה ממושכת על כרטיס סים כלשהו כדי לבחור בו, בחר בכל אנשי הקשר שאותם ברצונך לייבא, והקש על \"ייבוא\"."</string>
     <string name="device_version_header_bluetooth">ייבא באמצעות Bluetooth</string>
     <string name="device_version_header_no_bluetooth">ייבא באמצעות כרטיס SIM</string>
     <string name="dial">חייג</string>
@@ -440,7 +451,6 @@
     <string name="edit_contact">ערוך איש קשר</string>
     <string name="edit_contact_card_title">בחר פריטים לשיתוף</string>
     <string name="edit_contact_photo">ערוך תמונת איש קשר</string>
-    <string name="eight">8</string>
     <string name="eight_letter">TUV</string>
     <string name="email">שלח דוא\"ל</string>
     <string name="emailLabelsGroup">דוא\"ל</string>
@@ -471,13 +481,13 @@
 סיבה: \"%s\""</string>
     <string name="exporting_contact_failed_title">לא ניתן היה לייצא</string>
     <string name="exporting_contact_list_message">מייצא ל%s.</string>
-    <string name="exporting_contact_list_progress" formatted="false">%s מ-%s אנשי קשר</string>
+    <string name="exporting_contact_list_progress">%1$s מ-%2$s אנשי קשר</string>
     <string name="exporting_contact_list_title">מייצא נתוני איש קשר</string>
     <string name="exporting_vcard_canceled_title">יצוא %sבוטל.</string>
     <string name="exporting_vcard_finished_title">ייצוא %s הסתיים.</string>
     <string name="external_profile_title">פרופיל ה- %1$s שלי</string>
     <string name="fail_reason_could_not_initialize_exporter">לא ניתן היה להפעיל את המייצא: \"%s\".</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">לא ניתן היה לפתוח את \"%s:%s.</string>
+    <string name="fail_reason_could_not_open_file">לא ניתן לפתוח את \"%1$s\":%2$s.</string>
     <string name="fail_reason_error_occurred_during_export">אירעה שגיאה במהלך הייצוא: \"%s\".</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">לא ניתן היה לאסוף מידע אודות קבצי Vcard.</string>
     <string name="fail_reason_failed_to_read_files">לא ניתן היה ליבא אחד או יותר מהקבצים (%s).</string>
@@ -493,13 +503,12 @@
     <string name="favoritesFrequentContacted">אנשי קשר בשימוש שכיח</string>
     <string name="favorites_list_empty">אין מועדפים</string>
     <string name="firewall_setting">רשימת החסומים</string>
-    <string name="five">5</string>
     <string name="five_letter">JKL</string>
     <string name="force_touch_miprofile">כרטיס איש קשר</string>
     <string name="force_touch_new_contact">איש קשר חדש</string>
-    <string name="four">4</string>
     <string name="four_letter">GHI</string>
     <string name="frequentList">שכיח</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">שם</string>
     <string name="gallery">גלריה</string>
     <string name="generic_no_account_prompt">שמור את אנשי הקשר שלך בטוחים גם אם תאבד את הטלפון שלך: סנכרן אותם באמצעות שרות מקוון.</string>
@@ -554,8 +563,8 @@
     <string name="import_from_sim2">ייבא מכרטיס 2 SIM</string>
     <string name="import_multiple_vcard_string">ייבא מספר קבצי vCard</string>
     <string name="import_name">שם</string>
-    <string name="import_one_vcard_string">ייבא קובץ vCard אחד</string>
-    <string name="import_percent">0%</string>
+    <string name="import_one_vcard_string">ייבא קובץ vCard %d</string>
+    <string name="import_percent">%1$d%2$s</string>
     <string name="import_selected_sim_entries_miui">ייבא אנשי קשר שנבחרו</string>
     <string name="import_sim_contacts_hint_title">יבוא אנשי קשר מה-SIM</string>
     <string name="import_sim_entries_finish">אנשי הקשר יובאו מכרטיס SIM</string>
@@ -683,6 +692,7 @@
     <string name="miprofile_contact_header">אנשי קשר עם כרטיסי איש קשר</string>
     <string name="miprofile_contact_meaasge">אנשי קשר מקומיים</string>
     <string name="miprofile_contact_verifying">מאמת</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ערוך פרופיל</string>
     <string name="miprofile_error_accept_self">לא ניתן להחליף את כרטיס איש הקשר האישי שלך</string>
     <string name="miprofile_error_no_miaccount">היכנס לחשבון Mi שלך</string>
@@ -736,6 +746,7 @@
     <string name="multi_number_menu_group">קבוצה חדשה</string>
     <string name="multi_number_menu_message">הודעה</string>
     <string name="multi_number_title">שיחת ועידה</string>
+    <string name="multi_select">בחר</string>
     <string name="multipleContactDeleteConfirmation">מחיקת איש קשר זה תגרום למחיקת מידע ממספר חשבונות.</string>
     <string name="my_phone_not_provider_bluetooth">לא</string>
     <string name="my_phone_provider_bluetooth">כן</string>
@@ -756,7 +767,6 @@
     <string name="nickname_editor_title">ערוך כינוי</string>
     <string name="nickname_picker_name_column">שם איש קשר</string>
     <string name="nickname_picker_nickname_column">כותרת</string>
-    <string name="nine">9</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">יש צורך בחשבון על מנת ליצור קבוצות.</string>
     <string name="noContactHelpTextAccountsInfo" />
@@ -784,6 +794,7 @@
     <string name="no_contacts_dialog_message">ייתכן שאנשי הקשר שמורים על כרטיס ה-SIM שלך, נסה לייבא אותם מכרטיס ה-SIM אל אחסון המכשיר ונסה שנית.</string>
     <string name="no_contacts_dialog_title">לא ניתן למצוא אנשי קשר</string>
     <string name="no_contacts_selected">לא נבחרו אנשי קשר.</string>
+    <string name="no_phone_no_shortcut">לא ניתן ליצור קיצורים לאנשי קשר ללא מספר טלפון</string>
     <string name="no_sdcard_message">לא נמצא כרטיס זכרון.</string>
     <string name="no_setting_menu">אין אפשרויות תפריט זמינות</string>
     <string name="non_phone_add_to_contacts">הוסף לאיש קשר קיים</string>
@@ -794,7 +805,6 @@
     <string name="notification_action_voicemail_play">השמע</string>
     <string name="notification_new_voicemail_ticker">הודעה קולית חדשה מ-%1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
-    <string name="one">1</string>
     <string name="openDialKeyboard">לוח מקשים</string>
     <string name="open_contact">צפה באיש קשר</string>
     <string name="open_dial_pad_description">פתח את לוח המקשים</string>
@@ -809,37 +819,40 @@
     <string name="option_send_to_others">העבר</string>
     <string name="option_view_contact">הצגה</string>
     <string name="option_view_group">הצגה</string>
-    <string name="organizationLabelsGroup">ארגון</string>
+    <string name="organizationLabelsGroup">מיקום</string>
     <string name="organization_company_and_title">%1$s, %2$s</string>
     <string name="other_contacts">אנשי קשר אחרים</string>
     <string name="other_phone">מכשירים אחרים</string>
-    <string name="path_batch_delete">יישומי מערכתנשי קשררגן אנשי קשרחיקה מרובה</string>
-    <string name="path_contacts_display">יישומי מערכתנשי קשרעדפות תצוגה</string>
-    <string name="path_contacts_more">יישומי מערכתנשי קשררגן אנשי קשר</string>
-    <string name="path_contacts_recovery">יישומי מערכתנשי קשרחזר אנשי קשר</string>
-    <string name="path_contacts_setting">יישומי מערכתנשי קשר</string>
-    <string name="path_display_only_phones">יישומי מערכתנשי קשרעדפות תצוגהסתר מספרים חלקיים</string>
-    <string name="path_display_sim_contacts">יישומי מערכתנשי קשרעדפות תצוגהצג אנשי קשר ב-SIM</string>
-    <string name="path_export_to_sdcard">יישומי מערכתנשי קשריבואיצוא אנשי קשריצא מאחסון</string>
-    <string name="path_export_to_sim">יישומי מערכתנשי קשריבאיצא אנשי קשריצא מכרטיס הזכרון</string>
-    <string name="path_import_export">יישומי מערכתנשי קשריבאיצא אנשי קשר</string>
-    <string name="path_import_from_other_phone">יישומי מערכתנשי קשריבואיצוא אנשי קשריבא מטלפון אחר</string>
-    <string name="path_import_from_sdcard">יישומי מערכתנשי קשריבואיצוא אנשי קשריבא מאחסון</string>
-    <string name="path_import_from_sim">יישומי מערכתנשי קשריבאיצא אנשי קשריבא מכרטיס הזכרון</string>
-    <string name="path_key_photo_word">יישומי מערכתנשי קשרקצה תמונות לאנשי קשר</string>
-    <string name="path_key_rebuild_t9_index_title">יישומי מערכתנשי קשררגן אנשי קשרנה מחדש נתוני אינדקס</string>
-    <string name="path_key_sim_manage">יישומי מערכתנשי קשררגן אנשי קשררטיסי SIM</string>
-    <string name="path_preference_contacts_filter">יישומי מערכתנשי קשרעדפות תצוגהרוך רשימות אנשי קשר</string>
-    <string name="path_quick_dial_setting">יישומי מערכתלפוןגדרות מתקדמותדור מהיר</string>
-    <string name="path_remove_duplicate">יישומי מערכתנשי קשררגן אנשי קשרחד כפילויות של אנשי קשר</string>
-    <string name="path_share_visible_contacts">יישומי מערכתנשי קשריבואיצוא אנשי קשרתף אנשי קשר</string>
-    <string name="path_sim_capacity">יישומי מערכתנשי קשרחסון כרטיס SIM</string>
-    <string name="path_simple_mode">יישומי מערכתנשי קשרצוגת תמונות ומידע</string>
-    <string name="path_smart_group_title">יישומי מערכתנשי קשרעדפות תצוגהבוצות חכמות</string>
-    <string name="path_wipe_data">יישומי מערכתנשי קשררגן אנשי קשרקה נתונים</string>
+    <string name="path_batch_delete">יישומי מערכתאנשי קשרארגן אנשי קשרמחיקה מרובה</string>
+    <string name="path_contacts_display">יישומי מערכתאנשי קשרהעדפות תצוגה</string>
+    <string name="path_contacts_more">יישומי מערכתאנשי קשרארגן אנשי קשר</string>
+    <string name="path_contacts_recovery">יישומי מערכתאנשי קשרשחזר אנשי קשר</string>
+    <string name="path_contacts_setting">יישומי מערכתאנשי קשר</string>
+    <string name="path_display_only_phones">יישומי מערכתאנשי קשרהעדפות תצוגההסתר מספרים חלקיים</string>
+    <string name="path_display_sim_contacts">יישומי מערכתאנשי קשרהעדפות תצוגההצג אנשי קשר ב-SIM</string>
+    <string name="path_export_to_sdcard">יישומי מערכתאנשי קשרייבואייצוא אנשי קשרייצא מאחסון</string>
+    <string name="path_export_to_sim">יישומי מערכתאנשי קשרייבאייצא אנשי קשרייצא מכרטיס הזכרון</string>
+    <string name="path_import_export">יישומי מערכתאנשי קשרייבאייצא אנשי קשר</string>
+    <string name="path_import_from_other_phone">יישומי מערכתאנשי קשרייבואייצוא אנשי קשרייבא מטלפון אחר</string>
+    <string name="path_import_from_sdcard">יישומי מערכתאנשי קשרייבואייצוא אנשי קשרייבא מאחסון</string>
+    <string name="path_import_from_sim">יישומי מערכתאנשי קשרייבאייצא אנשי קשרייבא מכרטיס הזכרון</string>
+    <string name="path_key_photo_word">יישומי מערכתאנשי קשרהקצה תמונות לאנשי קשר</string>
+    <string name="path_key_rebuild_t9_index_title">יישומי מערכתאנשי קשרארגן אנשי קשרבנה מחדש נתוני אינדקס</string>
+    <string name="path_key_sim_manage">יישומי מערכתאנשי קשרארגן אנשי קשרכרטיסי SIM</string>
+    <string name="path_preference_contacts_filter">יישומי מערכתאנשי קשרהעדפות תצוגהערוך רשימות אנשי קשר</string>
+    <string name="path_quick_dial_setting">יישומי מערכתטלפוןהגדרות מתקדמותכדור מהיר</string>
+    <string name="path_remove_duplicate">יישומי מערכתאנשי קשרארגן אנשי קשראחד כפילויות של אנשי קשר</string>
+    <string name="path_share_visible_contacts">יישומי מערכתאנשי קשרייבואייצוא אנשי קשרשתף אנשי קשר</string>
+    <string name="path_sim_capacity">יישומי מערכתאנשי קשראחסון כרטיס SIM</string>
+    <string name="path_simple_mode">יישומי מערכתאנשי קשרתצוגת תמונות ומידע</string>
+    <string name="path_smart_group_title">יישומי מערכתאנשי קשרהעדפות תצוגהקבוצות חכמות</string>
+    <string name="path_wipe_data">יישומי מערכתאנשי קשרארגן אנשי קשרנקה נתונים</string>
     <string name="payphone">טלפון ציבורי</string>
     <string name="people">אנשי קשר</string>
+    <string name="percent_sign">%1$s</string>
+    <string name="percentage">%1$s%2$s</string>
     <string name="phoneLabelsGroup">טלפון</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
     <string name="phone_primary">עיקרי</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות על גבי המכשיר.</string>
@@ -991,6 +1004,10 @@
     <string name="ret_sign">"
 "</string>
     <string name="returnCall">התקשר חזרה</string>
+    <string name="return_call">לחץ כדי לחזור לשיחה</string>
+    <string name="return_call_calling">מתבצעת שיחה</string>
+    <string name="return_call_dialing">מחייג</string>
+    <string name="return_call_incoming">שיחה נכנסת</string>
     <string name="ringLabelsGroup">צלצול</string>
     <string name="save_photo_progress">שומר תמונה…</string>
     <string name="savingContact">שומר איש קשר…</string>
@@ -1041,6 +1058,9 @@
     <string name="select_none">לא נבחרו פריטים</string>
     <string name="select_show_contacts">רשימת איש קשר</string>
     <string name="select_vcard_title">בחר קובץ vCard</string>
+    <string name="send_contact_shortcut_todesktop_duplicate">קיצור הדרך כבר קיים</string>
+    <string name="send_contact_shortcut_todesktop_failed">לא ניתן היה למקם קיצור דרך במסך הבית</string>
+    <string name="send_contact_shortcut_todesktop_overflow">לא ניתן להציב קיצורי דרך נוספים במסך הבית</string>
     <string name="send_contact_shortcut_todesktop_success">נוסף אל מסך הבית</string>
     <string name="send_to_voicemail_checkbox">העבר שיחות ישירות לתא הקולי</string>
     <string name="separatorJoinAggregateAll">כל אנשי הקשר</string>
@@ -1051,11 +1071,10 @@
     <string name="set_data_package">הגדר תכנית נתונים תחילה</string>
     <string name="set_default">הגדר כברירת מחדל</string>
     <string name="set_photo_failed_msg">לא ניתן היה להקצות תמונה</string>
-    <string name="seven">7</string>
     <string name="seven_letter">PQRS</string>
     <string name="share_contact_as">שתף אנשי קשר כ</string>
     <string name="share_error">לא ניתן לשתף איש קשר זה</string>
-    <string name="share_over_limit">לא ניתן לשתף יותר מ-1000 אנשי קשר</string>
+    <string name="share_over_limit">לא ניתן לשתף יותר מ-%d אנשי קשר</string>
     <string name="share_qrcode">שיתוף קוד QR</string>
     <string name="share_via">שלח באמצעות</string>
     <string name="share_visible_contacts">שתף אנשי קשר</string>
@@ -1072,7 +1091,7 @@
     <string name="simContacts_title">אנשי קשר מכרטיס SIM</string>
     <string name="sim_account_name">SIM</string>
     <string name="sim_capacity">הצג נפח כרטיס SIM</string>
-    <string name="sim_capacity_content" formatted="false">%d סהכ | %d בשימוש</string>
+    <string name="sim_capacity_content">%1$d סה\"כ | %2$d בשימוש</string>
     <string name="sim_card_no_free_space_message">אין מספיק מקום</string>
     <string name="sim_card_no_free_space_title">כרטיס SIM מלא</string>
     <string name="sim_contact_existing">איש קשר כבר קיים</string>
@@ -1095,14 +1114,14 @@
     <string name="sim_unloaded">כרטיס ה-SIM אינו מותקן</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">אין חברי קבוצה</string>
-    <string name="six">6</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">חברות</string>
     <string name="smart_group_company_unavailable">אין פרטי חברה</string>
     <string name="smart_group_frequency_1">בחודש האחרון</string>
-    <string name="smart_group_frequency_2">בין חודש ל-3 חודשים</string>
-    <string name="smart_group_frequency_3">בין 3 ל-6 חודשים</string>
-    <string name="smart_group_frequency_4">לפני יותר מ-6 חודשים</string>
+    <string name="smart_group_frequency_2">%1$d ל-%2$d חודשים</string>
+    <string name="smart_group_frequency_3">%1$d ל-%2$d חודשים</string>
+    <string name="smart_group_frequency_4">לפני יותר מ-%d חודשים</string>
     <string name="smart_group_frequency_label">אחרונים</string>
     <string name="smart_group_label">קבוצות חכמות</string>
     <string name="smart_group_loading">רק רגע…</string>
@@ -1152,12 +1171,11 @@
     <string name="t9_search_empty_send_sms">שליחת הודעה</string>
     <string name="t9_search_empty_video_call">שיחת וידאו</string>
     <string name="t9_search_guide_pinyin_title1">הזן מספרים למציאת אנשי קשר</string>
-    <string name="t9_search_guide_pinyin_title2">הזן \"3\" ו-\"5\" על מנת לחפש את \"<font fgcolor="">א</font>בי <font fgcolor="">כ</font>הן\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">הזן את הספרות \"%d\" ו-\"%d\" כדי לחפש את השם \"<font fgcolor="">X</font>avier <font fgcolor="">H</font>enry\"</string>
     <string name="t9_search_guide_zhuyin_title1">הזן מספרים למציאת אנשי קשר</string>
-    <string name="t9_search_guide_zhuyin_title2">הזן \"3\" ו-\"5\" על מנת לחפש את \"<font fgcolor="">א</font>בי <font fgcolor="">כ</font>הן\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">הזן את הספרות \"%d\" ו-\"%d\" כדי לחפש את השם \"<font fgcolor="">J</font>eff <font fgcolor="">M</font>ax\"</string>
     <string name="take_new_photo">צלם תמונה חדשה</string>
     <string name="take_photo">צלם תמונה</string>
-    <string name="three">3</string>
     <string name="three_letter">DEF</string>
     <string name="titleJoinContactDataWith">מזג אנשי קשר</string>
     <string name="title_other_devices">התקנים זמינים אחרים</string>
@@ -1178,7 +1196,6 @@
     <string name="toast_text_copied">הטקסט הועתק</string>
     <string name="today">היום</string>
     <string name="transfer_accounts">העבר חשבונות</string>
-    <string name="two">2</string>
     <string name="two_letter">ABC</string>
     <string name="type_incoming">שיחה נכנסת</string>
     <string name="type_missed">שיחה שלא נענתה</string>
@@ -1237,6 +1254,7 @@
     <string name="voip_audio_description">שיחת VoiP</string>
     <string name="voip_video_description">שיחת וידאו VoiP</string>
     <string name="websiteLabelsGroup">אתר</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">נקה נתונים</string>
     <string name="yellowPageNavigationIconLabel">דפי זהב</string>
     <string name="yellowPageNavigationLabel">דפי זהב</string>
@@ -1264,7 +1282,6 @@
     <string name="yellowpage_provider_label">הנתונים מסופקים על-ידי</string>
     <string name="yellowpage_search_the_yellowpage">חיפוש בדפי זהב</string>
     <string name="yellowpage_user_profile">פרופיל</string>
-    <string name="zero">0</string>
     <string name="zero_items_selected">בחר פריטים</string>
     <string name="zero_letter">+</string>
 </resources>

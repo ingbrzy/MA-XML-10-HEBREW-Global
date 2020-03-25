@@ -66,6 +66,7 @@
     <string name="announce_for_show_uninstall_dialog">דיאלוג הסרת ההתקנה הופיע. בטל או אשר.</string>
     <string name="announce_for_unchecked">%1$s, הסימון בוטל</string>
     <string name="announce_for_widget_span">רוחב %1$d, גובה %2$d</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">היישום קיים כבר</string>
     <string name="app_being_backup_message">היישום נמצא בתהליך גיבוי</string>
     <string name="app_being_restored_message">היישום נמצא בתהליך שחזור</string>
@@ -99,7 +100,6 @@
     <string name="aqi_quality_index_light_pollution">זהירות</string>
     <string name="aqi_quality_index_moderate">מתון</string>
     <string name="aqi_quality_index_unhealthy">לא בריא</string>
-    <string name="auto_add_app_shortcut">מקם יישומים חדשים על מסך הבית</string>
     <string name="auto_delete_category_dialog_content">האפליקציות הקיימות יוסרו מהקטגוריה הזו, והקטגוריה תימחק. למחוק את הקטגוריה עכשיו?</string>
     <string name="auto_delete_category_dialog_title">מתבצעת מחיקת הקטגוריה</string>
     <string name="backup_fail">"לא ניתן לגבות את הלאונצ'ר"</string>
@@ -116,9 +116,6 @@
     <string name="category_cannot_empty">קודם הזן שם קטגוריה</string>
     <string name="category_choose_no_app_select_tip">כל קטגוריה חייבת להכיל לפחות אפליקציה אחת.</string>
     <string name="category_drawer_name_hint">הזן שם קטגוריה</string>
-    <string name="category_edit_back_confirm_dialog_content">לשמור את השינויים עכשיו?</string>
-    <string name="category_edit_back_confirm_dialog_negative_button">אל תשמור</string>
-    <string name="category_edit_back_confirm_dialog_positive_button">שמור</string>
     <string name="category_group">סווג אפליקציות</string>
     <string name="category_group_summary">סווג אפליקציות במגירת האפליקציות</string>
     <string name="category_not_selected">אפליקציות זמינות</string>
@@ -138,14 +135,18 @@
     <string name="current_wallpaper">נוכחי</string>
     <string name="custom_wallpaper_picker">סייר</string>
     <string name="defalut_launcher_title">משגר היישומים ברירת המחדל</string>
+    <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">משחקים</string>
     <string name="default_folder_title_meitu">יישומי Meitu</string>
+    <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">אפליקציות אחרות</string>
     <string name="default_folder_title_recommend">יישומים נוספים</string>
     <string name="default_folder_title_security">מערכת</string>
     <string name="default_folder_title_services">שירותים</string>
+    <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">כלים</string>
     <string name="default_screen_preview_title">הגדרת מסך ברירת מחדל</string>
+    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">מחיקה</string>
     <string name="delete_category_dialog_content">לא תוכל לשחזר קטגוריה זו אם תמחק אותה. למחוק בכל זאת?</string>
     <string name="delete_category_dialog_title">למחוק את הקטגוריה הזו?</string>
@@ -154,6 +155,8 @@
     <string name="deselect_all">נקה בחירה מהכל</string>
     <string name="disable_wallpaper_scroll">מנע גלילה הצידה</string>
     <string name="download_action">הורדה</string>
+    <string name="drag_multiple_item_name" />
+    <string name="drag_single_item_name" />
     <string name="drawer_background">תמונות רקע</string>
     <string name="drawer_background_dark">כהה</string>
     <string name="drawer_background_light">בהיר</string>
@@ -258,9 +261,6 @@
     <string name="is_system_wallpaper_message">לא ניתן למחוק קבצי מערכת</string>
     <string name="launcher_not_exist">"אירעה שגיאה, חזור ל'מסך הבית' ונסה שוב."</string>
     <string name="launcher_pull_down_title">העבר אצבע כלפי מטה במסך הבית</string>
-    <string name="launcher_search_bar_title">סרגל החיפוש של מסך הבית</string>
-    <string name="launcher_search_bar_value_disable">כיבוי</string>
-    <string name="launcher_search_bar_value_enable">הפעלה</string>
     <string name="launcher_slide_up_title">העבר אצבע כלפי מעלה במסך הבית</string>
     <string name="launcher_sliding_up_gesture">"החלק מעלה ב'מסך הבית' לפתיחת החיפוש"</string>
     <string name="launcher_title">מסך הבית &amp; אחרונים</string>
@@ -354,6 +354,7 @@
     <string name="quick_app">גישה מהירה ליישומים</string>
     <string name="recent_apps">אחרון</string>
     <string name="recents_config_title">לאחרונה</string>
+    <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">הצעות לאפליקציות</string>
     <string name="recommend_apps_default_title">ריק</string>
     <string name="recommend_apps_no_data">אין נתונים</string>
@@ -376,7 +377,7 @@
     <string name="screen_cells_config_title">"פריסת 'מסך הבית'"</string>
     <string name="screen_locked_toast">"פריסת 'מסך הבית' נעולה."</string>
     <string name="screen_number">%d מסך</string>
-    <string name="search_in_apps_store">חפש \"%1$s ב- %2$s</string>
+    <string name="search_in_apps_store">חפש \"%1$s\" ב- %2$s</string>
     <string name="search_no_result">לא ניתן היה למצוא תוצאות</string>
     <string name="select_all">בחר הכל</string>
     <string name="select_frame">מסגרת</string>
@@ -406,6 +407,7 @@
     <string name="status_paused">נעצר</string>
     <string name="status_pending">ממתין</string>
     <string name="switch_personal_assistant_app_vault">כספת האפליקציות</string>
+    <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">ללא</string>
     <string name="system_shortcuts_more_operation">פרטי היישום</string>
     <string name="system_shortcuts_remove">הסר</string>

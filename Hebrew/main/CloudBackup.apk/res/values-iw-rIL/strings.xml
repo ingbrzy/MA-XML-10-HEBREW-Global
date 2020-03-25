@@ -10,7 +10,6 @@
     <string name="retry">נסה שוב</string>
     <string name="cloud_app_current_device">המכשיר הנוכחי</string>
     <string name="cloud_app_other_devices">מכשירים אחרים</string>
-    <string name="cloud_app_restore_app_and_data">הגדר את מכשירך</string>
     <string name="cloud_app_restore_data">נתונים אישיים ויישומים שהותקנו בעבר יופיעו במכשירך באופן אוטומטי</string>
     <string name="cloud_app_dont_restore">הגדר כמכשיר חדש</string>
     <string name="cloud_app_restore_wifi_prompt">שחזר מגיבוי Cloud.</string>
@@ -50,6 +49,8 @@
     <string name="self_device_second_space">שטח שני של מכשיר טלפון זה</string>
     <string name="other_device_main_space">שטח ראשון</string>
     <string name="other_device_second_space">שטח משני</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>
     <string name="size_unknown">גודל לא ידוע</string>
     <string name="recovering">משחזר את %s</string>
@@ -222,4 +223,5 @@
     <string name="restore_task_unfinished">לא ניתן היה לשחזר</string>
     <string name="restore_failed_reason_network_error">שגיאת רשת. המתן דקה או שתיים ונסה שוב.</string>
     <string name="restore_failed_reason_disk_space_not_enough">אין מספיק שטח אחסון זמין. ראשית, פנה קצת שטח אחסון.</string>
+    <string name="cloud_app_restore_app_and_data">הגדר את מכשירך</string>
 </resources>

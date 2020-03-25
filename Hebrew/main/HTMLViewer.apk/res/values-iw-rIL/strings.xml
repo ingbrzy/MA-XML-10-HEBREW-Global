@@ -14,6 +14,8 @@
     <string name="open_wifi_connect_summary">לחץ לצפיה בפרטים.</string>
     <string name="open_wifi_connect_title">מחובר אל %1$s</string>
     <string name="permdesc_accessDrm">אפשר ליישום לגשת לתוכן מוגן DRM.</string>
+    <string name="poco_launcher_privacy_policy">מדיניות פרטיות של משגר היישומים POCO</string>
+    <string name="poco_launcher_user_agreement">משגר POCO הסכם משתמש</string>
     <string name="poco_privacy_policy">מדיניות פרטיות של משגר היישומים POCO &amp; הסכם המשתמש של משגר היישומים POCO</string>
     <string name="policy_name">פרוטוקול: %s</string>
     <string name="pre_installed_apps">יישומים מותקנים מראש</string>

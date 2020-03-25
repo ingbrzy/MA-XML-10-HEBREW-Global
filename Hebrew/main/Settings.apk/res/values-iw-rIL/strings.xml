@@ -55,6 +55,7 @@
     <string name="adb_warning_title">לאפשר ניפוי שגיאות USB?</string>
     <string name="add_auto_startup_application">הוסף יישומי הפעלה אוטומטית</string>
     <string name="add_back_fingerprint_instruction_msg">הנח אצבע על החיישן</string>
+    <string name="add_broadsize_fingerprint_instruction_msg">חיישן טביעת האצבע נמצא בקצה הימני של המכשיר</string>
     <string name="add_facerecoginition_text">הוספת נתוני פנים</string>
     <string name="add_fingerprint_cancel_button_text">הקודם</string>
     <string name="add_fingerprint_dirty_fingerprint">ודא שהמסך נקי. נסה להקליט שוב את טביעת האצבע שלך.</string>
@@ -481,6 +482,7 @@ ApatX–Adaptive: מצב קודק"</string>
 נראה שכבר עשית את הפעולות שלהלן, הוסף חשבון חשבון Mi שנית; אם לא תעשה זאת לא תוכל לפתוח את הנעילה של מכשירך."</string>
     <string name="bootloader_tips_ok">הבנתי</string>
     <string name="bootloader_tips_warning">אל תתנתק מהרשת, התנתק מחשבון Mi, בצע איפוס להגדרות יצרן או מחק נתוני מערכת.</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">צבע הנורית</string>
     <string name="breathing_light_color_summary">צבע הנורית בעת קבלת התראה חדשה</string>
     <string name="breathing_light_freq_summary">הבהב בקבלת התראות חדשות</string>
@@ -583,10 +585,12 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="close_demo_mode">ביטול</string>
     <string name="close_fod">לא תוכל לבטל את הנעילה באמצעות טביעת אצבע כאשר המסך סגור. ביטול נעילה באמצעות טביעת אצבע אפשרית רק כאשר המסך דלוק.</string>
     <string name="close_fod_aod">לא תוכל לבטל את הנעילה באמצעות טביעת אצבע כאשר המסך סגור. מצב \"תמיד מופעל\" לא יהיה זמין אף הוא. ביטול נעילה באמצעות טביעת אצבע אפשרית רק כאשר המסך דלוק.</string>
+    <string name="close_hotspot_hint">כבה את הנקודה החמה לפני השידור</string>
     <string name="close_miui_optimization_title">כבה ייעול MIUI</string>
     <string name="close_optimization_message">פריסת הטקסט, החשבונות, וחלקים אחרים של MIUI עשויים להיות מושפעים מכיבוי תכונה זו.</string>
     <string name="close_optimization_option">כיבוי</string>
     <string name="close_privacy_thumbnail_blur_title">התצוגה המקדימה איננה מעומעת</string>
+    <string name="close_slave_wifi_hint">נתק את רשתות העזר של ה-Wi-Fi לפני השידור</string>
     <string name="cloud_backup_section_title">גיבוי Xiaomi Cloud</string>
     <string name="cloud_backup_settings_section_title">הגדרות גיבוי</string>
     <string name="cloud_restore_section_summary">"שחזור הגדרות מערכת, פריסת 'מסך הבית' ויישומים"</string>
@@ -594,6 +598,27 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="cmcc_hardware_version">גרסת חומרה</string>
     <string name="color_calibration_none">טבעי</string>
     <string name="color_calibration_srgb">sRGB</string>
+    <string name="color_led_applications_title">בחר יישומים</string>
+    <string name="color_led_applications_title_summary">תוכל להגביל בשימוש נורת LED עבור יישומים בודדים</string>
+    <string name="color_led_battery_title">המשך בטעינה</string>
+    <string name="color_led_charging_summary">יתכבה כאשר הבטריה נטענת</string>
+    <string name="color_led_end_time">שעת סיום</string>
+    <string name="color_led_game_mode_summary">הצג אפקטים עבור משחקים כאשר Game Turbo מופעל</string>
+    <string name="color_led_game_mode_title">השתמש עבור Game Turbo</string>
+    <string name="color_led_hint">בחר את המצבים בהם נורת לד מופעלת. נורת לד תפעל כאשר המסך מופנה כלפי מטה ומצב לא להפריע כבוי.</string>
+    <string name="color_led_incall_pulse_title">השתמש עבור שיחות נכנסות</string>
+    <string name="color_led_lucky_dialog_message">לתכונה זו נדרש שימוש בסייען המעטפות האדומות. האם להפעיל כעת?</string>
+    <string name="color_led_lucky_dialog_title">הפעל את אשף המעטפות האדומות</string>
+    <string name="color_led_music_mode_summary">הצג ריתמיקת אפקט תאורה כאשר המוסיקה מתנגנת. לא עובד במצב שקט.</string>
+    <string name="color_led_music_mode_title">השתמש עבור מוסיקה</string>
+    <string name="color_led_notification_pulse_title">הבהב עבור התראות כאשר המסך כבוי</string>
+    <string name="color_led_red_more_feature">אפקטים מיוחדים</string>
+    <string name="color_led_red_package_title">השתמש עבור מעטפות אדומות</string>
+    <string name="color_led_red_packets_summary">הצג אפקטים עבור מעטפות אדומות מWeChat ו QQ כאשר מסייע מעטפות אדומות מופעל</string>
+    <string name="color_led_special_scene_title">אפקטים מיוחדים</string>
+    <string name="color_led_start_time">שעת התחלה</string>
+    <string name="color_led_summary">לא עובד במצב \"נא לא להפריע\"</string>
+    <string name="color_led_title">תאורת לד</string>
     <string name="common_settings">הגדרות מהירות</string>
     <string name="complete_parameters">כל הפרטים</string>
     <string name="complete_settings">הגדרות כלליות</string>
@@ -790,6 +815,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="dialog_title_hdmi_color_calibration">תיקון צבע קבוע מראש</string>
     <string name="dialog_title_login">היכנס לחשבון Mi שלך</string>
     <string name="dialog_yes">כן</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">הערה: תוכל להשתמש ביישום זה לאחר אתחול המכשיר רק במידה ותבטל את נעילת מכשירך</string>
     <string name="disable_overlays">השבת שכבת על של HW</string>
     <string name="disable_overlays_summary">השתמש תמיד ב-GPU עבור צלימת שכבות המסך</string>
@@ -816,6 +842,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="dndm_auto_button_title">"חזרה על תזמון מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_setting_group">מתוזמן</string>
     <string name="dndm_auto_time_setting">הגדר שעה</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">עד</string>
     <string name="dndm_auto_time_turn_off_title">"כבה אוטומטית את מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_time_turn_on">מ:</string>
@@ -977,6 +1004,9 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="fingerprint_others_title">אחר</string>
     <string name="fingerprint_payment">תשלום באמצעות טביעת אצבע</string>
     <string name="fingerprint_removal_failed">לא ניתן להסיר את טביעת האצבע, נסה שוב מאוחר יותר</string>
+    <string name="fingerprint_unlock_press_type">Press</string>
+    <string name="fingerprint_unlock_touch_type">Touch</string>
+    <string name="fingerprint_unlock_type">Fingerprint recognition method</string>
     <string name="finish_application">כפה עצירה</string>
     <string name="finish_button">סיום</string>
     <string name="firewall_allow_all">אפשר לכל היישומים להתחבר באמצעות השיטה להלן</string>
@@ -1114,6 +1144,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="gxzw_add_fingerprint_put_finger_message">לחץ על המסך, והרם את האצבע שלך לאחר שתרגיש רטט. חזור על הפעולה מספר פעמים.</string>
     <string name="gxzw_add_fingerprint_put_finger_title">לחץ, והרם לאחר שתרגיש רטט</string>
     <string name="gxzw_add_fingerprint_title">הוסף את טביעת האצבע</string>
+    <string name="gxzw_anim_aurora">Aurora</string>
     <string name="gxzw_anim_light">נאון</string>
     <string name="gxzw_anim_pulse">פולס</string>
     <string name="gxzw_anim_rhythm">מקצב</string>
@@ -1140,6 +1171,9 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="handy_mode_tips_full_screen">כאשר אתה מבצע מחוות מסך מלא, תוכל להפעיל מצב יד-אחת תוך שימוש ב Quick ball. באפשרותך גם להחליף לאפשרות בשימוש באמצעות לחצנים במקום שימוש במחוות מסך מלא.</string>
     <string name="haptic_feedback_enable_title">רטט במגע</string>
     <string name="haptic_feedback_level">רטט</string>
+    <string name="haptic_feedback_progress">רמת משוב מישוש</string>
+    <string name="haptic_feedback_summary">קבל תגובת מישוש למחוות ולבקרות מערכת</string>
+    <string name="haptic_feedback_title">משוב מישוש</string>
     <string name="hardware_version">גרסת חומרה</string>
     <string name="has_screenshot_sound">צליל צילום מסך</string>
     <string name="hdcp_checking_dialog_title">הגדרת התנהגות בדיקת HDCP</string>
@@ -1156,7 +1190,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="hdmi_color_calibration_srgb">sRGB</string>
     <string name="header_category_accounts">חשבונות</string>
     <string name="header_category_wireless_networks">אלחוטי &amp; רשתות</string>
-    <string name="headset_settings_title">אוזניות</string>
+    <string name="headset_settings_title">אפקטים של צליל</string>
     <string name="high_performance_notif_summary">המכשיר עלול להתחמם במהלך שימוש כבד.</string>
     <string name="high_performance_notif_title">"מצב 'ביצועים' מופעל"</string>
     <string name="high_performance_title">נראה כי אתה מריץ מבחן ביצועים. הגדר את ניהול האנרגיה כ\"ביצועים\" לתוצאות מירביות.</string>
@@ -1167,6 +1201,8 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="http_invoke_app">יישומי רשת</string>
     <string name="http_invoke_app_summary">פתח יישומים מהר יותר מבלי להתקינם</string>
     <string name="ime_security_warning">%1$s עלול לשמור את כל מה שאתה מקליד, כולל סיסמאות, מספרי כרטיסי אשראי, ונתונים אישיים אחרים.</string>
+    <string name="ime_security_warning_global">שיטות קלט עשויות להיות מסוגלות לאסוף את כל הטקסט שאתה מקליד, כולל נתונים אישיים כמו סיסמה ומספרי כרטיסי אשראי. האם להשתמש ב%1$s?</string>
+    <string name="ime_security_warning_title_global">מפעיל את המקלדת</string>
     <string name="immediately_destroy_activities">אל תשאיר פעילויות</string>
     <string name="immediately_destroy_activities_summary">סגור כל פעילות כאשר המשתמש עוזב אותה</string>
     <string name="importance_default">ברירת מחדל</string>
@@ -1435,6 +1471,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="lockscreen_glogin_submit_button">היכנס</string>
     <string name="lockscreen_label">מסך נעילה</string>
     <string name="lockscreen_magazine">קרוסלת טפטים</string>
+    <string name="lockscreen_magazine_india">Glance ל-Mi</string>
     <string name="lockscreen_magazine_summary">קרוסלת טפטים איכותיים</string>
     <string name="lockscreen_magazine_title">טפט קרוסלה</string>
     <string name="login_account_dialog_message">היכנס באמצעות חשבון Mi שלך והפעל את הסנכרון עם הענן.</string>
@@ -1728,6 +1765,10 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="nearby_wifi">רשתות זמינות</string>
     <string name="need_reboot_now">אתחל את המכשיר להתקנת העדכון.</string>
     <string name="netcheck_title">אבחון רשת</string>
+    <string name="network_alarm">אל תשתיק שיחות אינטרנט</string>
+    <string name="network_alarm_summary">הערה: יישומים מסוימים אינם תואמים לתכונה זו. %1$s</string>
+    <string name="network_alarm_summary_reg">הצג יישומים נתמכים</string>
+    <string name="network_alarm_support_apps">יישומים נתמכים</string>
     <string name="network_assistant">שימוש בנתונים</string>
     <string name="network_changed_noti_summary">שימוש בחיבור נתונים סלולרי</string>
     <string name="network_changed_noti_title">מנותק מהרשת האלחוטית</string>
@@ -1839,6 +1880,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="open_demo_mode">הפעלה</string>
     <string name="open_demo_mode_warning_message">"כאשר מצב 'דמו' מופעל, השעון בשורת המצב יעצר והאייקונים של הסוללה ואות הרשת יוצגו כמלאים. באפשרותך לכבות את מצב 'דמו' או לאתחל את המכשיר על מנת לשנות זאת."</string>
     <string name="open_game_accelerate">הפעל את Game Turbo</string>
+    <string name="open_haptic_feedback">משוב מישוש</string>
     <string name="open_miui_optimization_title">הפעל ייעול MIUI</string>
     <string name="open_optimization_message">הפעל את הייעול על מנת להנות מממשק משתמש חלק ומהיר יותר.</string>
     <string name="open_optimization_option">הפעלה</string>
@@ -1963,9 +2005,13 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="picture_color_mode">מצב צבע תמונה</string>
     <string name="picture_color_mode_desc">השתמש ב-sRGB</string>
     <string name="please_type_passphrase">סיסמה</string>
+    <string name="poco_launcher_privacy_policy">מדיניות פרטיות של משגר היישומים POCO</string>
+    <string name="poco_launcher_user_agreement">משגר POCO הסכם משתמש</string>
     <string name="pointer_location">מיקום המצביע</string>
     <string name="pointer_location_summary">הצג קואורדינטות מגע</string>
     <string name="pointer_settings_category">עכבר/משטח מגע</string>
+    <string name="popup_gesture_summary">יש להחזיק את הטלפון מולך ולהרים אותו במהירות ב-20 ס\"מ כדי לפתוח את המצלמה הקדמית</string>
+    <string name="popup_gesture_title">הרם על מנת לפתוח את המצלמה הקדמית</string>
     <string name="popup_led_summary">הצג אנימציה כאשר המצלמה הקדמית מופיעה וממוקדת</string>
     <string name="popup_led_title">אפקטים וויזואלים</string>
     <string name="popup_title">אפקטים עבור מצלמה קדמית</string>
@@ -2012,6 +2058,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="power_remaining_less_than_duration_only">נותרו פחות מ-%1$s</string>
     <string name="power_remaining_more_than_subtext">יותר מ-%1$s נותרו (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">נותרו יותר מ-%1$s</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_settings_title">ביצועי מערכת</string>
     <string name="power_suggestion_extend_battery">הגדל את אורך החיים של הסוללה לאורך %1$s האחרון</string>
     <string name="power_usage_history">שימוש בסוללה</string>
@@ -2144,6 +2191,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="private_sms_need_to_unlock">דרושה סיסמה:</string>
     <string name="private_sms_recording_intro_header">צייר תבנית לפתיחה:</string>
     <string name="private_sms_reset_by_account">על מנת לאפס את סיסמתך, היכנס לחשבון Mi שלך</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="provision_activation">פעיל</string>
     <string name="provision_back">הקודם</string>
     <string name="provision_next">הבא</string>
@@ -2545,6 +2593,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="security_encryption_attention_3">יהיה עליך להגדיר סיסמה חדשה עבור מסך הנעילה.</string>
     <string name="security_encryption_attention_4">הקפד לזכור את סיסמת מסך הנעילה שלך, אחרת יהיה עליך לבצע איפוס מלא ולמחוק את כל הנתונים במכשיר זה.</string>
     <string name="security_encryption_attention_info">באפשרותך להצפין חשבונות, הגדרות, יישומים שהורדו ונתונים שלהם, מדיה וקבצים אחרים.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">חשוב</string>
     <string name="security_encryption_close_dialog_info">בחירה שלא להצפין את המכשיר באמצעות סיסמת מסך הנעילה עשויה לגרום לשירותי Google מסויימים להיות לא זמינים.</string>
     <string name="security_encryption_close_dialog_title">חזור אל הגנה באמצעות סיסמה כברירת מחדל</string>
@@ -2658,6 +2707,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">"התראות, לחצני בקרת נגן המוסיקה וקיצורי דרך לא יוצגו ב'מסך הנעילה'."</string>
     <string name="skip_step">דלג</string>
@@ -2714,6 +2764,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="sos_privacy_dialog_title">תנאי השימוש</string>
     <string name="sound_category_call_ringtone_vibrate_title">צלצולים &amp; צלילי התראות</string>
     <string name="sound_category_system_title">מערכת</string>
+    <string name="sound_effects_enable_title">הקש על צלילים</string>
     <string name="sound_settings">צלילים</string>
     <string name="sound_stereo_mode_summary">זמין כאשר תנגן צליל באמצעות הרמקול</string>
     <string name="sound_stereo_mode_title">צליל סטריאו</string>
@@ -2740,6 +2791,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="status_bar_carrier_settings_no_sim_card">אין כרטיס SIM</string>
     <string name="status_bar_settings">התראות &amp; שורת מצב</string>
     <string name="status_bar_settings_all_app_display_loading">רק רגע…</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">התראות יישומים</string>
     <string name="status_bar_settings_notification_bar">לוח ההתראות</string>
     <string name="status_bar_settings_status_bar">שורת מצב</string>
@@ -2942,6 +2994,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="unlock_set_unlock_pin_summary" formatted="false">הכנס %d-%d מספרים בכדי לפתוח את המכשיר</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">הגדר שיטה לנעילת המסך</string>
+    <string name="unlock_type_category_title">Recognition method</string>
     <string name="unlogin_account_summary">כל מה שאתה צריך הוא חשבון Mi אחד בכדי להשתמש בכל שירותי Mi.</string>
     <string name="unlogin_account_title">היכנס לחשבון Mi</string>
     <string name="unrestrict_max_aspect_ratio_title">יישומים אלה עובדים ביעילות במצב מסך מלא</string>
@@ -3079,6 +3132,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="vibrate_in_normal_title">רטט בעת צלצול</string>
     <string name="vibrate_in_silent_title">רטט במצב שקט</string>
     <string name="vibrate_title">רטט</string>
+    <string name="video_tool_box_title">ארגז כלי וידאו</string>
     <string name="vip_list">אפשר שיחות נכנסות</string>
     <string name="virtual_sim_category_title">נדידת Mi</string>
     <string name="virtual_sim_description">שירות אמין לנדידה בינלאומית</string>
@@ -3184,6 +3238,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="wapi_psk_type_hex">הקסדצימלי</string>
     <string name="wapi_yes">כן</string>
     <string name="warm_color">חם</string>
+    <string name="wechat">WeChat</string>
     <string name="weight_heavy">מודגש</string>
     <string name="weight_light">דק</string>
     <string name="weight_setting_toast">ניתן לשנות את צורת הגופן רק עבור גופן ברירת המחדל של המערכת</string>
@@ -3472,6 +3527,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="wps_connect_summary">ודא כי הנתב שלך תומך ומאפשר WPS</string>
     <string name="wps_connect_title">חבר WPS</string>
     <string name="xiaomi_account">חשבון Mi</string>
+    <string name="xiaomi_cloud_find_device">אתר את המכשיר</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_description">Xiaomi Cloud מסנכרן אנשי קשר, תמונות ופריטים אחרים בין המכשירים שלך. גם \"איתור המכשיר\" זקוק לעבודה תקינה של Xiaomi Cloud.</string>
     <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud מסנכרן את תמונותך מגבה יישומים והגדרות ועוזר לך לאתר את מכשירך באמצעות \"איתור מכשיר\".</string>

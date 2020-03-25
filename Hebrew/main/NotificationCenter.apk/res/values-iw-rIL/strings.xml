@@ -13,6 +13,7 @@
     <string name="hint_search_all">חפש אחר יישומים</string>
     <string name="hint_search_in_disabled_apps">חפש אחר יישומים שאינן מציגים התראות</string>
     <string name="hint_search_in_enabled_apps">חפש אחר יישומים המציגים התראות</string>
+    <string name="last_sent_time_second">ממש עכשיו</string>
     <string name="list_title_disable_notification">התראות אינן מאופשרות</string>
     <string name="loading">רק רגע…</string>
     <string name="lock_screen_display_rules">פורמט</string>
@@ -26,6 +27,7 @@
     <string name="notification_fold_title">תיקית התראות</string>
     <string name="notification_manager">התראות יישום</string>
     <string name="notification_style_android">אנדרואיד</string>
+    <string name="notification_style_miui">MIUI</string>
     <string name="off">כיבוי</string>
     <string name="on">מופעל</string>
     <string name="settings_guide_title">צריך הגדרות נוספות?</string>

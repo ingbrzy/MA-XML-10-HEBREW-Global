@@ -83,6 +83,7 @@
     <string name="handy_mode_summary">לסגירה, גע באזור החשוך</string>
     <string name="handy_mode_title">מצב יד אחת</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">"הנח את האצבע שלך על לחצן ה'בית'"</string>
+    <string name="input_method_clipboard_tips">פריטים שהועתקו יימחקו מהלוח לאחר 48 שעות</string>
     <string name="input_method_edit_phrase_text">ערוך ביטויים שכיחים</string>
     <string name="input_method_no_content_text">אין פריטים להצגה</string>
     <string name="input_method_switch_settings_text">הגדרות מקלדת</string>

@@ -2,7 +2,7 @@
 <resources>
     <plurals name="delete_confirm_text">
         <item quantity="other">למחוק %1$d הקלטות מסך?</item>
-        <item quantity="one">למחוק הקלטת מסך זו?</item>
+        <item quantity="one">למחוק הקלטת מסך %1$d?</item>
         <item quantity="two">למחוק %1$d הקלטות מסך?</item>
         <item quantity="many">למחוק %1$d הקלטות מסך?</item>
     </plurals>

@@ -41,6 +41,8 @@
     <string name="cta_dialog_message">"כדי לפעול בצורה תקינה, היישום 'פתקים' זקוק להרשאות כדי להתחבר לאינטרנט, להקליט שמע, ולגשת לאנשי הקשר שלך. מאשר?"</string>
     <string name="cta_dialog_title">נדרשות הרשאות</string>
     <string name="cta_reminder">כדי להשתמש בפתקים נחוצות הרשאות בכדי להתחבר לאינטרנט, להקליט, ולקבל גישה אל אנשי הקשר שלך בכדי לעבוד בצורה תקינה. האם לאפשר?</string>
+    <string name="data_empty_note">אין פה הערות עדיין</string>
+    <string name="data_empty_todo">עוד אין כאן מטלות</string>
     <string name="date_calculate_today">0 ימים</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -147,6 +149,8 @@
     <string name="note_sort_way">בחר כיצד למיין את ההערות שלך</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
+    <string name="notelist_string_info">…</string>
+    <string name="notification_content_add_todo_from_other_app">הוספת משימה חדשה. הקש כדי לצפות בה.</string>
     <string name="notify_alarm_title">תזכורת לפתק</string>
     <string name="permdesc_accessNote">יישומים זדוניים עשויים לעשות בכך שימוש על מנת לגשת לנתוניך האישיים.</string>
     <string name="permission_get_account_desc">סנכרון הפתקים עם הענן</string>
@@ -211,7 +215,7 @@
     <string name="search_hint">חפש פתקים</string>
     <string name="search_keyword_notes">פתקים;תזכורת</string>
     <string name="search_label">מחפש…</string>
-    <string name="search_path_notes">יישומי מערכתתקים</string>
+    <string name="search_path_notes">יישומי מערכתפתקים</string>
     <string name="search_setting_description">חיפוש טקסט בפתקים שלך</string>
     <string name="select_account_prompt">סנכרן פתקים</string>
     <string name="set_alarm_description">הגדרת שעון מעורר</string>

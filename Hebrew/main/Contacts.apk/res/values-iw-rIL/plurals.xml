@@ -132,23 +132,11 @@
         <item quantity="two">(%1$d)</item>
         <item quantity="many">(%1$d)</item>
     </plurals>
-    <plurals name="listFoundAllContacts">
-        <item quantity="other">%d נמצאו</item>
-        <item quantity="one">1 נמצא</item>
-        <item quantity="two">%d נמצאו</item>
-        <item quantity="many">%d נמצאו</item>
-    </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d אנשי קשר</item>
-        <item quantity="one">איש קשר 1</item>
+        <item quantity="one">איש קשר %d</item>
         <item quantity="two">%d אנשי קשר</item>
         <item quantity="many">%d אנשי קשר</item>
-    </plurals>
-    <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d אנשי קשר עם מספרי טלפון</item>
-        <item quantity="one">איש קשר 1 עם מספר טלפון</item>
-        <item quantity="two">%d אנשי קשר עם מספרי טלפון</item>
-        <item quantity="many">%d אנשי קשר עם מספרי טלפון</item>
     </plurals>
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d אנשי קשר עם מידע זהה חלקית</item>
@@ -157,16 +145,10 @@
         <item quantity="many">%1$d אנשי קשר עם מידע זהה חלקית</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">מוזג מ-%1$d מקורות</item>
+        <item quantity="other">מוזג מ-%0$d מקורות</item>
         <item quantity="one">לא מוזג</item>
-        <item quantity="two">מוזג מ-%1$d מקורות</item>
-        <item quantity="many">מוזג מ-%1$d מקורות</item>
-    </plurals>
-    <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d הודעות קוליות</item>
-        <item quantity="one">הודעה קולית</item>
-        <item quantity="two">%1$d הודעות קוליות</item>
-        <item quantity="many">%1$d הודעות קוליות</item>
+        <item quantity="two">מוזג מ-%0$d מקורות</item>
+        <item quantity="many">מוזג מ-%0$d מקורות</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d נבחרו</item>
@@ -181,10 +163,10 @@
         <item quantity="many">%1$d אנשים מ- %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%1$dקבוצות</item>
-        <item quantity="one">קבוצה אחת</item>
-        <item quantity="two">%1$dקבוצות</item>
-        <item quantity="many">%1$dקבוצות</item>
+        <item quantity="other">%dקבוצות</item>
+        <item quantity="one">קבוצה %d</item>
+        <item quantity="two">%dקבוצות</item>
+        <item quantity="many">%dקבוצות</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">%1$d פריטים נותרו</item>
@@ -224,7 +206,7 @@
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">%d נמצאו</item>
-        <item quantity="one">1 נמצא</item>
+        <item quantity="one">%d נמצא</item>
         <item quantity="two">%d נמצאו</item>
         <item quantity="many">%d נמצאו</item>
     </plurals>

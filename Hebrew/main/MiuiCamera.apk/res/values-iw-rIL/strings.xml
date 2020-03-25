@@ -21,6 +21,7 @@
     <string name="accessibility_camera_record_start">התחל בהקלטת וידאו</string>
     <string name="accessibility_camera_record_stop">הפסק בהקלטת וידאו</string>
     <string name="accessibility_camera_shutter_finish">צילום התמונה בוצע בהצלחה</string>
+    <string name="accessibility_camera_switch_capture_recording">מעבר בין מצבי תמונה ווידאו</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">מצב גוף מלא כבוי</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">מצב גוף מלא מופעל</string>
     <string name="accessibility_camera_video_960fps_120">120FPS</string>
@@ -71,14 +72,17 @@
     <string name="accessibility_video_pause_button">השהה את הקלטת הוידאו</string>
     <string name="accessibility_video_resume_button">חזור להקליט</string>
     <string name="accessibility_zoom_button">מצב זום</string>
-    <string name="ai_scene_mode_use_hint_text">"מצלמת בינה מלאכותית (AI) מזהה את הסביבה באופן אוטומטי
-וממטבת את התמונה לפי הנתונים האלה"</string>
+    <string name="ai_scene_mode_use_hint_text">"זיהוי סצנות באמצעות בינה מלאכותית (AI)
+והתאמת העדפות אוטומטית"</string>
     <string name="ai_scene_top_moon_off">מצב תאורה חלשה</string>
     <string name="ai_scene_top_tip">מצב ירח</string>
     <string name="audio_focus_exit_button_text">כיבוי מיקוד שמע</string>
     <string name="autozoom_click_hint">לחץ על האובייקט על מנת להתחיל במעקב. הישאר לפחות 3 מטרים לקבלת אפקט מקסמלי.</string>
     <string name="autozoom_disabled_hint">עצור מעקב אחר אובייקטים נעים</string>
     <string name="autozoom_hint">עקוב אחר אובייקטים בתנועה</string>
+    <string name="auxiliary_close_status">האפקטים הנוספים מושבתים</string>
+    <string name="auxiliary_exposure_feedback_status">אימות חשיפה מופעל</string>
+    <string name="auxiliary_focus_peak_status">סימון אזור מיקוד מופעל</string>
     <string name="back_bokeh_use_hint">לאפקט מיטבי, שמור על האובייקט במרחק של עד 1.5 מטר</string>
     <string name="beauty_body">גוף</string>
     <string name="beauty_body_body">צנום</string>
@@ -112,6 +116,7 @@
     <string name="camera_liveshot_on_tip">צילום דינאמי</string>
     <string name="camera_mode_options">מצבים</string>
     <string name="camera_setting">מצלמה</string>
+    <string name="camera_settings_category_development">מאפיינים ניסיוניים</string>
     <string name="camera_settings_label">מצלמה</string>
     <string name="camera_snap_mode_title">מצב צילום מהיר</string>
     <string name="camera_snap_mode_title_detail">לחץ להצגת פרטים</string>
@@ -159,7 +164,7 @@
     <string name="confirm_install_scanner_message">"ה'סורק' מאפשר לך לסרוק קודי QR, ברקודים ועוד. אין צורך להתחבר לאינטרנט על מנת להתקינו."</string>
     <string name="confirm_install_scanner_title">"התקן את 'סורק'"</string>
     <string name="confirm_location_alert">זכור את המיקום בו צולמה התמונה</string>
-    <string name="confirm_location_message">תייג את התמונות והסירטונים שלך על ידי המיקום בו נלקחו. יישומים אחרים יוכלו לגשת למידע זה יחד עם התמונות ששמרת.</string>
+    <string name="confirm_location_message">&lt;Data>ברוך הבא אל המצלמה! תיוג המקומות שבהם צולמו התמונות והסרטונים יהפוך את הגלריה למסודרת יותר ויעזור למצוא תמונות וסרטונים מהר יותר. אם תגביל הוספת פרטי מיקום, ייתכן שחלק מהמאפיינים לא יהיו זמינים.&lt;br/>&lt;br/>נגן על המידע האישי שלך בהתאם לתקנות, לחוקים ולנוהלי הפרטיות הרלוונטיים.&lt;/Data></string>
     <string name="confirm_location_title">לזכור את המיקום בו צולמה התמונה?</string>
     <string name="confirm_recording_fail_calling_alert">לא ניתן להקליט במהלך שיחה.</string>
     <string name="confirm_recording_fail_recorder_busy_alert">יתכן שיישום אחר משתמש כבר במיקרופון של המכשיר לצורך הקלטה.</string>
@@ -298,9 +303,11 @@
     <string name="live_sticker_fragment_tab_name">אפקטיי TikTok</string>
     <string name="live_sticker_network_error_hint">שגיאת רשת</string>
     <string name="live_sticker_updating">מעדכן…</string>
+    <string name="location_access_allow">אפשר</string>
     <string name="location_permission_des">זכור מיקום עבור תמונות וסרטונים</string>
     <string name="location_permission_not_ask_again">אפשר למצלמה לקבל גישה למיקום שלך מההגדרות.</string>
     <string name="location_permission_not_ask_again_go_to_settings">אשר</string>
+    <string name="log_format">LOG</string>
     <string name="lying_direct_hint">כיוון נוכחי</string>
     <string name="macro_mode">מאקרו</string>
     <string name="macro_mode_tip">המרחק בין העדשה לבין האובייקט לא צריכה לעלות מעל 10 ס\"מ</string>
@@ -381,6 +388,7 @@
     <string name="module_name_professional">מקצועי</string>
     <string name="module_name_square">מרובע</string>
     <string name="module_name_video">וידאו</string>
+    <string name="moive_frame">פריים סרטון</string>
     <string name="multi_window_mode_not_supported">"המצלמה אינה עובדת במצב 'מסך מפוצל'"</string>
     <string name="network_access_user_notice_agree">מסכים</string>
     <string name="network_access_user_notice_message_live_video">&lt;Data>המצלמה צריכה להתחבר לאינטרנט כדי להשתמש באפקטים, במוזיקה ובמאפיינים אחרים ליצירת סרטונים קצרים.&lt;br/>&lt;br/>הקשה על מסכים למטה מהווה הסכמה עם &lt;a href =%1$s>הסכם המשתמש&lt;/a> ועם &lt;a href =%2$s>מדיניות הפרטיות&lt;/a> שלנו, ותאפשר למצלמה להתחבר לאינטרנט.&lt;/Data></string>
@@ -395,8 +403,47 @@
     <string name="pano_how_to_use_prompt_slow_down">האט…</string>
     <string name="pano_how_to_use_prompt_start">הקש על החץ על מנת להחליף כיוון והתחל לנוע הצידה בעדינות.</string>
     <string name="pano_how_to_use_prompt_to_move">התחל לנוע באיטיות</string>
+    <string name="parameter_description_pro_capture_title">מאפייני צילום למקצוענים</string>
+    <string name="parameter_description_pro_video_title">מאפייני וידאו למקצוענים</string>
+    <string name="parameter_description_sub_title">גלה יותר יצירתיות ושלוט במאפייני התמונות והסרטונים שלך</string>
+    <string name="parameter_ef_split_description">ניתן לגרור את טבעת החשיפה, להפריד אותה מטבעת המיקוד ולהתאים את שני הפרמטרים בנפרד.</string>
+    <string name="parameter_ef_split_title">מיקוד ומדידת חשיפה בנפרד</string>
+    <string name="parameter_et_description">מהירות צמצם אוטומטית נקבעת לפי מד התאורה של המצלמה. בבחירה ידנית של מהירות הצמצם עליך לזכור שככל שהצמצם פתוח במשך זמן רב יותר, כך החיישן קולט יותר אור, מה שהופך את התמונה לבהירה יותר.</string>
+    <string name="parameter_exposure_description">מאפיין זה מאפשר לפצות על החשיפה כאשר רוצים שהתמונה תהיה בהירה או כהה יותר ממה שמציג מד החשיפה.</string>
+    <string name="parameter_exposure_feecback_description">אזורים עם תת-חשיפה מסומנים בכחול ואזורים עם חשיפת יתר באדום, כדי לאפשר להתאים את החשיפה כנדרש.</string>
+    <string name="parameter_exposure_feecback_title">אימות חשיפה</string>
+    <string name="parameter_exposure_title">פיצוי חשיפה</string>
+    <string name="parameter_focus_description">ניתן למקד באופן ידני או אוטומטי. ככל שערך המיקוד שנבחר במחוון גבוה יותר, כך אזור המיקוד יהיה רחוק יותר מהעדשה.</string>
+    <string name="parameter_focus_title">מיקוד</string>
+    <string name="parameter_histogram_description">היסטוגרמה היא תצוגת החשיפה בזמן אמת המציגה את התפלגות התמונה לפי תאורת האזורים השונים, כאשר האזורים הכהים ביותר בתמונה מוצגים משמאל והאזורים הבהירים ביותר מימין. החלק האנכי של הסולם מראה באיזו מידה האזור כהה או בהיר.</string>
+    <string name="parameter_histogram_title">היסטוגרמה</string>
+    <string name="parameter_iso_description">ניתן להגדיר קביעת ערך ISO אוטומטית לפי מד התאורה. ניתן גם לשנות את הערך הזה באופן ידני. עליך לזכור שבערכי ISO גבוהים יותר המצלמה רגישה יותר לאור, אך כמות הרעש הדיגיטלי בתמונות גדלה.</string>
+    <string name="parameter_lens_description">ניתן להחליף בין כל העדשות הזמינות:</string>
+    <string name="parameter_lens_marco">, MACRO (עדשת מאקרו)</string>
+    <string name="parameter_lens_st">, S-TELE (עדשת זום)</string>
+    <string name="parameter_lens_t">, TELE (עדשת הגדלה)</string>
+    <string name="parameter_lens_tele_2x">, TELE-2X (עדשת הגדלה)</string>
+    <string name="parameter_lens_tele_5x">, TELE-5X (עדשת הגדלה)</string>
+    <string name="parameter_lens_title">עדשות</string>
+    <string name="parameter_lens_uw">, UW (זווית רחבה במיוחד)</string>
+    <string name="parameter_lens_w">WIDE (עדשה רחבה)</string>
+    <string name="parameter_log_format_description">בצילום וידאו בפורמט זה נעשה שימוש בפונקציה לוגריתמית המוחלת על עקומת החשיפה, כדי לשמור יותר פרטים באזורים המודגשים ובצללים, מה שנותן יותר אפשרויות בעיבוד הווידאו לאחר הצילום.</string>
+    <string name="parameter_log_format_title">פורמט LOG</string>
+    <string name="parameter_metering_description">מדידה ממוצעת מתחשבת בכל אזורי התמונה, והיא השיטה המתאימה ביותר לצילום בתאורה אחידה. מדידה מבוססת מרכז מתמקדת בעיקר במרכז התמונה ומתחשבת כנדרש בבהירות האזור שמסביב, שיטה זו מתאימה לצילום חפצים הנמצאים במרכז הפריים. מדידה נקודתית מתחשבת רק בנקודה מסוימת באזור, והיא מעניקה שליטה מדויקת בחשיפה.</string>
+    <string name="parameter_metering_title">מצבי מדידה</string>
+    <string name="parameter_peak_focus_description">בשימוש במאפיין של סימון אזור המיקוד עם מיקוד ידני, אזור המיקוד יסומן בצבע אדום.</string>
+    <string name="parameter_peak_focus_title">סימון אזור מיקוד</string>
+    <string name="parameter_peak_raw_description">בצילום תמונה בפורמט זה המצלמה שומרת את כל נתוני התמונה שהחיישן קולט. שמירת נתונים ללא דחיסה נותנת יותר אפשרויות בעיבוד תמונות לאחר הצילום.</string>
+    <string name="parameter_peak_raw_title">פורמט RAW</string>
+    <string name="parameter_wb_description">מעבר להגדרות הקבועות מראש לאיזון לבן (נורות ליבון, אור יום, תאורה פלורסנטית, יום מעונן), ניתן לבצע התאמה אישית של איזון הלבן, בטווח בין 2000 ל-8000 קלווין.</string>
+    <string name="parameter_wb_title">איזון לבן</string>
+    <string name="parameter_zoom_slider_description">גרור את מחוון ההגדלה כלפי מעלה וכלפי מטה כדי להגדיל או להקטין את התמונה בצורה חלקה.</string>
+    <string name="parameter_zoom_slider_title">הגדלה</string>
     <string name="path_settings">יישומי מערכתמצלמההגדרות</string>
     <string name="photo_assistance_tips_title">עצות בזמן אמת</string>
+    <string name="pic_flaw_blink_more">נראה שמישהו במסגרת עוצם עיניים</string>
+    <string name="pic_flaw_blink_one">נראה שהאדם שבמסגרת עוצם עיניים</string>
+    <string name="pic_flaw_cover">נראה שהעדשה מכוסה חלקית</string>
     <string name="popup_tip_3d_beauty_intro_text">יופי תלת-ממדי</string>
     <string name="portait_effect_entry_blackwhite">שחור ולבן</string>
     <string name="portait_effect_entry_cool">מנטה</string>
@@ -418,6 +465,17 @@
  את הרקע בתמונות שלך"</string>
     <string name="portrait_bokeh_text">מצב דיוקן</string>
     <string name="portrait_bokeh_tips">מקם את הנושא בטווח של 1.5 מטרים</string>
+    <string name="portrait_india_effect_entry_memory">זיכרון</string>
+    <string name="portrait_india_effect_entry_mono">מונו</string>
+    <string name="portrait_india_effect_entry_pink">ורוד</string>
+    <string name="portrait_india_effect_entry_portrait">דיוקן</string>
+    <string name="portrait_india_effect_entry_retro">רטרו</string>
+    <string name="portrait_india_effect_entry_romantic">רומנטי</string>
+    <string name="portrait_india_effect_entry_strong">אינטנסיבי</string>
+    <string name="portrait_india_effect_entry_sunny">בהיר</string>
+    <string name="portrait_india_effect_entry_sweet">קרמל</string>
+    <string name="portrait_india_effect_entry_warm">חמים</string>
+    <string name="portrait_india_effect_entry_young">צעיר</string>
     <string name="portrait_mode_depth_effect_success_hint">אפקט עומק</string>
     <string name="portrait_mode_lowlight_hint">חשוך מידי כעת</string>
     <string name="portrait_mode_too_close_hint">התרחק מהנושא</string>
@@ -426,7 +484,6 @@
  ומדגיש את האנשים בקידמה."</string>
     <string name="portrait_mode_use_hint_for_bokeh">נסה מצב דיוקן. nשמור את האובייקט חד, תוך טשטוש הרקע.</string>
     <string name="pref_960_watermark_title">סימן מים 960FPS</string>
-    <string name="pref_advance_settings">הגדרות נוספות</string>
     <string name="pref_ai_detect">זיהוי AI</string>
     <string name="pref_audio_focus_entry_front">קידמי</string>
     <string name="pref_audio_focus_entry_general">רגיל</string>
@@ -451,6 +508,10 @@
     <string name="pref_camera_autoexposure_entry_frameaverage">ממוצע מסגרת</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">מדידה נקודתית</string>
     <string name="pref_camera_autoexposure_title">הגדרות חשיפה אוטומטית</string>
+    <string name="pref_camera_auxiliary_close">כבוי</string>
+    <string name="pref_camera_auxiliary_exposure_feedback">אימות חשיפה</string>
+    <string name="pref_camera_auxiliary_focus_peak">סימון אזור מיקוד</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
@@ -475,6 +536,7 @@
     <string name="pref_camera_coloreffect_entry_vsco_a4">אנלוגי</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">מט</string>
     <string name="pref_camera_coloreffect_title">מסננים</string>
+    <string name="pref_camera_common_settings">הגדרות כלליות</string>
     <string name="pref_camera_contrast_title">ניגודיות</string>
     <string name="pref_camera_delay_capture_entry_10s">"10 ש' השהיה"</string>
     <string name="pref_camera_delay_capture_entry_3s">"3 ש' השהיה"</string>
@@ -483,12 +545,10 @@
     <string name="pref_camera_delay_capture_title">טיימר</string>
     <string name="pref_camera_device_watermark_title">סימן המים של המכשיר</string>
     <string name="pref_camera_exposuretime_entry_0_5">2s</string>
-    <string name="pref_camera_exposuretime_entry_1">1s</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
     <string name="pref_camera_exposuretime_entry_125">1/125s</string>
     <string name="pref_camera_exposuretime_entry_15">1/15s</string>
     <string name="pref_camera_exposuretime_entry_16s">16s</string>
-    <string name="pref_camera_exposuretime_entry_2">1/2s</string>
     <string name="pref_camera_exposuretime_entry_250">1/250s</string>
     <string name="pref_camera_exposuretime_entry_30">1/30s</string>
     <string name="pref_camera_exposuretime_entry_32s">32s</string>
@@ -525,6 +585,8 @@
     <string name="pref_camera_hdr_entry_live">חי</string>
     <string name="pref_camera_hdr_entry_normal">פרו</string>
     <string name="pref_camera_hdr_entry_off">כבוי</string>
+    <string name="pref_camera_heic_image_format_description">תמונות בתבנית קובץ תמונה ביעילות גבוהה (Heif) דורשות פחות שטח אחסון, אך יישומים מסוימים אינם תומכים בתבנית זו</string>
+    <string name="pref_camera_heic_image_format_title">תבנית HEIF</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
@@ -547,6 +609,7 @@
     <string name="pref_camera_lying_summary">התרע אודות הכיוון הנוכחי כאשר מקביל לרצפה</string>
     <string name="pref_camera_lying_title">התרע על הכיוון</string>
     <string name="pref_camera_magic_mirror_title">מראת קסמים</string>
+    <string name="pref_camera_manual_description_title">אודות המאפיינים למקצוענים</string>
     <string name="pref_camera_manual_mode_title">מצב ידני</string>
     <string name="pref_camera_movie_solid_title">ייצוב תמונה</string>
     <string name="pref_camera_multilevel_entry_high">גבוה</string>
@@ -570,6 +633,7 @@
     <string name="pref_camera_portrait_mode_title">מצב דיוקן</string>
     <string name="pref_camera_proximity_lock_summary">נעל מחוות מגע בעת נשיאה בתוך כיס</string>
     <string name="pref_camera_proximity_lock_title">מצב כיס</string>
+    <string name="pref_camera_quick_settings">הגדרות מהירות</string>
     <string name="pref_camera_recordlocation_entry_off">כבוי</string>
     <string name="pref_camera_recordlocation_entry_on">מופעל</string>
     <string name="pref_camera_recordlocation_title">שמור נתוני מיקום</string>
@@ -674,6 +738,9 @@
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720P</string>
     <string name="pref_photo_assistance_tips_off">כבוי</string>
     <string name="pref_photo_assistance_tips_on">מופעל</string>
+    <string name="pref_pic_flaw_tip_summary">קבל התראות בזמן אמת כאשר אנשים במסגרת עוצמים את העיניים או אם העדשה מכוסה חלקית בזמן הצילום</string>
+    <string name="pref_pic_flaw_tip_title">הצג הודעה על פגמים</string>
+    <string name="pref_popup_camera_title">מצלמה קופצת</string>
     <string name="pref_priority_storage_title">שמור על כרטיס הזכרון</string>
     <string name="pref_privacy_title">מדיניות הפרטיות</string>
     <string name="pref_qc_focus_position_title">מיקוד</string>
@@ -812,7 +879,7 @@
     <string name="video_effect_entry_polaroid">פולרואיד</string>
     <string name="video_reach_size_limit">הגעת לגודל המקסימלי.</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
-    <string name="video_ultra_clear_tip_8k">8K UHD</string>
+    <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">עיין במדיניות הפרטיות</string>
     <string name="vv_duartion_hint">%1$s | קטע %2$d | %3$ss</string>
     <string name="vv_hint">אפשר לצלם ולוג רק במצב תצוגה לרוחב</string>
