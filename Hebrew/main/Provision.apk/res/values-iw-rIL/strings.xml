@@ -95,6 +95,7 @@
     <string name="other_settings_auto_update">עדכון מערכת אוטוטמי</string>
     <string name="other_settings_auto_update_summary">MIUI יבחר את הזמן הטוב ביותר עבור הורדה והתקנה של עדכונים. המכשיר יאותחל באופן אוטומטי בכדי להחיל שינויים.</string>
     <string name="other_settings_enhanced_lockscreen">טפט קרוסלה</string>
+    <string name="other_settings_enhanced_lockscreen_for_india">Glance ל-Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">מדיניות הפרטיות</string>
     <string name="other_settings_enhanced_lockscreen_summary">קבל תמונות פופלריות וסיפורים ישירות למסך הנעילה שלך מדי יום.%1$s ו %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">הסכם הרישיון עבור משתמש הקצה</string>
@@ -160,7 +161,7 @@
     <string name="require_authority_statement">כדי לאפשר לנו לספק לך שירותים בסיסיים, עליך להעניק את ההרשאות הבאות על מנת שנוכל לאסוף את המידע האישי שלך:</string>
     <string name="require_network_authority_statement">כדי לאפשר לנו לספק לך שירותים בסיסיים, עליך להתחבר לאינטרנט ולהעניק את ההרשאות הבאות על מנת שנוכל לאסוף את המידע האישי שלך:</string>
     <string name="screen_recording_introduction">יישום זה מאפשר להקליט את מה שקורה על המסך שלך.</string>
-    <string name="security_introduction">תוכל להשתמש ביישום כדי לנקות שאריות קבצים ונתונים מהמכשיר, לאתר ולהסיר וירוסים, לייעל את הביצועים עבור משחקים, לחסוך בסוללה, לנהל יישומים, ועוד.</string>
+    <string name="security_introduction">ניתן להשתמש באפליקציה זו כדי לנקות קובצי זבל, לאתר ולנטרל וירוסים, למטב את ביצועי המכשיר עבור משחקים, להאריך את חיי הסוללה, לנהל אפליקציות, הרשאות ועוד.</string>
     <string name="security_mobile_account_introduction">כדי להיכנס ולנהל חשבונות מערכת</string>
     <string name="service_agreement">קראתי ואני מסכים לתנאי השימוש.</string>
     <string name="service_name_album">גלריה</string>
@@ -202,11 +203,11 @@
     <string name="skip_gesture_guide_dialog_positive_btn">אישור</string>
     <string name="skip_gesture_guide_dialog_title">מחוות מסך מלא</string>
     <string name="skip_underline">דלג על שלב זה</string>
-    <string name="start_up_slogan">Life gets easier</string>
+    <string name="start_up_slogan">החיים נהיו פשוטים יותר</string>
     <string name="summary_not_set">לא הוגדר</string>
     <string name="system_navigation_mode">מצב ניווט המערכת</string>
     <string name="terms_of_use">תנאים והגבלות</string>
-    <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider (ספק שירותי מיקום משולב), HTMLViewer (מציג HTML)</string>
+    <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider (ספק שירותי מיקום משולב), HTML Viewer (תצוגת HTML)</string>
     <string name="terms_of_use_label">"יש לקרוא את 'הסכם המשתמש' ואת 'מדיניות הפרטיות' שלנו כדי להבין איזה מידע אנו אוספים, כיצד אנו משתמשים בו, ומהן האפשרויות העומדות לרשותך. 
  כדי שיהיה באפשרותך להשתמש ב-MIUI עליך להסכים קודם ל'הסכם המשתמש' ול'מדיניות הפרטיות' שלנו. 
 %s ורכיבי חשבון ה-Mi יתחברו לאינטרנט וישיגו את המיקום שלך."</string>

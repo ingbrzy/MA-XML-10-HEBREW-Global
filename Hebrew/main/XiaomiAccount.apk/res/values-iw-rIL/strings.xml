@@ -58,6 +58,7 @@
     <string name="passport_change_phone_number">החלף מספר</string>
     <string name="passport_forget_password"><u>שכחתי את הסיסמה</u></string>
     <string name="passport_forget_password_no_underline">שכחתי את הסיסמה</string>
+    <string name="passport_can_not_receive_verification_code">לא קיבלת קוד אימות?</string>
     <string name="passport_reg_type_email">כתובת דוא\"ל</string>
     <string name="passport_register_by_email"><u>צור חשבון באמצעות כתובת דואל</u></string>
     <string name="passport_international_register_by_email">צור חשבון באמצעות כתובת דוא\"ל</string>
@@ -444,7 +445,9 @@
     <string name="input_new_pwd">הזן את סיסמתך</string>
     <string name="confirm_new_pwd">אשר את סיסמתך החדשה</string>
     <string name="inconsistent_pwd">הסיסמאות אינן תואמות</string>
-    <string name="same_new_and_old_pwd">אינו יכול להיות זהה לסיסמה נוכחית</string>
+    <string name="same_new_and_old_pwd">הסיסמה החדשה חייבת להיות שונה מזו הישנה</string>
+    <string name="pwd_width_phone_number_or_mail_num">הסיסמה לא יכולה להכיל את מספר הטלפון, כתובת האימייל או מזהה חשבון ה-Mi שלך</string>
+    <string name="risky_pwd_not_allow">הסיסמה החדשה אינה בטוחה. הגדר סיסמה אחרת.</string>
     <string name="account_security_info_pref_title">פרטי אבטחה</string>
     <string name="account_bind_settings">חשבונות</string>
     <string name="account_bind_devices">מכשירים</string>

@@ -12,7 +12,6 @@
     <string name="agree_camera_permission">לצילום תמונות והקלטת סרטונים</string>
     <string name="agree_storage_permission">לקבלת גישה לתמונות ולקבצים המאוחסנים במכשירך</string>
     <string name="always">תמיד</string>
-    <string name="amazon_assistant_shopping_title">חפש ב-Amazon</string>
     <string name="app_description_content">"ה'סורק' מאפשר לך לסרוק קודי QR, כרטיסי ביקור, מסמכים ועוד. ודא כי ביכולתך להסתדר ללא תכונות אלה לפני הסרת היישום."</string>
     <string name="app_description_title">"אודות 'סורק'"</string>
     <string name="app_details">יישום:</string>
@@ -45,6 +44,7 @@
     <string name="choose_open_code_app">בחר אפליקציה</string>
     <string name="choose_pay_title">בחר שיטת תשלום</string>
     <string name="choose_picture">בחר תמונת קוד QR</string>
+    <string name="choosed_title">נבחרו</string>
     <string name="classesNameNull_toast">יש להזין שם לשיעור</string>
     <string name="classes_canfirmTitle">אשר את התוצאות והחל את הייבוא</string>
     <string name="classes_company">ייבוא</string>
@@ -71,10 +71,16 @@
     <string name="copy_text">העתק טקסט</string>
     <string name="copy_text_success">הטקסט הועתק</string>
     <string name="copy_tracknum">העתק קוד מעקב</string>
+    <string name="create">צור קוד QR</string>
+    <string name="createFail">לא ניתן היה ליצור קוד QR. ההודעה שלך ארוכה מדי.</string>
+    <string name="createQRCode_hint">הזן טקסט</string>
+    <string name="createQRCode_save">שמור</string>
+    <string name="create_again">רענון</string>
     <string name="crop_cancel_description">ביטול</string>
     <string name="crop_done_description">בוצע</string>
     <string name="crop_title_study">חתוך את התמונה</string>
     <string name="crop_title_translation">בחר טקסט לתרגום</string>
+    <string name="delete">מחק</string>
     <string name="document_color_picture">צבעוני</string>
     <string name="document_color_picture_tip">"ממיר ל'צבעוני'…"</string>
     <string name="document_crop_title">חתוך את המסמך</string>
@@ -129,6 +135,8 @@
     <string name="food_module_title_food">קלוריות</string>
     <string name="got_it">הבנתי</string>
     <string name="gps">נווט</string>
+    <string name="history">היסטוריה</string>
+    <string name="importFailed">לא ניתן היה לייבא</string>
     <string name="import_contact">ייבא איש קשר</string>
     <string name="impunity_declaration_content">הסורק צריך להשתמש במצלמת המכשיר שלך ולעבד את התמונות שצולמו באמצעות האפליקציה. אל תשתמש בסורק כדי לצלם תמונות של חפצים המכילים מידע אישי. הקשה על \"מסכים\" מהווה הסכמה עם &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">מדיניות הפרטיות&lt;/a>&lt;/font> שלנו, ותאפשר לסורק להתחבר לאינטרנט.</string>
     <string name="impunity_declaration_negative_text">יציאה</string>
@@ -199,6 +207,11 @@
     <string name="recognize">סרוק</string>
     <string name="recognize_fail">לא ניתן היה לקרוא את הקוד</string>
     <string name="request_server_failed">לא ניתן היה להתחבר לשרת</string>
+    <string name="saveDone">נשמר בהצלחה</string>
+    <string name="scanHistory">היסטוריית הסורק</string>
+    <string name="scanHistory_close">כבה</string>
+    <string name="scanHistory_isOpen">להתחיל לעקוב אחר ההיסטוריה של פריטים שנסרקו?</string>
+    <string name="scanHistory_open">הפעל</string>
     <string name="scan_result">תוצאה</string>
     <string name="scan_support_type">WeChat, Alipay, קודי QR, ברקודים</string>
     <string name="sdk_not_ready">מכין את SDK. נסה שוב מאוחר יותר.</string>

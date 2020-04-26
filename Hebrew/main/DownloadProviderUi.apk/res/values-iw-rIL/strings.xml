@@ -101,13 +101,13 @@
     <string name="downloading">מוריד…</string>
     <string name="downloading_empty">ריק</string>
     <string name="downloads_operating">עובד…</string>
-    <string name="durationDayHour">יום %1$d שעה %2$d</string>
-    <string name="durationDayHours">יום %1$d %2$d שעות</string>
-    <string name="durationHourMinute">שעה %1$d דקה %2$d</string>
-    <string name="durationHourMinutes">שעה %1$d %2$d דקות</string>
+    <string name="durationDayHour">%1$d יום %2$d שעות</string>
+    <string name="durationDayHours">%1$d יום %2$d שעות</string>
+    <string name="durationHourMinute">%1$d שעות %2$d דקות</string>
+    <string name="durationHourMinutes">%1$d שעות %2$d דקות</string>
     <string name="durationMinute">דקה %1$d</string>
-    <string name="durationMinuteSecond">דקה %1$d שניה %2$d</string>
-    <string name="durationMinuteSeconds">דקה %1$d %2$d שניות</string>
+    <string name="durationMinuteSecond">%1$d דקות ו-%2$d שניות</string>
+    <string name="durationMinuteSeconds">%1$d דקות ו-%2$d שניות</string>
     <string name="durationMinutes">%1$d דקות</string>
     <string name="durationSecond">שניה %1$d</string>
     <string name="durationSeconds">%1$d שניות</string>
@@ -179,7 +179,7 @@
     <string name="pref_download_settings_title">מגבלת גודל הורדה</string>
     <string name="pref_summary_any_bytes_popup">המתן תמיד לחיבור רשת אלחוטית לצורך הורדת קבצים</string>
     <string name="pref_summary_enable_max_bytes_popup">הצג התראה קופצת במקרה של הורדת תוכן באמצעות חיבור נתונים סלולרי</string>
-    <string name="pref_summary_max_bytes_limit_format">המתן לחיבור רשת אלחוטית במידה וגודל הקובץ חורג מ- %s</string>
+    <string name="pref_summary_max_bytes_limit_format">המתן לחיבור רשת אלחוטית אם גודל הקובץ חורג מ- %s</string>
     <string name="pref_summary_no_limit_popup">ללא הגבלה</string>
     <string name="pref_title_enable_max_bytes_popup">הצג התראת שימוש בנתונים</string>
     <string name="preferences_title">הגדרות</string>
@@ -223,4 +223,5 @@
     <string name="toast_only_wifi_download">התחבר לרשת אלחוטית על מנת להוריד פריט זה</string>
     <string name="total_speedup">האצת מהירות (סה\"כ)</string>
     <string name="version">גרסה %s</string>
+    <string name="security_ui_title">Security ads</string>
 </resources>

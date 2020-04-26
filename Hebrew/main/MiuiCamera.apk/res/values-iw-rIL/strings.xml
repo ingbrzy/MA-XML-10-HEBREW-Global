@@ -76,6 +76,7 @@
 והתאמת העדפות אוטומטית"</string>
     <string name="ai_scene_top_moon_off">מצב תאורה חלשה</string>
     <string name="ai_scene_top_tip">מצב ירח</string>
+    <string name="ai_watermark_title">סימן מים AI</string>
     <string name="audio_focus_exit_button_text">כיבוי מיקוד שמע</string>
     <string name="autozoom_click_hint">לחץ על האובייקט על מנת להתחיל במעקב. הישאר לפחות 3 מטרים לקבלת אפקט מקסמלי.</string>
     <string name="autozoom_disabled_hint">עצור מעקב אחר אובייקטים נעים</string>
@@ -109,6 +110,7 @@
     <string name="button_fisheye_camera_title">עין הדג</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>
+    <string name="camcorder_tip_8k_max_video_duration">ניתן להקליט סרטון באורך עד 6 דקות באיכות 8K</string>
     <string name="camera_disabled">המצלמה הושבתה</string>
     <string name="camera_error_title">שגיאת מצלמה</string>
     <string name="camera_label">מצלמה</string>
@@ -122,14 +124,15 @@
     <string name="camera_snap_mode_title_detail">לחץ להצגת פרטים</string>
     <string name="cannot_connect_camera_once">לא ניתן להתחבר למצלמה</string>
     <string name="cannot_connect_camera_twice">עדיין לא ניתן להתחבר למצלמה. נסה להפעיל את מכשירך מחדש.</string>
-    <string name="cannot_connect_camera_volte_call">שיחת וידאו נמצאת בעיצומה, נסה שוב מאוחר יותר.</string>
     <string name="cannot_move_warning_message">מצלם, השאר את המכשיר יציב</string>
     <string name="capture_back_pressed_hint">לחץ שוב ליציאה</string>
+    <string name="ccc_temperature_warning_msg">מכשירך התחמם יתר על המידה. המצלמה תיסגר בעוד %d שניות. התמונות או הסרטונים שלך יישמרו באופן אוטומטי.</string>
+    <string name="ccc_temperature_warning_title">המכשיר התחמם יתר על המידה</string>
     <string name="close_back_flash_toast">מכשירך חם יתר על המידה. אין אפשרות להשתמש בפלאש כרגע.</string>
     <string name="close_front_flash_toast">מכשירך חם יתר על המידה. אין אפשרות להשתמש בפלאש כרגע.</string>
     <string name="color_effect_entry_berry">פירות יער</string>
     <string name="color_effect_entry_blackwhite">שחור ולבן</string>
-    <string name="color_effect_entry_classic">Classic</string>
+    <string name="color_effect_entry_classic">קלאסי</string>
     <string name="color_effect_entry_cookie">עוגיה</string>
     <string name="color_effect_entry_delicacy">גורמה</string>
     <string name="color_effect_entry_fade">מעומעם</string>
@@ -150,6 +153,7 @@
     <string name="color_effect_live_none">רגילה</string>
     <string name="color_effect_live_solar">כחול שמיים</string>
     <string name="color_effect_live_years">חום כהה</string>
+    <string name="color_enhance_mode">צבעים מחוזקים</string>
     <string name="config_name_group">סלפי קבוצתי</string>
     <string name="config_name_hht">HHT</string>
     <string name="config_name_magic">קסם</string>
@@ -183,6 +187,12 @@
     <string name="dialog_ok_time">אישור (%dד)</string>
     <string name="dirty_tip_toast">העדשה מלוכלכת. עליך לנגב אותה.</string>
     <string name="do_not_remind_me">אל תציג שוב</string>
+    <string name="document_blackwhite">שחור ולבן</string>
+    <string name="document_mode_use_hint_text_body">"סדר וחדד
+מסמכים סרוקים באופן אוטומטי"</string>
+    <string name="document_mode_use_hint_text_title">סריקת מסמכים</string>
+    <string name="document_origin">מקור</string>
+    <string name="document_strengthen">משופר</string>
     <string name="dual_camera_lens_covered_toast">העדשה מוסתרת.</string>
     <string name="dual_camera_lowlight_toast">נראה כי חשוך מידי.</string>
     <string name="dual_camera_too_close_toast">המצלמה קרובה מידי לעצם.</string>
@@ -193,6 +203,7 @@
     <string name="edit_eyebrow_dye">גבות</string>
     <string name="edit_face_ruddy">אדמדם</string>
     <string name="edit_face_slender">צנום</string>
+    <string name="edit_hairline">קו השיער</string>
     <string name="edit_jelly_lips">שפתון מבריק</string>
     <string name="edit_lips">שפתיים</string>
     <string name="edit_neck">צוואר</string>
@@ -238,6 +249,7 @@
     <string name="face_beauty_smart">חכם</string>
     <string name="face_score_info">ניקוד: %.1f</string>
     <string name="fps960_toast">לכידה בהילוך איטי תחל ברבע האחרון של ההקלטה</string>
+    <string name="fragment_tab_name_bokeh">בוקה/טשטוש</string>
     <string name="front_camera_hint_text_place">"צילום תמונות סלפי יהיה נוח יותר
 אם תסובב את הטלפון שלך"</string>
     <string name="front_camera_hint_text_rotate">סובב את הטלפון שלך</string>
@@ -256,8 +268,16 @@
     <string name="hint_groupshot_beauty">לא ניתן לבצע ייפוי בתמונות קבוצתיות</string>
     <string name="hint_mimovie">צלם במצב נוף כדי לקבל את האפקט הטוב ביותר</string>
     <string name="hint_slow_motion">הסרטון שתצלם יתנגן לאט יותר.</string>
+    <string name="hint_subtitle">הכתב תוכן של כתוביות בזמן הקלטת וידאו</string>
+    <string name="hint_subtitle_prompt">אפשר להתחיל להכתיב כתוביות</string>
     <string name="hunt_dual_water_mark">סימני מים של המצלמה הכפולה יתווספו באופן אוטומטי.</string>
+    <string name="id_card_mode_hint_back">סרוק את הצד האחורי של תעודת הזהות שלך</string>
+    <string name="id_card_mode_hint_front">סרוק את הצד הקדמי של תעודת הזהות שלך</string>
+    <string name="id_card_mode_use_hint_text_body">"אחד את שני צדי תעודת הזהות שלך בתמונה אחת. 
+ הדפס את ההעתק באופן אלחוטי על נייר A4."</string>
+    <string name="id_card_mode_use_hint_text_title">סריקת ת\"ז</string>
     <string name="install_confirmed">התקנה</string>
+    <string name="kaleidoscope_fragment_tab_name">קלידאסקופ</string>
     <string name="lens_dirty_detected_content">"נראה שעדשת המצלמה במכשירך מלוכלכת.
 נקה את העדשה לקבלת תמונה טובה יותר."</string>
     <string name="lens_dirty_detected_title_back">עדשת המצלמה האחורית מלוכלכת</string>
@@ -391,9 +411,10 @@
     <string name="moive_frame">פריים סרטון</string>
     <string name="multi_window_mode_not_supported">"המצלמה אינה עובדת במצב 'מסך מפוצל'"</string>
     <string name="network_access_user_notice_agree">מסכים</string>
-    <string name="network_access_user_notice_message_live_video">&lt;Data>המצלמה צריכה להתחבר לאינטרנט כדי להשתמש באפקטים, במוזיקה ובמאפיינים אחרים ליצירת סרטונים קצרים.&lt;br/>&lt;br/>הקשה על מסכים למטה מהווה הסכמה עם &lt;a href =%1$s>הסכם המשתמש&lt;/a> ועם &lt;a href =%2$s>מדיניות הפרטיות&lt;/a> שלנו, ותאפשר למצלמה להתחבר לאינטרנט.&lt;/Data></string>
+    <string name="network_access_user_notice_message_live_video">&lt;Data>המצלמה צריכה להתחבר לאינטרנט כדי להשתמש באפקטים, במוזיקה ובמאפיינים אחרים ליצירת סרטונים קצרים.&lt;br/>&lt;br/>הקשה על \"מסכים\" למטה מהווה הסכמה עם &lt;a href =%1$s>הסכם המשתמש&lt;/a> ועם &lt;a href =%2$s>מדיניות הפרטיות&lt;/a> שלנו, ותאפשר למצלמה להתחבר לאינטרנט.&lt;/Data></string>
+    <string name="network_access_user_notice_message_mi_live_video">&lt;Data>ברוכים הבאים לסרטונים! השירות שלנו צריך להתחבר לאינטרנט כדי לספק לך מוזיקה ומאפיינים נוספים.&lt;br/>&lt;br/>כדי להשתמש בשירות שלנו, עליך להסכים עם &lt;a href =%1$s>הסכם המשתמש&lt;/a> ועם &lt;a href =%2$s>מדיניות הפרטיות&lt;/a> שלנו, וגם לאפשר לאפליקציה להתחבר לאינטרנט.&lt;/Data></string>
     <string name="network_access_user_notice_message_sticker">&lt;Data>המצלמה צריכה להתחבר לאינטרנט כדי ליצור מדבקות עבור המאפיין הזה.&lt;br/>&lt;br/>הקשה על מסכים למטה מהווה הסכמה עם &lt;a href =%1$s>הסכם המשתמש&lt;/a> ועם &lt;a href =%2$s>מדיניות הפרטיות&lt;/a> שלנו, ותאפשר למצלמה להתחבר לאינטרנט.&lt;/Data></string>
-    <string name="network_access_user_notice_message_voice_caption">&lt;Data>המצלמה צריכה להתחבר לאינטרנט כדי לספק פונקציה של המרת דיבור לטקסט.&lt;br/>&lt;br/>הקשה על מסכים למטה מהווה הסכמה עם &lt;a href =%1$s>הסכם המשתמש&lt;/a> ועם &lt;a href =%2$s>מדיניות הפרטיות&lt;/a> שלנו, ותאפשר למצלמה להתחבר לאינטרנט.&lt;/Data></string>
+    <string name="network_access_user_notice_message_voice_caption">&lt;Data>המצלמה צריכה להתחבר לאינטרנט כדי לספק פונקציה של המרת דיבור לטקסט.&lt;br/>&lt;br/>הקשה על \"מסכים\" למטה מהווה הסכמה עם &lt;a href =%1$s>הסכם המשתמש&lt;/a> ועם &lt;a href =%2$s>מדיניות הפרטיות&lt;/a> שלנו, ותאפשר למצלמה להתחבר לאינטרנט.&lt;/Data></string>
     <string name="network_access_user_notice_title">התחבר לאינטרנט</string>
     <string name="no_storage">הכנס כרטיס זכרון לפני הפעלת המצלמה</string>
     <string name="not_enough_space">כרטיס הזכרון מלא</string>
@@ -409,6 +430,7 @@
     <string name="parameter_ef_split_description">ניתן לגרור את טבעת החשיפה, להפריד אותה מטבעת המיקוד ולהתאים את שני הפרמטרים בנפרד.</string>
     <string name="parameter_ef_split_title">מיקוד ומדידת חשיפה בנפרד</string>
     <string name="parameter_et_description">מהירות צמצם אוטומטית נקבעת לפי מד התאורה של המצלמה. בבחירה ידנית של מהירות הצמצם עליך לזכור שככל שהצמצם פתוח במשך זמן רב יותר, כך החיישן קולט יותר אור, מה שהופך את התמונה לבהירה יותר.</string>
+    <string name="parameter_et_title">מהירות הצמצם</string>
     <string name="parameter_exposure_description">מאפיין זה מאפשר לפצות על החשיפה כאשר רוצים שהתמונה תהיה בהירה או כהה יותר ממה שמציג מד החשיפה.</string>
     <string name="parameter_exposure_feecback_description">אזורים עם תת-חשיפה מסומנים בכחול ואזורים עם חשיפת יתר באדום, כדי לאפשר להתאים את החשיפה כנדרש.</string>
     <string name="parameter_exposure_feecback_title">אימות חשיפה</string>
@@ -418,7 +440,8 @@
     <string name="parameter_histogram_description">היסטוגרמה היא תצוגת החשיפה בזמן אמת המציגה את התפלגות התמונה לפי תאורת האזורים השונים, כאשר האזורים הכהים ביותר בתמונה מוצגים משמאל והאזורים הבהירים ביותר מימין. החלק האנכי של הסולם מראה באיזו מידה האזור כהה או בהיר.</string>
     <string name="parameter_histogram_title">היסטוגרמה</string>
     <string name="parameter_iso_description">ניתן להגדיר קביעת ערך ISO אוטומטית לפי מד התאורה. ניתן גם לשנות את הערך הזה באופן ידני. עליך לזכור שבערכי ISO גבוהים יותר המצלמה רגישה יותר לאור, אך כמות הרעש הדיגיטלי בתמונות גדלה.</string>
-    <string name="parameter_lens_description">ניתן להחליף בין כל העדשות הזמינות:</string>
+    <string name="parameter_iso_title">רגישות ISO</string>
+    <string name="parameter_lens_description">"ניתן להחליף בין כל העדשות הזמינות: "</string>
     <string name="parameter_lens_marco">, MACRO (עדשת מאקרו)</string>
     <string name="parameter_lens_st">, S-TELE (עדשת זום)</string>
     <string name="parameter_lens_t">, TELE (עדשת הגדלה)</string>
@@ -511,6 +534,7 @@
     <string name="pref_camera_auxiliary_close">כבוי</string>
     <string name="pref_camera_auxiliary_exposure_feedback">אימות חשיפה</string>
     <string name="pref_camera_auxiliary_focus_peak">סימון אזור מיקוד</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
@@ -543,22 +567,8 @@
     <string name="pref_camera_delay_capture_entry_audio">שמע</string>
     <string name="pref_camera_delay_capture_title">טיימר</string>
     <string name="pref_camera_device_watermark_title">סימן המים של המכשיר</string>
-    <string name="pref_camera_exposuretime_entry_0_5">2s</string>
-    <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
-    <string name="pref_camera_exposuretime_entry_125">1/125s</string>
-    <string name="pref_camera_exposuretime_entry_15">1/15s</string>
-    <string name="pref_camera_exposuretime_entry_16s">16s</string>
-    <string name="pref_camera_exposuretime_entry_250">1/250s</string>
-    <string name="pref_camera_exposuretime_entry_30">1/30s</string>
-    <string name="pref_camera_exposuretime_entry_32s">32s</string>
-    <string name="pref_camera_exposuretime_entry_4">1/4s</string>
-    <string name="pref_camera_exposuretime_entry_4s">4s</string>
-    <string name="pref_camera_exposuretime_entry_500">1/500s</string>
-    <string name="pref_camera_exposuretime_entry_60">1/60s</string>
-    <string name="pref_camera_exposuretime_entry_8">1/8s</string>
-    <string name="pref_camera_exposuretime_entry_8s">8s</string>
-    <string name="pref_camera_exposuretime_entry_auto">אוטומטי</string>
     <string name="pref_camera_face_info_watermark_title">הוספת חותמת גיל על תמונות</string>
+    <string name="pref_camera_first_tag_tips">סומן בהצלחה</string>
     <string name="pref_camera_flashmode_entry_auto">אוטומטי</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">תאורה רכה</string>
     <string name="pref_camera_flashmode_entry_off">כבוי</string>
@@ -689,6 +699,8 @@
     <string name="pref_camera_video_duration_entry_120">ללא הגבלה</string>
     <string name="pref_camera_video_duration_entry_30">30 דקות</string>
     <string name="pref_camera_video_duration_entry_mms">30 שניות (MMS)</string>
+    <string name="pref_camera_video_tag">אשר יצירת סרטונים</string>
+    <string name="pref_camera_video_tag_description">הקש על \"סמן\" בזמן צילום וידאו כדי לקבל אפשרות לחזור לרגעים שסומנו בזמן ניגון הווידאו</string>
     <string name="pref_camera_volumekey_function_entry_shutter">תריס</string>
     <string name="pref_camera_volumekey_function_entry_timer">צילום בספירה לאחור</string>
     <string name="pref_camera_volumekey_function_entry_volume">עוצמה</string>
@@ -707,8 +719,8 @@
     <string name="pref_camera_zoom_mode_entry_macro">MACRO</string>
     <string name="pref_camera_zoom_mode_entry_standard">רגיל</string>
     <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-    <string name="pref_camera_zoom_mode_entry_tele_2X">הגדלה פי 2</string>
-    <string name="pref_camera_zoom_mode_entry_tele_standalone">הגדלה פי 5</string>
+    <string name="pref_camera_zoom_mode_entry_tele_2X">הגדלה X2</string>
+    <string name="pref_camera_zoom_mode_entry_tele_standalone">הגדלה X5</string>
     <string name="pref_camera_zoom_mode_entry_ultra">זווית רחבה מאוד</string>
     <string name="pref_camera_zoom_mode_entry_wide">רחבה</string>
     <string name="pref_camera_zoom_mode_title">עדשה</string>
@@ -716,6 +728,7 @@
     <string name="pref_camera_zsl_entry_off">כבוי</string>
     <string name="pref_camera_zsl_entry_on">מופעל</string>
     <string name="pref_capture_settings">מצלמה</string>
+    <string name="pref_document_mode">מסמכים</string>
     <string name="pref_face_beauty_title">ייפוי</string>
     <string name="pref_fingerprint_capture_title">צילום באמצעות טביעת אצבע</string>
     <string name="pref_front_mirror_entry_auto">בזיהוי של פנים</string>
@@ -777,13 +790,14 @@
     <string name="pref_video_speed_entry_slow">איטית</string>
     <string name="pref_video_speed_fast_title">צילום דולג זמן</string>
     <string name="pref_video_speed_slow_title">הילוך איטי</string>
+    <string name="pref_video_subtitle">כתוביות</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">10X (מרווח של 0.3 שניות)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">120X (מרווח של 4 שניות)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_150">150X (מרווח של 5 שניות)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_1800">1800X (מרווח של 60 שניות)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">2X (מרווח של 0.06 שניות)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_240">240X (מרווח של 8 שניות)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_30">30X (שניה 1)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_30">30X (מרווח של שנייה 1)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_300">300X (מרווח של 10 שניות)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">4X (מרווח של 0.12 שניות)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_450">450X (מרווח של 15 שניות)</string>
@@ -795,6 +809,7 @@
     <string name="pref_watermark_on">מופעל</string>
     <string name="pref_watermark_title">סימן מים</string>
     <string name="preparing_sd">בודק כרטיס זכרון…</string>
+    <string name="pro_color_mode">Pro Color</string>
     <string name="recommend_macro_mode">נסה את מצב צילום מאקרו</string>
     <string name="recommend_portrait">נסה את מצב דיוקן</string>
     <string name="recommend_soft_light_tip">כבה את הפלאש</string>
@@ -832,6 +847,10 @@
     <string name="start_capture">אישור</string>
     <string name="sticker_tab1">חמוד</string>
     <string name="sticker_tab2">מצחיק</string>
+    <string name="subtitle_network_exception_tips">לא ניתן להתחבר לרשת. לא ניתן לתמלל כרגע.</string>
+    <string name="super_eis">ייצוב-על</string>
+    <string name="super_eis_disabled_hint">ייצוב-על כבוי</string>
+    <string name="super_night_hint">ממטב את התמונה…שמור על יציבות המכשיר שלך.</string>
     <string name="super_night_toast">החזק את מכשיר הטלפון יציב כאשר אתה מצלם</string>
     <string name="tap_to_exposure">לחץ להתאמת החשיפה באופן ידני</string>
     <string name="tap_to_focus">לחץ למיקוד</string>
@@ -844,13 +863,17 @@
     <string name="toast_start_audio_capture">השמע צליל לצילום תמונה</string>
     <string name="ubi_focus_capture_fail">לא ניתן היה לצלם תמונה</string>
     <string name="ubifocus_capture_warning_message">לתוצאות מירביות, על התמונה להכיל עצמים קרובים (פחות ממטר מעדשת המצלמה) ורחוקים כאחד</string>
+    <string name="ultra_pixel_108mp">108MP</string>
     <string name="ultra_pixel_32mp">32MP</string>
     <string name="ultra_pixel_48mp">48MP</string>
     <string name="ultra_pixel_64mp">64MP</string>
     <string name="ultra_pixel_photography_close_tip">%sUltra HD כבוי</string>
     <string name="ultra_pixel_photography_open_tip">%sUltra HD מופעל</string>
-    <string name="ultra_pixel_portrait_hint">דיוקן באיכות HD</string>
+    <string name="ultra_pixel_portrait_hint">דיוקן בתאורה נמוכה</string>
     <string name="ultra_pixel_zoom_no_support_tip">זום אינו עובד ב%s מצב Ultra HD</string>
+    <string name="ultra_tele_use_hint_text_body">"השתמש בהגדלה פי 50 כדי לצלם חפצים מרוחקים
+ברמת פירוט גבוהה יותר"</string>
+    <string name="ultra_tele_use_hint_text_title">הגדלה פי 50</string>
     <string name="ultra_wide_bokeh_close_tip">מצב גוף מלא כבוי</string>
     <string name="ultra_wide_bokeh_open_tip">מצב גוף מלא</string>
     <string name="ultra_wide_close_tip">מצב זווית מאוד רחבה כבוי</string>
@@ -869,14 +892,27 @@
     <string name="user_notice_identify_summary_format">לפני שתשתמש במצלמה, תהיה חייב להסכים ל <a href="http://www.miui.com/res/doc/eula.html?lang=iw_IL">הסכם המשתמש</a> ו <a href="http://www.miui.com/res/doc/privacy.html?lang=iw_IL">מדיניות הפרטיות</a> המצלמה צריכה חיבור אינטרנט על מנת לעבוד באופן תקין. האם אתה מסכים?</string>
     <string name="user_notice_title">תנאי השימוש</string>
     <string name="video_beauty_tip">ייפוי עבור וידאו</string>
+    <string name="video_beauty_tip_beautification">Beautify</string>
+    <string name="video_beauty_tip_filter">מסננים</string>
+    <string name="video_beauty_tip_portrait_bokeh">בוקה/טשטוש</string>
     <string name="video_camera_label">מצלמת וידאו</string>
     <string name="video_effect_entry_blackwhite">שחור ולבן</string>
     <string name="video_effect_entry_bygone">נוסטלגיה</string>
+    <string name="video_effect_entry_central">מרכזי</string>
+    <string name="video_effect_entry_color_retention">פופ צבעוני</string>
+    <string name="video_effect_entry_fantasy">פנטזיה</string>
     <string name="video_effect_entry_film">סרט</string>
     <string name="video_effect_entry_forest">גרוב</string>
     <string name="video_effect_entry_holiday">השתקפויות</string>
+    <string name="video_effect_entry_lost">אבודים</string>
+    <string name="video_effect_entry_meet">מפגש</string>
+    <string name="video_effect_entry_northern_europe">נורדי</string>
     <string name="video_effect_entry_polaroid">פולרואיד</string>
+    <string name="video_effect_entry_rome">רומא</string>
+    <string name="video_effect_entry_summer_day">קיץ</string>
+    <string name="video_effect_entry_wind_sing">בריזה</string>
     <string name="video_reach_size_limit">הגעת לגודל המקסימלי.</string>
+    <string name="video_tag_flag_title">סמן</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">עיין במדיניות הפרטיות</string>
@@ -888,6 +924,11 @@
 להקליט ולערוך וידאו בתנועה"</string>
     <string name="vv_use_hint_text_title">ולוג</string>
     <string name="wait">רק רגע…</string>
+    <string name="watermark_tab_city">עיר</string>
+    <string name="watermark_tab_festival">חופשות וחגים</string>
+    <string name="watermark_tab_general">כללי</string>
+    <string name="watermark_tab_scene">תרחיש</string>
+    <string name="watermark_tab_spots">אתר</string>
     <string name="wideselfie_press_shoot_key_to_start">הקש על לחצן הצילום</string>
     <string name="wideselfie_result_image_lossless">לא יכול היה ליצור תמונה פנרומית</string>
     <string name="wideselfie_rotate_slowly">סובב את המכשיר על צידו</string>

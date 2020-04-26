@@ -3,8 +3,12 @@
     <string name="mi_service_app_name">שירותים ומשוב</string>
     <string name="miservice_channel_update_notification_info">\"שירותים ומשוב\" מבקש גישה למידע מקוון…</string>
     <string name="miservice_notification_boot_content">למד עוד מה MIUI יכול לעשות</string>
+    <string name="miservice_notification_huanji_content">העבר באמצעות Mi Mover</string>
+    <string name="miservice_notification_huanji_title">האם יש לך פריטים חשובים בטלפון הישן?</string>
     <string name="miservice_notification_open_feedback_content">כל תכונות המשוב הוזזו ליישום החדש</string>
     <string name="miservice_notification_open_feedback_title">מציג \"שירותים ומשוב\"</string>
+    <string name="miservice_notification_scan_content">השתמש בסורק כדי לתרגם מילים וביטויים</string>
+    <string name="miservice_notification_scan_title">תרגם במהירות</string>
     <string name="miui_feedback_answer_detail_community">תוכל למצוא תשובות עבור השאלות ששאלת בקהילת Mi</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">כן</string>
     <string name="miui_feedback_answer_detail_feedback_result">תודה לך על המשוב!</string>
@@ -19,6 +23,7 @@
     <string name="miui_feedback_edit_add_original_images_dialog_content">אם הבעיה עליה דיווחת קשורה לאיכות התמונה של המצלמה, שלח דוגמה לצילום מקורי (לא חתוך או ערוך), על מנת שנוכל לאתר את הבעיה. האם תרצה להוסיף תמונה כעת?</string>
     <string name="miui_feedback_edit_choose_module">בחר פריט</string>
     <string name="miui_feedback_edit_choose_module_hint">נדרש</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">זמן</string>
     <string name="miui_feedback_edit_choose_reproductivity">רפרודוקציה</string>
     <string name="miui_feedback_edit_choose_third_app_name">בחר את שם היישום</string>
     <string name="miui_feedback_edit_contact_info_hint">מספר טלפון/דוא\"ל</string>
@@ -31,6 +36,7 @@
     <string name="miui_feedback_edit_discard_draft_dialog_title">להשליך את הטיוטה?</string>
     <string name="miui_feedback_edit_hint">דווח על שגיאות בכל פעם שהינך נתקל בהן על מנת לעזור לנו לפתור אותן מהר יותר</string>
     <string name="miui_feedback_edit_hint_gone">הודעה שנסגרה</string>
+    <string name="miui_feedback_edit_hint_optional">בחר</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">המתן לחיבור רשת אלחוטית</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">העלאה</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">נראה שאתה מחובר לרשת בתשלום. העלאת יומנים עשויה לגרום לחיובים נוספים.</string>
@@ -65,6 +71,7 @@
     <string name="miui_feedback_edit_submit_dialog_not_show_again">אל תציג שוב</string>
     <string name="miui_feedback_edit_submit_dialog_title">שלח דו\"ח</string>
     <string name="miui_feedback_edit_submit_directly">פרסם</string>
+    <string name="miui_feedback_edit_title_occurrence_time">בחר זמן</string>
     <string name="miui_feedback_edit_title_reproductivity">בחר רפרודוקציה</string>
     <string name="miui_feedback_edit_toast_description_required">עליך לכתוב תאור</string>
     <string name="miui_feedback_edit_toast_module_required">בחר פריט</string>

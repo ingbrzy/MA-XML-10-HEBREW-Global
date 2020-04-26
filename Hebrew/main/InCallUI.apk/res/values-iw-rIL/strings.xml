@@ -91,7 +91,6 @@
     <string name="description_image_button_four">ארבע</string>
     <string name="description_image_button_hangup">נתק</string>
     <string name="description_image_button_message_enter">הגב באמצעות הודעה</string>
-    <string name="description_image_button_message_exit">הסתר הודעות</string>
     <string name="description_image_button_nine">תשע</string>
     <string name="description_image_button_one">אחת</string>
     <string name="description_image_button_pound">סולמית</string>
@@ -207,4 +206,5 @@
     <string name="wait_prompt_str">"לשלוח את הצלילים הבאים?
 "</string>
     <string name="waiting_close_airplane_mode">רק רגע…</string>
+    <string name="wifi_call">שיחת VoWifi</string>
 </resources>

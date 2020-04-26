@@ -22,12 +22,13 @@
     <string name="find_device_error_access_denied">הגישה נדחתה.</string>
     <string name="find_device_error_account_sys_timeout">"לא ניתן היה להתחבר לחשבון Mi. "</string>
     <string name="find_device_error_account_unknown_error">שגיאת חשבון Mi (%s).</string>
+    <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">שגיאת רשת.</string>
     <string name="find_device_error_password_changed">סיסמת החשבון שונתה לאחרונה.</string>
     <string name="find_device_error_server">שגיאת שרת (%s).</string>
     <string name="find_device_error_unknown">שגיאה לא מוכרת (%s).</string>
     <string name="find_device_noise_title">"התרעת 'איתור המכשיר'"</string>
-    <string name="find_device_notice">עבור אל&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />כדי לאתר, לנעול או לשחזר את המכשיר שלך.</string>
+    <string name="find_device_notice">עבור לכתובת &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> כדי לאתר, לנעול או לשחזר את מכשירך.</string>
     <string name="find_device_notice_sms_alert">במידה ותחליף כרטיס SIM, מסרון נוסף להפעלה מחודשת של תכונה זו ישלח אליך אוטומטית.</string>
     <string name="find_device_stop_noise">"לחץ 'אישור' להשתקה"</string>
     <string name="find_device_storage_corrupted">"אחסון 'איתור המכשיר' פגום. מכשירך אינו מאובטח כעת."</string>

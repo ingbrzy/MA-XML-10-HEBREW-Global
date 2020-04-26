@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_button_up_description">חזרה</string>
+    <string name="app_pkg_name">com.milink.service</string>
+    <string name="app_ver_code">1</string>
+    <string name="app_ver_name">1.0</string>
+    <string name="casting_tips">משדר…</string>
+    <string name="console_guide_btn_got_it">הבנתי</string>
+    <string name="console_guide_subtitle_hang_up">ניתן להמשיך לשדר את המסך גם כשמסך המכשיר כבוי. מאפיין זה מפחית את צריכת האנרגיה.</string>
+    <string name="console_guide_subtitle_private">לא להציג התראות צפות, שיחות נכנסות ופריטים אישיים אחרים על צגים חיצוניים</string>
+    <string name="console_guide_subtitle_small_window">מזער את החלון המשודר כדי שניתן יהיה להשתמש במאפיינים אחרים בטלפון שלך</string>
+    <string name="dialog_can_not_find_device">לא ניתן למצוא מכשירים בסביבה הקרובה</string>
+    <string name="dialog_cancle">ביטול</string>
+    <string name="dialog_connect_fail">לא ניתן להתחבר</string>
+    <string name="dialog_connect_retry">הקש כדי לנסות שוב</string>
+    <string name="dialog_connect_verify_perssion">קודם אשר שידור מסך במכשיר הטלוויזיה שלך</string>
+    <string name="dialog_connect_verify_perssion_fail">לא ניתן לאשר את השידור במכשיר הטלוויזיה שלך. המתן דקה או שתיים ונסה שוב.</string>
+    <string name="dialog_connected">התחבר</string>
+    <string name="dialog_connecting">מתחבר…</string>
+    <string name="dialog_ok">אישור</string>
+    <string name="dialog_only_suport_content">הזרם תמונות, סרטונים או מוזיקה</string>
+    <string name="dialog_open_wifi_bt">הפעל</string>
+    <string name="dialog_please_make_sure_tv_ok_or_help">"ודא שתכונת השידור האלחוטי מופעלת במכשיר היעד.
+עיין בדף העזרה אם יש לך בעיות בחיבור."</string>
+    <string name="dialog_recent_connected">לאחרונה</string>
+    <string name="dialog_retry">נסה שוב</string>
+    <string name="dialog_scanning_device">מחפש מכשירים בסביבה הקרובה…</string>
+    <string name="dialog_scanning_precondition">"הפעל אינטרנט אלחוטי ובלוטות' בטלפון שלך כדי להשתמש בשידור מסך אלחוטי."</string>
+    <string name="dialog_select_tv">בחר מכשיר (%d)</string>
+    <string name="dialog_show_help">עזרה</string>
+    <string name="disconnect">הפסק את השידור</string>
+    <string name="hang_up">שדר כשהמסך כבוי</string>
+    <string name="hang_up_alert_dialog_content">המשך לשדר את המסך כשמסך המכשיר כבוי. מאפיין זה מפחית את צריכת האנרגיה. לחץ על כפתור ההפעלה כדי להפעיל את המסך שוב.</string>
+    <string name="hang_up_alert_dialog_neg">ביטול</string>
+    <string name="hang_up_alert_dialog_pos">אישור</string>
+    <string name="hang_up_alert_dialog_title">אודות שידור עם מסך כבוי…</string>
+    <string name="help_page_text_01">עזרה</string>
+    <string name="help_page_text_02">מהו שידור?</string>
+    <string name="help_page_text_03">שידור הוא הקרנת התוכן של מסך הטלפון שלך לצג חיצוני גדול יותר. זה מאפשר לשתף תמונות וסרטונים עם חברים ובני משפחה, בלי שימוש בתעבורה סלולרית.</string>
+    <string name="help_page_text_04">איך לשדר תוכן למסך גדול יותר?</string>
+    <string name="help_page_text_05">שלב 1: בדוק את המכשירים ואת סביבת הרשת שלך</string>
+    <string name="help_page_text_06">"1. אין צורך להתחבר לאינטרנט כדי לשדר מטלפון Mi לטלוויזיית Mi.
+אם לא הצלחת לחבר בין שני המכשירים, נסה לחבר את שניהם לאותה רשת אינטרנט אלחוטי."</string>
+    <string name="help_page_text_08">שלב 2: הפעל שידור מסך</string>
+    <string name="help_page_text_09">"הקש על המתג \"Cast\" (\"שידור\") בפנל ההתראות בטלפון. הפעל גם את האינטרנט האלחוטי וגם את בלוטות' להתחברות יציבה יותר."</string>
+    <string name="help_page_text_10">אם ברצונך לשדר תוכן מהגלריה או מ-Mi Video, ניתן להשתמש במאפייני השידור המובנים שמכילות האפליקציות האלה.</string>
+    <string name="help_page_text_11">שלב 3: בחר מכשיר</string>
+    <string name="help_page_text_12">בחר מכשיר חיצוני מרשימת המכשירים הזמינים כדי להתחיל לשדר.</string>
+    <string name="help_page_text_13">אי אפשר להתחבר למכשיר חיצוני?</string>
+    <string name="help_page_text_14">"אם ברצונך להשתמש במכשיר Xiaomi, אבל אתה לא מוצא אותו ברשימת המכשירים הזמינים, נסה את הדברים הבאים:
+חבר גם את הטלפון וגם את הצג החיצוני (למשל, הטלוויזיה שלך) לאותה הרשת האלחוטית, או חבר את הצג החיצוני לנקודה החמה של הטלפון שלך. אם אין רשתות אלחוטיות זמינות, או אם אינך מצליח לחבר את שני המכשירים לאותה הרשת, בדוק האם מאפייני השידור בצג החיצוני שלך מעודכנים, הפעל את בלוטות' גם בטלפון וגם בצג החיצוני, והפעל את Miracast בטלוויזיה שלך. 
+2. אם אתה משדר למכשיר Xiaomi בפעם ראשונה, עליך להשלים את תהליך הזיהוי. 
+3. אם אתה רוצה להשתמש במכשיר שאינו מכשיר Xiaomi, אבל לא מצליח למצוא אותו ברשימת המכשירים הזמינים, נסה לעשות את הדברים הבאים:
+חבר גם את הטלפון וגם את הצג החיצוני (למשל, הטלוויזיה) לאותה רשת אלחוטית, או חבר את הצג החיצוני לנקודה החמה של הטלפון שלך. אם זה לא עוזר, התקן את אפליקציית השידור LeEco בטלוויזיה שלך ובצע את ההוראות."</string>
+    <string name="help_page_text_14_global">"1. אם ברצונך להשתמש במכשיר Xiaomi, אבל אתה לא מוצא אותו ברשימת המכשירים הזמינים, נסה את הדברים הבאים:
+חבר גם את הטלפון וגם את הצג החיצוני (למשל, הטלוויזיה שלך) לאותה הרשת האלחוטית, או חבר את הצג החיצוני לנקודה החמה של הטלפון שלך. אם אין רשתות אלחוטיות זמינות, או אם אינך מצליח לחבר את שני המכשירים לאותה הרשת, בדוק האם מאפייני השידור בצג החיצוני שלך מעודכנים, הפעל את בלוטות' גם בטלפון וגם בצג החיצוני, והפעל את Miracast בטלוויזיה שלך.
+2. אם אתה משדר למכשיר Xiaomi בפעם ראשונה, עליך להשלים את תהליך הזיהוי.
+3. אם אתה רוצה להשתמש במכשיר שאינו מכשיר Xiaomi, אבל לא מצליח למצוא אותו ברשימת המכשירים הזמינים, נסה לעשות את הדברים הבאים:
+חבר גם את הטלפון וגם את הצג החיצוני (למשל, הטלוויזיה) לאותה רשת אלחוטית, או חבר את הצג החיצוני לנקודה החמה של הטלפון שלך."</string>
+    <string name="help_page_text_15">פונקציית Miracast במכשירים שונים</string>
+    <string name="help_page_text_16">Mi TV/מקרן Mi</string>
+    <string name="help_page_text_17">"אפשר להקרין תוכן מטלפון Mi שלך לרוב דגמי הטלוויזיה Mi TV עם פונקציית בלוטות', ללא הפעלה ידנית של Miracast.
+אם עליך להפעיל את Miracast, לחץ על הכפתור [MENU] ובחר ב-\"אפליקציות שלי\" > \"שידור\" > Miracast."</string>
+    <string name="help_page_text_17_1">שירות הלקוחות של Xiaomi: 400-100-5678</string>
+    <string name="help_page_text_18">Samsung TV</string>
+    <string name="help_page_text_19">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן ללחוץ על הכפתור [SOURCE] בשלט הרחוק, ולאחר מכן לבחור באפשרות \"שיקוף מסך\". בדגמים מסוימים המאפיין הזה מופעל כהגדרת ברירת המחדל.</string>
+    <string name="help_page_text_20">שירות הלקוחות של Samsung: 400-810-5858</string>
+    <string name="help_page_text_21">LG TV</string>
+    <string name="help_page_text_22">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים שונים המאפיין הזה מופעל כהגדרת ברירת המחדל.</string>
+    <string name="help_page_text_23">שירות הלקוחות של LG: 400-819-9999</string>
+    <string name="help_page_text_24">Philips TV</string>
+    <string name="help_page_text_25">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים שונים המאפיין הזה מופעל כהגדרת ברירת המחדל.</string>
+    <string name="help_page_text_26">שירות הלקוחות של Philips: 400-880-0008</string>
+    <string name="help_page_text_27">TPV</string>
+    <string name="help_page_text_28">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן ללחוץ על הכפתור [MENU] בשלט הרחוק, ולאחר מכן לבחור ב-\"הגדרות\" > \"התחברות\" > \"רשת\" > מסכים מרובים.</string>
+    <string name="help_page_text_29">שירות הלקוחות של TPV: 400-887-8007</string>
+    <string name="help_page_text_30">Hisense</string>
+    <string name="help_page_text_31">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן ללחוץ על הכפתור [SMART] בשלט הרחוק, ולאחר מכן לבחור ב-\"שידור\" > \"תצוגה אלחוטית\". דגמים מסוימים תומכים גם בשידור משחקים: Hi Cast > שידור משחקים > אנדרואיד.</string>
+    <string name="help_page_text_32">שירות הלקוחות של Hisense: 400-611-1111</string>
+    <string name="help_page_text_33">Skyworth</string>
+    <string name="help_page_text_34">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן לבחור באפשרות \"אפליקציות\" > \"שידור\" > \"מכשיר אנדרואיד\" > Miracast.</string>
+    <string name="help_page_text_35">שירות הלקוחות של Skyworth: 95105555</string>
+    <string name="help_page_text_36">Sony</string>
+    <string name="help_page_text_37">ראשית, ודא שהמכשיר שלך תומך ביכולת Miracast. בדגמים מסוימים ניתן ללחוץ על הכפתור [SOURCE] בשלט הרחוק, ולאחר מכן לבחור באפשרות \"שיקוף מסך\". בדגמים אחרים ניתן להפעיל את התכונה דרך תפריט רשתות > רשת אלחוטית ישירה (Wi-Fi Direct). בדגמים מסוימים תכונה זו מופעלת כברירת מחדל.</string>
+    <string name="help_page_text_38">שירות הלקוחות של Sony: 400-810-9000</string>
+    <string name="help_page_text_39">Panasonic</string>
+    <string name="help_page_text_40">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן לבחור באפשרות \"אפליקציות\" > \"שיקוף מסך\".</string>
+    <string name="help_page_text_41">מספר שירות הלקוחות של Panasonic: 400-881-1315</string>
+    <string name="help_page_text_42">Changhong</string>
+    <string name="help_page_text_43">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן לבחור באפשרות \"מערכת\" > \"כלי מערכת\" > \"מסכים מרובים\" > \"שיקוף מסך\".</string>
+    <string name="help_page_text_44">שירות הלקוחות של Changhong: 400-811-1666</string>
+    <string name="help_page_text_45">TCL</string>
+    <string name="help_page_text_46">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן לבחור באפשרות \"אפליקציות\" > \"תצוגה אלחוטית\".</string>
+    <string name="help_page_text_47">שירות הלקוחות של TCL: 400-812-3456</string>
+    <string name="help_page_text_48">AODIN</string>
+    <string name="help_page_text_49">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. להפעלת המאפיין הזה עבור אל \"האפליקציות שלי\" > תצוגה אלחוטית\".</string>
+    <string name="help_page_text_50">מספר שירות הלקוחות AODIN: 400-810-5858</string>
+    <string name="help_page_text_51">LeEco</string>
+    <string name="help_page_text_52">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן להפעיל את המאפיין הזה תחת \"הגדרות\" > \"רשתות\" > \"מסכים מרובים\" > \"תצוגה אלחוטית\".</string>
+    <string name="help_page_text_53">מספר שירות הלקוחות של LeEco: 10109000</string>
+    <string name="help_page_text_55">"אם אינך מצליח להתחבר לרשת, ודא שהצג החיצוני שלך תומך בפונקציה Miracast ושהפונקציה הזו מופעלת. בדגמים מסוימים המאפיין הזה נקרא תצוגה אלחוטית, שיקוף מסך או מסכים מרובים. למטה מופיעים פרטים לגבי הפעלת Miracast.
+4. אם נתקלת בבעיות כלשהן, תוכל לדווח עליהן באמצעות האפליקציה שלנו \"שירותים ומשוב\"."</string>
+    <string name="help_page_text_55_global">"אם אינך מצליח להתחבר לרשת, ודא שהצג החיצוני שלך תומך בפונקציה Miracast והפונקציה הזו מופעלת. בדגמים מסוימים המאפיין הזה נקרא תצוגה אלחוטית, שיקוף מסך או מסכים מרובים.
+4. אם נתקלת בבעיות כלשהן, תוכל לדווח עליהן באמצעות האפליקציה שלנו \"שירותים ומשוב\"."</string>
+    <string name="help_page_text_end">אם מותג המכשיר שלך לא מופיע כאן, פנה ליצרן למידע נוסף על פונקציית שידור.</string>
+    <string name="notification_rc_title">עוזר XiaoMi TV</string>
+    <string name="notification_show_more">הקש לצפייה במאפיינים נוספים</string>
+    <string name="privacy_agree">מסכים</string>
+    <string name="privacy_text_1">"&lt;Data>ברוך הבא למאפיין השידור! שידור מאפשר לשדר את תוכן מסך הטלפון שלך על צג חיצוני גדול יותר.
+אנו נגן על המידע האישי שלך בהתאם לחוקים, לתקנות, ולמסמכי מדיניות הפרטיות המתאימים. תכונות מסוימות ניתנות על ידי ספק צד שלישי בשם HappyCast. לפני השימוש בתכונה זו, קרא והסכם ל&lt;a href=%2$s>הצהרה המשפטית של HappyCast&lt;/a> ול&lt;a href=%1$s>מדיניות הפרטיות של HappyCast&lt;/a>.
+לפעילות תקינה של היישום עליו להתחבר לאינטרנט ולקבל את ההרשאות הבאות לצורך איסוף המידע האישי שלך:&lt;/Data>"</string>
+    <string name="privacy_text_2">"&lt;Data>לא תוכל להשתמש ביישום זה אם אינך מסכים להעניק הרשאות כאלו או לשיתוף והעלאה של מידע אישי. במקרים כאלו תוכל לבחור להסיר את היישום, לצאת, או לעבור ל'הגדרות' ולהגביל את ההרשאות.
+לפני השימוש בתכונה זו עליך לקרוא ולהסכים ל&lt;a href=%1$s>הסכם המשתמש&lt;/a> ול&lt;a href=%2$s>מדיניות הפרטיות&lt;/a>שלנו.&lt;/Data>"</string>
+    <string name="privacy_text_pemission">"　　•גישה לתמונות במכשירך ושמירת תמונות, על מנת להגן עליהן בשידור לצגים חיצוניים
+　　•הקלטת שיחות ושמע, על מנת לשדר שמע למכשירים חיצוניים
+　　•גישה למספר הטלפון, ל-IMEI ול-IMSI, על מנת לזהות את מכשירך
+　　•גישה למיקום שלך, על מנת למצוא מכשירים בסביבה הקרובה"</string>
+    <string name="private_protect">הסתר פריטים אישיים</string>
+    <string name="san_wait_msg_1">הפעל שידור אלחוטי במכשיר היעד</string>
+    <string name="san_wait_msg_2">חיפוש המכשירים עשוי לקחת זמן מה…</string>
+    <string name="san_wait_msg_3">קל יותר למצוא מכשירים חיצוניים כשהם מחוברים לאותה הרשת אליה מחובר הטלפון שלך</string>
+    <string name="san_wait_msg_4">אם אינך מצליח למצוא מכשירים, צפה ב-\"עזרה\"</string>
+    <string name="small_window">מזער חלון</string>
+    <string name="status_bar_in_casting">משדר…</string>
+    <string name="status_bar_in_casting_long">הקש לצפייה במאפייני שידור מסך נוספים</string>
+    <string name="tile_label">שידור</string>
+    <string name="toast_guide_show_more">מידע נוסף</string>
+    <string name="toast_guide_title">כאן אפשר לגלות את המאפיינים החדשים שלנו</string>
+    <string name="toast_msg_for_multi_window">לא ניתן להשתמש במאפיין זה עם מסך מפוצל</string>
+    <string name="toast_msg_for_small_window">ניתן למזער את החלון המשודר כדי להשתמש במאפיינים אחרים בטלפון שלך, בלי לפגוע בתהליך השידור.</string>
+    <string name="toast_title_for_small_window">בחר ב-\"מזער חלון\" באפליקציה</string>
+</resources>

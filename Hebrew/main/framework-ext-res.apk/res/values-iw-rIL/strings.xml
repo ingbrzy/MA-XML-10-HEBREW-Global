@@ -47,6 +47,7 @@
     <string name="content_description_web_url">סייר</string>
     <string name="copy">העתק</string>
     <string name="cut">גזור</string>
+    <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="default_device_name">מכשיר לא ידוע</string>
     <string name="default_name">ברירת מחדל</string>
     <string name="description_title">מצב שקט</string>
@@ -71,7 +72,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">לא כעת</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">הפעלה</string>
     <string name="fp_nav_center_action_choose_dlg_title">"הפעל את 'הקשה מהירה'"</string>
-    <string name="frequent_email">כתובת אימייל שכיחה</string>
+    <string name="frequent_email">כתובת אימייל שנמצאת בשימוש הרבה</string>
     <string name="frequent_phrases">ביטויים שכיחים</string>
     <string name="functions_are_being_developed">תכונה זו תהיה זמינה בקרוב!</string>
     <string name="global_actions_airplane_mode">מצב טיסה</string>
@@ -202,6 +203,7 @@
     <string name="sim_added_reboot_title">כרטיס ה-SIM יופעל לאחר אתחול המכשיר.</string>
     <string name="sim_lock_non_ais_msg">כרטיס ה-SIM שלך פועל באופן חלקי בלבד עם מכשיר זה משום שהוא אינו עונה לתנאים ולהתניות של המנוי או המפעיל הסלולרי שלך. אם יש לך שאלות או הנך זקוק למידע נוסף בנוגע לעניין זה, אנא צור קשר עם מרכזי השירות של שיאומי או החנות בה רכשת מוצר זה.</string>
     <string name="sim_lock_now_ais_title">SIM%1$d</string>
+    <string name="slatoast">השתמש בגלישה סלולרית להאצת המהירות, זה יכול לגרום לניצול תעבורה סלולרית</string>
     <string name="slavewifi">Dual band Wi-Fi</string>
     <string name="slavewifi_disconnect">התנתק</string>
     <string name="slavewifi_notification_title">משתמש ב Wi-Fi דו ערוצי</string>

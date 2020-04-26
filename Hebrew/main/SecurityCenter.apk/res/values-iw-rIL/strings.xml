@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_CallLog_Desc">לכתוב ולמחוק יומן שיחות</string>
+    <string name="HIPS_Perm_Call_Desc">לחייג ישירות למספרי טלפון</string>
+    <string name="HIPS_Perm_Contact_Desc">לשנות ולמחוק אנשי קשר</string>
+    <string name="HIPS_Perm_PhoneID_Desc">לגשת למספר הטלפון, ל-IMEI, ול-IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">גישה למספר הטלפון ולמצב המכשיר</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">לקרוא את יומן השיחות</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">לקרוא את אנשי הקשר שלך</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">לקרוא את הודעות ה-SMS שלך</string>
+    <string name="HIPS_Perm_SendSMS_Desc">לשלוח הודעות SMS באופן ישיר</string>
+    <string name="HIPS_Perm_add_voicemail_Desc">להוסיף הודעות מערכת קוליות</string>
+    <string name="HIPS_Perm_get_accounts_Desc">לגשת לכל החשבונות המאוחסנים במכשיר</string>
+    <string name="HIPS_Perm_use_sip_Desc">להזרים וידאו באמצעות SIP</string>
     <string name="Phonepass">אפשר שיחות</string>
     <string name="SMS_and_MMS">מסרונים והודעות מולטימדיה</string>
     <string name="SMSpass">אפשר מסרונים</string>
@@ -13,16 +25,20 @@
     <string name="ac_enter_applock">היכנס לנועל היישומים</string>
     <string name="ac_firstUseApplock_subTitle">השתמש בכלי אבטחת רמת מערכת טובים יותר</string>
     <string name="ac_firstUseApplock_title">הגדר סיסמה על מנת להגן על היישומים שלך</string>
-    <string name="ac_mask_all_apps">הסתר עבור כל היישומים</string>
+    <string name="ac_mask_all_apps">הסתר עבור הכול</string>
     <string name="ac_notification_contentText">לחץ להפעלה</string>
     <string name="ac_notification_contentTitle">"הגן על יישומים באמצעות 'נועל היישומים'"</string>
     <string name="ac_post_notification_contentText">קבל הגנה ברמת המערכת</string>
     <string name="ac_post_notification_contentTitle">"הפעלת את 'נועל היישומים'"</string>
     <string name="ac_pre_notification_contentText">הגן על הפרטים האישיים שלך</string>
     <string name="ac_pre_notification_contentTitle">"נסה את 'נועל היישומים'"</string>
+    <string name="ac_recommend_guide_dialog_app_content">Use App lock with this app in order to protect your personal info and avoid data leaks.</string>
+    <string name="ac_recommend_guide_dialog_content">You can protect your personal info and avoid data leaks using App lock.</string>
+    <string name="ac_recommend_guide_dialog_ignore">"Don't show again"</string>
+    <string name="ac_recommend_guide_dialog_open">Turn on</string>
     <string name="ac_summaryOff">כבוי, לא נידרשת סיסמה לפתיחת יישומים</string>
     <string name="ac_summaryOn">הזן סיסמה לפתיחת יישומים מוגנים</string>
-    <string name="ac_unmask_all_apps">בטל הסתרה עבור כל היישומים</string>
+    <string name="ac_unmask_all_apps">להציג עבור הכול</string>
     <string name="access_control_app_is_launching">היישום מתחיל</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">הזן סיסמה לפני ביטול הנעילה באמצעות טביעת האצבע</string>
     <string name="access_control_fingerprint_not_identified_msg">לא ניתן היה לקרוא את טביעת האצבע.</string>
@@ -126,8 +142,10 @@
     <string name="antivirus_update_btn_contiue">המשך</string>
     <string name="antivirus_update_btn_open">אפשר</string>
     <string name="antivirus_update_btn_update">עדכון</string>
+    <string name="apn_exception_modify_summary">נקודת הגישה ברירת המחדל של ספק התקשורת אינה בשימוש, או בוצע בה שינוי</string>
     <string name="apn_exception_summary">"בדוק את תצורות ספק הרשת עבור 'שמות של נקודות גישה'"</string>
     <string name="apn_exception_title">בדיקת תצורות APN</string>
+    <string name="apn_exception_wap_summary">WAP אינו יציב כרגע. עבור ל-NET.</string>
     <string name="app_bg_restrict_dialog_message">הגבלת החיבור לרשת ברקע עשויה למנוע מהיישום לפעול באופן תקין. לדוגמה, יתכן כי היישום לא יוכל עוד לקבל הודעות או תוכן מעודכן.</string>
     <string name="app_check_no_issue">נראה כי לא קיימות בעיות סוללה. מגניב!</string>
     <string name="app_detail">פרטים</string>
@@ -288,6 +306,7 @@
     <string name="applock_add_account">הוספה</string>
     <string name="applock_add_account_info">הוסף את חשבון Mi שלך על מנת שתוכל לאפס את סיסמתך במקרה ותשכח אותה.</string>
     <string name="applock_add_account_setting">חשבון ופרטיות</string>
+    <string name="applock_app_recommend_lock_title">באפשרותך לנעול את היישומים הבאים</string>
     <string name="applock_bind_account_title">שכחתי את הסיסמה</string>
     <string name="applock_close_dialog_summary">תבוטל הסתרת כל האפליקציות הנסתרות, הקיצורים שלהן במסך הבית ישוחזרו והסיסמה שלך לנעילת האפליקציות תימחק. לכבות את נעילת האפליקציות?</string>
     <string name="applock_close_dialog_title">"לכבות את 'נועל היישומים'?"</string>
@@ -296,11 +315,29 @@
     <string name="applock_face_unlock_title">ביטול נעילה באמצעות פנים</string>
     <string name="applock_function_base_settings">נועל היישומים</string>
     <string name="applock_function_pwd_settings">סיסמה</string>
+    <string name="applock_go_to">הגדרות</string>
+    <string name="applock_guide_open_applock">הפעל</string>
+    <string name="applock_guide_tip1">קיימים סוגים רבים של אפשרויות סיסמה. בטל נעילה של יישומים באמצעות טביעת אצבע, זיהוי פנים, או הזנת סיסמה.</string>
+    <string name="applock_guide_tip1_global">בטל נעילת יישומים באמצעות טביעת אצבע, זיהוי פנים או הזנת סיסמה.</string>
+    <string name="applock_guide_tip1_global_without_face">בטל נעילת יישומים באמצעות טביעת אצבע או הזנת סיסמה.</string>
+    <string name="applock_guide_tip1_global_without_finger">בטל נעילת יישומים באמצעות זיהוי פנים או הזנת סיסמה.</string>
+    <string name="applock_guide_tip1_global_without_finger_face">קיימים סוגים רבים של אפשרויות סיסמה.</string>
+    <string name="applock_guide_tip1_without_face">קיימים סוגים רבים של אפשרויות סיסמה. בטל נעילה של יישומים באמצעות טביעת אצבע או הזנת סיסמה.</string>
+    <string name="applock_guide_tip1_without_finger">קיימים סוגים רבים של אפשרויות סיסמה. בטל נעילה של יישומים באמצעות טביעת אצבע, זיהוי פנים, או הזנת סיסמה.</string>
+    <string name="applock_guide_tip1_without_finger_face">קיימים סוגים רבים של אפשרויות סיסמה.</string>
+    <string name="applock_guide_tip2">הוסף את חשבון Mi שלך על מנת שתוכל לאפס את הסיסמה.</string>
+    <string name="applock_guide_tip3">הסתר תוכן התראה.</string>
+    <string name="applock_guide_tip3_global">הסתר תוכן התראה.</string>
+    <string name="applock_guide_title">"הגן על הנתונים שלך באמצעות 'נועל היישומים'"</string>
     <string name="applock_header_text_less_than_half">קטן מידי. גרור מעט יותר קדימה.</string>
+    <string name="applock_lock_all">נעל הכל</string>
     <string name="applock_login_and_add_account">כניסה והוספה</string>
     <string name="applock_not_add_account"><u>לא כעת</u></string>
     <string name="applock_not_login_account">אינך מחובר</string>
+    <string name="applock_set_password_title">שינוי סוג סיסמה</string>
+    <string name="applock_settings_unlock_all_toast">ביטול נעילת כל האפליקציות</string>
     <string name="applock_toast_tip">היישום אומת בהצלחה</string>
+    <string name="applock_unlock_all">בטל נעילת הכל</string>
     <string name="apps_item_sign_dialog_content">"חתימת '%s' שונה מהגרסה הקיימת בחנות היישומים. למחוק יישום זה ולהתקין את הגרסה הרשמית? שים לב: התקנת יישום בעל חתימה בעייתית עשוי להוביל לאובדן נתוני היישום."</string>
     <string name="apps_item_sign_dialog_title">התקן יישום רשמי</string>
     <string name="apps_item_sign_install_button_text">החלפה</string>
@@ -557,6 +594,7 @@
     <string name="card_main_private_space_summary">"השימוש ב'שטח שני' דומה לשימוש בשני מכשירים"</string>
     <string name="card_main_private_space_title">שטח שני</string>
     <string name="card_main_sectool_title">כלים</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">צור</string>
     <string name="card_main_xspace_summary">צור חשבונות משוכפלים לכל יישום שתבחר</string>
     <string name="card_main_xspace_title">יישומים משוכפלים</string>
@@ -749,6 +787,7 @@
     <string name="doze_optimization_title">ייעל את מגע השליטה</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">דוא\"ל</string>
     <string name="empty_app">אין יישומים</string>
     <string name="empty_title_auto_start_list">אין יישומים הרשאים לבצע הפעלה אוטומטית.</string>
@@ -1219,6 +1258,7 @@
     <string name="load_only_under_wlan">טען באמצעות רשת אלחוטית בלבד</string>
     <string name="loading">רק רגע…</string>
     <string name="local_ip_exception_summary">"לא ניתן היה להשיג כתובת IP מקומית. על מנת לדווח על תקלה זו ל-MIUI, עבור אל יישום 'משוב' ושלח יומן שגיאות ממכשירך."</string>
+    <string name="lock_all_title">נעילת כל האפליקציות</string>
     <string name="lock_mode_title">הגדרות נעילה</string>
     <string name="lock_screen_traffic_guide_notification_summary">"%s נוצלו ב'מסך הנעילה'"</string>
     <string name="lock_screen_traffic_guide_notification_title">לחץ לניהול השימוש בנתונים.</string>
@@ -1395,9 +1435,11 @@
     <string name="menu_text_antispam">רשימת החסומים</string>
     <string name="menu_text_antivirus">סריקת אבטחה</string>
     <string name="menu_text_garbage_cleanup">מנקה</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">הרשאות</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1405,6 +1447,7 @@
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">האצת מהירות</string>
     <string name="menu_text_power_manager">סוללה וביצועים</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">הסרה מרשימת החריגים</string>
     <string name="menu_white">הוספה לרשימת החריגים</string>
     <string name="mi_service_app_detail">פרטי השימוש בנתונים</string>
@@ -1427,6 +1470,11 @@
     <string name="more_lock">עוד</string>
     <string name="more_settings">עוד</string>
     <string name="name">שם</string>
+    <string name="nd_result_button_optimize">מטב</string>
+    <string name="nd_result_summary_optimize">כאשר החיבור לרשת אינו יציב, נסה למטב אותו</string>
+    <string name="nd_result_title_auxiliary">תצורת הרשת</string>
+    <string name="nd_result_title_network">קישוריות הרשת</string>
+    <string name="nd_result_title_optimize">אופטימיזציית הרשת</string>
     <string name="net_booster">מאיץ מהירות הרשת</string>
     <string name="net_booster_expire_notification">"תהליך 'מאיץ מהירות הרשת' עומד להסתיים"</string>
     <string name="net_booster_overdue_notification">"תהליך 'מאיץ מהירות הרשת' עומד להסתיים"</string>
@@ -1507,8 +1555,8 @@
     <string name="notification_garbage_cleanup_title">נקה קובצי אשפה</string>
     <string name="notification_mask_summary">אל תציג את תוכן ההתראות עבור יישומים מוגנים</string>
     <string name="notification_mask_title">הסתר את תוכן ההתראות</string>
-    <string name="notification_masked_item">הסתר התראות</string>
-    <string name="notification_masked_subtitle">"הסתר התראות מיישומים המוגנים על ידי 'נועל היישומים'"</string>
+    <string name="notification_masked_item">איך להסתיר את התוכן של התראות?</string>
+    <string name="notification_masked_subtitle">השתמש בנועל יישומים כדי להסתיר את תוכן ההתראות עבור אפליקציות נבחרות</string>
     <string name="notification_summary_cmcc_app_check">לחץ לצפיה בפרטים.</string>
     <string name="notify_channel_mipush">הודעות אבטחה ״פוש״</string>
     <string name="notify_channel_name_security">אבטחת מערכת</string>
@@ -1570,7 +1618,7 @@
     <string name="operator_number_unicom">10010</string>
     <string name="optimize_manage_title">האצת מהירות</string>
     <string name="optimize_result_available_memory_info">זכרון זמין</string>
-    <string name="optimize_result_button_cloudspace">הוספת שטח אחסון בענן</string>
+    <string name="optimize_result_button_cloudspace">קבל יותר שטח אחסון בענן</string>
     <string name="optimize_result_button_consume_power_analysis">סרוק סוללה</string>
     <string name="optimize_result_button_cooldown_now">צנן</string>
     <string name="optimize_result_button_correct_now">התאמה</string>
@@ -1665,6 +1713,8 @@
     <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">הימנע מהתחממות יתר ובעיות חומרה</string>
     <string name="perfermance_optimization_title">ייעול הביצועים</string>
+    <string name="permdesc_in_calls">Monitor incoming calls</string>
+    <string name="permdesc_out_calls">Monitor outgoing calls</string>
     <string name="permgroupdesc_calendar">גישה לאירועי לוח השנה</string>
     <string name="permgroupdesc_calllog">גישה ושמירה של פריטים בהיסטוריית השיחות</string>
     <string name="permgroupdesc_camera">צילום תמונות והקלטת סרטונים</string>
@@ -1731,6 +1781,11 @@
     <string name="power_center_dialog_msg_top">כאשר צריכת הבטריה מופעלת, MIUI יבצע את פעולות האופטימיזציה הבאות:</string>
     <string name="power_center_hints_scan_danger_result">ניתן לתקן בעיות בסוללה עכשיו</string>
     <string name="power_center_list_item_auto_brightness">התאמת בהירות אוטומטית</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">V %s</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_capacity">מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">"ש'"</string>
     <string name="power_center_list_item_close_bluetooth">כיבוי Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">הגדרות מתקדמות</string>
@@ -1743,6 +1798,7 @@
     <string name="power_center_power_save_summary_text">"הגדל את יתרת הזמן עד %1$d ש' %2$d ד'"</string>
     <string name="power_center_power_save_title_text">חסכון בסוללה</string>
     <string name="power_center_repeat">חזרה</string>
+    <string name="power_center_scan_item_title_5g">קישוריות 5G</string>
     <string name="power_center_scan_item_title_GPS">התאם דיוק GPS</string>
     <string name="power_center_scan_item_title_abnormal">בעיות סוללה</string>
     <string name="power_center_scan_item_title_abnormal_apps">יישומים המרוקנים את הסוללה</string>
@@ -1773,6 +1829,7 @@
     <string name="power_dialog_cancel">ביטול</string>
     <string name="power_dialog_ok">אישור</string>
     <string name="power_dialog_super_save_msg">חיסכון קיצוני בסוללה יגביל את רוב תכונות צריכת החשמל ותקטין את ביצועי המכשיר בכדי לאפשר שמירה על פונקציונליות בסיסית (למשל שיחות, SMS, וחיבור לרשת) לזמן ארוך ככל שניתן. האם להפעיל חיסכון קיצוני בסוללה?</string>
+    <string name="power_dialog_super_save_msg_5g">מצב חיסכון סוללה קיצוני מגביל את רוב המאפיינים עם צריכת סוללה גבוהה (למשל, קישוריות 5G), מה שפוגע בביצועי המכשיר. רק שיחות, הודעות וקישוריות לרשת לא ייפגעו. להפעיל מצב של חיסכון סוללה קיצוני?</string>
     <string name="power_dialog_super_save_title">חיסכון קיצוני בסוללה</string>
     <string name="power_idle">מצב המתנה</string>
     <string name="power_main_battery_last_day_hour">"%1$s ימים %2$s ש' נותרו"</string>
@@ -1784,6 +1841,7 @@
     <string name="power_optimize_btn_text_fixed">יועל</string>
     <string name="power_optimize_catagory_fixed_title">יועל</string>
     <string name="power_optimize_close_app">סגור יישומים העושים שימוש מופרז באנרגיה</string>
+    <string name="power_optimize_disable_5g">הגבלת קישוריות 5G</string>
     <string name="power_optimize_disable_app_autostart">מנע מיישומים להיפתח באופן אוטומטי</string>
     <string name="power_optimize_disable_gps">כבה GPS</string>
     <string name="power_optimize_disable_start_other_app">מנע מיישומים לפתוח יישומים אחרים</string>
@@ -1805,7 +1863,8 @@
     <string name="power_save_on_time_end_time_summary_na">עד</string>
     <string name="power_save_on_time_start_time_summary_na">מ-</string>
     <string name="power_save_ps_clean">נקה מטמון כאשר המכשיר נעול</string>
-    <string name="power_save_ps_close_setting">כבה שירותים הרצים ברקע (סנכרון, GPS,) על מנת לשמור על חיי הסוללה</string>
+    <string name="power_save_ps_close_setting">כבו שירותים ותכונות שדורשות אנרגיה רבה (סנכרון, GPS, משוב מישוש, \"התעוררות בהרמה\", \"הקשה כפולה כדי להעיר את המכשיר או לכבות את המסך\", \"הראה את האייקון של טביעת האצבע כאשר המסך מכובה\") כדי לחסוך בחיי סוללה</string>
+    <string name="power_save_ps_close_setting_5g">כבו שירותים ותכונות שדורשות אנרגיה רבה (סנכרון, חיבור לרשת 5G, GPS, משוב מישוש, \"התעוררות בהרמה\", \"הקשה כפולה כדי להעיר את המכשיר או לכבות את המסך\", \"הראה את האייקון של טביעת האצבע כאשר המסך מכובה\") כדי לחסוך בחיי סוללה</string>
     <string name="power_save_ps_freeze">הקפא יישומים ברקע</string>
     <string name="power_save_ps_limit">הגבל את פעילות יישומי המערכת</string>
     <string name="power_save_settings">הגדרות סוללה</string>
@@ -1877,6 +1936,7 @@
     <string name="pref_normal_traffic_limit">כאשר תכנית הנתונים מנוצלת עד לתומה</string>
     <string name="pref_open_adjust_traffic">עדכן את השימוש בנתונים בכל יום על פי סטטיסטיקות מספק הרשת שלך</string>
     <string name="pref_operator_not_set">ספק הרשת אינו מוגדר</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">כאשר הינך חורג מתכנית הנתונים שלך</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_pkg_begin_date">תאריך איפוס שימוש</string>
@@ -1945,6 +2005,9 @@
 
 במהלך הכיול, MIUI תשלח הודעת טקסט לספק הרשת שלך על מנת לקבל את תבנית הכיול."</string>
     <string name="privacy_prompt_upload">העלה</string>
+    <string name="privacyapp_number_masked_text">תוכן ההתראות מוסתר</string>
+    <string name="privacyapp_number_unmasked_text">ניתן להסתיר את תוכן ההתראות</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="promotion">פרסומת</string>
     <string name="prompt_all">שאל עבור הכל</string>
@@ -2078,6 +2141,8 @@
     <string name="shield_keyboard_detail">הקש הקשה כפולה על הלחצנים על מנת להפעילם מחדש</string>
     <string name="shield_keyboard_summary">הגבל לחצנים ומחוות מסך מלא כאשר אתה משחק</string>
     <string name="shield_keyboard_title">הגבל מחוות ולחצנים</string>
+    <string name="shortcut_title_scan">סריקה</string>
+    <string name="shortcut_title_whatsapp_clean">מנקה WhatsApp</string>
     <string name="show_system_app">הצג יישומי מערכת</string>
     <string name="show_traffic_dialog_message">"מידע אודות השימוש שלך בנתונים יוצג בלוח ההתראות. תוכל לכבות או להפעיל תכונה זו בכל עת ב'שימוש בנתונים' > 'הגדרות'."</string>
     <string name="show_traffic_dialog_title">הצג פרטי שימוש בנתונים בלוח ההתראות</string>
@@ -2085,6 +2150,8 @@
     <string name="shutdown_cancel_reminder">לא כובה</string>
     <string name="shutdown_cancel_reminder_detail">המכשיר לא כובה כי היית באמצע שיחה</string>
     <string name="shutdown_cancel_reminder_detail2">נראה כי אתה משחק כעת. הכיבוי המתוזמן מבוטל.</string>
+    <string name="signal_exception_4g_bad_rsrq">איכות הקליטה גרועה כרגע. מהירות החיבור עלולה להיות נמוכה.</string>
+    <string name="signal_exception_none_4g_5g_network">אתה משתמש ברשתות סלולריות 2G/3G. מהירות החיבור עלולה להיות נמוכה.</string>
     <string name="signal_exception_summary">לא ניתן להתחבר לרשת באזור זה.</string>
     <string name="signal_exception_title">בדיקת עוצמת אות</string>
     <string name="signed_rule">חוקים</string>
@@ -2275,7 +2342,7 @@
     <string name="still_retain_btn">השאר</string>
     <string name="stop_milink_connect">הפסק הקרנה</string>
     <string name="suggest_app_tolock">הצעות</string>
-    <string name="suggest_app_tolock_masked">מוסתר</string>
+    <string name="suggest_app_tolock_masked">תוכן מוסתר</string>
     <string name="suggest_app_tolock_unmasked">התראות גלויות</string>
     <string name="suggest_scan_again">השלם את הסריקה על מנת להימנע מסיכוני אבטחה.</string>
     <string name="summary_app_lock_disable">"הגן על הנתונים שלך באמצעות 'נועל היישומים'"</string>
@@ -2367,8 +2434,8 @@
     <string name="system_permission_declare_no_say_no">אם אתה בוחר שלא לתת את ההרשאות הנדרשות או לא מאפשר לנו לאסוף ולהשתמש במידע שלך, היישום לא יוכל לעבוד באופן תקין.</string>
     <string name="system_permission_declare_no_say_no_analytics">אם אינך מעוניין להעניק הרשאות, תוכל לבטל את הרשמתך בהגדרות > הגדרות נוספות > פרטיות> תכנית חווית משתמש.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">אם אתה בוחר שלא לתת את ההרשאות הנדרשות או לא מאפשר לנו לאסוף ולהשתמש במידע שלך, היישום לא יוכל לעבוד באופן תקין.</string>
-    <string name="system_permission_declare_privacy_declare">אנו נגן על המידע האישי שלך בהתאם לחוקים, לתקנות ולנוהלי הפרטיות הישימים. לתשומת לבך, אפליקציית האבטחה צריכה להתחבר לאינטרנט וזקוקה להרשאות הבאות לאיסוף מידע אישי שלך:</string>
-    <string name="system_permission_declare_privacy_no_permission">לתשומת לבך, שימוש באפליקציית האבטחה מחייב התחברות לאינטרנט ואיסוף מידע אישי שלך. אנו נגן על המידע האישי שלך בהתאם לחוקים, לתקנות ולנוהלי הפרטיות הישימים.</string>
+    <string name="system_permission_declare_privacy_declare">אנו נגן על המידע האישי שלך בהתאם לחוקים, לתקנות ולנוהלי הפרטיות הרלוונטיים. לתשומת לבך, אפליקציית האבטחה צריכה להתחבר לאינטרנט וזקוקה להרשאות הבאות לאיסוף מידע אישי שלך:</string>
+    <string name="system_permission_declare_privacy_no_permission">לתשומת לבך, שימוש באפליקציה זו מחייב התחברות לאינטרנט ואיסוף מידע אישי שלך. אנו נגן על המידע האישי שלך בהתאם לחוקים, לתקנות ולנוהלי הפרטיות הרלוונטיים.</string>
     <string name="system_permission_declare_privacy_policy">&lt;Data>קרא והסכם לשלנו &lt;a href=\"%1$s\"> מדיניות פרטיות&lt;/a> לפני שתשתמש בתכונה זו.&lt;/Data></string>
     <string name="system_permission_declare_revoke_system">תוכל לצאת מיישום זה.</string>
     <string name="system_permission_declare_revoke_uninstallable">באפשרותך להתנתק, להסיר את האפליקציה או לבטל את ההרשאה תחת \"אבטחה\" > ניהול אפליקציות > הרשאות > הרשאות.</string>
@@ -2376,6 +2443,7 @@
     <string name="system_permission_declare_use_network_no_permission">התחבר לרשת</string>
     <string name="system_permission_declare_user_agreement">&lt;Data>קרא והסכם לשלנו&lt;a href=\"%1$s\">הסכם משתמש&lt;/a>לפני שתשתמש בתכונה זו&lt;/Data></string>
     <string name="system_permission_perm_answer_call">בצע שיחות</string>
+    <string name="system_permission_perm_optional">"  (לא חובה)"</string>
     <string name="system_permission_perm_read_mms">קרא MMS</string>
     <string name="system_permission_perm_read_numbers">קרא מספרי טלפון</string>
     <string name="system_permission_perm_send_mms">שלח MMS</string>

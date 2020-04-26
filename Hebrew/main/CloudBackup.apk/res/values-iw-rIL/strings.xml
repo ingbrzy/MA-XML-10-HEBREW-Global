@@ -49,6 +49,8 @@
     <string name="self_device_second_space">שטח שני של מכשיר טלפון זה</string>
     <string name="other_device_main_space">שטח ראשון</string>
     <string name="other_device_second_space">שטח משני</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>
     <string name="size_unknown">גודל לא ידוע</string>
     <string name="recovering">משחזר את %s</string>
@@ -57,6 +59,7 @@
     <string name="start_backup_to_micloud">גבה יישומים בXiaomi Cloud</string>
     <string name="backing_up_to_micloud">מגבה…</string>
     <string name="restore_from_cloud">שחזר מגיבוי Cloud</string>
+    <string name="restore_from_mimover">העבר מהמכשיר הישן שלך בעזרת Mi Mover</string>
     <string name="backup_to_cloud">גבה יישום</string>
     <string name="restoring_file_title_no_progress">משחזר קבצים…</string>
     <string name="menu_item_sort">מיין לפי</string>
@@ -80,7 +83,7 @@
     <string name="download_settings">"מוריד הגדרות של 'מסך הבית' %s%%"</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
     <string name="recover_home_settings">"שחזר את הגדרות 'מסך הבית'"</string>
-    <string name="cancel_recover_settings"><u>ביטול</u></string>
+    <string name="cancel_recover_settings">ביטול</string>
     <string name="recover_settings_description">השאר את המכשיר דולק</string>
     <string name="recover_miui_settings">שחזר את הגדרות המערכת</string>
     <string name="wait_icon_download">מוריד אייקונים של יישומים</string>
@@ -106,6 +109,7 @@
     <string name="restore_data_summary">תכונה זו זקוקה לחיבור לאינטרנט.</string>
     <string name="query_restore_summary">"נמצא גיבוי Xiaomi Cloud עבור מכשיר זה. לשחזר את היישומים וההגדרות של 'מסך הבית' או להשתמש במכשיר זה כמכשיר חדש ולמחוק את הגיבויים הקודמים מ- Xiaomi Cloud?"</string>
     <string name="restore_home_screen_apps">שחזר מגיבוי Cloud</string>
+    <string name="restoring_home_screen_apps">מתבצע שחזור מ-Xiaomi Cloud…</string>
     <string name="query_restore_description">"שחזר את יישומי והגדרות 'מסך הבית' על ידי שימוש בגבוי זה. פעולה זו תכתוב מחדש נתוני יישום עבור יישומים זהים הקיימים כבר על מכשיר זה. יישומים שאינם קיימים בגבוי יועברו ל'מסך הבית' האחרון."</string>
     <string name="restore_from_this_device">שחזר באמצעות גיבוי זה</string>
     <string name="confirm_cancel_restore_title">לבטל את השחזור?</string>
@@ -132,7 +136,7 @@
     <string name="provision_error_connect_msg">בדוק את הרשת ונסה שוב. הגיבויים אינם זמינים כאשר מכשירך נמצא במצב לא מקוון.</string>
     <string name="provision_error_connect_title">לא ניתן להתחבר</string>
     <string name="loading_user_backup">טוען נתוני גיבוי משתמש…</string>
-    <string name="loading_progress_num">(%s%%)</string>
+    <string name="loading_progress_num">התקדמות הטעינה %s%%</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">מחשב גודל…</string>
     <string name="authentication_failed">לא ניתן היה לאמת את החשבון.</string>
@@ -165,7 +169,7 @@
     <string name="cloud_backup">גיבוי Cloud</string>
     <string name="open_backup_switch">לחץ על מתג הגיבוי</string>
     <string name="restore_cloud_backup_to_phone">שחזר פריטים מ Cloud</string>
-    <string name="cloud_backup_in_process">מגבה…</string>
+    <string name="cloud_backup_in_process">מגבה</string>
     <string name="cloud_backup_in_cancel">ביטול</string>
     <string name="dialog_cancel_backup_title">לבטל את הגיבוי הנוכחי?</string>
     <string name="dialog_cancel_backup_msg">לחיצה על המתג תביא לביטול הגיבויים הנמצאים בתהליך.</string>
@@ -221,5 +225,6 @@
     <string name="restore_task_unfinished">לא ניתן היה לשחזר</string>
     <string name="restore_failed_reason_network_error">שגיאת רשת. המתן דקה או שתיים ונסה שוב.</string>
     <string name="restore_failed_reason_disk_space_not_enough">אין מספיק שטח אחסון זמין. ראשית, פנה קצת שטח אחסון.</string>
-    <string name="cloud_app_restore_app_and_data">הגדר את מכשירך</string>
+    <string name="storage_unit_mb">%s MB</string>
+    <string name="storage_unit_gb">%s ג\"ב</string>
 </resources>

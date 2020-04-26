@@ -97,7 +97,7 @@
     <string name="grant_dialog_button_deny_background_and_dont_ask_again">דחה, ואל תשאלו שוב</string>
     <string name="location_settings">הגדרות מיקום</string>
     <string name="location_warning">%1$s הינו ספק של שירותי מיקום עבור מכשיר זה. הרשאות גישה למיקום ניתנות לשינוי בהגדרות המיקום.</string>
-    <string name="never_ask_again">אל תשאל שוב</string>
+    <string name="never_ask_again">אל תשאל שוב לאחר ההגבלה</string>
     <string name="ok">אישור</string>
     <string name="permdesc_camera">לצלם תמונות ולהקליט סרטונים</string>
     <string name="permdesc_in_calls">לנטר שיחות נכנסות</string>

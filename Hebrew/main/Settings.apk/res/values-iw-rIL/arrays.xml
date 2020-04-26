@@ -126,6 +126,30 @@
         <item>מיועל עבור איכות חיבור (330kbps/303kbps)</item>
         <item>אפקט מירבי (קצב ביטים משתנה)</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>זמן השהייה קצר</item>
+        <item>זמן השהייה בינוני</item>
+        <item>זמן השהייה ארוך</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>זמן השהייה קצר (50~100 מ\"ש)</item>
+        <item>זמן השהייה בינוני (150~200 מ\"ש)</item>
+        <item>זמן השהייה ארוך (300~500 מ\"ש)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>ממוטב לזמן השהיה נמוך</item>
+        <item>ממוטב עבור איכות חיבור</item>
+        <item>איזון בין איכות השמע לאיכות החיבור</item>
+        <item>ממוטב עבור איכות השמע</item>
+        <item>האיכות הטובה ביותר (קצב ביטים אוטומטי)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>ממוטב לזמן השהיה נמוך (256 קב/שנייה)</item>
+        <item>ממוטב עבור איכות חיבור (400 קב/שנייה)</item>
+        <item>איכות שמע וחיבור מאוזנים (500/560 קב/שנייה)</item>
+        <item>ממוטב עבור איכות שמע (900 קב/שנייה)</item>
+        <item>האיכות הטובה ביותר (קצב ביטים אוטומטי)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>השתמש בבחירת המערכת (ברירת מחדל)</item>
         <item>44.1 kHz</item>
@@ -148,8 +172,12 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>אפשר קודים אופציונליים</item>
-        <item>השבת קודים אופציונליים</item>
+        <item>Qualcomm® aptX™ TWS+ אודיו</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
+        <item>הפעל קודקים אופציונליים</item>
+        <item>השבת קודקים אופציונליים</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>השתמש בבחירת המערכת (ברירת מחדל)</item>
@@ -159,8 +187,12 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>אפשר קודים אופציונליים</item>
-        <item>השבת קודים אופציונליים</item>
+        <item>Qualcomm® aptX™ TWS+ אודיו</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
+        <item>הפעל קודקים אופציונליים</item>
+        <item>השבת קודקים אופציונליים</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -184,8 +216,8 @@
         <item>מושבת</item>
         <item>מופעל עם סינון</item>
         <item>מופעל</item>
-        <item>סינון כותרות ראשיות מופעל</item>
-        <item>סינון חבילות מדיה מופעל</item>
+        <item>\"סינון כותרות ראשיות\" מופעל</item>
+        <item>\"סינון חבילות מדיה\" מופעל</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>שניה 1</item>
@@ -492,6 +524,31 @@
         <item>פרמריבו</item>
         <item>קיטו</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>צבעים מחוזקים</item>
         <item>צבעים טבעיים כפי שנקלטים בעין</item>
@@ -599,6 +656,15 @@
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
     </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>אל תעיר את המסך</item>
         <item>הער את המסך</item>
@@ -631,6 +697,43 @@
         <item>לאחר 5 דקות</item>
         <item>לעולם לא</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="long_press_volume_down_action">
         <item>ללא</item>
         <item>מצב צילום מהיר (תמונה)</item>
@@ -693,6 +796,14 @@
         <item>גישה להתקן נטען: mtpfs /media/mtp via File Manager; same as local folder.</item>
         <item>"הסרת התקנת התקן: fusermount -u /media/mtp
 שים לב: עבור Ubuntu 8.04 בלבד!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -787,6 +898,97 @@
         <item>השתקת רעש במיקרופון יחיד</item>
         <item>השתקת רעש במיקרופון זוגי</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>ביצועים</item>
         <item>מאוזן</item>
@@ -838,12 +1040,17 @@
     <string-array name="screen_optimize_summary">
         <item>התאמת צבעים לפי התאורה הנוכחית</item>
         <item>הדגש צבעים תמיד</item>
-        <item>שחזר את הצבע הסטנדרטי של תוכן המסך עם כיול צבעים</item>
+        <item>הניגודיות תישאר קבועה</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>אוטומטי (מומלץ)</item>
         <item>רווי</item>
-        <item>הצבע המקורי</item>
+        <item>רגיל</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
@@ -893,19 +1100,23 @@
     <string-array name="select_logpersist_summaries">
         <item>כבוי</item>
         <item>כל הלוג בפרים</item>
-        <item>הכל מלבד לוג בפרים של רדיו</item>
-        <item>לוג בפר ליבה בלבד</item>
+        <item>הכול פרט למאגרי יומני רדיו</item>
+        <item>מאגרי יומני ליבה בלבד</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>כבוי</item>
         <item>הכל</item>
-        <item>הכל מלבד רדיו</item>
+        <item>הכול פרט לרדיו</item>
         <item>ליבה בלבד</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>כיבוי</item>
         <item>צייר אזור גזיר שאינו מלבני בכחול</item>
         <item>הדגש פקודות ציור שנבדקו בירוק</item>
+    </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
     </string-array>
     <string-array name="silent_mode_duration_text">
         <item>תמיד</item>
@@ -929,6 +1140,31 @@
         <item>אשר</item>
         <item>דחה</item>
     </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="time_format_entries">
         <item>12 שעות 1:00 PM</item>
         <item>24 שעות 13:00</item>
@@ -961,6 +1197,16 @@
         <item>קנה מידה להנפשה 2x</item>
         <item>קנה מידה להנפשה 5x</item>
         <item>קנה מידה להנפשה 10x</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>התאמת צבעים על בסיס התאורה הקיימת</item>
+        <item>הדגש צבעים תמיד</item>
+        <item>שחזר את הצבע הרגיל של תוכן המסך עם כיול צבעים</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>אוטומטי (מומלץ)</item>
+        <item>רווי</item>
+        <item>הצבעים המקוריים</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>לאט מאוד</item>
@@ -1041,6 +1287,10 @@
         <item>אחוזים(באייקון)</item>
         <item>אחוזים (בצמוד לאייקון בלוח ההתראות)</item>
     </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa2</item>
@@ -1049,6 +1299,10 @@
         <item>התחבר באופן אוטומטי</item>
         <item>התחבר באופן ידני</item>
         <item>שאל תמיד</item>
+    </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>השתמש ב-MAC אקראי</item>
+        <item>השתמש ב-MAC המכשיר</item>
     </string-array>
     <string-array name="wifi_ssid_type_entries">
         <item>התחבר באופן אוטומטי</item>

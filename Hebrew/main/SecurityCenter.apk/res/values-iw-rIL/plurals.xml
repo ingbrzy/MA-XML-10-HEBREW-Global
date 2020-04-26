@@ -42,6 +42,12 @@
         <item quantity="two">היה בשימוש לפני %d שנים</item>
         <item quantity="many">היה בשימוש לפני %d שנים</item>
     </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">אתה יכול להגן על %s יישומים לפחות</item>
+        <item quantity="one">אתה יכול להגן על יישום אחד (%s) לפחות</item>
+        <item quantity="two">אתה יכול להגן על %s יישומים לפחות</item>
+        <item quantity="many">אתה יכול להגן על %s יישומים לפחות</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d יישומים יכולים להתחבר לרשת ברקע</item>
         <item quantity="one">יישום %d יכול להתחבר לרשת ברקע</item>
@@ -151,6 +157,12 @@
         <item quantity="one">אדם %1$d משחק</item>
         <item quantity="two">%1$d אנשים משחקים</item>
         <item quantity="many">%1$d אנשים משחקים</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">%d שניות</item>
+        <item quantity="two">%d שניות</item>
+        <item quantity="many">%d שניות</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">"בוצע צ'ק אין %d ימים ברצף"</item>
@@ -685,6 +697,12 @@
         <item quantity="one">משחק %d לא נוסף</item>
         <item quantity="two">%d משחקים לא נוספו</item>
         <item quantity="many">%d משחקים לא נוספו</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d יישומים</item>
+        <item quantity="one">יישום אחד (%d)</item>
+        <item quantity="two">%d יישומים</item>
+        <item quantity="many">%d יישומים</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d צפיות</item>

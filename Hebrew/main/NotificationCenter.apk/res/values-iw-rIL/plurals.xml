@@ -3,13 +3,13 @@
     <plurals name="last_sent_time_day">
         <item quantity="other">לפני %d ימים</item>
         <item quantity="one">לפני יום %d</item>
-        <item quantity="two">לפני יומיים</item>
+        <item quantity="two">לפני %d ימים</item>
         <item quantity="many">לפני %d ימים</item>
     </plurals>
     <plurals name="last_sent_time_hour">
         <item quantity="other">לפני %d שעות</item>
-        <item quantity="one">לפני שעה</item>
-        <item quantity="two">לפני שעתיים</item>
+        <item quantity="one">לפני שעה (%d)</item>
+        <item quantity="two">לפני %d שעות</item>
         <item quantity="many">לפני %d שעות</item>
     </plurals>
     <plurals name="last_sent_time_minute">
@@ -21,13 +21,13 @@
     <plurals name="last_sent_time_month">
         <item quantity="other">לפני %d חודשים</item>
         <item quantity="one">לפני חודש %d</item>
-        <item quantity="two">לפני חודשיים</item>
+        <item quantity="two">לפני %d חודשים</item>
         <item quantity="many">לפני %d חודשים</item>
     </plurals>
     <plurals name="last_sent_time_week">
         <item quantity="other">לפני %d שבועות</item>
-        <item quantity="one">לפני שבוע</item>
-        <item quantity="two">לפני שבועיים</item>
+        <item quantity="one">לפני %d שבועות</item>
+        <item quantity="two">לפני %d שבועות</item>
         <item quantity="many">לפני %d שבועות</item>
     </plurals>
     <plurals name="sent_frequency_per_day">
