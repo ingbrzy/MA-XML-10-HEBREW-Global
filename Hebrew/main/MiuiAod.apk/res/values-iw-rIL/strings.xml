@@ -3,12 +3,16 @@
     <string name="above_image">למעלה</string>
     <string name="accessibility_battery_level">%d אחוזים.</string>
     <string name="accessibility_battery_level_charging">הסוללה בטעינה, %d אחוז.</string>
+    <string name="add_from_album">הוסף מהגלריה</string>
     <string name="align_type">מיושר</string>
     <string name="always_style">תמיד</string>
     <string name="animation_clock_panel">חיוג גלי</string>
     <string name="aod_close_color_inversion">תכונה זו אינה יכולה להיות משולבת עם היפוך צבע. ראשית, כבה את היפוך צבע.</string>
     <string name="aod_lock_screen_date">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_smartcover">"EE,
+dd MM"</string>
+    <string name="aod_lock_screen_date_smartcover_b">EE, dd MM</string>
     <string name="aod_mode_preview">תצוגה מקדימה</string>
     <string name="aod_mode_style">סגנון זמן ורקע</string>
     <string name="aod_mode_style_title">אפשרויות נוספות</string>
@@ -24,6 +28,7 @@
     <string name="apply_succeed">הוחל בהצלחה</string>
     <string name="background_icon">רקע</string>
     <string name="below_image">למטה</string>
+    <string name="btn_know">הבנתי</string>
     <string name="cancel">ביטול</string>
     <string name="choose_aod_style">בחר ערכת נושא</string>
     <string name="chosen_picture">בחר תמונת רקע</string>
@@ -33,12 +38,19 @@
     <string name="custom_image">תמונה בהתאמה אישית</string>
     <string name="deep_space_planet">חלל חיצון</string>
     <string name="deep_space_planet_des">נושא זה מתאים את עצמו לשינויי התאורה המתרחשים במשך היום. גם זמני הזריחה והשקיעה מותאמים למיקום שלך.</string>
+    <string name="delete">מחק</string>
     <string name="digital_clock">דיגיטלי</string>
+    <string name="disable_aod_in_power_save_mode">כבה כאשר מצב חיסכון בסוללה מופעל</string>
+    <string name="disable_aod_in_power_save_mode_summary">כדי לחסוך בסוללה, אל תציג פריטים</string>
     <string name="font_thickness">פונט מודגש</string>
     <string name="large_time">שעון גדול</string>
     <string name="letter_space">ריווח אותיות</string>
     <string name="line_space">ריווח שורות</string>
     <string name="mini_time">שעון קטן</string>
+    <string name="minimalist_clock">שעון פשוט</string>
+    <string name="modify_scheduled_time">שנה את השעה</string>
+    <string name="more_online_theme">פריטים מקוונים</string>
+    <string name="my_style_title">הנושא שלי</string>
     <string name="notification_anim_pulse">פעימה</string>
     <string name="notification_anim_rhythm">קצב</string>
     <string name="notification_anim_star">אור כוכבים</string>
@@ -46,10 +58,16 @@
     <string name="notification_screen_on">הבהרת המסך</string>
     <string name="only_show_bg_description">אל תציג את הזמן, תאריך או פריטים אחרים</string>
     <string name="only_show_bg_title">הצג רק את הרקע</string>
+    <string name="open_aod_mode">הפעל</string>
     <string name="panel_clock">אנלוגי</string>
     <string name="paper_mode_end_time_title">כיבוי</string>
     <string name="paper_mode_start_time_title">הפעלה</string>
+    <string name="photo_editor_saving">שומר…</string>
     <string name="please_input_signature">הזן חתימה</string>
+    <string name="scheduled_mode_dialog_msg">פריטים יוצגו בתצוגה התמידית בתקופה הבאה: %s.</string>
+    <string name="scheduled_mode_dialog_msg_12">hh:mm aa</string>
+    <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
+    <string name="scheduled_mode_msg">התקופה הפעילה: %s</string>
     <string name="scheduled_style">מתוזמן</string>
     <string name="scope_des">כל קלידאסקופ מכיל 5 תבניות שיוצגו בתורם בכל פעם כאשר המסך נדלק.</string>
     <string name="scope_icon">סגנון הקלידאסקופ</string>
@@ -58,6 +76,8 @@
     <string name="select_notification_notify_style">בחר בסוג ההתראה</string>
     <string name="show_battery">הצג את מצב הסוללה</string>
     <string name="show_battery_status">הצג את מצב הבטריה</string>
+    <string name="show_lunar">הצג את לוח השנה הסיני המסורתי</string>
+    <string name="show_lunar_desc">השעון הכפול אינו תומך בלוח השנה הסיני המסורתי</string>
     <string name="show_notification">הצג התראות</string>
     <string name="show_notificaton">הצג התראות</string>
     <string name="shownone_arround_image">ללא</string>
@@ -73,6 +93,5 @@
     <string name="time_location">מיקום שעון</string>
     <string name="time_style">סגנון</string>
     <string name="time_style_layout">פריסה</string>
-    <string name="disable_aod_in_power_save_mode">כבה כאשר מצב חיסכון בסוללה מופעל</string>
-    <string name="disable_aod_in_power_save_mode_summary">כדי לחסוך בסוללה, אל תציג פריטים</string>
+    <string name="tip_to_open_aod_mode">התצוגה התמידית מושבתת. להפעיל אותה עכשיו?</string>
 </resources>

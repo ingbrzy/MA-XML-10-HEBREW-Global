@@ -87,6 +87,14 @@
     <string name="err_type_xiaomi_service">שירות לקוחות</string>
     <string name="error_no_connection">לא ניתן היה להתחבר לרשת</string>
     <string name="failed_to_fetch_fql">לא ניתן היה לקבל את השאלות הנפוצות, בדוק את החיבור לרשת</string>
+    <string name="feedback_answer_detail_feedback_resolved">כן</string>
+    <string name="feedback_answer_detail_feedback_result">תודה לך על המשוב!</string>
+    <string name="feedback_answer_detail_feedback_title">האם זה היה מועיל?</string>
+    <string name="feedback_answer_detail_feedback_unresolved">לא</string>
+    <string name="feedback_answer_detail_relative_question">ייתכן שזה רלוונטי</string>
+    <string name="feedback_answer_detail_submit_dialog_confirm">שליחה</string>
+    <string name="feedback_answer_detail_submit_dialog_content">תוכל לתאר את הבעיה שנתקלת בה וננסה לתקן אותה. לשלוח משוב?</string>
+    <string name="feedback_answer_detail_submit_dialog_title">לשלוח משוב?</string>
     <string name="feedback_bug_status_change_notification_desc">בעיה %1$s \"%2$s\"</string>
     <string name="feedback_choose_app_tag">בחר בעיה</string>
     <string name="feedback_choose_module">בחר פריט</string>
@@ -119,6 +127,7 @@
     <string name="feedback_detail_upload_local_log">העלה קובץ</string>
     <string name="feedback_detail_upload_log">העלה יומנים</string>
     <string name="feedback_detail_waiting">יוצר…</string>
+    <string name="feedback_edit_popup_window_related_title">ייתכן שזה רלוונטי</string>
     <string name="feedback_empty_report_list">אין עדיין דיווחים</string>
     <string name="feedback_guess">הניחוש שלנו:</string>
     <string name="feedback_hint_optional">בחר</string>

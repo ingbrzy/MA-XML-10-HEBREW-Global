@@ -15,9 +15,6 @@
     <string name="atrace_start">הקלט את יומן atrace …</string>
     <string name="base_info">פרטי בסיס</string>
     <string name="cloud_addr_info">פרטי הענן</string>
-    <string name="cloud_china_addr">עדכון נתוני השרת הסיני</string>
-    <string name="cloud_international_addr">עדכון נתוני שרת בינלאומי</string>
-    <string name="cloud_staging_addr">עדכון נתוני שרת staging</string>
     <string name="config_classify">מיין לפי הגדרות יישום</string>
     <string name="config_description">"מערכת MIUI יכולה לזהות יישומים עם תהליכים מסויימים ברקע (לדוגמה: יישומי הודעות וניווט, נגני מדיה), ולהחיל את מצב 'חסכון בסוללה' בצורה שלא תשפיע על פעילות רקע חשובה."</string>
     <string name="config_mode_title">הגדרות רקע</string>
@@ -33,7 +30,6 @@
 מצב 'חסכון בסוללה' יתן יחס מועדף ליישומים חשובים."</string>
     <string name="config_suggest_suffix_title">חסכון בסוללה (מומלץ)</string>
     <string name="confirm">אישור</string>
-    <string name="current_cloud_addr_is">כתובת שרת השליטה בענן היא:</string>
     <string name="empty_title_apps_container_list">אין יישומים</string>
     <string name="enable_sleep_mode">"הפעל את 'מצב שינה' על מנת לייעל את השימוש בסוללה במהלך הלילה"</string>
     <string name="error_filename_too_long">שם הקובץ שהזנת ארוך מידי.</string>
@@ -42,7 +38,7 @@
     <string name="extreme_mode_max_item_alert">תוכל לבחור עד 4 יישומים רצים ברקע כשתעביר את המכשיר למצב קיצוני</string>
     <string name="extreme_power_config_mode_category">מצב חיסכון קיצוני בסוללה</string>
     <string name="extreme_power_config_mode_desc"><li>המצב של חיסכון קיצוני בסוללה מפסיק את כל פעילות הרקע של אפליקציה לאחר סגירת האפליקציה וחזרה אל מסך הבית. האפליקציה הזו לא תוכל לשלוח לך הודעות או לקבל עדכונים.</li>"
-"<li>אם אתה מעוניין שאפליקציה תמשיך לפעול ברקע, נעל אותה תחת אפליקציות בשימוש לאחרונה או הוסף אותה לרשימת האפליקציות המוחרגות שמופיעה למטה, כך שהיא תוכל לפעול ברקע. עד 4 אפליקציות יכולות לפעול ברקע במצב חיסכון קיצוני בסוללה.</li>"
+"<li>אם אתה מעוניין שאפליקציה תמשיך לפעול ברקע, נעל אותה תחת \"אפליקציות בשימוש לאחרונה\" או הוסף אותה לרשימת האפליקציות המוחרגות שמופיעה למטה, כך שהיא תוכל לפעול ברקע. עד 4 אפליקציות יכולות לפעול ברקע במצב חיסכון קיצוני בסוללה.</li>"
 "<li>המצב של חיסכון קיצוני בסוללה מכבה את NFC כברירת המחדל. ניתן לשנות זאת בהגדרות.</li>"
 "<li>כדי לוודא שתוכל להשתמש בכל מאפייני המכשיר שלך כרגיל, המצב של חיסכון קיצוני בסוללה יכובה אוטומטית כשרמת הטעינה של הסוללה שלך תגיע ל-30% או יותר.</li></string>
     <string name="extreme_power_config_mode_summary">חיסכון קיצוני בסוללה יגביל פעילות רקע כמו כן פעילות הסינכרון תפסק אף היא.</string>
@@ -106,8 +102,6 @@
     <string name="sleepmode_privacy_link">למד עוד אודות פרטיות ואבטחה</string>
     <string name="sleepmode_privacy_title">מצב שינה</string>
     <string name="sucess">בוצע</string>
-    <string name="update_profile_failture_not_connect_wifi">לא ניתן היה לעדכן. התחבר לרשת אלחוטית ונסה שוב.</string>
-    <string name="update_profile_sucess">העדכון מהשרת בוצע בהצלחה</string>
     <string name="vip_feedback">משוב VIP</string>
     <string name="vip_feedback_enable">הפעלת משוב VIP</string>
     <string name="warm_configure">"הגדרות 'בקרת טמפרטורה'"</string>

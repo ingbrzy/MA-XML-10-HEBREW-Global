@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">התראות</string>
+    <string name="cancel">ביטול</string>
+    <string name="category_other">אחר</string>
+    <string name="confirm">אישור</string>
     <string name="default_list_type">מיון לפי תאריך הקבלה</string>
     <string name="disable_float_notification">הודעות צפות זמינות אינן מאופשרות</string>
     <string name="disable_lockscreen_notification">התראות במסך הנעילה אינן מאופשרות</string>
@@ -9,7 +12,12 @@
     <string name="enable_lockscreen_notification">התראות במסך הנעילה מאופשרות כעת</string>
     <string name="enable_show_badge_notification">התראות תגים מאופשרות</string>
     <string name="expandable_under_keyguard">פתח את לוח ההתראות במסך הנעילה</string>
+    <string name="feedback">משוב</string>
+    <string name="feedback_tip_cancel">נתוני ההתראות לא יקובצו.</string>
+    <string name="feedback_tip_msg">כדי לקבץ התראות באופן מדויק יותר, אנו זקוקים לשם האפליקציה, כותרת ותיאור ההתראה והשעה שבה ההתראה נשלחה. לשלוח את המשוב?</string>
+    <string name="feedback_tip_title">משוב על קטגוריות של התראות</string>
     <string name="float_notifications">התראות צפות</string>
+    <string name="function_description">אודות מאפיין זה</string>
     <string name="hint_search_all">חפש אחר יישומים</string>
     <string name="hint_search_in_disabled_apps">חפש אחר יישומים שאינן מציגים התראות</string>
     <string name="hint_search_in_enabled_apps">חפש אחר יישומים המציגים התראות</string>
@@ -19,13 +27,31 @@
     <string name="lock_screen_display_rules">פורמט</string>
     <string name="lock_screen_tip_toast">אפשר נעילת מסך התראות \"בפורמט\"</string>
     <string name="lockscreen_notifications">"התראות 'מסך הנעילה'"</string>
+    <string name="menu_setting_recommend_to_minus">להציג פחות התראות</string>
+    <string name="menu_setting_recommend_to_normal">לא לצמצם התראות</string>
+    <string name="menu_setting_show_in_home">לא לקבץ</string>
+    <string name="menu_setting_tip_recommend_minus">תראה פחות התראות מ-%s</string>
+    <string name="menu_setting_tip_recommend_normal">ההתראות מ-%s לא יצומצמו</string>
+    <string name="menu_setting_tip_show_in_home">ההתראות מ-%s לא יקובצו</string>
+    <string name="menu_setting_tip_unfold">כל ההתראות מהאפליקציה הזאת ייחשבו כחשובות</string>
+    <string name="menu_setting_toast_recommend_minus">תראה פחות התראות מ-%s</string>
+    <string name="menu_setting_toast_recommend_normal">ההתראות מ-%s לא יצומצמו</string>
+    <string name="menu_setting_toast_show_in_home">ההתראות מ-%s לא יקובצו</string>
+    <string name="menu_setting_unfold">חשוב</string>
     <string name="not_sent_recently">לא לאחרונה</string>
     <string name="notch_and_status_bar_setting">דרגה ושורת מצב</string>
+    <string name="notification_aggregate_description1">MIUI יכולה לקבץ התראות בדחיפה והתראות קבוצתיות באופן אוטומטי, מה שיהפוך את צל ההתראות בטלפון לעמוס פחות.</string>
+    <string name="notification_aggregate_description2">האלגוריתמים שלנו מנתחים את תוכן ההתראות, ולא מחילים את המאפיין הזה על התראות והודעות חשובות מתוכנות מסרים מיידיים. אם לדעתך התראות חשובות קובצו בטעות, דווח על הבעיה שבה נתקלת באמצעות המאפיין \"משוב\".</string>
+    <string name="notification_aggregate_summary">אפשר ל-MIUI לקבץ התראות באופן אוטומטי</string>
+    <string name="notification_aggregate_summary_inner">הפעל כדי לקבץ התראות בדחיפה והתראות פרסומיות באופן אוטומטי</string>
+    <string name="notification_aggregate_title">התראות קבוצתיות</string>
     <string name="notification_display_setting">לוח ההתראות</string>
     <string name="notification_display_style">סוג ההתראות</string>
-    <string name="notification_fold_summary">כל ההתראות שאינן חשובות יופיעו בתיקיה נפרדת</string>
-    <string name="notification_fold_title">תיקית התראות</string>
+    <string name="notification_fold_summary">קבץ התראות לא חשובות באופן אוטומטי</string>
+    <string name="notification_fold_title">קבץ התראות</string>
     <string name="notification_manager">התראות יישום</string>
+    <string name="notification_setting_menu_feedback_text">"ההתראה הזו לא צריכה להיות כאן?
+דווח על הבעיה >"</string>
     <string name="notification_style_android">אנדרואיד</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">כיבוי</string>
@@ -42,4 +68,7 @@
     <string name="summary_float_enable_notification_first">אפשר התראות על מנת להפעיל התראות צפות</string>
     <string name="summary_lock_screen_enable_notification_first">אפשר התראות על מנת להפעיל התראות על גבי מסך הנעילה</string>
     <string name="summary_show_badge_enable_notification_first">אפשר התראות על מנת להפעיל התראות תגים</string>
+    <string name="swipe_to_delete">העבר אצבע שמאלה או ימינה למחיקה</string>
+    <string name="tip_feedback_success">נשלח בהצלחה</string>
+    <string name="tip_select_category">בחר קטגוריית התראות</string>
 </resources>

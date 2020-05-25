@@ -6,4 +6,10 @@
         <item quantity="two">" %1$sשעות %2$s"</item>
         <item quantity="many">" %1$sשעות %2$s"</item>
     </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">נבחרו %d פריטים</item>
+        <item quantity="one">נבחר פריט %d</item>
+        <item quantity="two">נבחרו %d פריטים</item>
+        <item quantity="many">נבחרו %d פריטים</item>
+    </plurals>
 </resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="already_in_small_freeform">אפליקציות מסוימות נפתחות בחלונות צפים</string>
+    <string name="no_avaliable_application">אין אפליקציות זמינות</string>
+    <string name="quick_settings_hang_label">חלונות צפים</string>
+    <string name="quick_settings_hang_on">עכשיו תוכל להשתמש בחלונות צפים</string>
+    <string name="quick_settings_scanner_label">סורק</string>
+</resources>

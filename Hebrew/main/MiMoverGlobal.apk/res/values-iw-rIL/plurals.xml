@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="data_item_count">
+        <item quantity="other">%d פריטים</item>
+        <item quantity="one">%d פריט</item>
+        <item quantity="two">%d פריטים</item>
+        <item quantity="many">%d פריטים</item>
+    </plurals>
+    <plurals name="data_item_count_fail">
+        <item quantity="other">לא ניתן היה להעביר %d פריטים</item>
+        <item quantity="one">לא ניתן היה להעביר פריט %d</item>
+        <item quantity="two">לא ניתן היה להעביר %d פריטים</item>
+        <item quantity="many">לא ניתן היה להעביר %d פריטים</item>
+    </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d /%2$d פריטים</item>
+        <item quantity="one">פריט %1$d/%2$d</item>
+        <item quantity="two">%1$d/%2$d פריטים</item>
+        <item quantity="many">%1$d/%2$d פריטים</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">&lt;g id="hour">%1$d&lt;/g> שעות</item>
+        <item quantity="one">&lt;g id="hour">%1$d&lt;/g> שעה</item>
+        <item quantity="two">&lt;g id="hour">%1$d&lt;/g> שעות</item>
+        <item quantity="many">&lt;g id="hour">%1$d&lt;/g> שעות</item>
+    </plurals>
+    <plurals name="icloud_importing_title_count_desc">
+        <item quantity="other">%d פריטים יובאו</item>
+        <item quantity="one">פריט %d יובא</item>
+        <item quantity="two">%d פריטים יובאו</item>
+        <item quantity="many">%d פריטים יובאו</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">&lt;g id="minute">%1$d&lt;/g> דקות</item>
+        <item quantity="one">&lt;g id="minute">%1$d&lt;/g> דקה</item>
+        <item quantity="two">&lt;g id="minute">%1$d&lt;/g> דקות</item>
+        <item quantity="many">&lt;g id="minute">%1$d&lt;/g> דקות</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"יובאו %d פריטים. "</item>
+        <item quantity="one">"פריט %d יובא.  "</item>
+        <item quantity="two">"יובאו %d פריטים. "</item>
+        <item quantity="many">"יובאו %d פריטים. "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">ייבא שוב %d פריטים.</item>
+        <item quantity="one">ייבא שוב פריט %d.</item>
+        <item quantity="two">ייבא שוב %d פריטים.</item>
+        <item quantity="many">ייבא שוב %d פריטים.</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">%d פריטים יובאו ושוחזרו</item>
+        <item quantity="one">פריט %d יובא ושוחזר</item>
+        <item quantity="two">%d פריטים יובאו ושוחזרו</item>
+        <item quantity="many">%d פריטים יובאו ושוחזרו</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">%d פריטים שוחזרו</item>
+        <item quantity="one">פריט %d שוחזר</item>
+        <item quantity="two">%d פריטים שוחזרו</item>
+        <item quantity="many">%d פריטים שוחזרו</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d פריטים</item>
+        <item quantity="one">פריט %1$s | %2$d</item>
+        <item quantity="two">%1$s | %2$d פריטים</item>
+        <item quantity="many">%1$s | %2$d פריטים</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה %d</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+</resources>

@@ -17,6 +17,7 @@
     <string name="dialog_connect_verify_perssion_fail">לא ניתן לאשר את השידור במכשיר הטלוויזיה שלך. המתן דקה או שתיים ונסה שוב.</string>
     <string name="dialog_connected">התחבר</string>
     <string name="dialog_connecting">מתחבר…</string>
+    <string name="dialog_nfc_cast_wifi_off">הפעל אינטרנט אלחוטי כדי שתוכל לשדר באמצעות NFC. להפעיל עכשיו?</string>
     <string name="dialog_ok">אישור</string>
     <string name="dialog_only_suport_content">הזרם תמונות, סרטונים או מוזיקה</string>
     <string name="dialog_open_wifi_bt">הפעל</string>
@@ -41,6 +42,11 @@
     <string name="help_page_text_05">שלב 1: בדוק את המכשירים ואת סביבת הרשת שלך</string>
     <string name="help_page_text_06">"1. אין צורך להתחבר לאינטרנט כדי לשדר מטלפון Mi לטלוויזיית Mi.
 אם לא הצלחת לחבר בין שני המכשירים, נסה לחבר את שניהם לאותה רשת אינטרנט אלחוטי."</string>
+    <string name="help_page_text_06_global">"1. טלוויזיות Mi, סטרימרים Mi Box ומקרני Mi:
+לתוצאות מיטביות חבר גם את הטלפון וגם את המסך החיצוני לאותה הרשת האלחוטית. אם הם מחוברים לרשתות שונות, ייתכן שיידרש זמן רב יותר כדי לאתר את המסך החיצוני ולהתחבר אליו.
+הערה: ייתכן שטלוויזיות Mi ישנות יותר לא תומכות בשידור לרשתות שונות.
+2. אם אתה משתמש בטלוויזיה, בממיר או במקרן של מותגים אחרים, חבר גם את הטלפון וגם את המסך החיצוני לאותה הרשת האלחוטית.
+אם לא ניתן לחבר את שני המכשירים לאותה הרשת, הפעל את Miracast במסך החיצוני. שם הפונקציה Miracast עשוי להיות שונה."</string>
     <string name="help_page_text_08">שלב 2: הפעל שידור מסך</string>
     <string name="help_page_text_09">"הקש על המתג \"Cast\" (\"שידור\") בפנל ההתראות בטלפון. הפעל גם את האינטרנט האלחוטי וגם את בלוטות' להתחברות יציבה יותר."</string>
     <string name="help_page_text_10">אם ברצונך לשדר תוכן מהגלריה או מ-Mi Video, ניתן להשתמש במאפייני השידור המובנים שמכילות האפליקציות האלה.</string>
@@ -87,7 +93,7 @@
     <string name="help_page_text_40">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן לבחור באפשרות \"אפליקציות\" > \"שיקוף מסך\".</string>
     <string name="help_page_text_41">מספר שירות הלקוחות של Panasonic: 400-881-1315</string>
     <string name="help_page_text_42">Changhong</string>
-    <string name="help_page_text_43">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן לבחור באפשרות \"מערכת\" > \"כלי מערכת\" > \"מסכים מרובים\" > \"שיקוף מסך\".</string>
+    <string name="help_page_text_43">בדוק את הגדרות הטלוויזיה שלך כדי לוודא שהמסך החיצוני תומך בפונקציה Miracast.</string>
     <string name="help_page_text_44">שירות הלקוחות של Changhong: 400-811-1666</string>
     <string name="help_page_text_45">TCL</string>
     <string name="help_page_text_46">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן לבחור באפשרות \"אפליקציות\" > \"תצוגה אלחוטית\".</string>
@@ -103,6 +109,7 @@
     <string name="help_page_text_55_global">"אם אינך מצליח להתחבר לרשת, ודא שהצג החיצוני שלך תומך בפונקציה Miracast והפונקציה הזו מופעלת. בדגמים מסוימים המאפיין הזה נקרא תצוגה אלחוטית, שיקוף מסך או מסכים מרובים.
 4. אם נתקלת בבעיות כלשהן, תוכל לדווח עליהן באמצעות האפליקציה שלנו \"שירותים ומשוב\"."</string>
     <string name="help_page_text_end">אם מותג המכשיר שלך לא מופיע כאן, פנה ליצרן למידע נוסף על פונקציית שידור.</string>
+    <string name="nfc_connect_failed_toast">לא ניתן היה להקרין, נסה שוב.</string>
     <string name="notification_rc_title">עוזר XiaoMi TV</string>
     <string name="notification_show_more">הקש לצפייה במאפיינים נוספים</string>
     <string name="privacy_agree">מסכים</string>
@@ -121,6 +128,7 @@
     <string name="san_wait_msg_3">קל יותר למצוא מכשירים חיצוניים כשהם מחוברים לאותה הרשת אליה מחובר הטלפון שלך</string>
     <string name="san_wait_msg_4">אם אינך מצליח למצוא מכשירים, צפה ב-\"עזרה\"</string>
     <string name="small_window">מזער חלון</string>
+    <string name="small_window_not_supported">לא ניתן למזער יישום זה במהלך הקרנתו</string>
     <string name="status_bar_in_casting">משדר…</string>
     <string name="status_bar_in_casting_long">הקש לצפייה במאפייני שידור מסך נוספים</string>
     <string name="tile_label">שידור</string>
@@ -128,5 +136,7 @@
     <string name="toast_guide_title">כאן אפשר לגלות את המאפיינים החדשים שלנו</string>
     <string name="toast_msg_for_multi_window">לא ניתן להשתמש במאפיין זה עם מסך מפוצל</string>
     <string name="toast_msg_for_small_window">ניתן למזער את החלון המשודר כדי להשתמש במאפיינים אחרים בטלפון שלך, בלי לפגוע בתהליך השידור.</string>
+    <string name="toast_nfc_dont_move">אל תרחיק את הטלפון שלך</string>
     <string name="toast_title_for_small_window">בחר ב-\"מזער חלון\" באפליקציה</string>
+    <string name="toast_turn_off_hotspot_before_cast">השבת את הנקודה החמה לפני השידור</string>
 </resources>

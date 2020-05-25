@@ -16,7 +16,7 @@
     <string name="miui_feedback_answer_detail_feedback_unresolved">לא</string>
     <string name="miui_feedback_answer_detail_menu_online_service">קבל תמיכה מקוונת</string>
     <string name="miui_feedback_answer_detail_menu_phone_service">צור קשר עם שירות הלקוחות</string>
-    <string name="miui_feedback_answer_detail_relative_tip">זה עלול להיות מועיל:</string>
+    <string name="miui_feedback_answer_detail_relative_tip">ייתכן שזה יעזור</string>
     <string name="miui_feedback_answer_detail_title">פרטים</string>
     <string name="miui_feedback_edit_action_submit">שליחה</string>
     <string name="miui_feedback_edit_add_original_images">הוסף תמונה</string>
@@ -84,6 +84,7 @@
     <string name="miui_feedback_main_menu_catch_full_log">חולל יומנים</string>
     <string name="miui_feedback_main_menu_feedback_list">הצג היסטוריית משובים</string>
     <string name="miui_feedback_main_search_footer">אלו אינן השאלות אשר ברצונך לשאול?</string>
+    <string name="miui_feedback_main_search_footer_submit">立即提交问题</string>
     <string name="miui_feedback_main_search_issue">הזן מילות מפתח לחיפוש</string>
     <string name="miui_feedback_main_start_submit">שליחת משוב</string>
     <string name="miui_feedback_main_submit_dialog_confirm">פרסם</string>
@@ -108,6 +109,7 @@
     <string name="miui_main_update_start">עדכן כעת</string>
     <string name="miui_main_update_success_sub_title">הכירו את ממשק MIUI החדש</string>
     <string name="miui_main_update_success_title">החיים נהיו פשוטים יותר</string>
+    <string name="miui_main_update_success_title_12">Yours alone</string>
     <string name="permission_agree">מסכים</string>
     <string name="permission_china_version_msg">&lt;Data>לפני שתשתמש \"שירותים ומשוב\", עליך לקרוא ולהסכים ל &lt;a href=%1$s>הסכם משתמש&lt;/a> ו &lt;a href=%2$s>מדיניות פרטיות&lt;/a>. יישום זה גם זקוק לחיבור אינטרנט על מנת לעבוד באופן תקין.&lt;/Data></string>
     <string name="permission_complete">בוצע</string>

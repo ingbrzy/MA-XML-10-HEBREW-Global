@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_assistant">שיחות חכמות</string>
+    <string name="ai_assistant_not_installed">קודם עליך להתקין את עוזר השיחות החכם</string>
     <string name="antispam_local_marked">סומנה ברמה המקומית</string>
     <string name="antispam_notification_title">מספר לא מזוהה</string>
     <string name="antispam_provider">זוהה על ידי %s</string>
@@ -50,14 +52,10 @@
     <string name="can_not_use">לא ניתן לשימוש</string>
     <string name="cancel">ביטול</string>
     <string name="card_title_answering">מענה לשיחה</string>
-    <string name="card_title_answering_time_out">לא ניתן היה לענות לשיחה, נסה שוב.</string>
     <string name="card_title_call_ended">"השיחה הסתימה "</string>
     <string name="card_title_conf_call">שיחת ועידה</string>
     <string name="card_title_dialing">מחייג</string>
     <string name="card_title_hanging_up">"מנתק "</string>
-    <string name="card_title_hanging_up_fail">לא ניתן היה לסיים את השיחה, נסה שוב.</string>
-    <string name="card_title_hanging_up_restart">לא ניתן לסיים את השיחה. אתחל את מכשירך.</string>
-    <string name="card_title_hanging_up_weak_signal">אות רשת סלולרית חלש. מסיים את השיחה…</string>
     <string name="card_title_in_call">בשיחה</string>
     <string name="card_title_in_call_short">בשיחה</string>
     <string name="card_title_in_video">וידאו</string>
@@ -117,6 +115,8 @@
     <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">המכשיר השני אינו תומך בשיחות וידאו</string>
     <string name="emergency_call_dialog_number_for_display">מספר חירום</string>
+    <string name="enter_ai_assistant">השתמש</string>
+    <string name="enter_ai_assistant_tip">אם לא נוח לך לדבר, תוכל להשתמש בעוזר השיחות החכם כדי להמיר הודעות לדיבור בזמן השיחה הזאת. להשתמש בעוזר השיחות החכם?</string>
     <string name="inCallLabel">טלפון</string>
     <string name="incall_bubble_hangup_click_hint">לחץ שוב על מנת לחזור לשיחה</string>
     <string name="incall_call_type_label_sip">שיחת אינטרנט</string>

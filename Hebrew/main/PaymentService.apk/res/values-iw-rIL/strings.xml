@@ -4,7 +4,7 @@
     <string name="passport_account_hint_text">כתובת דוא\"ל, מספר טלפון, או מזהה חשבון Mi</string>
     <string name="passport_account_identity_title">אמת את זהותך</string>
     <string name="passport_account_label">חשבון Mi</string>
-    <string name="passport_account_name">"חשבון: %1$s "</string>
+    <string name="passport_account_name">חשבון: %1$s</string>
     <string name="passport_account_not_activated">החשבון לא הופעל</string>
     <string name="passport_account_not_actived">החשבון שלך לא הופעל</string>
     <string name="passport_account_set_password">הגדרת סיסמה</string>

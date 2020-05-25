@@ -24,6 +24,30 @@
         <item quantity="two">%d פריטים</item>
         <item quantity="many">%d פריטים</item>
     </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d פריטים</item>
+        <item quantity="one">פריט %1$d/%2$d</item>
+        <item quantity="two">%1$d/%2$d פריטים</item>
+        <item quantity="many">%1$d/%2$d פריטים</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s גיבויים (%2$s)</item>
+        <item quantity="one">גיבוי %1$s (%2$s)</item>
+        <item quantity="two">%1$s גיבויים (%2$s)</item>
+        <item quantity="many">%1$s גיבויים (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">גיבוי בוצע בהצלחה. לא ניתן היה לגבות %d פריטים.</item>
+        <item quantity="one">גיבוי בוצע בהצלחה. לא ניתן היה לגבות פריט %d.</item>
+        <item quantity="two">גיבוי בוצע בהצלחה. לא ניתן היה לגבות %d פריטים.</item>
+        <item quantity="many">גיבוי בוצע בהצלחה. לא ניתן היה לגבות %d פריטים.</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">שחזור בוצע בהצלחה. לא ניתן היה לשחזר %d פריטים.</item>
+        <item quantity="one">שחזור בוצע בהצלחה. לא ניתן היה לשחזר פריט %d.</item>
+        <item quantity="two">שחזור בוצע בהצלחה. לא ניתן היה לשחזר %d פריטים.</item>
+        <item quantity="many">שחזור בוצע בהצלחה. לא ניתן היה לשחזר %d פריטים.</item>
+    </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"%d פריטים יובאו. "</item>
         <item quantity="one">"פריט %d יובא. "</item>

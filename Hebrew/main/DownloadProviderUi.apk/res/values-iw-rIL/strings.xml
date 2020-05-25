@@ -179,7 +179,7 @@
     <string name="pref_download_settings_title">מגבלת גודל הורדה</string>
     <string name="pref_summary_any_bytes_popup">המתן תמיד לחיבור רשת אלחוטית לצורך הורדת קבצים</string>
     <string name="pref_summary_enable_max_bytes_popup">הצג התראה קופצת במקרה של הורדת תוכן באמצעות חיבור נתונים סלולרי</string>
-    <string name="pref_summary_max_bytes_limit_format">המתן לחיבור רשת אלחוטית אם גודל הקובץ חורג מ- %s</string>
+    <string name="pref_summary_max_bytes_limit_format">המתן להתחברות לרשת אלחוטית אם הקובץ גדול מ-%s</string>
     <string name="pref_summary_no_limit_popup">ללא הגבלה</string>
     <string name="pref_title_enable_max_bytes_popup">הצג התראת שימוש בנתונים</string>
     <string name="preferences_title">הגדרות</string>
@@ -223,5 +223,5 @@
     <string name="toast_only_wifi_download">התחבר לרשת אלחוטית על מנת להוריד פריט זה</string>
     <string name="total_speedup">האצת מהירות (סה\"כ)</string>
     <string name="version">גרסה %s</string>
-    <string name="security_ui_title">Security ads</string>
+    <string name="security_ui_title">מודעות אבטחה</string>
 </resources>

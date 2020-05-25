@@ -12,17 +12,11 @@
         <item quantity="two">%1$s גיבויים, גודל: %2$s</item>
         <item quantity="many">%1$s גיבויים, גודל:%2$s</item>
     </plurals>
-    <plurals name="restoring_file_tile">
-        <item quantity="other">משחזר %d קבצים</item>
-        <item quantity="one">משחזר קובץ %d</item>
-        <item quantity="two">משחזר %d קבצים</item>
-        <item quantity="many">משחזר %d קבצים</item>
-    </plurals>
-    <plurals name="restore_app_order_prior">
-        <item quantity="other">בקדימות גבוהה: %d אפליקציות</item>
-        <item quantity="one">בקדימות גבוהה: אפליקציה %d</item>
-        <item quantity="two">בקדימות גבוהה: %d אפליקציות</item>
-        <item quantity="many">בקדימות גבוהה: %d אפליקציות</item>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d יישומים על מכשיר זה</item>
+        <item quantity="one">%d יישומים על מכשיר זה</item>
+        <item quantity="two">%d יישומים על מכשיר זה</item>
+        <item quantity="many">%d יישומים על מכשיר זה</item>
     </plurals>
     <plurals name="restore_app_order_normal">
         <item quantity="other">בקדימות רגילה: %d אפליקציות</item>
@@ -30,10 +24,16 @@
         <item quantity="two">בקדימות רגילה: %d אפליקציות</item>
         <item quantity="many">בקדימות רגילה: %d אפליקציות</item>
     </plurals>
-    <plurals name="restore_app_order_installed">
-        <item quantity="other">%d יישומים על מכשיר זה</item>
-        <item quantity="one">%d יישומים על מכשיר זה</item>
-        <item quantity="two">%d יישומים על מכשיר זה</item>
-        <item quantity="many">%d יישומים על מכשיר זה</item>
+    <plurals name="restore_app_order_prior">
+        <item quantity="other">בקדימות גבוהה: %d אפליקציות</item>
+        <item quantity="one">בקדימות גבוהה: אפליקציה %d</item>
+        <item quantity="two">בקדימות גבוהה: %d אפליקציות</item>
+        <item quantity="many">בקדימות גבוהה: %d אפליקציות</item>
+    </plurals>
+    <plurals name="restoring_file_tile">
+        <item quantity="other">משחזר %d קבצים</item>
+        <item quantity="one">משחזר קובץ %d</item>
+        <item quantity="two">משחזר %d קבצים</item>
+        <item quantity="many">משחזר %d קבצים</item>
     </plurals>
 </resources>

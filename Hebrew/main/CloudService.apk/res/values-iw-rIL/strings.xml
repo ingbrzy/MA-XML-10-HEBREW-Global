@@ -8,7 +8,7 @@
     <string name="add_short_cut">הוסף</string>
     <string name="added_successfully">נוסף בהצלחה</string>
     <string name="antispam_sync">"הגדרות 'מצב נא לא להפריע'"</string>
-    <string name="app_name">Cloud</string>
+    <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">שם משתמש או סיסמה לא חוקיים</string>
     <string name="btn_return">הקודם</string>
     <string name="button_cancel">ביטול</string>
@@ -24,6 +24,7 @@
     <string name="cloud_storage_default_title">אחסון בענן</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
+    <string name="cloud_storage_info_type_family">משפחה</string>
     <string name="cloud_storage_info_type_others">אחר</string>
     <string name="cloud_storage_info_type_pdc">הגדרות מערכת</string>
     <string name="cloud_storage_loading_data">רק רגע…</string>
@@ -37,17 +38,18 @@
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">בחשבון זה נעשה שימוש גם במכשיר אחר. האם למזג את הפריטים ממספר יישומים (כולל מ-%1$s ומ-%2$s) עם הפריטים שבמכשיר זה?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">בחשבון זה נעשה שימוש גם במכשיר אחר. האם למזג את הפריטים מ-%s עם הפריטים שבמכשיר זה?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">בחשבון זה נעשה שימוש גם במכשיר אחר. האם למזג את הפריטים מ-%1$s ו-%2$s עם הפריטים שבמכשיר זה?</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two">הפריטים ממספר יישומים (כולל מ-%1$s ומ-%2$s) שבמכשיר זה ימוזגו עם הפריטים שבענן. למזג פריטים עכשיו?</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two_pad">הפריטים ממספר יישומים (כולל מ-%1$s ומ-%2$s) שבמכשיר זה ימוזגו עם הפריטים שבענן. למזג פריטים עכשיו?</string>
-    <string name="data_merge_dialog_alert_msg_one">הפריטים מ-%s שבמכשיר זה ימוזגו עם הפריטים בענן. למזג את הפריטים עכשיו?</string>
-    <string name="data_merge_dialog_alert_msg_one_pad">הפריטים מ-%s שבמכשיר זה ימוזגו עם הפריטים שבענן. למזג את הפריטים עכשיו?</string>
-    <string name="data_merge_dialog_alert_msg_two">הפריטים מ%1$s ומ-%2$s שבמכשיר זה ימוזגו עם הפריטים בענן. למזג פריטים עכשיו?</string>
-    <string name="data_merge_dialog_alert_msg_two_pad">הפריטים מ%1$s ומ-%2$s שבמכשיר זה ימוזגו עם הפריטים שבענן. למזג פריטים עכשיו?</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two">פריטים ממספר מקורות, כגון %1$s ו-%2$s מאוחסנים ב-Xiaomi Cloud. לסנכרן ולמזג אותם עם הפריטים שעל המכשיר הזה?</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two_pad">פריטים ממספר מקורות, כגון %1$s ו-%2$s מאוחסנים ב-Xiaomi Cloud. לסנכרן ולמזג אותם עם הפריטים שעל המכשיר הזה?</string>
+    <string name="data_merge_dialog_alert_msg_one">פריטים מ-%s מאוחסנים ב-Xiaomi Cloud. האם לסנכרן ומזג אותם עם הפריטים על המכשיר הזה?</string>
+    <string name="data_merge_dialog_alert_msg_one_pad">פריטים מ-%s מאוחסנים ב-Xiaomi Cloud. האם לסנכרן ומזג אותם עם הפריטים על המכשיר הזה?</string>
+    <string name="data_merge_dialog_alert_msg_two">פריטים מ-%1$s ומ-%2$s מאוחסנים ב-Xiaomi Cloud. לסנכרן ולמזג אותם עם הפריטים שעל המכשיר הזה?</string>
+    <string name="data_merge_dialog_alert_msg_two_pad">פריטים מ-%1$s ומ-%2$s מאוחסנים ב-Xiaomi Cloud. לסנכרן ולמזג אותם עם הפריטים שעל המכשיר הזה?</string>
     <string name="data_merge_dialog_loading">מאמת נתונים…</string>
+    <string name="data_merge_dialog_title">מזג פריטים</string>
     <string name="data_protection_title">הגן על נתונים</string>
     <string name="detect_sim_card">חפש כרטיס SIM</string>
     <string name="disable_find_device_error">"\"לא ניתן לכבות את 'איתור המכשיר'. \"%1$s"</string>
-    <string name="do_not_merge">אל תמזג</string>
+    <string name="do_not_merge">ביטול</string>
     <string name="enable_find_device_error">\"לא ניתן להפעיל איתור מכשיר. \"%1$s</string>
     <string name="enable_find_device_success">איתור מכשיר מופעל.</string>
     <string name="enable_micloud">היכנס על מנת להשתמש ב-Xiaomi Cloud</string>
@@ -57,8 +59,11 @@
     <string name="error_network">לא ניתן להתחבר לרשת</string>
     <string name="error_server">שגיאת שרת</string>
     <string name="error_unknown">לא ניתן להיכנס</string>
+    <string name="feedback_custom_hint">תאר את הבעיות שבהן נתקלת כאן. אם יש לך הצעות, נודה אם תוכל לפרט!</string>
     <string name="find_device">איתור מכשיר</string>
     <string name="find_device_dspt_provision">אם תאבד את מכשירך תוכל להיכנס לכתובת &lt;font color=#0097FF>%s&lt;/font> כדי לאתר, לנעול או לאפס אותו. ניתן להפעיל או לכבות את המאפיין הזה בכל עת בהגדרות המכשיר.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">בדוק את חיבור הנתונים שלך ונסה שוב.</string>
     <string name="find_device_error_server">שגיאת שרת</string>
     <string name="find_device_gdpr_prompt">בהדלקת אפשרות חיפוש מכשיר, אתה מסכים ל<a href="app://com.miui.cloudservice.gdpr.license"><u>מדיניות הפרטיות</u></a> אם עליך לשלול הרשאות. כבה אפשרות זו.</string>
@@ -115,6 +120,9 @@
     <string name="menu_add_feedback">משוב</string>
     <string name="menu_add_short_cut">צור קיצור דרך במסך הבית</string>
     <string name="merge">מזג</string>
+    <string name="mi_drive_not_publish_toast">Mi Drive יהיה זמין בקרוב</string>
+    <string name="mi_drive_summary">גישה למסמכים מ-Xiaomi Cloud במספר מכשירים</string>
+    <string name="mi_drive_title">Mi Drive</string>
     <string name="micloud_alert_dialog_positive">אישור</string>
     <string name="micloud_all_sub_1_intl_sms">מסרון ליעד בינלאומי ישלח על מנת להפעיל את כרטיס SIM שלך. תחויב על ידי ספק השרות.</string>
     <string name="micloud_all_sub_1_sms">מסרון רגיל ישלח על מנת להפעיל את כרטיס SIM שלך. תחויב על ידי ספק השרות.</string>
@@ -195,15 +203,18 @@
     <string name="micloud_find_device_open_fail">לא ניתן היה להפעיל איתור מכשיר</string>
     <string name="micloud_find_device_opened">איתור מכשיר מופעל</string>
     <string name="micloud_find_device_opened_content">אתר את המכשיר שלך ב %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">יתכן שידרש מסרון SMS יוצא על מנת להפעיל מכשיר זה. ספק הרשת שלך יחייב אותך בגין מסרון זה. כשתחליף את כרטיס ה-SIM שלך, ישלח מסרון באופן אוטומטי על מנת להפעיל מחדש תכונה זו.</string>
     <string name="micloud_find_device_verify_button">"הפעל מחדש את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_verify_close">"כבה את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_verify_fail">"לא ניתן היה להפעיל מחדש את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_verify_progress">"מפעיל מחדש את 'איתור המכשיר'…"</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">הסינכרון בוטל. נסה שנית.</string>
     <string name="micloud_main_head_menu_cloud_backup">גיבוי מסך הבית</string>
-    <string name="micloud_main_head_menu_cloud_backup_summary">פריסת מסך הבית, יישומים, והגדרות מערכת</string>
-    <string name="micloud_main_head_menu_finddevice_summary">אתר ונעל את המכשיר אם נשכח</string>
+    <string name="micloud_main_head_menu_cloud_backup_summary">"הגדרות מערכת ופריסת 'מסך הבית'"</string>
+    <string name="micloud_main_head_menu_finddevice_summary">אתר את המכשיר ונעל אותו</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">"'איתור המכשיר' אינו זמין ב'שטח שני', תוכל להשתמש בתכונה זו ב'שטח ראשון'."</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">שחזור פריטים שנמחקו</string>
     <string name="micloud_main_head_menu_recycle_bin_title">פריטים שנמחקו</string>
@@ -404,12 +415,15 @@
     <string name="soundrecorder_sync_only_in_wifi">סנכרן באמצעות רשת אלחוטית בלבד</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">הרשמקול לא ישתמש בנתונים סלולריים על מנת להוריד ולהעלות הקלטות</string>
     <string name="soundrecorder_sync_records">סנכרן עם Xiaomi Cloud</string>
+    <string name="special_func_title">תכונות מיוחדות</string>
     <string name="storage_manage_expansion">קבל עוד</string>
     <string name="storage_manage_list_title">נתוני ענן</string>
     <string name="storage_manage_list_title_action">הצג עוד</string>
     <string name="storage_manage_renewal">חידוש</string>
     <string name="storage_manage_title">שנה את תכנית האחסון בענן</string>
     <string name="storage_manage_upgrade">שדרוג</string>
+    <string name="storage_upgrade_card_summary">קבל יותר שטח אחסון בענן</string>
+    <string name="storage_upgrade_card_title">שדרג את התוכנית שלך</string>
     <string name="sub_alert_notif_content">הפעל את Xiaomi Cloud</string>
     <string name="sub_alert_notif_title">סנכרן עם Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">סנכרן הודעות המכילות תמונות, שמע, או מדיה אחרת בעת חיבור לרשת אלחוטית בלבד</string>
@@ -426,6 +440,8 @@
     <string name="sync_dspt_entrance_provision_network">יישום זה זקוק לחיבור לאינטרנט על מנת שיוכל לעבוד באופן תקין. דרושים חיבור נתונים סלולרי והפעלת חיבור הרשת האלחוטית על מנת לסנכרן נתונים.</string>
     <string name="sync_dspt_entrance_provision_skip">דלג על שלב זה</string>
     <string name="sync_dspt_provision">"סנכרן את התמונות שלך, אנשי קשר, פתקים, ועוד על כל ההתקנים שלך או גש אליהם ב "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"תוכל להפעיל או לבטל תכונה זו בכל עת בהגדרות.
 "</string>
     <string name="sync_item_calllog_summary">סנכרון יומן שיחות יוצאות ונכנסות למכשיר זה</string>
@@ -475,6 +491,6 @@
     <string name="wipe_data_dialog_title">הפריטים אינם מסונכרנים</string>
     <string name="wipe_data_query_progress_title">בודק…</string>
     <string name="wipe_secret_photo_dialog_title">התמונות המוסתרות לא סונכרנו</string>
-    <string name="xiaomi_cloud_service">Cloud</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">כל הפריטים החשובים במקום אחד</string>
 </resources>

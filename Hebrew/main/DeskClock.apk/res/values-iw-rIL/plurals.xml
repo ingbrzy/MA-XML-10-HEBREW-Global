@@ -42,6 +42,12 @@
         <item quantity="two">%d דקותיים</item>
         <item quantity="many">%d דקות</item>
     </plurals>
+    <plurals name="minute_text">
+        <item quantity="other">" דקות"</item>
+        <item quantity="one">"דקה "</item>
+        <item quantity="two">" דקות"</item>
+        <item quantity="many">" דקות"</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%d שניות</item>
         <item quantity="one">%d שניה</item>
@@ -108,6 +114,18 @@
         <item quantity="two">הפעל נודניק למשך %d דקות</item>
         <item quantity="many">הפעל נודניק למשך %d דקות</item>
     </plurals>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">שעון העצר פועל זה %s ימים. הקש לצפייה.</item>
+        <item quantity="one">שעון העצר פועל זה יום %s. הקש לצפייה.</item>
+        <item quantity="two">שעון העצר פועל זה %s ימים. הקש לצפייה.</item>
+        <item quantity="many">שעון העצר פועל זה %s ימים. הקש לצפייה.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">שעון העצר פועל זה %s שעות. הקש לצפייה.</item>
+        <item quantity="one">שעון העצר פועל זה שעה %s. הקש לצפייה.</item>
+        <item quantity="two">שעון העצר פועל זה %s שעות. הקש לצפייה.</item>
+        <item quantity="many">שעון העצר פועל זה %s שעות. הקש לצפייה.</item>
+    </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d שעות "</item>
         <item quantity="one">"%1$d שעה "</item>
@@ -125,5 +143,17 @@
         <item quantity="one">שניה %1$d</item>
         <item quantity="two">%1$d שניות</item>
         <item quantity="many">%1$d שניות</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">%s שעות קדימה</item>
+        <item quantity="one">שעה %s קדימה</item>
+        <item quantity="two">%s שעות קדימה</item>
+        <item quantity="many">%s שעות קדימה</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">%s שעות אחורה</item>
+        <item quantity="one">שעה %s אחורה</item>
+        <item quantity="two">%s שעות אחורה</item>
+        <item quantity="many">%s שעות אחורה</item>
     </plurals>
 </resources>

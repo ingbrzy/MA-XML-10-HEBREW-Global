@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zman</string>
+    <string name="first_settings_default_camera_title">שתף ללא מטא-נתונים כברירת המחדל</string>
+    <string name="first_settings_default_location_subtitle">הסר את פרטי המיקום מתמונות ששותפו</string>
+    <string name="first_settings_default_location_title">שתף ללא נתוני מיקום כברירת המחדל</string>
+    <string name="first_settings_share_enable">הוסף תג \"שיתוף מאובטח\"</string>
+    <string name="first_settings_share_enable_subtitle">הפריטים שתשתף באמצעות WeChat יופיעו עם התג של MIUI</string>
+    <string name="first_settings_subtitle">אלה אפשרויות השיתוף המאובטח הזמינות עבורך:</string>
+    <string name="first_settings_title">הגן על פרטיותך</string>
+    <string name="once_settings_camera_ttile">שתף ללא מטא-נתונים</string>
+    <string name="once_settings_location_title">שתף ללא פרטי מיקום</string>
+    <string name="once_settings_subtitle">איך תרצה לשתף את הפריטים שנבחרו?</string>
+    <string name="once_settings_title">הגנת פרטיות</string>
+    <string name="settings_camera_subtitle_no">אין מטא-נתונים</string>
+    <string name="settings_image_camera_summary">"דגם המכשיר, מטא-נתונים וכד'"</string>
+    <string name="settings_location_subtitle_no">אין פרטי מיקום</string>
+    <string name="settings_share_enable_summary">הפריטים שתשתף באמצעות WeChat יופיעו עם התג של MIUI</string>
+    <string name="settings_share_info">כאן מופיעות אפשרויות השיתוף המאובטח הזמינות עבור שיתוף פריטים מהגלריה וממנהל הקבצים:</string>
+    <string name="settings_show_detail">הצג פרטים</string>
+    <string name="settings_tip">עבור אל גלריה > הגדרות לצפייה באפשרויות נוספות</string>
+    <string name="settings_title">שיתוף מאובטח</string>
+    <string name="text_done">אישור</string>
+    <string name="text_security">פרטיות</string>
+</resources>

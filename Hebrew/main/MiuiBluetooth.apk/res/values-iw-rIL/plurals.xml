@@ -6,4 +6,16 @@
         <item quantity="two">לחץ והחזק את הכפתור על הקופסא למשך %1$d שניות</item>
         <item quantity="many">לחץ והחזק את הכפתור על הקופסא למשך %1$d שניות</item>
     </plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">לחץ והחזק כל אזור על האוזניות בו יש רגישות למגע למשך %1$d שניות</item>
+        <item quantity="one">לחץ והחזק כל אזור על האוזניות בו יש רגישות למגע למשך שנייה %1$d</item>
+        <item quantity="two">לחץ והחזק כל אזור על האוזניות בו יש רגישות למגע למשך %1$d שניות</item>
+        <item quantity="many">לחץ והחזק כל אזור על האוזניות בו יש רגישות למגע למשך %1$d שניות</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">מחוברים %1$d מכשירים</item>
+        <item quantity="one">מחובר מכשיר %1$d</item>
+        <item quantity="two">מחוברים %1$d מכשירים</item>
+        <item quantity="many">מחוברים %1$d מכשירים</item>
+    </plurals>
 </resources>

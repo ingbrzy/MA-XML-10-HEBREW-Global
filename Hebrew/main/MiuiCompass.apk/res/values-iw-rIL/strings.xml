@@ -23,8 +23,10 @@
     <string name="cancel">ביטול</string>
     <string name="cannot_get_location">--</string>
     <string name="compass_settings">הגדרות</string>
+    <string name="cta_agree_desc">אפשר לאפליקציה זו להתחבר לאינטרנט והענק לה הרשאות אופציונליות כדי שתוכל להשתמש בכל התכונות שלה.</string>
     <string name="cta_v2_app_purpose">מציג את הכיוונים, הקואורדינטות, הלחץ האטמוספרי ואת הגובה הנוכחי</string>
     <string name="dialog_body_no_network">התחבר לרשת אלחוטית או הפעל נתונים ניידים.</string>
+    <string name="dialog_body_no_network_china">Connect to WLAN or turn on mobile data.</string>
     <string name="dialog_calibrat_altitude">מבצע כיול…</string>
     <string name="dialog_title_no_network">לא ניתן היה להתחבר לרשת</string>
     <string name="direction_east">מז</string>
@@ -56,8 +58,8 @@
     <string name="mobiledata_alert_dialog_title">אזהרת שימוש בנתונים</string>
     <string name="open_perm_msg">המצפן זקוק להרשאות גישה למידע אודות המיקום שלך ולגישה למצלמה. ההרשאה נחוצה בכדי לקבוע את הקואורדינטות ולהעניק תצוגות מקדימות חיות. האם לאפשר?</string>
     <string name="open_perm_title">נדרשות הרשאות</string>
-    <string name="permission_camera_desc">שימוש בפלס מים</string>
-    <string name="permission_location_desc">תצוגת הקואורדינטות והלחץ האטמוספרי</string>
+    <string name="permission_camera_desc">להציג אזימוט בתצוגה המקדימה החיה</string>
+    <string name="permission_location_desc">להציג קואורדינטות</string>
     <string name="preference_other">אחר</string>
     <string name="preference_privacy_title">מדיניות הפרטיות</string>
     <string name="pressure">%.1f</string>

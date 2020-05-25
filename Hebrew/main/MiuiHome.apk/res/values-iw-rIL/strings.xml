@@ -143,6 +143,9 @@
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">היישום המשוכפל יוסר יחד עם יישומים אלה.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">היישום המשוכפל יוסר יחד עם יישום זה.</string>
     <string name="confirm_uninstall_dialog_title">התקנת היישומים המשוכפלים תוסר</string>
+    <string name="content_description_button_add">לחץ להוספה לישומים נוכחיים</string>
+    <string name="content_description_button_disable">אין להוסיף לישומים הנוכחיים</string>
+    <string name="content_description_button_remove">לחץ להסרה מיישומים נוכחיים</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s, סומן</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, הסימון בוטל</string>
     <string name="content_description_workspace_thumbnail_item">תצוגה מקדימה של המסך, עמוד %1$s</string>
@@ -340,11 +343,13 @@
     <string name="open_personal_assistant_dialog_title">"כיבוי 'כספת היישומים'"</string>
     <string name="open_personal_assistant_title">כספת היישומים</string>
     <string name="out_of_space">אין עוד מקום פנוי בדף מסך הבית הזה</string>
+    <string name="perfect_icons_switch_summary">"רנדור אנימציות בצלמיות של אפליקציות צד ג'"</string>
+    <string name="perfect_icons_switch_title">צלמיות אנימציה גלובליות</string>
     <string name="permdesc_install_shortcut">אפשר ליישום להוסיף קיצורי דרך ללא התערבות המשתמש.</string>
-    <string name="permdesc_install_widget">"אפשר ליישום להוסיף ווידג'טים ללא התערבות המשתמש."</string>
+    <string name="permdesc_install_widget">"מאפשרת לאפליקציה להוסיף ווידג'טים בלי לדרוש מהמשתמש לבצע פעולות נוספות."</string>
     <string name="permdesc_read_settings">"מאפשר ליישום לקרוא את ההגדרות וקיצורי הדרך של 'מסך הבית'."</string>
     <string name="permdesc_uninstall_shortcut">אפשר ליישום להסיר קיצורי דרך ללא התערבות המשתמש.</string>
-    <string name="permdesc_uninstall_widget">מאפשר ליישום להסיר יישומונים ללא התערבות המשתמש.</string>
+    <string name="permdesc_uninstall_widget">"מאפשרת לאפליקציה להסיר ווידג'טים בלי לדרוש מהמשתמש לבצע פעולות נוספות."</string>
     <string name="permdesc_write_settings">"מאפשר ליישום לשנות את ההגדרות וקיצורי הדרך של 'מסך הבית'."</string>
     <string name="permlab_install_shortcut">התקן קיצורי דרך</string>
     <string name="permlab_install_widget">"התקן ווידג'טים"</string>
@@ -389,6 +394,7 @@
     <string name="recents_exit_multi_window_mode">יציאה</string>
     <string name="recents_forbid_dock_when_screening_toast_text">לא ניתן להשתמש במסך מפוצל בזמן שידור</string>
     <string name="recents_incompatible_app_message">יישום זה אינו תומך במסך מפוצל</string>
+    <string name="recents_smallwindow_text">שחרר להוספה</string>
     <string name="recents_task_screening">שידור</string>
     <string name="recents_title_app_manager">נהל יישומים</string>
     <string name="recents_title_game">משחקים</string>
@@ -396,6 +402,7 @@
     <string name="recents_title_garbage_deepclean">ניקוי עמוק</string>
     <string name="recents_title_market">מצא יישומים</string>
     <string name="recents_title_security_scan">סריקת אבטחה</string>
+    <string name="recents_tv_small_window_text">חלונות צפים</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">הצעות לאפליקציות</string>
     <string name="recommend_apps_default_title">ריק</string>
@@ -439,6 +446,13 @@
     <string name="show_most_popular_apps_you_used">הצג את האפליקציות עם תדירות השימוש הגבוהה ביותר במגירת האפליקציות</string>
     <string name="show_recents_recommend_title">הצג הצעות</string>
     <string name="slide_to_open_newhome">העבר אצבע כלפי מעלה לפתיחת מרכז התוכן</string>
+    <string name="small_window_button_complete">בוצע</string>
+    <string name="small_window_edit_content">אפשר להוסיף עד %d יישומים</string>
+    <string name="small_window_edit_title">יישומים נוכחיים</string>
+    <string name="small_window_empty">בחר מבין היישומים הזמינים</string>
+    <string name="small_window_select_title">יישומים זמינים</string>
+    <string name="small_window_title_text">הקש לפתיחת חלון צף</string>
+    <string name="small_window_toast">אפשר להוסיף עד %d יישומים</string>
     <string name="sort_by_abc">מיין לפי שם</string>
     <string name="sort_by_frequency">מיין לפי שימוש</string>
     <string name="sort_by_not_defined">מיון אוטומטי</string>

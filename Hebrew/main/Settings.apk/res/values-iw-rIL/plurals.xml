@@ -30,6 +30,12 @@
         <item quantity="two">%d יישומים לא יכולים להתחבר לרשת</item>
         <item quantity="many">%d יישומים לא יכולים להתחבר לרשת</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d מכשירים זמינים</item>
+        <item quantity="one">מכשיר זמין %d</item>
+        <item quantity="two">%d מכשירים זמינים</item>
+        <item quantity="many">%d מכשירים זמינים</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d התקנים</item>
         <item quantity="one">התקן %d</item>
@@ -61,10 +67,10 @@
         <item quantity="many">הזן %d תוים לכל הפחות</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">על קוד ה-PIN להיות באורך %d ספרות</item>
-        <item quantity="one">על קוד ה-PIN להיות באורך ספרה %d</item>
-        <item quantity="two">על קוד ה-PIN להיות באורך %d ספרות</item>
-        <item quantity="many">על קוד ה-PIN להיות באורך %d ספרות</item>
+        <item quantity="other">קוד ה-PIN צריך להכיל %d ספרות</item>
+        <item quantity="one">קוד ה-PIN צריך להכיל ספרה %d</item>
+        <item quantity="two">קוד ה-PIN צריך להכיל %d ספרות</item>
+        <item quantity="many">קוד ה-PIN צריך להכיל %d ספרות</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
         <item quantity="other">ניתן להזין עד %d ספרות</item>
@@ -101,6 +107,12 @@
         <item quantity="one">%d נוסף</item>
         <item quantity="two">%d נוספו</item>
         <item quantity="many">%d נוספו</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">%d פריטים נבחרו</item>
+        <item quantity="one">פריט %d נבחר</item>
+        <item quantity="two">%d פריטים נבחרו</item>
+        <item quantity="many">%d פריטים נבחרו</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>

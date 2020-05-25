@@ -31,7 +31,7 @@
     <string name="congratulation_swipe">החלק מעלה על מנת להיכנס למערכת</string>
     <string name="congratulation_title">ההתקנה הושלמה</string>
     <string name="content_description_complete">הסתיים</string>
-    <string name="content_description_miui_version">MIUI 11</string>
+    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_start">התחלה</string>
     <string name="content_introduction">מרכז התוכן צובר תוכן ושירותים מערוצים מרובים. כאן תוכל לקרוא מאמרים, לצפות בסרטונים, לצפות בפריטים יומיים מומלצים ולקבל המלצות תוכן.</string>
     <string name="continue_to_enable_accessibility">המשך להחזיק באמצעות שתי אצבעות כלפי מטה על מנת לאפשר את הנגישות.</string>
@@ -60,7 +60,7 @@
     <string name="font_hint_large">גודל ברירת מחדל של הטקסט</string>
     <string name="font_hint_normal">הגדל את גודל הטקסט</string>
     <string name="framework_introduction">"מסגרת 'שירותי Mi' מאפשרת לך להשתמש בחשבון Mi, Mi Push, Mi Stats, ו-MIUI BI."</string>
-    <string name="framwork_base_service">"כדי לספק שירותים אלה, מסגרת שירותי Mi' (MiAccount, Mi Push, Mi Stats, MIUI BI) זקוקה לחיבור לאינטרנט, לגישה למיקום שלך, ל-IMEI ול-IMSI, וכן להרשאה לקבל הודעות בדחיפה למכשירך"</string>
+    <string name="framwork_base_service">"כדי לספק שירותים אלה, מסגרת שירותי Mi' (Mi Account, Mi Push, Mi Stats, MIUI BI) זקוקה לחיבור לאינטרנט, לגישה למיקום שלך, ל-IMEI ול-IMSI, וכן להרשאה לקבל הודעות בדחיפה למכשירך"</string>
     <string name="game_introduction">"הרחבת 'משחקים' מאפשרת לך להיכנס, ליצור הזמנות, לבצע תשלומים, להשתמש בקופונים ולהשתתף באירועי קידום מכירות."</string>
     <string name="google_service_introduction">כדי שתוכל לעבוד כרגיל, Google Play צריך להתחבר לאינטרנט, לגשת למיקום שלך, להיות מסוגל להקליט שמע, לבצע שיחות, לגשת אל אירועי לוח שנה, יומן שיחות, חיישנים, אחסון, מצלמה, ולמידע על מכשירים וחשבונות.</string>
     <string name="ime_privacy_policy">"'מדיניות הפרטיות' עבור מקלדת הנבחרת"</string>
@@ -76,6 +76,8 @@
     <string name="locale_picker_title">בחר את האזור שלך</string>
     <string name="location_introduction">שירותים מבוססי מיקום מאתרים מוצרים ושירותים שקרובים אליך.</string>
     <string name="lockscreen_introduction">טפט קרוסלה מאפשר לך לקבל בכל יום תמונות מרעננות למסך הנעילה.</string>
+    <string name="mint_keyboard_oobe_checkbox">קראתי ואני מסכים למדיניות הפרטיות של מקלדת Mint</string>
+    <string name="mint_keyboard_oobe_terms">מדיניות הפרטיות של מקלדת Mint</string>
     <string name="miui_privacy_policy_no_network">"אין ברשותך חיבור לאינטרנט. הצג את 'מדיניות הפרטיות' ב-%s."</string>
     <string name="miui_terms_no_network">"מכשירך אינו מחובר לאינטרנט. ניתן לצפות ב'תנאי השירות' ב-%s."</string>
     <string name="multisim_settings_category">הגדרות כרטיס ה-SIM</string>
@@ -203,7 +205,7 @@
     <string name="skip_gesture_guide_dialog_positive_btn">אישור</string>
     <string name="skip_gesture_guide_dialog_title">מחוות מסך מלא</string>
     <string name="skip_underline">דלג על שלב זה</string>
-    <string name="start_up_slogan">החיים נהיו פשוטים יותר</string>
+    <string name="start_up_slogan">Yours alone</string>
     <string name="summary_not_set">לא הוגדר</string>
     <string name="system_navigation_mode">מצב ניווט המערכת</string>
     <string name="terms_of_use">תנאים והגבלות</string>
@@ -224,6 +226,9 @@
     <string name="terms_of_use_lable_default_input_method_kika">"
 
 עליך להסכים למדיניות הפרטיות של Kika לפני שתוכל להשתמש בתכונה זו."</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
+
+עליך להסכים למדיניות הפרטיות של מקלדת Mint לפני שתוכל להשתמש בתכונה זו."</string>
     <string name="terms_of_use_lable_gms">, שירותי Google Play</string>
     <string name="terms_of_use_lable_smart_cards">, כרטיסים חכמים</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
@@ -231,7 +236,7 @@
     <string name="terms_privacy_policy_input_method_kika">מדיניות הפרטיות של Kika</string>
     <string name="title_fingerprint">הגדרת סיסמה</string>
     <string name="user_agreement">הסכם המשתמש</string>
-    <string name="user_agreement_declare">לפני שימוש ב-MIUI עליך לקרוא את הסכם המשתמש ואת מדיניות הפרטיות שלנו ולהסכים אתם. בזמן הפעלת המכשיר שלך שירות הפעלת Mi SIM, הענן של Xiaomi והשירותים אתר את המכשיר, מסך הבית, צירופי מילים שימושיים, שירות התרגום, MIUI Daemon, HTML Viewer (תצוגת HTML), AI Assistant (עוזר בינה-מלאכותית), סוללה וביצועים, חיישן חשמל, Joyose, הגדרות בינה מלאכותית של מערכת ההפעלה ושירות העדכונים יתחברו לאינטרנט וישתמשו במיקום שלך.</string>
+    <string name="user_agreement_declare">לפני שימוש ב-MIUI עליך לקרוא את הסכם המשתמש ואת מדיניות הפרטיות שלנו ולהסכים להם. בזמן הפעלת המכשיר שלך השירותים שלהלן יתחברו לאינטרנט וישתמשו במיקום שלך: שירות הפעלת Mi SIM, Xiaomi Cloud, אתר את המכשיר, מסך הבית, ביטויים שכיחים, שירות התרגום, מציג HTML, MIUI Daemon, עוזר AI (בינה-מלאכותית), סוללה וביצועים, גלאי חשמל, Joyose, הגדרות AI של מערכת ההפעלה, מנהל ההרשאות ושירות העדכונים.</string>
     <string name="voice_assist_advice">MI AI מאפשר לך להשתמש בפקודות קוליות, אבל שימוש באפשרות זו תגרור צריכה מוגברת של בטריה (+1% בכל שעה).</string>
     <string name="voice_assist_condition">"תוכל להשתמש ב Mi AI במקרים הבאים:r
 . כאשר המסך פועל. r

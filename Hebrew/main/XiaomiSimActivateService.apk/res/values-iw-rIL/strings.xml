@@ -18,8 +18,8 @@
     <string name="activate_feature_verify_mx_token">אימות חשבון Mi</string>
     <string name="activate_feature_voip">הודעות Mi ב-VoIP</string>
     <string name="activate_history_canceled_overview">הפעלת כרטיס ה-SIM בוטלה. ההפעלה מבוצעת על ידי \"%1$s\".</string>
-    <string name="activate_history_multisim_canceled_overview">הפעלת כרטיס ה-SIM %2$d בוטלה. ההפעלה מבוצעת על ידי %1$s\".</string>
-    <string name="activate_history_multisim_success_overview">הפעלת כרטיס ה-SIM %2$d בוצעה בהצלחה. ההפעלה מבוצעת על ידי %1$s\".</string>
+    <string name="activate_history_multisim_canceled_overview">הפעלת כרטיס ה-SIM %2$d בוטלה. ההפעלה מבוצעת על ידי \"%1$s\".</string>
+    <string name="activate_history_multisim_success_overview">הפעלת כרטיס ה-SIM %2$d בוצעה בהצלחה. ההפעלה מבוצעת על ידי \"%1$s\".</string>
     <string name="activate_history_sms">מסרון SMS נשלח במהלך ההפעלה.</string>
     <string name="activate_history_success_overview">כרטיס ה-SIM הופעל בהצלחה. ההפעלה מבוצעת על ידי \"%1$s\".</string>
     <string name="activate_history_title">הפעלת כרטיס SIM</string>

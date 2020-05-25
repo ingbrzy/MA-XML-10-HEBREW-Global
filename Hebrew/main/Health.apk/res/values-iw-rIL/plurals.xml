@@ -6,6 +6,12 @@
         <item quantity="two">%1$d-%2$d times</item>
         <item quantity="many">%1$d-%2$d times</item>
     </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">%1$d קלוריות</item>
+        <item quantity="one">"קל' אחת (%1$d)"</item>
+        <item quantity="two">%1$d קלוריות</item>
+        <item quantity="many">%1$d קלוריות</item>
+    </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Walk at least %1$d steps every day</item>
         <item quantity="one">Walk at least %1$d step every day</item>
@@ -43,10 +49,28 @@
         <item quantity="many">%1$d הקלטות</item>
     </plurals>
     <plurals name="dream_talk_segment_unit">
-        <item quantity="other">recordings</item>
-        <item quantity="one">recording</item>
-        <item quantity="two">recordings</item>
-        <item quantity="many">recordings</item>
+        <item quantity="other">" instances"</item>
+        <item quantity="one">" instance"</item>
+        <item quantity="two">" instances"</item>
+        <item quantity="many">" instances"</item>
+    </plurals>
+    <plurals name="duration_unit_hour_format">
+        <item quantity="other">%1$d שעות</item>
+        <item quantity="one">שעה אחת (%1$d)</item>
+        <item quantity="two">%1$d שעות</item>
+        <item quantity="many">%1$d שעות</item>
+    </plurals>
+    <plurals name="duration_unit_minute_format">
+        <item quantity="other">%1$d דקות</item>
+        <item quantity="one">דקה אחת (%1$d)</item>
+        <item quantity="two">%1$d דקות</item>
+        <item quantity="many">%1$d דקות</item>
+    </plurals>
+    <plurals name="duration_unit_second_format">
+        <item quantity="other">%1$d שניות</item>
+        <item quantity="one">שנייה אחת (%1$d)</item>
+        <item quantity="two">%1$d שניות</item>
+        <item quantity="many">%1$d שניות</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">מטרה: הלכת %1$d צעדים</item>
@@ -71,6 +95,12 @@
         <item quantity="one">%1$d hr</item>
         <item quantity="two">%1$d hrs</item>
         <item quantity="many">%1$d hrs</item>
+    </plurals>
+    <plurals name="length_unit_meter_format">
+        <item quantity="other">%1$d מטרים</item>
+        <item quantity="one">מטר אחד (%1$d)</item>
+        <item quantity="two">%1$d מטרים</item>
+        <item quantity="many">%1$d מטרים</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">יום %1$d למחזור</item>

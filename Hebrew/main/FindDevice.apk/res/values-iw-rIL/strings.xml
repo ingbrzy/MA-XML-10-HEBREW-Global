@@ -82,6 +82,7 @@
 סיבות נוספות
 היכנס אל i.mi.com ונסה לבטל את נעילת מכשירך משם."</string>
     <string name="unlock_help_title">עזרה בביטול הנעילה:</string>
+    <string name="unlock_number">קוד ביטול נעילה: %s</string>
     <string name="unlock_wrong_captcha">הקוד שהזנת שגוי</string>
     <string name="unlocking">מפעיל…</string>
     <string name="verifing_account">מאמת סיסמה…</string>

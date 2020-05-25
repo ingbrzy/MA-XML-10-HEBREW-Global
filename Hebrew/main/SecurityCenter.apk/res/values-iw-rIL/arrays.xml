@@ -2,8 +2,8 @@
 <resources>
     <string-array name="alarm_repeat_type">
         <item>פעם אחת</item>
-        <item>כל יום</item>
-        <item>ימי עבודה המשפטיות</item>
+        <item>בכל יום</item>
+        <item>ימי עבודה חוקיים</item>
         <item>ימי חול</item>
         <item>מותאם אישית</item>
     </string-array>
@@ -13,10 +13,23 @@
         <item>ימי חול</item>
         <item>מותאם אישית</item>
     </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>כל הרשומות</item>
+        <item>הפעלה אוטומטית</item>
+        <item>התחלת שרשרת</item>
+        <item>משתמש בהרשאות</item>
+        <item>פעולות רגישות</item>
+    </string-array>
     <string-array name="applock_password_types">
         <item>תבנית</item>
         <item>קוד PIN</item>
         <item>סיסמה</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>מותאם אישית</item>
+        <item>כרטיס Mi Fan</item>
+        <item>כרטיס Xiao Tiansheng</item>
+        <item>כרטיס Tencent King</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"אתמול (נתונים סלולריים)  "</item>
@@ -50,6 +63,18 @@
         <item>"היום: "</item>
         <item>"חודש זה: "</item>
     </string-array>
+    <string-array name="debug_open_intercept">
+        <item>מתן אפשרות לגשת ולערוך קבצים במכשיר שלך באמצעות שימוש במחשב.</item>
+        <item>תותר התקנת אפליקציות במכשיר שלך ללא הסכמתך המפורשת.</item>
+        <item>תוכל לנטר ולהקליט מרחוק את תוכן המסך שלך.</item>
+        <item>תהיה אפשרות לגשת למידע המפורט על המכשיר שלך.</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>כאשר המכשיר נעול</item>
         <item>כאשר המכשיר נעול או לאחר יציאה מיישום</item>
@@ -64,9 +89,37 @@
         <item>"שימוש בנתונים סלולריים "</item>
         <item>"שימוש ב Wi-Fi "</item>
     </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>חשוב: ייתכן שמספר רב של אפליקציות מערכת יפסיקו לפעול כראוי.</item>
+        <item>ייתכן שפריסות טקסט, חשבונות ותוכן לא יוצגו כראוי.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>הצג אזהרה</item>
         <item>התרע וכבה את חיבור הנתונים הסלולרי</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>ברירת מחדל</item>
@@ -75,6 +128,24 @@
     <string-array name="pc_settings_thermal_summaries">
         <item>ברירת מחדל עבור מצב בקרת טמפרטורה</item>
         <item>עדיפות לביצועים</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>לקרוא את כל ההתראות שלך, כולל את התוכן של הודעות הטקסט שלך ושל פריטים אחרים שעשוי להכיל מידע אישי</item>
+        <item>הגבל הרשאות התראה עבור אפליקציות מסוימות</item>
+        <item>צור הדמיה של הקשה על התראות ופתיחת אפליקציות</item>
+        <item>"להפעיל ולכבות את מצב 'נא לא להפריע'"</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>לאסוף נתונים על תחומי העניין וההתנהגות שלך על ידי למידה באילו אפליקציות אתה משתמש ובאיזו תדירות אתה משתמש בהן</item>
+        <item>לגשת להגדרות הקשורות לשפה ולספק שלך, וכן לפרטים אחרים</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>אפליקציות של צד שלישי שאינן מאומתות על ידי GetApps עלולות לגרום לבעיות רבות ולהפחית את יציבות המערכת.</item>
+        <item>אפליקציות של צד שלישי עשויות להכיל תוכנה זדונית המסכנת את המידע האישי שלך.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>אחסון פנימי</item>
+        <item>אחסון חיצוני</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>תמיד</item>

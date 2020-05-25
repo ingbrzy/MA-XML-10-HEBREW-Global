@@ -24,9 +24,6 @@
     <string name="blocked_numbers_number_already_blocked_message">%1$s נחסם כבר.</string>
     <string name="blocked_numbers_number_blocked_message">%1$s נחסם</string>
     <string name="blocked_numbers_number_unblocked_message">בוטלה חסימת %1$s</string>
-    <string name="callFailed_simError">שגיאת כרטיס SIM</string>
-    <string name="can_not_dial_vt_while_voice_prompt">לא ניתן לבצע שיחת וידאו במהלך ביצוע שיחה קולית</string>
-    <string name="can_not_dial_while_vt_prompt">לא ניתן לחייג כאשר שיחת וידאו נמצאת בעיצומה</string>
     <string name="cant_call_due_to_ongoing_call">לא ניתן לבצע שיחה. %1$s מתבצעת שיחה אחרת.</string>
     <string name="cant_call_due_to_ongoing_calls">לא יכול לבצע שיחה סיים את %1$s השיחה תחילה.</string>
     <string name="cant_call_due_to_ongoing_unknown_call">לא ניתן לבצע שיחה כי מתבצעת שיחה באמצעות אפליקציה אחרת.</string>
@@ -34,22 +31,14 @@
     <string name="change_default_dialer_dialog_negative">ביטול</string>
     <string name="change_default_dialer_dialog_title">להפוך את %s לאפליקציית ברירת המחדל לשיחות טלפון?</string>
     <string name="change_default_dialer_warning_message">%s תוכל לבצע שיחות ולנהל את כל היבטי השיחות. עליך להגדיר רק אפליקציות אמינות כאפליקציית ברירת המחדל לשיחות טלפון.</string>
-    <string name="close">כיבוי</string>
     <string name="decline_incoming_call">דחייה</string>
     <string name="delete_icon_description">ביטול חסימה</string>
-    <string name="dial_conference_fail_prompt">לא ניתן לבצע שיחת ועידה באופן ישיר מפני שהרשת הנוכחית אינה תומכת ב-VoLTE.</string>
-    <string name="dial_vt_fail_prompt">הרשת הנוכחית אינה תומכת ב-VoLTE. להחליף לשיחה קולית רגילה?</string>
     <string name="duplicate_video_call_not_allowed">לא ניתן להוסיף שיחות נוספות</string>
     <string name="enable_account_preference_title">חשבונות חיוג</string>
     <string name="handle_restricted">RESTRICTED</string>
-    <string name="incall_error_call_failed">לא ניתן היה לבצע את השיחה.</string>
-    <string name="incall_error_power_off">כבה את מצב הטיסה כדי לבצע שיחה.</string>
-    <string name="incall_error_supp_service_unknown">שירות זה אינו נתמך.</string>
-    <string name="missedcall_notification_public_version_title">טלפון</string>
     <string name="no_vm_number">מספר תא קולי חסר</string>
     <string name="no_vm_number_msg">לא קיים מספר תא קולי בכרטיס ה-SIM.</string>
     <string name="non_primary_user">רק בעל המכשיר יכול לנהל את המספרים החסומים.</string>
-    <string name="notification_AllMissedCallTitle">כל השיחות שלא נענו</string>
     <string name="notification_channel_incoming_call">שיחות נכנסות</string>
     <string name="notification_channel_missed_call">שיחות שלא נענו</string>
     <string name="notification_incoming_call">%1$s שיחה מ-%2$s</string>
@@ -57,7 +46,6 @@
     <string name="notification_missedCallTicker">שיחה שלא נענתה מ- %s</string>
     <string name="notification_missedCallTitle">שיחה שלא נענתה</string>
     <string name="notification_missedCall_call_back">התקשר בחזרה</string>
-    <string name="notification_missedCall_call_back_miui">שיחה</string>
     <string name="notification_missedCall_message">הודעה</string>
     <string name="notification_missedCallsMsg">%s שיחות שלא נענו</string>
     <string name="notification_missedCallsTitle">שיחות שלא נענו</string>
@@ -88,7 +76,4 @@
     <string name="unblock_dialog_body">לבטל חסימת %1$s?</string>
     <string name="unknown">לא ידוע</string>
     <string name="userCallActivityLabel">טלפון</string>
-    <string name="voice_dial_out">שיחה קולית</string>
-    <string name="voice_report_incoming_call">שיחה נכנסת</string>
-    <string name="voice_report_unknown_num">מספר לא ידוע</string>
 </resources>

@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="extra_photo_common_save_fail">לא ניתן היה לשמור</string>
     <string name="extra_photo_common_saving">שומר…</string>
-    <string name="motion_photo_re_pick_title">בחר את התמונה הטובה ביותר</string>
+    <string name="motion_photo_cancel">ביטול</string>
+    <string name="motion_photo_re_pick_title">תמונה חיה</string>
+    <string name="motion_photo_save_fail">לא ניתן לשמור</string>
+    <string name="motion_photo_save_gif">שמירה כ-GIF</string>
+    <string name="motion_photo_save_gif_ing">מתבצעת שמירת GIF…</string>
+    <string name="motion_photo_save_image">שמירת התמונה הטובה ביותר</string>
+    <string name="motion_photo_save_image_ing">מתבצעת שמירת התמונה הטובה ביותר…</string>
+    <string name="motion_photo_save_video">שמירה כסרטון</string>
+    <string name="motion_photo_save_video_ing">מתבצעת שמירת סרטון…</string>
     <string name="motion_photo_toast_default">ברירת מחדל</string>
+    <string name="motion_photo_toast_long_press_play">לניגון לחץ לחיצה ממושכת על התמונה</string>
     <string name="motion_photo_toast_suggest">מומלצות</string>
     <string name="refocus_discard_confirm_message">לשמור את השינויים?</string>
     <string name="refocus_discard_negative_btn">דחיה</string>

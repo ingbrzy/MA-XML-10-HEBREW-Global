@@ -42,6 +42,18 @@
         <item quantity="two">%d הקלטות ירדו</item>
         <item quantity="many">%d הקלטות ירדו</item>
     </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">חפש בין %d הקלטות</item>
+        <item quantity="one">חפש בהקלטה %d</item>
+        <item quantity="two">חפש בין %d הקלטות</item>
+        <item quantity="many">חפש בין %d הקלטות</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">חפש בין %d הקלטות של שיחות</item>
+        <item quantity="one">חפש בהקלטת שיחה %d</item>
+        <item quantity="two">חפש בין %d הקלטות של שיחות</item>
+        <item quantity="many">חפש בין %d הקלטות של שיחות</item>
+    </plurals>
     <plurals name="search_result">
         <item quantity="other">נמצאו %d הקלטות</item>
         <item quantity="one">נמצאה %d הקלטה</item>

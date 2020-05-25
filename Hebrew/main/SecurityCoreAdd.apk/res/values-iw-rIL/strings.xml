@@ -174,10 +174,10 @@
     <string name="greenguard_child_des_title">סרוק קוד QR להוספת מכשיר</string>
     <string name="greenguard_functional_description">"נהל מכשירים מרחוק, צפה בפרטי המיקום, 
 שלוט ביישומים מותקנים והגבל שימושיות"</string>
-    <string name="greenguard_install_cancle">No thanks</string>
-    <string name="greenguard_install_confirm">Install</string>
-    <string name="greenguard_install_message">"Family Guard is a system app. You don't need internet to install it."</string>
-    <string name="greenguard_install_title">Install Family Guard</string>
+    <string name="greenguard_install_cancle">לא תודה</string>
+    <string name="greenguard_install_confirm">התקנה</string>
+    <string name="greenguard_install_message">\"הגנה משפחתית\" הוא יישום מערכת. לא צריך חיבור אינטרנטי כדי להתקין אותו.</string>
+    <string name="greenguard_install_title">התקנת הגנה משפחתית</string>
     <string name="greenguard_parent_des">נהל את המכשירים של חבריך ומשפחתך</string>
     <string name="greenguard_parent_des_title">השתמש בKite Guard על מנת להוסיף</string>
     <string name="guide_contact_sub_title_desc">"אנשי הקשר שהוספו ל'שטח שני' יהיו פרטיים.
@@ -223,6 +223,7 @@
     <string name="master_clear_apply_step_2">ודא שאתה מגבה את כל הפריטים החשובים למחשב. לאחר הקשה על \"אישור\", יבוצע איפוס נתונים של היצרן במכשיר, כל הקבצים והנתונים ימחקו לצמיתות, כולל תיקי לקוחות, אנשי קשר, תמונות ויישומים.</string>
     <string name="master_clear_apply_title">שים לב</string>
     <string name="master_clear_not_available">שחזור הגדרות יצרן מוגבל על ידי החברה שלך.</string>
+    <string name="master_clear_not_available_ep">אין לך רשות לאפס להגדרות המפעל או למשוך את ההרשאה שלך עכשיו. צור קשר עם הממונה עליך.</string>
     <string name="menu_item_about_privacy_title">מדיניות הפרטיות</string>
     <string name="messageData">הודעות</string>
     <string name="more_settings">עוד</string>
@@ -459,6 +460,8 @@
     <string name="xspace_description">"'יישומים משוכפלים' הינו כלי אשר באמצעותו ניתן לשכפל יישומים בהם ניתן להשתמש בנפרד באמצעות חשבון אחר.
 
 יישומים משוכפלים מסויימים דורשים תמיכה במסגרת שירותי Google. במקרים כאלה, מסגרת שירותי Google נוצרת."</string>
+    <string name="xspace_disable">לא נוצר</string>
+    <string name="xspace_enable">נוצר</string>
     <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_guide_des">השתמש בשני חשבונות מבלי להחליף</string>
     <string name="xspace_guide_title">יצירת יישום משוכפל</string>
@@ -471,9 +474,12 @@
     <string name="xspace_introduce">מומלץ</string>
     <string name="xspace_label">יישומים משוכפלים</string>
     <string name="xspace_loading_msg">טוען יישומים…</string>
+    <string name="xspace_notification">התראות יישום משוכפל</string>
+    <string name="xspace_notification_error">היכנס ל-WeChat המשוכפל ונסה שוב</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">מחיק חשבונות של יישומים משוכפלים</string>
     <string name="xspace_setting_label">הגדרות יישומים משוכפלים</string>
+    <string name="xspace_settins">הגדר</string>
     <string name="xspace_uninstall_completed">הסרת ההתקנה של היישום המשוכפל בוצעה בהצלחה</string>
     <string name="xspace_uninstall_dialog_content">הסרת היישום המשוכפל תסיר את כל נתוני היישום.</string>
     <string name="xspace_uninstall_dialog_title">הסר התקנה של היישום המשוכפל</string>

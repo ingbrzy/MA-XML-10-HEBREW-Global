@@ -6,6 +6,84 @@
         <item quantity="two">%d משחקים נוספו</item>
         <item quantity="many">%d משחקים נוספו</item>
     </plurals>
+    <plurals name="app_behavior_desc_allow">
+        <item quantity="other">אופשר %3$d פעמים בין %1$s ל-%2$s</item>
+        <item quantity="one">אופשר %3$d פעמים בין %1$s ל-%2$s</item>
+        <item quantity="two">אופשר %3$d פעמים בין %1$s ל-%2$s</item>
+        <item quantity="many">אופשר %3$d פעמים בין %1$s ל-%2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_allow_minute">
+        <item quantity="other">הותר %2$d פעמים ב-%1$s</item>
+        <item quantity="one">הותר פעם %2$d ב-%1$s</item>
+        <item quantity="two">הותר %2$d פעמים ב-%1$s</item>
+        <item quantity="many">הותר %2$d פעמים ב-%1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny">
+        <item quantity="other">הוגבל %3$d פעמים בין %1$s ל-%2$s</item>
+        <item quantity="one">הוגבל %3$d פעמים בין %1$s ל-%2$s</item>
+        <item quantity="two">הוגבל %3$d פעמים בין %1$s ל-%2$s</item>
+        <item quantity="many">הוגבל %3$d פעמים בין %1$s ל-%2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny_minute">
+        <item quantity="other">נדחה %2$d פעמים ב-%1$s</item>
+        <item quantity="one">נדחה פעם %2$d ב-%1$s</item>
+        <item quantity="two">נדחה %2$d פעמים ב-%1$s</item>
+        <item quantity="many">נדחה %2$d פעמים ב-%1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual">
+        <item quantity="other">הוחזרו %3$d הודעות ריקות בין %1$s ל-%2$s</item>
+        <item quantity="one">הוחזרה הודעה ריקה %3$d בין %1$s ל-%2$s</item>
+        <item quantity="two">הוחזרו %3$d הודעות ריקות בין %1$s ל-%2$s</item>
+        <item quantity="many">הוחזרו %3$d הודעות ריקות בין %1$s ל-%2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual_minute">
+        <item quantity="other">הוחזרו %2$d הודעות ריקות ב-%1$s</item>
+        <item quantity="one">הוחזרה הודעה ריקה %2$d ב-%1$s</item>
+        <item quantity="two">הוחזרו %2$d הודעות ריקות ב-%1$s</item>
+        <item quantity="many">הוחזרו %2$d הודעות ריקות ב-%1$s</item>
+    </plurals>
+    <plurals name="app_behavior_notification_audio_more">
+        <item quantity="other">%2$d אפליקציות, כולל %1$1s, מקליטות שמע</item>
+        <item quantity="one">אפליקציה אחת (%2$d), כולל %1$1s, מקליטה שמע</item>
+        <item quantity="two">%2$d אפליקציות, כולל %1$1s, מקליטות שמע</item>
+        <item quantity="many">%2$d אפליקציות, כולל %1$1s, מקליטות שמע</item>
+    </plurals>
+    <plurals name="app_behavior_notification_camera_more">
+        <item quantity="other">%2$d אפליקציות, כולל %1$1s, מצלמות תמונות</item>
+        <item quantity="one">אפליקציה אחת (%2$d), כולל %1$1s, מצלמת תמונות</item>
+        <item quantity="two">%2$d אפליקציות, כולל %1$1s, מצלמות תמונות</item>
+        <item quantity="many">%2$d אפליקציות, כולל %1$1s, מצלמות תמונות</item>
+    </plurals>
+    <plurals name="app_behavior_notification_location_more">
+        <item quantity="other">%2$d אפליקציות, כולל %1$1s, ניגשות למיקום שלך</item>
+        <item quantity="one">אפליקציה אחת (%2$d), כולל %1$1s, ניגשת למיקום שלך</item>
+        <item quantity="two">%2$d אפליקציות, כולל %1$1s, ניגשות למיקום שלך</item>
+        <item quantity="many">%2$d אפליקציות, כולל %1$1s, ניגשות למיקום שלך</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_off">
+        <item quantity="other">לא ניידע אותך על פעולות רגישות שבוצעו ע\"י %1$d אפליקציות</item>
+        <item quantity="one">לא ניידע אותך על פעולות רגישות שבוצעו ע\"י אפליקציה אחת</item>
+        <item quantity="two">לא ניידע אותך על פעולות רגישות שבוצעו ע\"י %1$d אפליקציות</item>
+        <item quantity="many">לא ניידע אותך על פעולות רגישות שבוצעו ע\"י %1$d אפליקציות</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_on">
+        <item quantity="other">ניידע אותך על פעולות רגישות שבוצעו ע\"י %1$d אפליקציות</item>
+        <item quantity="one">ניידע אותך על פעולות רגישות שבוצעו ע\"י אפליקציה אחת</item>
+        <item quantity="two">ניידע אותך על פעולות רגישות שבוצעו ע\"י %1$d אפליקציות</item>
+        <item quantity="many">ניידע אותך על פעולות רגישות שבוצעו ע\"י %1$d אפליקציות</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple">
+        <item quantity="other">%1$1s פתח %2$d אפליקציות</item>
+        <item quantity="one">%1$1s פתח אפליקציה אחת (%2$d)</item>
+        <item quantity="two">%1$1s פתח %2$d אפליקציות</item>
+        <item quantity="many">%1$1s פתח %2$d אפליקציות</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple_single">
+        <item quantity="other">אפליקציה זו פתחה %1$d אפליקציות נוספות</item>
+        <item quantity="one">אפליקציה זו פתחה אפליקציה נוספת אחת (%1$d)</item>
+        <item quantity="two">אפליקציה זו פתחה %1$d אפליקציות נוספות</item>
+        <item quantity="many">אפליקציה זו פתחה %1$d אפליקציות נוספות</item>
+    </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">ניתנו %d הרשאות</item>
         <item quantity="one">ניתנה הרשאה %d</item>
@@ -266,6 +344,18 @@
         <item quantity="two">%d משחקים נוספו</item>
         <item quantity="many">%d משחקים נוספו</item>
     </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s שעות</item>
+        <item quantity="one">שעה %s</item>
+        <item quantity="two">%s שעות</item>
+        <item quantity="many">%s שעות</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s דקות</item>
+        <item quantity="one">דקה %s</item>
+        <item quantity="two">%s דקות</item>
+        <item quantity="many">%s דקות</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">חבר %d נקודות לפחות</item>
         <item quantity="one">חבר %d נקודה לפחות</item>
@@ -403,6 +493,18 @@
         <item quantity="one">יישום %d מרוקן את הסוללה</item>
         <item quantity="two">%d יישומים מרוקנים את הסוללה</item>
         <item quantity="many">%d יישומים מרוקנים את הסוללה</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" שעות"</item>
+        <item quantity="one">"שעה "</item>
+        <item quantity="two">" שעות"</item>
+        <item quantity="many">" שעות"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" דקות"</item>
+        <item quantity="one">"דקה "</item>
+        <item quantity="two">" דקות"</item>
+        <item quantity="many">" דקות"</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s ימים</item>
@@ -554,6 +656,18 @@
         <item quantity="two">%s דקות נותרו</item>
         <item quantity="many">%s דקות נותרו</item>
     </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">הבנתי (%ds)</item>
+        <item quantity="one">הבנתי (%ds)</item>
+        <item quantity="two">הבנתי (%ds)</item>
+        <item quantity="many">הבנתי (%ds)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">המכשיר שלך ייכבה בעוד %d שניות. חבר אותו למטען.</item>
+        <item quantity="one">המכשיר שלך ייכבה בעוד שנייה %d. חבר אותו למטען.</item>
+        <item quantity="two">המכשיר שלך ייכבה בעוד %d שניות. חבר אותו למטען.</item>
+        <item quantity="many">המכשיר שלך ייכבה בעוד %d שניות. חבר אותו למטען.</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d יישומי האייקונים אינם מוסתרים</item>
         <item quantity="one">יישום אייקון %d אינו מוסתר</item>
@@ -565,6 +679,18 @@
         <item quantity="one">יישום אייקון %d אינו מוסתר</item>
         <item quantity="two">%d יישומי האייקונים אינם מוסתרים</item>
         <item quantity="many">%d יישומי האייקונים מוסתרים</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s אפליקציות עם גישה קבועה</item>
+        <item quantity="one">אפליקציה %s עם גישה קבועה</item>
+        <item quantity="two">%s אפליקציות עם גישה קבועה</item>
+        <item quantity="many">%s אפליקציות עם גישה קבועה</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s פעמים</item>
+        <item quantity="one">פעם %s</item>
+        <item quantity="two">%s פעמים</item>
+        <item quantity="many">%s פעמים</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d בעיות סוללה</item>

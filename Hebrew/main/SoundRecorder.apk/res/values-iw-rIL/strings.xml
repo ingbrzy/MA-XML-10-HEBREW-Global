@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="agree_description">אפשר לאפליקציה זו להתחבר לאינטרנט כדי שתוכל להשתמש בכל המאפיינים שלה.</string>
     <string name="alert_message_clear_records">האם למחוק את ההקלטות שנבחרו?</string>
     <string name="alert_message_delete_local_record">האם למחוק הקלטה זו?</string>
     <string name="alert_message_delete_record">מחיקת ההקלטה ממכשירך תביא למחיקתה גם מ- Xiaomi Cloud. האם למחוק כעת?</string>

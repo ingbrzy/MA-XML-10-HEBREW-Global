@@ -42,6 +42,12 @@
         <item quantity="two">התוכן שלך מכיל פריטים (%1$s) שמפרים את כללי הקהילות שלנו. חשבונך מושעה למשך %2$d ימים עד %3$s.</item>
         <item quantity="many">התוכן שלך מכיל פריטים (%1$s) שמפרים את כללי הקהילות שלנו. חשבונך מושעה למשך %2$d ימים עד %3$s.</item>
     </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">מאפיין זה יושבת למשך %s ימים</item>
+        <item quantity="one">מאפיין זה יושבת למשך יום %s</item>
+        <item quantity="two">מאפיין זה יושבת למשך %s ימים</item>
+        <item quantity="many">מאפיין זה יושבת למשך %s ימים</item>
+    </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d סרטונים</item>
         <item quantity="one">סרטון %d</item>
