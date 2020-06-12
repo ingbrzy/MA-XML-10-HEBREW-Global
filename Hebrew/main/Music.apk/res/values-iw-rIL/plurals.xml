@@ -36,13 +36,13 @@
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">"נוצרה ב- %1$s 
-סהכ %2$d שירים"</item>
+סה\"כ %2$d שירים"</item>
         <item quantity="one">"נוצרה ב- %1$s 
 שיר %2$d בסה\"כ"</item>
         <item quantity="two">"נוצרה ב- %1$s 
-סהכ %2$d שירים"</item>
+סה\"כ %2$d שירים"</item>
         <item quantity="many">"נוצרה ב- %1$s 
-סהכ %2$d שירים"</item>
+סה\"כ %2$d שירים"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d שירים נוספו לרשימת ההשמעה</item>

@@ -48,6 +48,12 @@
         <item quantity="two">חפש בין %d הקלטות</item>
         <item quantity="many">חפש בין %d הקלטות</item>
     </plurals>
+    <plurals name="search_app_records_hint">
+        <item quantity="other">Search among %d recordings</item>
+        <item quantity="one">Search among %d recording</item>
+        <item quantity="two">Search among %d recordings</item>
+        <item quantity="many">Search among %d recordings</item>
+    </plurals>
     <plurals name="search_call_records_hint">
         <item quantity="other">חפש בין %d הקלטות של שיחות</item>
         <item quantity="one">חפש בהקלטת שיחה %d</item>

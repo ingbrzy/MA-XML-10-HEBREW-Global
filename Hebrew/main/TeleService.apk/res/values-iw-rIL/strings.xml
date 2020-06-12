@@ -580,11 +580,13 @@
     <string name="time_end_minute">time end minute</string>
     <string name="time_formate_am">AM</string>
     <string name="time_formate_pm">PM</string>
+    <string name="time_interval_char">:</string>
     <string name="time_next_day">" היום הבא "</string>
     <string name="time_start">" מ: "</string>
     <string name="time_start_hour">time start hour</string>
     <string name="time_start_minute">time start minute</string>
     <string name="transport_title">סוג תחבורה</string>
+    <string name="tty_mode_key">button_tty_mode_key</string>
     <string name="tty_mode_not_allowed_video_call">לא ניתן לשנות את מצב TTY בזמן שיחת וידאו</string>
     <string name="tty_mode_option_summary">הגדר מצב TTY</string>
     <string name="tty_mode_option_title">מצב TTY</string>
@@ -614,6 +616,7 @@
     <string name="voicemail">תא קולי</string>
     <string name="voicemail_abbreviated">תא קולי:</string>
     <string name="voicemail_change_pin_dialog_title">שינוי PIN</string>
+    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_default">ספק הרשת שלך</string>
     <string name="voicemail_notifications_preference_title">התראות</string>
     <string name="voicemail_number_not_set">&lt;לא מוגדר></string>
@@ -622,11 +625,13 @@
     <string name="voicemail_settings">התקנה</string>
     <string name="voicemail_settings_number_label">מספר תא קולי</string>
     <string name="voicemail_settings_with_label">תא קולי (%s)</string>
+    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="voicemail_visual_voicemail_switch_title">תא קולי חזותי</string>
     <string name="vvm_unsupported_message_format">סוג הודעה בלתי נתמך, חייג %s להאזנה.</string>
     <string name="wait_prompt_str">"לשלוח צלילים אלה?
 "</string>
     <string name="wifi_calling">שיחת רשת אלחוטית</string>
+    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="wifi_calling_settings_title">שיחות רשת אלחוטית</string>
     <string name="wild_prompt_str">החלף סמלים ב-</string>
 </resources>

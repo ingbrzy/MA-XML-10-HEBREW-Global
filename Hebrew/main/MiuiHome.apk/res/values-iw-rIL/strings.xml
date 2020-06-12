@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_all_app_custom_category_finish">Done</string>
+    <string name="accessibility_all_app_custom_category_item_remove">Remove \"%1$s\" from categories</string>
+    <string name="accessibility_clear_search_bar_text">Clear search bar</string>
+    <string name="accessibility_enter_all_app_mode">Open App drawer</string>
+    <string name="accessibility_enter_all_app_settings">Open App drawer settings</string>
+    <string name="accessibility_menu_item_smallwindow_disable">אפליקציה זו אינה תומכת בחלונות מרחפים</string>
+    <string name="accessibility_menu_item_smallwindow_enable">אפליקציה זו תומכת בחלונות מרחפים</string>
     <string name="accessibility_menu_item_split_disable">היישום אינו תומך במסך מפוצל.</string>
     <string name="accessibility_menu_item_split_enable">היישום תומך במסך מפוצל</string>
     <string name="accessibility_recent_task_enter">פריטים שנפתחו לאחרונה</string>
@@ -33,6 +40,7 @@
     <string name="all_apps_no_search_results">לא ניתן היה להשיג תוצאות</string>
     <string name="all_apps_search_app">חפש אחר יישומים</string>
     <string name="all_apps_search_market_message">חפש באינטרנט</string>
+    <string name="all_apps_setting_classic_title">קלאסי</string>
     <string name="all_apps_setting_desktop_desc">הצג את כל היישומים המותקנים על מסך הבית. לחץ והחזק את יישום האייקון על מנת לצפות בקיצורי דרך זמינים, נהל או הסר את ההתקנה של יישומים.</string>
     <string name="all_apps_setting_desktop_title">רגיל</string>
     <string name="all_apps_setting_drawer_desc">מקם את כל היישומים המותקנים במגירת היישומים אשר ניתן לפתוח אותה בהחלקה על מסך הבית. עדיין תוכל למצוא את היישומים שהעברת למסך הבית במגירת היישומים.</string>
@@ -114,6 +122,7 @@
     <string name="auto_add_app_shortcut">מקם יישומים חדשים על מסך הבית</string>
     <string name="auto_delete_category_dialog_content">האפליקציות הקיימות יוסרו מהקטגוריה הזו, והקטגוריה תימחק. למחוק את הקטגוריה עכשיו?</string>
     <string name="auto_delete_category_dialog_title">מתבצעת מחיקת הקטגוריה</string>
+    <string name="back">Back</string>
     <string name="backup_fail">"לא ניתן לגבות את הלאונצ'ר"</string>
     <string name="bad_wallpaper_source_prompt">לא ניתן לטעון את הטפט</string>
     <string name="buffering">טוען…</string>
@@ -138,6 +147,10 @@
     <string name="choose_wallpaper">בחר טפט</string>
     <string name="chooser_wallpaper">בחר טפט חדש</string>
     <string name="cloud_app_restore_title">ממתין</string>
+    <string name="common_home_search_delete">מוחק את סרגל החיפוש של מסך הבית</string>
+    <string name="common_home_search_delete_cancle">ביטול</string>
+    <string name="common_home_search_delete_confirm">מחיקה</string>
+    <string name="common_home_search_delete_content">לא תוכל לחפש פריטים בעזרת סרגל החיפוש של מסך הבית לאחר שתמחק אותו. למחוק בכל זאת?</string>
     <string name="configure_wallpaper">הגדרות</string>
     <string name="confirm_btn_label">אישור</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">היישום המשוכפל יוסר יחד עם יישומים אלה.</string>
@@ -458,8 +471,10 @@
     <string name="sort_by_not_defined">מיון אוטומטי</string>
     <string name="start_activity_failed">לא ניתן להפעיל את משגר היישומים</string>
     <string name="starting_preset_app">מתחילu2026</string>
-    <string name="status_bar_recent_memory_info1">%1$sB מתוך %2$sB פנויים</string>
+    <string name="status_bar_recent_memory_giga">%1$s ג\"ב</string>
+    <string name="status_bar_recent_memory_info1">%1$s מתוך %2$s זמין</string>
     <string name="status_bar_recent_memory_info2" />
+    <string name="status_bar_recent_memory_mega">%1$s מ\"ב</string>
     <string name="status_downloaded">ירד</string>
     <string name="status_downloading">מוריד</string>
     <string name="status_installing">מתקין</string>

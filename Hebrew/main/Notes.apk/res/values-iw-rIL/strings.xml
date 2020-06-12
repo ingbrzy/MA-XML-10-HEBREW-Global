@@ -111,8 +111,11 @@
     <string name="first_enter_custom_folder_hint">כאן ניתן לשנות או למחוק תיקיות</string>
     <string name="float_todo_guide_cancel">בטל</string>
     <string name="float_todo_guide_message">קיצורי דרך במסך הבית מאפשרים לצפות במשימות וליצור משימות על-ידי העברת אצבע מקצה המסך. ליצור את קיצור הדרך עכשיו?</string>
+    <string name="float_todo_guide_message_v2">מחוות קיצור מאפשרת לצפות במשימות וליצור משימות על-ידי העברת אצבע משולי המסך פנימה. ניתן להפעיל ולהשבית את המאפיין הזה בהגדרות.</string>
     <string name="float_todo_guide_ok">צור</string>
+    <string name="float_todo_guide_ok_v2">הפעל</string>
     <string name="float_todo_guide_title">קיצור דרך למסך הבית</string>
+    <string name="float_todo_guide_title_v2">מחוות קיצור</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -264,6 +267,7 @@
     <string name="note_sort_way">בחר כיצד למיין את ההערות שלך</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
+    <string name="notelist_string_info">…</string>
     <string name="notification_content_add_todo_from_other_app">הוספת משימה חדשה. הקש כדי לצפות בה.</string>
     <string name="notify_alarm_title">תזכורת לפתק</string>
     <string name="permdesc_accessNote">יישומים זדוניים עשויים לעשות בכך שימוש על מנת לגשת לנתוניך האישיים.</string>
@@ -283,7 +287,9 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">החלק באמצעות שני אצבעות על מנת למחוק פתקים ללא אישור</string>
     <string name="pref_desc_todo_float_mode">החלק מהקצה העליון של המסך על מנת לפתוח את ארגז הכלים</string>
     <string name="pref_remind_type_summary">השמע צליל תזכורת במצב שקט</string>
+    <string name="pref_remind_type_summary_new">התעלם ממצב שקט והמשך להשמיע קול עד לכיבוי השעון המעורר</string>
     <string name="pref_remind_type_title">התעלם ממצב שקט</string>
+    <string name="pref_remind_type_title_new">תזכורות בעדיפות גבוהה</string>
     <string name="pref_title_cloud_trash_bin">פתקים שנמחקו מהענן</string>
     <string name="pref_title_common">הגדרות נוספות</string>
     <string name="pref_title_font_size">גודל גופן</string>
@@ -439,6 +445,7 @@
     <string name="toast_reach_text_limit_truncate">פתק זה ארוך מדי. חלק מהטקסט בסופו נחתך.</string>
     <string name="toast_refuse_to_record_when_in_call">לא נין להשתמש בתכונה זו במהלך שיחות</string>
     <string name="toast_refuse_to_record_when_in_multi_window">לא ניתן להשתמש בתכונה זו במסך מפוצל</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">לא ניתן להשתמש במאפיין זה עם מסך מפוצל או עם חלונות צפים</string>
     <string name="toast_refuse_to_use_contact">"הרשאות עבור אנשי קשר מוגבלות.
  אפשר לפתקים לקרוא את חשבונות אנשי הקשר שלך על מכשירך."</string>
     <string name="toast_refuse_to_use_external_storage">"הרשאות עבור אחסון מוגבלות.
@@ -522,6 +529,7 @@
     <string name="toolbar_voice_description">קול</string>
     <string name="trash_folder_name">אשפה</string>
     <string name="trash_folder_reminder">פתקים שתמחק ימחקו לצמיתות בתוך 30 יום.</string>
+    <string name="trash_folder_reminder_new">Notes are kept in the trash for 30 days before being permanently deleted</string>
     <string name="tuesday">שלישי</string>
     <string name="tuesday_short">"ג'"</string>
     <string name="tuesday_shortest">"ג'"</string>

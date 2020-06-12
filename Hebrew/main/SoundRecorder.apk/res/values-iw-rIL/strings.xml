@@ -6,6 +6,8 @@
     <string name="alert_message_delete_record">מחיקת ההקלטה ממכשירך תביא למחיקתה גם מ- Xiaomi Cloud. האם למחוק כעת?</string>
     <string name="alert_message_delete_record_title">למחוק הקלטה?</string>
     <string name="app_name">רשמקול</string>
+    <string name="app_record">App recordings</string>
+    <string name="app_record_preference_title">App recordings</string>
     <string name="back">חזרה</string>
     <string name="button_queue_for_wifi">המתן</string>
     <string name="button_start_now">הורדה</string>
@@ -206,6 +208,7 @@
     <string name="record_downloading_notification_count">%d מוריד</string>
     <string name="record_format_preference_title">פורמט הקלטה</string>
     <string name="record_list">הקלטות</string>
+    <string name="record_list_app">App recordings</string>
     <string name="record_list_call">שיחות מוקלטות</string>
     <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">הקלטות שסונכרנו</string>

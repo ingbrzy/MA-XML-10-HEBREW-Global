@@ -48,4 +48,10 @@
         <item quantity="two">%d חודשים</item>
         <item quantity="many">%d חודשים</item>
     </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d שנים</item>
+        <item quantity="one">שנה %d</item>
+        <item quantity="two">%d שנים</item>
+        <item quantity="many">%d שנים</item>
+    </plurals>
 </resources>

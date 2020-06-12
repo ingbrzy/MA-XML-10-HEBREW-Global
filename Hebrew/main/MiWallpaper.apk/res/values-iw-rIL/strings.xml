@@ -2,13 +2,19 @@
 <resources>
     <string name="actionbar_button_up_description">הקודם</string>
     <string name="afternoon">אחר הצהריים</string>
+    <string name="already_newest_version">Current version is up to date</string>
     <string name="am">AM</string>
+    <string name="cancel_download">Download canceled</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">לוח שנה סיני מסורתי</string>
+    <string name="download_failed">"Couldn't download"</string>
     <string name="early_morning">מוקדם בבוקר</string>
+    <string name="earth_summary">כדור הארץ הוא ערש התרבות האנושית</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">בית</string>
     <string name="empty" />
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
@@ -52,6 +58,24 @@
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="install_failed">"Couldn't install"</string>
+    <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_title_0">"אזור Nilosyrtis
+Mensae"</string>
+    <string name="mars_position_title_1">Gale Crater</string>
+    <string name="mars_position_title_2">"Crater in
+Mawrth Vallis"</string>
+    <string name="mars_summary">המדבריות העצומים של מאדים עוררו תמיד באנושות תחושה של יראת כבוד</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">הכוכב האדום</string>
     <string name="midnight">לילה</string>
     <string name="miuix_appcompat_cloud_state_disabled">הסנכרון עם הענן כבוי</string>
     <string name="miuix_appcompat_cloud_state_finished">סונכרן עם הענן בהצלחה</string>
@@ -98,14 +122,26 @@
     <string name="more">עוד</string>
     <string name="morning">בוקר</string>
     <string name="night">ערב</string>
+    <string name="no_cta_agreed">"GetApps doesn't have CTA permissions"</string>
+    <string name="no_install_permission">"You don't have permissions to install this item"</string>
     <string name="noon">צהריים</string>
     <string name="pm">PM</string>
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
+    <string name="saturn_summary">הטבעות של שבתאי הן המראה המרהיב ביותר במערכת השמש</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">טבעות רחוקות</string>
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
+    <string name="super_wallpaper_list_label">סופר טפטים</string>
+    <string name="super_wallpaper_setting_apply_success_toast">הוחל בהצלחה</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">החל</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">בחר מיקום</string>
+    <string name="super_wallpaper_setting_coordinate_title">קואורדינטות</string>
+    <string name="super_wallpaper_setting_view_height_title">גובה</string>
+    <string name="task_already_exist">This task already exists</string>
     <string name="the_anniversary_of_lifting_martial_law">יום השנה לביטול החוק הצבאי</string>
     <string name="the_anti_aggression_day">יום המאבק באלימות</string>
     <string name="the_arbor_day">יום העץ</string>
@@ -157,6 +193,17 @@
     <string name="tuesday">שלישי</string>
     <string name="tuesday_short">"ג'"</string>
     <string name="tuesday_shortest">"ג'"</string>
+    <string name="update">Update</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+    <string name="wallpaper_setting_find_more_text">עוד טפטים מקוונים</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">מסך הבית</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">מסך הנעילה</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">טפטים מקוונים</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">גלה טפטים</string>
+    <string name="wallpaper_setting_online_wallpaper_title">טפטים מקוונים</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">סופר טפטים</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">עוד</string>
+    <string name="wallpaper_setting_title">טפט</string>
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>
