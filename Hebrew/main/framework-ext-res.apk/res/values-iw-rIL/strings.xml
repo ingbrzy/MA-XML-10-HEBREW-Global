@@ -47,6 +47,7 @@
     <string name="content_description_web_url">סייר</string>
     <string name="copy">העתק</string>
     <string name="cut">גזור</string>
+    <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="default_device_name">מכשיר לא ידוע</string>
     <string name="default_name">ברירת מחדל</string>
     <string name="description_title">מצב שקט</string>
@@ -82,6 +83,10 @@
     <string name="global_actions_reboot">אתחול</string>
     <string name="global_actions_shutdown">כיבוי</string>
     <string name="global_actions_silent_mode">מצב שקט</string>
+    <string name="handset_text_unsupported_handset_insert">לחץ להצגת פרטים</string>
+    <string name="handset_text_usb_handset_insert">לחץ כדי לפתוח אפשרויות נוספות</string>
+    <string name="handset_title_unsupported_handset_insert">מתאמי אוזניות USB אינם נתמכים</string>
+    <string name="handset_title_usb_handset_insert">מנגן צליל באמצעות USB</string>
     <string name="handy_mode_enter_dlg_msg">"להיכנס ל'מצב יד אחת'?"</string>
     <string name="handy_mode_enter_dlg_title">"היכנס אל 'מצב יד אחת'"</string>
     <string name="handy_mode_summary">לסגירה, גע באזור החשוך</string>
@@ -127,6 +132,8 @@
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>
     <string name="mi_drop">שיתוף Mi</string>
+    <string name="miaudiovisual_notification_summary">הפעל כדי להראות את האפקטים על מסך הנעילה</string>
+    <string name="miaudiovisual_notification_title">אפקטים שמיעתיים וחזותיים</string>
     <string name="miui_forbid_poweroff_when_device_locked">לא ניתן לכבות, המכשיר נעול.</string>
     <string name="miui_screen_ratio_hint">בעיות יחסי המסך</string>
     <string name="miui_screen_ratio_hint_dont_show_again">אל תציג שוב</string>
@@ -225,6 +232,7 @@
     <string name="sim_added_reboot_title">כרטיס ה-SIM יופעל לאחר אתחול המכשיר.</string>
     <string name="sim_lock_non_ais_msg">כרטיס ה-SIM שלך פועל באופן חלקי בלבד עם מכשיר זה משום שהוא אינו עונה לתנאים ולהתניות של המנוי או המפעיל הסלולרי שלך. אם יש לך שאלות או הנך זקוק למידע נוסף בנוגע לעניין זה, אנא צור קשר עם מרכזי השירות של שיאומי או החנות בה רכשת מוצר זה.</string>
     <string name="sim_lock_now_ais_title">SIM%1$d</string>
+    <string name="slatoast">שימוש בגלישה סלולרית להאצת המהירות עלול לגרום חיובי ספק נוספים</string>
     <string name="slavewifi">Dual band Wi-Fi</string>
     <string name="slavewifi_disconnect">התנתק</string>
     <string name="slavewifi_notification_title">משתמש ב Wi-Fi דו ערוצי</string>

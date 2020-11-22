@@ -89,6 +89,7 @@
     <string name="confirm_unbind">לנתק חשבון זה?</string>
     <string name="confirm_unbundled_phone_dialog_message">מספר הטלפון %1$s מקושר לחשבון Mi %2$s. הוא לא יהיה מקושר יותר לחשבון Mi %3$s במידה ותמשיך. להמשיך?</string>
     <string name="continue_action">המשך</string>
+    <string name="copy_to_clipboard_successful">הועתק בהצלחה</string>
     <string name="delete_action">מחק</string>
     <string name="delete_bank_card_message">כרטיסי הבנק וכרטיסי ה-NFC של Mi Pay ימחקו לאחר שתצא.</string>
     <string name="delete_bank_card_title">שים לב</string>
@@ -287,6 +288,10 @@ ID:%s
     <string name="passport_get_verify_code">קבל קוד</string>
     <string name="passport_getting_activator_phone">מקבל פרטי SIM…</string>
     <string name="passport_getting_verify_code">מקבל</string>
+    <string name="passport_google_login">להתחברבאמצעות חשבון Google שבו השתמשת קודם?</string>
+    <string name="passport_google_login_agree">חשבון Google</string>
+    <string name="passport_google_login_disagree">חשבון Mi</string>
+    <string name="passport_google_login_failed">לא ניתן להתחבר באמצעות Google. התחבר ישירות לחשבון חשבון Mi שלך.</string>
     <string name="passport_i_know">הבנתי</string>
     <string name="passport_identification_expired">פג תוקף קוד האימות, התחל מחדש</string>
     <string name="passport_imei_permission_denied_message">אנו מבקשים הרשאה לקבלת ה-IMEI של המכשיר שלך. חשבון Mi משתמש ב-IMEI לצורך זיהוי המכשיר דרכו הינך ניכנס או נרשם, על מנת לעזור בשמירה על אבטחת המכשיר שלך.</string>

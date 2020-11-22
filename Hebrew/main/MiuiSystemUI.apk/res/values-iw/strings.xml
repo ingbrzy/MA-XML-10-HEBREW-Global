@@ -95,7 +95,7 @@
     <string name="accessibility_desc_recent_apps">סקירה.</string>
     <string name="accessibility_desc_settings">הגדרות</string>
     <string name="accessibility_desc_work_lock">מסך נעילה בעבודה</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">תכונה זו היא ניסיונית ועשויה להשפיע על הביצועים.</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">תיקון צבע מאפשר לשנות את האופן שבו צבעים מוצגים במכשיר שלך</string>
     <string name="accessibility_display_daltonizer_preference_title">תיקון צבע</string>
     <string name="accessibility_divider">מחלק מסך מפוצל</string>
     <string name="accessibility_ethernet_connected">אתרנט מחובר.</string>
@@ -245,12 +245,42 @@
     <string name="accessibility_wimax_two_bars">‏שני פסים של WiMAX.</string>
     <string name="accessibility_work_mode">מצב עבודה</string>
     <string name="accessibility_zero_bars">אפס פסים.</string>
+    <string name="accessor_expires_text">‏תוקף החכירה (lease) יפוג ב-%s</string>
+    <string name="accessor_info_title">אפליקציות שמשתפות נתונים</string>
+    <string name="accessor_no_description_text">האפליקציה לא סיפקה תיאור.</string>
     <string name="active_input_method_subtypes">שיטות קלט פעילות</string>
     <string name="activity_launch_on_secondary_display_failed_text">האפליקציה אינה תומכת בהפעלה במסכים משניים.</string>
     <string name="activity_not_found">האפליקציה אינה מותקנת במכשיר</string>
+    <string name="adb_device_fingerprint_title_format">המזהה הייחודי של המכשיר: %1$s</string>
+    <string name="adb_device_forget">אפשר לשכוח</string>
     <string name="adb_keys_warning_message">‏האם לבטל את הגישה לניפוי ב-USB מכל המחשבים שהענקת להם בעבר הרשאה?</string>
+    <string name="adb_pair_method_code_summary">התאמת מכשירים חדשים באמצעות קוד בן שש ספרות</string>
+    <string name="adb_pair_method_code_title">התאמת מכשיר באמצעות קוד התאמה</string>
+    <string name="adb_pair_method_qrcode_summary">‏התאמת מכשירים חדשים באמצעות סורק של קודי QR</string>
+    <string name="adb_pair_method_qrcode_title">‏התאמת מכשיר באמצעות קוד QR</string>
+    <string name="adb_paired_devices_title">מכשירים מותאמים</string>
+    <string name="adb_pairing_device_dialog_failed_msg">יש לוודא שהמכשיר מחובר לאותה רשת.</string>
+    <string name="adb_pairing_device_dialog_failed_title">ההתאמה נכשלה</string>
+    <string name="adb_pairing_device_dialog_pairing_code_label">‏קוד התאמה של Wi-Fi</string>
+    <string name="adb_pairing_device_dialog_title">התאמה למכשיר</string>
+    <string name="adb_qrcode_pairing_device_failed_msg">‏התאמת המכשיר נכשלה. קוד ה-QR היה שגוי או שהמכשיר לא מחובר לאותה רשת.</string>
     <string name="adb_warning_message">‏ניפוי באגים באמצעות USB מיועד למטרות פיתוח בלבד. השתמש בו להעתקת נתונים בין המחשב והמכשיר שלך, להתקנת אפליקציות במכשיר ללא התראה ולקריאת נתוני יומן.</string>
     <string name="adb_warning_title">‏לאפשר ניפוי באגים של USB?</string>
+    <string name="adb_wireless_connection_failed_message">עליך לוודא שהמכשיר %1$s מחובר לרשת הנכונה</string>
+    <string name="adb_wireless_connection_failed_title">החיבור נכשל</string>
+    <string name="adb_wireless_device_connected_summary">מחובר עכשיו</string>
+    <string name="adb_wireless_device_details_title">פרטי מכשיר</string>
+    <string name="adb_wireless_error">שגיאה</string>
+    <string name="adb_wireless_ip_addr_preference_title">‏יציאה וכתובת IP</string>
+    <string name="adb_wireless_list_empty_off">כדי להציג את המכשירים הזמינים ולהשתמש בהם, יש להפעיל ניפוי באגים אלחוטי</string>
+    <string name="adb_wireless_no_network_msg">‏יש להתחבר לרשת Wi-Fi</string>
+    <string name="adb_wireless_qrcode_pairing_description">‏יש לסרוק קוד QR כדי להתאים מכשיר באמצעות Wi‑Fi</string>
+    <string name="adb_wireless_qrcode_pairing_title">‏סריקת קוד QR</string>
+    <string name="adb_wireless_qrcode_summary">‏יש לסרוק קוד QR כדי להתאים מכשיר באמצעות Wi‑Fi</string>
+    <string name="adb_wireless_settings">ניפוי באגים אלחוטי</string>
+    <string name="adb_wireless_verifying_qrcode_text">המכשיר בתהליך התאמה…</string>
+    <string name="adbwifi_warning_message">ניפוי באגים אלחוטי מיועד למטרות פיתוח בלבד. יש להשתמש בו להעתקת נתונים בין המחשב והמכשיר שלך, להתקנת אפליקציות במכשיר ללא התראה ולקריאת נתוני יומן.</string>
+    <string name="adbwifi_warning_title">האם לאפשר ניפוי באגים אלחוטי?</string>
     <string name="add_tile">הוסף אריח</string>
     <string name="adjust_button_width">שינוי של רוחב לחצן</string>
     <string name="airplane_mode">מצב טיסה</string>
@@ -266,14 +296,17 @@
     <string name="app_label">ממשק משתמש של המערכת</string>
     <string name="app_name">מגן מקלדת</string>
     <string name="app_process_limit_title">מגבלה של תהליכים ברקע</string>
+    <string name="auto_connect_disable">החיבור האוטומטי כבוי</string>
+    <string name="available_via_app">זמינה דרך %1$s</string>
     <string name="available_via_carrier">‏זמינה דרך %1$s</string>
     <string name="available_via_passpoint">‏זמינה דרך %1$s</string>
     <string name="battery">סוללה</string>
     <string name="battery_detail_charging_summary">תכונת החיסכון בסוללה אינה זמינה בעת טעינת המכשיר</string>
     <string name="battery_detail_switch_summary">מפחית את רמת הביצועים ואת נתוני הרקע</string>
     <string name="battery_detail_switch_title">חיסכון בסוללה</string>
-    <string name="battery_info_status_charging">טוען</string>
-    <string name="battery_info_status_charging_lower">בטעינה</string>
+    <string name="battery_info_status_charging">בטעינה</string>
+    <string name="battery_info_status_charging_fast">הסוללה נטענת מהר</string>
+    <string name="battery_info_status_charging_slow">הסוללה נטענת לאט</string>
     <string name="battery_info_status_discharging">לא בטעינה</string>
     <string name="battery_info_status_full">מלאה</string>
     <string name="battery_info_status_not_charging">המכשיר מחובר, אבל לא ניתן לטעון עכשיו</string>
@@ -289,6 +322,8 @@
     <string name="battery_saver_notification_text">מפחית את הביצועים ונתונים ברקע</string>
     <string name="battery_saver_notification_title">"תכונת 'חיסכון בסוללה' פועלת"</string>
     <string name="battery_saver_start_action">הפעל חיסכון בסוללה</string>
+    <string name="blob_expires_text">התוקף יפוג ב-%s</string>
+    <string name="blob_id_text">מזהה נתונים משותפים: %d</string>
     <string name="block">חסום את כל ההודעות</string>
     <string name="bluetooth_a2dp_profile_summary_connected">מחובר לאודיו של מדיה</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">שימוש לאודיו של מדיה</string>
@@ -311,6 +346,8 @@
     <string name="bluetooth_disable_absolute_volume_summary">‏משבית את תכונת עוצמת הקול המוחלטת ב-Bluetooth במקרה של בעיות בעוצמת הקול במכשירים מרוחקים, כגון עוצמת קול רמה מדי או חוסר שליטה ברמת העוצמה.</string>
     <string name="bluetooth_disconnected">מנותק</string>
     <string name="bluetooth_disconnecting">מתנתק...</string>
+    <string name="bluetooth_enable_gabeldorsche">‏הפעלת Gabeldorsche</string>
+    <string name="bluetooth_enable_gabeldorsche_summary">"‏הפעלת מקבץ הפיצ'רים של Bluetooth Gabeldorsche."</string>
     <string name="bluetooth_headset_profile_summary_connected">מחובר לאודיו של הטלפון</string>
     <string name="bluetooth_headset_profile_summary_use_for">השתמש עבור האודיו של הטלפון</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">מחובר אל מכשירי שמיעה</string>
@@ -369,8 +406,11 @@
     <string name="bluetooth_select_a2dp_codec_type">‏Codec אודיו ל-Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">"‏הפעלת ‏Codec אודיו ל-Bluetooth
 בחירה"</string>
+    <string name="bluetooth_select_a2dp_codec_type_help_info">כשזה מופיע באפור, אין לזה תמיכה בטלפון או באוזניות</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">‏בחר Bluetooth גרסה AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">‏Bluetooth גרסה AVRCP</string>
+    <string name="bluetooth_select_map_version_dialog_title">‏יש לבחור גרסה של Bluetooth MAP</string>
+    <string name="bluetooth_select_map_version_string">‏גרסת Bluetooth MAP</string>
     <string name="bluetooth_show_devices_without_names">‏הצגת מכשירי Bluetooth ללא שמות</string>
     <string name="bluetooth_show_devices_without_names_summary">‏יוצגו מכשירי Bluetooth ללא שמות (כתובות MAC בלבד)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
@@ -390,6 +430,10 @@
     <string name="bugreport_in_power">קיצור של דוח באגים</string>
     <string name="bugreport_in_power_summary">כדי ליצור דוח באגים, הצג לחצן בתפריט לניהול צריכת החשמל</string>
     <string name="button_convert_fbe">מחיקה והמרה…</string>
+    <string name="cached_apps_freezer_device_default">ברירת המחדל של המכשיר</string>
+    <string name="cached_apps_freezer_disabled">מושבת</string>
+    <string name="cached_apps_freezer_enabled">מופעל</string>
+    <string name="cached_apps_freezer_reboot_dialog_text">צריך להפעיל מחדש את המכשיר כדי להחיל את השינוי. יש להפעיל מחדש עכשיו או לבטל.</string>
     <string name="camera_hint">החלק מהסמל כדי להפעיל את המצלמה</string>
     <string name="camera_label">פתח את המצלמה</string>
     <string name="cancel">ביטול</string>
@@ -455,6 +499,8 @@
     <string name="debug_monitoring_category">מעקב</string>
     <string name="debug_networking_category">תקשורת רשתות</string>
     <string name="debug_view_attributes">אפשר בדיקת תכונת תצוגה</string>
+    <string name="delete_blob_confirmation_text">הנתונים המשותפים יימחקו. להמשיך?</string>
+    <string name="delete_blob_text">מחיקת הנתונים המשותפים</string>
     <string name="demo_mode">מצב הדגמה בממשק המשתמש של המערכת</string>
     <string name="description_direction_left">הסט שמאלה כדי להציג %s.</string>
     <string name="description_direction_up">הסט למעלה כדי להציג %s.</string>
@@ -489,6 +535,8 @@
     <string name="empty_shade_text">אין הודעות</string>
     <string name="enable_adb">‏ניפוי באגים ב-USB</string>
     <string name="enable_adb_summary">‏מצב ניפוי באגים כאשר USB מחובר</string>
+    <string name="enable_adb_wireless">ניפוי באגים אלחוטי</string>
+    <string name="enable_adb_wireless_summary">‏מצב ניפוי באגים כשיש חיבור Wi-Fi</string>
     <string name="enable_bluetooth_confirmation_ok">הפעל</string>
     <string name="enable_bluetooth_message">‏כדי לחבר את המקלדת לטאבלט, תחילה עליך להפעיל את ה-Bluetooth.</string>
     <string name="enable_bluetooth_title">‏האם להפעיל את ה-Bluetooth?</string>
@@ -500,7 +548,11 @@
     <string name="enable_opengl_traces_title">‏הפעל מעקבי OpenGL</string>
     <string name="enable_terminal_summary">הפעל אפליקציית מסוף המציעה גישה מקומית למעטפת</string>
     <string name="enable_terminal_title">מסוף מקומי</string>
+    <string name="enable_verbose_vendor_logging">הפעלת רישום ספקים מפורט ביומן</string>
+    <string name="enable_verbose_vendor_logging_summary">הוספת רישומי יומן של יצרנים למכשירים ספציפיים בדוחות על באגים. דוחות אלה עשויים להכיל מידע פרטי, להגביר את צריכת הסוללה ולצרוך שטח אחסון גדול יותר.</string>
     <string name="enabled_by_admin">מופעל על ידי מנהל המכשיר</string>
+    <string name="enhanced_connectivity">קישוריות משופרת</string>
+    <string name="enhanced_connectivity_summary">הפעלה של תכונת הקישוריות המשופרת.</string>
     <string name="ethernet_label">Ethernet</string>
     <string name="expand_button_title">מתקדם</string>
     <string name="expanded_header_battery_charged">טעון</string>
@@ -542,6 +594,7 @@
     <string name="hdcp_checking_title">‏בדיקת HDCP</string>
     <string name="headset">אוזניות</string>
     <string name="help_feedback_label">עזרה ומשוב</string>
+    <string name="help_label">עזרה ומשוב</string>
     <string name="hidden_notifications_cancel">לא, תודה</string>
     <string name="hidden_notifications_setup">הגדר</string>
     <string name="hidden_notifications_text">צפה בהן לפני שתבטל נעילה</string>
@@ -558,6 +611,7 @@
     <string name="ims_reg_status_not_registered">לא רשום</string>
     <string name="ims_reg_status_registered">רשום</string>
     <string name="ims_reg_title">‏סטטוס הרשמה ל-IMS</string>
+    <string name="imsi_protection_warning">הרשת הזו מקבלת מזהה ייחודי שיכול לשמש למעקב אחר מיקום המכשיר. <annotation id="url">מידע נוסף</annotation></string>
     <string name="inactive_app_active_summary">אפליקציה פעילה. הקש כדי להחליף מצב.</string>
     <string name="inactive_app_inactive_summary">אפליקציה לא פעילה. הקש כדי להחליף מצב.</string>
     <string name="inactive_apps_title">אפליקציות בהמתנה</string>
@@ -641,6 +695,7 @@
     <string name="keyguard_missing_sim_instructions_long">‏כרטיס ה-SIM חסר או שלא ניתן לקרוא אותו. הכנס כרטיס SIM.</string>
     <string name="keyguard_missing_sim_message">‏אין כרטיס SIM בטלפון.</string>
     <string name="keyguard_missing_sim_message_short">‏אין כרטיס SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">הרשת נעולה</string>
     <string name="keyguard_password_enter_password_code">הזן סיסמה לביטול הנעילה</string>
     <string name="keyguard_password_enter_pin_code">הזן את קוד הגישה</string>
@@ -660,6 +715,7 @@
     <string name="keyguard_sim_puk_locked_message">‏כרטיס ה-SIM נעול באמצעות PUK.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">‏מבטל את הנעילה של כרטיס ה-SIM…</string>
     <string name="keyguard_unlock">החלק מעלה כדי לבטל את הנעילה</string>
+    <string name="keywords_adb_wireless">‏adb, ניפוי באגים, פיתוח</string>
     <string name="kg_enter_confirm_pin_hint">אשר את קוד הגישה הרצוי</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">ניסית לבטל את נעילת הטלפון %1$d פעמים. לאחר %2$d ניסיונות כושלים נוספים, פרופיל העבודה יוסר וכל נתוני הפרופיל יימחקו.</string>
     <string name="kg_failed_attempts_almost_at_erase_user">ניסית לבטל את נעילת הטלפון %1$d פעמים. לאחר %2$d ניסיונות כושלים נוספים, משתמש זה יוסר וכל נתוני המשתמש יימחקו.</string>
@@ -721,7 +777,7 @@
     <string name="left_keycode">קוד מפתח שמאלי</string>
     <string name="left_nav_bar_button_type">סוג נוסף של לחצן שמאלי</string>
     <string name="legacy_vpn_name">VPN</string>
-    <string name="loading_injected_setting_summary">טוען…</string>
+    <string name="loading_injected_setting_summary">בטעינה…</string>
     <string name="local_backup_password_summary_change">הקש כדי לשנות או להסיר את הסיסמה לגיבויים מלאים בשולחן העבודה</string>
     <string name="local_backup_password_summary_none">גיבויים מלאים בשולחן העבודה אינם מוגנים כעת</string>
     <string name="local_backup_password_title">סיסמת גיבוי שולחן העבודה</string>
@@ -739,7 +795,9 @@
     <string name="media_projection_action_text">התחל כעת</string>
     <string name="media_projection_dialog_text">%s יתחיל להקליט את כל התוכן המוצג במסך שלך.</string>
     <string name="media_projection_remember_text">אל תציג שוב</string>
-    <string name="media_transfer_this_device_name">המכשיר הזה</string>
+    <string name="media_transfer_this_device_name">רמקול של טלפון</string>
+    <string name="media_transfer_wired_device_name">התקן אודיו חוטי</string>
+    <string name="media_transfer_wired_usb_device_name">אוזניות עם חוט</string>
     <string name="menu_ime">מחליף מקלדת</string>
     <string name="mobile_data">נתונים סלולריים</string>
     <string name="mobile_data_always_on">חבילת הגלישה פעילה תמיד</string>
@@ -757,12 +815,14 @@
 
 למידע נוסף, פנה למנהל המערכת."</string>
     <string name="monitoring_description_ca_cert_settings">פתח את פרטי הכניסה המהימנים</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">במכשיר זה מותקנת רשות אישורים. ניתן לעקוב אחר התנועה ברשת המאובטחת או לשנות אותה.</string>
     <string name="monitoring_description_do_body">מנהל המערכת יכול לנטר ולנהל הגדרות, גישה ארגונית, אפליקציות, נתונים המשויכים למכשיר ומידע על מיקום המכשיר.</string>
     <string name="monitoring_description_do_body_vpn">אתה מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
     <string name="monitoring_description_do_header_generic">המכשיר שלך מנוהל על ידי %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s משתמש באפליקציה %2$s כדי לנהל את מכשירך.</string>
     <string name="monitoring_description_do_learn_more">למידע נוסף</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">הארגון שלך התקין רשות אישורים בפרופיל העבודה. ניתן לעקוב אחר התנועה ברשת המאובטחת או לשנות אותה.</string>
     <string name="monitoring_description_managed_profile_named_vpn">פרופיל העבודה שלך מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
     <string name="monitoring_description_management">"המכשיר מנוהל על ידי הארגון שלך.
@@ -794,6 +854,7 @@
 
 בנוסף, אתה מחובר ל-VPN, שגם באמצעותו ניתן לעקוב אחרי הפעילות שלך ברשת."</string>
     <string name="monitoring_description_vpn_settings">‏פתח את הגדרות ה-VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">‏אישורי CA</string>
     <string name="monitoring_subtitle_network_logging">רישום התנועה ברשת</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -915,24 +976,28 @@
 
 "<b>רמה 0</b>" 
 - חסום את כל ההודעות מהאפליקציה"</string>
-    <string name="power_remaining_charging_duration_only">%1$s עד לטעינה מלאה</string>
+    <string name="power_remaining_charging_duration_only">נשארו %1$s עד הטעינה</string>
     <string name="power_remaining_duration_only">הזמן הנותר: בערך %1$s</string>
     <string name="power_remaining_duration_only_enhanced">הזמן הנותר על סמך השימוש שלך: בערך %1$s</string>
-    <string name="power_remaining_duration_only_shutdown_imminent">ייתכן שהטלפון ייכבה בקרוב</string>
-    <string name="power_remaining_duration_shutdown_imminent">ייתכן שהטלפון ייכבה בקרוב (%1$s)</string>
-    <string name="power_remaining_less_than_duration">נותרו פחות מ-%1$s (%2$s)</string>
-    <string name="power_remaining_less_than_duration_only">נותרו פחות מ-%1$s</string>
-    <string name="power_remaining_more_than_subtext">נותרו יותר מ-%1$s (%2$s)</string>
-    <string name="power_remaining_only_more_than_subtext">הזמן שנותר: יותר מ-%1$s</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">הטלפון עלול להיכבות בקרוב</string>
+    <string name="power_remaining_duration_shutdown_imminent">הטלפון עלול להיכבות בקרוב (%1$s)</string>
+    <string name="power_remaining_less_than_duration">יש פחות מ-%1$s (%2$s)</string>
+    <string name="power_remaining_less_than_duration_only">יש פחות מ-%1$s</string>
+    <string name="power_remaining_more_than_subtext">יש יותר מ-%1$s (%2$s)</string>
+    <string name="power_remaining_only_more_than_subtext">יש יותר מ-%1$s</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
-    <string name="power_suggestion_extend_battery">הארכת חיי הסוללה מעבר ל-%1$s</string>
+    <string name="power_suggestion_battery_run_out">ייתכן שהסוללה תתרוקן עד %1$s</string>
     <string name="preference_copied">\"%1$s\" הועתק ללוח.</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="private_dns_broken">‏לא ניתן לגשת לשרת DNS הפרטי</string>
     <string name="private_dns_mode_off">מושבת</string>
     <string name="private_dns_mode_opportunistic">באופן אוטומטי</string>
     <string name="private_dns_mode_provider">‏שם מארח של ספק DNS פרטי</string>
     <string name="private_dns_mode_provider_failure">לא ניתן היה להתחבר</string>
     <string name="private_dns_mode_provider_hostname_hint">‏צריך להזין את שם המארח של ספק DNS</string>
+    <string name="process_kernel_label">Android OS</string>
+    <string name="profile_connect_timeout_subtext">יש בעיה בחיבור. עליך לכבות את המכשיר ולהפעיל אותו מחדש</string>
+    <string name="profile_info_settings_title">פרטי פרופיל</string>
     <string name="profile_owned_footer">ייתכן שהפרופיל נתון למעקב</string>
     <string name="qs_dnd_keep">שמור</string>
     <string name="qs_dnd_prompt_app">"מצב 'נא לא להפריע' הופעל על ידי אפליקציה (%s)."</string>
@@ -1086,6 +1151,12 @@
     <string name="select_webview_provider_dialog_title">‏הגדרת יישום WebView</string>
     <string name="select_webview_provider_title">‏יישום WebView</string>
     <string name="select_webview_provider_toast_text">אפשרות זו כבר אינה תקפה. נסה שוב.</string>
+    <string name="shared_data_delete_failure_text">אירעה שגיאה במחיקת הנתונים המשותפים.</string>
+    <string name="shared_data_no_accessors_dialog_text">‏לא נרכשו חכירות (lease) לנתונים המשותפים האלו. למחוק אותם?</string>
+    <string name="shared_data_no_blobs_text">אין נתונים משותפים למשתמש הזה.</string>
+    <string name="shared_data_query_failure_text">אירעה שגיאה באחזור הנתונים המשותפים. צריך לנסות שוב.</string>
+    <string name="shared_data_summary">הצגה ושינוי של נתונים משותפים</string>
+    <string name="shared_data_title">נתונים משותפים</string>
     <string name="show_all_anrs">‏הצגת מקרי ANR ברקע</string>
     <string name="show_all_anrs_summary">"הצגת תיבת דו-שיח של 'אפליקציה לא מגיבה' עבור אפליקציות שפועלות ברקע"</string>
     <string name="show_battery_percentage">הצג בשורת הסטטוס את אחוז עוצמת הסוללה</string>
@@ -1149,6 +1220,7 @@
     <string name="status_bar_use_physical_keyboard">מקלדת פיזית</string>
     <string name="status_bar_work">פרופיל עבודה</string>
     <string name="status_unavailable">לא זמין</string>
+    <string name="storage_category">אחסון</string>
     <string name="stream_accessibility">נגישות</string>
     <string name="stream_alarm">שעון מעורר</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
@@ -1161,9 +1233,11 @@
     <string name="strict_mode">מצב קפדני מופעל</string>
     <string name="strict_mode_summary">גרום למסך להבהב כאשר אפליקציות מבצעות פעולות ארוכות בשרשור הראשי</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="summary_separator">" / "</string>
     <string name="switch_bar_off">כבוי</string>
     <string name="switch_bar_on">פועל</string>
     <string name="system_ui_tuner">System UI Tuner</string>
+    <string name="tap_to_renew_subscription_and_connect">יש להקיש כדי לחדש את המינוי ולהתחבר</string>
     <string name="tap_to_sign_up">יש להקיש כדי להירשם</string>
     <string name="tether_settings_title_all">נקודה לשיתוף אינטרנט</string>
     <string name="tether_settings_title_bluetooth">‏שיתוף אינטרנט דרך Bluetooth</string>
@@ -1252,19 +1326,39 @@
     <string name="use_mtp_button_title">‏טען כנגן מדיה (MTP)</string>
     <string name="use_ptp_button_title">‏טען כמצלמה (PTP)</string>
     <string name="use_system_language_to_select_input_method_subtypes">שימוש בשפות מערכת</string>
+    <string name="user_add_profile_item_summary">ניתן להגביל את הגישה לאפליקציות ולתוכן מהחשבון שלך</string>
+    <string name="user_add_profile_item_title">פרופיל מוגבל</string>
     <string name="user_add_user">הוספת משתמש</string>
+    <string name="user_add_user_item_summary">למשתמשים יש אפליקציות ותוכן משלהם</string>
+    <string name="user_add_user_item_title">משתמש</string>
+    <string name="user_add_user_message_long">"‏ניתן לשתף מכשיר זה עם אנשים אחרים על ידי יצירת משתמשים נוספים. לכל משתמש מרחב משלו, שאותו אפשר להתאים אישית בעזרת אפליקציות, טפט ופריטים נוספים. המשתמשים יכולים גם להתאים הגדרות של המכשיר כגון Wi‑Fi, שמשפיעות על כולם.
+
+כשמוסיפים משתמש חדש, על משתמש זה להגדיר את המרחב שלו.
+
+כל אחד מהמשתמשים יכול לעדכן אפליקציות לכל שאר המשתמשים. ייתכן שהגדרות ושירותים של נגישות לא יועברו למשתמש החדש."</string>
     <string name="user_add_user_message_short">"בעת הוספת משתמש חדש, על משתמש זה להגדיר את השטח שלו.
 
 כל משתמש יכול לעדכן אפליקציות עבור כל המשתמשים האחרים."</string>
     <string name="user_add_user_title">האם להוסיף משתמש חדש?</string>
+    <string name="user_add_user_type_title">הוספה</string>
     <string name="user_guest">אורח</string>
+    <string name="user_info_settings_title">פרטי משתמש</string>
     <string name="user_logout_notification_action">נתק משתמש</string>
     <string name="user_logout_notification_text">צא מהמשתמש הנוכחי</string>
     <string name="user_logout_notification_title">ניתוק משתמש</string>
+    <string name="user_need_lock_message">לפני שתוכל ליצור פרופיל מוגבל, תצטרך להגדיר נעילת מסך כדי להגן על האפליקציות ועל הנתונים האישיים שלך.</string>
+    <string name="user_new_profile_name">פרופיל חדש</string>
     <string name="user_new_user_name">משתמש חדש</string>
     <string name="user_remove_user_message">כל האפליקציות והנתונים של המשתמש הזה יימחקו.</string>
     <string name="user_remove_user_remove">הסר</string>
     <string name="user_remove_user_title">האם להסיר את המשתמש?</string>
+    <string name="user_set_lock_button">הגדרת נעילה</string>
+    <string name="user_setup_button_setup_later">לא עכשיו</string>
+    <string name="user_setup_button_setup_now">הגדרה</string>
+    <string name="user_setup_dialog_message">כדאי לוודא שהמשתמש זמין ויכול לקחת את המכשיר ולהגדיר את המרחב שלו</string>
+    <string name="user_setup_dialog_title">האם להגדיר משתמש עכשיו?</string>
+    <string name="user_setup_profile_dialog_message">האם להגדיר פרופיל עכשיו?</string>
+    <string name="user_switch_to_user">מעבר אל %s</string>
     <string name="v7_preference_off">כבוי</string>
     <string name="v7_preference_on">מופעל</string>
     <string name="verify_apps_over_usb_summary">‏בדוק אפליקציות שהותקנו באמצעות ADB/ADT לאיתור התנהגות מזיקה.</string>
@@ -1290,7 +1384,7 @@
     <string name="wifi_cant_connect">לא ניתן להתחבר</string>
     <string name="wifi_cant_connect_to_ap">לא ניתן להתחבר אל %1$s</string>
     <string name="wifi_check_password_try_again">בדוק את הסיסמה ונסה שוב</string>
-    <string name="wifi_connected_no_internet">מחובר. אין אינטרנט</string>
+    <string name="wifi_connected_no_internet">אין אינטרנט</string>
     <string name="wifi_disabled_by_recommendation_provider">אין חיבור לרשת, כי איכות הרשת נמוכה</string>
     <string name="wifi_disabled_generic">מושבת</string>
     <string name="wifi_disabled_network_failure">‏כשל בתצורת IP</string>
@@ -1299,6 +1393,8 @@
     <string name="wifi_disconnected">מנותקת</string>
     <string name="wifi_display_certification">‏אישור של תצוגת WiFi</string>
     <string name="wifi_display_certification_summary">‏הצג אפשרויות עבור אישור של תצוגת WiFi</string>
+    <string name="wifi_enhanced_mac_randomization">‏רנדומיזציה משופרת של כתובות MAC ב-Wi‑Fi</string>
+    <string name="wifi_enhanced_mac_randomization_summary">‏כשמצב זה מופעל, כתובת ה-MAC של המכשיר הזה עשויה להשתנות בכל פעם שהוא מתחבר לרשת שפועלת בה רנדומיזציה של כתובות MAC.</string>
     <string name="wifi_fail_to_scan">לא ניתן לסרוק לאיתור רשתות</string>
     <string name="wifi_is_off">‏Wi-Fi כבוי</string>
     <string name="wifi_limited_connection">חיבור מוגבל</string>
@@ -1306,6 +1402,7 @@
     <string name="wifi_no_internet">אין גישה לאינטרנט</string>
     <string name="wifi_no_internet_no_reconnect">לא יתבצע חיבור באופן אוטומטי</string>
     <string name="wifi_not_in_range">מחוץ לטווח</string>
+    <string name="wifi_passpoint_expired">התוקף פג</string>
     <string name="wifi_remembered">נשמר</string>
     <string name="wifi_scan_throttling">‏ויסות סריקה לנקודות Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">מפחית את קצב התרוקנות הסוללה ומשפר את ביצועי הרשת</string>

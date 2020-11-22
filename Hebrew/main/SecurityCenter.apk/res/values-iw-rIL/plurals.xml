@@ -482,6 +482,12 @@
         <item quantity="two">%d נעל שני יישומים</item>
         <item quantity="many">%d נעל יישומים</item>
     </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d יישומים</item>
+        <item quantity="one">יישום %d</item>
+        <item quantity="two">%d יישומים</item>
+        <item quantity="many">%d יישומים</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>

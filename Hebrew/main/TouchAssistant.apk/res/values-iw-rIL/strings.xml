@@ -7,6 +7,11 @@
     <string name="category_setting">הגדרות</string>
     <string name="close_panel">"כבה את 'כדור מהיר'"</string>
     <string name="customize_entries">בחר קיצורי דרך</string>
+    <string name="edge_distance_pref_summary">הקש על איזורי ההפעלה ליד קצוות המסך כדי לגרום ל-Quick Ball להופיע</string>
+    <string name="edge_distance_pref_title">איזורי עוררות</string>
+    <string name="edge_mode_custom_summary">שנה את גודל האיזורים המעוררים בקצוות המסך</string>
+    <string name="edge_mode_custom_title">מותאם אישית</string>
+    <string name="edge_mode_default_title">ברירת מחדל</string>
     <string name="enable_touch_assistant">"הפעל את 'כדור מהיר'"</string>
     <string name="function_settings">הגדרות קיצורי דרך</string>
     <string name="handy_mode_default_to_close_whether_open">"מצב 'יד אחת' כבוי כברירת מחדל. להפעיל את מצב 'יד אחת'?"</string>
@@ -38,6 +43,7 @@
     <string name="name_trans_cards">כרטיס תחבורה</string>
     <string name="name_wechat_payment_code">תשלום WeChat</string>
     <string name="name_wechat_scan">סורק WeChat</string>
+    <string name="name_xiao_ai">Mi AI</string>
     <string name="nfc_all_mipay_card_not_in_use">Mi Pay אינו מופעל</string>
     <string name="nfc_trans_card_not_in_use">כרטיס התחבורה אינו מופעל</string>
     <string name="not_working">%s (לא עובד)</string>

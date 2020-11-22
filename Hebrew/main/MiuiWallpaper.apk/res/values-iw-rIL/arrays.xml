@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>בית</item>
+        <item>טפט/טפטי-על/דף הבית</item>
+        <item>כדור הארץ;טפטי-על;מהדורת כדור הארץ;טפט</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>הכוכב האדום</item>
+        <item>טפט/טפטי-על/הכוכב האדום</item>
+        <item>מאדים;מהדורת מאדים;טפטי-על;טפט</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>סופר טפטים</item>
+        <item>טפט/טפטי על</item>
+        <item>טפטי-על;טפט;טפט דינמי;טפט תלת-ממדי</item>
+    </string-array>
+</resources>

@@ -34,7 +34,7 @@
     <string name="action_settings">הגדרות</string>
     <string name="ad_close">סגור</string>
     <string name="ad_data_exception">שגיאת נתוני פרסומת</string>
-    <string name="ad_recommend">קבלת המלצות</string>
+    <string name="ad_recommend">הצג פרסומות</string>
     <string name="ad_setting">Additional settings</string>
     <string name="add_music">הוסף שירים</string>
     <string name="add_to_last_of_playlist">הוסף לסוף רשימת ההשמעה</string>
@@ -83,6 +83,8 @@
     <string name="artist_home_search_hint">חיפוש אמנים</string>
     <string name="artist_is_empty">שם אמן לא יכול להיוותר ריק.</string>
     <string name="artist_name">אמן</string>
+    <string name="audio_ad_countdown">"דלג על הפרסומת בעוד %sש'"</string>
+    <string name="audio_ad_pass">דלג על הפרסומת</string>
     <string name="audio_picker_title">בחר שיר</string>
     <string name="auto_recommend">אוטומטי (מומלץ)</string>
     <string name="auto_sound_quality">אוטומטי</string>
@@ -170,9 +172,14 @@
     <string name="dialog_renew_positive_text">כן, אני רוצה להיות כמו PRO (מקצוען)</string>
     <string name="dialog_renew_success">תודה על האישור</string>
     <string name="dialog_score_btn_good">דרג</string>
+    <string name="dialog_score_msg_score_explorer">האם אהבת את Mi מוסיקה?</string>
+    <string name="dialog_score_msg_score_not_good">תוכל גם לתת לנו משוב?</string>
+    <string name="dialog_score_msg_score_perfect">יפה! רוצה לדרג את האפליקציה שלנו גם בחנות Play?</string>
     <string name="dialog_score_prompt_bad">תודה על המשוב! נעשה כמיטב יכולתנו כדי לשפר את היישום והשירותים שלנו.</string>
     <string name="dialog_score_prompt_good">תודה על תמיכתך! תרצה לדרג את האפליקציה שלנו גם ב-Google Play?</string>
     <string name="dialog_score_title">דרג את היישום שלנו</string>
+    <string name="dialog_score_toast_rate">דרג קודם את האפליקציה שלנו</string>
+    <string name="dialog_score_toast_scroll_down_score_midrop">גלול למטה כדי לדרג את היישום שלנו</string>
     <string name="dialog_song_sort_type">מיון שירים</string>
     <string name="dialog_song_sort_type_name">לפי שם</string>
     <string name="dialog_song_sort_type_playing_times">לפי מספר ההשמעות</string>
@@ -189,6 +196,7 @@
     <string name="dialog_title_queued_body">הקובץ עדיין לא זמין</string>
     <string name="dialog_title_remove_tracks">הסרה</string>
     <string name="disallow_add_to_fm">לא ניתן להוסיף שירים לרדיו FM</string>
+    <string name="discover_more_music">גלה שירים נוספים</string>
     <string name="do_not_remind_this_version">אל תזכיר לי עבור גרסה זו</string>
     <string name="do_not_support_google_voice_search">החיפוש הקולי של Google אינו נתמך במכשירך.</string>
     <string name="download">הורדה</string>
@@ -226,7 +234,9 @@
     <string name="download_method">הורדה</string>
     <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
     <string name="download_paused_in_power_save_mode">"ההורדות מופסקות בעת שימוש במצב 'חסכון בסוללה'"</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">מוריד…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">איכות הורדה</string>
     <string name="download_quality_summary">הגדרות נוספות עבור הורדות שירים</string>
     <string name="download_queued">בתור</string>
@@ -372,6 +382,8 @@
     <string name="individuation_cart_login_title">רוצה לראות המלצות נוספות?</string>
     <string name="individuation_recommend_switch_message">כיבוי תכונה זו ישפיע על רמת ההתאמה האישית של שירותי Mi מוסיקה. לכבות בכל זאת?</string>
     <string name="individuation_recommend_title">המלצות</string>
+    <string name="individuation_setting_summary">קבל המלצות תוכן בהתבסס על תחומי העניין שלך</string>
+    <string name="individuation_setting_title">המלצות מותאמות אישית</string>
     <string name="input_hint_prefix">הזן %1$s</string>
     <string name="installing_apk">מתקין…</string>
     <string name="insufficient_space">אין מספיק מקום באחסון הפנימי של המכשיר</string>
@@ -505,6 +517,7 @@
     <string name="my_playlist_create_self_playlist">צור רשימת השמעה יחד עם השירים האהובים עליך</string>
     <string name="my_playlist_set_to_private">הפוך לפרטי</string>
     <string name="my_playlist_set_to_public">הפוך לציבורי</string>
+    <string name="network_disable">לא ניתן היה להתחבר לרשת</string>
     <string name="network_error_and_retry">לא ניתן היה להתחבר, לחץ על מנת לנסות שוב</string>
     <string name="network_request_error">לא ניתן להתחבר לרשת</string>
     <string name="network_settings_error">לא ניתן להתחבר לרשת</string>
@@ -631,8 +644,22 @@
     <string name="preset_music_playlist">רשימת השמעה של Mi מוסיקה</string>
     <string name="priority_storage">השתמש בכרטיס זכרון חיצוני</string>
     <string name="priority_storage_summary">הורד באופן אוטומטי אל כרטיס הזכרון החיצוני במידה וזמין</string>
+    <string name="privacy_authorize_network_error">המכשיר שלך צריך להתחבר לרשת כדי שתוכל לבטל את הסכמתך. בדוק את הגדרות הרשת שלך ונסה שוב.</string>
+    <string name="privacy_authorize_revoke_failed">לא ניתן היה לשלול את ההרשאה</string>
+    <string name="privacy_authorize_revoke_success">ההרשאה נשללה בהצלחה</string>
+    <string name="privacy_authorize_revoking">שולל הרשאה…</string>
     <string name="privacy_desc">מדיניות פרטיות</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=iw_IL</string>
+    <string name="privacy_request_desc">"&lt;Data>Mi Music צריך לאסוף מידע האישי הדרוש כדי לספק לך שירותי סטרימינג (הזרמה) מקוונים. מידע לגבי האופן בו אנו מטפלים במידע שאנו אוספים מופיע ב&lt;a href=\"%1$s\">מדיניות הפרטיות &lt;/a> שלנו. תוכל לבטל את הסכמתך למדיניות הפרטיות של Mi Music בכל עת בהגדרות.
+קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%1$s\">מדיניות פרטיות&lt;/a> שלנו לפני השימוש ב-Mi Music.
+אם אינך מסכים להשתמש בשירותים האמורים, לא תוכל להשתמש בתכונות מסוימות של יישום זה; עם זאת, התפקוד הבסיסי שלו עדיין יהיה זמין עבורך.&lt;/Data>"</string>
+    <string name="privacy_request_subtitle">"ברוך הבא ל-Mi Music! יישום זה מספק את השירותים הבאים:
+
+- נגן שמע מקומי
+
+- שירותי הזרמה מקוונים"</string>
+    <string name="privacy_request_title">תנאי השימוש</string>
     <string name="pro_member">מנוי PRO</string>
     <string name="project_device">טלפון Mi</string>
     <string name="prompt_grant_write_settings_permission">אפשר שינוי של הגדרות המערכת</string>
@@ -648,15 +675,20 @@
     <string name="recommended_no_file_size_download_in_mobile">להשתמש בחיבור הנתונים הסלולריים על מנת להוריד קובץ זה?</string>
     <string name="remove">הסרה</string>
     <string name="remove_download">הסר</string>
+    <string name="remove_user_privacy_dialog_message">על ידי כיבוי המתג, אתה מבטל את הסכמתך למדיניות הפרטיות של Mi Music. אנו נפסיק לאסוף את המידע האישי שלך. הנתונים האישיים שכבר נאספו ונשמרים יימחקו במהלך התקופה הנדרשת על פי החוקים החלים. Mi Music צריך לאסוף מידע אישי הכרחי כדי לספק לך את שירותיו הבסיסיים. ביטול הסכמתך למדיניות הפרטיות שלו תיחשב כסירוב לקבל את שירותיו המבוססים על נתונים אישיים שנאספו.</string>
+    <string name="remove_user_privacy_dialog_message_canuse">על ידי כיבוי המתג, אתה מבטל את הסכמתך למדיניות הפרטיות של Mi Music. אנו נפסיק לאסוף את המידע האישי שלך. המידע האישי שכבר נאסף ונשמר יימחק במהלך התקופה הנדרשת על פי החוקים החלים. Mi Music צריך לאסוף מידע אישי הכרחי כדי לספק לך שירותי הזרמה מקוונים. ביטול הסכמתך למדיניות הפרטיות שלו תיחשב כסירוב לקבל את השירותים האמורים על סמך נתונים אישיים שנאספו.</string>
+    <string name="remove_user_privacy_dialog_title">ביטול הסכמה</string>
     <string name="repeat_all_notif">חוזר על כל השירים.</string>
     <string name="repeat_current_notif">חוזר על השיר הנוכחי.</string>
     <string name="request_overlay_permission_desc">אפשר למוסיקת Mi להציג חלון על מנת להשתמש בתכונה זו.</string>
+    <string name="request_privacy_permission_title">עליך לקרוא את תנאי השימוש שלמטה ולהסכים אתם כדי לקבל גישה לכל השירותים שלנו.</string>
     <string name="request_share_info">רק רגע…</string>
     <string name="request_subscription_status">רק רגע…</string>
     <string name="restart_immediate">הפעלה מחדש</string>
     <string name="retry">נסה שוב</string>
     <string name="retry_after_network_available">לא ניתן להתחבר לרשת. בדוק את החיבור ונסה שוב.</string>
     <string name="retry_download">נסה שוב</string>
+    <string name="revoke_upload_playlist_to_hungama_toast">שירים מקוונים לא יסונכרנו עם Hungama</string>
     <string name="ringtone_editing">עורך הרינגוטנים</string>
     <string name="ringtone_not_support">הפורמט של שיר זה אינו נתמך</string>
     <string name="ringtone_selected">נבחר</string>
@@ -726,10 +758,12 @@
     <string name="shuffle_music">עירבוב</string>
     <string name="shuffle_off_notif">העירבוב כבוי.</string>
     <string name="shuffle_on_notif">העירבוב מופעל.</string>
+    <string name="shuffle_play_toast_text">מערבב שירים…</string>
     <string name="similar_albums">אלבומים דומים</string>
     <string name="similar_playlists">רשימות השמעה זהות</string>
     <string name="similar_songs">שירים דומים</string>
     <string name="similar_videos">סרטונים דומים</string>
+    <string name="skip">דלג</string>
     <string name="sleep_mode">"טיימר 'מצב שינה'"</string>
     <string name="sleep_mode_canceled">"'מצב שינה' כובה"</string>
     <string name="sleep_mode_summary">עצור את הנגן לאחר פרק זמן מסוים</string>
@@ -753,6 +787,7 @@
     <string name="start_to_check_new_version">בודק זמינות עדכונים…</string>
     <string name="start_to_download">מוריד…</string>
     <string name="start_to_play">נגן</string>
+    <string name="start_update">מתקין גרסה חדשה…</string>
     <string name="storage_cloned_app">אחסון עבור יישומים משוכפלים</string>
     <string name="storage_internal">אחסון פנימי</string>
     <string name="storage_sd_card">כרטיס זכרון</string>
@@ -800,6 +835,7 @@
     <string name="title_online_recommend">רשימות השמעה נבחרות</string>
     <string name="title_search_history">הסטורית חיפוש</string>
     <string name="title_search_hot">פופולרי</string>
+    <string name="toast_cant_commit_without_title">הזן את כותרת השיר</string>
     <string name="toast_download_error_by_count_limit">ניצלת את מכסת ההורדות שלך לחודש זה.</string>
     <string name="toast_download_error_by_not_login">היכנס לחשבון Mi ונסה שוב.</string>
     <string name="toast_download_error_by_vip_required">"רכוש את 'חבילת שירי פרימיום' על מנת להוריד שיר זה."</string>
@@ -814,8 +850,13 @@
     <string name="toast_normal_songs_for_download">נקבעה איכות הורדות סטנדרטית</string>
     <string name="toast_normal_songs_for_stream">נקבעה איכות הזרמה סטנדרטית</string>
     <string name="toast_not_pro">תכונה זו זמינה רק למנויי PRO.</string>
+    <string name="toast_playmode_loop_playback">רשימת ההשמעה הנוכחית מתנגנת בצורה מחזורית</string>
+    <string name="toast_playmode_shuffle_play">בוצע ערבוב רשימת ההשמעה</string>
+    <string name="toast_playmode_single_cycle">השיר הנוכחי מתנגן בצורה מחזורית</string>
     <string name="toast_uhd_songs_for_download">נקבעה איכות הורדות גבוהה</string>
     <string name="toast_uhd_songs_for_stream">נקבעה איכות הזרמה גבוהה</string>
+    <string name="toast_will_play_list_when_ad_pause">רשימת ההשמעה תתחיל לפעול לאחר הצגת מודעות</string>
+    <string name="toast_will_play_song_when_ad_pause">שיר זה יתחיל להתנגן לאחר הצגת מודעות</string>
     <string name="today">היום</string>
     <string name="top_chart_title">טבלאות</string>
     <string name="track_play_history_after_login">היכנס כדי לצפות בהיסטוריית ניגון מדיה</string>
@@ -828,7 +869,20 @@
     <string name="upgrade_music">"עדכן את 'מוסיקה'"</string>
     <string name="upgrade_music_message">העדכונים מוכנים. הפעל מחדש לעדכון.</string>
     <string name="upgrading_in_backstage">מעדכן ברקע</string>
+    <string name="upload_favorite_dialog_title">העלה את השירים שלך לענן כדי שתוכל לקבל גישה אליהם ממכשירים מסונכרנים אחרים. באפשרותך להשבית את האפשרות הזאת בהגדרות.</string>
+    <string name="upload_favorite_setting_summary">הוספת שירים מקוונים למועדפים מעלה אותם לענן ומאפשרת לך לגשת אליהם במכשירים אחרים</string>
+    <string name="upload_favorite_setting_title">סנכרן שירים</string>
+    <string name="upload_playlist_to_hungama_negative_text">לא לסנכרן</string>
+    <string name="upload_playlist_to_hungama_positive_text">סנכרן</string>
+    <string name="upload_playlist_to_hungama_title">סנכרן שירים מקוונים עם Hungama כדי לקבל גישה לאותם השירים ממכשירים אחרים כשאתה משתמש בחשבון Mi.</string>
+    <string name="upload_playlist_to_hungama_toast">שירים מקוונים יסונכרנו עם Hungama</string>
     <string name="user_agreement">הסכם המשתמש</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=iw_IL</string>
+    <string name="user_privacy_dialog_negative_text">ביטול</string>
+    <string name="user_privacy_dialog_positive_count_down_text">משיכה (%s)</string>
+    <string name="user_privacy_dialog_positive_text">ביטול הסכמה</string>
+    <string name="user_privacy_setting_group_title">ביטול הסכמה</string>
+    <string name="user_privacy_setting_title">על ידי כיבוי המתג, אתה מבטל את הסכמתך למדיניות הפרטיות של Mi Music.</string>
     <string name="version_info">גרסה</string>
     <string name="video_play_cellular">מכשירך אינו מחובר ל-Wi-Fi. להשתמש בנתונים סלולריים?</string>
     <string name="video_replay_btn">נגן שוב</string>

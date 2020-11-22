@@ -84,6 +84,12 @@
         <item quantity="two">%d רשתות אלחוטיות</item>
         <item quantity="many">%d רשתות אלחוטיות</item>
     </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d WLAN networks</item>
+        <item quantity="one">%d WLAN network</item>
+        <item quantity="two">%d WLAN networks</item>
+        <item quantity="many">%d WLAN networks</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">פריטים הממתינים לסנכרון: %d</item>
         <item quantity="one">פריט הממתין לסנכרון: %d</item>
@@ -113,5 +119,11 @@
         <item quantity="one">שירות %s יסונכרן עם Xiaomi Cloud</item>
         <item quantity="two">%s שירותים יסונכרנו עם Xiaomi Cloud</item>
         <item quantity="many">%s שירותים יסונכרנו עם Xiaomi Cloud</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">לא ניתן לבחור יותר מ-%d פריטים</item>
+        <item quantity="one">לא ניתן לבחור יותר מפריט %d</item>
+        <item quantity="two">לא ניתן לבחור יותר מ-%d פריטים</item>
+        <item quantity="many">לא ניתן לבחור יותר מ-%d פריטים</item>
     </plurals>
 </resources>

@@ -72,6 +72,18 @@
         <item quantity="two">צלצל %1$d פעמים</item>
         <item quantity="many">צלצל %1$d פעמים</item>
     </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d מספרי טלפון</item>
+        <item quantity="one">מספר טלפון אחד (%d)</item>
+        <item quantity="two">%d מספרי טלפון</item>
+        <item quantity="many">%d מספרי טלפון</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">למחוק %d מספרי טלפון?</item>
+        <item quantity="one">למחוק מספר טלפון אחד (%d)?</item>
+        <item quantity="two">למחוק %d מספרי טלפון?</item>
+        <item quantity="many">למחוק %d מספרי טלפון?</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d אנשי קשר או תמונות לא סונכרנו</item>
         <item quantity="one">איש קשר או תמונה %1$d לא סונכרנו</item>
@@ -150,12 +162,6 @@
         <item quantity="two">לפני חצי שעה</item>
         <item quantity="many">לפני חצי שעה</item>
     </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">נמצאו %1$d פריטים</item>
-        <item quantity="one">נמצא פריט %1$d</item>
-        <item quantity="two">נמצאו %1$d פריטים</item>
-        <item quantity="many">נמצאו %1$d פריטים</item>
-    </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d אנשי קשר</item>
         <item quantity="one">איש קשר %1$d</item>
@@ -222,12 +228,6 @@
         <item quantity="two">%1$d אנשי קשר עם מידע זהה חלקית</item>
         <item quantity="many">%1$d אנשי קשר עם מידע זהה חלקית</item>
     </plurals>
-    <plurals name="merge_info">
-        <item quantity="other">מוזג מ-%0$d מקורות</item>
-        <item quantity="one">לא מוזג</item>
-        <item quantity="two">מוזג מ-%0$d מקורות</item>
-        <item quantity="many">מוזג מ-%0$d מקורות</item>
-    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d נבחרו</item>
         <item quantity="one">%1$d נבחר</item>
@@ -240,23 +240,11 @@
         <item quantity="two">%1$d אנשים מ- %2$s</item>
         <item quantity="many">%1$d אנשים מ- %2$s</item>
     </plurals>
-    <plurals name="num_groups_in_account">
-        <item quantity="other">%dקבוצות</item>
-        <item quantity="one">קבוצה %d</item>
-        <item quantity="two">%dקבוצות</item>
-        <item quantity="many">%dקבוצות</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">לפני %d דקות</item>
         <item quantity="one">לפני דקה אחת</item>
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
-    </plurals>
-    <plurals name="number_of_items_available">
-        <item quantity="other">%1$d פריטים נותרו</item>
-        <item quantity="one">נותר פריט %1$d</item>
-        <item quantity="two">%1$d פריטים נותרו</item>
-        <item quantity="many">%1$d פריטים נותרו</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d נבחרו</item>
@@ -293,6 +281,12 @@
         <item quantity="one">%d נמצא</item>
         <item quantity="two">%d נמצאו</item>
         <item quantity="many">%d נמצאו</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s תוצאות</item>
+        <item quantity="one">תוצאה אחת (%s)</item>
+        <item quantity="two">%s תוצאות</item>
+        <item quantity="many">%s תוצאות</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">בחר עד %1$d בלבד, לא ניתן לבחור הכל</item>

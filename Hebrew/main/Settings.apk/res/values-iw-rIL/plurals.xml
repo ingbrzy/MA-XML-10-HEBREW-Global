@@ -2,13 +2,13 @@
 <resources>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">לעולם אל תשבית עבור %d יישומים</item>
-        <item quantity="one">לעולם אל תשבית עבור יישום 1</item>
+        <item quantity="one">Never disable for %d app</item>
         <item quantity="two">לעולם אל תשבית עבור %d יישומים</item>
         <item quantity="many">לעולם אל תשבית עבור %d יישומים</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">השבת תמיד עבור %d יישומים</item>
-        <item quantity="one">השבת תמיד עבור יישום 1</item>
+        <item quantity="one">Always disable for %d app</item>
         <item quantity="two">השבת תמיד עבור %d יישומים</item>
         <item quantity="many">השבת תמיד עבור %d יישומים</item>
     </plurals>
@@ -121,10 +121,10 @@
         <item quantity="many">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">הינך נמצא %1$d צעדים לפני כניסה לפרטי הטלפון.</item>
-        <item quantity="one">הינך נמצא צעד %1$d לפני כניסה לפרטי הטלפון.</item>
-        <item quantity="two">הינך נמצא %1$d צעדים לפני כניסה לפרטי הטלפון.</item>
-        <item quantity="many">הינך נמצא %1$d צעדים לפני כניסה לפרטי הטלפון.</item>
+        <item quantity="other">"You're %1$d step away from opening device info."</item>
+        <item quantity="one">"You're %1$d step away from opening device info."</item>
+        <item quantity="two">"You're %1$d step away from opening device info."</item>
+        <item quantity="many">"You're %1$d step away from opening device info."</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">הינך נמצא %1$d צעדים לפני דיווח על שגיאה.</item>

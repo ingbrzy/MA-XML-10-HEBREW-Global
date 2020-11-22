@@ -6,6 +6,42 @@
         <item quantity="two">ממוקד. זוהו %d פרצופים</item>
         <item quantity="many">ממוקד. זוהו %d פרצופים</item>
     </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d תמונות בצילום מתפרץ</item>
+        <item quantity="one">תמונה %d בצילום מתפרץ</item>
+        <item quantity="two">%d תמונות בצילום מתפרץ</item>
+        <item quantity="many">%d תמונות בצילום מתפרץ</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">זמן בין כל שני צילומים: %d שניות</item>
+        <item quantity="one">זמן בין כל שני צילומים: שנייה %d</item>
+        <item quantity="two">זמן בין כל שני צילומים: %d שניות</item>
+        <item quantity="many">זמן בין כל שני צילומים: %d שניות</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Duration: %d seconds</item>
+        <item quantity="one">Duration: %d second</item>
+        <item quantity="two">Duration: %d seconds</item>
+        <item quantity="many">Duration: %d seconds</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">אפשר ליצור עד %d שיבוטים בכל פעם.</item>
+        <item quantity="one">אפשר ליצור עד שיבוט %d בכל פעם</item>
+        <item quantity="two">אפשר ליצור עד %d שיבוטים בכל פעם.</item>
+        <item quantity="many">אפשר ליצור עד %d שיבוטים בכל פעם.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s דקות</item>
+        <item quantity="one">דקה %1$s</item>
+        <item quantity="two">%1$s דקות</item>
+        <item quantity="many">%1$s דקות</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s תמונות</item>
+        <item quantity="one">תמונה %1$s</item>
+        <item quantity="two">%1$s תמונות</item>
+        <item quantity="many">%1$s תמונות</item>
+    </plurals>
     <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">הצילום המתפרץ בוצע, צולמו %1$s תמונות</item>
         <item quantity="one">הצילום המתפרץ בוצע, %1$s תמונה צולמה</item>

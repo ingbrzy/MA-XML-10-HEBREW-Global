@@ -10,6 +10,7 @@
     <string name="download_queued">בתור</string>
     <string name="download_remaining">%s נותרו</string>
     <string name="download_running">מוריד</string>
+    <string name="download_running_percent">מוריד %s</string>
     <string name="download_unknown_title">&lt;ללא שם></string>
     <string name="notif_title_file_size">%1$d סה\"כ</string>
     <string name="notif_title_single_downloading">מוריד את %1$s</string>
@@ -34,12 +35,12 @@
     <string name="permlab_downloadWithoutNotification">הורדת קבצים ללא התראה</string>
     <string name="permlab_seeAllExternal">צפיה בכל ההורדות באחסון ה-USB</string>
     <string name="root_downloads">הורדות</string>
-    <string name="wifi_recommended_body" formatted="false">"התחלת הורדה זו %s כעת עשויה לקצר את חיי הסוללה שלך ו/או להוביל לשימוש מופרז בחיבור הנתונים הסלולריים שלך, אשר עשוי להוביל לחיובים נוספים על ידי ספק הרשת שלך בהתאם לחבילת הנתונים שלך.
+    <string name="wifi_recommended_body">"התחלת הורדה זו %1$s כעת עשויה לקצר את חיי הסוללה שלך ו/או להוביל לשימוש מופרז בחיבור הנתונים הסלולריים שלך, אשר עשוי להוביל לחיובים נוספים על ידי ספק הרשת שלך בהתאם לחבילת הנתונים שלך.
 
-לחץ על %s על מנת להתחיל הורדה זו בפעם הבאה שתהיה מחובר לרשת האלחוטית."</string>
+לחץ על %2$s על מנת להתחיל הורדה זו בפעם הבאה שתהיה מחובר לרשת האלחוטית."</string>
     <string name="wifi_recommended_title">להוסיף לתור?</string>
-    <string name="wifi_required_body" formatted="false">"התחבר לרשת אלחוטית על מנת להשלים את %s הורדה זו. 
+    <string name="wifi_required_body">"התחבר לרשת אלחוטית על מנת להשלים את %1$s הורדה זו. 
 
-לחץ על %s על מנת להתחיל הורדה זו בפעם הבאה שתהיה מחובר לרשת אלחוטית."</string>
+לחץ על %2$s על מנת להתחיל הורדה זו בפעם הבאה שתהיה מחובר לרשת אלחוטית."</string>
     <string name="wifi_required_title">הקובץ גדול מידי מכדי לרדת באמצעות נתונים סלולריים</string>
 </resources>

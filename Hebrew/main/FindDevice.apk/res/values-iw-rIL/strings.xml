@@ -46,8 +46,8 @@
     <string name="passport_trust_device">בטח במכשיר זה</string>
     <string name="passport_vcode_prompt_long">הזן קוד אימות</string>
     <string name="passport_verify">אימות</string>
-    <string name="password">סיסמה</string>
-    <string name="phone_locked">מכשיר זה עשוי להיות מקושר לחשבון Mi קיים (%s). היכנס על מנת להפעיל מכשיר זה.</string>
+    <string name="password">הזן סיסמה</string>
+    <string name="phone_locked">המכשיר הזה מקושר לחשבון Mi (%s). הזן סיסמה כדי להפעיל את המכשיר.</string>
     <string name="phone_locked_account_email">, כתובת דוא\"ל מקושרת: %s</string>
     <string name="phone_locked_account_phone">, מספר טלפון מקושר: %s</string>
     <string name="return_to_call">חזרה לשיחה</string>
@@ -73,14 +73,14 @@
     <string name="unlock_error_unknown">לא ניתן להיכנס</string>
     <string name="unlock_error_user_name">שם משתמש לא חוקי</string>
     <string name="unlock_error_wrong_vcode">הקוד שהזנת שגוי</string>
-    <string name="unlock_help">"הישאר מחובר לרשת.
-ודא כי התקנת כרטיס SIM תקין (במידה ומכשירך תומך בכך), ושהמכשיר אינו מחובר לרשת אלחוטית שאינה חוקית.
+    <string name="unlock_help">"התחבר לרשת.
+הכנס כרטיס סים פעיל ואל תתחבר לרשתות Wi-Fi לא חוקיות.
 
-שכחת את הסיסמה שלך?
-עבור אל id.mi.com על מנת לאתחל את הסיסמה שלך
+שכחת את הסיסמה?
+עבור לכתובת id.mi.com, בחר באפשרות \"שכחת סיסמה?\" ובצע את ההוראות.
 
-סיבות נוספות
-היכנס אל i.mi.com ונסה לבטל את נעילת מכשירך משם."</string>
+לא מצליח להפעיל את המכשיר?
+עבור לכתובת i.mi.com/ss ושלח בקשה לביטול נעילת המכשיר."</string>
     <string name="unlock_help_title">עזרה בביטול הנעילה:</string>
     <string name="unlock_number">קוד ביטול נעילה: %s</string>
     <string name="unlock_wrong_captcha">הקוד שהזנת שגוי</string>

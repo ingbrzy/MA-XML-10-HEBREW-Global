@@ -95,7 +95,9 @@
     <string name="opp_notification_group">‏שיתוף Bluetooth</string>
     <string name="outbound_history_title">העברות יוצאות</string>
     <string name="outbound_noti_title">‏שיתוף Bluetooth: נשלחו קבצים</string>
+    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">‏תם הזמן שהוקצב להסכמה לחיבור עם %1$s</string>
+    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">‏תם הזמן הקצוב להזנת קוד הפעלה עם %1$s</string>
     <string name="pbap_notification_group">‏שיתוף אנשי קשר באמצעות Bluetooth</string>
     <string name="pbap_session_key_dialog_header">‏דרוש קוד הפעלת Bluetooth</string>
@@ -133,7 +135,6 @@
     <string name="upload_fail_cancel">סגור</string>
     <string name="upload_fail_line1">הקובץ לא נשלח אל %1$s.</string>
     <string name="upload_fail_line1_2">קובץ: %1$s</string>
-    <string name="upload_fail_ok">נסה שוב</string>
     <string name="upload_line1">אל: \"%1$s\"</string>
     <string name="upload_line3">סוג קובץ: %1$s (%2$s)</string>
     <string name="upload_line5">שולח קובץ…</string>

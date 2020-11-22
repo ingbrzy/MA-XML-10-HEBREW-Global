@@ -42,6 +42,12 @@
         <item quantity="two">%d הקלטות ירדו</item>
         <item quantity="many">%d הקלטות ירדו</item>
     </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">לא ניתן היה לשחזר %d פריטים בגלל שגיאה לא ידועה.</item>
+        <item quantity="one">לא ניתן היה לשחזר פריט %d בגלל שגיאה לא ידועה.</item>
+        <item quantity="two">לא ניתן היה לשחזר %d פריטים בגלל שגיאה לא ידועה.</item>
+        <item quantity="many">לא ניתן היה לשחזר %d פריטים בגלל שגיאה לא ידועה.</item>
+    </plurals>
     <plurals name="search_alll_records_hint">
         <item quantity="other">חפש בין %d הקלטות</item>
         <item quantity="one">חפש בהקלטה %d</item>
@@ -49,10 +55,10 @@
         <item quantity="many">חפש בין %d הקלטות</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">Search among %d recordings</item>
-        <item quantity="one">Search among %d recording</item>
-        <item quantity="two">Search among %d recordings</item>
-        <item quantity="many">Search among %d recordings</item>
+        <item quantity="other">חפש בין %d הקלטות</item>
+        <item quantity="one">חפש בין הקלטה %d</item>
+        <item quantity="two">חפש בין %d הקלטות</item>
+        <item quantity="many">חפש בין %d הקלטות</item>
     </plurals>
     <plurals name="search_call_records_hint">
         <item quantity="other">חפש בין %d הקלטות של שיחות</item>
@@ -65,6 +71,24 @@
         <item quantity="one">נמצאה %d הקלטה</item>
         <item quantity="two">נמצאו %d שתי הקלטות</item>
         <item quantity="many">נמצאו %d הקלטות</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">נותרו %d ימים</item>
+        <item quantity="one">נותר יום %d</item>
+        <item quantity="two">נותרו %d ימים</item>
+        <item quantity="many">נותרו %d ימים</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">למחוק את %d ההקלטות שנבחרו לצמיתות?</item>
+        <item quantity="one">למחוק הקלטה %d שנבחרה לצמיתות?</item>
+        <item quantity="two">למחוק את %d ההקלטות שנבחרו לצמיתות?</item>
+        <item quantity="many">למחוק את %d ההקלטות שנבחרו לצמיתות?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">ניתן לאחסן פריטים שנמחקו בסל המחזור במשך עד %d ימים</item>
+        <item quantity="one">ניתן לאחסן פריטים שנמחקו בסל המחזור במשך עד יום %d</item>
+        <item quantity="two">ניתן לאחסן פריטים שנמחקו בסל המחזור במשך עד %d ימים</item>
+        <item quantity="many">ניתן לאחסן פריטים שנמחקו בסל המחזור במשך עד %d ימים</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d לא מסונכרנות</item>

@@ -37,10 +37,10 @@
         <item quantity="many">למחוק %1$d טיוטות?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d נבחרו</item>
-        <item quantity="one">%d נבחר</item>
-        <item quantity="two">%d נבחרו</item>
-        <item quantity="many">%d נבחרו</item>
+        <item quantity="other">נוספו %d אנשי קשר</item>
+        <item quantity="one">נוסף %d איש קשר</item>
+        <item quantity="two">נוספו %d אנשי קשר</item>
+        <item quantity="many">נוספו %d אנשי קשר</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> נשלחו לארכיון.</item>
@@ -173,6 +173,66 @@
         <item quantity="one">%d נבחר</item>
         <item quantity="two">%d נבחרו</item>
         <item quantity="many">%d נבחרו</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">אחרי %1$d ימים</item>
+        <item quantity="one">אחרי יום אחד</item>
+        <item quantity="two">אחרי %1$d ימים</item>
+        <item quantity="many">אחרי %1$d ימים</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d ימים קודם</item>
+        <item quantity="one">יום %1$d קודם</item>
+        <item quantity="two">%1$d ימים קודם</item>
+        <item quantity="many">%1$d ימים קודם</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">אחרי %1$d שעות</item>
+        <item quantity="one">אחרי שעה אחת</item>
+        <item quantity="two">אחרי %1$d שעות</item>
+        <item quantity="many">אחרי %1$d שעות</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d שעות קודם</item>
+        <item quantity="one">שעה אחת קודם</item>
+        <item quantity="two">%1$d שעות קודם</item>
+        <item quantity="many">%1$d שעות קודם</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">אחרי %1$d דקות</item>
+        <item quantity="one">אחרי דקה אחת</item>
+        <item quantity="two">אחרי %1$d דקות</item>
+        <item quantity="many">אחרי %1$d דקות</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d דקות קודם</item>
+        <item quantity="one">דקה אחת קודם</item>
+        <item quantity="two">%1$d דקות קודם</item>
+        <item quantity="many">%1$d דקות קודם</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d שניות אחרי</item>
+        <item quantity="one">שנייה אחת אחרי</item>
+        <item quantity="two">%1$d שניות אחרי</item>
+        <item quantity="many">%1$d שניות אחרי</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d שניות קודם</item>
+        <item quantity="one">שניה %1$d קודם</item>
+        <item quantity="two">%1$d שניות קודם</item>
+        <item quantity="many">%1$d שניות קודם</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">אחרי %1$d שבועות</item>
+        <item quantity="one">אחרי שבוע אחד</item>
+        <item quantity="two">אחרי %1$d שבועות</item>
+        <item quantity="many">אחרי %1$d שבועות</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d שבועות קודם</item>
+        <item quantity="one">שבוע אחד קודם</item>
+        <item quantity="two">%1$d שבועות קודם</item>
+        <item quantity="many">%1$d שבועות קודם</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">השב ל-%1$d אנשים</item>

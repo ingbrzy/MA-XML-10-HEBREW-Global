@@ -158,7 +158,7 @@
     </plurals>
     <plurals name="todo_N_days_ago">
         <item quantity="other">לפני %1$d ימים</item>
-        <item quantity="one">לפני יום %1$d</item>
+        <item quantity="one">אתמול</item>
         <item quantity="two">לפני %1$d ימים</item>
         <item quantity="many">לפני %1$d ימים</item>
     </plurals>
@@ -170,7 +170,7 @@
     </plurals>
     <plurals name="todo_event_description_days_ago">
         <item quantity="other">לפני %1$d ימים</item>
-        <item quantity="one">לפני יום %1$d</item>
+        <item quantity="one">אתמול</item>
         <item quantity="two">לפני %1$d ימים</item>
         <item quantity="many">לפני %1$d ימים</item>
     </plurals>
@@ -179,6 +179,12 @@
         <item quantity="one">בתוך %1$d יום</item>
         <item quantity="two">בתוך %1$d ימים</item>
         <item quantity="many">בתוך %1$d ימים</item>
+    </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s משימות</item>
+        <item quantity="one">משימה %1$s</item>
+        <item quantity="two">%1$s משימות</item>
+        <item quantity="many">%1$s משימות</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">%d תווים</item>

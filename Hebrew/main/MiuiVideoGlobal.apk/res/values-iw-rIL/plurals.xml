@@ -12,6 +12,12 @@
         <item quantity="two">חוזר לעמוד הבית בעוד %1$dשניות…</item>
         <item quantity="many">חוזר לעמוד הבית בעוד %1$dשניות…</item>
     </plurals>
+    <plurals name="follower">
+        <item quantity="other">%d עוקבים</item>
+        <item quantity="one">עוקב אחד (%d)</item>
+        <item quantity="two">%d עוקבים</item>
+        <item quantity="many">%d עוקבים</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">הכתוביות יוצגו בהקדם של %.1f שניות</item>
         <item quantity="one">הכתוביות יוצגו בהקדם של שניה %.1f</item>
@@ -35,6 +41,12 @@
         <item quantity="one">סרטון %d</item>
         <item quantity="two">%d סרטונים</item>
         <item quantity="many">%d סרטונים</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">%s שניות נותרו</item>
+        <item quantity="one">שנייה אחת (%s) נותרה</item>
+        <item quantity="two">%s שניות נותרו</item>
+        <item quantity="many">%s שניות נותרו</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">התוכן שלך מכיל פריטים (%1$s) שמפרים את כללי הקהילות שלנו. חשבונך מושעה למשך %2$d ימים עד %3$s.</item>
@@ -95,6 +107,24 @@
         <item quantity="one">סרטון %d</item>
         <item quantity="two">%d סרטונים</item>
         <item quantity="many">%d סרטונים</item>
+    </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">הקש פעמיים כדי להחזיר אחורה %d שניות</item>
+        <item quantity="one">הקש פעמיים כדי להחזיר אחורה שנייה אחת</item>
+        <item quantity="two">הקש פעמיים כדי להחזיר אחורה %d שניות</item>
+        <item quantity="many">הקש פעמיים כדי להחזיר אחורה %d שניות</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">הקש פעמיים כדי להריץ קדימה %d שניות</item>
+        <item quantity="one">הקש פעמיים כדי להריץ קדימה שנייה אחת</item>
+        <item quantity="two">הקש פעמיים כדי להריץ קדימה %d שניות</item>
+        <item quantity="many">הקש פעמיים כדי להריץ קדימה %d שניות</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s שניות</item>
+        <item quantity="one">%1$s שניה</item>
+        <item quantity="two">%1$s שניות</item>
+        <item quantity="many">%1$s שניות</item>
     </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s מנויים</item>

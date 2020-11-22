@@ -134,9 +134,9 @@
     <string name="antivirus_none_engine_dialog_ok">אישור</string>
     <string name="antivirus_not_wlan">אינך מחובר לרשת האלחוטית. שימוש בנתונים סלולריים עשוי להוביל לחיובים נוספים. להמשיך בכל זאת?</string>
     <string name="antivirus_privacy_dialog_cloudscan">העלה שמות ופרטי יישומים</string>
-    <string name="antivirus_privacy_dialog_cloudscan_description">העלה וסרוק את שמות ופרטי היישומים באמצעות הגדרות וירוסים מקוונות.</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">כדי לאתר ולנטרל וירוסים בצורה יעילה יותר, אנו נעלה את שמות החבילות והמאפיינים של האפליקציות כדי לסרוק אותם באמצעות מנוע ענן.</string>
     <string name="antivirus_privacy_dialog_ok">אישור</string>
-    <string name="antivirus_privacy_dialog_summary">תכונה זו מצפינה ומעלה את מזהה המכשיר שלך לשרתי Avast, AVL ו-Tencent (%s).</string>
+    <string name="antivirus_privacy_dialog_summary"><Data>תכונה זו מופעלת על ידי מנוע אנטי-וירוס של צד שלישי. למידע נוסף, קרא את &lt;a href=\"%1$s\">הסכם הרישיון&lt;/a> שסופק על ידי הצד השלישי.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">מדיניות הפרטיות</string>
     <string name="antivirus_privacy_dialog_title">מדיניות הפרטיות</string>
     <string name="antivirus_sec_network_unavailable">לא ניתן לעדכן את יישום האבטחה כי הגבלת את החיבור לאינטרנט. לאפשר ליישום האבטחה להתחבר לאינטרנט?</string>
@@ -261,6 +261,8 @@
     <string name="app_behavior_start_from_notification_single">אפליקציה זו נפתחה על ידי התראה</string>
     <string name="app_behavior_start_from_recent">%1s נפתחה ממסך \"אחרונים\"</string>
     <string name="app_behavior_start_from_recent_single">אפליקציה זו נפתחה ממסך \"אחרונים\"</string>
+    <string name="app_behavior_start_from_widget">"%1s הופעל ע\"י ווידג'ט"</string>
+    <string name="app_behavior_start_from_widget_single">"אפליקציה זו נפתחה על ידי ווידג'ט"</string>
     <string name="app_behavior_storage">%1s שמרה או ניגשה אל קבצים</string>
     <string name="app_behavior_storage_bg">%1s שמרה או ניגשה אל קבצים ברקע</string>
     <string name="app_behavior_storage_bg_single">האפליקציה הזו קיבלה גישה או שמרה קבצים ברקע</string>
@@ -283,7 +285,7 @@
     <string name="app_install_tips_install_success">%1$s הותקן בהצלחה</string>
     <string name="app_manager_advanced_setting">הגדרות מתקדמות</string>
     <string name="app_manager_allow">כן</string>
-    <string name="app_manager_anomaly_analysis">Analyze third party app problems</string>
+    <string name="app_manager_anomaly_analysis">ניתוח בעיות באפליקציות צד שלישי</string>
     <string name="app_manager_app_ifno_version">גרסת היישום</string>
     <string name="app_manager_app_info_label">פרטי היישום</string>
     <string name="app_manager_app_info_name">שם היישום</string>
@@ -737,6 +739,7 @@
     <string name="card_main_private_space_summary">"השימוש ב'שטח שני' דומה לשימוש בשני מכשירים"</string>
     <string name="card_main_private_space_title">שטח שני</string>
     <string name="card_main_sectool_title">כלים</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">צור</string>
     <string name="card_main_xspace_summary">צור חשבונות משוכפלים לכל יישום שתבחר</string>
     <string name="card_main_xspace_title">יישומים משוכפלים</string>
@@ -938,6 +941,7 @@
     <string name="doze_optimization_title">ייעל את מגע השליטה</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">דוא\"ל</string>
     <string name="empty_app">אין יישומים</string>
     <string name="empty_title_auto_start_list">אין יישומים הרשאים לבצע הפעלה אוטומטית.</string>
@@ -1064,6 +1068,13 @@
     <string name="first_aid_scanning_item4">מאבחן בעיות סוללה…</string>
     <string name="first_aid_scanning_item5">מאבחן בעיות אחרות…</string>
     <string name="first_aid_stop_scan">עצור סריקה</string>
+    <string name="first_settings_default_camera_title">שתף ללא מטא-נתונים כברירת המחדל</string>
+    <string name="first_settings_default_location_subtitle">הסר את פרטי המיקום מתמונות ששותפו</string>
+    <string name="first_settings_default_location_title">שתף ללא נתוני מיקום כברירת המחדל</string>
+    <string name="first_settings_share_enable">הוסף תג \"שיתוף מאובטח\"</string>
+    <string name="first_settings_share_enable_subtitle">הפריטים שתשתף באמצעות WeChat יופיעו עם התג של MIUI</string>
+    <string name="first_settings_subtitle">אלה אפשרויות השיתוף המאובטח הזמינות עבורך:</string>
+    <string name="first_settings_title">הגן על פרטיותך</string>
     <string name="five_percent_total_pkg">%s (5%% מהנתונים החודשיים)</string>
     <string name="fod_authentication_shift_button">ביטול</string>
     <string name="fod_button_finger">השתמש בטביעת אצבע</string>
@@ -1089,11 +1100,10 @@
     <string name="free_time_traffic_title">הזן מגבלת נתונים בשפל</string>
     <string name="free_traffic_settings">הגדרות שימוש בנתונים בשפל</string>
     <string name="function_close">כיבוי</string>
-    <string name="function_gwsd_detail">"אודות מאפיין זה:
- 1. שיחות נכנסות לכרטיס הסים לתעבורת נתונים לא יפריעו לחיבור לאינטרנט הסלולרי. רק בעת מענה לשיחה החיבור יתנתק.
- 2. כשמאפיין זה מופעל, המתקשר לא ישמע את הצליל של שיחה ממתינה. שיחות נכנסות ינותקו אם לא תענה תוך 6 שניות. 
- 3. מאפיין זה עובד רק עם כרטיסי סים לתעבורת נתונים. שיחות לכרטיס הסים העיקרי ינתקו את החיבור לאינטרנט הסלולרי.
- 4. מאפיין זה נתמך רק על-ידי China Mobile ו-China Unicom."</string>
+    <string name="function_gwsd_detail">"אודות תכונה זו:
+ 1. כאשר אתה משתמש בנתונים ניידים על כרטיס Data SIM או על כרטיס SIM רגיל המחובר לרשת VoLTE, החיבור לא יופרע ע\"י שיחות נכנסות עד שתבחר לענות להן.
+ 2. כשתכונה זו מופעלת, האדם השני לא יוכל לשמוע את צליל המשוב על הצלצול אלא אם אתה משתמש בכרטיס SIM רגיל. שיחות נכנסות יידחו אוטומטית לאחר 7-10 שניות של חוסר פעילות.
+ 3. כרטיסי Data SIM מטעם China Mobile ו-China Unicom נתמכים. כרטיסי SIM רגילים מטעם China Mobile, China Unicom ו-China Telecom נתמכים."</string>
     <string name="function_gwsd_title">אל תאפשר שיחות נכנסות המפריעות לנתוני חיבור כרטיס SIM</string>
     <string name="function_shield_auto_bright">הפעל בהירות אוטומטית</string>
     <string name="function_shield_eye_shield">כבה מצב קריאה</string>
@@ -1274,7 +1284,7 @@
     <string name="gb_xunyou_gift_type_one">מאיץ חד יומי של Xunyou</string>
     <string name="gb_xunyou_gift_type_three">מאיץ תלת יומי של Xunyou</string>
     <string name="gb_xunyou_gift_type_two">מאיץ דו יומי של Xunyou</string>
-    <string name="gdpr_msg">&lt;Data>בכדי להשתמש במאפיינים הבסיסיים של יישום האבטחה, עליך להסכים לכך ש-Xiaomi תאסוף, תעבד ותשתמש בנתונים האישיים שלך, כולל מידע על שימושך במאפייני יישום האבטחה (למשל, נתונים סטטיסטיים על שימוש באינטרנט סלולרי, מידע על תכונות זדוניות וגם מידע בסיסי אודות המכשיר), ובסוגי מידע אחרים כפי שמפורט &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">במדיניות הפרטיות&lt;/a>.שלנו&lt;/Data></string>
+    <string name="gdpr_msg"><Data>כדי שנוכל לזהות סיכוני אבטחה ולהגן על הנתונים שלך, אנו צריכים לאסוף את המידע הנדרש לגבי מכשירך. עליך לקרוא את &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">מדיניות הפרטיות&lt;/a> שלנו ולהסכים איתה לפני השימוש בשירותינו. אם לא תאפשר לנו לאסוף מידע מסוג זה, עדיין תוכל להשתמש ביישום הזה, אבל מאפיינים מסוימים לא יהיו זמינים בשבילך. </Data></string>
     <string name="get_sys_info">מקבל פרטים…</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_setting_alert_dialog_content">באפשרותך לפנות עד %s</string>
@@ -1333,8 +1343,15 @@
     <string name="gs_show_way_vertical">אנכי</string>
     <string name="gs_sign_notification">"הזכר לי לבצע צ'ק אין בשעה 8 בכל ערב"</string>
     <string name="gs_slip_gamebox_detail">השתמש במחוון או החלק מהקצה העליון של המסך על מנת להפוך פאנל קיצורי הדרך לזמין</string>
+    <string name="gtb_dialog_btn_close">כבה</string>
+    <string name="gtb_dialog_btn_open">הפעל</string>
+    <string name="gtb_dialog_hint_smart_5g">תוכל להפעיל ולהשבית את המאפיין הזה תחת מאיץ המשחקים > הגדרות.</string>
+    <string name="gtb_dialog_summary_smart_5g">כאשר מאיץ המשחקים מזהה רשת 5G, הוא יכול לחבר את המכשיר שלך לרשת הטובה ביותר מבין הרשתות הזמינות כדי לצמצם השהיות ברשת. להפעיל את המאפיין עכשיו?</string>
+    <string name="gtb_dialog_title_smart_5g">מיטוב רשת 5G</string>
     <string name="gtb_exit_game_to_gtb">פתיחת Gamebox</string>
     <string name="gtb_exit_game_to_home">חזרה למסך הבית</string>
+    <string name="gtb_setting_item_summary_smart_5g">כאשר מאיץ המשחקים מזהה רשת 5G, הוא יכול לחבר את המכשיר שלך לרשת הטובה ביותר מבין הרשתות הזמינות כדי לצמצם השהיות ברשת</string>
+    <string name="gtb_setting_item_title_smart_5g">מיטוב רשת 5G</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>ספק רשת שגוי?&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">"ספק הרשת הנוכחי שלך: "</string>
     <string name="guide_quck_open">הפעלה</string>
@@ -1425,6 +1442,7 @@
     <string name="list_empty_text">ריק</string>
     <string name="load_only_under_wlan">טען באמצעות רשת אלחוטית בלבד</string>
     <string name="loading">רק רגע…</string>
+    <string name="loading_text_format" formatted="false">מסיר מידע פרטי מתמונות (%d/%d)…</string>
     <string name="local_ip_exception_summary">"לא ניתן היה להשיג כתובת IP מקומית. על מנת לדווח על תקלה זו ל-MIUI, עבור אל יישום 'משוב' ושלח יומן שגיאות ממכשירך."</string>
     <string name="lock_all_title">נעילת כל האפליקציות</string>
     <string name="lock_mode_title">הגדרות נעילה</string>
@@ -1553,6 +1571,7 @@
     <string name="memory_check_content">%s התפנו</string>
     <string name="memory_clean_memory_size_tip">מטמון</string>
     <string name="memory_clean_no_need_clean">הכל נראה תקין</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">נוקה נפח זיכרון של %s. עכשיו המכשיר שלך מהיר יותר ב-%d%%.</string>
     <string name="memory_clear_unused">ניקוי מטמון (%s)</string>
     <string name="memory_title">זמין: %1$s\u0009\u0009סה\"כ: %2$s</string>
     <string name="menu_add">הוספה</string>
@@ -1593,11 +1612,14 @@
     <string name="menu_summary_antivirus">סרוק אם יש וירוסים במכשירך</string>
     <string name="menu_summary_app_manager">עדכון והסרת יישומים</string>
     <string name="menu_summary_garbage_cleanup">אין אשפה</string>
-    <string name="menu_summary_garbage_cleanup_ex">נקה קובצי זבל בנפח %s</string>
+    <string name="menu_summary_garbage_cleanup_ex">נקה %s</string>
+    <string name="menu_summary_garbage_cleanup_new">%d%% משטח האחסון</string>
     <string name="menu_summary_networkassistants">נהל את תכנית הנתונים שלך</string>
     <string name="menu_summary_networkassistants_2">חריגה ממגבלת הנתונים</string>
     <string name="menu_summary_networkassistants_3">נותר מספיק נפח גלישה</string>
     <string name="menu_summary_networkassistants_4">חבילת הגלישה נגמרת</string>
+    <string name="menu_summary_optimize_manage">נקה זיכרון</string>
+    <string name="menu_summary_optimize_manage_1">האץ את מכשירך ב-%d%%</string>
     <string name="menu_summary_power_manager">מצב חיסכון בסוללה מאפשר זמן שימוש ארוך יותר בין טעינות</string>
     <string name="menu_summary_power_manager_1">הסוללה טעונה במלואה</string>
     <string name="menu_summary_power_manager_2">%s נותרו</string>
@@ -1606,16 +1628,20 @@
     <string name="menu_text_antispam">רשימת החסומים</string>
     <string name="menu_text_antivirus">סריקת אבטחה</string>
     <string name="menu_text_garbage_cleanup">מנקה</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">הרשאות</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">האצת מהירות</string>
+    <string name="menu_text_optimize_manage_1">האצת מהירות</string>
     <string name="menu_text_power_manager">סוללה וביצועים</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">הסרה מרשימת החריגים</string>
     <string name="menu_white">הוספה לרשימת החריגים</string>
     <string name="mi_service_app_detail">פרטי השימוש בנתונים</string>
@@ -1774,6 +1800,8 @@
     <string name="om_locked_apps_summary">האצת מהירות תתעלם מיישומים נעולים.</string>
     <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">נדרשת האצת מהירות</string>
+    <string name="om_optimzing_big_button_text">האץ את המכשיר</string>
+    <string name="om_running_app_info_summary">נקה %s</string>
     <string name="om_running_locked_apps">נעל יישומים פעילים</string>
     <string name="om_running_system_apps">יישומי מערכת פעילים</string>
     <string name="om_running_third_apps">הפעל יישומי צד שלישי</string>
@@ -1788,6 +1816,13 @@
     <string name="om_settings_notify_manage">התראות</string>
     <string name="om_settings_speed_up_auto">האצת מהירות אוטומטית</string>
     <string name="om_settings_title">הגדרות</string>
+    <string name="om_shortcut_added_toast_text">נוסף בהצלחה</string>
+    <string name="om_shortcut_dialog_summary">RAM Jet מאפשר לנקות זיכרון ולהאיץ את המכשיר בהקשה אחת. להוסיף את RAM Jet למסך הבית?</string>
+    <string name="om_shortcut_dialog_title">RAM Jet</string>
+    <string name="once_settings_camera_ttile">שתף ללא מטא-נתונים</string>
+    <string name="once_settings_location_title">שתף ללא פרטי מיקום</string>
+    <string name="once_settings_subtitle">איך תרצה לשתף את הפריטים שנבחרו?</string>
+    <string name="once_settings_title">הגנת פרטיות</string>
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">היישום לא נמצא</string>
     <string name="open_app">פתח</string>
@@ -1994,6 +2029,11 @@
     <string name="power_center_dialog_msg_top">כאשר צריכת הבטריה מופעלת, MIUI יבצע את פעולות האופטימיזציה הבאות:</string>
     <string name="power_center_hints_scan_danger_result">ניתן לתקן בעיות בסוללה עכשיו</string>
     <string name="power_center_list_item_auto_brightness">התאמת בהירות אוטומטית</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">V %s</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_capacity">מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">"ש'"</string>
     <string name="power_center_list_item_close_bluetooth">כיבוי Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">הגדרות מתקדמות</string>
@@ -2170,6 +2210,7 @@
     <string name="pref_normal_traffic_limit">כאשר תכנית הנתונים מנוצלת עד לתומה</string>
     <string name="pref_open_adjust_traffic">עדכן את השימוש בנתונים בכל יום על פי סטטיסטיקות מספק הרשת שלך</string>
     <string name="pref_operator_not_set">ספק הרשת אינו מוגדר</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">כאשר הינך חורג מתכנית הנתונים שלך</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_pkg_begin_date">תאריך איפוס שימוש</string>
@@ -2332,6 +2373,7 @@
     <string name="privacy_using_record">הקלטת שמע</string>
     <string name="privacyapp_number_masked_text">תוכן ההתראות מוסתר</string>
     <string name="privacyapp_number_unmasked_text">ניתן להסתיר את תוכן ההתראות</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="process_vpnsdkmanager_label">מאיץ המשחקים</string>
     <string name="promotion">פרסומת</string>
@@ -2469,10 +2511,18 @@
     <string name="settings">הגדרות שימוש בנתונים</string>
     <string name="settings_battery_consume_abnormal_summary">קבל התראות כאשר הסוללה מתרוקנת במהירות</string>
     <string name="settings_battery_consume_abnormal_title">התראות התרוקנות הסוללה</string>
+    <string name="settings_camera_subtitle_no">אין מטא-נתונים</string>
     <string name="settings_category_other">הגדרות נוספות</string>
     <string name="settings_category_overheat">התחממות</string>
     <string name="settings_choice_no_notification">כבה</string>
+    <string name="settings_image_camera_summary">"דגם המכשיר, מטא-נתונים וכד'"</string>
+    <string name="settings_location_subtitle_no">אין פרטי מיקום</string>
     <string name="settings_power_save_ontime_title">תזמון</string>
+    <string name="settings_share_enable_summary">הפריטים שתשתף באמצעות WeChat יופיעו עם התג של MIUI</string>
+    <string name="settings_share_info">כאן מופיעות אפשרויות השיתוף המאובטח הזמינות עבור שיתוף פריטים מהגלריה וממנהל הקבצים:</string>
+    <string name="settings_show_detail">הצג פרטים</string>
+    <string name="settings_tip">עבור אל גלריה > הגדרות לצפייה באפשרויות נוספות</string>
+    <string name="settings_title">שיתוף מאובטח</string>
     <string name="shield_keyboard_detail">הקש הקשה כפולה על הלחצנים על מנת להפעילם מחדש</string>
     <string name="shield_keyboard_summary">הגבל לחצנים ומחוות מסך מלא כאשר אתה משחק</string>
     <string name="shield_keyboard_title">הגבל מחוות ולחצנים</string>
@@ -2930,6 +2980,8 @@
     <string name="text_button">הבנתי</string>
     <string name="text_cycle_day">%s</string>
     <string name="text_day" />
+    <string name="text_done">אישור</string>
+    <string name="text_security">פרטיות</string>
     <string name="thermal_tips_message">"משחק במצב 'ביצועים' עשוי להוביל לבעיות התחממות."</string>
     <string name="thermal_tips_title">שים לב</string>
     <string name="third_application">יישומים מותקנים</string>

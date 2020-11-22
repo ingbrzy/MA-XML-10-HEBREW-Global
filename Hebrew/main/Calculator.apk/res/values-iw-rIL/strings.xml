@@ -43,6 +43,7 @@
     <string name="convert_currency">ממיר מטבע</string>
     <string name="convertion_unit">ממיר יחידות</string>
     <string name="convertion_unit_area">ממיר שטח</string>
+    <string name="convertion_unit_data">ממיר נתונים</string>
     <string name="convertion_unit_length">ממיר אורך</string>
     <string name="convertion_unit_radix">מערכות ספרתיות</string>
     <string name="convertion_unit_temperature">ממיר טמפרטורה</string>
@@ -52,6 +53,7 @@
     <string name="convertion_unit_weight">ממיר מסה</string>
     <string name="cos">cos</string>
     <string name="cosDesc">קוסינוס</string>
+    <string name="currency_dialog_privacy_content">&lt;Data>ממיר המטבעות צריך להתחבר לאינטרנט כדי לקבל את שערי החליפין המעודכנים. עליך לקרוא את &lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ואת &lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו ולהסכים אתם כדי להשתמש במאפיין זה.&lt;/Data></string>
     <string name="currency_update_connect_to_get_data">שערי החליפין מסופקים על-ידי Webull. יש להתחבר לאינטרנט כדי לקבל מידע עדכני.</string>
     <string name="currency_update_support">שערי החליפין מסופקים על-ידי Webull.</string>
     <string name="currency_update_time_format">שערי החליפין מסופקים על ידי Webull (%s)</string>
@@ -65,7 +67,7 @@
     <string name="description_content">"מלבד התכונות הבסיסיות שלו, ה'מחשבון' עובד גם כממיר רב שימושי וכמחשבון משכנתא ומס. ודא כי ביכולתך להסתדר ללא תכונות אלה לפני הסרת היישום."</string>
     <string name="description_title">"אודות 'מחשבון'"</string>
     <string name="devided_by_zero_reminder_message">לא ניתן לחלק באפס</string>
-    <string name="dialog_privacy_content">מלבד התכונות הבסיסיות של אפליקציית מחשבון, האפליקציה שלנו מכיל גם מחשבון מדעי ממיר רב תכליתי. מספר תכונות של אפליקציה זו נזקקות לחיבור אינטרנט כדי לעבוד באופן מיטיבי. אתה חייב לקרוא ולהסכים שלנו %1$s ו %2$s לפני שימוש במחשבון.</string>
+    <string name="dialog_privacy_content">&lt;Data>מעבר למאפיינים הבסיסיים של מחשבון, היישום שלנו מכיל גם מחשבון מדעי וממיר רב-תכליתי. חלק מהמאפיינים זקוקים לחיבור לאינטרנט כדי לעבוד כנדרש. עליך לקרוא את &lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ואת &lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו ולהסכים אתם כדי להשתמש במחשבון.&lt;/Data></string>
     <string name="dialog_privacy_title">תנאים והתניות</string>
     <string name="dialog_rating_desc_ask">"כיצד אתה מרגיש לגבי 'המחשבון'?"</string>
     <string name="dialog_rating_desc_less">האם תוכל לשלוח גם לנו משוב?</string>
@@ -83,6 +85,7 @@
     <string name="digit9">9</string>
     <string name="divDesc">חילוק</string>
     <string name="dob_selection_error">תאריך הלידה חייב להיות מוקדם יותר מהתאריך של היום</string>
+    <string name="dont_allow">לא מסכים</string>
     <string name="dotDesc">נקודה</string>
     <string name="e">e</string>
     <string name="eDesc">קבוע אוילר</string>
@@ -127,17 +130,23 @@
     <string name="install">התקנה</string>
     <string name="install_scanner_to_continued_use">"התקנת ה'סורק' הוסרה. להתקין שוב?"</string>
     <string name="interest_rate_hint">הזן את שיעור הריבית</string>
+    <string name="investment_invalid_duration">משך ההשקעה חייב להיות גדול מ-0</string>
+    <string name="investment_type_once">חד-פעמי</string>
+    <string name="investment_type_recurring">חוזר</string>
+    <string name="item_page_title_investment">מחשבון השקעה</string>
     <string name="item_title_aa_payment">חלוקת חשבון</string>
     <string name="item_title_age">גיל</string>
     <string name="item_title_area_conversion">שטח</string>
     <string name="item_title_bmi">BMI</string>
     <string name="item_title_calculator">מחשבון</string>
     <string name="item_title_currency">מטבע</string>
+    <string name="item_title_data_conversion">נתונים</string>
     <string name="item_title_date_calculator">תאריך</string>
     <string name="item_title_discount">הנחה</string>
     <string name="item_title_dress_size">מידת ביגוד</string>
     <string name="item_title_emi">מחשבון הלוואות</string>
     <string name="item_title_gst">GST</string>
+    <string name="item_title_investment">השקעה</string>
     <string name="item_title_length_conversion">אורך</string>
     <string name="item_title_loan">הלוואה</string>
     <string name="item_title_mortgage">משכנתא</string>
@@ -162,17 +171,21 @@
     <string name="label_from_date">החל מ-</string>
     <string name="label_history">היסטוריה</string>
     <string name="label_interest">ריבית (באחוזים)</string>
+    <string name="label_investment_duration">משך</string>
     <string name="label_loan_tenure">תקופת ההלוואה</string>
     <string name="label_months">חודשים</string>
     <string name="label_no_history">עדיין אין כאן פריטים</string>
+    <string name="label_powered_by">מופעל על ידי מחשבון Mi</string>
     <string name="label_principal">קרן</string>
     <string name="label_share">שתף</string>
     <string name="label_start_date">תאריך התחלה</string>
     <string name="label_statistics">נתונים סטטיסטיים</string>
     <string name="label_to_date">עד</string>
     <string name="label_total_interest">ריבית כוללת</string>
+    <string name="label_total_investment">השקעה כוללת</string>
     <string name="label_total_payment">תשלום כולל</string>
     <string name="label_total_principal">סך הקרן</string>
+    <string name="label_total_value">ערך כולל</string>
     <string name="label_years">שנים</string>
     <string name="leftParen">(</string>
     <string name="leftParenDesc">סוגר שמאלי</string>
@@ -388,6 +401,9 @@
     <string name="tax_unemployment">אבטלה</string>
     <string name="tax_update_time_format">הנתונים מסופקים על ידי HeXun (%s)</string>
     <string name="times" />
+    <string name="tv_recurrence_monthly">חודשי</string>
+    <string name="tv_recurrence_quaterly">רבעוני</string>
+    <string name="tv_recurrence_yearly">שנתי</string>
     <string name="unKnow_error">שגיאה לא ידועה</string>
     <string name="unit_cm">ס\"מ</string>
     <string name="unit_data_display_area_acre">אקר</string>
@@ -426,6 +442,7 @@
     <string name="unit_data_display_currency_btn">נגולטרום בהוטני</string>
     <string name="unit_data_display_currency_bwp">פוּלה בוטסואנית</string>
     <string name="unit_data_display_currency_byn">רובל בלרוסי</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">דולר קנדי</string>
     <string name="unit_data_display_currency_cdf">פרנק קונגולזי</string>
     <string name="unit_data_display_currency_chf">פרנק שווייצרי</string>
@@ -517,6 +534,12 @@
     <string name="unit_data_display_currency_yer">ריאל תימני</string>
     <string name="unit_data_display_currency_zar">ראנד דרום אפריקאי</string>
     <string name="unit_data_display_currency_zmw">"קוואצ'ה זימבבואית"</string>
+    <string name="unit_data_display_data_b">בייט</string>
+    <string name="unit_data_display_data_gb">"ג'יגה-בייט"</string>
+    <string name="unit_data_display_data_kb">קילו-בייט</string>
+    <string name="unit_data_display_data_mb">מגה-בייט</string>
+    <string name="unit_data_display_data_pb">פטה-בייט</string>
+    <string name="unit_data_display_data_tb">טרה-בייט</string>
     <string name="unit_data_display_length_au">מידה אסטרונומית</string>
     <string name="unit_data_display_length_chi">"שליש מטר (צ'י)"</string>
     <string name="unit_data_display_length_cm">סנטימטר</string>
@@ -625,6 +648,12 @@
     <string name="unit_data_short_area_sq.rd">rd²</string>
     <string name="unit_data_short_area_sq.um">μm²</string>
     <string name="unit_data_short_area_sq.yd">yd²</string>
+    <string name="unit_data_short_data_b">B</string>
+    <string name="unit_data_short_data_gb">GB</string>
+    <string name="unit_data_short_data_kb">KB</string>
+    <string name="unit_data_short_data_mb">MB</string>
+    <string name="unit_data_short_data_pb">PB</string>
+    <string name="unit_data_short_data_tb">TB</string>
     <string name="unit_data_short_length_au">⊙</string>
     <string name="unit_data_short_length_chi">chi</string>
     <string name="unit_data_short_length_cm">ס\"מ</string>
@@ -749,8 +778,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">לא להתחבר להורדות. בדוק אם יישום זה מכיל את כל ההרשאות הנדרשות בהגדרות > תחת יישומים מותקנים.</string>
     <string name="xiaomi_external_storage_unavailable">אחסון לא זמין. בדוק את כרטיס SD שלך.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"מציגים את גרסה %1$s
 גודל: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"מציגים את גרסה %1$s

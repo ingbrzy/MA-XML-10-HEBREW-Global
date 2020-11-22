@@ -98,13 +98,6 @@
     <string name="dual_animation">הפעל הנפשה</string>
     <string name="dual_animation_description">הצג הנפשה כאשר שני יישומים מופעלים</string>
     <string name="enable">הפעל</string>
-    <string name="encrypt_space_delete_dialog_click_message">*במידה ואינך צריך להעביר נתונים, %s</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">"מחק וצור את 'שטח שני' כעת."</string>
-    <string name="encrypt_space_delete_dialog_message">אתה עומד לעדכן את המערכת. אחרי העדכון לא תהיה תאימות בין הנתונים בין השטח המשני למערכת. כדי למנוע בעיה זו העבר את כל הנתונים לשטח ראשון, מחק את המשטח השני וצור אותו מחדש.</string>
-    <string name="encrypt_space_delete_dialog_positive_text">העברת נתונים</string>
-    <string name="encrypt_space_delete_dialog_title">שים לב</string>
-    <string name="encrypt_space_delete_notification_message">"מחק את 'שטח שני' שלך וצור אחד חדש על מנת לעדכן את מכשירך בהצלחה."</string>
-    <string name="encrypt_space_delete_notification_title">שטח שני</string>
     <string name="ent_activating">מפעיל…</string>
     <string name="ent_activation">הפעל</string>
     <string name="ent_activation_hint">הזן את קוד הארגון שלך לצד קוד הרישיון כדי להפעיל את המצב הארגוני. לאחר מכן יופעלו שירותים ארגוניים מותאמים אישית.</string>
@@ -188,7 +181,6 @@
     <string name="guide_pwd_detail_title">"הגן על הנתונים שלך
 היכנס ל'שטח שני' מ'מסך הנעילה'"</string>
     <string name="guide_setting_guide_title">"נהל את 'שטח שני'"</string>
-    <string name="guide_start_ads_text">רמת אבטחה חדשה לגמרי</string>
     <string name="guide_start_text">שני שטחים. מכשיר אחד.</string>
     <string name="has_created_second_space">"באפשרותך לפתוח את 'שטח שני' כעת.
 שני שטחים, מכשיר אחד."</string>
@@ -226,6 +218,14 @@
     <string name="master_clear_not_available_ep">אין לך רשות לאפס להגדרות המפעל או למשוך את ההרשאה שלך עכשיו. צור קשר עם הממונה עליך.</string>
     <string name="menu_item_about_privacy_title">מדיניות הפרטיות</string>
     <string name="messageData">הודעות</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">משוך כלפי מטה כדי לרענן</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">רוענן בהצלחה</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">מרענן…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">שחרר כדי לרענן</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">זה הכול לעכשיו</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">זה הכול לעכשיו</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">רק רגע…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">לא ניתן היה לטעון פריטים</string>
     <string name="more_settings">עוד</string>
     <string name="msg_switch_file">"למחוק קבצים אלו מ'שטח ראשון' לאחר שהועברו?"</string>
     <string name="msg_switch_file_second">"למחוק קבצים אלו מ'שטח שני' לאחר שהועברו?"</string>
@@ -256,7 +256,6 @@
     <string name="openPasswordGuard">"הגדר את סיסמת 'שטח שני'"</string>
     <string name="openSuccess">מופעל</string>
     <string name="opened">מופעל</string>
-    <string name="optimize_now">ייעול</string>
     <string name="other">אחר</string>
     <string name="otherSettings">הגדרות נוספות</string>
     <string name="passWordGuardSummary">"היכנס ל'שטח שני' מ'מסך הנעילה' על ידי שימוש בסיסמה"</string>
@@ -279,8 +278,6 @@
     <string name="remove_button">מחק</string>
     <string name="remove_button_time">מחק (%d)</string>
     <string name="remove_second_space_msg">"כל נתוני היישומים ב'שטח שני' יאבדו לאחר שתמחק את 'שטח שני'. למחוק את 'שטח שני' כעת?"</string>
-    <string name="remove_user_click_message">"*במידה ואין לך פריטים חשובים ב'שטח שני', %s"</string>
-    <string name="remove_user_click_message_action">"באפשרותך להסיר את 'שטח שני' ולאתחל את מכשירך כעת."</string>
     <string name="removingSpace">מוחק…</string>
     <string name="repeat_scanner_fingerprint">הוסף שוב</string>
     <string name="reset_passwd_success">הסיסמה אופסה בהצלחה</string>
@@ -304,14 +301,6 @@
     <string name="scanner_fingerprint_tips_desc">"בחר טביעת אצבע קיימת על מנת להיכנס ל'שטח שני'. לא תוכל להשתמש בה עבור 'שטח ראשון'."</string>
     <string name="scanner_fingerprint_tips_title">"היכנס ל'שטח שני' באמצעות שימוש בטביעת אצבע קיימת"</string>
     <string name="scanner_second_space_fingerprint">"סרוק את טביעת האצבע של 'שטח שני'"</string>
-    <string name="sdcardfs_dialog_message">בעדכון זה מושקת מערכת קבצים חדשה. ייתכן שלא תהיה תאימות בין הנתונים הישנים למערכת החדשה. כדי לפתור את הבעיה הזו, בצע את הצעדים הנדרשים להתקנת עדכון. במהלך עדכון זה המכשיר שלך יבצע אתחול פעמיים.</string>
-    <string name="sdcardfs_dialog_title">עדכון חשוב</string>
-    <string name="sdcradfs_dialog_in_owner_message">"בעדכון זה מושקת מערכת קבצים חדשה. ייתכן שלא תהיה תאימות בין הנתונים הישנים למערכת החדשה. כדי לבצע עדכון העבר את הפריטים משטח משני, אתחל את המכשיר וצור שוב את שטח משני. 
-אם לא תעדכן, ייתכן שגם האפליקציות הכפולות לא יעבדו כנדרש."</string>
-    <string name="sdcradfs_dialog_in_owner_title">שטח שני</string>
-    <string name="sdcradfs_dialog_in_sec_message">"על מנת לבצע עדכון, עליך למחוק את 'שטח שני' שלך ואז ליצור אותו שוב. העבר את הנתונים מ'שטח שני' אל 'שטח ראשון' ואתחל את מכשירך על מנת להשלים את העדכון.
-במידה ולא תבצע עדכון, יישומים משוכפלים עשויים שלא לעבוד כראוי גם כן."</string>
-    <string name="sdcradfs_dialog_in_sec_title">עדכון חשוב</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">לא נמצאו יישומים</string>
     <string name="secondSpace">שטח שני</string>
@@ -321,6 +310,8 @@
     <string name="second_space_desktop_tips_dialog_title">עדכון חשוב</string>
     <string name="second_space_finger_printf_desc">"הוסף טביעת אצבע שתשמש לכניסה ל'שטח שני' בלבד"</string>
     <string name="second_space_finger_printf_title">"טביעת אצבע של 'שטח שני'"</string>
+    <string name="secondspace_homepage">"הגדר נעילת מסך ייעודית לשטח השני.
+הפרד ואבטח את הנתונים שלך."</string>
     <string name="select_existed_fingerprint">בחר טביעת אצבע</string>
     <string name="serNameSummary">שטח שני</string>
     <string name="setSecondSpacePassword">"הגדר את סיסמת 'שטח שני'"</string>
@@ -378,7 +369,6 @@
     <string name="space_create_guide_title_1">הגנה על הפרטיות שלך</string>
     <string name="space_create_guide_title_2">יצירה בכל עת</string>
     <string name="space_create_guide_title_3">בטוח לחלוטין</string>
-    <string name="space_created_success">"'שטח שני' נוצר בהצלחה"</string>
     <string name="space_deleted">שטח זה נמחק</string>
     <string name="space_des_default">שטח מבודד בעל נתונים מוצפנים</string>
     <string name="space_finger_sub_text">"הגדר טביעת אצבע עבור 'שטח שני' על מנת לבצע חילוף מהיר יותר"</string>
@@ -393,7 +383,6 @@
     <string name="stop_xspace_alert_content">האם למחוק את כל האפליקציות הכפולות יחד עם החשבונות שלהם ואת נתוני האפליקציה? המכשיר יאותחל על מנת להחיל שינוי זה.</string>
     <string name="stop_xspace_alert_title">מחק חשבונות של יישומים משוכפלים</string>
     <string name="summary_switch_apps_settings">בחר יישומים שנעשה בהם שימוש בשטח הנוכחי</string>
-    <string name="support_desc">שירותי האבטחה מסופקים על ידי Spaces Mobile</string>
     <string name="sure_to_use">אשר</string>
     <string name="switchDataSummary">העבר פריטים בין השטחים</string>
     <string name="switch_apps_settings">הגדרות יישומים</string>

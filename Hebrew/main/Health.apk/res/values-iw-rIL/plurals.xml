@@ -74,9 +74,21 @@
     </plurals>
     <plurals name="day_index">
         <item quantity="other">%1$d ימים</item>
-        <item quantity="one">%1$d יום</item>
+        <item quantity="one">יום אחד</item>
         <item quantity="two">%1$d ימים</item>
         <item quantity="many">%1$d ימים</item>
+    </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Period duration: %1$d days</item>
+        <item quantity="one">Period duration: %1$d day</item>
+        <item quantity="two">Period duration: %1$d days</item>
+        <item quantity="many">Period duration: %1$d days</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Cycle duration: %1$d days</item>
+        <item quantity="one">Cycle duration: %1$d day</item>
+        <item quantity="two">Cycle duration: %1$d days</item>
+        <item quantity="many">Cycle duration: %1$d days</item>
     </plurals>
     <plurals name="dialog_choose_items">
         <item quantity="other">Selected %1$d items</item>
@@ -144,6 +156,12 @@
         <item quantity="two">%1$d steps</item>
         <item quantity="many">%1$d steps</item>
     </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d cycles</item>
+        <item quantity="one">%1$d cycle</item>
+        <item quantity="two">%1$d cycles</item>
+        <item quantity="many">%1$d cycles</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
         <item quantity="one">לפני חצי שעה</item>
@@ -191,6 +209,12 @@
         <item quantity="one">ממש עכשיו</item>
         <item quantity="two">ממש עכשיו</item>
         <item quantity="many">ממש עכשיו</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Period will likely start in %1$d days</item>
+        <item quantity="one">Period will likely start in %1$d day</item>
+        <item quantity="two">Period will likely start in %1$d days</item>
+        <item quantity="many">Period will likely start in %1$d days</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">יום %1$d למחזור</item>
@@ -359,6 +383,42 @@
         <item quantity="one">" יום"</item>
         <item quantity="two">" ימים"</item>
         <item quantity="many">" ימים"</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" cycles"</item>
+        <item quantity="one">" cycle"</item>
+        <item quantity="two">" cycles"</item>
+        <item quantity="many">" cycles"</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="other">" hrs "</item>
+        <item quantity="one">" hr "</item>
+        <item quantity="two">" hrs "</item>
+        <item quantity="many">" hrs "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" hours "</item>
+        <item quantity="one">" hour "</item>
+        <item quantity="two">" hours "</item>
+        <item quantity="many">" hours "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" mins "</item>
+        <item quantity="one">" min "</item>
+        <item quantity="two">" mins "</item>
+        <item quantity="many">" mins "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" minutes "</item>
+        <item quantity="one">" minute "</item>
+        <item quantity="two">" minutes "</item>
+        <item quantity="many">" minutes "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" secs "</item>
+        <item quantity="one">" sec "</item>
+        <item quantity="two">" secs "</item>
+        <item quantity="many">" secs "</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" times"</item>

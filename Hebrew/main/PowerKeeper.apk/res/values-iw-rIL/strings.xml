@@ -54,6 +54,14 @@
     <string name="lasttime_applist_cloud">יישומים מעודכנים:</string>
     <string name="lasttime_feature_cloud">תכונות מעודכנות:</string>
     <string name="message_i_know">הבנתי</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">משוך כלפי מטה כדי לרענן</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">רוענן בהצלחה</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">מרענן…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">שחרר כדי לרענן</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">זה הכול לעכשיו</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">זה הכול לעכשיו</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">רק רגע…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">לא ניתן היה לטעון פריטים</string>
     <string name="nonui_mode_config_description">הימנע מהארת המסך עבור התראות, כבה את תאורת ה-LED, את חיישן טביעת האצבע ואת לחצני השליטה במגע על מנת לחסוך בשימוש בסוללה כאשר מערכת MIUI תזהה שאינך משתמש במכשירך.</string>
     <string name="nonui_mode_config_title">"מצב 'לא אינטראקטיבי'"</string>
     <string name="notification_exit_extreme_mode_text">אחוז טעינת הסוללה עולה על %s</string>

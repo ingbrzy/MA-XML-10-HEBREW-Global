@@ -60,6 +60,12 @@
         <item quantity="two">נפתח מנעילה %d פעמים</item>
         <item quantity="many">נפתח מנעילה %d פעמים</item>
     </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">ביטול נעילה %1$d פעמים ב-%2$s</item>
+        <item quantity="one">ביטול נעילה פעם %1$d ב-%2$s</item>
+        <item quantity="two">ביטול נעילה %1$d פעמים ב-%2$s</item>
+        <item quantity="many">ביטול נעילה %1$d פעמים ב-%2$s</item>
+    </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">נפתח מנעילה %d פעמים</item>
         <item quantity="one">נפתח מנעילה פעם אחת (%d)</item>

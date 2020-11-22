@@ -10,7 +10,6 @@
     <string name="back_up_task_in_process">מגבה…</string>
     <string name="back_up_task_unfinished">לא ניתן היה לגבות</string>
     <string name="backing_up_to_micloud">מגבה…</string>
-    <string name="backup_fail_wifi_needed">לא ניתן היה לבצע גיבוי, דרוש חיבור לרשת האלחוטית.</string>
     <string name="backup_failed_reason_cloud_space_not_enough">אין מספיק שטח אחסון על גבי Xiaomi Cloud שדרג את התכנית שלך או פנה שטח אחסון.</string>
     <string name="backup_failed_reason_disk_space_not_enough">אין מספיק שטח אחסון זמין. ראשית, פנה קצת שטח אחסון.</string>
     <string name="backup_failed_reason_network_error">שגיאת רשת. המתן דקה או שתיים ונסה שוב.</string>
@@ -31,6 +30,7 @@
     <string name="btn_restore_resume">המשך</string>
     <string name="btn_restore_retry">נסה שוב</string>
     <string name="btn_restore_wait">המתן לחיבור רשת אלחוטית</string>
+    <string name="btn_restore_wait_china">Wait for WLAN</string>
     <string name="btn_retry">בדוק שוב</string>
     <string name="btn_skip">דלג על שלב זה</string>
     <string name="button_cancel">ביטול</string>
@@ -60,10 +60,15 @@
 *  גדרת התראות 
 *   Miui והגדרות מערכת 
 \"הערה: נתונים עבור יישומים שהתקנת לא יגובו על גבי שירות Xiaomi Cloud."</string>
+    <string name="cloud_back_up_detail_discription_china">"These items will be backed up to Xiaomi Cloud when your device is connected to WLAN: 
+*  Apps, Home screen layout, and wallpapers 
+*  Alarm, clock, and time settings 
+*  Notification settings 
+*  MIUI and system settings 
+Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">גיבוי מתוזמן</string>
     <string name="cloud_back_up_frequence_long">כל 7 ימים</string>
     <string name="cloud_back_up_frequence_short">כל יום</string>
-    <string name="cloud_back_up_no_network_warn">לא ניתן להתחבר לרשת אלחוטית</string>
     <string name="cloud_back_up_ok_btn">אישור</string>
     <string name="cloud_back_up_opening">רק רגע…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">שדרוג</string>
@@ -76,6 +81,7 @@
     <string name="cloud_backup_detail_manage">נהל גיבויים</string>
     <string name="cloud_backup_detail_state">גיבויים אוטומטיים</string>
     <string name="cloud_backup_detail_state_summary">צור גיבויי Xiaomi Cloud באופן אוטומטי בעת חיבור לרשת האלחוטית.</string>
+    <string name="cloud_backup_detail_state_summary_china">Create Xiaomi Cloud backups automatically when connected to WLAN.</string>
     <string name="cloud_backup_detail_time">גיבוי אחרון: %1$s</string>
     <string name="cloud_backup_detail_title">"'מסך הבית', יישומים והגדרות."</string>
     <string name="cloud_backup_have_data">נמצא גיבוי ב Xiaomi Cloud</string>
@@ -110,7 +116,9 @@
     <string name="dialog_cancel_backup_title">לבטל את הגיבוי הנוכחי?</string>
     <string name="dialog_msg_overwrite_backup">גיבוי מקומי שונה מגיבוי Xiaomi Cloud. אם תמשיך, גיבוי נוכחי יחליף את הגיבוי הקודם.</string>
     <string name="dialog_msg_restore_require_wlan">שחזור גיבויים מצריך חיבור לרשת אלחוטית.</string>
+    <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
     <string name="dialog_title_require_wlan">התחבר לרשת אלחוטית</string>
+    <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">מחשב גודל…</string>
     <string name="doing_restore_home">"משחזר את 'מסך הבית' וההגדרות…"</string>
@@ -124,6 +132,7 @@
     <string name="error_retry_later">לא ניתן היה לסיים את הפעולה. המתן דקה או שתיים ונסה שוב…</string>
     <string name="error_unknown">משהו השתבש</string>
     <string name="get_device_id_error">לא ניתן היה להשיג את מזהה המכשיר</string>
+    <string name="help_and_feedback">עזרה ומשוב</string>
     <string name="hint_restore_cross_space">פריסת מסך הבית עלולה להיות מוצגת באופן שגוי אם תעביר את הפרטים בין השטחים השונים.</string>
     <string name="home_hint_global_launcher">משגר היישומים POCO</string>
     <string name="home_hint_other_launcher">משגר יישומים אחר</string>
@@ -149,11 +158,10 @@
     <string name="notification_channel_remind">תזכורת</string>
     <string name="notification_channel_service">שירות</string>
     <string name="open_backup_switch">לחץ על מתג הגיבוי</string>
-    <string name="open_wifi">הפעל את החיבור לרשת האלחוטית כעת</string>
-    <string name="open_wifi_description">התחבר לרשת אלחוטית על מנת לשחזר את היישום</string>
-    <string name="open_wifi_setting">הגדרות רשת אלחוטית</string>
     <string name="other_device_main_space">שטח ראשון</string>
     <string name="other_device_second_space">שטח משני</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>
     <string name="provision_background_restore_more_data">שחזר יותר פריטים ברקע</string>
     <string name="provision_error_connect_msg">בדוק את הרשת ונסה שוב. הגיבויים אינם זמינים כאשר מכשירך נמצא במצב לא מקוון.</string>
@@ -180,7 +188,6 @@
     <string name="restore_app_order_search_prior">יישומים בעדיפות גבוהה</string>
     <string name="restore_app_order_title">פריטים משוחזרים בעדיפות</string>
     <string name="restore_cloud_backup_to_phone">שחזר פריטים מ Cloud</string>
-    <string name="restore_data_summary">תכונה זו זקוקה לחיבור לאינטרנט.</string>
     <string name="restore_data_title">שחזור נתונים</string>
     <string name="restore_detail_category_apps">פריסת מסך הבית &amp; יישומים</string>
     <string name="restore_detail_category_settings">הגדרות</string>

@@ -12,6 +12,12 @@
         <item quantity="two">לחץ והחזק כל אזור על האוזניות בו יש רגישות למגע למשך %1$d שניות</item>
         <item quantity="many">לחץ והחזק כל אזור על האוזניות בו יש רגישות למגע למשך %1$d שניות</item>
     </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">לחץ והחזק את הכפתור למשך %1$s שניות כאשר המכשיר מכובה</item>
+        <item quantity="one">לחץ והחזק את הכפתור למשך שנייה %1$s כאשר המכשיר מכובה</item>
+        <item quantity="two">לחץ והחזק את הכפתור למשך %1$s שניות כאשר המכשיר מכובה</item>
+        <item quantity="many">לחץ והחזק את הכפתור למשך %1$s שניות כאשר המכשיר מכובה</item>
+    </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">מחוברים %1$d מכשירים</item>
         <item quantity="one">מחובר מכשיר %1$d</item>

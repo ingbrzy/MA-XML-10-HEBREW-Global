@@ -20,6 +20,12 @@
         <item>גיבוי הגדרות חשובות, כולל הרשת האלחוטית והתצוגה</item>
         <item>נעילת מכשירך מרחוק במקרה של אובדן</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Lock your device remotely if it's lost"</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>סנכרון נתוני יישום</item>
         <item>"גיבוי פריסת 'מסך הבית'"</item>
@@ -98,6 +104,11 @@
         <item>הפעל סנכרון</item>
         <item>כספת יישומים;כרטיסים;ענן;סנכרון;שירותי ענן; Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>סנכרן תגובות מהירות</item>
+        <item>הפעל סנכרון</item>
+        <item>תשובות מהירות;לוח;עורך;ענן;סנכרון;שירותי ענן</item>
+    </string-array>
     <string-array name="settings_search_recorder">
         <item>סנכרן הקלטות עם- Xiaomi Cloud</item>
         <item>הפעל/הגדר סנכרון</item>
@@ -114,9 +125,9 @@
         <item>ענן;גיבוי;גיבוי;שחזור;שירותי ענן;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>סנכרן אבטחה עם Xiaomi Cloud</item>
+        <item>סנכרון ענן אבטחה</item>
         <item>הפעל סנכרון</item>
-        <item>אבטחה;ענן;סנכרון;שירותי ענן; Xiaomi Cloud</item>
+        <item>אבטחה;ענן;ענן Xiaomi;סנכרון;שירותי ענן</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>סנכרן הודעות עם Xioami Cloud</item>
@@ -137,6 +148,11 @@
         <item>סנכרון הגדרות Wi-Fi עם Xiaomi Cloud</item>
         <item>הפעל סנכרון</item>
         <item>WLAN;WI-FI;ענן;סנכרון;שירותי ענן; Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Turn on sync</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>הצג פריטים שסונכרנו</item>

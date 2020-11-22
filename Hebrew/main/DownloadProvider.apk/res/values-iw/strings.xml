@@ -9,6 +9,7 @@
     <string name="download_queued">בתור</string>
     <string name="download_remaining">%s נותרו</string>
     <string name="download_running">מתבצע</string>
+    <string name="download_running_percent">מתבצע, %s</string>
     <string name="download_unknown_title">‏&lt;ללא כותרת></string>
     <string name="notification_download_complete">ההורדה הסתיימה.</string>
     <string name="notification_download_failed">ההורדה נכשלה.</string>
@@ -29,12 +30,12 @@
     <string name="permlab_downloadWithoutNotification">הורד קבצים ללא התראה</string>
     <string name="permlab_seeAllExternal">‏הצג את כל ההורדות לאמצעי אחסון מסוג USB</string>
     <string name="root_downloads">הורדות</string>
-    <string name="wifi_recommended_body" formatted="false">"‏הפעלת הורדה זו (%s ) עשויה לקצר את חיי הסוללה שלך ו/או לגרום לניצול מופרז של חיבור הנתונים הנייד שלך, אשר עשוי להיות כרוך בחיוב מצד ספק השירות הנייד שלך, בהתאם לתוכנית הנתונים הרלוונטית.
+    <string name="wifi_recommended_body">"‏הפעלת הורדה זו (%1$s ) עשויה לקצר את חיי הסוללה שלך ו/או לגרום לניצול מופרז של חיבור הנתונים הנייד שלך, אשר עשוי להיות כרוך בחיוב מצד ספק השירות הנייד שלך, בהתאם לתוכנית הנתונים הרלוונטית.
 
-גע ב-%s כדי להתחיל בהורדה בפעם הבאה שתתחבר לרשת Wi-Fi."</string>
+גע ב-%2$s כדי להתחיל בהורדה בפעם הבאה שתתחבר לרשת Wi-Fi."</string>
     <string name="wifi_recommended_title">להוסיף לתור כדי להוריד מאוחר יותר?</string>
-    <string name="wifi_required_body" formatted="false">"‏עליך להשתמש ב-Wi-Fi כדי להשלים את ההורדה שגודלה %s . 
+    <string name="wifi_required_body">"‏עליך להשתמש ב-Wi-Fi כדי להשלים את ההורדה שגודלה %1$s . 
  
- גע ב-%s  כדי להפעיל את ההורדה בפעם הבאה שתתחבר לרשת Wi-Fi."</string>
+ גע ב-%2$s  כדי להפעיל את ההורדה בפעם הבאה שתתחבר לרשת Wi-Fi."</string>
     <string name="wifi_required_title">ההורדה גדולה מדי לרשת המפעיל</string>
 </resources>

@@ -6,8 +6,8 @@
     <string name="alert_message_delete_record">מחיקת ההקלטה ממכשירך תביא למחיקתה גם מ- Xiaomi Cloud. האם למחוק כעת?</string>
     <string name="alert_message_delete_record_title">למחוק הקלטה?</string>
     <string name="app_name">רשמקול</string>
-    <string name="app_record">App recordings</string>
-    <string name="app_record_preference_title">App recordings</string>
+    <string name="app_record">הקלטות יישום</string>
+    <string name="app_record_preference_title">הקלטות יישום</string>
     <string name="back">חזרה</string>
     <string name="button_queue_for_wifi">המתן</string>
     <string name="button_start_now">הורדה</string>
@@ -98,6 +98,7 @@
     <string name="network_unavailable_tip">התחבר לרשת ונסה שוב.</string>
     <string name="new_record_name">הקלטה חדשה</string>
     <string name="no_file">ריק</string>
+    <string name="no_network">"Couldn't connect to the network"</string>
     <string name="notification_message_all_paused">ממתין לחיבור רשת אלחוטית.</string>
     <string name="notification_playback">מנגן…</string>
     <string name="notification_recording">מקליט…</string>
@@ -208,7 +209,7 @@
     <string name="record_downloading_notification_count">%d מוריד</string>
     <string name="record_format_preference_title">פורמט הקלטה</string>
     <string name="record_list">הקלטות</string>
-    <string name="record_list_app">App recordings</string>
+    <string name="record_list_app">הקלטות יישום</string>
     <string name="record_list_call">שיחות מוקלטות</string>
     <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">הקלטות שסונכרנו</string>
@@ -226,6 +227,9 @@
     <string name="recording_quality_low">איכות נמוכה</string>
     <string name="recording_quality_standard">איכות רגילה</string>
     <string name="recording_stopped">עצר</string>
+    <string name="recovery">שחזר</string>
+    <string name="recovery_failed_dialog_button">הבנתי</string>
+    <string name="recovery_failed_dialog_title">לתשומת לבך</string>
     <string name="reg_error_audio_exist">קובץ זה קיים כבר.</string>
     <string name="reg_error_audio_large">קבצי שמע אינם גדולים מ 500 מגה.</string>
     <string name="reg_error_audio_short">קובץ שמע קטן מדיי.</string>
@@ -244,6 +248,7 @@
     <string name="rename_no_more_tip">אל תציג שוב</string>
     <string name="retry">נסה שוב</string>
     <string name="runtime_permission_ungranted">"לא ניתן להשתמש ב'רשמקול' עקב מחסור בהרשאות"</string>
+    <string name="save_record_dialog_title">שמור הקלטה</string>
     <string name="search_app">רשמקול</string>
     <string name="search_empty">לא נמצאו תוצאות</string>
     <string name="search_enable_earpiece_title">השתמש במקלט לנגינת קבצי שמע</string>
@@ -284,11 +289,14 @@
     <string name="text_play_speed_1_5">מהירות השמעה 1.5X</string>
     <string name="text_play_speed_2_0">מהירות השמעה 2X</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s יכול להקליט למשך כ- %2$s</string>
     <string name="toast_uninstall_fileexplorer">"'מנהל הקבצים' אינו מותקן"</string>
+    <string name="trash_box">פריטים שנמחקו לאחרונה</string>
+    <string name="trash_box_close_tip">סגור פעולה</string>
+    <string name="trash_box_delete_all">למחוק את כל הפריטים מסל המחזור לצמיתות?</string>
     <string name="usage_description">תמלול קובצי שמע וסנכרון פריטים עם הענן</string>
+    <string name="user_feedback">משוב</string>
     <string name="webview_check_network">הגדרות רשת</string>
     <string name="webview_data_error">התרחשה שגיאה</string>
     <string name="webview_locating_fail">לא ניתן היה לאתר את מיקומך</string>

@@ -83,6 +83,8 @@
     <string name="HIPS_Perm_get_tasks_Desc">לקבל גישה למשימות</string>
     <string name="HIPS_Perm_install_shortcut">קיצורי דרך במסך הבית</string>
     <string name="HIPS_Perm_install_shortcut_Desc">להוסיף קיצורי דרך אל מסך הבית</string>
+    <string name="HIPS_Perm_mediaVolume">שינוי ווליום המדיה</string>
+    <string name="HIPS_Perm_mediaVolume_Desc">אפשר ליישום לשנות את הווליום של המדיה</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">"לגשת לחומרת 'תקשורת מטווח אפס' (NFC)"</string>
     <string name="HIPS_Perm_process_outgoing_calls">"גישה אל יישום ה'טלפון'"</string>
@@ -117,6 +119,10 @@
     <string name="location_warning">%1$s הינו ספק של שירותי מיקום עבור מכשיר זה. הרשאות גישה למיקום ניתנות לשינוי בהגדרות המיקום.</string>
     <string name="never_ask_again">אל תשאל שוב לאחר ההגבלה</string>
     <string name="ok">אישור</string>
+    <string name="perm_action_allow">אשר</string>
+    <string name="perm_action_deny">לא לאשר אף פעם</string>
+    <string name="perm_modem_location">גישה למיקום שלך</string>
+    <string name="perm_modem_location_desc">ספק הרשת שלך מנסה לקבל גישה לפרטי המיקום שלך. לשתף את פרטי המיקום עם הספק?</string>
     <string name="permdesc_camera">לצלם תמונות ולהקליט סרטונים</string>
     <string name="permdesc_in_calls">לנטר שיחות נכנסות</string>
     <string name="permdesc_location">לגשת לפרטי המיקום</string>

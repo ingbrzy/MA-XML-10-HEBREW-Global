@@ -39,8 +39,17 @@
     <string name="action_update_phone">שינוי מספר טלפון</string>
     <string name="activate_email_notice">הקפד להפעיל את החשבון תוך 24 שעות</string>
     <string name="activity_not_found_notice">לא ניתן למצוא את היישום</string>
+    <string name="ad_buy">רכישה</string>
+    <string name="ad_download">הורד</string>
+    <string name="ad_join">הצטרף לקהילה</string>
+    <string name="ad_more">עוד</string>
+    <string name="add_search_channel_link">כתובת URL</string>
+    <string name="add_search_channel_name">שם</string>
+    <string name="add_search_channel_tip">חפש את \"%s\" באתר היעד, ואז העתק והדבק לכאן את כתובת האתר.</string>
     <string name="add_to_trust_device">מכשיר זה הוגדר כאמין</string>
+    <string name="add_website">הוסף אתר אינטרנט</string>
     <string name="agree">מסכים</string>
+    <string name="agree_and_continue">מסכים</string>
     <string name="ai_animation_music_text">פסקול AI</string>
     <string name="ai_music_save_cancel">ביטול</string>
     <string name="ai_music_save_dialog_title">שמירה</string>
@@ -59,9 +68,11 @@
     <string name="alert_dialog_download_progress">"מוריד יישום "</string>
     <string name="all">הצג הכל</string>
     <string name="app_name">וידאו Mi</string>
+    <string name="auth_again">מסכים</string>
     <string name="auth_fail_warning">פג תוקף התהליך. היכנס שוב.</string>
     <string name="auto_play_next_off">ניגון אוטומטי כבוי</string>
     <string name="auto_play_next_on">ניגון אוטומטי מופעל</string>
+    <string name="back_to_mainpage">גלה</string>
     <string name="before_yestoday">לפני יומיים</string>
     <string name="bind_sign_in_title">הוספת חשבון Mi</string>
     <string name="cancel">ביטול</string>
@@ -76,6 +87,8 @@
     <string name="choose_to_signup">לא, אצור חשבון משלי</string>
     <string name="click_to_reload_more">לחץ על מנת לטעון עוד</string>
     <string name="click_to_retry">נסה שוב</string>
+    <string name="cloud_auto_pip_play_switch">השתמש אוטומטית בתמונה בתוך תמונה</string>
+    <string name="cloud_online_player">נַגָן</string>
     <string name="cloud_online_switch">המלצות מותאמות אישית</string>
     <string name="cloud_online_switch_close_time">תוכל להפעיל המלצות תוכן מותאמות אישית ב-%s</string>
     <string name="cloud_online_switch_open_time">הצג המלצות תוכן מותאמות אישית</string>
@@ -111,19 +124,23 @@
     <string name="confirm_unbundled_phone_dialog_message">מספר הטלפון קושר לחשבון Mi %2$s ב-%1$s. אם תמשיך, הוא כבר לא יהיה מקושר לחשבון Mi %3$s. להמשיך?</string>
     <string name="content">תוכן</string>
     <string name="content_can_not_null">לא ניתן לשלוח משוב ללא תיאור.</string>
+    <string name="continue_play">המשך</string>
     <string name="data_empty">אין פריטים להצגה</string>
     <string name="description">תיאור</string>
+    <string name="detail_select_source">בחר מקור להשמעה</string>
     <string name="diagnosis_log_send_failed">לא ניתן היה לשלוח את היומנים. נסה שוב.</string>
     <string name="diagnosis_log_sent_format">"היומנים נשלחו בהצלחה.
 ID:%s
 שלח קוד זה לאחראי."</string>
-    <string name="dialog_privacy_info_new2">כדי להשתמש בשירותים אלה, עליך להסכים לכך ש-%1$s תאסוף ותעבד נתונים אישיים שלך ותשתמש בהם. הקשה על \"מסכים\" למטה מהווה אישור לכך שקראת את &lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו והסכמת אתה.</string>
+    <string name="dialog_privacy_info_new2">כדי להשתמש בשירותים אלה, עליך להסכים לכך ש-%1$s תאסוף ותעבד נתונים אישיים שלך ותשתמש בהם. הקשה על \"מסכים\" למטה מהווה אישור לכך שקראת את &lt;a href=%2$s>מדיניות הפרטיות&lt;/a> שלנו והסכמת אתה.</string>
+    <string name="dialog_privacy_info_new3">כדי להשתמש בשירות זה, עליך לאפשר ל-%1$s לאסוף ולעבד מידע אישי שלך ולהשתמש בו על-פי מדיניות הפרטיות. הקשה על מסכים למטה מהווה הסכמה &lt;a href=%2$s>למדיניות הפרטיות&lt;/a> וגם &lt;a href=%3$s>להסכם המשתמש&lt;/a> של Xiaomi. &lt;br/>&lt;br/>הקשה על מסכים גם תאפשר ל-Mi Video לקבל גישה לרשימת היישומים המותקנים במכשירך. הרשאה זו תאפשר ל-Mi Video לשתף פריטים, לבדוק האם יישום כלשהו מותקן במכשירך, איזו גרסה של היישום מותקנת, והאם היישום מאובטח.</string>
     <string name="dialog_privacy_title">הרשאה</string>
     <string name="dialog_revoke_privacy_info_new2">לאחר ביטול ההרשאה, היישום יפסיק לאסוף נתונים, וכל הנתונים הרלוונטיים יימחקו מהשרתים שלנו. זה עלול לגרום לכך שלא ניתן יהיה להשתמש ביישום. לבטל את ההרשאה בכל מקרה?</string>
     <string name="dialog_revoke_privacy_title">מתבצע ביטול ההרשאה</string>
     <string name="diy_channels_tips">עכשיו תוכל לבצע התאמה אישית של רשימת הערוצים שלך.</string>
     <string name="do_not_show_again">אל תציג שוב</string>
     <string name="download">הורד</string>
+    <string name="download_checking_tip">מכין להורדה…</string>
     <string name="download_complete">ההורדה הושלמה</string>
     <string name="download_delete_tip">למחוק את הפריטים שנבחרו?</string>
     <string name="download_delete_title">מחק</string>
@@ -132,6 +149,7 @@ ID:%s
     <string name="download_power_off_tips">מאפיין זה אינו זמין כרגע</string>
     <string name="download_progress">%d%%</string>
     <string name="download_retry">נסה שוב</string>
+    <string name="download_unable_tip">לא ניתן להוריד פריט זה</string>
     <string name="download_video">מתבצעת הורדת סרטון</string>
     <string name="downloading">מוריד…</string>
     <string name="empty_channels">נהל ערוצים</string>
@@ -140,6 +158,7 @@ ID:%s
     <string name="error_invalid_bind_address">כתובת הדוא\"ל שהזנת אינה חוקית.</string>
     <string name="exceed_binded_phone_times_notice">מספר טלפון זה כבר מקושר אל חשבון Mi אחר.</string>
     <string name="exit">יציאה</string>
+    <string name="explore">גלה</string>
     <string name="explore_on_mi_video">מצא עוד ב-Mi Video</string>
     <string name="failed_dup_secure_phone_number">מספר טלפון זה כבר מקושר לחשבון Mi אחר</string>
     <string name="failed_to_fetch_data">לא ניתן היה לטעון את המידע.</string>
@@ -151,6 +170,7 @@ ID:%s
     <string name="favorite_cancel_success">הוסר מרשימת המועדפים בהצלחה</string>
     <string name="favorite_fail">לא ניתן להוסיף למועדפים. נסה שוב.</string>
     <string name="favorite_success">נוסף למועדפים בהצלחה</string>
+    <string name="fcm_push_title">סרטונים פופולריים</string>
     <string name="feedback">משוב</string>
     <string name="feedback_activity_title">משוב</string>
     <string name="feedback_contact_empty">הזן את פרטי הקשר שלך</string>
@@ -166,8 +186,11 @@ ID:%s
     <string name="feedback_success_toast">הוגש בהצלחה. תודה על המשוב שלך!</string>
     <string name="feedback_tag_title">קטגוריה</string>
     <string name="feedback_text_empty_toast">ראשית, הזן את המשוב שלך.</string>
+    <string name="file_cant_rename">File with %1$s name already exists. Please rename</string>
+    <string name="file_space_not_enough_tip">אין מספיק שטח אחסון. יש לפנות לפחות %d מ\"ב ולהפעיל את היישום שוב.</string>
     <string name="find_psw">שכחתי את הסיסמה</string>
     <string name="finish">בוצע</string>
+    <string name="firework_privacy">מדיניות הפרטיות של Firework</string>
     <string name="for_diagnosis_usage_only">היומנים משמשים לאבחון בלבד.</string>
     <string name="for_you">בשבילך</string>
     <string name="friday">שישי</string>
@@ -192,11 +215,17 @@ ID:%s
     <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">הכל</string>
     <string name="gallery_tab_videos">סרטונים</string>
+    <string name="galleryplus_already_cloud_member">Using VIP membership to play</string>
+    <string name="galleryplus_check_network">הגדרות</string>
     <string name="galleryplus_chose_play_speed">מנגן במהירות %1$.1fX</string>
+    <string name="galleryplus_chose_play_speed_2">מנגן במהירות %1$.2fX</string>
     <string name="galleryplus_chose_play_speed_failure">לא ניתן להתאים את מהירות הניגון</string>
     <string name="galleryplus_click_to_higher_definition">לחץ פעמיים כדי לפתוח תצוגה מקדימה ב-HD</string>
+    <string name="galleryplus_copyright_unsported_audio">לא ניתן לנגן את קטע השמע/הסרטון בגלל הגבלות זכויות יוצרים</string>
+    <string name="galleryplus_copyright_unsported_video">לא ניתן לנגן את הסרטון בגלל הגבלות זכויות יוצרים</string>
     <string name="galleryplus_cta_tips">אתה יכול לעזור לנו לשפר את השירותים שלנו על ידי הרשמה לתוכנית חווית משתמש ולאפשר ל-Mi Video להתחבר לאינטרנט. מסכים?</string>
     <string name="galleryplus_double_tap_to_higher_definition">לחץ פעמיים שוב כדי לפתוח תצוגה מקדימה ב-HD</string>
+    <string name="galleryplus_fr_unsupport_restore_speed">קצב המסגרת אינו נתמך. מהירות רגילה שוחזרה.</string>
     <string name="galleryplus_gallery_fold_tags">הסתר סימנים</string>
     <string name="galleryplus_gallery_video_adjust_hint">נתמכים רק סרטונים באיכות 960fps</string>
     <string name="galleryplus_gallery_video_adjust_text">התאמה</string>
@@ -213,7 +242,16 @@ ID:%s
     <string name="galleryplus_gallery_video_save_video">יוצר סרטון…</string>
     <string name="galleryplus_gallery_video_slow_edit">הילוך איטי</string>
     <string name="galleryplus_gallery_view_tags">הצג סימנים</string>
-    <string name="galleryplus_is_higher_definition">נפתחה תצוגה מקדימה ב-HD</string>
+    <string name="galleryplus_is_higher_definition">תצוגת HD</string>
+    <string name="galleryplus_network_connect_check">לא ניתן היה להתחבר לרשת</string>
+    <string name="galleryplus_network_connect_confirm">התחבר לרשת WI-FI או הפעל גלישה סלולרית בהגדרות הרשת.</string>
+    <string name="galleryplus_network_error">לא ניתן היה להתחבר לרשת</string>
+    <string name="galleryplus_network_not_wifi">שימוש בגלישה סלולרית להזרמת סרטונים עלול לגרור חיובים נוספים על-ידי ספק הרשת</string>
+    <string name="galleryplus_online_cta">Mi וידאו צריכה להתחבר לאינטרנט כדי לפעול באופן תקין. מסכים?</string>
+    <string name="galleryplus_online_cta_agree">מסכים</string>
+    <string name="galleryplus_online_cta_disagree">לא מסכים</string>
+    <string name="galleryplus_online_cta_title">תנאי השימוש</string>
+    <string name="galleryplus_online_video_loading">רק רגע…</string>
     <string name="galleryplus_permission_content">הענק ל-Mi Video את ההרשאות הנדרשות כדי שתוכל להשתמש בתכונה זו.</string>
     <string name="galleryplus_permission_content2">"כדי שתוכל להשתמש בתכונה זו, עבור אל הגדרות> אפליקציות> Mi Video> הרשאות יישום ואפשר ל-Mi Video לבצע את הפעולות הבאות: 
 
@@ -235,6 +273,7 @@ ID:%s
     <string name="galleryplus_subtitle_edit_edit">ערוך כתוביות</string>
     <string name="galleryplus_subtitle_edit_hide">הסתר כתוביות</string>
     <string name="galleryplus_subtitle_edit_literal_edit">ערוך טקסט</string>
+    <string name="galleryplus_subtitle_edit_reminder">הטקסט שהזנת ארוך מדיי</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">זיהוי דיבור בזמן ההקלטה נכשל</string>
     <string name="galleryplus_v_agree">מסכים</string>
     <string name="galleryplus_v_cancel">ביטול</string>
@@ -257,6 +296,7 @@ ID:%s
     <string name="get_ph_ticket">קבל קוד</string>
     <string name="get_phone_bind_exceed_limit">ניתן לקשר עד 3 חשבונות Mi למספר טלפון אחד. לא ניתן להוסיף חשבונות חדשים.</string>
     <string name="get_phone_verifycode_exceed_limit">למספר זה נשלחו יותר מדי קודי אימות. המתן 24 שעות ונסה שוב.</string>
+    <string name="got_it">הבנתי</string>
     <string name="goto_sign_up">צור חשבון</string>
     <string name="have_learned">הבנתי</string>
     <string name="hidden_channels">הערוצים הבאים לא יוצגו בדף הבית.</string>
@@ -264,6 +304,7 @@ ID:%s
     <string name="history">היסטוריה</string>
     <string name="history_local_video">מקומי</string>
     <string name="history_online_video">מקוון</string>
+    <string name="hot">פופולרי</string>
     <string name="identity">זיהוי</string>
     <string name="inconsistent_pwd">הסיסמאות אינן תואמות</string>
     <string name="init_channels">שחזר את הגדרות ברירת המחדל</string>
@@ -272,6 +313,12 @@ ID:%s
     <string name="input_size_tips">ניתן להזין עד 1000 תווים</string>
     <string name="isornot_your_mi_account">האם זה חשבון Mi שלך?</string>
     <string name="issue">בעיה</string>
+    <string name="item_card_all_replies">כל התגובות</string>
+    <string name="item_card_continue_play">השמעה אוטומטית</string>
+    <string name="item_card_more_trailers">עוד קדימונים</string>
+    <string name="item_card_open_in">"פתח ב- "</string>
+    <string name="item_card_related">קשור</string>
+    <string name="item_setting_go_back">ביטול הסכמה</string>
     <string name="just_a_second">רק רגע…</string>
     <string name="language_later_setting_tips">ניתן לשנות את הגדרות השפה תחת פרופיל > שפה.</string>
     <string name="language_select_tips">"בחר שפה מועדפת
@@ -392,7 +439,7 @@ ID:%s
     <string name="lv_subtitle_onlinesub_loading">טוען כתוביות…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">טוען כתוביות…</string>
     <string name="lv_subtitle_onlinesub_right_declare">כתב ויתור</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">קבל כתוביות &lt;br/>&lt;br/>מ: &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>. &lt;br/>&lt;br/>כל הכתוביות המקוונות מסופקות על ידי &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">קבל כתוביות &lt;br/>&lt;br/>מ: &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>. &lt;br/>&lt;br/>כל הכתוביות המקוונות מסופקות על ידי &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
     <string name="lv_subtitle_onlinesub_save_failed">לא ניתן היה להוסיף כתוביות</string>
     <string name="lv_subtitle_onlinesub_save_success">הכתוביות נוספו בהצלחה</string>
     <string name="lv_subtitle_onlinesub_search_keyword">הזן מילות מפתח לחיפוש</string>
@@ -414,6 +461,7 @@ ID:%s
     <string name="lv_video_null">אין סרטונים</string>
     <string name="lv_volume">עוצמת שמע</string>
     <string name="manage">נהל</string>
+    <string name="mediation_ad_can_not_share">לא ניתן לשתף את הסרטון</string>
     <string name="mi_video">וידאו Mi</string>
     <string name="mnc_live_tv">Live TV</string>
     <string name="moment_guide_desc">השתמש במחוות בכדי לתקריב או הרחקה (זום-אין או אווט)</string>
@@ -434,7 +482,9 @@ ID:%s
     <string name="need_update_app">עדכן את וידאו Mi על מנת שתוכל להשתמש בכל תכונותיו</string>
     <string name="network_connect_info">לא ניתן להתחבר לאינטרנט. נא לבדוק את הגדרות הרשת ולנסות שוב.</string>
     <string name="network_failed">לא ניתן היה להתחבר לרשת</string>
+    <string name="new_channel_tip">צפה בערוצים חדשים!</string>
     <string name="next">הבא</string>
+    <string name="next_step">הבא</string>
     <string name="nick_name">כינוי</string>
     <string name="no_account">לא מחובר</string>
     <string name="no_longer_prompt">אל תציג שוב</string>
@@ -453,9 +503,17 @@ ID:%s
     <string name="notice_message_title">התראות</string>
     <string name="notice_title">הודעות</string>
     <string name="notification_bar">צל התראות</string>
+    <string name="notification_bar_player_subtitle">הצג נגן ממוזער בצל ההתראות</string>
+    <string name="notification_bar_player_title">מזער נגן</string>
     <string name="notification_open_tip">הפעל לקבלת התראות</string>
+    <string name="notification_recall_action">הפעל</string>
+    <string name="notification_recall_desc">Mi Video יכול להודיע ​​לך על סרטונים פופולריים ועל המינויים שלך.</string>
+    <string name="notification_recall_title">הפעל התראות</string>
     <string name="notify_apk_installed">ההורדה הושלמה בהצלחה</string>
+    <string name="off_tip_firework_recommend">לא תקבל מ-Firework המלצות תוכן בהתאמה אישית</string>
     <string name="ok">אישור</string>
+    <string name="on_tip_firework_recommend">תקבל מ-Firework המלצות תוכן בהתאמה אישית</string>
+    <string name="order_alphabet">"א'-ת'"</string>
     <string name="order_recently_subscribe">מינויים חדשים</string>
     <string name="order_recently_updated">עודכנו לאחרונה</string>
     <string name="ovp_alert_dialog_download_install_task">מוריד את הרחבת ה-HD…</string>
@@ -463,7 +521,7 @@ ID:%s
     <string name="ovp_category">קטגוריות</string>
     <string name="ovp_confirm_delete_favor">האם להסיר את הפריטים שנבחרו מהמועדפים?</string>
     <string name="ovp_default_plugin_name">הרחבת HD</string>
-    <string name="ovp_detail_back_to_watch_more">גלה פריטים נוספים בדף הבית</string>
+    <string name="ovp_detail_back_to_watch_more">Discover more brilliant videos</string>
     <string name="ovp_detail_collapse_summary">הסתר</string>
     <string name="ovp_detail_collect">הוספה למועדפים</string>
     <string name="ovp_detail_comment">הערה</string>
@@ -624,8 +682,8 @@ ID:%s
     <string name="passport_unknow_error">אירעה שגיאה לא ידועה</string>
     <string name="passport_unknow_host_network_error">בדוק את הגדרות הרשת ונסה שוב</string>
     <string name="passport_unknow_network_error">אירעה שגיאת רשת</string>
-    <string name="passport_user_agreement_link">&lt;Data>קראתי ואני מסכים ל&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a>של Xiaomi.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>קראתי ואני מסכים למסמכים הבאים: &lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ו&lt;a href=\"%4$s\">מדיניות הפרטיות&lt;/a> של Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>קראתי ואני מסכים ל&lt;a href=%1$s>הסכם המשתמש&lt;/a> ול&lt;a href=%2$s>מדיניות הפרטיות&lt;/a>של Xiaomi.&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>קראתי ואני מסכים למסמכים הבאים: &lt;a href=%1$s>הסכם המשתמש&lt;/a> ו&lt;a href=%4$s>מדיניות הפרטיות&lt;/a> של Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_intro">הזן סיסמה עבור %1$s</string>
     <string name="passport_v_code_error">קוד האימות שגוי</string>
     <string name="passport_vcode_notification_title">אימות הכניסה שלך לא הושלם</string>
@@ -651,16 +709,23 @@ ID:%s
     <string name="permission_storage">אחסון</string>
     <string name="permission_storage_desc">על מנת לגשת לפריטים, שמירת קבצים, הצגה והפעלה של סרטונים מקומיים</string>
     <string name="permission_title">נדרשות הרשאות</string>
+    <string name="pgc_push_title">מינויים</string>
     <string name="phone_bind_too_many">מספר טלפון זה קושר למספר חשבונות Mi בפרק זמן קצר. נסה להשתמש במספר טלפון אחר.</string>
     <string name="phone_hint">מספר טלפון</string>
     <string name="phone_num_use_for">מספר הטלפון משמש עבור:</string>
     <string name="phone_number">מספר טלפון</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות.</string>
+    <string name="pip">תמונה בתוך תמונה</string>
+    <string name="playlist_create">צור</string>
     <string name="playlist_detail_recomm_title">פלייליסטים מומלצים</string>
+    <string name="playlist_finish">בוצע</string>
     <string name="playlist_hot">פופולרי</string>
+    <string name="playlist_name">הזן שם לרשימת השמעה</string>
     <string name="playlist_new">חדש</string>
     <string name="playlist_no_more">אין כאן יותר סרטונים</string>
+    <string name="playlist_no_videos">אין כאן סרטונים</string>
     <string name="playlist_offline">פלייליסט זה אינו זמין יותר.</string>
+    <string name="playlist_remove">הסר</string>
     <string name="playlist_title">פלייליסט</string>
     <string name="playlist_view_more">רשימות השמעה נוספות</string>
     <string name="plus_add_shortcut">יצירת קיצור דרך במסך הבית</string>
@@ -728,7 +793,7 @@ ID:%s
     <string name="plus_player_subtitle_local_add_success">הכתוביות נוספו בהצלחה</string>
     <string name="plus_player_subtitle_no_file">אין כתוביות כאן.</string>
     <string name="plus_player_subtitle_online">כתוביות מקוונות</string>
-    <string name="plus_player_subtitle_online_declare_content">אתה עומר לחפש&lt;br/>כתוביות בתוך&lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>מסד נתונים.&lt;br/>כל הכתוביות מסופקות ע\"י&lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
+    <string name="plus_player_subtitle_online_declare_content">אתה עומר לחפש&lt;br/>כתוביות בתוך&lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>מסד נתונים.&lt;br/>כל הכתוביות מסופקות עי&lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
     <string name="plus_player_subtitle_online_declare_title">כתב ויתור</string>
     <string name="plus_player_subtitle_online_download_fail">לא ניתן היה להוריד כתוביות</string>
     <string name="plus_player_subtitle_online_download_start">מוריד כתוביות…</string>
@@ -807,6 +872,7 @@ ID:%s
     <string name="remaining_space">זמין: %s</string>
     <string name="remaining_space_not_enough">לא ניתן להוריד כי נפח האחסון הפנוי אינו מספיק</string>
     <string name="reminder">לתשומת לבך</string>
+    <string name="rename">שנה שם</string>
     <string name="report">דוח</string>
     <string name="report_content_dislike">אלימות או התנהגות בלתי הולמת</string>
     <string name="report_content_fakement">ספאם או הונאה</string>
@@ -828,6 +894,8 @@ ID:%s
     <string name="restart_phone_bind_title">שנה את מספר הטלפון לשחזור</string>
     <string name="restore_channel_list">לשחזר את הגדרות ברירת המחדל עכשיו?</string>
     <string name="retry">נסה שוב</string>
+    <string name="reveal">סובב</string>
+    <string name="reveal_tip">סובב את המכשיר שלך ותהנה מחוויית צפייה משופרת</string>
     <string name="revoke">בטל</string>
     <string name="same_new_and_old_pwd">הסיסמה לא יכולה להיות זהה לסיסמה הנוכחית</string>
     <string name="saturday">שבת</string>
@@ -840,6 +908,8 @@ ID:%s
     <string name="search_choose_voice_language">בחר שפה עבור חיפוש קולי</string>
     <string name="search_hot_words">פופולרי</string>
     <string name="search_key_not_null">שדה בקשת חיפוש לא יכול להיות ריק</string>
+    <string name="search_result_download_error">ההורדה נכשלה</string>
+    <string name="search_result_startdownload">מוריד…</string>
     <string name="selectall">בחר הכול</string>
     <string name="selectnull">בטל בחירת הכול</string>
     <string name="send_diagnosis_log">שלח יומנים</string>
@@ -911,11 +981,19 @@ ID:%s
     <string name="ticket_hint">קוד אימות</string>
     <string name="ticket_invalid">הקוד שהזנת אינו נכון</string>
     <string name="ticket_sign_in">התחבר באמצעות מסרון</string>
+    <string name="tip_auth_again">"מכיוון שלא הסכמת בעבר לתנאי מדיניות הפרטיות המתאימה של ספק התוכן החיצוני (צד שלישי), איננו יכולים להציג תוכן וידאו ב'רגעים'. הקש על הלחצן שלמטה כדי להסכים למדיניות הפרטיות ולגשת לתכונה זו."</string>
+    <string name="tip_author_click">הקש כדי לצפות בסרטונים נוספים מהחשבון הזה</string>
+    <string name="tip_pop">"&lt;Data>'תוכן מרגעים' מסופק על ידי Firework. על מנת לשפר את חוויית הצפייה שלך ולקבל המלצות תוכן מתאימות יותר, אפשר ל-Firework לאסוף, לעבד ולהשתמש במידע האישי שלך בהתאם למדיניות הפרטיות שלהם. קרא והסכם ל&lt;a href=\"%1$s\">מדיניות הפרטיות של Firework&lt;/a> לפני שתשתמש בשירות שלהם.&lt;/Data>"</string>
+    <string name="tip_topic_click">הקש על מנת לצפות בסרטונים נוספים בנושא זה</string>
+    <string name="title_firework_recommend">המלצות של Firework</string>
     <string name="title_publisher">יוצרים</string>
     <string name="title_subscribe">מנויים</string>
+    <string name="toast_no_data">פריט זה אינו זמין כעת. חזור מאוחר יותר.</string>
     <string name="toast_request_too_frequently">לא כל כך מהר!</string>
     <string name="toast_share_failed">לא ניתן לשתף. נא להמתין כמה דקות ולנסות שוב.</string>
     <string name="today">היום</string>
+    <string name="tool_bar_notification_setting_sub_title">להציג את סרגל הכלים בלוח ההתראות</string>
+    <string name="tool_bar_notification_setting_title">סרגל הכלים בלוח ההתראות</string>
     <string name="top_bar_game_desc">גלה כאן המון משחקים חדשים</string>
     <string name="top_bar_game_title">ערוץ המשחקים</string>
     <string name="tuesday">שלישי</string>
@@ -971,10 +1049,13 @@ ID:%s
     <string name="video_resolution_kb_size_suffix">%.2f KB</string>
     <string name="video_resolution_mb_size_suffix">%.2f MB</string>
     <string name="video_resolution_tag_suffix">%dP</string>
+    <string name="view">צפה</string>
     <string name="vp_VideoView_error_button">אישור</string>
     <string name="vp_VideoView_error_text_unknown">התרחשה שגיאה</string>
     <string name="vp_VideoView_error_title">שגיאה לא מוכרת</string>
     <string name="vp_app_name">נגן הוידאו</string>
+    <string name="vp_copyright_unsported_audio">לא ניתן לנגן את קטע השמע/הסרטון בגלל הגבלות זכויות יוצרים</string>
+    <string name="vp_copyright_unsported_video">לא ניתן לנגן את הסרטון בגלל הגבלות זכויות יוצרים</string>
     <string name="vp_hardware_unsported">לא ניתן להפעיל את הסרטון הזה על מכשירך.</string>
     <string name="vp_notify_apk_installed">ההורדה הושלמה בהצלחה</string>
     <string name="vp_replay">צפייה חוזרת</string>

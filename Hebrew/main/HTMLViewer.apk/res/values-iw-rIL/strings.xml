@@ -10,6 +10,14 @@
 עבור אל %s באמצעות מכשיר מחובר אחר."</string>
     <string name="loading">רק רגע…</string>
     <string name="mibi_license">הסכם המשתמש של נקודות Mi</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">משוך כלפי מטה כדי לרענן</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">רוענן בהצלחה</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">מרענן…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">שחרר כדי לרענן</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">זה הכול לעכשיו</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">זה הכול לעכשיו</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">רק רגע…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">לא ניתן היה לטעון פריטים</string>
     <string name="open_wifi_connect_and_use_data_summary">משתמש בנתונים סלולריים. לחץ כדי לעבור ל-Wi-Fi.</string>
     <string name="open_wifi_connect_summary">לחץ לצפיה בפרטים.</string>
     <string name="open_wifi_connect_title">מחובר אל %1$s</string>
