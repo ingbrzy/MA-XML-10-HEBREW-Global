@@ -9,7 +9,6 @@
     <string name="download_queued">בתור</string>
     <string name="download_remaining">%s נותרו</string>
     <string name="download_running">מתבצע</string>
-    <string name="download_running_percent">מתבצע, %s</string>
     <string name="download_unknown_title">‏&lt;ללא כותרת></string>
     <string name="notification_download_complete">ההורדה הסתיימה.</string>
     <string name="notification_download_failed">ההורדה נכשלה.</string>
