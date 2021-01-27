@@ -1,18 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="settings_search_earth">
         <item>בית</item>
         <item>טפט/טפטי-על/דף הבית</item>
         <item>כדור הארץ;טפטי-על;מהדורת כדור הארץ;טפט</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>גאומטריה</item>
+        <item>טפט/סופר טפטים/גאומטריה</item>
+        <item>גאומטריה;מופשט;סופר טפט;טפט</item>
     </string-array>
     <string-array name="settings_search_mars">
         <item>הכוכב האדום</item>
         <item>טפט/טפטי-על/הכוכב האדום</item>
         <item>מאדים;מהדורת מאדים;טפטי-על;טפט</item>
     </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
     <string-array name="settings_search_superwp">
         <item>סופר טפטים</item>
         <item>טפט/טפטי על</item>
         <item>טפטי-על;טפט;טפט דינמי;טפט תלת-ממדי</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>מזג האוויר</item>
+        <item>טפט/סופר טפטים/מזג האוויר</item>
+        <item>מזג האוויר;מידע על מזג האוויר;סופר טפט;טפט</item>
     </string-array>
 </resources>

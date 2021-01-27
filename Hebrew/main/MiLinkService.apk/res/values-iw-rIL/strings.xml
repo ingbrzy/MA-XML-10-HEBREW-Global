@@ -292,7 +292,7 @@
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
-    <string name="synergy_casting">跨屏协作时无法使用投屏</string>
+    <string name="synergy_casting">לא ניתן להשתמש במקרן כאשר Screen Combo מופעל</string>
     <string name="the_anniversary_of_lifting_martial_law">יום השנה לביטול החוק הצבאי</string>
     <string name="the_anti_aggression_day">יום המאבק באלימות</string>
     <string name="the_arbor_day">יום העץ</string>

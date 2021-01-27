@@ -42,6 +42,8 @@
     <string name="all_app_category_tools">כלים</string>
     <string name="all_app_category_work">עבודה</string>
     <string name="all_apps">כל היישומים</string>
+    <string name="all_apps_install_contentcenter_msg">נראה כי מרכז התוכן הוסר. להתקין אותו שוב?</string>
+    <string name="all_apps_install_contentcenter_title">התקן את מרכז התוכן</string>
     <string name="all_apps_no_search_results">לא ניתן היה להשיג תוצאות</string>
     <string name="all_apps_search_app">חפש אחר יישומים</string>
     <string name="all_apps_search_market_message">חפש באינטרנט</string>
@@ -153,6 +155,7 @@
     <string name="change_wallpaper">שנה</string>
     <string name="choose_wallpaper">בחר טפט</string>
     <string name="chooser_wallpaper">בחר טפט חדש</string>
+    <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="cloud_app_restore_title">ממתין</string>
     <string name="common_home_search_delete">מסיר את שורת החיפוש</string>
     <string name="common_home_search_delete_cancle">ביטול</string>
@@ -292,14 +295,18 @@
     <string name="home_screen">מסך הבית</string>
     <string name="home_slide_up_action">החלק כלפי מעלה במסך הבית</string>
     <string name="home_switch_personal_assistant">-1 מסך</string>
+    <string name="icon_customize_summary">בחר סגנון והתאם את הגודל</string>
+    <string name="icon_form">צלמיות</string>
     <string name="icon_reorganize_channel">סדר את הצלמיות</string>
     <string name="icon_size">גודל צלמית</string>
+    <string name="icon_style">סגנון</string>
     <string name="image_too_small_message">התמונה המקורית אינה גדולה מספיק.</string>
     <string name="install">התקן</string>
     <string name="invalid_contact_shortcut">איש קשר לא חוקי</string>
     <string name="is_setting_wallpaper_message">מגדיר טפט…</string>
     <string name="is_system_wallpaper_message">לא ניתן למחוק קבצי מערכת</string>
     <string name="key_shortcut_settings_title">כפתורי קיצור דרך</string>
+    <string name="launcher_icon_management">נהל קיצורי דרך במסך הבית</string>
     <string name="launcher_not_exist">"אירעה שגיאה, חזור ל'מסך הבית' ונסה שוב."</string>
     <string name="launcher_pull_down_title">העבר אצבע כלפי מטה במסך הבית</string>
     <string name="launcher_search_bar_title">סרגל החיפוש של מסך הבית</string>
@@ -478,6 +485,8 @@
     <string name="recommend_loading">טוען</string>
     <string name="recommend_refresh">רענן</string>
     <string name="recommend_xout">אל תציג</string>
+    <string name="remove_dialog_message">יישומים נבחרים מכילים תכונות מערכת חיוניות. אתה יכול להסיר ממסך הבית רק את קיצורי הדרך שלהם.</string>
+    <string name="remove_dialog_title_format">להסיר את \"%s\" ממסך הבית?</string>
     <string name="remove_invalidate_gadget_tips">"אחד מהוויג'טים אינו זמין יותר. תוכל להוסיף אחד אחר."</string>
     <string name="reset_cate_tip_content">המשך יביא לשחזור קבוצות ברירת המחדל לאפליקציות. להמשיך בכל זאת?</string>
     <string name="reset_cate_tip_title">שחזר את קבוצות ברירת המחדל</string>
@@ -486,6 +495,7 @@
     <string name="reset_fail">לא ניתן היה לשחזר</string>
     <string name="reset_scene_prompt">פריסת המסך תאופס לברירת מחדל.</string>
     <string name="reset_title">שחזר</string>
+    <string name="restore_icon_successful">נוסף בהצלחה</string>
     <string name="screen_cells_config_title">"פריסת 'מסך הבית'"</string>
     <string name="screen_locked_toast">"פריסת 'מסך הבית' נעולה."</string>
     <string name="screen_number">%d מסך</string>
@@ -520,7 +530,7 @@
     <string name="sort_by_frequency">מיין לפי שימוש</string>
     <string name="sort_by_not_defined">מיון אוטומטי</string>
     <string name="start_activity_failed">לא ניתן להפעיל את משגר היישומים</string>
-    <string name="starting_preset_app">מתחילu2026</string>
+    <string name="starting_preset_app">מתחיל…</string>
     <string name="status_bar_recent_memory_giga">%1$s ג\"ב</string>
     <string name="status_bar_recent_memory_info1">%1$s מתוך %2$s זמין</string>
     <string name="status_bar_recent_memory_info2" />

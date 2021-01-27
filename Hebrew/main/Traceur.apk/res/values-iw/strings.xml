@@ -379,7 +379,7 @@
     <string name="media_category">מדיה</string>
     <string name="media_transfer_this_device_name">רמקול של טלפון</string>
     <string name="media_transfer_wired_device_name">התקן אודיו חוטי</string>
-    <string name="media_transfer_wired_usb_device_name">אוזניות עם חוט</string>
+    <string name="media_transfer_wired_usb_device_name">אוזניות חוטיות</string>
     <string name="mobile_data_always_on">חבילת הגלישה פעילה תמיד</string>
     <string name="mobile_data_always_on_summary">‏השאר את חבילת הגלישה פעילה תמיד, גם כש-Wi‑Fi פעיל (למעבר מהיר בין רשתות).</string>
     <string name="mock_location_app">בחר אפליקציה של מיקום מדומה</string>

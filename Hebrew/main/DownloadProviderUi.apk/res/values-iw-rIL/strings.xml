@@ -39,6 +39,10 @@
     <string name="about">אודות</string>
     <string name="action_settings">הגדרות</string>
     <string name="ad_install">התקנה</string>
+    <string name="add_download_download">הורד</string>
+    <string name="add_download_error_not_support">קישור זה אינו נתמך</string>
+    <string name="add_download_text_hint">הזן קישור HTTP/HTTPS</string>
+    <string name="add_download_title">הוסף כתובת URL</string>
     <string name="all_downloads">כל ההורדות</string>
     <string name="all_fileter">הכל</string>
     <string name="all_share_files_content">הקבצים שבחרת נמחקו כבר.</string>
@@ -63,6 +67,8 @@
     <string name="dialog_btn_cancel">ביטול</string>
     <string name="dialog_btn_ok">אישור</string>
     <string name="dialog_btn_ok_disabled_net">הגדרות רשת</string>
+    <string name="dialog_clipboard_permission_message">"לאפשר ל'הורדות' לגשת לפריטים בלוח כדי להוסיף באופן אוטומטי כתובות URL מועתקות?"</string>
+    <string name="dialog_clipboard_permission_title">נדרשת הרשאה</string>
     <string name="dialog_confirm_delete_checkbox_message">מחק גם קבצים מקומיים</string>
     <string name="dialog_confirm_delete_the_download_item_message">מחק משימות אלו</string>
     <string name="dialog_file_missing_title">לא ניתן לפתוח את הקובץ</string>
@@ -98,19 +104,13 @@
     <string name="download_when_network_connected">הורד באמצעות חיבור נתונים</string>
     <string name="downloaded">ההורדה הושלמה</string>
     <string name="downloaded_empty">ריק</string>
+    <string name="downloaded_tab_hint">פריטים שהורדת יופיעו במנהל הקבצים</string>
     <string name="downloading">מוריד…</string>
     <string name="downloading_empty">ריק</string>
     <string name="downloads_operating">עובד…</string>
-    <string name="durationDayHour">%1$d יום %2$d שעות</string>
-    <string name="durationDayHours">%1$d יום %2$d שעות</string>
-    <string name="durationHourMinute">%1$d שעות %2$d דקות</string>
-    <string name="durationHourMinutes">%1$d שעות %2$d דקות</string>
-    <string name="durationMinute">דקה %1$d</string>
-    <string name="durationMinuteSecond">%1$d דקות ו-%2$d שניות</string>
-    <string name="durationMinuteSeconds">%1$d דקות ו-%2$d שניות</string>
-    <string name="durationMinutes">%1$d דקות</string>
-    <string name="durationSecond">שניה %1$d</string>
-    <string name="durationSeconds">%1$d שניות</string>
+    <string name="durationDayHours">%1$s %2$s</string>
+    <string name="durationHourMinutes">%1$s %2$s</string>
+    <string name="durationMinuteSeconds">%1$s %2$s</string>
     <string name="editmode_menu_delete">מחיקה</string>
     <string name="editmode_menu_share">שיתוף</string>
     <string name="extend">עוד</string>
@@ -179,10 +179,20 @@
     <string name="pref_download_settings_title">מגבלת גודל הורדה</string>
     <string name="pref_summary_any_bytes_popup">המתן תמיד לחיבור רשת אלחוטית לצורך הורדת קבצים</string>
     <string name="pref_summary_enable_max_bytes_popup">הצג התראה קופצת במקרה של הורדת תוכן באמצעות חיבור נתונים סלולרי</string>
-    <string name="pref_summary_max_bytes_limit_format">המתן להתחברות לרשת אלחוטית אם הקובץ גדול מ-%s</string>
     <string name="pref_summary_no_limit_popup">ללא הגבלה</string>
     <string name="pref_title_enable_max_bytes_popup">הצג התראת שימוש בנתונים</string>
     <string name="preferences_title">הגדרות</string>
+    <string name="privacy_agree_dialog_msg">"&lt;Data>ברוך הבא ל'הורדות'! תוכל להשתמש ביישום זה כדי להוריד קבצים.&lt;BR>'הורדות' צריך לאסוף מידע אישי הדרוש כדי לספק לך את השירותים המייצרים סטטיסטיקות הורדה. תוכל ללמוד כיצד אנו מטפלים במידע שאנו אוספים ב&lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> שלנו.&lt;BR>קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> שלנו לפני השימוש ב'הורדות'.&lt;BR>בכל זמן, תוכל לעבור להגדרות ולבטל את הסכמתך למדיניות הפרטיות של 'הורדות'. אם אינך מסכים למדיניות הפרטיות שלנו, לא תוכל להשתמש בתכונות מסוימות של יישום זה; עם זאת, התפקוד הבסיסי שלו עדיין יהיה זמין עבורך.&lt;/Data>"</string>
+    <string name="privacy_agree_dialog_title">תנאי השימוש</string>
+    <string name="privacy_revoke_dialog_later">ביטול</string>
+    <string name="privacy_revoke_dialog_msg">"על ידי כיבוי המתג, אתה מבטל את הסכמתך למדיניות הפרטיות של 'הורדות'. אנו נפסיק לאסוף את המידע האישי שלך. המידע האישי שכבר נאסף ונשמר יימחק תוך פרק הזמן הנדרש על פי החוקים החלים. 'הורדות' צריך לאסוף מידע אישי הדרוש כדי לספק לך שירותים המייצרים סטטיסטיקות הורדה. ביטול הסכמתך למדיניות הפרטיות שלו ייחשב כסירוב לקבל את שירותים כאלו המבוססים על מידע אישי שנאסף."</string>
+    <string name="privacy_revoke_dialog_ok">ביטול הסכמה</string>
+    <string name="privacy_revoke_dialog_title">ביטול הסכמה</string>
+    <string name="privacy_revoke_label">ביטול הסכמה</string>
+    <string name="privacy_revoke_msg">"על ידי כיבוי המתג, אתה מבטל את הסכמתך למדיניות הפרטיות של 'הורדות'."</string>
+    <string name="privacy_revoke_nonetwork_msg">המכשיר שלך צריך להתחבר לרשת כדי שתוכל לבטל את הסכמתך. בדוק את הגדרות הרשת שלך ונסה שוב.</string>
+    <string name="privacy_revoke_nonetwork_ok">הבנתי</string>
+    <string name="privacy_revoke_nonetwork_title">לא ניתן להתחבר לרשת</string>
     <string name="privacy_tip_cancel">ביטול</string>
     <string name="privacy_tip_ok">אישור</string>
     <string name="rank">דירוגים</string>
@@ -223,5 +233,4 @@
     <string name="toast_only_wifi_download">התחבר לרשת אלחוטית על מנת להוריד פריט זה</string>
     <string name="total_speedup">האצת מהירות (סה\"כ)</string>
     <string name="version">גרסה %s</string>
-    <string name="security_ui_title">מודעות אבטחה</string>
 </resources>

@@ -132,6 +132,18 @@
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">נמצאו %1$s פתקים</item>
+        <item quantity="one">נמצא פתק אחד (%1$s)</item>
+        <item quantity="two">נמצאו %1$s פתקים</item>
+        <item quantity="many">נמצאו %1$s פתקים</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">נמצאו %1$s משימות</item>
+        <item quantity="one">נמצאה משימה אחת (%1$s)</item>
+        <item quantity="two">נמצאו %1$s משימות</item>
+        <item quantity="many">נמצאו %1$s משימות</item>
+    </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d שניות נותרו</item>
         <item quantity="one">שנייה אחת (%d) נותרה</item>

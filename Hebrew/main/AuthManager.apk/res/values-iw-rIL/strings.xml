@@ -91,6 +91,8 @@
     <string name="HIPS_Perm_process_outgoing_calls_Desc">לנטר שיחות נכנסות</string>
     <string name="HIPS_Perm_read_notification_sms">מסרון שירות</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">לקרוא מסרוני שירות</string>
+    <string name="HIPS_Perm_recognition">גישה לנתוני פעילות</string>
+    <string name="HIPS_Perm_recognition_Desc">אשר ליישום לקבל גישה לנתוני הפעילות שלך</string>
     <string name="HIPS_Perm_service_foreground">שירותים קדמיים</string>
     <string name="HIPS_Perm_service_foreground_Desc">שירותים קדמיים</string>
     <string name="HIPS_Perm_show_when_locked">"הצג ב'מסך הנעילה'"</string>

@@ -577,7 +577,7 @@
     <string name="banner_optimizemanage_summary">פינוי זיכרון</string>
     <string name="banner_red_money_assist_button">הפעל</string>
     <string name="banner_red_money_assist_summary">פתח מעטפות אדומות מהר יותר</string>
-    <string name="battery_and_property">סוללה וביצועים</string>
+    <string name="battery_and_property">סוללה</string>
     <string name="battery_can_use_time">נותרו %s</string>
     <string name="battery_capacity_title">קיבולת הסוללה</string>
     <string name="battery_charge_estimating">מחשב</string>
@@ -739,6 +739,7 @@
     <string name="card_main_private_space_summary">"השימוש ב'שטח שני' דומה לשימוש בשני מכשירים"</string>
     <string name="card_main_private_space_title">שטח שני</string>
     <string name="card_main_sectool_title">כלים</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">צור</string>
     <string name="card_main_xspace_summary">צור חשבונות משוכפלים לכל יישום שתבחר</string>
     <string name="card_main_xspace_title">יישומים משוכפלים</string>
@@ -750,6 +751,15 @@
     <string name="choose">בחר</string>
     <string name="choose_gs_show_way">בחר את כיוון דף הבית</string>
     <string name="clean_immediately">נקה</string>
+    <string name="clean_master_icon_recall_button_text">הוסף</string>
+    <string name="clean_master_icon_recall_dialog_button_negative">לא, תודה</string>
+    <string name="clean_master_icon_recall_dialog_button_positive">הוסף</string>
+    <string name="clean_master_icon_recall_dialog_summary">הוסף קיצור למסך הבית כדי לנקות קובצי זבל בכל עת כשתצטרך.</string>
+    <string name="clean_master_icon_recall_dialog_title">נקה קובצי זבל מהר יותר</string>
+    <string name="clean_master_icon_recall_hint">הוסף קיצור למסך הבית</string>
+    <string name="clean_master_icon_recall_summary">הוסף קיצור למסך הבית כדי לנקות קובצי זבל בכל עת כשתצטרך.</string>
+    <string name="clean_master_icon_recall_title">נקה קובצי זבל מהר יותר</string>
+    <string name="clean_master_icon_recall_toast_text">קיצור למנקה נוסף אל מסך הבית בהצלחה</string>
     <string name="cleaned">נוקה</string>
     <string name="clear_garbage">מחק אשפה על מנת לפנות שטח אחסון</string>
     <string name="clear_immediately">נקה כעת</string>
@@ -940,6 +950,7 @@
     <string name="doze_optimization_title">ייעל את מגע השליטה</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">דוא\"ל</string>
     <string name="empty_app">אין יישומים</string>
     <string name="empty_title_auto_start_list">אין יישומים הרשאים לבצע הפעלה אוטומטית.</string>
@@ -1097,6 +1108,11 @@
     <string name="free_time_traffic_settings">מגבלת נתונים בשפל</string>
     <string name="free_time_traffic_title">הזן מגבלת נתונים בשפל</string>
     <string name="free_traffic_settings">הגדרות שימוש בנתונים בשפל</string>
+    <string name="function_auto_reject_detail">"אודות תכונה זו:
+1.בזמן שאתה משחק משחקים, כל השיחות הנכנסות לכרטיס SIM ללא שירות נתונים סלולרי יידחו אוטומטית.
+2.אתה תקבל התראות על שיחות שלא נענו, והאדם האחר ישמע הודעת שמע המציינת שאתה עסוק כרגע.
+3.תכונה זו נתמכת רק על ידי ספקי סלולר בסין."</string>
+    <string name="function_auto_reject_title">דחה שיחות VoLTE עבור כרטיסי SIM ללא שירות נתונים</string>
     <string name="function_close">כיבוי</string>
     <string name="function_gwsd_detail">"אודות תכונה זו:
  1. כאשר אתה משתמש בנתונים ניידים על כרטיס Data SIM או על כרטיס SIM רגיל המחובר לרשת VoLTE, החיבור לא יופרע ע\"י שיחות נכנסות עד שתבחר לענות להן.
@@ -1210,6 +1226,11 @@
     <string name="gb_description_image_button_answer">מענה</string>
     <string name="gb_description_image_button_reject">דחיה</string>
     <string name="gb_description_image_button_video_answer">שיחת וידאו</string>
+    <string name="gb_dialog_game_uninstall_deleting">מסיר התקנה…</string>
+    <string name="gb_dialog_game_uninstall_loading">טוען משחקים…</string>
+    <string name="gb_dialog_game_uninstall_tips_message">כל נתוני המשחקים יימחקו.</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">כל נתוני היישום והכפילויות הנלוות ביישומים יימחקו.</string>
+    <string name="gb_dialog_game_uninstall_tips_title">הסר %s</string>
     <string name="gb_dialog_record_way_ai">הקלטות AI נשמרות בתיבת המשחקים ומאוחסנות בה למשך 7 ימים.</string>
     <string name="gb_dialog_record_way_finish">בוצע</string>
     <string name="gb_dialog_record_way_manual">הקלט סרטונים באורך עד 30 שניות באופן ידני</string>
@@ -1241,6 +1262,10 @@
     <string name="gb_game_video_type_manual">באופן ידני</string>
     <string name="gb_get_gift_right_now">"בצע צ'ק אין כעת"</string>
     <string name="gb_global_settings">הגדרות כלליות</string>
+    <string name="gb_gpu_driver_btn_update">בדוק זמינות עדכונים</string>
+    <string name="gb_gpu_driver_update">עדכונים למנהל ההתקן של GPU</string>
+    <string name="gb_gpu_driver_update_app">עדכן</string>
+    <string name="gb_gpu_driver_update_app_tips">הגרסה הקיימת עדכנית</string>
     <string name="gb_have_signed">"בוצע צ'ק אין היום"</string>
     <string name="gb_manual_record_dialog_del_video_message">למחוק את הסרטונים שנבחרו לצמיתות?</string>
     <string name="gb_msg_completely_shielded">הסתרת הודעות</string>
@@ -1262,6 +1287,9 @@
     <string name="gb_signed_gift_loading_summary">רק רגע…</string>
     <string name="gb_signed_title">"בוצע צ'ק אין החודש"</string>
     <string name="gb_sound_audition">נסה</string>
+    <string name="gb_storage_game_uninstall">הסר משחקים</string>
+    <string name="gb_storage_summary">לא להציג את המשחקים שנוספו לתיבת המשחקים במסך הבית</string>
+    <string name="gb_storage_title">הסר את המשחקים שנוספו ממסך הבית</string>
     <string name="gb_voice_change_settinged">משנה הקול מופעל</string>
     <string name="gb_voice_changer_cartoon">סרט מצויר</string>
     <string name="gb_voice_changer_dlg_button_agree">אפשר</string>
@@ -1626,9 +1654,11 @@
     <string name="menu_text_antispam">רשימת החסומים</string>
     <string name="menu_text_antivirus">סריקת אבטחה</string>
     <string name="menu_text_garbage_cleanup">מנקה</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">הרשאות</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1636,7 +1666,8 @@
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">האצת מהירות</string>
     <string name="menu_text_optimize_manage_1">האצת מהירות</string>
-    <string name="menu_text_power_manager">סוללה וביצועים</string>
+    <string name="menu_text_power_manager">סוללה</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">הסרה מרשימת החריגים</string>
     <string name="menu_white">הוספה לרשימת החריגים</string>
     <string name="mi_service_app_detail">פרטי השימוש בנתונים</string>
@@ -1750,6 +1781,9 @@
     <string name="notification_channel_battery">סוללה</string>
     <string name="notification_exit_power_save_mode">"'חסכון בסוללה' כובה"</string>
     <string name="notification_exit_power_save_mode_subtitle">הסוללה טעונה ב- %s.</string>
+    <string name="notification_garbage_clean_botton_text">ניקוי</string>
+    <string name="notification_garbage_clean_hint">נקה שטח אחסון</string>
+    <string name="notification_garbage_clean_size">פנה %s</string>
     <string name="notification_garbage_cleanup_summary">נקה אשפה (%s) כדי להאיץ את מהירות המכשיר</string>
     <string name="notification_garbage_cleanup_title">נקה קובצי אשפה</string>
     <string name="notification_low_battery_action_btn">הפעל</string>
@@ -1761,6 +1795,8 @@
     <string name="notification_masked_item">איך להסתיר את התוכן של התראות?</string>
     <string name="notification_masked_subtitle">השתמש בנועל יישומים כדי להסתיר את תוכן ההתראות עבור אפליקציות נבחרות</string>
     <string name="notification_summary_cmcc_app_check">לחץ לצפיה בפרטים.</string>
+    <string name="notification_whatsapp_clean_button_text">ניקוי</string>
+    <string name="notification_whatsapp_clean_size">זיכרון המטמון של WhatsApp הגיע ל-%s</string>
     <string name="notify_channel_mipush">הודעות אבטחה ״פוש״</string>
     <string name="notify_channel_name_behavior">היסטוריית התנהגות</string>
     <string name="notify_channel_name_security">אבטחת מערכת</string>
@@ -1925,7 +1961,7 @@
     <string name="pc_search_keywords_battery_use">שימוש בסוללה</string>
     <string name="pc_search_keywords_capacity">קיבולת הסוללה</string>
     <string name="pc_search_keywords_property">ביצועים</string>
-    <string name="pc_settings_title">סוללה והגדרות ביצועים</string>
+    <string name="pc_settings_title">סוללה</string>
     <string name="pc_statistics_battery_last_hour_minute">"%1$d ש' %2$d ד' נותרו"</string>
     <string name="pc_statistics_battery_use_hour_minute">"%1$dש' %2$d ד' מאז ההטענה האחרונה"</string>
     <string name="pc_statistics_battery_use_summary">%s עד ההטענה האחרונה</string>
@@ -2024,6 +2060,11 @@
     <string name="power_center_dialog_msg_top">כאשר צריכת הבטריה מופעלת, MIUI יבצע את פעולות האופטימיזציה הבאות:</string>
     <string name="power_center_hints_scan_danger_result">ניתן לתקן בעיות בסוללה עכשיו</string>
     <string name="power_center_list_item_auto_brightness">התאמת בהירות אוטומטית</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">V %s</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_capacity">מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">"ש'"</string>
     <string name="power_center_list_item_close_bluetooth">כיבוי Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">הגדרות מתקדמות</string>
@@ -2058,7 +2099,7 @@
     <string name="power_center_super_save_title_text">חיסכון קיצוני בסוללה</string>
     <string name="power_center_time_to_boot">זמן הפעלה</string>
     <string name="power_center_time_to_shutdown">זמן כיבוי</string>
-    <string name="power_center_title">סוללה וביצועים</string>
+    <string name="power_center_title">סוללה</string>
     <string name="power_consume_hardware_total_format">חומרה: %s</string>
     <string name="power_consume_other">אחר</string>
     <string name="power_consume_rank_hardware">חומרה</string>
@@ -2152,7 +2193,7 @@
     <string name="power_settings_number">אחוזים</string>
     <string name="power_settings_saver_title">חסכון באנרגיה</string>
     <string name="power_settings_shape">גרפי</string>
-    <string name="power_settings_title">הגדר</string>
+    <string name="power_settings_title">הגדרות</string>
     <string name="power_settings_top">שורה עליונה</string>
     <string name="power_superpower_title_systemui_highpower">זמן שנותר</string>
     <string name="power_superpower_title_systemui_lowpower">חבר מטען</string>
@@ -2200,6 +2241,7 @@
     <string name="pref_normal_traffic_limit">כאשר תכנית הנתונים מנוצלת עד לתומה</string>
     <string name="pref_open_adjust_traffic">עדכן את השימוש בנתונים בכל יום על פי סטטיסטיקות מספק הרשת שלך</string>
     <string name="pref_operator_not_set">ספק הרשת אינו מוגדר</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">כאשר הינך חורג מתכנית הנתונים שלך</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_pkg_begin_date">תאריך איפוס שימוש</string>
@@ -2362,6 +2404,7 @@
     <string name="privacy_using_record">הקלטת שמע</string>
     <string name="privacyapp_number_masked_text">תוכן ההתראות מוסתר</string>
     <string name="privacyapp_number_unmasked_text">ניתן להסתיר את תוכן ההתראות</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="process_vpnsdkmanager_label">מאיץ המשחקים</string>
     <string name="promotion">פרסומת</string>
@@ -3194,6 +3237,9 @@ Rolled over extra data"</string>
     <string name="vb_advanced_settings_after_open">אחרי</string>
     <string name="vb_advanced_settings_before_open">לפני</string>
     <string name="vb_advanced_settings_pic_stronger_desc">הופך אובייקטים נעים לחדים יותר בעזרת שיפור ההנפשות. תכונה זו דורשת צריכת חשמל גבוהה יותר.</string>
+    <string name="vb_fps_settings">קצב רענון אוטומטי</string>
+    <string name="vb_fps_settings_tips">תכונה זו מתאימה את קצב רענון המסך לקצב פריימים של וידאו, מה שחוסך בסוללה והופך את ההפעלה לחלקה. הפעלת תגובות צפות תכבה את קצב הרענון האוטומטי.</string>
+    <string name="vb_quick_func_auto_bgm">זיהוי מוזיקת רקע</string>
     <string name="vb_quick_func_hangup_listening">נגן צליל וידאו כשהמסך כבוי</string>
     <string name="vb_quick_func_screen_capture">צילום מסך</string>
     <string name="vb_quick_func_screen_record">הקלטה</string>
@@ -3205,9 +3251,19 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_display_style">סגנון</string>
     <string name="vb_video_effects_setting_black_white">שחור ולבן</string>
     <string name="vb_video_effects_setting_cinema">קולנוע</string>
+    <string name="vb_video_effects_setting_girl">סמוק</string>
+    <string name="vb_video_effects_setting_gorgeous">מלא חיים</string>
+    <string name="vb_video_effects_setting_green_orange">כתום</string>
+    <string name="vb_video_effects_setting_grim">קריר</string>
+    <string name="vb_video_effects_setting_hdr">HDR</string>
+    <string name="vb_video_effects_setting_knight">מטאלי</string>
+    <string name="vb_video_effects_setting_mecha">רובוט</string>
+    <string name="vb_video_effects_setting_nostalgia">נוסטלגיה</string>
     <string name="vb_video_effects_setting_old_movie">רטרו</string>
     <string name="vb_video_effects_setting_outside">בחוץ</string>
     <string name="vb_video_effects_setting_raw">מקור</string>
+    <string name="vb_video_effects_setting_solar">מעומעם</string>
+    <string name="vb_video_effects_setting_warmth">חמים</string>
     <string name="vb_video_effects_settings_liquid">בהירות</string>
     <string name="vb_video_effects_settings_stereo">עוצמת שמע</string>
     <string name="vb_video_effects_srs_premium_sound">צליל</string>

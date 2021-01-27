@@ -67,6 +67,7 @@
     <string name="auth_fail_warning">פג תוקף התהליך. היכנס שוב.</string>
     <string name="auto_play_next_off">ניגון אוטומטי כבוי</string>
     <string name="auto_play_next_on">ניגון אוטומטי מופעל</string>
+    <string name="back_to_mainpage">גלה</string>
     <string name="before_yestoday">לפני יומיים</string>
     <string name="bind_sign_in_title">הוספת חשבון Mi</string>
     <string name="cancel">ביטול</string>
@@ -124,7 +125,7 @@
 ID:%s
 שלח קוד זה לאחראי."</string>
     <string name="dialog_privacy_info_new2">כדי להשתמש בשירותים אלה, עליך להסכים לכך ש-%1$s תאסוף ותעבד נתונים אישיים שלך ותשתמש בהם. הקשה על \"מסכים\" למטה מהווה אישור לכך שקראת את &lt;a href=%2$s>מדיניות הפרטיות&lt;/a> שלנו והסכמת אתה.</string>
-    <string name="dialog_privacy_info_new3">כדי להשתמש בשירות זה, עליך לאשר ל-%1$s לאסוף ולעבד מידע אישי שלך ולהשתמש בו בהתאם למדיניות הפרטיות. הקשה על \"מסכים\" למטה מהווה הסכמה עם &lt;a href=%2$s>מדיניות הפרטיות&lt;/a> ועם &lt;a href=%3$s>הסכם המשתמש&lt;/a> של Xiaomi.</string>
+    <string name="dialog_privacy_info_new3">כדי להשתמש בשירות זה, עליך לאפשר ל-%1$s לאסוף ולעבד מידע אישי שלך ולהשתמש בו על-פי מדיניות הפרטיות. הקשה על מסכים למטה מהווה הסכמה &lt;a href=%2$s>למדיניות הפרטיות&lt;/a> וגם &lt;a href=%3$s>להסכם המשתמש&lt;/a> של Xiaomi. &lt;br/>&lt;br/>הקשה על מסכים גם תאפשר ל-Mi Video לקבל גישה לרשימת היישומים המותקנים במכשירך. הרשאה זו תאפשר ל-Mi Video לשתף פריטים, לבדוק האם יישום כלשהו מותקן במכשירך, איזו גרסה של היישום מותקנת, והאם היישום מאובטח.</string>
     <string name="dialog_privacy_title">הרשאה</string>
     <string name="dialog_revoke_privacy_info_new2">לאחר ביטול ההרשאה, היישום יפסיק לאסוף נתונים, וכל הנתונים הרלוונטיים יימחקו מהשרתים שלנו. זה עלול לגרום לכך שלא ניתן יהיה להשתמש ביישום. לבטל את ההרשאה בכל מקרה?</string>
     <string name="dialog_revoke_privacy_title">מתבצע ביטול ההרשאה</string>
@@ -161,6 +162,7 @@ ID:%s
     <string name="favorite_cancel_success">הוסר מרשימת המועדפים בהצלחה</string>
     <string name="favorite_fail">לא ניתן להוסיף למועדפים. נסה שוב.</string>
     <string name="favorite_success">נוסף למועדפים בהצלחה</string>
+    <string name="fcm_push_title">סרטונים פופולריים</string>
     <string name="feedback">משוב</string>
     <string name="feedback_activity_title">משוב</string>
     <string name="feedback_contact_empty">הזן את פרטי הקשר שלך</string>
@@ -486,6 +488,9 @@ ID:%s
     <string name="notification_bar_player_subtitle">הצג נגן ממוזער בצל ההתראות</string>
     <string name="notification_bar_player_title">מזער נגן</string>
     <string name="notification_open_tip">הפעל לקבלת התראות</string>
+    <string name="notification_recall_action">הפעל</string>
+    <string name="notification_recall_desc">Mi Video יכול להודיע ​​לך על סרטונים פופולריים ועל המינויים שלך.</string>
+    <string name="notification_recall_title">הפעל התראות</string>
     <string name="notify_apk_installed">ההורדה הושלמה בהצלחה</string>
     <string name="ok">אישור</string>
     <string name="order_alphabet">"א'-ת'"</string>
@@ -684,6 +689,7 @@ ID:%s
     <string name="permission_storage">אחסון</string>
     <string name="permission_storage_desc">על מנת לגשת לפריטים, שמירת קבצים, הצגה והפעלה של סרטונים מקומיים</string>
     <string name="permission_title">נדרשות הרשאות</string>
+    <string name="pgc_push_title">מינויים</string>
     <string name="phone_bind_too_many">מספר טלפון זה קושר למספר חשבונות Mi בפרק זמן קצר. נסה להשתמש במספר טלפון אחר.</string>
     <string name="phone_hint">מספר טלפון</string>
     <string name="phone_num_use_for">מספר הטלפון משמש עבור:</string>

@@ -4,6 +4,9 @@
     <string name="back">הקודם</string>
     <string name="cancel">ביטול</string>
     <string name="category_other">אחר</string>
+    <string name="channel_name_aggregation">התראות מקובצות</string>
+    <string name="channel_name_notification">התראות יישום</string>
+    <string name="channel_name_recovered">התראות משוחזרות</string>
     <string name="confirm">אישור</string>
     <string name="default_list_type">מיון לפי תאריך הקבלה</string>
     <string name="disable_float_notification">הודעות צפות זמינות אינן מאופשרות</string>
@@ -30,10 +33,14 @@
     <string name="lock_screen_tip_toast">אפשר נעילת מסך התראות \"בפורמט\"</string>
     <string name="lockscreen_notifications">"התראות 'מסך הנעילה'"</string>
     <string name="lockscreen_notifications_short">מסך נעילה</string>
+    <string name="menu_setting_aggregatation_feedback">אפשרויות קיבוץ</string>
+    <string name="menu_setting_feedback_donot_classify">לא לקבץ</string>
+    <string name="menu_setting_more_settings">הגדרות נוספות</string>
     <string name="menu_setting_show_in_home">לא לקבץ</string>
     <string name="menu_setting_tip_show_in_home">ההתראות מ-%s לא יקובצו</string>
     <string name="menu_setting_tip_unfold">כל ההתראות מהאפליקציה הזאת ייחשבו כחשובות</string>
     <string name="menu_setting_unfold">חשוב</string>
+    <string name="mune_setting_prefix_category">"הכנס לקבוצה עם "</string>
     <string name="not_sent_recently">לא לאחרונה</string>
     <string name="notch_and_status_bar_setting">מרכז הבקרה ושורת המצב</string>
     <string name="notification_aggregate_description1">MIUI יכולה לקבץ התראות בדחיפה והתראות קבוצתיות באופן אוטומטי, מה שיהפוך את צל ההתראות בטלפון לעמוס פחות.</string>
@@ -50,6 +57,7 @@
     <string name="notification_style_miui">MIUI</string>
     <string name="off">כיבוי</string>
     <string name="on">מופעל</string>
+    <string name="setting_menu_success">הוגדר בהצלחה</string>
     <string name="settings_guide_title">צריך הגדרות נוספות?</string>
     <string name="show_badge_notifications">התרעות תגים</string>
     <string name="show_badge_notifications_short">תגים</string>
@@ -64,4 +72,5 @@
     <string name="summary_lock_screen_enable_notification_first">אפשר התראות על מנת להפעיל התראות על גבי מסך הנעילה</string>
     <string name="summary_show_badge_enable_notification_first">אפשר התראות על מנת להפעיל התראות תגים</string>
     <string name="swipe_to_delete">העבר אצבע שמאלה או ימינה למחיקה</string>
+    <string name="tip_feedback_thanks">תודה לך על המשוב!</string>
 </resources>

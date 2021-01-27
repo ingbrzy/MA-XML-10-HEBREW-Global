@@ -55,6 +55,11 @@
         <item>מצלמה</item>
         <item>גלריה</item>
     </string-array>
+    <string-array name="common_folder_operations">
+        <item>新建</item>
+        <item>重命名</item>
+        <item>删除</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>שם</item>
         <item>כינוי</item>
@@ -99,5 +104,8 @@
     <string-array name="second_guide_contents_pad_or_inter">
         <item>פתקים קוליים</item>
         <item>באפשרותך ליצור הערות קוליות עכשיו. פשוט הקש על הסמל, הקלט את הקול שלך, ושמור את קובץ השמע בתוך הפתק.</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>新建</item>
     </string-array>
 </resources>

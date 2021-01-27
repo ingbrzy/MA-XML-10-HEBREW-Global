@@ -108,6 +108,24 @@
         <item quantity="two">%d סרטונים</item>
         <item quantity="many">%d סרטונים</item>
     </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">הקש פעמיים כדי להחזיר אחורה %d שניות</item>
+        <item quantity="one">הקש פעמיים כדי להחזיר אחורה שנייה אחת</item>
+        <item quantity="two">הקש פעמיים כדי להחזיר אחורה %d שניות</item>
+        <item quantity="many">הקש פעמיים כדי להחזיר אחורה %d שניות</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">הקש פעמיים כדי להריץ קדימה %d שניות</item>
+        <item quantity="one">הקש פעמיים כדי להריץ קדימה שנייה אחת</item>
+        <item quantity="two">הקש פעמיים כדי להריץ קדימה %d שניות</item>
+        <item quantity="many">הקש פעמיים כדי להריץ קדימה %d שניות</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s שניות</item>
+        <item quantity="one">%1$s שניה</item>
+        <item quantity="two">%1$s שניות</item>
+        <item quantity="many">%1$s שניות</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s מנויים</item>
         <item quantity="one">מנוי%s </item>

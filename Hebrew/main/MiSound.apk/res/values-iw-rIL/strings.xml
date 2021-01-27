@@ -53,8 +53,8 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">זה הכול לעכשיו</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">רק רגע…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">לא ניתן היה לטעון פריטים</string>
-    <string name="multi_music_coexistence_summary">כאשר מושמע צליל התראה, עוצמת הקול לא משתנה, וצלילים מרובים לא משפיעים זה על זה</string>
-    <string name="multi_music_coexistence_title">אפשר ריבוי צלילים</string>
+    <string name="multi_music_coexistence_summary">אל תתאים את עוצמת הקול כאשר מתקבלות התראות נכנסות או כאשר מקור אחר משמיע צליל</string>
+    <string name="multi_music_coexistence_title">מספר מקורות שמע</string>
     <string name="music_add_my_sound">הוסף למותאם אישית קבוע מראש</string>
     <string name="music_app_unavailable">ודא כי היישום Mi מוסיקה זמין.</string>
     <string name="music_audio_effect_optimize">הגדרות שמע</string>
@@ -70,6 +70,8 @@
     <string name="music_delete">מחק</string>
     <string name="music_delete_sound_title">מחק קבועים מראש</string>
     <string name="music_dirac_control">ייעול איכות השמע</string>
+    <string name="music_dirac_mode_bluetooth_collar">"אוזניות לתלייה על צוואר Mi בלוטות'"</string>
+    <string name="music_dirac_mode_bluetooth_linefree">"אוזניות Mi בלוטות' (מהדורה ללא כבל)"</string>
     <string name="music_dirac_mode_cancelling">ביטול רעשים של Mi 3.5 מ\"מ</string>
     <string name="music_dirac_mode_capsule">קפסולת Mi</string>
     <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
@@ -162,6 +164,8 @@
     <string name="original_sound">נגן צליל מקורי</string>
     <string name="personal_sound">נגן והחל עם קבוע מראש</string>
     <string name="retry_test">התחל מחדש</string>
+    <string name="ringtone_output_device_summary">"אפשר קול עבור שיחות נכנסות והתראות כאשר יש אביזרים מחוברים (אוזניות חוטיות או מכשירי בלוטות')"</string>
+    <string name="ringtone_output_device_title">אפשר קול לרמקולים</string>
     <string name="save_and_apply">שמור והחל</string>
     <string name="second_note">שים את האוזניות שלך.</string>
     <string name="sound_assist_key_summary">התאם עוצמת צליל נפרדת לכל אפליקציה כאשר מספר אפליקציות מנגנות שמע בו זמנית</string>

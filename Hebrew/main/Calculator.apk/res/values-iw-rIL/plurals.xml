@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="loan_repayment_detail">
         <item quantity="other">פירוט ההחזר ( %d שנים)</item>
-        <item quantity="one">פירוט ההחזר ( %d שנה)</item>
+        <item quantity="one">פירוט ההחזר (%d שנה)</item>
         <item quantity="two">פירוט ההחזר ( %d שנים)</item>
         <item quantity="many">פירוט ההחזר ( %d שנים)</item>
     </plurals>

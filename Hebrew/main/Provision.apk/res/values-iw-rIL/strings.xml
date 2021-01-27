@@ -106,8 +106,9 @@
     <string name="next_fingerprint">הבא</string>
     <string name="note_introduction">יישום זה מאפשר ליצור, להציג ולערוך פתקים.</string>
     <string name="other_settings">הגדרות נוספות</string>
-    <string name="other_settings_ad_dialog_content">"לאחר השבתת מאפיין זה, לא תקבל יותר פרסומות בהתאמה אישית. עם זאת, עדיין תראה פרסומות, והן לא יהיו רלוונטיות לתחומי העניין שלך. למידע נוסף אודות פרסום בהתאמה אישית עיין במדיניות הפרטיות של Xiaomi.
-בכל זאת להשבית פרסומות בהתאמה אישית?"</string>
+    <string name="other_settings_ad_dialog_agree">הפעל</string>
+    <string name="other_settings_ad_dialog_content">כשהמאפיין של המלצות לפרסומות מותאמות אישית מושבת, עדיין תראה את אותו מספר הפרסומות, כמו כשהמאפיין הזה פעיל. עם זאת, הפרסומות שיופיעו לא יהיו רלוונטיות בשבילך, שכן הן לא יהיו מבוססות על ההעדפות האישיות שלך.</string>
+    <string name="other_settings_ad_dialog_disagree">השבת</string>
     <string name="other_settings_ad_disable_summary">הפעל להתאמה אישית של פרסומות</string>
     <string name="other_settings_ad_enable">פרסומות מותאמות אישית</string>
     <string name="other_settings_ad_enable_summary">התאם את הפרסומות לתחומי העניין שלך</string>

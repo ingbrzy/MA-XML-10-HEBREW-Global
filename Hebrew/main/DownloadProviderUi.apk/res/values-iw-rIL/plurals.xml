@@ -30,6 +30,18 @@
         <item quantity="two">%1$d שעות</item>
         <item quantity="many">%1$d שעות</item>
     </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">"%1$d דק'"</item>
+        <item quantity="one">דקה אחת (%1$d)</item>
+        <item quantity="two">"%1$d דק'"</item>
+        <item quantity="many">"%1$d דק'"</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">"%1$d שנ'"</item>
+        <item quantity="one">שנייה אחת (%1$d)</item>
+        <item quantity="two">"%1$d שנ'"</item>
+        <item quantity="many">"%1$d שנ'"</item>
+    </plurals>
     <plurals name="selected_count">
         <item quantity="other">נבחרו %1$d מתוך %2$d</item>
         <item quantity="one">נבחר %1$d מתוך %2$d</item>

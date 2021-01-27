@@ -22,11 +22,6 @@
         <item>בחודש הבא</item>
         <item>בחר תאריך</item>
     </string-array>
-    <string-array name="compose_modes">
-        <item>השב</item>
-        <item>השב לכולם</item>
-        <item>העבר</item>
-    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>זעיר</item>
         <item>קטן</item>

@@ -58,6 +58,9 @@
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="geometry_summary">צורות, אור וצבעים</string>
+    <string name="geometry_super_wallpaper_label">גאומטריה</string>
+    <string name="geometry_title">גאומטריה</string>
     <string name="install_failed">לא ניתן היה להתקין</string>
     <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
 
@@ -77,9 +80,25 @@ Mawrth Vallis"</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">הכוכב האדום</string>
     <string name="midnight">לילה</string>
-    <string name="miuix_appcompat_cloud_state_disabled">הסנכרון עם הענן כבוי</string>
-    <string name="miuix_appcompat_cloud_state_finished">סונכרן עם הענן בהצלחה</string>
-    <string name="miuix_appcompat_cloud_state_syncing">מסנכרן עם הענן…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
+    <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
+    <string name="miuix_appcompat_cancel_description">ביטול</string>
+    <string name="miuix_appcompat_confirm_description">אישור</string>
+    <string name="miuix_appcompat_delete_description">מחק</string>
+    <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
+    <string name="miuix_appcompat_search_input_description">חיפוש</string>
+    <string name="miuix_appcompat_select_all_description">בחר הכל</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">משוך כלפי מטה כדי לרענן</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">רוענן בהצלחה</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">מרענן…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">שחרר כדי לרענן</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">זה הכול לעכשיו</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">זה הכול לעכשיו</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">רק רגע…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">לא ניתן היה לטעון פריטים</string>
     <string name="monday">שני</string>
     <string name="monday_short">"ב'"</string>
     <string name="monday_shortest">"ב'"</string>
@@ -188,6 +207,7 @@ Mawrth Vallis"</string>
     <string name="time_picker_dialog_title">הגדרת זמן</string>
     <string name="time_picker_label_hour">"שע'"</string>
     <string name="time_picker_label_minute">"ד'"</string>
+    <string name="title_system_wallpaper_resource">טפט מערכת</string>
     <string name="today">היום</string>
     <string name="tomorrow">מחר</string>
     <string name="tuesday">שלישי</string>
@@ -204,6 +224,9 @@ Mawrth Vallis"</string>
     <string name="wallpaper_setting_super_wallpaper_banner_title">סופר טפטים</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">עוד</string>
     <string name="wallpaper_setting_title">טפט</string>
+    <string name="weather_summary">מידע על מזג האוויר המקומי</string>
+    <string name="weather_super_wallpaper_label">מזג האוויר</string>
+    <string name="weather_title">מזג האוויר</string>
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>

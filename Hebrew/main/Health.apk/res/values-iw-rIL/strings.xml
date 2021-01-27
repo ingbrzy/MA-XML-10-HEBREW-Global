@@ -20,6 +20,7 @@ to add cards"</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="all_records">כל הרשומות</string>
     <string name="altitude">Altitude</string>
+    <string name="altitude_pressure_hint">*Altitude calculated based on atmospheric pressure is approximate</string>
     <string name="altitude_range">גובה</string>
     <string name="am">AM</string>
     <string name="audio_permission_dialog_desc">כדי לנתח את מחזור השינה שלך ולהקליט דיבור ונחירות, Xiaomi Health זקוקה להרשאה להקלטת שמע.</string>
@@ -166,6 +167,7 @@ to add cards"</string>
     <string name="dialog_keep">Keep</string>
     <string name="dialog_known">הבנתי</string>
     <string name="dialog_menstruation_purpose">ברוך הבא ל Xiaomi Health! מחזור ווסתי \"מאפשר לך לתעד תקופות מחזור, לקבוע תאריכים מוערכים של תקופות מחזור עתידיות, ולקבל תזכורות. כל הנתונים הקשורים יאוחסנו באופן מקומי במכשיר, מה שמאפשר לך לנהל אותו בקלות.</string>
+    <string name="dialog_new_version_title">An update is available</string>
     <string name="dialog_no_more_prompt">אל תציג שוב</string>
     <string name="dialog_ok">אישור</string>
     <string name="dialog_open">אפשר</string>
@@ -184,6 +186,7 @@ to add cards"</string>
     <string name="dialog_user_agreement_purpose">ברוכים הבאים אל Xiaomi Health! אפשר להשתמש באפליקציה הזו כדי לספור צעדים, לנטר שינה, מחזורים ומשקל, גם לסנכרן את הנתונים לענן.</string>
     <string name="dialog_user_agreement_purpose2">ברוך הבא ל- Xiaomi Health! תוכל להשתמש באפליקציה זו כדי לספור את הצעדים שלך, לנתח שינה, לעקוב אחר מחזור חודשי, לתעד משקל ועוד.</string>
     <string name="disable">Off</string>
+    <string name="discard_update">No thanks</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>
     <string name="dream_talk_title">Talking</string>
@@ -200,6 +203,12 @@ to add cards"</string>
     <string name="enable_right_now">Turn on</string>
     <string name="engrgy_format">%1$d W</string>
     <string name="enough">Enough</string>
+    <string name="environment_detection_again">Try again</string>
+    <string name="environment_detection_fail">"Looks like it's too noisy here"</string>
+    <string name="environment_detection_fail_hint">Move to a quiet place and try again.</string>
+    <string name="environment_detection_hint_one">Avoid noisy places to make stats more accurate.</string>
+    <string name="environment_detection_hint_two">Your workout will be paused and resumed automatically based on the sounds you produce.</string>
+    <string name="environment_detection_ing">Checking workout environment…</string>
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
     <string name="evening">לפנות ערב</string>
@@ -276,6 +285,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="feedback_need_permission_msg">אפשר ל Xiaomi Health לכתוב על כונן חיצוני על מנת לחולל יומנים המשמשים למשוב.</string>
     <string name="feedback_permission_denied_msg">Xiaomi Health לא יכול לשמור יומנים על כונן חיצוני. אפשר הרשאות נדרשות עבור Xiaomi Health בהגדרות.</string>
     <string name="fewer">Little</string>
+    <string name="find_new_verision">Version %s is available now</string>
     <string name="finish">סיום</string>
     <string name="finished_rate">Completed %1$d%%</string>
     <string name="fmt_date_day">dd</string>
@@ -342,6 +352,8 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="health_app_name_dev">Health מפתח</string>
     <string name="health_score">דירוג מצב בריאותי</string>
     <string name="health_score_tips">ציון הבריאות שלך מחושב בהתבסס על ה-BMI שלך (מדד מסת הגוף), כמו גם השינה והפעילות שלך. ככל שאתה קרוב יותר למטרותיך, כך תוצאת הבריאות שלך תהיה גבוהה יותר.</string>
+    <string name="health_uninstall_dialog_content">Xiaomi Health הוא יישום מערכת. ניתן להשתמש בו כדי לספור צעדים, לנטר שינה, וסת ומשקל, וגם כדי לסנכרן את הנתונים שלך לענן. לא ניתן יהיה להשתמש ביישום זה אחרי הסרתו.</string>
+    <string name="health_uninstall_dialog_title">להסיר את Xiaomi Health?</string>
     <string name="height">Hight</string>
     <string name="high">גבוה</string>
     <string name="high2">גבוהה</string>
@@ -354,6 +366,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="hour">H</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
+    <string name="immediately_experience">Update</string>
     <string name="improve_step_target">נסה להגיע ליעד אותו הצבת. נסה להגדיר אחד גבוה יותר.</string>
     <string name="improve_your_health_default_tips">בצע פעילות גופנית וצבור מספיק שעות שינה על מנת להישאר בריא.</string>
     <string name="inactivated">Not activated</string>
@@ -402,6 +415,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="low">נמוך</string>
     <string name="low_intensity">Low</string>
     <string name="low_intensity_description">קצב נשימה רגיל שמאפשר להמשיך לדבר</string>
+    <string name="lowest_freq">התדירות הנמוכה ביותר</string>
     <string name="lowest_jump">Lowest jump</string>
     <string name="manage_home">Manage start page</string>
     <string name="manual_add">Add manually</string>
@@ -483,6 +497,11 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="miuix_sbl_tracking_progress_labe_up_none">זה הכול לעכשיו</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">רק רגע…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">לא ניתן היה לטעון פריטים</string>
+    <string name="miuix_search_action_mode_cancel">ביטול</string>
+    <string name="miuix_search_history_clear">נקה את היסטוריית החיפוש</string>
+    <string name="miuix_search_history_default_title">היסטוריית חיפוש</string>
+    <string name="miuix_search_recommendation_default_title">ייתכן שזה יעניין אותך</string>
+    <string name="miuix_search_recommendation_item_del_des">מחק</string>
     <string name="model_card_setting">Card settings</string>
     <string name="modify">Edit</string>
     <string name="modify_end_date">שני את תאריך הסיום</string>
@@ -532,6 +551,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="name_title_menstruation_today_end">המחזור צפוי להסתיים היום</string>
     <string name="need_auto_start_permission">על מנת לקבל סטטיסטיקה מדויקת, אפשר ל Xiaomi Health להתחיל באופן אוטומטי.</string>
     <string name="need_unrestricted_permission">על מנת לקבל סטיסטיקה מדויקת, אפשר ל Xiaomi Health לרוץ כל הזמן ברקע.</string>
+    <string name="network_name_china">WLAN</string>
     <string name="network_not_available">"Couldn't connect to the network. Check your network settings and try again."</string>
     <string name="network_not_available2">"Couldn't connect to the network"</string>
     <string name="next_step">הבא</string>
@@ -651,6 +671,24 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="setting_sedentary_title">הזכר לזוז</string>
     <string name="share">Share</string>
     <string name="skip">דלג</string>
+    <string name="skipping_count">Jumps</string>
+    <string name="skipping_detection_no">"Couldn't detect your workout."</string>
+    <string name="skipping_detection_no_hint">Avoid noisy places and keep this device close by.</string>
+    <string name="skipping_kcal">Calories</string>
+    <string name="skipping_pause">Workout paused</string>
+    <string name="skipping_pause_tips">Paused | Resume your workout to continue tracking automatically</string>
+    <string name="skipping_ready">You can start your workout now</string>
+    <string name="skipping_ready_hint_one">Keep this device no farther than 1 meter away from you.</string>
+    <string name="skipping_ready_hint_two">Your workout will be paused and resumed automatically based on the sounds you produce.</string>
+    <string name="skipping_ready_toast">"We've increased the volume so you hear the instructions better."</string>
+    <string name="skipping_reset_time">Rest</string>
+    <string name="skipping_start_counting">Start</string>
+    <string name="skipping_time">Duration</string>
+    <string name="skipping_upload_dialog_agree_and_upload">העלה</string>
+    <string name="skipping_upload_dialog_msg">"כאשר מכשירך מחובר ל-%s, באפשרותך להעלות את קובצי השמע שהוקלטו באימונים' על מנת לשפר את דיוק הנתונים הסטטיסטיים הקשורים לאימונים. קובצי השמע יוצפנו כדי להגן על פרטיותך."</string>
+    <string name="skipping_upload_dialog_reject_not_remind">לא, תודה</string>
+    <string name="skipping_upload_dialog_title">העלה קובצי שמע</string>
+    <string name="skipping_upload_tips">Upload audio to make stats more accurate</string>
     <string name="sleep">שינה</string>
     <string name="sleep_and_get_up_time">Bedtime schedule</string>
     <string name="sleep_auto_start_perm_grant">ההרשאות הוענקו</string>
@@ -663,7 +701,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="sleep_deep">שינה עמוקה</string>
     <string name="sleep_deep_light_analysis">Light sleep and deep sleep</string>
     <string name="sleep_deep_light_close_tip">Deep sleep analysis is off</string>
-    <string name="sleep_deep_light_no_data">Placing your mobile device next to the pillow will make sleep data more accurate</string>
+    <string name="sleep_deep_light_no_data">"Couldn't track sleep. Placing your mobile device next to the pillow will make sleep data more accurate."</string>
     <string name="sleep_detection_enable">Analyze sleep cycle</string>
     <string name="sleep_detection_feedback">Feedback</string>
     <string name="sleep_detection_guide_four_description">Sleep tracking consumes only about 1% of your battery per night</string>
@@ -824,6 +862,8 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="sustain_title">"לא זזת כבר "</string>
     <string name="swim">Swimming</string>
     <string name="swim_type">Style</string>
+    <string name="swipe_right_to_end">Swipe right to end</string>
+    <string name="swipe_up_to_end">Swipe up to end</string>
     <string name="tb_mens_mark_success">Marked successfully</string>
     <string name="tb_mens_select_column">Cycle starts on%1$s.%2$s.%3$s.</string>
     <string name="tb_mens_unmark_success">Canceled successfully</string>
@@ -908,7 +948,8 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="total_distance_label">מרחק כולל</string>
     <string name="total_slip">Number of strokes</string>
     <string name="total_time_label">זמן כולל</string>
-    <string name="treadmill">跑步机</string>
+    <string name="treadmill">Treadmill</string>
+    <string name="try_again">Try again</string>
     <string name="tuesday">שלישי</string>
     <string name="tuesday_short">"ג'"</string>
     <string name="tuesday_shortest">"ג'"</string>
@@ -939,6 +980,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="user_center">Profile</string>
     <string name="user_invalid_value">--</string>
     <string name="value_error_correct">ערוך רשומה</string>
+    <string name="voice_remind">"We've increased the volume so you hear the instructions better."</string>
     <string name="walk">Walking</string>
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>

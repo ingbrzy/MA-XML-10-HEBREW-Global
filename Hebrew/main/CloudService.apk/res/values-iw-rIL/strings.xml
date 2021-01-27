@@ -21,6 +21,7 @@
     <string name="cloud_find_device_off">כבוי</string>
     <string name="cloud_find_device_on">מופעל</string>
     <string name="cloud_lab_title">Lab</string>
+    <string name="cloud_space_full_gallery_notification_content_text">שדרג את המינוי שלך כדי לקבל נפח אחסון נוסף בענן</string>
     <string name="cloud_storage_already_full">לא נשאר נפח אחסון פנוי בענן: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">תפוס: %1$s%2$s</string>
     <string name="cloud_storage_default_title">אחסון בענן</string>
@@ -39,6 +40,8 @@
     <string name="connect_network_china">Connect to WLAN or insert a SIM card</string>
     <string name="connect_wlan">התחבר לרשת אלחוטית</string>
     <string name="connect_wlan_china">Connect to WLAN</string>
+    <string name="cta_notification_content_text">אשר ל-%s להתחבר לאינטרנט כדי שתוכל לשחזר פריטים</string>
+    <string name="cta_notification_content_title">לא ניתן לשחזר את הפריטים מ-%s</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">בחשבון זה נעשה שימוש גם במכשיר אחר. האם למזג את הפריטים ממספר יישומים (כולל מ-%1$s ומ-%2$s) עם הפריטים שבמכשיר זה?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">בחשבון זה נעשה שימוש גם במכשיר אחר. האם למזג את הפריטים מ-%s עם הפריטים שבמכשיר זה?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">בחשבון זה נעשה שימוש גם במכשיר אחר. האם למזג את הפריטים מ-%1$s ו-%2$s עם הפריטים שבמכשיר זה?</string>
@@ -66,6 +69,8 @@
     <string name="feedback_custom_hint">תאר את הבעיות שבהן נתקלת כאן. אם יש לך הצעות, נודה אם תוכל לפרט!</string>
     <string name="find_device">איתור מכשיר</string>
     <string name="find_device_dspt_provision">אם תאבד את מכשירך תוכל להיכנס לכתובת &lt;font color=#0097FF>%s&lt;/font> כדי לאתר, לנעול או לאפס אותו. ניתן להפעיל או לכבות את המאפיין הזה בכל עת בהגדרות המכשיר.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">בדוק את חיבור הנתונים שלך ונסה שוב.</string>
     <string name="find_device_error_server">שגיאת שרת</string>
     <string name="find_device_gdpr_prompt">בהדלקת אפשרות חיפוש מכשיר, אתה מסכים ל<a href="app://com.miui.cloudservice.gdpr.license"><u>מדיניות הפרטיות</u></a> אם עליך לשלול הרשאות. כבה אפשרות זו.</string>
@@ -87,6 +92,7 @@
     <string name="ks_fingerprint_status">סטטוס תשלום</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
+    <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
     <string name="ks_name_soter">Soter</string>
     <string name="ks_name_widevine">Widevine (L1)</string>
     <string name="ks_status_available">זמין</string>
@@ -136,11 +142,6 @@
     <string name="micloud_battery_low_notification_message">חבר מטען על מנת לסנכרן</string>
     <string name="micloud_battery_low_notification_title">סוללה חלשה</string>
     <string name="micloud_buy_member_safe">קבל עוד נפח אחסון ב Cloud</string>
-    <string name="micloud_check_sim_notify_text">"נראה כי החלפת כרטיס SIM. היכנס
-לחשבון Mi שלך להפעלה מחודשת של Xiaomi Cloud."</string>
-    <string name="micloud_check_sim_notify_title">הפעל מחדש את Xiaomi Cloud</string>
-    <string name="micloud_check_sim_title">"נראה כי החלפת כרטיס SIM. היכנס
-לחשבון Mi שלך להפעלה מחודשת של Xiaomi Cloud."</string>
     <string name="micloud_confusion_account_hint">שינויים שתבצע במכשיר זה יסונכרנו עם כל ההתקנים שלך. על מנת להגן על החשבון שלך, אנו ממליצים להפסיק סינכרון עם התקנים אחרים בעת שאינך משתמש בהם.</string>
     <string name="micloud_confusion_account_name">חשבון:</string>
     <string name="micloud_confusion_account_notify_text">התקן אחר מבצע שנויים חשבון Mi שלך. אמת את חשבונך כעת.</string>
@@ -179,7 +180,7 @@
     <string name="micloud_dspt_provision_china">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_xms">השתמש ב- Xiaomi Cloud בכדי לסנכרן נתונים.</string>
     <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
-    <string name="micloud_find_device_close_alert_content">אם תכבה את אפשרות איתור המכשיר, לא תוכל לאתר את הטבלט באמצעות תכונה זו. אם הטבלט שלך תומך בפונקציונליות NFC, כל כרטיסי הבנק וכרטיסי המפתח יימחקו מ-Mi Pay.</string>
+    <string name="micloud_find_device_close_alert_content">"If you turn off Find device, you won't be able to locate your device using this feature. If your device supports NFC, all your bank cards and keycards will be deleted from Mi Pay. People with whom you share location won't be able to receive updates on your whereabouts as well."</string>
     <string name="micloud_find_device_close_alert_negtive">כבה בכל זאת</string>
     <string name="micloud_find_device_close_alert_positive">השאר מופעל</string>
     <string name="micloud_find_device_close_alert_title">"לכבות את 'איתור המכשיר'?"</string>
@@ -209,11 +210,14 @@
     <string name="micloud_find_device_open_fail">לא ניתן היה להפעיל איתור מכשיר</string>
     <string name="micloud_find_device_opened">איתור מכשיר מופעל</string>
     <string name="micloud_find_device_opened_content">אתר את המכשיר שלך ב %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">יתכן שידרש מסרון SMS יוצא על מנת להפעיל מכשיר זה. ספק הרשת שלך יחייב אותך בגין מסרון זה. כשתחליף את כרטיס ה-SIM שלך, ישלח מסרון באופן אוטומטי על מנת להפעיל מחדש תכונה זו.</string>
     <string name="micloud_find_device_verify_button">"הפעל מחדש את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_verify_close">"כבה את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_verify_fail">"לא ניתן היה להפעיל מחדש את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_verify_progress">"מפעיל מחדש את 'איתור המכשיר'…"</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">הסינכרון בוטל. נסה שנית.</string>
     <string name="micloud_main_head_menu_cloud_backup">גיבוי מסך הבית</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">"הגדרות מערכת ופריסת 'מסך הבית'"</string>
@@ -256,6 +260,11 @@
     <string name="micloud_manual_pausing">הסנכרון הושהה</string>
     <string name="micloud_manual_pending">ממתין…</string>
     <string name="micloud_manual_reactivate">הפעל מחדש</string>
+    <string name="micloud_manual_request_permission_cancel">ביטול</string>
+    <string name="micloud_manual_request_permission_confirm">הגדרות</string>
+    <string name="micloud_manual_request_permission_content">כדי שתוכל להשתמש בשירותינו, עליך להעניק ל-Xiaomi Cloud את ההרשאות הבאות, תחת \"הגדרות\": \"%s\".</string>
+    <string name="micloud_manual_request_permission_content_on_provision">קודם עליך להעניק את ההרשאות הנדרשות תחת \"אבטחה\"</string>
+    <string name="micloud_manual_request_permission_title">נדרשות הרשאות</string>
     <string name="micloud_manual_sync_all">סנכרן את כל הפריטים</string>
     <string name="micloud_manual_sync_now">סנכרון</string>
     <string name="micloud_manual_sync_now_retry">נסה שוב</string>
@@ -297,7 +306,7 @@
     <string name="micloud_privacy_warning_title">שים לב</string>
     <string name="micloud_proceed">המשך</string>
     <string name="micloud_request_permission_confirm">הבנתי</string>
-    <string name="micloud_request_permission_content">Xiaomi Cloud זקוק להרשאות על מנת לסנכרן נתונים. אפשר ל-Xiaomi Cloud לגשת ללוח השנה, אנשי הקשר, חשבון Mi, מצב כרטיס SIM, יומן שיחות, והודעות.</string>
+    <string name="micloud_request_permission_content">כדי לסנכרן אירועי לוח שנה, אנשי קשר, הודעות, יומן שיחות, תמונות, סרטונים ופריטים נוספים, השירות Xiaomi Cloud זקוק להרשאת גישה ללוח השנה, לרשימת אנשי הקשר, לחשבונות, למצב כרטיס הסים, ליומן השיחות, להודעות, לתמונות ולסרטונים שלך.</string>
     <string name="micloud_request_permission_title">Xiaomi Cloud זקוק להרשאות</string>
     <string name="micloud_request_sync_too_frequent">בקשות רבות מידי. המתן דקה או שתיים ונסה שוב.</string>
     <string name="micloud_setting_antispam_summary">מספרי טלפון חריגים וחסומים</string>
@@ -326,7 +335,7 @@
     <string name="micloud_storage_expires_soon_title">תוקף אחסון Xiaomi Cloud יפוג בקרוב</string>
     <string name="micloud_storage_expires_very_soon_title">תוקף אחסון Xiaomi Cloud יפוג בקרוב</string>
     <string name="micloud_storage_full">הענן מלא</string>
-    <string name="micloud_storage_unit_gb">%s ג\"ב</string>
+    <string name="micloud_storage_unit_gb">%s GB</string>
     <string name="micloud_storage_unit_mb">%s MB</string>
     <string name="micloud_sync_alert_dialog_message">סנכרן את התמונות, אנשי קשר, פתקים, יישומים שלך, ועוד בין כל המכשירים שלך.</string>
     <string name="micloud_sync_alert_dialog_negative">ביטול</string>
@@ -360,6 +369,15 @@
     <string name="micloud_wipe_data_confirm_title">פריטים מסוימים מהאפליקציות הבאות מסונכרנים עם Xiaomi Cloud. ניתן למחוק אותם מהמכשיר הזה והם יישמרו בענן.</string>
     <string name="micloud_wipe_data_remove">הסר</string>
     <string name="micloud_wipe_data_retain">השאר</string>
+    <string name="midrive_guide1_desc">גבה פריטים לענן כדי לפנות שטח אחסון על מכשירך.</string>
+    <string name="midrive_guide1_title">גיבויים בטוחים</string>
+    <string name="midrive_guide2_desc">הורד פריטים במהירות הבזק.</string>
+    <string name="midrive_guide2_title">הורדות מהירות</string>
+    <string name="midrive_guide3_desc">השתמש ב-Mi Drive במכשירים ניידים, מחשבים ודפדפנים.</string>
+    <string name="midrive_guide3_title">עובד בכל מקום</string>
+    <string name="midrive_guide_btn_install">התקן את Mi Drive</string>
+    <string name="midrive_guide_btn_installed">פתח את Mi Drive</string>
+    <string name="midrive_guide_btn_installing">מתקין…</string>
     <string name="mx_dspt">Mi Message</string>
     <string name="mx_dspt_provision">"הודעות Mi מאפשר לך לשלוח הודעות להתקנים אחרים של MIUI ללא תשלום כאשר קיים חיבור לרשת אלחוטית.
 
@@ -380,7 +398,7 @@
     <string name="mx_voip_dspt">Mi Voice</string>
     <string name="no_sim">לא ניתן היה למצוא כרטיס SIM</string>
     <string name="pay_info_dialog_confirm_to_pay">שלם %s</string>
-    <string name="pay_info_dialog_mibi_balance_prefix">השתמש בנקודות Mi שנותרו: %s</string>
+    <string name="pay_info_dialog_mibi_balance_prefix">השתמש במטבעות Mi שנותרו: %s</string>
     <string name="pay_info_dialog_title">בחר אמצעי תשלום</string>
     <string name="phone_number_required_dspt_provision">"שירות זה דורש את מספר הטלפון שלך. "</string>
     <string name="picker_list_empty">לא נמצאו אנשי קשר</string>
@@ -399,6 +417,7 @@
     <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
     <string name="privacy_doc_cloudservice">ברוך הבא לשירותי הענן של Xiaomi! אתה יכול להשתמש ב-Xiaomi Cloud כדי לסנכרן את ההודעות, היסטוריית השיחות, רשימת אנשי הקשר, ההערות, הגדרות הדפדפן, השירים, התמונות והסרטונים שלך, וכן את הגדרות החיבור לאינטרנט אלחוטי, ההקלטות, פריסת מסך הבית, היישומים, אירועים בלוח השנה, רשימת החסומים וכספת היישומים בכל המכשירים המחוברים. ניתן לגשת לפריטים המסונכרנים מכל דפדפן, בכתובת &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />ייתכן שכדי להפעיל את השירותים תידרש לשלוח הודעות SMS יוצאת. חברת הסלולר שלך תחייב אותך בגין הודעה זו. בעת החלפת כרטיס ה-SIM שלך, ייתכן שתישלח הודעה אוטומטית לצורך הפעלה מחדש של שירותים אלה.&lt;br />&lt;br />אנו נגן על המידע האישי שלך בהתאם לחוקים, התקנות, ומסמכי מדיניות הפרטיות המתאימים.&lt;br />לפעולה תקינה של היישומים נדרשים חיבור לאינטרנט והענקת ההרשאות הבאות שיאפשרו לאסוף את המידע האישי שלך:&lt;br />• לוח שנה:&lt;br />לצורך סנכרון אירועים&lt;br />• גישה ל- SMS:&lt;br />לצורך סנכרון הודעות&lt;br />• גישה ל-MMS:&lt;br />לצורך סנכרון הודעות&lt;br />• גישה לאנשי קשר:&lt;br />לצורך סנכרון אנשי קשר&lt;br />• עריכת אנשי קשר:&lt;br />לצורך סנכרון אנשי קשר&lt;br />• אחסון:&lt;br />לצורך שמירת פריטים במכשיר שלך (למשל תמונות, סרטונים, שירים)&lt;br />אם אינך מסכים להעניק הרשאות כאלה או לשתף ולהעלות את המידע האישי שלך, לא תוכל להשתמש בשירותים אלה. במקרים כאלו, תוכל לבחור להסיר את התקנת היישום, לצאת ממנו, או להגביל את ההרשאות (בהגדרות).&lt;br />לפני השימוש ב-Xiaomi Cloud עליך לקרוא ולהסכים ל&lt;a href=%1$s>&lt;u>הסכם המשתמש&lt;/u>&lt;/a>ול&lt;a href=%2$s>&lt;u>מדיניות הפרטיות&lt;/u>&lt;/a> שלנו.&lt;br /></string>
     <string name="privacy_doc_cloudservice_china">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />An outgoing SMS message may be required to activate these services. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate these services.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%1$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using Xiaomi Cloud.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_global">Xiaomi Cloud זקוק לחיבור לאינטרנט כדי לעבוד כנדרש. ייתכן שיהיה צורך להשתמש בגלישה סלולרית או בהפעלת Wi-Fi כדי לסנכרן נתונים. עליך לקרוא את &lt;a href=%1$s>&lt;u>הסכם המשתמש&lt;/u>&lt;/a> ואת &lt;a href=%2$s>&lt;u>מדיניות הפרטיות&lt;/u>&lt;/a> שלנו כדי להשתמש בשירותי Xiaomi Cloud.</string>
     <string name="privacy_doc_finddevice_pad">ברוך הבא לשירות איתור המכשיר! תוכל להשתמש בו כדי לאתר, לנעול או לאפס את המכשיר שלך במקרה של אובדן. ניתן לאתר, לנעול או לאפס את המכשיר בכתובת&lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>&lt;br />&lt;br />אנו נגן על המידע האישי שלך בהתאם לחוקים, לתקנות ולמסמכי מדיניות הפרטיות המתאימים&lt;br />לפעולה תקינה של השירות נדרשים חיבור לאינטרנט והענקת ההרשאות הבאות שיאפשרו לאסוף מידע אישי שלך:&lt;br />• גישה לפרטי המכשיר:&lt;br />לצורך זיהוי מכשירך&lt;br />• מיקום:&lt;br />לצורך איתור המכשיר שלך והעברה למצב מכשיר אבוד&lt;br />אם אינך מסכים להעניק הרשאות כאלה או לשתף ולהעלות את המידע האישי שלך, לא תוכל להשתמש בשירות. במקרים כאלו, תוכל לבחור להסיר את התקנת היישום, לצאת ממנו, או להגביל את ההרשאות בהגדרות.&lt;br />לפני השימוש בשירות איתור המכשיר, עליך לקרוא ולהסכים ל&lt;a href=%1$s>&lt;u>הסכם המשתמש&lt;/u>&lt;/a>ול&lt;a href=%2$s>&lt;u>מדיניות הפרטיות&lt;/u>&lt;/a> שלנו.&lt;br /></string>
     <string name="privacy_doc_finddevice_phone">ברוך הבא לשירות איתור המכשיר! תוכל להשתמש בו כדי לאתר, לנעול או לאפס את המכשיר שלך במקרה של אובדן. ניתן לאתר, לנעול או לאפס את המכשיר בכתובת&lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>&lt;br />&lt;br />אנו נגן על המידע האישי שלך בהתאם לחוקים, לתקנות ולמסמכי מדיניות הפרטיות המתאימים&lt;br />לפעולה תקינה של השירות נדרשים חיבור לאינטרנט והענקת ההרשאות הבאות שיאפשרו לאסוף מידע אישי שלך:&lt;br />• גישה לפרטי המכשיר:&lt;br />לצורך זיהוי מכשירך&lt;br />• מיקום:&lt;br />לצורך איתור המכשיר שלך והעברה למצב מכשיר אבוד&lt;br />אם אינך מסכים להעניק הרשאות כאלה או לשתף ולהעלות את המידע האישי שלך, לא תוכל להשתמש בשירות. במקרים כאלו, תוכל לבחור להסיר את התקנת היישום, לצאת ממנו, או להגביל את ההרשאות בהגדרות.&lt;br />לפני השימוש בשירות איתור המכשיר, עליך לקרוא ולהסכים ל&lt;a href=%1$s>&lt;u>הסכם המשתמש&lt;/u>&lt;/a>ול&lt;a href=%2$s>&lt;u>מדיניות הפרטיות&lt;/u>&lt;/a> שלנו.&lt;br /></string>
     <string name="privacy_doc_finddevice_with_telephony_feature_pad">ברוך הבא לשירות איתור המכשיר! תוכל להשתמש בו כדי לאתר, לנעול או לאפס את המכשיר שלך במקרה של אובדן. ניתן לאתר, לנעול או לאפס את המכשיר בכתובת&lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>&lt;br />&lt;br />הספק שלך יחייב אותך בגין הודעה זו. כשאתה מחליף את כרטיס ה-SIM שלך, ייתכן שתישלח הודעה אוטומטית לצורך הפעלה מחדש של שירות זה&lt;br />&lt;br />אנו נגן על המידע האישי שלך בהתאם לחוקים, לתקנות ולמסמכי מדיניות הפרטיות המתאימים&lt;br />לפעולה תקינה של השירות נדרשים חיבור לאינטרנט והענקת ההרשאות הבאות שיאפשרו לאסוף מידע אישי שלך:&lt;br />• גישה לפרטי המכשיר:&lt;br />לצורך זיהוי מכשירך&lt;br />• מיקום:&lt;br />לצורך איתור המכשיר שלך והעברה למצב מכשיר אבוד&lt;br />אם אינך מסכים להעניק הרשאות כאלה או לשתף ולהעלות את המידע האישי שלך, לא תוכל להשתמש בשירות. במקרים כאלו, תוכל לבחור להסיר את התקנת היישום, לצאת ממנו, או להגביל את ההרשאות (בהגדרות).&lt;br />לפני השימוש בשירות איתור המכשיר, עליך לקרוא ולהסכים ל&lt;a href=%1$s>&lt;u>הסכם המשתמש&lt;/u>&lt;/a>ול&lt;a href=%2$s>&lt;u>מדיניות הפרטיות&lt;/u>&lt;/a> שלנו.&lt;br /></string>
@@ -421,9 +440,12 @@
     <string name="soundrecorder_sync_records">סנכרן עם Xiaomi Cloud</string>
     <string name="special_func_title">תכונות מיוחדות</string>
     <string name="starred_contact">מועדפים</string>
+    <string name="storage_manage_cloud_data_title">צפה בפריטים בענן</string>
     <string name="storage_manage_expansion">קבל עוד</string>
+    <string name="storage_manage_full_summary">אין נפח אחסון פנוי בענן. שדרג את תכניתך.</string>
     <string name="storage_manage_list_title">נתוני ענן</string>
     <string name="storage_manage_list_title_action">הצג עוד</string>
+    <string name="storage_manage_normal_summary">שנה את תכנית האחסון בענן</string>
     <string name="storage_manage_renewal">חידוש</string>
     <string name="storage_manage_title">שנה את תכנית האחסון בענן</string>
     <string name="storage_manage_upgrade">שדרוג</string>
@@ -447,6 +469,8 @@
     <string name="sync_dspt_entrance_provision_network_china">This app needs to connect to the internet to work normally. Syncing data may require mobile data connection and turning on WLAN.</string>
     <string name="sync_dspt_entrance_provision_skip">דלג על שלב זה</string>
     <string name="sync_dspt_provision">"סנכרן את התמונות שלך, אנשי קשר, פתקים, ועוד על כל ההתקנים שלך או גש אליהם ב "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"תוכל להפעיל או לבטל תכונה זו בכל עת בהגדרות.
 "</string>
     <string name="sync_item_calllog_summary">סנכרון יומן שיחות יוצאות ונכנסות למכשיר זה</string>

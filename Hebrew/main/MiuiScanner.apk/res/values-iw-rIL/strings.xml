@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">משוך כלפי מטה כדי לרענן</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">רוענן בהצלחה</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">מרענן…</string>

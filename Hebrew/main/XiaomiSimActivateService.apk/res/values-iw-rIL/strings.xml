@@ -121,7 +121,7 @@
     <string name="phone_verify_text">%1$s לא יקבל את מספר הטלפון שלך, אלא יוודא כי המספר תקין בלבד. מסכים?</string>
     <string name="phone_verify_title">אפשר ל-%1$s לאמת את מספר הטלפון שלך</string>
     <string name="privacy_revoke_failed_msg">"על מנת שתוכל לבצע הפעלה, יישום ה'הודעות' זקוק להרשאה לקבלת מספר הטלפון שלך."</string>
-    <string name="privacy_revoke_tips">"לאחר שתשלול את ההרשאה, היישום יפסיק לאסוף את הנתונים שלך וימחק את כל הנתונים שלך מהשרתים שלו. הסנכרון עם Mi Cloud, הודעות Mi ותכונות נוספות של 'הודעות' לא יהיו זמינות עוד. לשלול את ההרשאה בכל זאת?"</string>
+    <string name="privacy_revoke_tips">"לאחר שתשלול את ההרשאה, היישום יפסיק לאסוף את הנתונים שלך וימחק את כל הנתונים שלך מהשרתים שלו. הסנכרון עם Xiaomi Cloud, הודעות Mi ותכונות נוספות של 'הודעות' לא יהיו זמינות עוד. לשלול את ההרשאה בכל זאת?"</string>
     <string name="sim_unactivated_title">כרטיס ה-SIM שלך אינו מופעל</string>
     <string name="waiting_sim_in_service">ממתין שכרטיס ה-SIM יופעל</string>
 </resources>

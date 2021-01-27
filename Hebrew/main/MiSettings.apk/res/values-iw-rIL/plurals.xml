@@ -2,7 +2,7 @@
 <resources>
     <plurals name="last_several_days">
         <item quantity="other">%d ימים</item>
-        <item quantity="one">יום אחד (%d)</item>
+        <item quantity="one">יום 1</item>
         <item quantity="two">%d ימים</item>
         <item quantity="many">%d ימים</item>
     </plurals>
@@ -20,19 +20,19 @@
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">זמן המסך היום שווה לממוצע שלך ב-%d הימים האחרונים</item>
-        <item quantity="one">זמן המסך היום שווה לממוצע שלך ב-%d הימים האחרונים</item>
+        <item quantity="one">זמן המסך היום שווה לממוצע שלך ב-1 הימים האחרונים</item>
         <item quantity="two">זמן המסך היום שווה לממוצע שלך ב-%d הימים האחרונים</item>
         <item quantity="many">זמן המסך היום שווה לממוצע שלך ב-%d הימים האחרונים</item>
     </plurals>
     <plurals name="trend_from_last_several_day_less">
         <item quantity="other">זמן המסך היום נמוך ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
-        <item quantity="one">זמן המסך היום נמוך ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
+        <item quantity="one">זמן המסך היום נמוך ב-%2$s מהממוצע שלך ב-1 הימים האחרונים</item>
         <item quantity="two">זמן המסך היום נמוך ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
         <item quantity="many">זמן המסך היום נמוך ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
     </plurals>
     <plurals name="trend_from_last_several_day_more">
         <item quantity="other">זמן המסך היום גבוה ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
-        <item quantity="one">זמן המסך היום גבוה ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
+        <item quantity="one">זמן המסך היום גבוה ב-%2$s מהממוצע שלך ב-1 הימים האחרונים</item>
         <item quantity="two">זמן המסך היום גבוה ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
         <item quantity="many">זמן המסך היום גבוה ב-%2$s מהממוצע שלך ב-%1$d הימים האחרונים</item>
     </plurals>
@@ -44,7 +44,7 @@
     </plurals>
     <plurals name="usage_days">
         <item quantity="other">%d ימים</item>
-        <item quantity="one">יום אחד (%d)</item>
+        <item quantity="one">יום 1</item>
         <item quantity="two">%d ימים</item>
         <item quantity="many">%d ימים</item>
     </plurals>
@@ -56,19 +56,19 @@
     </plurals>
     <plurals name="usage_new_home_total_unlocks">
         <item quantity="other">נפתח מנעילה %d פעמים</item>
-        <item quantity="one">נפתח מנעילה פעם אחת (%d)</item>
+        <item quantity="one">נפתח מנעילה פעם אחת (1)</item>
         <item quantity="two">נפתח מנעילה %d פעמים</item>
         <item quantity="many">נפתח מנעילה %d פעמים</item>
     </plurals>
     <plurals name="usage_new_home_total_unlocks_new">
         <item quantity="other">ביטול נעילה %1$d פעמים ב-%2$s</item>
-        <item quantity="one">ביטול נעילה פעם %1$d ב-%2$s</item>
+        <item quantity="one">ביטול נעילה פעם 1 ב-%s</item>
         <item quantity="two">ביטול נעילה %1$d פעמים ב-%2$s</item>
         <item quantity="many">ביטול נעילה %1$d פעמים ב-%2$s</item>
     </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">נפתח מנעילה %d פעמים</item>
-        <item quantity="one">נפתח מנעילה פעם אחת (%d)</item>
+        <item quantity="one">נפתח מנעילה פעם אחת (1)</item>
         <item quantity="two">נפתח מנעילה %d פעמים</item>
         <item quantity="many">נפתח מנעילה %d פעמים</item>
     </plurals>
@@ -86,43 +86,43 @@
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">לא נעול %d פעמים</item>
-        <item quantity="one">לא נעול פעם %d</item>
+        <item quantity="one">לא נעול פעם 1</item>
         <item quantity="two">לא נעול %d פעמים</item>
         <item quantity="many">לא נעול %d פעמים</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
         <item quantity="other">לא נעול %d פעמים</item>
-        <item quantity="one">לא נעול פעם %d</item>
+        <item quantity="one">לא נעול פעם 1</item>
         <item quantity="two">לא נעול %d פעמים</item>
         <item quantity="many">לא נעול %d פעמים</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
         <item quantity="other">קיבלת %d התראות</item>
-        <item quantity="one">קיבלת התראה %d</item>
+        <item quantity="one">קיבלת התראה 1</item>
         <item quantity="two">קיבלת %d התראות</item>
         <item quantity="many">קיבלת %d התראות</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
         <item quantity="other">קיבלת %d התראות</item>
-        <item quantity="one">קיבלת %d התראה</item>
+        <item quantity="one">קיבלת התראה 1</item>
         <item quantity="two">קיבלת %d התראות</item>
         <item quantity="many">קיבלת %d התראות</item>
     </plurals>
     <plurals name="usage_state_focus_usage_summary">
         <item quantity="other">%d דקות הן צעד גדול קדימה לכיוון של מודעות וריכוז.</item>
-        <item quantity="one">דקה אחת (%d) היא צעד גדול קדימה לכיוון של מודעות וריכוז.</item>
+        <item quantity="one">דקה אחת (1) היא צעד גדול קדימה לכיוון של מודעות וריכוז.</item>
         <item quantity="two">%d דקות הן צעד גדול קדימה לכיוון של מודעות וריכוז.</item>
         <item quantity="many">%d דקות הן צעד גדול קדימה לכיוון של מודעות וריכוז.</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d שעות</item>
-        <item quantity="one">%d שעה</item>
+        <item quantity="one">1 שעה</item>
         <item quantity="two">%d שעות</item>
         <item quantity="many">%d שעות</item>
     </plurals>
     <plurals name="usage_state_hour24">
         <item quantity="other">%d שעות</item>
-        <item quantity="one">שעה %d</item>
+        <item quantity="one">שעה 1</item>
         <item quantity="two">%d שעות</item>
         <item quantity="many">%d שעות</item>
     </plurals>
@@ -134,7 +134,7 @@
     </plurals>
     <plurals name="usage_state_minute">
         <item quantity="other">%d דקות</item>
-        <item quantity="one">דקה %d</item>
+        <item quantity="one">דקה 1</item>
         <item quantity="two">%d דקות</item>
         <item quantity="many">%d דקות</item>
     </plurals>
@@ -146,37 +146,37 @@
     </plurals>
     <plurals name="usage_state_noti_count">
         <item quantity="other">%d התראות</item>
-        <item quantity="one">התראה %d</item>
+        <item quantity="one">התראה 1</item>
         <item quantity="two">%d התראות</item>
         <item quantity="many">%d התראות</item>
     </plurals>
     <plurals name="usage_state_unlock_count">
         <item quantity="other">%d פעמים</item>
-        <item quantity="one">פעם %d</item>
+        <item quantity="one">פעם 1</item>
         <item quantity="two">%d פעמים</item>
         <item quantity="many">%d פעמים</item>
     </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">סופישבוע: %d שעות</item>
-        <item quantity="one">סופישבוע: שעה %d</item>
+        <item quantity="one">סופישבוע: שעה 1</item>
         <item quantity="two">סופישבוע %d שעות</item>
         <item quantity="many">סופישבוע: %d שעות</item>
     </plurals>
     <plurals name="usage_state_week_day_minute">
         <item quantity="other">סופישבוע: %d דקות</item>
-        <item quantity="one">סופישבוע: %d דקה</item>
+        <item quantity="one">סופישבוע: דקה 1</item>
         <item quantity="two">סופישבוע: %d דקות</item>
         <item quantity="many">סופישבוע: %d דקות</item>
     </plurals>
     <plurals name="usage_state_work_day_hour">
         <item quantity="other">ימי חול: %d שעות</item>
-        <item quantity="one">ימי חול: %d שעה</item>
+        <item quantity="one">ימי חול: שעה 1</item>
         <item quantity="two">ימי חול: %d שעות</item>
         <item quantity="many">ימי חול: %d שעות</item>
     </plurals>
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">ימי חול: %d דקות</item>
-        <item quantity="one">ימי חול: %d דקה</item>
+        <item quantity="one">ימי חול: דקה 1</item>
         <item quantity="two">ימי חול: %d דקות</item>
         <item quantity="many">ימי חול: %d דקות</item>
     </plurals>

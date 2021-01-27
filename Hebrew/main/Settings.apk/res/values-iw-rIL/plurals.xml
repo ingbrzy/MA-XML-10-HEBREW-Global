@@ -2,13 +2,13 @@
 <resources>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">לעולם אל תשבית עבור %d יישומים</item>
-        <item quantity="one">Never disable for %d app</item>
+        <item quantity="one">לעולם אל תשבית עבור יישום %d</item>
         <item quantity="two">לעולם אל תשבית עבור %d יישומים</item>
         <item quantity="many">לעולם אל תשבית עבור %d יישומים</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">השבת תמיד עבור %d יישומים</item>
-        <item quantity="one">Always disable for %d app</item>
+        <item quantity="one">השבת תמיד עבור יישום %d</item>
         <item quantity="two">השבת תמיד עבור %d יישומים</item>
         <item quantity="many">השבת תמיד עבור %d יישומים</item>
     </plurals>
@@ -121,10 +121,10 @@
         <item quantity="many">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">"You're %1$d step away from opening device info."</item>
-        <item quantity="one">"You're %1$d step away from opening device info."</item>
-        <item quantity="two">"You're %1$d step away from opening device info."</item>
-        <item quantity="many">"You're %1$d step away from opening device info."</item>
+        <item quantity="other">אתה נמצא במרחק של (%1$d) צעדים מפתיחת פרטי מכשיר.</item>
+        <item quantity="one">אתה נמצא במרחק של צעד אחד (%1$d) מפתיחת פרטי מכשיר.</item>
+        <item quantity="two">אתה נמצא במרחק של (%1$d) צעדים מפתיחת פרטי מכשיר.</item>
+        <item quantity="many">אתה נמצא במרחק של (%1$d) צעדים מפתיחת פרטי מכשיר.</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">הינך נמצא %1$d צעדים לפני דיווח על שגיאה.</item>
@@ -235,10 +235,10 @@
         <item quantity="many">ימי חול: %d דקות</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">"  שעות"</item>
-        <item quantity="one">"  שעה"</item>
-        <item quantity="two">"  שעות"</item>
-        <item quantity="many">"  שעות"</item>
+        <item quantity="other">" שעות"</item>
+        <item quantity="one">" שעה"</item>
+        <item quantity="two">" שעות"</item>
+        <item quantity="many">" שעות"</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_min">
         <item quantity="other">" דקות"</item>

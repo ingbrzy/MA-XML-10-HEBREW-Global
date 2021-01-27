@@ -4,4 +4,74 @@
         <item>זכר</item>
         <item>נקבה</item>
     </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>חשבונות</item>
+        <item>הוסף ונהל חשבונות של צד שלישי</item>
+        <item>הרשאה;חשבון;חשבון Mi;הוספה;צימוד; Xiaomi;הצג;צפה;SNS;Facebook;Google</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>חשבונות</item>
+        <item>הוסף ונהל חשבונות של צד שלישי</item>
+        <item>הרשאה;חשבון;חשבון Mi;הוספה;צימוד; Xiaomi;הצג;צפה;SNS;WeChat;QQ;Weibo</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>שינוי סיסמה</item>
+        <item>שינוי סיסמת חשבון Mi</item>
+        <item>שינוי;סיסמה;Xiaomi;חשבון Mi;חשבון</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>עזרה</item>
+        <item>קבל עזרה ותמיכה בחשבון Mi</item>
+        <item>Xiaomi;חשבון;חשבון Mi;עזרה;תמיכה;צפה;הצג</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>אימות דו-שלבי</item>
+        <item>הגדר אימות דו-שלבי לחשבון Mi שלך</item>
+        <item>כניסה;התחברות;דו-שלבי;אימות;Xiaomi;חשבון;חשבון Mi;הגדרות</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>כניסה ואבטחה</item>
+        <item>טלפון ודוא\"ל שחזור, ניהול סיסמאות</item>
+        <item>חשבון;אבטחה;כניסה;התחברות;Xiaomi;חשבון Mi;מספר טלפון;דוא\"ל;שינוי;סיסמה;הוספה;צימוד</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>מכשירים</item>
+        <item>נהל מכשירים המשויכים לחשבון Mi שלך</item>
+        <item>מכשירים;ניהול;כניסה;התחברות;רשימת מכשירים;Xiaomi;חשבון Mi;חשבון</item>
+    </string-array>
+    <string-array name="settings_search_payment_information">
+        <item>מידע על תשלום</item>
+        <item>הצג ונהל מידע אודות תשלום</item>
+        <item>תשלום;מידע;Xiaomi;חשבון Mi;חשבון</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>מדיניות הפרטיות</item>
+        <item>צפה במדיניות הפרטיות של חשבון Mi</item>
+        <item>Xiaomi;חשבון;חשבון Mi;פרטיות;מדיניות;צפה;הצג</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>דוא\"ל לשחזור</item>
+        <item>הוסף כתובת דוא\"ל לשחזור</item>
+        <item>אבטחה;דוא\"ל;Xiaomi;חשבון;חשבון Mi;הוספה;צימוד</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>טלפון לשחזור</item>
+        <item>הוסף טלפון לשחזור</item>
+        <item>אבטחה;חשבון;חשבון Mi;טלפון;Xiaomi;מספר טלפון;הוספה;צימוד</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>מודעות</item>
+        <item>נהל מודעות מערכת</item>
+        <item>מערכת;מודעות;פרסומות;Xiaomi;חשבון;חשבון Mi;הגדרות</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>פרטי חשבון</item>
+        <item>צפה בתמונת הפרופיל שלך ונהל את פרטי החשבון</item>
+        <item>חשבון;מידע;אישי;תמונת פרופיל;שם;Xiaomi;מזהה;חשבון Mi;צפה;הצג;הגדרות</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>הסכם המשתמש</item>
+        <item>צפה בהסכם המשתמש של חשבון Mi</item>
+        <item>Xiaomi;חשבון;חשבון Mi;משתמש;הסכם;צפה;הצג</item>
+    </string-array>
 </resources>

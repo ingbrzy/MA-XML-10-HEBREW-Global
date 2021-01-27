@@ -14,6 +14,7 @@
     <string name="account_unactivated">החשבון לא הופעל</string>
     <string name="ad_app_download_start">מתחיל הורדה…</string>
     <string name="ad_app_is_downloading">מוריד…</string>
+    <string name="ad_service">הצג פרסומות</string>
     <string name="add_resource_detail_fail">לא ניתן להוסיף את המשאב</string>
     <string name="agreement_desc">חשבון משתמש (חובה)</string>
     <string name="alarm_sound">שעון מעורר</string>
@@ -155,6 +156,7 @@
     <string name="incompatible_dialog_ok">הבנתי</string>
     <string name="incompatible_dialog_title">בעיות התאמה</string>
     <string name="is_setting_wallpaper_message">מגדיר טפט…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">שעון מעורר</string>
     <string name="item_resource_audio_optional_color_ring">צלצול Ringback</string>
     <string name="item_resource_audio_optional_notification_ring">התראות</string>
@@ -177,7 +179,8 @@
     <string name="lockscreen_magazine_title">טפט קרוסלה</string>
     <string name="lockscreen_wallpaper">מסך הנעילה</string>
     <string name="lockstyle_personal_settings">התאמה אישית</string>
-    <string name="login_invalid">פג תוקף ההתחברות</string>
+    <string name="login_invalid">פג התוקף של התהליך. היכנס שוב.</string>
+    <string name="match_theme">ערכות נושא מתאימות</string>
     <string name="max_usable_themes">+99</string>
     <string name="message">הודעת טקסט</string>
     <string name="message_sim_one">הודעה לכרטיס SIM 1</string>
@@ -199,6 +202,7 @@
     <string name="my_gifts">מתנות</string>
     <string name="my_gifts_purchased">נרכשו</string>
     <string name="my_gifts_received">התקבלו</string>
+    <string name="need_permission">הרשאות חובה (משמשות לתכונות ושירותים בסיסיים של יישום זה)</string>
     <string name="no_data">לא ניתן להתחבר לרשת</string>
     <string name="no_related_font">לא ניתן היה למצוא תוצאות</string>
     <string name="no_related_ringtone">לא ניתן היה למצוא תוצאות</string>
@@ -221,6 +225,12 @@
     <string name="online_search_hint">חפש אחר משאבים מקוונים</string>
     <string name="online_themes">ערכות נושא מקוונות</string>
     <string name="online_wallpapers">רקעים מקוונים</string>
+    <string name="ota_theme_default_push_content">נסה משהו חדש</string>
+    <string name="ota_theme_default_push_title">נמאס לך מערכת הנושא ברירת המחדל?</string>
+    <string name="ota_theme_new_push_content">הענק למכשיר שלך מראה חדש</string>
+    <string name="ota_theme_new_push_title">נסה את ערכות הנושא החדשות של MIUI 12</string>
+    <string name="personal_recommend_desc">קבל המלצות תוכן בהתבסס על ההעדפות שלך</string>
+    <string name="personal_recommend_title">המלצות מותאמות אישית</string>
     <string name="phone_ringtone">צלצול</string>
     <string name="popular_themes">ערכות נושא פופלריות</string>
     <string name="popular_wallpapers">טפטים פופלריים</string>
@@ -247,6 +257,7 @@
     <string name="rank_one">1.%s</string>
     <string name="rank_three">3.%s</string>
     <string name="rank_two">2.%s</string>
+    <string name="read_write_file">לגשת ולשמור קבצים במכשיר זה</string>
     <string name="recently_used">בשימוש לאחרונה</string>
     <string name="refresh_footer_all_loaded">זה הכל לעת עתה.</string>
     <string name="refresh_footer_failed">לא ניתן היה לטעון את המידע</string>
@@ -398,6 +409,7 @@
     <string name="resource_pack_price_info">מחיר מקורי: %1$s</string>
     <string name="resource_pack_warning">רכשת כבר %1$d רכיבים בערכת נושא זו. זול יותר יהיה לרכוש את הרכיבים הנותרים בנפרד.</string>
     <string name="resource_present">מתנה</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">חינם</string>
     <string name="resource_price_unit"> נקודות Mi</string>
     <string name="resource_purchase_common_error">אירעה שגיאה, נסה שוב</string>
@@ -491,6 +503,7 @@
     <string name="rewarded_ad_watch_again_pop_for_lw">עליך לסיים לצפון בסרטון כדי להוריד את הטפט הזה. לצפות עכשיו?</string>
     <string name="ringtone_agreement_message">כדי להשתמש בצלצולים מערכות נושא, עליך לקרוא ולהסכים קודם ל&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a>.</string>
     <string name="ringtone_set_success">הוגדר בהצלחה</string>
+    <string name="scroll_switch">החלק כדי לעבור בין פריטים</string>
     <string name="sdcard_not_mounted_dialog_message">"הכנס כרטיס זכרון כעת.
 "</string>
     <string name="sdcard_not_mounted_dialog_title">לא זוהה כרטיס זכרון</string>
@@ -511,6 +524,7 @@
     <string name="sim_one">SIM 1</string>
     <string name="sim_two">SIM 2</string>
     <string name="similar_theme">ערכות נושא זהות</string>
+    <string name="storage_file">כדי לשמור פריטים שהורדו</string>
     <string name="swipe_find_more">החלק מעלה כדי לראות עוד</string>
     <string name="system_phone">שיחות</string>
     <string name="system_precust">מותקן מראש</string>
@@ -521,6 +535,7 @@
     <string name="theme_apply_audio_dialog_item_notification">התראה</string>
     <string name="theme_apply_audio_dialog_item_ringtone">צלצול</string>
     <string name="theme_apply_failured">לא ניתן היה להחיל</string>
+    <string name="theme_apply_fully">ערכת הנושא יושמה בהצלחה. טפט קרוסלה מכובה.</string>
     <string name="theme_apply_success">הוחל בהצלחה</string>
     <string name="theme_applying">מחיל…</string>
     <string name="theme_batch_update_all">עדכן הכל</string>
@@ -574,6 +589,7 @@
     <string name="theme_is_external_priority_storage">שמור בכרטיס הזכרון</string>
     <string name="theme_is_external_priority_storage_summary">"יישום 'ערכות נושא' יופעל מחדש על מנת להחיל הגדרות אלו."</string>
     <string name="theme_multiple_button_title_customize">התאמה אישית</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">לא</string>
     <string name="theme_select_others">סייר</string>
     <string name="theme_setting">הגדרות</string>
@@ -611,7 +627,7 @@
     <string name="uid_change_dialog_ok">הבנתי</string>
     <string name="uid_change_dialog_title">אתחל את המכשיר</string>
     <string name="unsupport_tip">תבנית קובץ זו אינה נתמכת. נסה לבחור קובץ אחר.</string>
-    <string name="up_to_the_end">זה הכל לעת עתה. חזור מאוחר יותר.</string>
+    <string name="up_to_the_end">אין עוד פריטים להצגה</string>
     <string name="update_btn">עדכן עכשיו</string>
     <string name="update_check">בדוק אם קיימים עדכונים</string>
     <string name="update_checking">בודק אם יש עדכונים…</string>
@@ -626,7 +642,7 @@
     <string name="user_agree">קבלה</string>
     <string name="user_authorization_dialog_agree">מסכים</string>
     <string name="user_authorization_dialog_disagree">יציאה</string>
-    <string name="user_authorization_dialog_message">כדי להשתמש בערכות הנושא עליך לקרוא ולהסכים קודם ל&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a>.</string>
+    <string name="user_authorization_dialog_message">קרא והסכם ל&lt;a href=\"%1$s\">הסכם המשתמשים&lt;/a> ו&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו לפני שאתה ממשיך.</string>
     <string name="user_authorization_dialog_title">מעניק הרשאה</string>
     <string name="user_know">הבנתי</string>
     <string name="using_theme_has_update_tips">קיים עדכון זמין לערכת נושא זו.</string>

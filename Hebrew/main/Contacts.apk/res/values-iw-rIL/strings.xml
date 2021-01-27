@@ -96,6 +96,10 @@
     <string name="call_record_text_auto_delete_half_year">לאחר %d חודשים</string>
     <string name="call_record_text_auto_delete_never">אף פעם</string>
     <string name="call_record_text_auto_delete_one_month">לאחר חודש אחד (%d)</string>
+    <string name="call_record_user_notice_all_purpose">מצא את השיחות שבהן הוזכרו מילים מסוימות</string>
+    <string name="call_record_user_notice_permission_desc_microphone">להקלטת שיחות</string>
+    <string name="call_record_user_notice_permission_desc_storage">לשמירת הקלטות</string>
+    <string name="call_record_user_notice_title">חיפוש בשיחות קוליות</string>
     <string name="call_record_whitelist_custom">שיחות נבחרות</string>
     <string name="call_recording_notification_summary">קבל התראה לאחר שהוקלטה שיחה</string>
     <string name="call_recording_notification_title">עדכן אותי על שיחות שהוקלטו</string>
@@ -146,6 +150,7 @@
     <string name="callrecordview_menu_show_missed">שיחות שלא נענו</string>
     <string name="callrecordview_menu_show_sim">%s שיחות</string>
     <string name="callrecordview_menu_show_stranger">שיחות ממספר לא מזוהה</string>
+    <string name="cancel">ביטול</string>
     <string name="cancel_confirmation_dialog_message">לבטל את השינויים שלך?</string>
     <string name="cancel_confirmation_dialog_title">חזרה</string>
     <string name="cancel_export_confirmation_message">לבטל את הייצוא של %s?</string>
@@ -224,6 +229,15 @@
     <string name="contactsList">אנשי קשר</string>
     <string name="contacts_default_notification_channel">התראות</string>
     <string name="contacts_hybrid_activity_label">שחזר אנשי קשר</string>
+    <string name="contacts_trash_activity_hint">בחר אנשי קשרלשחזר</string>
+    <string name="contacts_trash_activity_title">אנשי קשר שנמחקו לאחרונה</string>
+    <string name="contacts_trash_delete">מחיקה</string>
+    <string name="contacts_trash_delete_dialog_continue">מחיקה</string>
+    <string name="contacts_trash_delete_dialog_hint">לא ניתן יהיה לבטל פעולה זו.</string>
+    <string name="contacts_trash_delete_dialog_loading">מוחק…</string>
+    <string name="contacts_trash_delete_dialog_title">למחוק את אנשי הקשר שנבחרו?</string>
+    <string name="contacts_trash_restore">שחזור</string>
+    <string name="contacts_trash_restore_loading">משחזר…</string>
     <string name="contacts_unavailable_add_account">היכנס לחשבון</string>
     <string name="contacts_unavailable_create_contact">צור איש קשר חדש</string>
     <string name="contacts_unavailable_import_contacts">ייבוא מקובץ</string>
@@ -361,6 +375,7 @@
     <string name="email_work">שלח דוא\"ל לעבודה</string>
     <string name="emergency_number_label">מספר חירום</string>
     <string name="empty" />
+    <string name="ensure">אישור</string>
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
     <string name="evening">לפנות ערב</string>
@@ -439,6 +454,7 @@
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">שם</string>
     <string name="gallery">גלריה</string>
     <string name="ghostData_company">חברה</string>
@@ -459,6 +475,8 @@
     <string name="group_sms_progress_msg">מארגן קבוצה…</string>
     <string name="groupsLabel">קבוצות</string>
     <string name="groups_list_empty">אין קבוצות</string>
+    <string name="hide_app_description_content">אנשי קשר הוא יישום מערכת. תוכל להמשיך להשתמש בו באמצעות יישום הטלפון שלך גם אחרי שתסיר את קיצור הדרך ממסך הבית.</string>
+    <string name="hide_app_description_title">להסיר את \"אנשי קשר\" ממסך הבית?</string>
     <string name="hint_distance" />
     <string name="hint_findContacts">מצא אנשי קשר</string>
     <string name="hint_more_contact">מזג כפילויות</string>
@@ -560,6 +578,7 @@
     <string name="menu_sync_remove">הסר קבוצת סנכרון</string>
     <string name="midnight">לילה</string>
     <string name="miprofile_account_type">כרטיסי איש קשר</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ערוך פרופיל</string>
     <string name="miprofile_name">הפרופיל שלי</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -687,6 +706,7 @@
     <string name="payphone">טלפון ציבורי</string>
     <string name="people">אנשי קשר</string>
     <string name="phoneLabelsGroup">טלפון</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
     <string name="phone_primary">עיקרי</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות על גבי המכשיר.</string>
@@ -798,6 +818,10 @@
     <string name="remove_duplicate">"MIUI יעזור לך לאתר ולמזג כפילויות של אנשי קשר.
 
  להתחלה, הקש על לחצן המיזוג בתחתית המסך שלך."</string>
+    <string name="restore_app_btn_cancel">ביטול</string>
+    <string name="restore_app_btn_restore">אישור</string>
+    <string name="restore_app_description_content">הוסף קיצור דרך למסך הבית כדי שתוכל לגשת מהר יותר לאנשי הקשר שלך.</string>
+    <string name="restore_app_description_title">להוסיף את \"אנשי קשר\" למסך הבית?</string>
     <string name="restore_nickname">שחזור</string>
     <string name="return_call">לחץ כדי לחזור לשיחה</string>
     <string name="return_call_calling">מתבצעת שיחה</string>
@@ -884,6 +908,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">אין חברי קבוצה</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">חברות</string>
     <string name="smart_group_company_unavailable">אין פרטי חברה</string>
     <string name="smart_group_frequency_1">בחודש האחרון</string>

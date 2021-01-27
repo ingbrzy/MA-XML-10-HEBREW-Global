@@ -16,6 +16,8 @@
     <string name="call_record_list_group_connected">מחובר</string>
     <string name="call_record_list_group_unconnected">לא מחובר</string>
     <string name="cancel_rename">ביטול</string>
+    <string name="clear_data_dialog_content">הפריטים, נתוני היישומים וההגדרות המותאמות אישית שמאוחסנים במטמון יימחקו, אבל ההקלטות שלך יישארו.</string>
+    <string name="clear_data_dialog_title">לנקות את הנתונים עכשיו?</string>
     <string name="clear_records">מחק הקלטות שסונכרנו</string>
     <string name="cloud_record_open">סנכרן הקלטות</string>
     <string name="cloud_record_tip">סנכרן הקלטות עם Xiaomi Cloud.</string>
@@ -98,7 +100,7 @@
     <string name="network_unavailable_tip">התחבר לרשת ונסה שוב.</string>
     <string name="new_record_name">הקלטה חדשה</string>
     <string name="no_file">ריק</string>
-    <string name="no_network">"Couldn't connect to the network"</string>
+    <string name="no_network">לא ניתן היה להתחבר לרשת</string>
     <string name="notification_message_all_paused">ממתין לחיבור רשת אלחוטית.</string>
     <string name="notification_playback">מנגן…</string>
     <string name="notification_recording">מקליט…</string>
@@ -141,6 +143,7 @@
     <string name="pay_error_unknown">שגיאה לא ידועה</string>
     <string name="playback_delete_records">מחק הקלטה</string>
     <string name="playback_share_records">שתף הקלטה</string>
+    <string name="preference_clear_data">נקה נתונים</string>
     <string name="preference_enable_earpiece_summary">השתמש ברמקול המקלט לנגינת שמע חיצונית</string>
     <string name="preference_enable_earpiece_title">השתמש במקלט לנגינת קבצי שמע</string>
     <string name="preference_led_indicator">"התראות 'מסך הנעילה'"</string>
@@ -295,6 +298,8 @@
     <string name="trash_box">פריטים שנמחקו לאחרונה</string>
     <string name="trash_box_close_tip">סגור פעולה</string>
     <string name="trash_box_delete_all">למחוק את כל הפריטים מסל המחזור לצמיתות?</string>
+    <string name="uninstall_warning_content">רשמקול הוא יישום מערכת. לא תוכל להקליט ולתמלל שיחות שמע וקול לאחר שתסיר אותו.</string>
+    <string name="uninstall_warning_title">להסיר את הרשמקול?</string>
     <string name="usage_description">תמלול קובצי שמע וסנכרון פריטים עם הענן</string>
     <string name="user_feedback">משוב</string>
     <string name="webview_check_network">הגדרות רשת</string>

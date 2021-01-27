@@ -60,6 +60,7 @@
     <string name="currency_update_updating">מתבצע עדכון השערים…</string>
     <string name="current_rate_remind_commercial" />
     <string name="current_rate_remind_fund" />
+    <string name="date_format">dd MMM yyyy</string>
     <string name="dateformat">dd.MM.yyyy</string>
     <string name="day">יום</string>
     <string name="degDesc">זוית</string>
@@ -68,6 +69,9 @@
     <string name="description_title">"אודות 'מחשבון'"</string>
     <string name="devided_by_zero_reminder_message">לא ניתן לחלק באפס</string>
     <string name="dialog_privacy_content">&lt;Data>מעבר למאפיינים הבסיסיים של מחשבון, היישום שלנו מכיל גם מחשבון מדעי וממיר רב-תכליתי. חלק מהמאפיינים זקוקים לחיבור לאינטרנט כדי לעבוד כנדרש. עליך לקרוא את &lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ואת &lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו ולהסכים אתם כדי להשתמש במחשבון.&lt;/Data></string>
+    <string name="dialog_privacy_disagree_msg">בכיבוי המתג אתה מבטל את הסכמתך למדיניות הפרטיות של המחשבון. אנו נפסיק לאסוף ממך מידע אישי. המידע האישי שכבר נאסף ונשמר, יימחק תוך פרק הזמן הנדרש על פי החוקים הרלוונטיים. המחשבון צריך לאסוף מידע אישי אשר נדרש כדי לספק לך שירותים בסיסיים. ביטול הסכמתך למדיניות הפרטיות שלו ייחשב כסירוב לקבל את שירותיו המבוססים על איסוף מידע אישי.</string>
+    <string name="dialog_privacy_revoke_btn_ok">ביטול הסכמה</string>
+    <string name="dialog_privacy_revoke_title">ביטול הסכמה</string>
     <string name="dialog_privacy_title">תנאים והתניות</string>
     <string name="dialog_rating_desc_ask">"כיצד אתה מרגיש לגבי 'המחשבון'?"</string>
     <string name="dialog_rating_desc_less">האם תוכל לשלוח גם לנו משוב?</string>
@@ -117,6 +121,7 @@
     <string name="global_search_key_word_figure">סימנים פיננסיים</string>
     <string name="golbal_search_calculator_setting">מחשבון; הגדרות מחשבון; הגדרות</string>
     <string name="golbal_search_path_calculator_setting">יישומי מערכת/מחשבון/הגדרות</string>
+    <string name="gst_percentage">%s</string>
     <string name="height_prompt">גובה</string>
     <string name="help_content_desc">עזרה</string>
     <string name="hint_annual_rate">הזן ריבית שנתית</string>
@@ -161,6 +166,17 @@
     <string name="item_title_vel_conversion">מהירות</string>
     <string name="item_title_volume_conversion">נפח</string>
     <string name="item_title_weight_conversion">מסה</string>
+    <string name="l_digit0">%d</string>
+    <string name="l_digit1">%d</string>
+    <string name="l_digit2">%d</string>
+    <string name="l_digit3">%d</string>
+    <string name="l_digit4">%d</string>
+    <string name="l_digit5">%d</string>
+    <string name="l_digit6">%d</string>
+    <string name="l_digit7">%d</string>
+    <string name="l_digit8">%d</string>
+    <string name="l_digit9">%d</string>
+    <string name="l_name_discount">הנחה (%s פחות)</string>
     <string name="label_about">אודות</string>
     <string name="label_clear_history">נקה הכל</string>
     <string name="label_date_difference">הפרש</string>
@@ -219,6 +235,7 @@
     <string name="loan_type_summary_lpr">LPR</string>
     <string name="loan_type_title">שיעור ריבית תקני</string>
     <string name="loan_unit">(×10 אלפים)</string>
+    <string name="localised_number">%d</string>
     <string name="lpr_ok">הבנתי</string>
     <string name="lpr_tips_msg">"החל מה-8 באוקטובר 2019 יחושב שיעור הריבית של הלוואות לדיור מסחרי אישי לפי ריבית הפריים של ההלוואה (LPR) במקום שיעור ריבית העוגן שיושם בעבר בשיעור של 4.9%. כעת, השיעור הסופי יאושר על ידי הוספת נקודת בסיס של ה-LPR.
 
@@ -280,6 +297,7 @@
     <string name="network_confirm_content">ממיר המטבע, מחשבוני המס והמשכנתא זקוקים לחיבור לאינטרנט ולגישה לשירותי המיקום על מנת שיוכלו לפעול באופן תקין.</string>
     <string name="network_confirm_title">נדרשת הרשאה</string>
     <string name="network_purpose">ברוך הבא למחשבון! המחשבון מאפשר לחשב שערי מט\"ח, החזרי משכנתאות ועוד.</string>
+    <string name="new_privacy_string">"&lt;Data>ברוך הבא למחשבון!&lt;br/>יישום זה מכיל את המאפיינים הבאים:&lt;br/>•מחשבון בסיסי&lt;br/>•מחשבון מדעי&lt;br/>•ממיר אוניברסלי (למשל, מטח, יחידות מדידה וכד')&lt;br/>•תבניות לחישוב החזרי הלוואות, השקעות, EMI ועוד&lt;br/>המחשבון צריך לאסוף את המידע האישי הנדרש כדי לספק לך שירותים בסיסיים. ניתן למצוא פרטים על אופן הטיפול במידע שאנו אוספים &lt;a href= \"%1$s\">במדיניות הפרטיות&lt;/a> שלנו. עליך לקרוא את &lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ואת &lt;a href=\"%3$s\">מדיניות הפרטיות&lt;/a> שלנו כדי להשתמש במחשבון. באפשרותך למשוך את הסכמתך למדיניות הפרטיות של המחשבון בכל עת, תחת ההגדרות. אם אינך מסכים למדיניות הפרטיות שלנו, לא תוכל להשתמש בחלק ממאפייני היישום. עם זאת, הפונקציות הבסיסיות של היישום עדיין יהיו נגישות עבורך.&lt;/Data>"</string>
     <string name="none">ללא</string>
     <string name="not_supported_due_to_language">אפשרות זו זמינה רק בשפה הסינית</string>
     <string name="ok">אשר</string>
@@ -312,7 +330,11 @@
     <string name="preference_use_voice_summary">הפעל כדי להשתמש בפלט דיבור בביצוע חישובים</string>
     <string name="preference_use_voice_title">פלט דיבור</string>
     <string name="preference_user_feedback_title">משוב</string>
+    <string name="privacy_dialog_title">פרטיות</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
+    <string name="privacy_revoke_error">לא ניתן היה לבטל. נסה שוב.</string>
+    <string name="privacy_revoke_progress">מבטל…</string>
+    <string name="privacy_switch">ביטול הסכמה</string>
     <string name="radDesc">רדין</string>
     <string name="rate_data_provider">גובה הריבית מסופק על ידי hexun.com</string>
     <string name="reciprocalDesc">הפכי</string>
@@ -442,6 +464,7 @@
     <string name="unit_data_display_currency_btn">נגולטרום בהוטני</string>
     <string name="unit_data_display_currency_bwp">פוּלה בוטסואנית</string>
     <string name="unit_data_display_currency_byn">רובל בלרוסי</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">דולר קנדי</string>
     <string name="unit_data_display_currency_cdf">פרנק קונגולזי</string>
     <string name="unit_data_display_currency_chf">פרנק שווייצרי</string>
@@ -750,12 +773,14 @@
     <string name="unit_yuan">CNY</string>
     <string name="updating">מעדכן מחשבון…</string>
     <string name="user_agreement">הסכם המשתמש</string>
+    <string name="user_experience_program_title">תוכנית חווית המשתמש</string>
     <string name="view_float_window_move">הזז מחשבון ממוזער</string>
     <string name="voiceDesc">בקרה קולית</string>
     <string name="voice_guide_text">כאן ניתן להפעיל פלט דיבור</string>
     <string name="warn_locale_unsupport_for_voice">קלט קולי עבור שפה זו אינו זמין כעת.</string>
     <string name="weight_prompt">משקל</string>
     <string name="wf_word_figure">סימנים פיננסיים</string>
+    <string name="withdraw_network_error">המכשיר שלך צריך להתחבר לרשת כדי שתוכל לבטל את הסכמתך. בדוק את הגדרות הרשת שלך ונסה שוב.</string>
     <string name="word_figure_big_unit_fen">分</string>
     <string name="word_figure_big_unit_jiao">角</string>
     <string name="word_figure_big_unit_wan">"万 "</string>
@@ -777,8 +802,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">לא להתחבר להורדות. בדוק אם יישום זה מכיל את כל ההרשאות הנדרשות בהגדרות > תחת יישומים מותקנים.</string>
     <string name="xiaomi_external_storage_unavailable">אחסון לא זמין. בדוק את כרטיס SD שלך.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"מציגים את גרסה %1$s
 גודל: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"מציגים את גרסה %1$s

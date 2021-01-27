@@ -27,6 +27,7 @@
     <string name="dual_app_title">יישומים משוכפלים</string>
     <string name="dual_app_words">לכל חשבון מגיע יישום משלו</string>
     <string name="early_morning">מוקדם בבוקר</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
     <string name="evening">לפנות ערב</string>
@@ -134,8 +135,14 @@
     <string name="gb_advance_settings_vibration_4d_summary">רטט במהלך יריות במשחק</string>
     <string name="gb_advance_settings_vibration_4d_summary2">רטט במהלך הריגות במשחק</string>
     <string name="gb_alipays_can_not_complete">לא ניתן להשלים את התשלום. התקן על מנת להמשיך.</string>
+    <string name="gb_dialog_game_speed_close">כבה את מצב מהירות האור…</string>
+    <string name="gb_dialog_game_speed_exist">במצב מהירות האור ניתן להשתמש רק במשחק אחד. להחליף את \"%s\" כעת?</string>
     <string name="gb_game_control">הגדרות מעבד גרפי</string>
     <string name="gb_game_settings">הגדרות נוספות</string>
+    <string name="gb_game_speed_closed">מצב מהירות האור כבוי</string>
+    <string name="gb_game_speed_closed_fail">לא ניתן היה לכבות את מצב מהירות האור</string>
+    <string name="gb_game_speed_open">הופעל מצב מהירות האור</string>
+    <string name="gb_game_speed_open_fail">לא ניתן היה להפעיל את מצב מהירות האור</string>
     <string name="gb_gpu_control_anisotropic_filtering">סינון אַנְאִיזוֹטְרוֹפִּי</string>
     <string name="gb_gpu_control_anti_aliasing">החלקת עקומות (anti-aliasing)</string>
     <string name="gb_gpu_control_fps">קצב פריימים</string>
@@ -164,6 +171,7 @@
     <string name="gb_pannel_control_mode_power_saving">חסוך בצריכת חשמל</string>
     <string name="gb_weixinpay_can_not_complete">לא ניתן להשלים את התשלום. התקן על מנת להמשיך.</string>
     <string name="gdpr_msg">&lt;Data>על מנת שתוכל להשתמש בתכונות הבסיסיות של אבטחה עליך להסכים לכך ש-Xiaomi תאסוף, תעבד ותשתמש בנתונים האישיים שלך, כולל מידע אודות הדרכים בהן הינך משתמש בתכונות האבטחה (לדוגמה: סטטיסטיקות של שימוש בנתונים סלולריים, מידע אודות תוכנות זדוניות, וכמו כן מידע בסיסי אודות מכשירך) ובסוגים אחרים של מידע המצויינים ב&lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">מדיניות פרטיות&lt;/a>.&lt;/Data></string>
+    <string name="install_success">%s Install Success</string>
     <string name="lucky_result_title">מעטפות אדומות</string>
     <string name="main_toolbar_purchase">טעינה</string>
     <string name="midnight">לילה</string>
@@ -313,6 +321,9 @@
     <string name="title_share_link">שתף קישור אינטרנט</string>
     <string name="today">היום</string>
     <string name="tomorrow">מחר</string>
+    <string name="tool_box_active_loading">רק רגע…</string>
+    <string name="tool_box_active_no_networ">לא ניתן היה להתחבר לרשת</string>
+    <string name="tool_box_active_reload">רענון</string>
     <string name="tuesday">שלישי</string>
     <string name="tuesday_short">"ג'"</string>
     <string name="tuesday_shortest">"ג'"</string>

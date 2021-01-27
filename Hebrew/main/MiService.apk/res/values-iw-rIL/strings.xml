@@ -126,7 +126,7 @@
     <string name="miui_feedback_edit_submit_directly">פרסם</string>
     <string name="miui_feedback_edit_title_occurrence_time">בחר זמן</string>
     <string name="miui_feedback_edit_title_reproductivity">בחר רפרודוקציה</string>
-    <string name="miui_feedback_edit_toast_description_required">עליך לכתוב תאור</string>
+    <string name="miui_feedback_edit_toast_description_required">קודם עליך לתאר את הבעיה</string>
     <string name="miui_feedback_edit_toast_module_required">בחר פריט</string>
     <string name="miui_feedback_edit_toast_more_desc_required">התיאור אינו זמין יותר</string>
     <string name="miui_feedback_edit_toast_problem_class_required">בחר קטגוריה</string>
@@ -159,6 +159,7 @@
     <string name="miui_main_next_page">הבא</string>
     <string name="miui_main_pre_page">הקודם</string>
     <string name="miui_main_shortcut_label_submit_feedback">שליחת משוב</string>
+    <string name="miui_main_update_back_to_home">מכין את מסך הבית…</string>
     <string name="miui_main_update_continue">הבא</string>
     <string name="miui_main_update_learn_more">למידע נוסף</string>
     <string name="miui_main_update_start">עדכן כעת</string>

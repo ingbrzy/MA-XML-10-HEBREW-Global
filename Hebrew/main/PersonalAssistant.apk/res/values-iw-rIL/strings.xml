@@ -112,6 +112,8 @@
     <string name="morning">בוקר</string>
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
+    <string name="passport_oauth_actionbar_title">חשבון Mi</string>
+    <string name="passport_oauth_sucess_tip">Authorized success</string>
     <string name="pm">PM</string>
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>

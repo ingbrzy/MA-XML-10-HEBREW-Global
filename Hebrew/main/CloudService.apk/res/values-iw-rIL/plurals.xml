@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">לא ניתן לסנכרן %s פריטים</item>
+        <item quantity="one">לא ניתן לסנכרן פריט %s</item>
+        <item quantity="two">לא ניתן לסנכרן %s פריטים</item>
+        <item quantity="many">לא ניתן לסנכרן %s פריטים</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d כניסות לרשימת החסומים</item>
         <item quantity="one">כניסה %d לרשימת החסומים</item>

@@ -35,10 +35,17 @@
     <string name="focus_mode_timer_add_limit">ניתן להוסיף את %d טיימרים בהתאמה אישית</string>
     <string name="focus_mode_timer_delete">מחק</string>
     <string name="focus_mode_timer_exist">הטיימר הזה כבר קיים</string>
-    <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d to %d דקות</string>
+    <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d עד %d דקות</string>
     <string name="focus_mode_timer_pick_dialog_title">הזן את משך הזמן</string>
     <string name="focus_time_exception_tip">נראה שזמן המערכת השתנה. כבה את מצב המיקוד.</string>
     <string name="follow_sim1">החל הגדרות SIM 1</string>
+    <string name="fps_nature_summary">קצב רענון גבוה שומר על תמונה חדה וברורה</string>
+    <string name="fps_nature_title">גבוה</string>
+    <string name="fps_smooth_summary">קצב רענון בינוני הופך את פרטי התמונה לברורים יותר</string>
+    <string name="fps_smooth_title">בינוני</string>
+    <string name="fps_standard_summary">קצב רענון רגיל חוסך סוללה</string>
+    <string name="fps_standard_title">רגיל</string>
+    <string name="fps_user_tip">האנימציות האלה להמחשה מתנגנות במהירות נמוכה, כדי שתוכל להתרשם מהן. הביצועים בפועל יכולים להיראות שונים, כתלות בגורמים משתנים.</string>
     <string name="gamma">גמא</string>
     <string name="healthy_use_phone">נהל זמן מסך</string>
     <string name="high_fps_description">קצב רענון מסך גבוה. צריכת חשמל גבוהה יותר.</string>
@@ -83,6 +90,7 @@
     <string name="screen_fps_summary_power_save">שימוש בקצב קבוע מפחית את צריכת החשמל</string>
     <string name="screen_fps_summary_smooth">אפליקציות מסוימות עולות את קצב הרענון באופן אוטומטי כדי לשפר את איכות התמונה</string>
     <string name="screen_fps_title">קצב רענון</string>
+    <string name="screen_fps_unit">%d הרץ</string>
     <string name="screen_fps_unit_power_save">%d הרץ (חיסכון סוללה)</string>
     <string name="screen_fps_unit_smooth">%d הרץ (איכות טובה יותר)</string>
     <string name="screen_original_gamut">משופר</string>
@@ -152,6 +160,7 @@
     <string name="usage_device_limit_app_prolong_time2">הוסף 40 דקות</string>
     <string name="usage_device_limit_app_prolong_time3">הוסף 60 דקות</string>
     <string name="usage_device_limit_app_prolong_time4">אל תגביל היום</string>
+    <string name="usage_device_limit_app_prolong_time5">להוסיף זמן פעם אחת</string>
     <string name="usage_device_limit_notifation_summary_start">תגיע למגבלה שקבעת בעוד %1$s</string>
     <string name="usage_device_limit_notifation_title">זמן שנותר להיום</string>
     <string name="usage_device_limit_time_over">הגעת למגבלה היומית שקבעת (%1$s)</string>

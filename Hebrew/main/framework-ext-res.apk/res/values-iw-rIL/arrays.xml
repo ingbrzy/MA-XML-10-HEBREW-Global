@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>נסה שוב</item>
+        <item></item>
+        <item></item>
+        <item>כסה את סורק טביעת האצבע לחלוטין והפעל לחץ</item>
+        <item></item>
+        <item>כסה את סורק טביעת האצבע לחלוטין והפעל לחץ</item>
+        <item>נקה את סורק טביעת האצבע ונסה שוב</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>כסה את סורק טביעת האצבע לחלוטין והפעל לחץ</item>
+        <item>כסה את סורק טביעת האצבע לחלוטין והפעל לחץ</item>
+        <item>מהר מדי! לא ניתן היה לזהות את טביעת האצבע</item>
+        <item>הזז את האצבע במקצת ונסה שוב</item>
+        <item>הרם את האצבע והחזר אותה אל סורק טביעת האצבע</item>
+        <item>השאר את האצבע על סורק טביעת האצבע מעט יותר זמן</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>הזז מעט את האצבע</item>
+        <item>טביעת האצבע נוספה, השתמש בטביעת אצבע אחרת</item>
+    </string-array>
+</resources>

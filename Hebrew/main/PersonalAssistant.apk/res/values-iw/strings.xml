@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">ניווט לדף הבית</string>
+    <string name="abc_action_bar_home_description_format">‏%1$s‏, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">‏%1$s‏, %2$s‏, %3$s</string>
     <string name="abc_action_bar_up_description">ניווט למעלה</string>
     <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
     <string name="abc_action_mode_done">סיום</string>
@@ -32,6 +34,7 @@
     <string name="not_set">לא מוגדרת</string>
     <string name="preference_copied">\"%1$s\" הועתק ללוח.</string>
     <string name="search_menu_title">חיפוש</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="v7_preference_off">כבוי</string>
     <string name="v7_preference_on">מופעל</string>

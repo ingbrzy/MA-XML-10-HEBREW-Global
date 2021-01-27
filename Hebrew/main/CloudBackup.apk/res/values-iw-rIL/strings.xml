@@ -10,18 +10,32 @@
     <string name="back_up_task_in_process">מגבה…</string>
     <string name="back_up_task_unfinished">לא ניתן היה לגבות</string>
     <string name="backing_up_to_micloud">מגבה…</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">אין מספיק שטח אחסון על גבי Xiaomi Cloud שדרג את התכנית שלך או פנה שטח אחסון.</string>
+    <string name="backup_action_buy_cloud_space">קבל שטח אחסון נוסף</string>
+    <string name="backup_action_check_network">בדוק את הגדרות הרשת</string>
+    <string name="backup_action_clean_disk_space">פנה שטח אחסון</string>
+    <string name="backup_action_retry_now">נסה שוב</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">לא נותר מספיק שטח אחסון בענן כדי לשמור גיבוי זה. שדרג את התוכנית שלך או פנה שטח אחסון בענן.</string>
     <string name="backup_failed_reason_disk_space_not_enough">אין מספיק שטח אחסון זמין. ראשית, פנה קצת שטח אחסון.</string>
-    <string name="backup_failed_reason_network_error">שגיאת רשת. המתן דקה או שתיים ונסה שוב.</string>
+    <string name="backup_failed_reason_network_error">בדוק את הגדרות הרשת ונסה שוב</string>
     <string name="backup_finished_notification_content">"בוצע גיבוי של יישומי 'מסך הבית', הגדרות מערכת וכו'."</string>
     <string name="backup_now">גבה כעת</string>
     <string name="backup_progress_percent_unit">%</string>
+    <string name="backup_remind_buy_cloud_space">שדרג את תוכנית האחסון בענן שלך</string>
+    <string name="backup_remind_clean_disk_space">פנה נפח אחסון</string>
+    <string name="backup_remind_cloud_space_cost">גודל הגיבוי: %s</string>
     <string name="backup_size">גודל: %s</string>
     <string name="backup_stopped_msg">גיבוי נוכחי ימחק ויחליף את הגיבוי הקודם. לחץ על מנת להציג.</string>
     <string name="backup_stopped_title">הגיבוי מושהה</string>
     <string name="backup_success">הגיבוי בוצע בהצלחה</string>
     <string name="backup_successfully">הגיבוי בוצע בהצלחה</string>
     <string name="backup_to_cloud">גבה יישום</string>
+    <string name="backup_warning_reason_cloud_space_not_enough">לא ניתן לגבות</string>
+    <string name="backup_warning_reason_disk_space_not_enough">"אין מספיק שטח אחסון
+לא ניתן לגבות"</string>
+    <string name="backup_warning_reason_network_error">"שגיאת רשת
+לא ניתן לגבות"</string>
+    <string name="backup_warning_reason_no_server_response">"החיבור הופסק
+נסה שוב"</string>
     <string name="btn_back">חזרה</string>
     <string name="btn_continue">המשך</string>
     <string name="btn_restore_abort">ביטול</string>
@@ -67,7 +81,7 @@
 *  MIUI and system settings 
 Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">גיבוי מתוזמן</string>
-    <string name="cloud_back_up_frequence_long">כל 7 ימים</string>
+    <string name="cloud_back_up_frequence_long">כל %d ימים</string>
     <string name="cloud_back_up_frequence_short">כל יום</string>
     <string name="cloud_back_up_ok_btn">אישור</string>
     <string name="cloud_back_up_opening">רק רגע…</string>
@@ -78,6 +92,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup">גיבוי Cloud</string>
     <string name="cloud_backup_derail_size_summary">גודל: %s</string>
     <string name="cloud_backup_detail_frequence">גיבוי מתוזמן</string>
+    <string name="cloud_backup_detail_frequence_every_7_day">גבה כל %d ימים</string>
+    <string name="cloud_backup_detail_frequence_every_day">גבה כל יום</string>
     <string name="cloud_backup_detail_manage">נהל גיבויים</string>
     <string name="cloud_backup_detail_state">גיבויים אוטומטיים</string>
     <string name="cloud_backup_detail_state_summary">צור גיבויי Xiaomi Cloud באופן אוטומטי בעת חיבור לרשת האלחוטית.</string>
@@ -160,6 +176,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">לחץ על מתג הגיבוי</string>
     <string name="other_device_main_space">שטח ראשון</string>
     <string name="other_device_second_space">שטח משני</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>
     <string name="provision_background_restore_more_data">שחזר יותר פריטים ברקע</string>
     <string name="provision_error_connect_msg">בדוק את הרשת ונסה שוב. הגיבויים אינם זמינים כאשר מכשירך נמצא במצב לא מקוון.</string>

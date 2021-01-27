@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="aqi_detail_title">
         <item>טוב</item>
         <item>מתון</item>
@@ -41,13 +92,6 @@
         <item>חמור</item>
         <item>מעבר למדד</item>
     </string-array>
-    <string-array name="breeze">
-        <item>&lt;עוצמה 2</item>
-        <item>&lt;6.0 קמ\"ש</item>
-        <item>&lt;1.7 מטר לשניה</item>
-        <item>&lt;3.7 מיל לשעה</item>
-        <item>&lt;3.2 קשר</item>
-    </string-array>
     <string-array name="hot_city">
         <item>Beijing</item>
         <item>Shanghai</item>
@@ -76,6 +120,13 @@
         <item>כבד</item>
         <item>מתון</item>
         <item>חלש</item>
+    </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_detail">
+        <item>@string/settings_atmospheric_pressure_hpa</item>
+        <item>@string/settings_atmospheric_pressure_mbar</item>
+        <item>@string/settings_atmospheric_pressure_mmhg</item>
+        <item>@string/settings_atmospheric_pressure_inhg</item>
+        <item>@string/settings_atmospheric_pressure_atm</item>
     </string-array>
     <string-array name="weather_type">
         <item>בהיר</item>

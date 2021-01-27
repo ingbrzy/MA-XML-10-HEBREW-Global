@@ -2,6 +2,7 @@
 <resources>
     <string name="actionbar_button_up_description">הקודם</string>
     <string name="afternoon">אחר הצהריים</string>
+    <string name="already_in_small_freeform">אפליקציות מסוימות נפתחות בחלונות צפים</string>
     <string name="am">AM</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="date_picker_label_day" />
@@ -107,8 +108,18 @@
     <string name="more">עוד</string>
     <string name="morning">בוקר</string>
     <string name="night">ערב</string>
+    <string name="no_avaliable_application">אין אפליקציות זמינות</string>
     <string name="noon">צהריים</string>
     <string name="pm">PM</string>
+    <string name="quick_settings_hang_label">חלונות צפים</string>
+    <string name="quick_settings_hang_on">עכשיו תוכל להשתמש בחלונות צפים</string>
+    <string name="quick_settings_pcmode_cancel_button">ביטול</string>
+    <string name="quick_settings_pcmode_dialog_message_turnoff">כבה מצב מחשב</string>
+    <string name="quick_settings_pcmode_dialog_message_turnon">הפעל מצב מחשב</string>
+    <string name="quick_settings_pcmode_dialog_remember_text">אל תציג שוב</string>
+    <string name="quick_settings_pcmode_label">מצב מחשב</string>
+    <string name="quick_settings_pcmode_ok_button">אישור</string>
+    <string name="quick_settings_scanner_label">סורק</string>
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>

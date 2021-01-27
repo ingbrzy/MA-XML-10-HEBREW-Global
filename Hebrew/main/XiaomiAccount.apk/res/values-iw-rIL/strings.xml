@@ -20,7 +20,7 @@
     <string name="account_has_been_set">שנה</string>
     <string name="account_invalid_user_avatar">התמונה לא חוקית. נסה תמונה אחרת.</string>
     <string name="account_limit_update_birthday">לא ניתן לעדכן את יום ההולדת כעת</string>
-    <string name="account_mibi_center">נקודות Mi</string>
+    <string name="account_mibi_center">Mi מטבעות</string>
     <string name="account_mibi_charge">טעינה</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_no_set">אין</string>
@@ -56,7 +56,7 @@
     <string name="activate_email_notice">וודא כי אתה מפעיל את חשבונך תוך 24 שעות</string>
     <string name="activity_not_found_notice">לא ניתן למצוא את היישום</string>
     <string name="add_account">חבר חשבון</string>
-    <string name="agreement_and_privacy">מדיניות הפרטיות והסכם משתמש</string>
+    <string name="agreement_and_privacy">תנאי השימוש</string>
     <string name="app_name">חשבון Mi</string>
     <string name="auth_fail_warning">פג תוקף נסיון הכניסה, היכנס שוב מאוחר יותר</string>
     <string name="authorize_title">הרשאה</string>
@@ -157,6 +157,7 @@ ID:%s
     <string name="health_state_not_activated">לא הופעל</string>
     <string name="health_state_not_installed">לא הותקנה</string>
     <string name="health_state_not_support">לא נתמכת בגרסה הזאת</string>
+    <string name="help_center">עזרה</string>
     <string name="i_agree">אישור</string>
     <string name="i_agree_continue">מסכים</string>
     <string name="identity">זיהוי</string>
@@ -239,7 +240,7 @@ ID:%s
     <string name="passport_checking_input">בודק קלט…</string>
     <string name="passport_click_email_to_valid">על מנת להפעיל את חשבונך, לחץ על הקישור ששלחנו לאימייל שלך.</string>
     <string name="passport_completed">סיום</string>
-    <string name="passport_confirm_login">המשך</string>
+    <string name="passport_confirm_login">היכנס</string>
     <string name="passport_confirm_recycle_account">כן</string>
     <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>נדמה כי&lt;/font> המספר %s מוחזר על ידי ספק הרשת שלך וכי קיים חשבון Mi המקושר אליו. האם חשבון זה שייך לך?</string>
     <string name="passport_continue">המשך</string>
@@ -277,7 +278,7 @@ ID:%s
     <string name="passport_error_verify_activator_phone_title">לא ניתן היה לאמת את מספר הטלפון</string>
     <string name="passport_failed_to_send_activate_email">לא ניתן היה לשלוח את דוא\"ל ההפעלה</string>
     <string name="passport_find_password_on_web_msg">בקר ב- account.mi.com על מנת לאפס את סיסמתך.</string>
-    <string name="passport_first_login_prompt">חשבון Mi יווצר באופן אוטומטי כאשר תרשם בפעם הראשונה.</string>
+    <string name="passport_first_login_prompt">חשבון Mi ייווצר באופן אוטומטי כאשר תשתמש במספר טלפון בפעם הראשונה.</string>
     <string name="passport_forget_password"><u>שכחתי את הסיסמה</u></string>
     <string name="passport_forget_password_no_underline">שכחתי את הסיסמה</string>
     <string name="passport_get_back_pwd">אחזור סיסמת החשבון</string>
@@ -392,8 +393,8 @@ ID:%s
     <string name="passport_setting">מגדיר…</string>
     <string name="passport_skip_login">דלג</string>
     <string name="passport_skip_register">דלג על ההרשמה</string>
-    <string name="passport_skip_setup_account_msg">"באפשרותך להגדיר את חשבון Mi מאוחר יותר ב'הגדרות'."</string>
-    <string name="passport_skip_setup_account_title">לא להשתמש ב Xiaomi Cloud?</string>
+    <string name="passport_skip_setup_account_msg">התחברות לחשבון Mi מאפשרת לך להשתמש בשירותי Xiaomi Cloud. האם לדלג על הצעד הזה בכל זאת?</string>
+    <string name="passport_skip_setup_account_title">חשבון Mi ו-Xiaomi Cloud</string>
     <string name="passport_sms_send_success">נשלח</string>
     <string name="passport_sms_verification_code_login">היכנס באמצעות מסרון</string>
     <string name="passport_sms_verification_code_login_or_register">הכנס או צור חשבון באמצעות הודעת SMS</string>
@@ -515,7 +516,7 @@ ID:%s
     <string name="update_email_address_dialog_title">עדכן דוא\"ל</string>
     <string name="update_phone_notice">שינוי הגדרות האבטחה</string>
     <string name="update_phone_number_notice_message">עליך לאמת את זהותך לפני שתוכל לעדכן מספר טלפון.</string>
-    <string name="used_cloud_storage_info">שטח אחסון בשימוש %s</string>
+    <string name="used_cloud_storage_info">%s בשימוש</string>
     <string name="user_avatar_update_title">החלף תמונת פרופיל</string>
     <string name="user_avatar_uploading">רק רגע…</string>
     <string name="vip_account_settings">הגדרות VIP</string>

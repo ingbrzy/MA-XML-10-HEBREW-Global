@@ -102,6 +102,18 @@
         <item quantity="two">%1$d אנשי קשר</item>
         <item quantity="many">%1$d אנשי קשר</item>
     </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">נמחקו %d אנשי קשר לצמיתות</item>
+        <item quantity="one">איש קשר אחד נמחק לצמיתות</item>
+        <item quantity="two">נמחקו %d אנשי קשר לצמיתות</item>
+        <item quantity="many">נמחקו %d אנשי קשר לצמיתות</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">%d אנשי קשר שוחזרו בהצלחה</item>
+        <item quantity="one">איש קשר אחד שוחזר בהצלחה</item>
+        <item quantity="two">%d אנשי קשר שוחזרו בהצלחה</item>
+        <item quantity="many">%d אנשי קשר שוחזרו בהצלחה</item>
+    </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d אנשי קשר יובאו</item>
         <item quantity="one">איש קשר %1$d יובא</item>
@@ -161,6 +173,12 @@
         <item quantity="one">לפני חצי שעה</item>
         <item quantity="two">לפני חצי שעה</item>
         <item quantity="many">לפני חצי שעה</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d פריטים</item>
+        <item quantity="one">פריט %1$d</item>
+        <item quantity="two">%1$d פריטים</item>
+        <item quantity="many">%1$d פריטים</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d אנשי קשר</item>

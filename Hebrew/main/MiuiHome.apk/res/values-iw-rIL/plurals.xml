@@ -24,6 +24,12 @@
         <item quantity="two">%1$d פריטים נבחרו</item>
         <item quantity="many">%1$d פריטים נבחרו</item>
     </plurals>
+    <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">להסיר %1$d יישומים ממסך הבית?</item>
+        <item quantity="one">להסיר יישום אחד (%1$d) ממסך הבית?</item>
+        <item quantity="two">להסיר %1$d יישומים ממסך הבית?</item>
+        <item quantity="many">להסיר %1$d יישומים ממסך הבית?</item>
+    </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">עמוד %1$d. %2$d יישומים.</item>
         <item quantity="one">עמוד %1$d. יישום %2$d.</item>

@@ -138,23 +138,11 @@
         <item quantity="two">%s תוצאות בהודעות מסונכרנות</item>
         <item quantity="many">%s תוצאות בהודעות מסונכרנות</item>
     </plurals>
-    <plurals name="month">
-        <item quantity="other">%d חודשים</item>
-        <item quantity="one">חודש %d</item>
-        <item quantity="two">%d חודשים</item>
-        <item quantity="many">%d חודשים</item>
-    </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">נותרו %1$d קבצים מצורפים</item>
         <item quantity="one">נותר קובץ מצורף %1$d</item>
         <item quantity="two">נותרו %1$d קבצים מצורפים</item>
         <item quantity="many">נותרו %1$d קבצים מצורפים</item>
-    </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">הזז %1$d שיחות</item>
-        <item quantity="one">הזז שיחה</item>
-        <item quantity="two">הזז %1$d שיחות</item>
-        <item quantity="many">הזז %1$d שיחות</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">הצג %1$d הודעות חדשות.</item>
@@ -233,12 +221,6 @@
         <item quantity="one">שבוע אחד קודם</item>
         <item quantity="two">%1$d שבועות קודם</item>
         <item quantity="many">%1$d שבועות קודם</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">השב ל-%1$d אנשים</item>
-        <item quantity="one">השב לאדם %1$d</item>
-        <item quantity="two">השב ל-%1$d אנשים</item>
-        <item quantity="many">השב ל-%1$d אנשים</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">תוצאה %s בכל החשבונות</item>
