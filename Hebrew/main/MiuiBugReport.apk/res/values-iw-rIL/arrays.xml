@@ -4,4 +4,66 @@
         <item>זכר</item>
         <item>נקבה</item>
     </string-array>
+    <string-array name="alphabet_table">
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="customer_service">
+        <item>@string/customer_service_apply</item>
+        <item>@string/customer_service_complain</item>
+        <item>@string/customer_service_station</item>
+    </string-array>
+    <string-array name="reproductivity">
+        <item>@string/feedback_reproductivity_everytime</item>
+        <item>@string/feedback_reproductivity_often</item>
+        <item>@string/feedback_reproductivity_occasionally</item>
+        <item>@string/feedback_reproductivity_once</item>
+    </string-array>
 </resources>

@@ -117,6 +117,7 @@ to add cards"</string>
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">לוח שנה סיני מסורתי</string>
+    <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="date_week_index">"yyyy 'W'ww"</string>
     <string name="day">יום</string>
     <string name="deep_light_detection_open_prompt">Your sleep cycle will be analyzed next time you go to bed</string>
@@ -167,7 +168,7 @@ to add cards"</string>
     <string name="dialog_keep">Keep</string>
     <string name="dialog_known">הבנתי</string>
     <string name="dialog_menstruation_purpose">ברוך הבא ל Xiaomi Health! מחזור ווסתי \"מאפשר לך לתעד תקופות מחזור, לקבוע תאריכים מוערכים של תקופות מחזור עתידיות, ולקבל תזכורות. כל הנתונים הקשורים יאוחסנו באופן מקומי במכשיר, מה שמאפשר לך לנהל אותו בקלות.</string>
-    <string name="dialog_new_version_title">An update is available</string>
+    <string name="dialog_new_version_title">קיים עדכון זמין</string>
     <string name="dialog_no_more_prompt">אל תציג שוב</string>
     <string name="dialog_ok">אישור</string>
     <string name="dialog_open">אפשר</string>
@@ -186,7 +187,7 @@ to add cards"</string>
     <string name="dialog_user_agreement_purpose">ברוכים הבאים אל Xiaomi Health! אפשר להשתמש באפליקציה הזו כדי לספור צעדים, לנטר שינה, מחזורים ומשקל, גם לסנכרן את הנתונים לענן.</string>
     <string name="dialog_user_agreement_purpose2">ברוך הבא ל- Xiaomi Health! תוכל להשתמש באפליקציה זו כדי לספור את הצעדים שלך, לנתח שינה, לעקוב אחר מחזור חודשי, לתעד משקל ועוד.</string>
     <string name="disable">Off</string>
-    <string name="discard_update">No thanks</string>
+    <string name="discard_update">לא תודה</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>
     <string name="dream_talk_title">Talking</string>
@@ -285,7 +286,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="feedback_need_permission_msg">אפשר ל Xiaomi Health לכתוב על כונן חיצוני על מנת לחולל יומנים המשמשים למשוב.</string>
     <string name="feedback_permission_denied_msg">Xiaomi Health לא יכול לשמור יומנים על כונן חיצוני. אפשר הרשאות נדרשות עבור Xiaomi Health בהגדרות.</string>
     <string name="fewer">Little</string>
-    <string name="find_new_verision">Version %s is available now</string>
+    <string name="find_new_verision">גרסה %s זמינה כעת</string>
     <string name="finish">סיום</string>
     <string name="finished_rate">Completed %1$d%%</string>
     <string name="fmt_date_day">dd</string>
@@ -366,7 +367,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="hour">H</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
-    <string name="immediately_experience">Update</string>
+    <string name="immediately_experience">עדכון</string>
     <string name="improve_step_target">נסה להגיע ליעד אותו הצבת. נסה להגדיר אחד גבוה יותר.</string>
     <string name="improve_your_health_default_tips">בצע פעילות גופנית וצבור מספיק שעות שינה על מנת להישאר בריא.</string>
     <string name="inactivated">Not activated</string>
@@ -412,6 +413,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="light_sleep_time_normal_description">You have a sufficient amount of light sleep</string>
     <string name="load_failed">"Couldn't load items. Wait a minute or two and try again."</string>
     <string name="loading">Just a sec…</string>
+    <string name="location_perm_description">כדי לעקוב אחר אימונים בחוץ ולשמור מסלולים</string>
     <string name="low">נמוך</string>
     <string name="low_intensity">Low</string>
     <string name="low_intensity_description">קצב נשימה רגיל שמאפשר להמשיך לדבר</string>
@@ -485,10 +487,13 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="miuix_appcompat_cloud_state_syncing">מסנכרן עם הענן…</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
+    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
+    <string name="miuix_appcompat_select_all">בחר הכל</string>
     <string name="miuix_appcompat_select_all_description">בחר הכל</string>
+    <string name="miuix_appcompat_select_item">בחר פריטים</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">משוך כלפי מטה כדי לרענן</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">רוענן בהצלחה</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">מרענן…</string>
@@ -665,6 +670,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="select_null">לא נבחר</string>
     <string name="select_recog_question">בחר פעולה</string>
     <string name="select_swim_posture">בחר סגנון</string>
+    <string name="send">שליחה</string>
     <string name="setting">הגדרות</string>
     <string name="setting_sedentary_off">כבוי</string>
     <string name="setting_sedentary_on">מופעל</string>

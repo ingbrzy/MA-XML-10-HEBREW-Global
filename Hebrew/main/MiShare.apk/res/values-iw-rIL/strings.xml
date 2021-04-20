@@ -43,6 +43,7 @@
     <string name="error_ap_or_screen_already_hosting">לא ניתן לשלוח פריטים כאשר אתה משדר או משתמש בנקודה חמה ניידת.</string>
     <string name="error_device_lost">נראה כאילו המכשיר אליו אתה מנסה לשלוח לא נמצא בקרבת מקום. חכה דקה או שתיים ונסה שוב.</string>
     <string name="error_has_occurred">אירעה שגיאה</string>
+    <string name="error_mirror_working">לא ניתן לשתף פריטים בזמן שיתוף מסך</string>
     <string name="error_msg_network_error">אירעה שגיאת רשת. נסה שוב.</string>
     <string name="error_receive_file_cannot_read">לא ניתן היה להעביר את הקובץ</string>
     <string name="error_receive_file_changed">לא ניתן לקבל. הפריט השתנה.</string>
@@ -53,6 +54,7 @@
     <string name="error_receive_user_interrupted">האדם אליו ניסית לשלוח ביטל את השליחה</string>
     <string name="error_refuse_receive">ההעברה בוטלה</string>
     <string name="error_remote_busy">נראה כאילו המכשיר אליו אתה מנסה לשלוח עסוק כעת. חכה דקה או שתיים ונסה שוב.</string>
+    <string name="error_remote_mirror_working">המכשיר השני לא יכול לקבל פריטים בזמן שיתוף מסך</string>
     <string name="error_self_busy">המכשיר עסוק כעת. חכה או דקה שתיים ונסה שוב.</string>
     <string name="error_send_file_cannot_read">לא ניתן לשלוח קובץ. נסה שוב.</string>
     <string name="error_send_file_no_enough_space">לא ניתן לשלוח. אין מספיק מקום על המכשיר אליו אתה מנסה לשלוח.</string>
@@ -77,13 +79,18 @@
     <string name="file_transfer_progress_title">התקדמות</string>
     <string name="functions_are_being_developed">תכונה זו תהיה זמינה בקרוב!</string>
     <string name="go_to_settings">הגדרות</string>
+    <string name="guide_summary_1">האדם בצד השני יכול להקיש על המתג בלוח ההתראות</string>
+    <string name="guide_summary_2">בחר במכשיר שאליו ברצונך לשלוח פריטים, והקש על הצלמית שלו</string>
+    <string name="guide_title_1">הפעל את Mi Share בשני המכשירים</string>
+    <string name="guide_title_2">בחר מכשיר לשיתוף</string>
     <string name="help">לא מצליח למצוא מכשירים?</string>
-    <string name="help_content">אם אינך מצליח למצוא את המכשיר שאתה זקוק לו, בקש מהאדם האחר להפעיל את Mi Share.</string>
+    <string name="help_content">אם אינך מצליח למצוא את המכשיר שאתה זקוק לו, בקש מהאדם האחר להפעיל את שיתוף Mi.</string>
     <string name="hide">הסתר</string>
     <string name="i_know">הבנתי</string>
     <string name="location_enabled">Mi Share הפעילה שירותי מיקום כדי למצוא מכשירים בקרבת מקום</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
+    <string name="menu_item_privacy_title">מדיניות הפרטיות</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
@@ -91,13 +98,20 @@
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mishare_folder_in_file_explorer">מנהל הקבצים> MiShare</string>
     <string name="mishare_service_channel_desc">התראות על תהליכי Mi Share</string>
-    <string name="mishare_settings_summary_international">"ניתן להשתמש בMi Share על מנת לשלוח פריטים למכשירים הנמצאים בקרבת מקום. 
-Mi Share מותאם למכשירי Mi וRedmi. 
-מותגים כמו OPPO, vivo, realme ועוד גם כן יהיו מותאים לMi Share. ניתן לבדוק את הרשימה של המכשירים המותאים באתר האינטרנט שלנו."</string>
+    <string name="mishare_settings_summary_international">"שיתוף Mi מאפשר לשלוח פריטים למכשירים סמוכים באופן אלחוטי.
+מאפיין זה נתמך על-ידי OPPO, VIVO, REALME ויצרני סמארטפונים אחרים. ניתן לראות את רשימת המכשירים הנתמכים באתר האינטרנט של היצרן."</string>
     <string name="mishare_state_protection">הפעל את Mi Share אוטומטית</string>
     <string name="mishare_state_protection_summary">"הפעל את Mi Share מחדש באופן אוטומטי כאשר בלוטות' או Wi-Fi מופעלים מחדש"</string>
     <string name="mishare_state_protection_summary_china">Turn Mi Share back on automatically when Bluetooth or WLAN are turned back on</string>
     <string name="mishare_transefer_channel_desc">התראות על פריטים שנשלחו והתקבלו על ידי Mi Share</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">משוך כלפי מטה כדי לרענן</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">רוענן בהצלחה</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">מרענן…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">שחרר כדי לרענן</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">זה הכול לעכשיו</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">זה הכול לעכשיו</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">רק רגע…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">לא ניתן היה לטעון פריטים</string>
     <string name="multi_file_name">%1$s, %2$s</string>
     <string name="name_with_ellipsize">%1$s … %2$s</string>
     <string name="no_longer_prompt">חסום</string>
@@ -150,6 +164,7 @@ Mi Share מותאם למכשירי Mi וRedmi.
     <string name="retry_task">שלח שוב</string>
     <string name="scanning_device_tips">מחפש מכשירים בקרבת מקום… וודא שהמכשיר שאתה מחפש נמצא במצב איתור.</string>
     <string name="scanning_only_xiaomi_device">ניתן להעביר פריט זה רק למכשירי Xiaomi או Black Shark</string>
+    <string name="send_files_by">שתף קבצים באמצעות</string>
     <string name="send_files_to">שלח פריטים ל</string>
     <string name="send_files_to_remote_success">הפריטים נשלחו אל %1$s בהצלחה</string>
     <string name="send_files_to_remote_success_title">נשלח בהצלחה</string>
@@ -163,7 +178,10 @@ Mi Share מותאם למכשירי Mi וRedmi.
     <string name="support_device_type">מכשירים נתמכים</string>
     <string name="throwing_print">הדפסה</string>
     <string name="throwing_screen">שדר</string>
-    <string name="tips_prompt_enable_midrop">שתף קבצים עם מכשירים בקרבת מקום</string>
+    <string name="tile_state_active">מופעל</string>
+    <string name="tile_state_inactive">כבוי</string>
+    <string name="tile_state_unavailable">לא זמין</string>
+    <string name="tips_prompt_enable_midrop">שיתוף Mi</string>
     <string name="to_feedback">דווח</string>
     <string name="transfer_intercept_to_remote">לא ניתן לשלוח: %1$s</string>
     <string name="transfer_to_pc_summary">הגרסה האחרונה של תוכנת AIoT המותקנת על Mi Notebooks תואמת ל-Mi Share. באתר MIUI ניתן לבדוק את רשימת דגמי המחשבים הניידים הנתמכים. אם המחשב הנייד שלך מופיע ברשימה, אך AIoT אינו מותקן עליו, עדכן את מנהל ההתקן של ה-BIOS ומתאם הרשת של המחשב הנייד והורד את AIoT.</string>

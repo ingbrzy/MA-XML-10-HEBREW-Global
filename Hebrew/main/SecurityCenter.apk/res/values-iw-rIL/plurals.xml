@@ -120,11 +120,23 @@
         <item quantity="two">היה בשימוש לפני %d שנים</item>
         <item quantity="many">היה בשימוש לפני %d שנים</item>
     </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">באפשרותך להשתמש בנועל היישומים עם %1$s יישומים</item>
+        <item quantity="one">באפשרותך להשתמש בנועל היישומים עם יישום %1$s</item>
+        <item quantity="two">באפשרותך להשתמש בנועל היישומים עם %1$s יישומים</item>
+        <item quantity="many">באפשרותך להשתמש בנועל היישומים עם %1$s יישומים</item>
+    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">אתה יכול להגן על %s יישומים לפחות</item>
         <item quantity="one">אתה יכול להגן על יישום אחד (%s) לפחות</item>
         <item quantity="two">אתה יכול להגן על %s יישומים לפחות</item>
         <item quantity="many">אתה יכול להגן על %s יישומים לפחות</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s יישומים יהיו מוגנים על-ידי נועל היישומים</item>
+        <item quantity="one">יישום %s יהיה מוגן על-ידי נועל היישומים</item>
+        <item quantity="two">%s יישומים יהיו מוגנים על-ידי נועל היישומים</item>
+        <item quantity="many">%s יישומים יהיו מוגנים על-ידי נועל היישומים</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d יישומים יכולים להתחבר לרשת ברקע</item>
@@ -440,6 +452,18 @@
         <item quantity="two">%2$d יישומים, כוללים %1$s, מרוקנים את הבטרייה</item>
         <item quantity="many">%2$d יישומים, כוללים %1$s, מרוקנים את הבטרייה</item>
     </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d בעיות ניצול סוללה</item>
+        <item quantity="one">בעיית ניצול סוללה %d</item>
+        <item quantity="two">%d בעיות ניצול סוללה</item>
+        <item quantity="many">%d בעיות ניצול סוללה</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">בצע מיטוב של %d פריטים לחיסכון בסוללה</item>
+        <item quantity="one">בצע מיטוב של פריט %d לחיסכון בסוללה</item>
+        <item quantity="two">בצע מיטוב של %d פריטים לחיסכון בסוללה</item>
+        <item quantity="many">בצע מיטוב של %d פריטים לחיסכון בסוללה</item>
+    </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d ימים מאז הבדיקה האחרונה</item>
         <item quantity="one">יום %d מאז הבדיקה האחרונה</item>
@@ -608,11 +632,41 @@
         <item quantity="two">הורד על ידי %1$d אנשים</item>
         <item quantity="many">הורד על ידי %1$d אנשים</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">פעמים</item>
+        <item quantity="one">פעם</item>
+        <item quantity="two">פעמים</item>
+        <item quantity="many">פעמים</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d בעיות ניצול סוללה</item>
+        <item quantity="one">בעיית ניצול סוללה %d</item>
+        <item quantity="two">%d בעיות ניצול סוללה</item>
+        <item quantity="many">%d בעיות ניצול סוללה</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d ימים "</item>
         <item quantity="one">" יום %d"</item>
         <item quantity="two">"%d ימים "</item>
         <item quantity="many">"%d ימים "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">"  שעות"</item>
+        <item quantity="one">"שעה  "</item>
+        <item quantity="two">"  שעות"</item>
+        <item quantity="many">"  שעות"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">"  דקות"</item>
+        <item quantity="one">"דקה  "</item>
+        <item quantity="two">"  דקות"</item>
+        <item quantity="many">"  דקות"</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">טען את מכשירך באופן מלא לפחות %2$d פעמים כדי לקבל נתונים מהימנים</item>
+        <item quantity="one">טען את מכשירך באופן מלא לפחות פעם %2$d כדי לקבל נתונים מהימנים</item>
+        <item quantity="two">טען את מכשירך באופן מלא לפחות %2$d פעמים כדי לקבל נתונים מהימנים</item>
+        <item quantity="many">טען את מכשירך באופן מלא לפחות %2$d פעמים כדי לקבל נתונים מהימנים</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d שעות  ו-"</item>
@@ -625,6 +679,36 @@
         <item quantity="one">" דקה %d"</item>
         <item quantity="two">"%d דקות "</item>
         <item quantity="many">"%d דקות "</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">טפל ב- %d בעיות ניצול סוללה</item>
+        <item quantity="one">טפל בבעיית ניצול סוללה %d</item>
+        <item quantity="two">טפל ב- %d בעיות ניצול סוללה</item>
+        <item quantity="many">טפל ב- %d בעיות ניצול סוללה</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">ניתן לטפל ב-%d בעיות ניצול סוללה</item>
+        <item quantity="one">ניתן לטפל בבעיית ניצול סוללה %d</item>
+        <item quantity="two">ניתן לטפל ב-%d בעיות ניצול סוללה</item>
+        <item quantity="many">ניתן לטפל ב-%d בעיות ניצול סוללה</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" ניתן לבצע מיטוב של %d פריטים"</item>
+        <item quantity="one">" ניתן לבצע מיטוב של פריט %d"</item>
+        <item quantity="two">" ניתן לבצע מיטוב של %d פריטים"</item>
+        <item quantity="many">" ניתן לבצע מיטוב של %d פריטים"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">בצע מיטוב של %d פריטים לחיסכון בסוללה</item>
+        <item quantity="one">בצע מיטוב של פריט %d לחיסכון בסוללה</item>
+        <item quantity="two">בצע מיטוב של %d פריטים לחיסכון בסוללה</item>
+        <item quantity="many">בצע מיטוב של %d פריטים לחיסכון בסוללה</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">ניתן לבצע מיטוב של %d פריטים לחיסכון בסוללה</item>
+        <item quantity="one">ניתן לבצע מיטוב של פריט %d לחיסכון בסוללה</item>
+        <item quantity="two">ניתן לבצע מיטוב של %d פריטים לחיסכון בסוללה</item>
+        <item quantity="many">ניתן לבצע מיטוב של %d פריטים לחיסכון בסוללה</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">℃ %d</item>
@@ -679,6 +763,18 @@
         <item quantity="one">המכשיר שלך ייכבה בעוד שנייה %d. חבר אותו למטען.</item>
         <item quantity="two">המכשיר שלך ייכבה בעוד %d שניות. חבר אותו למטען.</item>
         <item quantity="many">המכשיר שלך ייכבה בעוד %d שניות. חבר אותו למטען.</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d יישומים מופעלים אוטומטית לעתים קרובות</item>
+        <item quantity="one">יישום %d מופעל אוטומטית לעתים קרובות</item>
+        <item quantity="two">%d יישומים מופעלים אוטומטית לעתים קרובות</item>
+        <item quantity="many">%d יישומים מופעלים אוטומטית לעתים קרובות</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d יישומים מרוקנים את הסוללה</item>
+        <item quantity="one">יישום %d מרוקן את הסוללה</item>
+        <item quantity="two">%d יישומים מרוקנים את הסוללה</item>
+        <item quantity="many">%d יישומים מרוקנים את הסוללה</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d יישומי האייקונים אינם מוסתרים</item>

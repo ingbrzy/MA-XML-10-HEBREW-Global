@@ -144,6 +144,12 @@
         <item quantity="two">%d יישומים יכולים להציג התראות</item>
         <item quantity="many">%d יישומים יכולים להציג התראות</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">לקבל התראה בכל פעם כשאחת מהאוזניות שלך לא נמצאת באוזן או במארז הטעינה במשך יותר מ-%d דקות</item>
+        <item quantity="one">לקבל התראה בכל פעם כשאחת מהאוזניות שלך לא נמצאת באוזן או במארז הטעינה במשך יותר מדקה %d</item>
+        <item quantity="two">לקבל התראה בכל פעם כשאחת מהאוזניות שלך לא נמצאת באוזן או במארז הטעינה במשך יותר מ-%d דקות</item>
+        <item quantity="many">לקבל התראה בכל פעם כשאחת מהאוזניות שלך לא נמצאת באוזן או במארז הטעינה במשך יותר מ-%d דקות</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">לא נעול %d פעמים</item>
         <item quantity="one">לא נעול פעם %d</item>

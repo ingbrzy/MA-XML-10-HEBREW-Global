@@ -85,7 +85,7 @@ mm"</string>
     <string name="daydream">חלום בהקיץ</string>
     <string name="device_poco_global">POCOPHONE</string>
     <string name="device_poco_india">POCO PHONE</string>
-    <string name="dewdrops">Dewdrops</string>
+    <string name="dewdrops">טללי שחר</string>
     <string name="digitaluniverse">ייקום דיגיטלי (סטריאו)</string>
     <string name="double_seventh_day">七夕</string>
     <string name="easter">復活節</string>
@@ -189,7 +189,7 @@ mm"</string>
     <string name="slight_heat">小暑</string>
     <string name="solar_calendar">公历</string>
     <string name="spaceage">עידן החלל</string>
-    <string name="spring">אביב</string>
+    <string name="spring">קפיץ</string>
     <string name="spring_begins">立春</string>
     <string name="stopping_the_heat">处暑</string>
     <string name="summer_begins">立夏</string>
@@ -224,7 +224,8 @@ mm"</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
     <string name="wallpaper_group_geometric_title">גאומטריה</string>
     <string name="wallpaper_group_minimalist_scenery_title">מינימליזם</string>
-    <string name="wallpaper_group_natural_texture_subtitle">טום הגן ואחרים</string>
+    <string name="wallpaper_group_more_system_wallpaper_title">טפטים נוספים למערכת</string>
+    <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen ואחרים</string>
     <string name="wallpaper_group_natural_texture_title">תבניות מהטבע</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, אוניברסיטת אריזונה</string>
     <string name="wallpaper_group_red_mars_title">מאדים</string>

@@ -45,6 +45,7 @@
     <string name="bluetooth_enable_notification_content">"%s הפעיל בלוטות'"</string>
     <string name="bluetooth_enable_notification_title">"בלוטות' מופעל"</string>
     <string name="bluetooth_open">אפליקציה זו הפעילה את ה-Bluetooth</string>
+    <string name="bottom_bar_smallwindow_text">שחרר כדי להצמיד</string>
     <string name="btn_cancel">ביטול</string>
     <string name="btn_sure">אישור</string>
     <string name="button_text_cancel">ביטול</string>
@@ -78,10 +79,14 @@
     <string name="device_status_success">נשלח בהצלחה</string>
     <string name="device_status_waiting">ממתין…</string>
     <string name="device_type_pc">מחשב</string>
+    <string name="disable_nfc">NFC הושבת לצורך טעינה אלחוטית</string>
+    <string name="disable_nfc_reverse">NFC הושבת לצורך טעינה אלחוטית אחורית</string>
     <string name="eighthours">8 שעות</string>
     <string name="enable_livetalk_summary">חסוך 70% מהחיובים בגין השיחות שלך</string>
     <string name="enable_livetalk_title">הפעל חבילת Top-up</string>
     <string name="enable_midrop">הפעל</string>
+    <string name="enable_nfc">הטעינה הסתיימה. NFC הופעל מחדש.</string>
+    <string name="enable_nfc_reverse">הטעינה האחורית הסתיימה. NFC הופעל מחדש.</string>
     <string name="fc_dialog_body">לשלוח דו\"ח שגיאות אל Mi לצורך ניתוח? דו\"ח זה עשוי להכיל מידע המאפשר זיהוי אישי. הדו\"ח שלך יעזור בתיקון תקלה זו ולעולם לא ישותף בשום הקשר מסחרי.</string>
     <string name="fc_dialog_jump_to_preview">הצג סיכום</string>
     <string name="file_cannot_print">לא ניתן להדפיס פריט זה.</string>

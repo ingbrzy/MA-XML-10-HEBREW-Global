@@ -104,6 +104,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">לוח שנה סיני מסורתי</string>
+    <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">צליל ברירת מחדל לשעונים מעוררים</string>
     <string name="default_alarm_title">צלצול ברירת מחדל</string>
@@ -254,10 +255,13 @@
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
+    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
+    <string name="miuix_appcompat_select_all">בחר הכל</string>
     <string name="miuix_appcompat_select_all_description">בחר הכל</string>
+    <string name="miuix_appcompat_select_item">בחר פריטים</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">משוך כלפי מטה כדי לרענן</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">רוענן בהצלחה</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">מרענן…</string>
@@ -401,6 +405,7 @@
     <string name="search_stopwatch_keywords">שעון עצר</string>
     <string name="search_timer_keywords">טיימר (מונה לאחור)</string>
     <string name="search_worldclock_keywords">זמן;שעון עולמי;שעון</string>
+    <string name="send">שליחה</string>
     <string name="set_alarm">בחר שעה</string>
     <string name="set_alarm_choose_ringtone">בחר רינגטון</string>
     <string name="set_alarm_done">בוצע</string>
@@ -420,6 +425,7 @@
     <string name="shutdown_alarm_enable_summary">השעון מעורר יכבה אם הוא נקבע למשך 10 דקות לפחות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="sleep_analysis">סטטיסטיקות</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
@@ -469,6 +475,7 @@
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">לאפשר ליישום זה להתחבר לאינטרנט על מנת לקבל גישה לכל המאפיינים שלו.</string>
     <string name="system_permission_main_purpose">זמני תצוגה, הגדרת התראות וטיימרים, שימוש בשעון עצר</string>
     <string name="system_permission_purpose">יצירת התראות לימי חול והגדרת רינגטונים אישיים</string>
@@ -582,8 +589,12 @@
     <string name="update_notification_info">מעדכן ברקע…</string>
     <string name="usage_start">התחלה</string>
     <string name="user_agreement">הסכם משתמש</string>
+    <string name="version_update_dialog_negative_desc">לא עכשיו</string>
+    <string name="version_update_dialog_positive_desc">עדכן</string>
+    <string name="version_update_dialog_title">קיים עדכון זמין</string>
     <string name="vibrate_pref_summary">הפעל רטט יחד עם צלצול השעון המעורר</string>
     <string name="vibrate_when_ringing">הפעל רטט בזמן צלצול</string>
+    <string name="voice_add_alarm">הוסף שעון מעורר בעזרת פקודה קולית</string>
     <string name="volume_button_setting_desc">רשום פונקציות עבור הפעלה ועוצמת שמע כפתורי +/-</string>
     <string name="volume_button_setting_summary">הגדר תיפקוד לחצני העוצמה בעת צלצול השעון המעורר</string>
     <string name="volume_button_setting_title">לחצני עוצמה</string>

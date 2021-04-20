@@ -7,6 +7,12 @@
     <string name="add_custom_image">תמונה בהתאמה אישית</string>
     <string name="add_from_album">הוסף מהגלריה</string>
     <string name="afternoon">אחר הצהריים</string>
+    <string name="align_center_horizontally">אופקי ומיושר למרכז</string>
+    <string name="align_center_vertically">בערימה ומיושר למרכז</string>
+    <string name="align_left_horizontally">אופקי ומיושר לשמאל</string>
+    <string name="align_left_vertically">בערימה ומיושר לשמאל</string>
+    <string name="align_right_horizontally">אופקי ומיושר לימין</string>
+    <string name="align_right_vertically">בערימה ומיושר לימין</string>
     <string name="align_type">מיושר</string>
     <string name="always_style">תמיד</string>
     <string name="always_style_symmary">מעלה את צריכת החשמל</string>
@@ -31,6 +37,7 @@ dd MM"</string>
     <string name="aod_show_date_and_time">הצג תאריך ושעה</string>
     <string name="aod_show_style_title">הצג פריטים</string>
     <string name="aod_style">נושא</string>
+    <string name="aod_theme_store">נושאים לתצוגה תמידית</string>
     <string name="aod_to_close">כיבוי</string>
     <string name="apply">החל</string>
     <string name="apply_succeed">הוחל בהצלחה</string>

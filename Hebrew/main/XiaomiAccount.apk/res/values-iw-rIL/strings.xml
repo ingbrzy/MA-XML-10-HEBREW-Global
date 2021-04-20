@@ -113,6 +113,7 @@ ID:%s
     <string name="exit">יציאה</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_app_id">2263965750590514</string>
+    <string name="facebook_login">היכנס באמצעות Facebook</string>
     <string name="failed_dup_secure_phone_number">מספר טלפון זה כבר מקושר אל חשבון Mi אחר</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">איתור מכשיר</string>
@@ -149,6 +150,7 @@ ID:%s
     <string name="get_phone_bind_exceed_limit">באפשרותך לקשר עד 3 חשבונות Mi למספר טלפון אחד. לא ניתן להוסיף חשבונות חדשים.</string>
     <string name="get_phone_verifycode_exceed_limit">מספר רב מידי של קודי אימות נשלחו אל מספר זה. נסה שוב לאחר 24 שעות.</string>
     <string name="google">גוגל</string>
+    <string name="google_login">היכנס באמצעות Google</string>
     <string name="guest_account_label">חשבון אורח Mi</string>
     <string name="health_action_activate">הפעל</string>
     <string name="health_action_install">התקן</string>
@@ -313,6 +315,7 @@ ID:%s
     <string name="passport_login_instead_reg">השתמש במספר זה</string>
     <string name="passport_login_instead_reg_with_email">השתמש בכתובת דוא\"ל זו</string>
     <string name="passport_login_other_account">חשבון אחר</string>
+    <string name="passport_login_other_way">דרכים אחרות להיכנס</string>
     <string name="passport_login_prompt">כל מה שאתה צריך הוא חשבון Mi אחד בכדי להשתמש בכל שירותי Mi.</string>
     <string name="passport_login_recycle_account_no">לא</string>
     <string name="passport_login_recycle_account_yes">כן</string>
@@ -330,6 +333,10 @@ ID:%s
     <string name="passport_prev">הקודם</string>
     <string name="passport_privacy_policy">מדיניות הפרטיות</string>
     <string name="passport_privacy_policy_required">מדיניות פרטיות (חובה)</string>
+    <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_input_email_register_prompt">הנתונים האישיים שלך יאוחסנו בהתאם לחוקים ולתקנות של האזור שבו בחרת.</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> תווים, עם לפחות <xliff id="min_pwd_type" refersto="2">%3$d</xliff> תווים מהסוגים הבאים: אותיות, ספרות, סמלים מיוחדים</string>
     <string name="passport_pwd_generate_failure">לא ניתן היה ליצור סיסמה</string>
     <string name="passport_pwd_generating">יוצר…</string>
     <string name="passport_querying_phone_info">מבקש פרטי חשבון…</string>
@@ -366,6 +373,7 @@ ID:%s
     <string name="passport_register_restricted_title">לא ניתן להשתמש במספר טלפון זה</string>
     <string name="passport_register_using_other_ways">דרכים אחרות ליצירת חשבון</string>
     <string name="passport_registered_phone_num">טלפון: %s</string>
+    <string name="passport_registered_phone_num_v2">מספר טלפון</string>
     <string name="passport_registered_phone_user_ID">מזהה משתמש: %s</string>
     <string name="passport_registered_phone_user_name">שם משתמש: %s</string>
     <string name="passport_reject_recycle_account">לא</string>
@@ -441,6 +449,9 @@ ID:%s
     <string name="permission_group_storage">אחסון</string>
     <string name="phone_num_use_for">מספר הטלפון משמש ל:</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות.</string>
+    <string name="provision_back">הקודם</string>
+    <string name="provision_next">הבא</string>
+    <string name="provision_skip_underline">דלג</string>
     <string name="push_notification_content">קבל קוד אימות</string>
     <string name="push_notification_title">נכנסת לחשבון Mi שלך באמצעות התקן לא מוכר</string>
     <string name="push_notify_dialog_message">התבצעה כניסה לחשבון Mi שלך באמצעות התקן לא מוכר. הזן קוד אימות זה באמצעות ההתקן. במידה וזה לא היית אתה, שנה את סיסמת חשבון Mi שלך באופן מידי. אל תשתף את קוד האימות עם אנשים אחרים.</string>

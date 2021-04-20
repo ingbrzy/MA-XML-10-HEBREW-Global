@@ -4,6 +4,7 @@
     <string name="This_week">השבוע</string>
     <string name="Today">היום</string>
     <string name="Yesterday">אתמול</string>
+    <string name="access_denied_info">יותר מדיי ניסיונות כניסה. חכה דקה או שתיים ונסה שוב.</string>
     <string name="account_bind_secure_email_title">הוסף כתובת דוא\"ל לשחזור</string>
     <string name="account_bind_secure_phone_title">הוסף מספר טלפון לשחזור</string>
     <string name="account_crop_user_avatar">חתוך את התמונה</string>
@@ -39,11 +40,17 @@
     <string name="action_update_phone">שינוי מספר טלפון</string>
     <string name="activate_email_notice">הקפד להפעיל את החשבון תוך 24 שעות</string>
     <string name="activity_not_found_notice">לא ניתן למצוא את היישום</string>
+    <string name="ad_bar_notification_setting_sub_title">הצג אירועים בלוח ההתראות</string>
+    <string name="ad_bar_notification_setting_title">אירועים</string>
     <string name="ad_buy">רכישה</string>
     <string name="ad_download">הורד</string>
     <string name="ad_join">הצטרף לקהילה</string>
     <string name="ad_more">עוד</string>
+    <string name="add_search_channel_link">כתובת URL</string>
+    <string name="add_search_channel_name">שם</string>
+    <string name="add_search_channel_tip">חפש את \"%s\" באתר היעד, ואז העתק והדבק לכאן את כתובת האתר.</string>
     <string name="add_to_trust_device">מכשיר זה הוגדר כאמין</string>
+    <string name="add_website">הוסף אתר אינטרנט</string>
     <string name="agree">מסכים</string>
     <string name="agree_and_continue">מסכים</string>
     <string name="ai_animation_music_text">פסקול AI</string>
@@ -63,7 +70,10 @@
     <string name="alert_dialog_download_prepare">מתכונן להורדה…</string>
     <string name="alert_dialog_download_progress">"מוריד יישום "</string>
     <string name="all">הצג הכל</string>
+    <string name="app_description_content">\"וידאו Mi\" הוא יישום מערכת שמכיל נגן וידאו מקומי. גם לאחר הסרת הקיצור ממסך הבית תוכל לנגן קובצי וידאו.</string>
+    <string name="app_description_title">להסיר את \"וידאו Mi\" ממסך הבית?</string>
     <string name="app_name">וידאו Mi</string>
+    <string name="auth_again">מסכים</string>
     <string name="auth_fail_warning">פג תוקף התהליך. היכנס שוב.</string>
     <string name="auto_play_next_off">ניגון אוטומטי כבוי</string>
     <string name="auto_play_next_on">ניגון אוטומטי מופעל</string>
@@ -82,6 +92,8 @@
     <string name="choose_to_signup">לא, אצור חשבון משלי</string>
     <string name="click_to_reload_more">לחץ על מנת לטעון עוד</string>
     <string name="click_to_retry">נסה שוב</string>
+    <string name="cloud_auto_pip_play_switch">השתמש אוטומטית בתמונה בתוך תמונה</string>
+    <string name="cloud_online_player">נַגָן</string>
     <string name="cloud_online_switch">המלצות מותאמות אישית</string>
     <string name="cloud_online_switch_close_time">תוכל להפעיל המלצות תוכן מותאמות אישית ב-%s</string>
     <string name="cloud_online_switch_open_time">הצג המלצות תוכן מותאמות אישית</string>
@@ -120,15 +132,29 @@
     <string name="continue_play">המשך</string>
     <string name="data_empty">אין פריטים להצגה</string>
     <string name="description">תיאור</string>
+    <string name="detail_select_source">בחר מקור להשמעה</string>
     <string name="diagnosis_log_send_failed">לא ניתן היה לשלוח את היומנים. נסה שוב.</string>
     <string name="diagnosis_log_sent_format">"היומנים נשלחו בהצלחה.
 ID:%s
 שלח קוד זה לאחראי."</string>
+    <string name="dialog_disagree_privacychange_info">"You won't be able to use Mi Video online streaming services if you don't agree to our Privacy Policy. Tap \"Cancel\" to go back or \"Don't agree\" to continue and use Mi Video as a local player only."</string>
+    <string name="dialog_disagree_privacychange_title">"Don't agree?"</string>
+    <string name="dialog_privacy_change_info">"We've updated Mi Video Privacy Policy due to the adjustmets in the services we offer. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using the app."</string>
+    <string name="dialog_privacy_change_title">Privacy Policy update</string>
     <string name="dialog_privacy_info_new2">כדי להשתמש בשירותים אלה, עליך להסכים לכך ש-%1$s תאסוף ותעבד נתונים אישיים שלך ותשתמש בהם. הקשה על \"מסכים\" למטה מהווה אישור לכך שקראת את &lt;a href=%2$s>מדיניות הפרטיות&lt;/a> שלנו והסכמת אתה.</string>
     <string name="dialog_privacy_info_new3">כדי להשתמש בשירות זה, עליך לאפשר ל-%1$s לאסוף ולעבד מידע אישי שלך ולהשתמש בו על-פי מדיניות הפרטיות. הקשה על מסכים למטה מהווה הסכמה &lt;a href=%2$s>למדיניות הפרטיות&lt;/a> וגם &lt;a href=%3$s>להסכם המשתמש&lt;/a> של Xiaomi. &lt;br/>&lt;br/>הקשה על מסכים גם תאפשר ל-Mi Video לקבל גישה לרשימת היישומים המותקנים במכשירך. הרשאה זו תאפשר ל-Mi Video לשתף פריטים, לבדוק האם יישום כלשהו מותקן במכשירך, איזו גרסה של היישום מותקנת, והאם היישום מאובטח.</string>
-    <string name="dialog_privacy_title">הרשאה</string>
+    <string name="dialog_privacy_info_new4">"Welcome to Mi Video! This app provides the following services:&lt;br>&lt;/br> - Online streaming services&lt;br>&lt;/br>- A local video player&lt;br>&lt;/br>Mi Video needs to collect necessary personal information to provide you with the basic services. You can learn how we handle the information we collect in our Privacy Policy. You'll be able change the related settings in Settings > Passwords &amp;amp; security.&lt;br>&lt;/br>Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using Mi Video."</string>
+    <string name="dialog_privacy_revoke_cancel">ביטול</string>
+    <string name="dialog_privacy_revoke_count_down">ביטול (%1$ds)</string>
+    <string name="dialog_privacy_revoke_description">כיבוי המתג מבטל את הסכמתך למדיניות הפרטיות של וידאו Mi. אנו נפסיק לאסוף ממך מידע אישי. המידע האישי שכבר נאסף ונשמר יימחק תוך פרק הזמן הנדרש על פי החוקים הרלוונטיים. ביטול הסכמתך למדיניות הפרטיות ייחשב כסירוב לקבל שירותים מקוונים שמבוססים על איסוף מידע אישי.</string>
+    <string name="dialog_privacy_revoke_fail">המכשיר צריך להתחבר לרשת כדי שתוכל לבטל את הסכמתך. בדוק את הגדרות הרשת ונסה שוב.</string>
+    <string name="dialog_privacy_revoke_ok">ביטול</string>
+    <string name="dialog_privacy_revoke_success">בוטלה בהצלחה</string>
+    <string name="dialog_privacy_revoking">מבטל הסכמה…</string>
+    <string name="dialog_privacy_title">Terms and conditions</string>
     <string name="dialog_revoke_privacy_info_new2">לאחר ביטול ההרשאה, היישום יפסיק לאסוף נתונים, וכל הנתונים הרלוונטיים יימחקו מהשרתים שלנו. זה עלול לגרום לכך שלא ניתן יהיה להשתמש ביישום. לבטל את ההרשאה בכל מקרה?</string>
     <string name="dialog_revoke_privacy_title">מתבצע ביטול ההרשאה</string>
+    <string name="disagree">"Don't agree"</string>
     <string name="diy_channels_tips">עכשיו תוכל לבצע התאמה אישית של רשימת הערוצים שלך.</string>
     <string name="do_not_show_again">אל תציג שוב</string>
     <string name="download">הורד</string>
@@ -179,8 +205,10 @@ ID:%s
     <string name="feedback_tag_title">קטגוריה</string>
     <string name="feedback_text_empty_toast">ראשית, הזן את המשוב שלך.</string>
     <string name="file_cant_rename">File with %1$s name already exists. Please rename</string>
+    <string name="file_space_not_enough_tip">אין מספיק שטח אחסון. יש לפנות לפחות %d מ\"ב ולהפעיל את היישום שוב.</string>
     <string name="find_psw">שכחתי את הסיסמה</string>
     <string name="finish">בוצע</string>
+    <string name="firework_privacy">מדיניות הפרטיות של Firework</string>
     <string name="for_diagnosis_usage_only">היומנים משמשים לאבחון בלבד.</string>
     <string name="for_you">בשבילך</string>
     <string name="friday">שישי</string>
@@ -208,6 +236,7 @@ ID:%s
     <string name="galleryplus_already_cloud_member">Using VIP membership to play</string>
     <string name="galleryplus_check_network">הגדרות</string>
     <string name="galleryplus_chose_play_speed">מנגן במהירות %1$.1fX</string>
+    <string name="galleryplus_chose_play_speed_2">מנגן במהירות %1$.2fX</string>
     <string name="galleryplus_chose_play_speed_failure">לא ניתן להתאים את מהירות הניגון</string>
     <string name="galleryplus_click_to_higher_definition">לחץ פעמיים כדי לפתוח תצוגה מקדימה ב-HD</string>
     <string name="galleryplus_copyright_unsported_audio">לא ניתן לנגן את קטע השמע/הסרטון בגלל הגבלות זכויות יוצרים</string>
@@ -231,7 +260,7 @@ ID:%s
     <string name="galleryplus_gallery_video_save_video">יוצר סרטון…</string>
     <string name="galleryplus_gallery_video_slow_edit">הילוך איטי</string>
     <string name="galleryplus_gallery_view_tags">הצג סימנים</string>
-    <string name="galleryplus_is_higher_definition">נפתחה תצוגה מקדימה ב-HD</string>
+    <string name="galleryplus_is_higher_definition">תצוגת HD</string>
     <string name="galleryplus_network_connect_check">לא ניתן היה להתחבר לרשת</string>
     <string name="galleryplus_network_connect_confirm">התחבר לרשת WI-FI או הפעל גלישה סלולרית בהגדרות הרשת.</string>
     <string name="galleryplus_network_error">לא ניתן היה להתחבר לרשת</string>
@@ -241,6 +270,8 @@ ID:%s
     <string name="galleryplus_online_cta_disagree">לא מסכים</string>
     <string name="galleryplus_online_cta_title">תנאי השימוש</string>
     <string name="galleryplus_online_video_loading">רק רגע…</string>
+    <string name="galleryplus_orientation_lock">הכיוון ננעל בהצלחה</string>
+    <string name="galleryplus_orientation_unlock">כיוון המסך אינו נעול</string>
     <string name="galleryplus_permission_content">הענק ל-Mi Video את ההרשאות הנדרשות כדי שתוכל להשתמש בתכונה זו.</string>
     <string name="galleryplus_permission_content2">"כדי שתוכל להשתמש בתכונה זו, עבור אל הגדרות> אפליקציות> Mi Video> הרשאות יישום ואפשר ל-Mi Video לבצע את הפעולות הבאות: 
 
@@ -262,6 +293,7 @@ ID:%s
     <string name="galleryplus_subtitle_edit_edit">ערוך כתוביות</string>
     <string name="galleryplus_subtitle_edit_hide">הסתר כתוביות</string>
     <string name="galleryplus_subtitle_edit_literal_edit">ערוך טקסט</string>
+    <string name="galleryplus_subtitle_edit_reminder">הטקסט שהזנת ארוך מדיי</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">זיהוי דיבור בזמן ההקלטה נכשל</string>
     <string name="galleryplus_v_agree">מסכים</string>
     <string name="galleryplus_v_cancel">ביטול</string>
@@ -293,6 +325,7 @@ ID:%s
     <string name="history_local_video">מקומי</string>
     <string name="history_online_video">מקוון</string>
     <string name="hot">פופולרי</string>
+    <string name="i_know">הבנתי</string>
     <string name="identity">זיהוי</string>
     <string name="inconsistent_pwd">הסיסמאות אינן תואמות</string>
     <string name="init_channels">שחזר את הגדרות ברירת המחדל</string>
@@ -301,6 +334,12 @@ ID:%s
     <string name="input_size_tips">ניתן להזין עד 1000 תווים</string>
     <string name="isornot_your_mi_account">האם זה חשבון Mi שלך?</string>
     <string name="issue">בעיה</string>
+    <string name="item_card_all_replies">כל התגובות</string>
+    <string name="item_card_continue_play">השמעה אוטומטית</string>
+    <string name="item_card_more_trailers">עוד קדימונים</string>
+    <string name="item_card_open_in">"פתח ב- "</string>
+    <string name="item_card_related">קשור</string>
+    <string name="item_setting_go_back">ביטול הסכמה</string>
     <string name="just_a_second">רק רגע…</string>
     <string name="language_later_setting_tips">ניתן לשנות את הגדרות השפה תחת פרופיל > שפה.</string>
     <string name="language_select_tips">"בחר שפה מועדפת
@@ -355,7 +394,7 @@ ID:%s
     <string name="lv_confirm_delete_videos">למחוק את הפריטים?</string>
     <string name="lv_confirm_hide_videos">להסתיר את הסרטונים?</string>
     <string name="lv_confirm_unhide_videos">לבטל את הסתרת הסרטונים?</string>
-    <string name="lv_deleting">מוחקu2026</string>
+    <string name="lv_deleting">מוחק…</string>
     <string name="lv_device_list">התקנים</string>
     <string name="lv_device_list_seaching">&lt;אין התקנים לביצוע הקרנה></string>
     <string name="lv_do_not_show_this_again">אל תציג שוב</string>
@@ -462,13 +501,16 @@ ID:%s
     <string name="my_favorite_channels">הערוצים המועדפים עליי</string>
     <string name="my_feedback_title">המשוב שלי</string>
     <string name="need_update_app">עדכן את וידאו Mi על מנת שתוכל להשתמש בכל תכונותיו</string>
-    <string name="network_connect_info">לא ניתן להתחבר לאינטרנט. נא לבדוק את הגדרות הרשת ולנסות שוב.</string>
+    <string name="network_connect_info">לא ניתן היה להתחבר לרשת.</string>
+    <string name="network_error_info">אירעה שגיאת רשת. בדוק את הגדרות הרשת ונסה שוב.</string>
     <string name="network_failed">לא ניתן היה להתחבר לרשת</string>
+    <string name="network_timeout_info">לא ניתן היה להתחבר לרשת. נסה שוב.</string>
     <string name="new_channel_tip">צפה בערוצים חדשים!</string>
     <string name="next">הבא</string>
     <string name="next_step">הבא</string>
     <string name="nick_name">כינוי</string>
     <string name="no_account">לא מחובר</string>
+    <string name="no_history">אין כאן פריטים</string>
     <string name="no_longer_prompt">אל תציג שוב</string>
     <string name="no_more_content">זה הכול לעת עתה</string>
     <string name="no_network_tips">לא יכול להשתמש בתכונה זו כעת. הגישה לרשת הוגבלה.</string>
@@ -492,7 +534,10 @@ ID:%s
     <string name="notification_recall_desc">Mi Video יכול להודיע ​​לך על סרטונים פופולריים ועל המינויים שלך.</string>
     <string name="notification_recall_title">הפעל התראות</string>
     <string name="notify_apk_installed">ההורדה הושלמה בהצלחה</string>
+    <string name="off_tip_firework_recommend">לא תקבל מ-Firework המלצות תוכן בהתאמה אישית</string>
     <string name="ok">אישור</string>
+    <string name="on_tip_firework_recommend">תקבל מ-Firework המלצות תוכן בהתאמה אישית</string>
+    <string name="open_settings">הגדרות</string>
     <string name="order_alphabet">"א'-ת'"</string>
     <string name="order_recently_subscribe">מינויים חדשים</string>
     <string name="order_recently_updated">עודכנו לאחרונה</string>
@@ -594,6 +639,7 @@ ID:%s
     <string name="passport_area_code_title">אזור חיוג</string>
     <string name="passport_bad_authentication">שם משתמש או סיסמה לא חוקיים</string>
     <string name="passport_barcode_add_account_prompt">כדי להוסיף חשבון, סרוק שוב את קוד ה-QR לאחר שתיכנס.</string>
+    <string name="passport_can_not_receive_verification_code">לא קיבלת קוד אימות?</string>
     <string name="passport_captcha_title">זיהוי תווים</string>
     <string name="passport_checking_account">בודק סיסמה…</string>
     <string name="passport_close">סגירה</string>
@@ -696,11 +742,16 @@ ID:%s
     <string name="phone_number">מספר טלפון</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות.</string>
     <string name="pip">תמונה בתוך תמונה</string>
+    <string name="playlist_create">צור</string>
     <string name="playlist_detail_recomm_title">פלייליסטים מומלצים</string>
+    <string name="playlist_finish">בוצע</string>
     <string name="playlist_hot">פופולרי</string>
+    <string name="playlist_name">הזן שם לרשימת השמעה</string>
     <string name="playlist_new">חדש</string>
     <string name="playlist_no_more">אין כאן יותר סרטונים</string>
+    <string name="playlist_no_videos">אין כאן סרטונים</string>
     <string name="playlist_offline">פלייליסט זה אינו זמין יותר.</string>
+    <string name="playlist_remove">הסר</string>
     <string name="playlist_title">פלייליסט</string>
     <string name="playlist_view_more">רשימות השמעה נוספות</string>
     <string name="plus_add_shortcut">יצירת קיצור דרך במסך הבית</string>
@@ -728,6 +779,7 @@ ID:%s
     <string name="plus_menu_delete_popup_text">למחוק עכשיו?</string>
     <string name="plus_menu_properties">מאפיינים</string>
     <string name="plus_menu_rename">שנה שם</string>
+    <string name="plus_menu_rename_cant_empty">שם הקובץ לא יכול להיות ריק</string>
     <string name="plus_menu_rename_fail">שם קובץ לא יכול להכיל \"/\"</string>
     <string name="plus_menu_share">שתף</string>
     <string name="plus_mine_gallery">האלבומים שלי</string>
@@ -741,7 +793,7 @@ ID:%s
     <string name="plus_player_detail_file_time">"חותמת זמן: "</string>
     <string name="plus_player_hide">הסתר</string>
     <string name="plus_player_pip">PiP</string>
-    <string name="plus_player_pip_unsupport">Pip אינו נתמך בגרסת המערכת שלך.</string>
+    <string name="plus_player_pip_unsupport">PiP אינו נתמך בגרסת המערכת שלך.</string>
     <string name="plus_player_play_mode_auto">השמעה אוטומטית</string>
     <string name="plus_player_play_mode_list">חזרה על הכל</string>
     <string name="plus_player_play_mode_single_circle">חזור פעם אחת</string>
@@ -823,6 +875,9 @@ ID:%s
     <string name="plus_sort_type_time">זמן</string>
     <string name="plus_tab_gallery">תיקיות</string>
     <string name="plus_tab_time">ציר זמן</string>
+    <string name="privacy_revoke_setting">כיבוי המתג יבטל את הסכמתך למדיניות הפרטיות של וידאו Mi.</string>
+    <string name="privacy_revoke_title">ביטול הסכמה</string>
+    <string name="progressbar_title">בודק שגיאות אבטחה…</string>
     <string name="psw_hint">סיסמה</string>
     <string name="psw_sign_in">התחבר באמצעות סיסמה</string>
     <string name="pull_to_refresh_from_bottom_pull_label">משוך מעלה לרענון…</string>
@@ -860,6 +915,7 @@ ID:%s
     <string name="report_content_violence">דברי שנאה</string>
     <string name="report_fail">לא ניתן לדווח. נסה שוב.</string>
     <string name="report_success">דווח בהצלחה</string>
+    <string name="request_camera_permission_message">אנו נגן על המידע האישי שלך בהתאם לתקנות ולחוקים הרלוונטיים. כדי לעבוד כנדרש, יישום זה זקוק להרשאות הבאות:&lt;br>&lt;br>&lt;b>שימוש במצלמה (להגדרת תמונת פרופיל)&lt;/b>&lt;br>&lt;br>אם אינך מסכים להעניק את ההרשאות הללו, לא תוכל להשתמש בחלק ממאפייני היישום. עם זאת, הפונקציות הבסיסיות עדיין יהיו זמינות עבורך. תמיד ניתן להגביל את ההרשאות או לבטל אותן בהגדרות.</string>
     <string name="resend_active_email">שלח שוב</string>
     <string name="resend_email_reach_limit_message">ביקשת יותר מדי הודעות דוא\"ל לאימות. ודא שהודעות האימות אינן נמצאות בתיקיית דואר הזבל שלך.</string>
     <string name="resend_email_reach_limit_title">יותר מדי ניסיונות</string>
@@ -879,10 +935,13 @@ ID:%s
     <string name="screenrecord_cancel">בעיות התאמה</string>
     <string name="screenrecord_nosupport_record">"'מקליט המסך' אינו נתמך במכשיר זה."</string>
     <string name="search">חיפוש</string>
+    <string name="search_bar_hint">חיפוש סרטונים</string>
     <string name="search_choose_language">בחירת שפה</string>
     <string name="search_choose_voice_language">בחר שפה עבור חיפוש קולי</string>
     <string name="search_hot_words">פופולרי</string>
     <string name="search_key_not_null">שדה בקשת חיפוש לא יכול להיות ריק</string>
+    <string name="search_result_download_error">ההורדה נכשלה</string>
+    <string name="search_result_startdownload">מוריד…</string>
     <string name="selectall">בחר הכול</string>
     <string name="selectnull">בטל בחירת הכול</string>
     <string name="send_diagnosis_log">שלח יומנים</string>
@@ -924,6 +983,7 @@ ID:%s
     <string name="sync_favorites_limit">ישנם יותר מ-500 סרטונים במועדפים שלך. נצטרך למחוק סרטונים מוקדמים יותר כדי להמשיך בסנכרון.</string>
     <string name="sync_favorites_message">האם ברצונך לסנכרן את המועדפים מהמכשיר הזה לחשבונך? פריטים שאינם זמינים עוד יוסרו.</string>
     <string name="sync_favorites_title">סנכרון מועדפים</string>
+    <string name="system_error_info">המערכת עסוקה כעת. חכה דקה או שתיים ונסה שוב.</string>
     <string name="t_check_hide_file">בחר פריטים להסתרה</string>
     <string name="t_check_unhide_file">בחר פריטים שברצונך לבטל את הסתרתם</string>
     <string name="t_downloading">מתבצעת הורדה:</string>
@@ -954,14 +1014,19 @@ ID:%s
     <string name="ticket_hint">קוד אימות</string>
     <string name="ticket_invalid">הקוד שהזנת אינו נכון</string>
     <string name="ticket_sign_in">התחבר באמצעות מסרון</string>
+    <string name="tip_auth_again">"מכיוון שלא הסכמת בעבר לתנאי מדיניות הפרטיות המתאימה של ספק התוכן החיצוני (צד שלישי), איננו יכולים להציג תוכן וידאו ב'רגעים'. הקש על הלחצן שלמטה כדי להסכים למדיניות הפרטיות ולגשת לתכונה זו."</string>
     <string name="tip_author_click">הקש כדי לצפות בסרטונים נוספים מהחשבון הזה</string>
+    <string name="tip_pop">"&lt;Data>'תוכן מרגעים' מסופק על ידי Firework. על מנת לשפר את חוויית הצפייה שלך ולקבל המלצות תוכן מתאימות יותר, אפשר ל-Firework לאסוף, לעבד ולהשתמש במידע האישי שלך בהתאם למדיניות הפרטיות שלהם. קרא והסכם ל&lt;a href=\"%1$s\">מדיניות הפרטיות של Firework&lt;/a> לפני שתשתמש בשירות שלהם.&lt;/Data>"</string>
     <string name="tip_topic_click">הקש על מנת לצפות בסרטונים נוספים בנושא זה</string>
+    <string name="title_firework_recommend">המלצות של Firework</string>
     <string name="title_publisher">יוצרים</string>
     <string name="title_subscribe">מנויים</string>
     <string name="toast_no_data">פריט זה אינו זמין כעת. חזור מאוחר יותר.</string>
     <string name="toast_request_too_frequently">לא כל כך מהר!</string>
     <string name="toast_share_failed">לא ניתן לשתף. נא להמתין כמה דקות ולנסות שוב.</string>
     <string name="today">היום</string>
+    <string name="tool_bar_notification_setting_sub_title">להציג את סרגל הכלים בלוח ההתראות</string>
+    <string name="tool_bar_notification_setting_title">סרגל הכלים בלוח ההתראות</string>
     <string name="top_bar_game_desc">גלה כאן המון משחקים חדשים</string>
     <string name="top_bar_game_title">ערוץ המשחקים</string>
     <string name="tuesday">שלישי</string>
@@ -971,6 +1036,7 @@ ID:%s
     <string name="ugc_no_net">לא ניתן להתחבר לאינטרנט. נא לבדוק את הגדרות הרשת ולנסות שוב.</string>
     <string name="ui_log_tip">לחץ על אזור זה להסתרה, לחץ והחזק על מנת לנקות רישומים ישנים. גרור רישומים באופן ידני.</string>
     <string name="unknow">לא מוכר</string>
+    <string name="unknown_error_info">שגיאה לא ידועה</string>
     <string name="update">עדכן</string>
     <string name="update_email_address_dialog_message">עליך לאמת את זהותך לפני שתעדכן את כתובת הדוא\"ל לשחזור.</string>
     <string name="update_email_address_dialog_title">עדכן את הדוא\"ל לשחזור</string>
@@ -1031,4 +1097,12 @@ ID:%s
     <string name="vp_upcoming_title">הבא</string>
     <string name="wednesday">יום רביעי</string>
     <string name="yesterday">אתמול</string>
+    <string name="ytb_account">חשבונות</string>
+    <string name="ytb_author_video">סרטונים</string>
+    <string name="ytb_login">התחבר</string>
+    <string name="ytb_login_btn">התחבר</string>
+    <string name="ytb_login_hint">היכנס כדי לצפות במינויי YouTube שלך</string>
+    <string name="ytb_logout">התנתק</string>
+    <string name="ytb_play_next">הבא</string>
+    <string name="ytb_subscribed">מנויים</string>
 </resources>

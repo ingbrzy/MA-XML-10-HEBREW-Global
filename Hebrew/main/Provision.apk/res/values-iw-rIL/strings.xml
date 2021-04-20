@@ -74,8 +74,11 @@
     <string name="input_method_category">בחר את מקלדת ברירת המחדל אשר תשמש אותך לכתיבת הודעות, פתקים, וכל דבר אחר. שים לב כי תוכל להתקין מקלדות צד שלישי מאוחר יותר.</string>
     <string name="input_method_setting">בחר מקלדת</string>
     <string name="install_preinstall_app">טוען יישומים…</string>
+    <string name="item_contents_wwarning">אם המכשיר שלך ייעלם, לא תוכל למנוע מאנשים אחרים להשתמש בו ולגשת לנתונים שלך אלא אם תגדיר נעילת מסך. לדלג בכל זאת?</string>
     <string name="item_fingerprint">טביעת אצבע</string>
     <string name="item_lock_screen_password">נעילת מסך בלבד</string>
+    <string name="item_return">הגדר</string>
+    <string name="item_skip">דלג</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
     <string name="ktposition_header">שיתוף מידע מקומי עם גופי חילוץ וחירום</string>
     <string name="language_picker_other_languages_title">שפות נוספות</string>
@@ -126,6 +129,7 @@
     <string name="other_settings_user_experience">תכנית חווית המשתמש</string>
     <string name="other_settings_user_experience_summary">עזור לנו לשפר את המוצרים והשירותים שלנו על ידי שיתוף סטטיסטיקות השימוש שלך איתנו. הצג פרטים</string>
     <string name="other_settings_user_experience_summary_index">הצג פרטים</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_account">לגשת לחשבונות במכשירך:</string>
     <string name="permission_account_introduction">להיכנס באמצעות חשבון Mi</string>
     <string name="permission_application_package_introduction">כדי לגשת לאחסון במטרה לנתח ולסרוק חבילות התקנה</string>
@@ -158,6 +162,10 @@
     <string name="permission_picture_introduction">כדי לשמור, לערוך ולסנכרן תמונות ווידאו</string>
     <string name="permission_read_call_records">לערוך יומן שיחות:</string>
     <string name="permission_read_call_records_introduction">כדי להוסיף פריטים ליומן השיחות ולמחוק שיחות שנחסמו</string>
+    <string name="permission_read_contacts">Accessing contacts</string>
+    <string name="permission_read_contacts_introduction">For verifying your identity</string>
+    <string name="permission_read_message">Accessing text messages</string>
+    <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">כדי לגשת לפתקים ולקבצים מצורפים</string>
     <string name="permission_read_write_file">לגשת ולשמור קבצים ותמונות במכשירך:</string>
     <string name="permission_read_write_file_introduction">כדי לגשת, לשמור ולאחסן במטמון פריטים במכשירך</string>
@@ -178,8 +186,7 @@
     <string name="pref_title_voice_slot">כרטיס ה-SIM המועדף לשיחות</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
     <string name="protect_persoanl_info_statement">אנו נגן על המידע האישי שלך בהתאם לחוקים, לתקנות ולמסמכי מדיניות פרטיות הרלוונטיים.</string>
-    <string name="provision_inputmethod_policy_description">"
-הצג את 'מדיניות הפרטיות' של המקלדת הנבחרת."</string>
+    <string name="provision_inputmethod_policy_description">&lt;Data>הצג את &lt;a href=%1$s>מדיניות הפרטיות&lt;/a >של המקלדת שנבחרה.&lt;/Data></string>
     <string name="provision_inputmethod_policy_description1">מדיניות הפרטיות</string>
     <string name="recorder_introduction">תוכל להשתמש ביישום כדי להקליט שמע ולגבות הקלטות לענן.</string>
     <string name="require_authority_statement">כדי לאפשר לנו לספק לך שירותים בסיסיים, עליך להעניק את ההרשאות הבאות על מנת שנוכל לאסוף את המידע האישי שלך:</string>
@@ -188,6 +195,7 @@
     <string name="security_introduction">ניתן להשתמש באפליקציה זו כדי לנקות קובצי זבל, לאתר ולנטרל וירוסים, למטב את ביצועי המכשיר עבור משחקים, להאריך את חיי הסוללה, לנהל אפליקציות, הרשאות ועוד.</string>
     <string name="security_mobile_account_introduction">כדי להיכנס ולנהל חשבונות מערכת</string>
     <string name="service_agreement">קראתי ואני מסכים לתנאי השימוש.</string>
+    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">גלריה</string>
     <string name="service_name_application_package">מתקין החבילות</string>
     <string name="service_name_backup">גיבויים</string>
@@ -260,6 +268,7 @@
     <string name="terms_privacy_policy_input_method_facemoji">מדיניות הפרטיות של Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">מדיניות הפרטיות של Kika</string>
     <string name="title_fingerprint">הגדרת סיסמה</string>
+    <string name="title_set_fingerprint">נעילת מסך</string>
     <string name="user_agreement">הסכם המשתמש</string>
     <string name="user_agreement_declare">לפני שימוש ב-MIUI עליך לקרוא את הסכם המשתמש ואת מדיניות הפרטיות שלנו ולהסכים אתם. בזמן הפעלת המכשיר שלך שירות הפעלת Mi סים, Xiaomi Cloud והשירותים אתר את המכשיר, מסך הבית, ביטויים שכיחים, שירות התרגום, MIUI Daemon, תצוגת HTML, MIUI SDK, עוזר AI (בינה-מלאכותית), סוללה וביצועים, חיישן חשמל, Joyose, הגדרות בינה מלאכותית של מערכת ההפעלה, מנהל ההרשאות ושירות העדכונים יתחברו לאינטרנט. השירותים החכמים יתחברו לאינטרנט ויקבלו גישה למיקום שלך.</string>
     <string name="voice_assist_advice">MI AI מאפשר לך להשתמש בפקודות קוליות, אבל שימוש באפשרות זו תגרור צריכה מוגברת של בטריה (+1% בכל שעה).</string>
@@ -268,6 +277,15 @@
  כאשר אתה מאזין למוזיקה והמסך כבוי."</string>
     <string name="voice_assist_desp">אמור \"Mi AI\" אל תוך מיקרופון הטלפון שלך. Mi AI יזהה את הקול שלך ויוכל לשלוט על המכשיר.</string>
     <string name="voice_assist_title">הער באמצעות קול</string>
+    <string name="wc_dialog_agree">מסכים</string>
+    <string name="wc_dialog_reject">לא מסכים</string>
+    <string name="wc_dialog_summary">קרוסלת הטפטים מביאה אל מסך הנעילה שלך תמונות מדהימות וסיפורים מרגשים, בכל יום.</string>
+    <string name="wc_dialog_title">עיצוב חדש של מסך הנעילה</string>
+    <string name="wc_double_check_agree">נסה</string>
+    <string name="wc_double_check_reject">לא, תודה</string>
+    <string name="wc_double_check_summary">באפשרותך להפעיל את קרוסלת הטפטים כדי לראות האם היא מתאימה בשבילך. זכור שתמיד תוכל להפעיל ולהשבית את קרוסלת הטפטים בהגדרות > מסך נעילה.</string>
+    <string name="wc_double_check_title">נסה את קרוסלת הטפטים</string>
+    <string name="wc_notice_link_announcement_summary">"כדי להשתמש במאפיין זה, עליך לקרוא את &lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> ואת &lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> של ספק תוכן צד ג' ולהסכם אתם."</string>
     <string name="welcome">ברוכים הבאים</string>
     <string name="zone_picker_title">בחר אזור זמן</string>
 </resources>

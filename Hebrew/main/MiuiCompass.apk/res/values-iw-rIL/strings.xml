@@ -96,6 +96,7 @@
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="gradienter_title">פלס בנאים</string>
     <string name="guide_toast">בכדי לכייל, הזז את המכשיר כפי שמוצג להלן.</string>
     <string name="latitude">קו רוחב (LAT)</string>
     <string name="location_east">מיקום המזרח</string>
@@ -187,6 +188,8 @@
     <string name="pressure">%.1f</string>
     <string name="pressure_title">לחץ</string>
     <string name="pressure_unit">hPa</string>
+    <string name="remove_icon_description_content">מצפן הוא יישום מערכת. לא תוכל להשתמש בו כדי לבדוק כיוון, קואורדינטות, לחץ אטמוספרי וגובה נוכחי לאחר שתסיר את קיצור הדרך למסך הבית.</string>
+    <string name="remove_icon_description_title">להסיר את \"מצפן\" ממסך הבית?</string>
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>

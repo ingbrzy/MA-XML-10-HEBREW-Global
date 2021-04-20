@@ -39,10 +39,10 @@
     <string name="focus_mode_timer_pick_dialog_title">הזן את משך הזמן</string>
     <string name="focus_time_exception_tip">נראה שזמן המערכת השתנה. כבה את מצב המיקוד.</string>
     <string name="follow_sim1">החל הגדרות SIM 1</string>
-    <string name="fps_nature_summary">קצב רענון גבוה שומר על תמונה חדה וברורה</string>
-    <string name="fps_nature_title">גבוה</string>
-    <string name="fps_smooth_summary">קצב רענון בינוני הופך את פרטי התמונה לברורים יותר</string>
-    <string name="fps_smooth_title">בינוני</string>
+    <string name="fps_nature_summary">קצב רענון מרבי שומר על תמונה חדה וברורה</string>
+    <string name="fps_nature_title">מרבי</string>
+    <string name="fps_smooth_summary">קצב רענון גבוה הופך את פרטי התמונה לברורים יותר</string>
+    <string name="fps_smooth_title">גבוה</string>
     <string name="fps_standard_summary">קצב רענון רגיל חוסך סוללה</string>
     <string name="fps_standard_title">רגיל</string>
     <string name="fps_user_tip">האנימציות האלה להמחשה מתנגנות במהירות נמוכה, כדי שתוכל להתרשם מהן. הביצועים בפועל יכולים להיראות שונים, כתלות בגורמים משתנים.</string>
@@ -73,6 +73,7 @@
     <string name="p3_color_region_summary">הצגת כל תוכן המסך בסולם הצבעים P3</string>
     <string name="preview">תצוגה מקדימה</string>
     <string name="primary_color_region">מקורי</string>
+    <string name="primary_color_region_chinese_only">nature</string>
     <string name="primary_color_region_summary">זהה את סולם הצבעים באופן אוטומטי באמצעות כיול צבעים</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
     <string name="reset_edit">בטל שינויים</string>
@@ -135,6 +136,7 @@
     <string name="unlock_times_per_hour">"ביטולי נעילות בשעה: "</string>
     <string name="usage_agree">מסכים</string>
     <string name="usage_app_get_it">הבנתי</string>
+    <string name="usage_app_holiday_limit">ימי חופש</string>
     <string name="usage_app_limit_alter_summary">נראה כאילו הזמן המוקצב קצר יותר מהיישום שהשתמשת בו היום. האם להגביל זאת בכל מקרה?</string>
     <string name="usage_app_limit_alter_title">בדוק את מגבלת זמן המסך</string>
     <string name="usage_app_limit_prelong">הרחב זמן</string>
@@ -220,11 +222,16 @@
     <string name="usage_new_home_unused">לא נעשה שימוש</string>
     <string name="usage_new_home_update">שינוי</string>
     <string name="usage_new_home_usage_detail">נתוני השימוש</string>
+    <string name="usage_new_home_week_average_count">%s בממוצע</string>
     <string name="usage_new_home_week_category_title">קטגוריות אפליקציות</string>
     <string name="usage_new_home_week_compare_text1">%.2f יותר מהשבוע הקודם</string>
+    <string name="usage_new_home_week_compare_text1_new">(ב-%s%% יותר מהשבוע הקודם)</string>
     <string name="usage_new_home_week_compare_text2">%.2f פחות מהשבוע הקודם</string>
+    <string name="usage_new_home_week_compare_text2_new">(ב-%s%% פחות מהשבוע הקודם)</string>
     <string name="usage_new_home_week_equals_text">כמו בשבוע הקודם</string>
     <string name="usage_new_home_week_title">שבוע</string>
+    <string name="usage_new_home_week_unlock_compare_decrease">(ב-%.2f פחות מהשבוע הקודם)</string>
+    <string name="usage_new_home_week_unlock_compare_increase">(ב-%.2f יותר מהשבוע הקודם)</string>
     <string name="usage_new_home_week_unlock_equals_text">כמו בשבוע הקודם</string>
     <string name="usage_new_home_week_usage_title">אפליקציות בודדות</string>
     <string name="usage_new_home_which_week">שבוע %d</string>
@@ -294,6 +301,8 @@
     <string name="usage_state_focus_weak_summary">הנח את הטלפון שלך בצד</string>
     <string name="usage_state_friday">"ו'"</string>
     <string name="usage_state_go_more">יישומים נוספים</string>
+    <string name="usage_state_holiday_day_hour_minute">ימי חופש: %1$s %2$s</string>
+    <string name="usage_state_holiday_time">ימי חופש: %s</string>
     <string name="usage_state_hour_minute">%1$d שעות %2$d דקות</string>
     <string name="usage_state_less_one_minute">&lt; דקה 1</string>
     <string name="usage_state_monday">"ב'"</string>
@@ -344,8 +353,10 @@
     <string name="usage_stats_experience_text">הקש כדי לנסות (דקה אחת)</string>
     <string name="usage_stats_limit_time_accuracy_title">דיוק אומדן הזמן שנותר</string>
     <string name="usage_stats_limit_time_high_accuracy_summary">הצג את משך הזמן שנותר בדיוק של דקה אחת. זה מגביר את צריכת החשמל.</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary_new">דיוק עד הדקה (צריכת חשמל גבוהה יותר)</string>
     <string name="usage_stats_limit_time_high_accuracy_title">גבוה</string>
     <string name="usage_stats_limit_time_low_accuracy_summary">הצג את הזמן שנותר בדיוק של דקה אחת במהלך השעתיים האחרונות כדי לחסוך בסוללה</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary_new">דיוק עד הדקה במשך %d השעות שנותרו (חוסך חשמל)</string>
     <string name="usage_stats_limit_time_low_accuracy_title">נמוך</string>
     <string name="usage_stats_limit_time_warn">אזהרות זמן מסך</string>
     <string name="usage_stats_limit_time_warn_summary">הצג בלוח ההתראות את זמן המסך שנותר</string>

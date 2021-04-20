@@ -60,6 +60,12 @@
         <item quantity="two">%d פתקים</item>
         <item quantity="many">%d פתקים</item>
     </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">%d פתקים</item>
+        <item quantity="one">%d פתק אחד</item>
+        <item quantity="two">%d פתקים</item>
+        <item quantity="many">%d פתקים</item>
+    </plurals>
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d כניסות לכספת היישומים</item>
         <item quantity="one">כניסה %d לכספת היישומים</item>
@@ -96,6 +102,12 @@
         <item quantity="two">%d WLAN networks</item>
         <item quantity="many">%d WLAN networks</item>
     </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">נסה שוב בעוד %d שניות</item>
+        <item quantity="one">נסה שוב בעוד שנייה אחת (%d)</item>
+        <item quantity="two">נסה שוב בעוד %d שניות</item>
+        <item quantity="many">נסה שוב בעוד %d שניות</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">פריטים הממתינים לסנכרון: %d</item>
         <item quantity="one">פריט הממתין לסנכרון: %d</item>
@@ -131,5 +143,29 @@
         <item quantity="one">לא ניתן לבחור יותר מפריט %d</item>
         <item quantity="two">לא ניתן לבחור יותר מ-%d פריטים</item>
         <item quantity="many">לא ניתן לבחור יותר מ-%d פריטים</item>
+    </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">ההזמנה אושרה על-ידי %d אנשים</item>
+        <item quantity="one">ההזמנה אושרה על-ידי אדם %d</item>
+        <item quantity="two">ההזמנה אושרה על-ידי %d אנשים</item>
+        <item quantity="many">ההזמנה אושרה על-ידי %d אנשים</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s ימים</item>
+        <item quantity="one">יום %1$s</item>
+        <item quantity="two">%1$s ימים</item>
+        <item quantity="many">%1$s ימים</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s שעות</item>
+        <item quantity="one">שעה %1$s</item>
+        <item quantity="two">%1$s שעות</item>
+        <item quantity="many">%1$s שעות</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s דקות</item>
+        <item quantity="one">דקה %1$s</item>
+        <item quantity="two">%1$s דקות</item>
+        <item quantity="many">%1$s דקות</item>
     </plurals>
 </resources>

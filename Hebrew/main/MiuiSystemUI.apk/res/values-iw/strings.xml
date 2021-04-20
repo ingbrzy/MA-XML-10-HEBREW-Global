@@ -100,6 +100,8 @@
     <string name="accessibility_divider">מחלק מסך מפוצל</string>
     <string name="accessibility_ethernet_connected">אתרנט מחובר.</string>
     <string name="accessibility_ethernet_disconnected">אתרנט מנותק.</string>
+    <string name="accessibility_face_dialog_face_icon">סמל הפנים</string>
+    <string name="accessibility_fingerprint_dialog_fingerprint_icon">סמל טביעת אצבע</string>
     <string name="accessibility_gps_acquiring">‏השגת GPS.</string>
     <string name="accessibility_gps_enabled">‏GPS מופעל.</string>
     <string name="accessibility_home">בית</string>
@@ -322,6 +324,38 @@
     <string name="battery_saver_notification_text">מפחית את הביצועים ונתונים ברקע</string>
     <string name="battery_saver_notification_title">"תכונת 'חיסכון בסוללה' פועלת"</string>
     <string name="battery_saver_start_action">הפעל חיסכון בסוללה</string>
+    <string name="biometric_dialog_authenticated">מאומת</string>
+    <string name="biometric_dialog_confirm">אישור</string>
+    <string name="biometric_dialog_credential_attempts_before_wipe">יש לנסות שוב. ניסיון %1$d מתוך %2$d.</string>
+    <string name="biometric_dialog_credential_too_many_attempts">"יותר מדי ניסיונות שגויים.
+יש לנסות שוב בעוד %d שניות."</string>
+    <string name="biometric_dialog_empty_space_description">יש להקיש כדי לבטל את האימות</string>
+    <string name="biometric_dialog_face_icon_description_authenticated">זיהוי הפנים בוצע</string>
+    <string name="biometric_dialog_face_icon_description_authenticating">המערכת מחפשת את הפנים שלך</string>
+    <string name="biometric_dialog_face_icon_description_confirmed">מאושר</string>
+    <string name="biometric_dialog_face_icon_description_idle">עליך לנסות שוב</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_device">נעשו יותר מדי ניסיונות שגויים. הנתונים במכשיר יימחקו.</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_profile">נעשו יותר מדי ניסיונות שגויים. פרופיל העבודה הזה והנתונים המשויכים אליו יימחקו.</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_user">נעשו יותר מדי ניסיונות שגויים. המשתמש הזה יימחק.</string>
+    <string name="biometric_dialog_last_attempt_before_wipe_dialog_title">הנתונים שלך יימחקו</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_device">הזנת סיסמה שגויה בניסיון הבא תגרום למחיקת הנתונים במכשיר.</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_profile">הזנת סיסמה שגויה בניסיון הבא תגרום למחיקת פרופיל העבודה והנתונים המשויכים אליו.</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_user">הזנת סיסמה שגויה בניסיון הבא תגרום למחיקת המשתמש הזה.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_device">הזנת קו ביטול נעילה שגוי בניסיון הבא תגרום למחיקת הנתונים במכשיר.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_profile">הזנת קו ביטול נעילה שגוי בניסיון הבא תגרום למחיקת פרופיל העבודה והנתונים המשויכים אליו.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_user">הזנת קו ביטול נעילה שגוי בניסיון הבא תגרום למחיקת המשתמש הזה.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_device">הזנת קוד גישה שגוי בניסיון הבא תגרום למחיקת הנתונים במכשיר.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_profile">הזנת קוד גישה שגוי בניסיון הבא תגרום למחיקת פרופיל העבודה והנתונים המשויכים אליו.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_user">הזנת קוד גישה שגוי בניסיון הבא תגרום למחיקת המשתמש הזה.</string>
+    <string name="biometric_dialog_now_wiping_dialog_dismiss">סגירה</string>
+    <string name="biometric_dialog_tap_confirm">"יש להקיש על 'אישור' לסיום"</string>
+    <string name="biometric_dialog_try_again">ניסיון נוסף</string>
+    <string name="biometric_dialog_use_password">שימוש בסיסמה</string>
+    <string name="biometric_dialog_use_pattern">שימוש בקו ביטול נעילה</string>
+    <string name="biometric_dialog_use_pin">שימוש בקוד אימות</string>
+    <string name="biometric_dialog_wrong_password">סיסמה שגויה</string>
+    <string name="biometric_dialog_wrong_pattern">קו ביטול נעילה שגוי</string>
+    <string name="biometric_dialog_wrong_pin">קוד אימות שגוי</string>
     <string name="blob_expires_text">התוקף יפוג ב-%s</string>
     <string name="blob_id_text">מזהה נתונים משותפים: %d</string>
     <string name="block">חסום את כל ההודעות</string>
@@ -562,7 +596,9 @@
     <string name="experimental">ניסיוניות</string>
     <string name="external_source_trusted">מורשה</string>
     <string name="external_source_untrusted">לא מורשה</string>
+    <string name="face_dialog_looking_for_face">מחפש אותך…</string>
     <string name="failed_to_open_app_settings_toast">פתיחת הגדרות עבור %1$s נכשלה</string>
+    <string name="fingerprint_dialog_touch_sensor">יש לגעת בחיישן טביעות האצבע</string>
     <string name="fingerprint_not_recognized">לא זוהתה</string>
     <string name="force_allow_on_external">אילוץ הרשאת אפליקציות באחסון חיצוני</string>
     <string name="force_allow_on_external_summary">מאפשר כתיבה של כל אפליקציה באחסון חיצוני, ללא התחשבות בערכי המניפסט</string>
@@ -695,6 +731,7 @@
     <string name="keyguard_missing_sim_instructions_long">‏כרטיס ה-SIM חסר או שלא ניתן לקרוא אותו. הכנס כרטיס SIM.</string>
     <string name="keyguard_missing_sim_message">‏אין כרטיס SIM בטלפון.</string>
     <string name="keyguard_missing_sim_message_short">‏אין כרטיס SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">הרשת נעולה</string>
     <string name="keyguard_password_enter_password_code">הזן סיסמה לביטול הנעילה</string>
     <string name="keyguard_password_enter_pin_code">הזן את קוד הגישה</string>
@@ -710,6 +747,7 @@
     <string name="keyguard_plugged_in">הסוללה נטענת</string>
     <string name="keyguard_plugged_in_charging_fast">הסוללה נטענת מהר</string>
     <string name="keyguard_plugged_in_charging_slowly">הסוללה נטענת לאט</string>
+    <string name="keyguard_retry">יש להחליק למעלה כדי לנסות שוב</string>
     <string name="keyguard_sim_locked_message">‏כרטיס ה-SIM נעול.</string>
     <string name="keyguard_sim_puk_locked_message">‏כרטיס ה-SIM נעול באמצעות PUK.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">‏מבטל את הנעילה של כרטיס ה-SIM…</string>
@@ -814,12 +852,14 @@
 
 למידע נוסף, פנה למנהל המערכת."</string>
     <string name="monitoring_description_ca_cert_settings">פתח את פרטי הכניסה המהימנים</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">במכשיר זה מותקנת רשות אישורים. ניתן לעקוב אחר התנועה ברשת המאובטחת או לשנות אותה.</string>
     <string name="monitoring_description_do_body">מנהל המערכת יכול לנטר ולנהל הגדרות, גישה ארגונית, אפליקציות, נתונים המשויכים למכשיר ומידע על מיקום המכשיר.</string>
     <string name="monitoring_description_do_body_vpn">אתה מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
     <string name="monitoring_description_do_header_generic">המכשיר שלך מנוהל על ידי %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s משתמש באפליקציה %2$s כדי לנהל את מכשירך.</string>
     <string name="monitoring_description_do_learn_more">למידע נוסף</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">הארגון שלך התקין רשות אישורים בפרופיל העבודה. ניתן לעקוב אחר התנועה ברשת המאובטחת או לשנות אותה.</string>
     <string name="monitoring_description_managed_profile_named_vpn">פרופיל העבודה שלך מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
     <string name="monitoring_description_management">"המכשיר מנוהל על ידי הארגון שלך.
@@ -851,6 +891,7 @@
 
 בנוסף, אתה מחובר ל-VPN, שגם באמצעותו ניתן לעקוב אחרי הפעילות שלך ברשת."</string>
     <string name="monitoring_description_vpn_settings">‏פתח את הגדרות ה-VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">‏אישורי CA</string>
     <string name="monitoring_subtitle_network_logging">רישום התנועה ברשת</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -991,6 +1032,7 @@
     <string name="private_dns_mode_provider">‏שם מארח של ספק DNS פרטי</string>
     <string name="private_dns_mode_provider_failure">לא ניתן היה להתחבר</string>
     <string name="private_dns_mode_provider_hostname_hint">‏צריך להזין את שם המארח של ספק DNS</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">יש בעיה בחיבור. עליך לכבות את המכשיר ולהפעיל אותו מחדש</string>
     <string name="profile_info_settings_title">פרטי פרופיל</string>
     <string name="profile_owned_footer">ייתכן שהפרופיל נתון למעקב</string>

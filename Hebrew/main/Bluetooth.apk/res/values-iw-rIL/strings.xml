@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="bt_audio_share_notification_content">הקש כדי להציג אפשרויות</string>
+    <string name="bt_audio_share_notification_title">משתף שמע</string>
     <string name="miui_transfer_history_title">העברות Bluetooth</string>
     <string name="miui_transfer_inbound_title">נכנס</string>
     <string name="miui_transfer_outbound_title">יוצא</string>
+    <string name="notice_audio_share_disconnected">כבר לא משתף שמע עקב הפרעה לחיבור</string>
     <string name="switch_audio_device_bt_a2dp">Bluetooth (שמע של מדיה)</string>
     <string name="switch_audio_device_bt_a2dp_summary">נגן שמע של מדיה בהתקן מחובר</string>
     <string name="switch_audio_device_bt_hfp">Bluetooth (שיחות)</string>

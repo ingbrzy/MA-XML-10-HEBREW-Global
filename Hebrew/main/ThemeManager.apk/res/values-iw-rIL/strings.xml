@@ -16,20 +16,22 @@
     <string name="ad_app_is_downloading">מוריד…</string>
     <string name="ad_service">הצג פרסומות</string>
     <string name="add_resource_detail_fail">לא ניתן להוסיף את המשאב</string>
-    <string name="agreement_desc">חשבון משתמש (חובה)</string>
+    <string name="agreement_desc">הסכם משתמש (חובה)</string>
     <string name="alarm_sound">שעון מעורר</string>
     <string name="all_resources">הכל</string>
     <string name="all_wallpapers">כל הרקעים</string>
+    <string name="app_description_content">\"ערכות הנושא\" הוא יישום מערכת. הוא מציע טפטים ואפשרויות רבות להתאמה אישית. גם לאחר הסרת הקיצור ממסך הבית עדיין תוכל להשתמש בערכות הנושא דרך התפריט.</string>
+    <string name="app_description_title">להסיר את \"ערכות הנושא\" ממסך הבית?</string>
     <string name="app_name">ערכות נושא</string>
-    <string name="app_permission_optional">הרשאות אופציונליות</string>
+    <string name="app_permission_optional">הרשאות שאינן חובה</string>
     <string name="app_permission_require">הרשאות חובה</string>
     <string name="app_permission_use_desc">הרשאות</string>
     <string name="app_permission_use_group_account">חשבונות</string>
-    <string name="app_permission_use_group_account_desc">בעבור קבלת פרטים אודות חשבון Mi</string>
+    <string name="app_permission_use_group_account_desc">עבור קבלת פרטי חשבון Mi</string>
     <string name="app_permission_use_group_phone">טלפון</string>
-    <string name="app_permission_use_group_phone_desc">עבור אימות חשבונך וניהול גישות</string>
+    <string name="app_permission_use_group_phone_desc">עבור אימות חשבון והרשאות</string>
     <string name="app_permission_use_group_storage">אחסון</string>
-    <string name="app_permission_use_group_storage_desc">בעבור שימוש ושמירה של ערכות נושא, טפטים, רינגטונים, וגופנים</string>
+    <string name="app_permission_use_group_storage_desc">עבור שימוש ושמירה של ערכות נושא, טפטים, רינגטונים, וגופנים</string>
     <string name="apply_default_font_tip">להמשיך להשתמש בגופן הנוכחי של המערכת?</string>
     <string name="apply_font_btn_exclude">לא כעת</string>
     <string name="apply_font_btn_reboot">אתחול</string>
@@ -156,6 +158,7 @@
     <string name="incompatible_dialog_ok">הבנתי</string>
     <string name="incompatible_dialog_title">בעיות התאמה</string>
     <string name="is_setting_wallpaper_message">מגדיר טפט…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">שעון מעורר</string>
     <string name="item_resource_audio_optional_color_ring">צלצול Ringback</string>
     <string name="item_resource_audio_optional_notification_ring">התראות</string>
@@ -201,8 +204,9 @@
     <string name="my_gifts">מתנות</string>
     <string name="my_gifts_purchased">נרכשו</string>
     <string name="my_gifts_received">התקבלו</string>
-    <string name="need_permission">הרשאות חובה (משמשות לתכונות ושירותים בסיסיים של יישום זה)</string>
+    <string name="need_permission">"ברוך הבא ל'ערכות נושא'! יישום זה מספק את שירותי ההתאמה האישית הבאים:"</string>
     <string name="no_data">לא ניתן להתחבר לרשת</string>
+    <string name="no_network">לא ניתן להתחבר לרשת</string>
     <string name="no_related_font">לא ניתן היה למצוא תוצאות</string>
     <string name="no_related_ringtone">לא ניתן היה למצוא תוצאות</string>
     <string name="no_related_theme">לא ניתן היה למצוא תוצאות</string>
@@ -236,7 +240,7 @@
     <string name="pref_animation_preview">תצוגות מקדימות מונפשות</string>
     <string name="pref_animation_preview_switch">הצג מעבר בין מסך הנעילה למסך הבית בכיסויי ערכות נושא</string>
     <string name="pref_privacy_policy">מדיניות הפרטיות</string>
-    <string name="preference_authorization_summary">כבה או הפעל את המתג כדי להעניק או לבטל הרשאה</string>
+    <string name="preference_authorization_summary">על ידי כיבוי המתג, אתה מושך את הסכמתך למדיניות הפרטיות של \"ערכות נושא\".</string>
     <string name="preference_authorization_title">הרשאה</string>
     <string name="premium">פרימיום</string>
     <string name="present_local_themes">ערכות הנושא שלי</string>
@@ -408,6 +412,7 @@
     <string name="resource_pack_price_info">מחיר מקורי: %1$s</string>
     <string name="resource_pack_warning">רכשת כבר %1$d רכיבים בערכת נושא זו. זול יותר יהיה לרכוש את הרכיבים הנותרים בנפרד.</string>
     <string name="resource_present">מתנה</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">חינם</string>
     <string name="resource_price_unit"> נקודות Mi</string>
     <string name="resource_purchase_common_error">אירעה שגיאה, נסה שוב</string>
@@ -483,11 +488,12 @@
     <string name="restore_last_theme_title">משחזר את ערכת הנושא המקורית</string>
     <string name="restore_push_content">חזור לערכת הנושא שהשתמשת בה לפני העדכון</string>
     <string name="restore_push_title">שחזר את ערכת הנושא שלך</string>
-    <string name="revoke_dialog_agree">בטל הרשאה</string>
+    <string name="revoke_dialog_agree">ביטול הסכמה</string>
     <string name="revoke_dialog_agree_with_timestamp">בטל הרשאה (%1$d)</string>
     <string name="revoke_dialog_disagree">ביטול</string>
-    <string name="revoke_dialog_message">"לאחר שתבטל את ההרשאה, היישום 'ערכות הנושא' יפסיק לאסוף נתונים וימחק מהשרתים שלנו את כל הנתונים הנלווים. ייתכן שהפעולה תגרום ליישום ערכות הנושא להיות לא יציב. האם לבטל את ההרשאה בכל זאת?"</string>
-    <string name="revoke_dialog_title">מבטל הרשאה</string>
+    <string name="revoke_dialog_message">על ידי כיבוי המתג, אתה מבטל את הסכמתך למדיניות הפרטיות של \"ערכות נושא\". אנו נפסיק לאסוף את המידע האישי שלך. הנתונים האישיים שכבר נאספו ונשמרים יימחקו במהלך התקופה הנדרשת על פי החוקים החלים. \"ערכות נושא\" צריכה לאסוף מידע אישי הכרחי כדי לספק לך את שירותיה הבסיסיים. ביטול הסכמתך למדיניות הפרטיות שלו תיחשב כסירוב לקבל את שירותיו המבוססים על נתונים אישיים שנאספו.</string>
+    <string name="revoke_dialog_title">ביטול הסכמה</string>
+    <string name="revoke_fail_message">המכשיר שלך צריך להתחבר לרשת כדי שתוכל לבטל את הסכמתך. בדוק את הגדרות הרשת שלך ונסה שוב.</string>
     <string name="revoke_progress_dialog_message">מבטל הרשאה…</string>
     <string name="revoke_toast_message">ההרשאה בוטלה בהצלחה</string>
     <string name="rewarded_ad_load_failed">לא ניתן היה לטעון את הסרטון, נסה שוב.</string>
@@ -566,6 +572,7 @@
     <string name="theme_component_title_statusbar">שורת מצב</string>
     <string name="theme_component_title_wallpaper">מסך הבית</string>
     <string name="theme_current_using_has_update">קיים עדכון זמין עבור ערכת נושא</string>
+    <string name="theme_desc">"'ערכות נושא' מאפשר לך להתאים אישית כמה מרכיבי ממשק המשתמש ברחבי המערכת."</string>
     <string name="theme_description_title_customized">מותאם אישית</string>
     <string name="theme_description_title_default">ברירת מחדל</string>
     <string name="theme_detail">פרטים</string>
@@ -587,6 +594,7 @@
     <string name="theme_is_external_priority_storage">שמור בכרטיס הזכרון</string>
     <string name="theme_is_external_priority_storage_summary">"יישום 'ערכות נושא' יופעל מחדש על מנת להחיל הגדרות אלו."</string>
     <string name="theme_multiple_button_title_customize">התאמה אישית</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">לא</string>
     <string name="theme_select_others">סייר</string>
     <string name="theme_setting">הגדרות</string>
@@ -636,17 +644,17 @@
     <string name="update_push_content">עדכן עכשיו</string>
     <string name="update_push_title">יש גירסה חדשה של ערכת הנושא שלך</string>
     <string name="update_title">עדכון חדש זמין</string>
-    <string name="user_agree">קבלה</string>
+    <string name="user_agree">מסכימ/ה</string>
     <string name="user_authorization_dialog_agree">מסכים</string>
     <string name="user_authorization_dialog_disagree">יציאה</string>
-    <string name="user_authorization_dialog_message">קרא והסכם ל&lt;a href=\"%1$s\">הסכם המשתמשים&lt;/a> ו&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו לפני שאתה ממשיך.</string>
-    <string name="user_authorization_dialog_title">מעניק הרשאה</string>
+    <string name="user_authorization_dialog_message">"&lt;Data>עלינו לאסוף מידע אישי הכרחי כדי לספק לך את השירותים הבסיסיים. תוכל ללמוד כיצד אנו מטפלים במידע שאנו אוספים ב&lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> שלנו. קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%3$s\">מדיניות הפרטיות&lt;/a> לפני שתשתמש ב'ערכות נושא'.
+בכל זמן תוכל לעבור להגדרות ולבטל את הסכמתך למדיניות הפרטיות של 'ערכות נושא'&lt;/Data>"</string>
+    <string name="user_authorization_dialog_title">תנאי השימוש</string>
     <string name="user_know">הבנתי</string>
     <string name="using_theme_has_update_tips">קיים עדכון זמין לערכת נושא זו.</string>
     <string name="using_theme_next_automatic_update">עדכונים אוטומטיים</string>
     <string name="using_theme_next_automatic_update_summary">כאשר המסך נעול, עדכן אוטומטית באמצעות ה-Wi-Fi את ערכות הנושא שהורדו</string>
     <string name="using_theme_show_ad">המלצות</string>
-    <string name="using_wallpaper_personal">התאמה אישית של בחירת טפטים</string>
     <string name="video_audio_apply_success">תצורת הסרטון עם שמע נקבעה בהצלחה</string>
     <string name="video_data_tips_message">שימוש בנתונים סלולריים עשוי להוביל לחיובים נוספים. להמשיך בכל זאת?</string>
     <string name="video_data_tips_title">אזהרת שימוש בנתונים</string>
@@ -655,12 +663,9 @@
     <string name="wallpaper_apply">החלה</string>
     <string name="wallpaper_crop">חתוך</string>
     <string name="wallpaper_decoded_error">לא ניתן לטעון את הטפט</string>
+    <string name="wallpaper_desc">טפטים מעניקים מראה רענן למסך הבית.</string>
     <string name="wallpaper_detail_load_page_no_network">התחבר לרשת ונסה שוב.</string>
     <string name="wallpaper_might_like">תמונות רקע שאולי תאהב</string>
-    <string name="wallpaper_personal_dialog_agree">התאמה אישית</string>
-    <string name="wallpaper_personal_dialog_content">השתמש בתכונה זו כדי לראות מבחר טפטים מותאמים אישית על פי תחומי העניין שלך. באפשרותך לבטל תכונה זו לסירוגין בהגדרות. האם לבצע התאמה אישית של טפטים כעת?</string>
-    <string name="wallpaper_personal_dialog_disagree">לא תודה</string>
-    <string name="wallpaper_personal_dialog_title">התאמה אישית של טפטים שלך</string>
     <string name="wallpaper_scroll_type_tips">גלילת הטפט</string>
     <string name="wallpaper_set_as_both">הגדר כשניהם</string>
     <string name="wallpaper_set_as_desktop">הגדר כמסך הבית</string>

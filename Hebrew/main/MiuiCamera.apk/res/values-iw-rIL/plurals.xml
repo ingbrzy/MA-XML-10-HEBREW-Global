@@ -54,6 +54,18 @@
         <item quantity="two">%1$s דקות</item>
         <item quantity="many">%1$s דקות</item>
     </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">הקלט %d שניות</item>
+        <item quantity="one">הקלט שנייה אחת (%d)</item>
+        <item quantity="two">הקלט %d שניות</item>
+        <item quantity="many">הקלט %d שניות</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">ניתן לצלם סרטוני הקפאת-זמן עם פוקוס על עד %d גורמים.</item>
+        <item quantity="one">ניתן לצלם סרטוני הקפאת-זמן עם פוקוס על גורם %d בלבד.</item>
+        <item quantity="two">ניתן לצלם סרטוני הקפאת-זמן עם פוקוס על עד %d גורמים.</item>
+        <item quantity="many">ניתן לצלם סרטוני הקפאת-זמן עם פוקוס על עד %d גורמים.</item>
+    </plurals>
     <plurals name="timer_burst_setting_total_count">
         <item quantity="other">%1$s תמונות</item>
         <item quantity="one">תמונה %1$s</item>

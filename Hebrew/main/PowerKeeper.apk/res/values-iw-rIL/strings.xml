@@ -20,7 +20,7 @@
     <string name="config_mode_title">הגדרות רקע</string>
     <string name="config_no_restrict_description">"'חיסכון בסוללה' אינו מגביל פעילות יישומים"</string>
     <string name="config_no_restrict_title">אין הגבלות</string>
-    <string name="config_restrict_function_description">תכונות מסוימות (למשל, התראות Push) עשויות להיות מושפעות, אבל לא יסגרו יישומים</string>
+    <string name="config_restrict_function_description">סגירת יישומים לאחר 10 דקות של פעילות ברקע</string>
     <string name="config_restrict_function_title">הגבל יישומים הפועלים ברקע</string>
     <string name="config_restrict_running_description">יישומים יסגרו על מנת לחסוך באנרגיה</string>
     <string name="config_restrict_running_title">הגבל פעילות רקע</string>

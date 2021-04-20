@@ -24,10 +24,4 @@
         <item quantity="two">בקדימות גבוהה: %d אפליקציות</item>
         <item quantity="many">בקדימות גבוהה: %d אפליקציות</item>
     </plurals>
-    <plurals name="restoring_file_tile">
-        <item quantity="other">משחזר %d קבצים</item>
-        <item quantity="one">משחזר קובץ %d</item>
-        <item quantity="two">משחזר %d קבצים</item>
-        <item quantity="many">משחזר %d קבצים</item>
-    </plurals>
 </resources>

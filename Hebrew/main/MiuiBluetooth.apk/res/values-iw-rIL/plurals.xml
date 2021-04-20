@@ -12,6 +12,12 @@
         <item quantity="two">לחץ והחזק כל אזור על האוזניות בו יש רגישות למגע למשך %1$d שניות</item>
         <item quantity="many">לחץ והחזק כל אזור על האוזניות בו יש רגישות למגע למשך %1$d שניות</item>
     </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">לחץ והחזק במשך %1$d שניות לאיפוס</item>
+        <item quantity="one">לחץ והחזק במשך שנייה %1$d לאיפוס</item>
+        <item quantity="two">לחץ והחזק במשך %1$d שניות לאיפוס</item>
+        <item quantity="many">לחץ והחזק במשך %1$d שניות לאיפוס</item>
+    </plurals>
     <plurals name="fast_connect_reset_nzbt">
         <item quantity="other">לחץ והחזק את הכפתור למשך %1$s שניות כאשר המכשיר מכובה</item>
         <item quantity="one">לחץ והחזק את הכפתור למשך שנייה %1$s כאשר המכשיר מכובה</item>
