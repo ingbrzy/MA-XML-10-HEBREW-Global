@@ -83,8 +83,6 @@
     <string name="feedback_custom_hint">תאר את הבעיות שבהן נתקלת כאן. אם יש לך הצעות, נודה אם תוכל לפרט!</string>
     <string name="find_device">איתור מכשיר</string>
     <string name="find_device_dspt_provision">אם תאבד את מכשירך תוכל להיכנס לכתובת &lt;font color=#0097FF>%s&lt;/font> כדי לאתר, לנעול או לאפס אותו. ניתן להפעיל או לכבות את המאפיין הזה בכל עת בהגדרות המכשיר.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">בדוק את חיבור הנתונים שלך ונסה שוב.</string>
     <string name="find_device_error_server">שגיאת שרת</string>
     <string name="find_device_gdpr_prompt">בהדלקת אפשרות חיפוש מכשיר, אתה מסכים ל<a href="app://com.miui.cloudservice.gdpr.license"><u>מדיניות הפרטיות</u></a> אם עליך לשלול הרשאות. כבה אפשרות זו.</string>
@@ -253,14 +251,11 @@
     <string name="micloud_find_device_open_fail">לא ניתן היה להפעיל איתור מכשיר</string>
     <string name="micloud_find_device_opened">איתור מכשיר מופעל</string>
     <string name="micloud_find_device_opened_content">אתר את המכשיר שלך ב %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">יתכן שידרש מסרון SMS יוצא על מנת להפעיל מכשיר זה. ספק הרשת שלך יחייב אותך בגין מסרון זה. כשתחליף את כרטיס ה-SIM שלך, ישלח מסרון באופן אוטומטי על מנת להפעיל מחדש תכונה זו.</string>
     <string name="micloud_find_device_verify_button">"הפעל מחדש את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_verify_close">"כבה את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_verify_fail">"לא ניתן היה להפעיל מחדש את 'איתור המכשיר'"</string>
     <string name="micloud_find_device_verify_progress">"מפעיל מחדש את 'איתור המכשיר'…"</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">הסינכרון בוטל. נסה שנית.</string>
     <string name="micloud_main_head_menu_cloud_backup">גיבוי מסך הבית</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">"הגדרות מערכת ופריסת 'מסך הבית'"</string>
