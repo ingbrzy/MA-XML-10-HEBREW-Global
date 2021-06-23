@@ -122,6 +122,7 @@
     <string name="display_name">הצג שם</string>
     <string name="domain">דומיין</string>
     <string name="download_success">ירד בהצלחה</string>
+    <string name="empty_by_forbid_access">לא ניתן להציג את התוכן של תיקייה זו עקב מגבלות של אנדרואיד 11.</string>
     <string name="enable_documentsui">הפעל %s בהגדרות > יישומים שהותקנו תחילה</string>
     <string name="enable_sd_card">הכנס כרטיס זכרון או בטל מצב חיבור USB כמתקן אחסון.</string>
     <string name="enable_usb">חבר התקן USB</string>
@@ -136,6 +137,7 @@
     <string name="error_create_dir">לא ניתן היה ליצור תיקיה</string>
     <string name="error_create_file">לא ניתן היה ליצור קובץ</string>
     <string name="error_delete_failed">לא ניתן היה למחוק את הקובץ</string>
+    <string name="error_file_already_exists">קובץ זה קיים כבר.</string>
     <string name="error_filename_too_long">שם הקובץ שהזנת ארוך מדי</string>
     <string name="error_folder_already_exists">קובץ זה קיים כבר</string>
     <string name="error_info_cant_send_folder">לא ניתן לשלוח קובץ מסוג זה</string>
@@ -184,6 +186,8 @@
     <string name="homepage_tab_recent">לאחרונה</string>
     <string name="host">מארח</string>
     <string name="hot_sticker">מדבקות</string>
+    <string name="ic_remove_desc">מנהל הקבצים הוא יישום מערכת המאפשר לך לצפות ולנהל קבצים במכשירך. להסיר בכל זאת?</string>
+    <string name="ic_remove_title">להסיר את \"מנהל הקבצים\" ממסך הבית?</string>
     <string name="if_cancel">לבטל פעולה זו?</string>
     <string name="image_loading_error">לא ניתן היה לטעון את התמונה</string>
     <string name="implicit">מרומז</string>
@@ -212,6 +216,7 @@
     <string name="menu_item_deep_clean">ניקוי יסודי</string>
     <string name="menu_item_ftp">התחבר למחשב</string>
     <string name="menu_item_midrop">העברת קבצים</string>
+    <string name="menu_item_midrop_desc">יישומים נוספים</string>
     <string name="menu_item_router">נתב</string>
     <string name="menu_item_sort">מיין לפי</string>
     <string name="menu_item_sort_add_time">"נוצר "</string>
@@ -332,7 +337,12 @@
     <string name="port_range">מספר היציאה חייבת להיות בתחום של 1024-65535</string>
     <string name="possible_permissions">הרשאות אופציונליות</string>
     <string name="privacy_accept">הסכם&amp; להמשך</string>
-    <string name="privacy_message">לפני שתשתמש במנהל הקבצים, תהיה חייב להסכים ל &lt;font color=\"#4086f5\">&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%1$s&amp;lang=%2$s\" style=\"color:#4086f5;\"> הסכם משתמש t&lt;/a>&lt;/font> ו &lt;font color=\"#4086f5\">&lt;a href=\"https://privacy.mi.com/all/%2$s\" style=\"color:#4086f5;\"> מדיניות פרטיות &lt;/a>&lt;/font>.</string>
+    <string name="privacy_cancel"><u>לא מסכים</u></string>
+    <string name="privacy_desc">ברוך הבא אל מנהל הקבצים! מעבר למאפיינים הבסיסיים, היישום הזה מציע גם את השירותים הבאים:</string>
+    <string name="privacy_experience_statement">הצטרף לתכנית חוויית המשתמש שלנו כדי לשתף אתנו את נתוני המשתמש, במטרה לעזור לנו לשפר את המוצרים והשירותים שלנו.</string>
+    <string name="privacy_item1">סיווג של הפריטים שבהם נעשה שימוש לאחרונה</string>
+    <string name="privacy_item2">צפייה ועריכת קבצים</string>
+    <string name="privacy_message">&lt;Data>מנהל הקבצים צריך לאסוף את המידע האישי הנדרש כדי להעניק לך שירותים בסיסיים המייצרים סטטיסטיקת שימוש. ניתן למצוא מידע לגבי הטיפול שלנו במידע שאנו אוספים &lt;a href=\"%1$s\">במדיניות הפרטיות&lt;/a> שלנו. עליך לקרוא את &lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ואת &lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> שלנו ולהסכים אתם כדי להשתמש במנהל הקבצים. באפשרותך למשוך את הסכמתך למדיניות הפרטיות של מנהל הקבצים בכל עת, תחת ההגדרות. אם אינך מסכים לשימוש בשירותים הנ\"ל, לא תוכל להשתמש בחלק ממאפייני היישום הזה. עם זאת, הפונקציות הבסיסיות שלו עדיין יהיו זמינות עבורך.&lt;/Data></string>
     <string name="privacy_title">ברוך הבא למנהל הקבצים</string>
     <string name="private_files">פרטי</string>
     <string name="private_folder">קבצים פרטיים</string>
@@ -345,7 +355,7 @@
     <string name="recommended_content">המלצות</string>
     <string name="remind_no_notice">זכור את הבחירה שלי</string>
     <string name="rename_alert">אם תשנה את סיומת הקובץ, ייתכן כי לא תוכל לפתוח אותו.</string>
-    <string name="rename_alert2">הקובץ יוסתר לאחר שתשנה את הסיומת שלו.</string>
+    <string name="rename_alert2">המערכת מסתירה באופן אוטומטי קבצים בעלי שמות המתחילים עם \".\". להשתמש בשם זה בכל זאת?</string>
     <string name="rename_failed">לא ניתן לשנות שם של %1$s</string>
     <string name="repair_done">השחזור בוצע בהצלחה</string>
     <string name="repair_error">לא ניתן היה לשחזר. נסה שוב.</string>
@@ -355,9 +365,16 @@
     <string name="restoring">משחזר…</string>
     <string name="revoke">בטל הרשאה</string>
     <string name="revoke_authorization">בטל את ההרשאה</string>
+    <string name="revoke_confirm_dialog_cancel">ביטול</string>
+    <string name="revoke_confirm_dialog_content">על ידי כיבוי המתג, אתה מבטל את הסכמתך למדיניות הפרטיות של מנהל הקבצים. אנו נפסיק לאסוף את המידע האישי שלך. המידע האישי שכבר נאסף ונשמר יימחק במהלך התקופה הנדרשת על פי החוקים החלים. מנהל הקבצים צריך לאסוף מידע אישי הכרחי כדי לשפר את שירותיו. ביטול הסכמתך למדיניות הפרטיות שלו תיחשב כסירוב לקבל שירותים משופרים על סמך נתונים אישיים שנאספו.</string>
+    <string name="revoke_desc">על ידי כיבוי המתג, אתה מבטל את הסכמתך למדיניות הפרטיות של מנהל הקבצים.</string>
+    <string name="revoke_net_dialog_content">המכשיר שלך צריך להתחבר לרשת כדי שתוכל לבטל את הסכמתך. בדוק את הגדרות הרשת שלך ונסה שוב.</string>
+    <string name="revoke_net_dialog_ok">הבנתי</string>
+    <string name="revoke_net_dialog_title">לא ניתן להתחבר לרשת</string>
     <string name="revoke_success">ההרשאה נשללה בהצלחה</string>
     <string name="revoke_timer">"(%1$d שנ')"</string>
     <string name="revoke_tips">לאחר שתבטל את ההרשאה, מנהל הקבצים יפסיק לאסוף נתונים, וכל הנתונים הרלוונטיים יימחקו מהשרתים שלנו. ייתכן שמנהל הקבצים יהפוך לבלתי-שמיש כתוצאה מכך. האם ברצונך לבטל את ההרשאה בכל זאת?</string>
+    <string name="revoke_title">ביטול הסכמה</string>
     <string name="revoking">שולל הרשאה…</string>
     <string name="rlv_last_refreshing_time">עודכן %1$s</string>
     <string name="rlv_loading_more">רק רגע…</string>
@@ -428,6 +445,7 @@
     <string name="time_pm">PM</string>
     <string name="time_to_upgrade">קיים עדכון זמין</string>
     <string name="tip">שים לב</string>
+    <string name="tips_by_forbid_access">התוכן של תיקייה זו לא יהיה נגיש יותר עקב מגבלות המערכת שהחלו ב-Android R. עליך להסיר את הקבצים האישיים שלך מתיקייה זו בהקדם האפשרי.</string>
     <string name="title_app_tags">יישומים</string>
     <string name="title_enable_documentsui">הפעל את DocumentsUI</string>
     <string name="title_expire_video">עומד לפוג תוקף</string>
@@ -447,12 +465,15 @@
     <string name="update_use_mobile_data">עדכן אוטומטית באמצעות שימוש בנתונים סלולריים</string>
     <string name="usb_has_removed">מכשיר ה-USB הוסר</string>
     <string name="used">נוצל</string>
+    <string name="user_experience_desc">שתף איתנו נתוני משתמש שיעזרו לנו לשפר את המוצרים והשירותים שלנו</string>
+    <string name="user_experience_title">תכנית חוויית המשתמש</string>
     <string name="user_not_login">היכנס תחילה</string>
     <string name="user_notice_privacy_policy">מדיניות הפרטיות</string>
     <string name="user_notice_term_of_service">הסכם המשתמש</string>
     <string name="utf8_summary">קידוד ברירת מחדל של מערכת FTP</string>
     <string name="version_name">גירסה</string>
     <string name="video_replay_btn">נגן שוב</string>
+    <string name="view_by_document">צפה ביישום \"קבצים\"</string>
     <string name="wechat_video">וידאו ב-%s</string>
     <string name="wifi_state">סטטוס רשת אלחוטית</string>
     <string name="year_month_day_format">dd MMM yyyy</string>

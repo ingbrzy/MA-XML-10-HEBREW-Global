@@ -17,24 +17,10 @@
         <item>3 תהליכים לכל היותר</item>
         <item>4 תהליכים לכל היותר</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
         <item>100%</item>
-    </string-array>
-    <string-array name="battery_options">
-        <item>תמיד הצג אחוזים</item>
-        <item>הצג אחוזים בזמן טעינה (ברירת המחדל)</item>
-        <item>אל תציג צלמית זו</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>השתמש בבחירת המערכת (ברירת מחדל)</item>
@@ -62,13 +48,13 @@
         <item>מיועל עבור איכות השמע</item>
         <item>איכות שמע וחיבור מאוזנת</item>
         <item>מיועל עבור איכות החיבור</item>
-        <item>Best effort (Auto bit rate)</item>
+        <item>האיכות הטובה ביותר (קצב נתונים אוטומטי)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>מיועל עבור איכות שמע (990kbps/909kbps)</item>
         <item>איכות שמע וחיבור מאוזנת (660kbps/606kbps)</item>
         <item>מיועל עבור איכות חיבור (330kbps/303kbps)</item>
-        <item>Best effort (Auto bit rate)</item>
+        <item>האיכות הטובה ביותר (קצב נתונים אוטומטי)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>השתמש בבחירת המערכת (ברירת מחדל)</item>
@@ -136,21 +122,16 @@
         <item>map14</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (Default)</item>
+        <item>MAP 1.2 (ברירת מחדל)</item>
         <item>MAP 1.3</item>
         <item>MAP 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>מושבת</item>
-        <item>Filtered</item>
+        <item>מסונן</item>
         <item>מופעל</item>
-        <item>Headers filtered</item>
-        <item>Media packets filtered</item>
-    </string-array>
-    <string-array name="clock_options">
-        <item>הצג שעות, דקות ושניות</item>
-        <item>הצג שעות ודקות (ברירת המחדל)</item>
-        <item>אל תציג צלמית זו</item>
+        <item>כותרות מסוננות</item>
+        <item>חבילות מדיה מסוננות</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>צבעים מחוזקים</item>
@@ -162,8 +143,6 @@
         <item>טבעי</item>
         <item>רגיל</item>
     </string-array>
-    <array name="data_type_name_mcc_mnc_key" />
-    <array name="data_type_name_mcc_mnc_value" />
     <string-array name="debug_hw_overdraw_entries">
         <item>כיבוי</item>
         <item>הצג אזורי משיכת יתר</item>
@@ -185,24 +164,9 @@
         <item>בדוק עבור תוכן DRM בלבד</item>
         <item>בדוק תמיד</item>
     </string-array>
-    <string-array name="miui_volume_timer_segments_title">
-        <item>כבוי</item>
-        <item>30 דקות</item>
-        <item>שעה אחת</item>
-        <item>שעתיים</item>
-        <item>8 שעות</item>
-    </string-array>
-    <string-array name="nav_bar_buttons">
-        <item>לוח גזירים</item>
-        <item>קוד מקש</item>
-        <item>החלפת מקלדת</item>
-        <item>ללא</item>
-    </string-array>
-    <string-array name="nav_bar_layouts">
-        <item>רגיל</item>
-        <item>קומפקטי</item>
-        <item>מוטה שמאלה</item>
-        <item>מוטה ימינה</item>
+    <string-array name="miui_notification_aggregate_category">
+        <item>זהו תוכן מומלץ.</item>
+        <item>זוהי מודעה.</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>ללא</item>
@@ -218,7 +182,6 @@
         <item>4K (משודרג, מאובטח)</item>
         <item>720p, 1080p (מסך כפול)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>כבוי</item>
         <item>64 KB</item>
@@ -301,35 +264,6 @@
         <item>RNDIS (אתרנט USB)</item>
         <item>מקור שמע</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="weather_type">
-        <item>בהיר</item>
-        <item>מעונן</item>
-        <item>קודר</item>
-        <item>ערפילי</item>
-        <item>סופת גשמים כבדה</item>
-        <item>מבול</item>
-        <item>סופת גשמים</item>
-        <item>סופת ברקים</item>
-        <item>ממטר</item>
-        <item>גשם כבד</item>
-        <item>גשם מתון</item>
-        <item>גשם קל</item>
-        <item>שלג מעורב בגשם</item>
-        <item>סופת שלגים</item>
-        <item>שלג</item>
-        <item>שלג כבד</item>
-        <item>שלג חלש</item>
-        <item>שלג קל</item>
-        <item>סופת חול חזקה</item>
-        <item>סופת חול</item>
-        <item>חול</item>
-        <item>סוער</item>
-        <item>ברד</item>
-        <item>אבק</item>
-        <item>אובך</item>
-        <item>גשם מקפיא</item>
-        <item></item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>

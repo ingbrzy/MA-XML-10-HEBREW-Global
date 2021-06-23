@@ -44,6 +44,7 @@
     <string name="cast_forward">העבר</string>
     <string name="cast_forward_10">העבר עשר שניות קדימה</string>
     <string name="cast_forward_30">העבר 30 שניות קדימה</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">שידור חי</string>
     <string name="cast_mute">השתק</string>
     <string name="cast_notification_connected_message">מחובר אל %1$s</string>

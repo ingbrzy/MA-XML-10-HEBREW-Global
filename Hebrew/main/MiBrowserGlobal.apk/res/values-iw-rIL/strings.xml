@@ -1196,8 +1196,6 @@ ID:%s
     <string name="passport_wrong_vcode">הקוד שהזנת שגוי</string>
     <string name="passport_wrong_voice">הקוד שהזנת שגוי</string>
     <string name="password">סיסמה</string>
-    <string name="pay_failed_toast">לא ניתן היה לבצע את התשלום</string>
-    <string name="pay_success_toast">שולם בהצלחה</string>
     <string name="per_month">לחודש</string>
     <string name="permission_agree_service">קראתי, והסכמתי לכל התנאים וההגבלות הבאים.</string>
     <string name="permission_alert_window">על מנת להשתמש בתכונה זו, עליך לאפשר הצגה של חלונות קופצים בהגדרות.</string>

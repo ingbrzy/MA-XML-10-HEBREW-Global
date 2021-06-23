@@ -269,7 +269,7 @@
     <string name="fast_connect_anti_lost_content">"הגדר התראה שתופיע כאשר אחת האוזניות שלך חסרה.
 בדוק את ההגדרות לקבלת פרטים."</string>
     <string name="fast_connect_device_battery">סוללה</string>
-    <string name="fast_connect_device_box">Box</string>
+    <string name="fast_connect_device_box">מארז</string>
     <string name="fast_connect_device_box_name">%1$s Box</string>
     <string name="fast_connect_device_connect_cancel">ביטול</string>
     <string name="fast_connect_device_connect_ok">התחבר</string>
@@ -278,7 +278,7 @@
     <string name="fast_connect_device_connect_success">בוצע</string>
     <string name="fast_connect_device_headset_l">שמאלה</string>
     <string name="fast_connect_device_headset_r">ימינה</string>
-    <string name="fast_connect_device_headset_reset">לחץ והחזק את הכפתור בתיבה</string>
+    <string name="fast_connect_device_headset_reset">לחצו לחיצה ממושכת על כפתור המארז</string>
     <string name="fast_connect_device_title_connect_fail">לא ניתן היה להתחבר אל %1$s</string>
     <string name="fast_connect_device_title_connecting">מתחבר…</string>
     <string name="fast_connect_device_title_find_headset">מצא %1$s</string>
@@ -316,6 +316,7 @@
     <string name="headset_device_error_box_close">מארז הטעינה כבוי</string>
     <string name="headset_device_error_disconnect">שתי האוזניות מנותקות. סגור את מארז הטעינה ופתח אותו שוב כדי להתחיל מחדש את העדכון.</string>
     <string name="headset_device_error_failed">לא ניתן לעדכן</string>
+    <string name="headset_device_error_multconnect">לא ניתן לעדכן כאשר מכשירים מרובים מחוברים</string>
     <string name="headset_device_error_no_device">חסרה לפחות אוזנייה אחת במארז הטעינה</string>
     <string name="headset_device_error_single_device">לא ניתן לעדכן אוזנייה אחת. בצע צימוד שוב.</string>
     <string name="headset_device_sync_donot_move_device">מסנכרן… המתן עד לסיום הסנכרון לפני השימוש באוזניות.</string>

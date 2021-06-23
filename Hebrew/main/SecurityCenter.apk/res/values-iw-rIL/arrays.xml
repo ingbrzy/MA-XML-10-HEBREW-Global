@@ -13,6 +13,57 @@
         <item>ימי חול</item>
         <item>מותאם אישית</item>
     </string-array>
+    <string-array name="alphabet_table">
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ז</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="app_behavior_type_menu">
         <item>כל הרשומות</item>
         <item>הפעלה אוטומטית</item>
@@ -25,11 +76,27 @@
         <item>קוד PIN</item>
         <item>סיסמה</item>
     </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>תוכנית חודשית</item>
+        <item>ללא הגבלה</item>
+        <item>תוכנית יומית</item>
+    </string-array>
     <string-array name="daily_brand">
         <item>מותאם אישית</item>
         <item>כרטיס Mi Fan</item>
         <item>כרטיס Xiao Tiansheng</item>
         <item>כרטיס Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>מותאם אישית</item>
+        <item>Mi מובייל</item>
+        <item>כרטיס Mi Fan</item>
+        <item>כרטיס Tianshen</item>
+        <item>כרטיס Tencent</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"אתמול (נתונים סלולריים)  "</item>
@@ -76,6 +143,12 @@
         <item>רמה גבוהה</item>
         <item>הרמה הגבוהה ביותר</item>
     </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>כאשר המכשיר נעול</item>
         <item>כאשר המכשיר נעול או לאחר יציאה מיישום</item>
@@ -94,10 +167,20 @@
         <item>חשוב: ייתכן שמספר רב של אפליקציות מערכת יפסיקו לפעול כראוי.</item>
         <item>ייתכן שפריסות טקסט, חשבונות ותוכן לא יוצגו כראוי.</item>
     </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
     <string-array name="operate_entryValues">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
     </string-array>
     <string-array name="operate_memory_entryValues">
         <item>0</item>
@@ -107,6 +190,20 @@
     <string-array name="over_limit_traffic_waring_style">
         <item>הצג אזהרה</item>
         <item>התרע וכבה את חיבור הנתונים הסלולרי</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_consume_all_menu_item</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_consume_all_menu_item</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>ברירת מחדל</item>

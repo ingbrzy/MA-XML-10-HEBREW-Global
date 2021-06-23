@@ -163,7 +163,7 @@
     <string-array name="nav_bar_buttons">
         <item>לוח</item>
         <item>קוד מפתח</item>
-        <item>מחליף מקלדת</item>
+        <item>סיבוב לאישור, החלפת מקלדת</item>
         <item>ללא</item>
     </string-array>
     <string-array name="nav_bar_layouts">
@@ -186,7 +186,6 @@
         <item>‏4K (משופר, מאובטח)</item>
         <item>‏720p‏, 1080p (מסך כפול)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>כבוי</item>
         <item>64K</item>

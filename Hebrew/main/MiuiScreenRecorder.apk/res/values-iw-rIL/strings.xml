@@ -4,10 +4,10 @@
     <string name="afternoon">אחר הצהריים</string>
     <string name="am">AM</string>
     <string name="app_name">מקליט המסך</string>
-    <string name="app_notification_channel_record_complete">Notifications about finished recordings</string>
+    <string name="app_notification_channel_record_complete">התראות על הקלטות שהושלמו</string>
     <string name="app_notification_info">"'מקליט המסך' פועל ברקע"</string>
-    <string name="app_notification_record_complete">"Saved screen recording to Gallery
-Tap to view"</string>
+    <string name="app_notification_record_complete">"הקלטת המסך נשמרה בגלריה
+נא להקיש לצפייה"</string>
     <string name="app_notification_title">מקליט המסך</string>
     <string name="auto_stop_title">הסרטון נשמר בהצלחה</string>
     <string name="battery_not_allowed" formatted="false">לא ניתן להקליט כאשר טעינת הסוללה נמוכה מ-3%. ודא כי הסוללה טעונה ב-20% לפחות.</string>
@@ -280,6 +280,7 @@ Tap to view"</string>
     <string name="uninstall_warning_title">להסיר את מקליט המסך?</string>
     <string name="using_record_confirm_cancel">הגבל</string>
     <string name="using_record_confirm_ok">אפשר</string>
+    <string name="view_recorded_file">יש להקיש לצפייה בקובץ שהוקלט</string>
     <string name="warning_recording_when_a2dp_connect">מכשירך אינו תומך במערכת צלילי הקלטה בזמן שאוזניות Bluetooth נמצאות בשימוש.</string>
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>

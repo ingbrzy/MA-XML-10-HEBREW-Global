@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fast_connect_headset_reset">
-        <item quantity="other">לחץ והחזק את הכפתור על הקופסא למשך %1$d שניות</item>
-        <item quantity="one">לחץ והחזק את הכפתור על הקופסא למשך %1$d שניה</item>
-        <item quantity="two">לחץ והחזק את הכפתור על הקופסא למשך %1$d שניות</item>
-        <item quantity="many">לחץ והחזק את הכפתור על הקופסא למשך %1$d שניות</item>
+        <item quantity="other">לחצו על כפתור המארז לחיצה ממושכת במשך %1$d שניות</item>
+        <item quantity="one">לחצו על כפתור המארז לחיצה ממושכת במשך שנייה %1$d</item>
+        <item quantity="two">לחצו על כפתור המארז לחיצה ממושכת במשך %1$d שניות</item>
+        <item quantity="many">לחצו על כפתור המארז לחיצה ממושכת במשך %1$d שניות</item>
     </plurals>
     <plurals name="fast_connect_reset_air2_se">
         <item quantity="other">לחץ והחזק כל אזור על האוזניות בו יש רגישות למגע למשך %1$d שניות</item>

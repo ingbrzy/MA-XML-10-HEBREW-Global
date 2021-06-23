@@ -56,6 +56,7 @@
     <string name="error_camera_unavailable_title">המצלמה אינה זמינה</string>
     <string name="evening">לפנות ערב</string>
     <string name="first_using_dialog_message">המצפן זקוק לחיבור רשת, לגישה למצלמה ושירותי המיקום של מכשירך על מנת לעבוד כרגיל.</string>
+    <string name="first_using_dialog_message_no_camera">המצפן צריך להתחבר לאינטרנט ולקבל גישה לנתוני המיקום כדי לעבוד כנדרש. האם את/ה מסכים/ה?</string>
     <string name="first_using_dialog_title">הרשאות גישה</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -179,6 +180,7 @@
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
     <string name="open_perm_msg">המצפן זקוק להרשאות גישה למידע אודות המיקום שלך ולגישה למצלמה. ההרשאה נחוצה בכדי לקבוע את הקואורדינטות ולהעניק תצוגות מקדימות חיות. האם לאפשר?</string>
+    <string name="open_perm_msg_no_camera">המצפן צריך לקבל גישה לנתוני המיקום כדי לקבוע את הקואורדינטות. האם לאפשר זאת?</string>
     <string name="open_perm_title">נדרשות הרשאות</string>
     <string name="permission_camera_desc">להציג אזימוט בתצוגה המקדימה החיה</string>
     <string name="permission_location_desc">להציג קואורדינטות</string>

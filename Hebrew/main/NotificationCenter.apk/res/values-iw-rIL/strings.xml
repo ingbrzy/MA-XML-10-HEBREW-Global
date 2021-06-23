@@ -24,6 +24,8 @@
     <string name="feedback_tip_cancel">נתוני ההתראות לא יקובצו.</string>
     <string name="feedback_tip_msg">כדי לקבץ התראות באופן מדויק יותר, אנו זקוקים לשם האפליקציה, כותרת ותיאור ההתראה והשעה שבה ההתראה נשלחה. לשלוח את המשוב?</string>
     <string name="feedback_tip_title">משוב על קטגוריות של התראות</string>
+    <string name="float_notification_snooze_strategy">הסתרה זמנית</string>
+    <string name="float_notification_snooze_summary">יש להחליק אצבע על התראה צפה להסתרה זמנית של ההתראות הבאות</string>
     <string name="float_notifications">התראות צפות</string>
     <string name="float_notifications_short">צפות</string>
     <string name="fold_importance_default">מומלץ</string>
@@ -48,6 +50,10 @@
     <string name="menu_setting_tip_show_in_home">ההתראות מ-%s לא יקובצו</string>
     <string name="menu_setting_tip_unfold">כל ההתראות מהאפליקציה הזאת ייחשבו כחשובות</string>
     <string name="menu_setting_unfold">חשוב</string>
+    <string name="miui_snooze_always_float">לא להסתיר</string>
+    <string name="miui_snooze_cancel">ביטול</string>
+    <string name="miui_snooze_default_time">למשך דקה %d</string>
+    <string name="miui_snooze_until_unlock_screen">עד לנעילה</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">משוך כלפי מטה כדי לרענן</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">רוענן בהצלחה</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">מרענן…</string>
@@ -66,6 +72,11 @@
     <string name="notification_aggregate_title">קבץ התאות</string>
     <string name="notification_display_setting">לוח ההתראות</string>
     <string name="notification_display_style">סוג ההתראות</string>
+    <string name="notification_fold_description1">תיקיית התראות נוספה לראשונה ב-MIUI 9. תכונה זו מסננת התראות לא חשובות, אל תוך תיקייה נפרדת.</string>
+    <string name="notification_fold_description2">MIUI יזכור על אילו התראות לחצת, ואז יישם מספר מאפיינים בכדי לקבוע האם הן חשובות.</string>
+    <string name="notification_fold_description3">במידה והתראות חשובות מועברות לתיקיית ההתראות, וודא שאתה מדווח על מקרים כאלה אלינו. נשמח למשוב.</string>
+    <string name="notification_fold_footer_icon_summary">הצג אייקונים של יישומים כאשר התראות בלתי חשובות מקובצות יחד</string>
+    <string name="notification_fold_footer_icon_title">הצג אייקונים</string>
     <string name="notification_fold_summary">קבץ התראות לא חשובות באופן אוטומטי</string>
     <string name="notification_fold_title">קבץ התראות</string>
     <string name="notification_keyguard_hide_content">הצג את כל ההתראות אך הסתר את תוכנן</string>

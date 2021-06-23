@@ -45,10 +45,10 @@
     <string name="cf">פתח בטלפון</string>
     <string name="cg">כניסה</string>
     <string name="ch">‏היכנס באמצעות Google</string>
-    <string name="jt">חיפוש</string>
-    <string name="ll">999+</string>
-    <string name="on">סורק ברקודים</string>
-    <string name="oo">אישור</string>
-    <string name="op">סליחה, מצלמת האנדרואיד נתקלה בבעיה. ייתכן שיהיה עליך להפעיל מחדש את המכשיר.</string>
-    <string name="oq">הצב ברקוד בתוך המלבן כדי לסרוק אותו.</string>
+    <string name="jx">חיפוש</string>
+    <string name="lr">999+</string>
+    <string name="p2">סורק ברקודים</string>
+    <string name="p3">אישור</string>
+    <string name="p4">סליחה, מצלמת האנדרואיד נתקלה בבעיה. ייתכן שיהיה עליך להפעיל מחדש את המכשיר.</string>
+    <string name="p5">הצב ברקוד בתוך המלבן כדי לסרוק אותו.</string>
 </resources>

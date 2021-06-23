@@ -249,7 +249,6 @@
     <string name="notificationTitle">"קיצור דרך ב'לוח ההתראות'"</string>
     <string name="notification_from_owner_user">"הצג התראות מ'שטח ראשון'"</string>
     <string name="notification_from_second_user">"הצג התראות מ'שטח שני'"</string>
-    <string name="notification_recommend_title">"12 היישומים המומלצים ביותר עבור 'שטח שני'"</string>
     <string name="notification_setting_second_space">"הגדר את 'שטח שני'"</string>
     <string name="notification_setting_second_space_desc">"הוסף סיסמה ל'שטח שני' והעבר נתונים"</string>
     <string name="ok_button">אישור</string>
@@ -452,10 +451,14 @@
     <string name="xspace_disable">לא נוצר</string>
     <string name="xspace_enable">נוצר</string>
     <string name="xspace_facebook_title">Facebook</string>
-    <string name="xspace_guide_des">השתמש בשני חשבונות מבלי להחליף</string>
-    <string name="xspace_guide_title">יצירת יישום משוכפל</string>
+    <string name="xspace_guide_content_bound">יישומים זמינים</string>
+    <string name="xspace_guide_des">יישומים משוכפלים מאפשרים להשתמש בשני חשבונות במקביל, בלי לעבור בין החשבונות.</string>
+    <string name="xspace_guide_description">"לכל חשבון
+מגיע יישום משלו"</string>
+    <string name="xspace_guide_title">"נסה את 'יישומים כפולים'"</string>
     <string name="xspace_header">יישומים משוכפלים</string>
     <string name="xspace_instagram_title">Instagram</string>
+    <string name="xspace_install_complete">&lt;font>יישום משוכפל נוצר בהצלחה.&lt;/font>&lt;font color=#0D84FF>פתח אותו עכשיו&lt;/font>.</string>
     <string name="xspace_install_completed">האייקון נוסף למסך הבית</string>
     <string name="xspace_install_completed_global">האייקון נוסף למגירה</string>
     <string name="xspace_install_failed">לא ניתן היה ליצור</string>
@@ -464,11 +467,13 @@
     <string name="xspace_label">יישומים משוכפלים</string>
     <string name="xspace_loading_msg">טוען יישומים…</string>
     <string name="xspace_notification">התראות יישום משוכפל</string>
+    <string name="xspace_notification_button">נסה</string>
     <string name="xspace_notification_error">היכנס ל-WeChat המשוכפל ונסה שוב</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">מחיק חשבונות של יישומים משוכפלים</string>
     <string name="xspace_setting_label">הגדרות יישומים משוכפלים</string>
     <string name="xspace_settins">הגדר</string>
+    <string name="xspace_start">צור</string>
     <string name="xspace_uninstall_completed">הסרת ההתקנה של היישום המשוכפל בוצעה בהצלחה</string>
     <string name="xspace_uninstall_dialog_content">הסרת היישום המשוכפל תסיר את כל נתוני היישום.</string>
     <string name="xspace_uninstall_dialog_title">הסר התקנה של היישום המשוכפל</string>

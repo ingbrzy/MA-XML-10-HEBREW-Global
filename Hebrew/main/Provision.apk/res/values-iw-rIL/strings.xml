@@ -20,6 +20,8 @@
     <string name="application_permissions">הרשאות של יישומים</string>
     <string name="back">הקודם</string>
     <string name="backup_introduction">ניתן להשתמש באפליקציה הזו כדי לגבות ולשחזר פריטים על מכשירך.</string>
+    <string name="boot_video_replay">נגן שוב</string>
+    <string name="boot_video_skip">דלג</string>
     <string name="calculator_introduction">תוכל להשתמש ביישום כדי לבצע חישובים, להמיר יחידות ומטבעות, ולאמוד את החזרי המשכנתא שלך.</string>
     <string name="camera_introduction">תוכל להשתמש במצלמה כדי לצלם תמונות וסרטונים.</string>
     <string name="carrier_introduction">על מנת לספק לך שירותים טובים יותר, מכשירך עשוי להשתמש ברשתות אלחוטיות, ברשתות סלולריות או בהודעת טקסט חינמית כדי לשלוח מעת לעת לספק שלך מידע על גרסת המכשיר שלך, נתוני זיהוי מכשירים (כולל כתובת IMEI/IMSI/MSISDN/MAC, MEID/ICCID), ומידע על מיקום משוער (כולל מזהה תחנת בסיס). הספק מבטיח לנתח מידע מתאים רק לצורך שיפור איכות השירותים או כדי לספק שירותים או טכנולוגיות בהתאמה אישית, ולא יחשוף מידע מתאים לצדדים שלישיים בכל צורה שתזהה אותך באופן אישי. הצהרת הספק המסוים תהיה זו שתכריע. התייעץ עם הספק שלך בנוגע לעלות השימוש בשירות זה.</string>
@@ -32,7 +34,6 @@
     <string name="congratulation_swipe">החלק מעלה על מנת להיכנס למערכת</string>
     <string name="congratulation_title">ההתקנה הושלמה</string>
     <string name="content_description_complete">הסתיים</string>
-    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_start">התחלה</string>
     <string name="content_introduction">מרכז התוכן צובר תוכן ושירותים מערוצים מרובים. כאן תוכל לקרוא מאמרים, לצפות בסרטונים, לצפות בפריטים יומיים מומלצים ולקבל המלצות תוכן.</string>
     <string name="continue_to_enable_accessibility">המשך להחזיק באמצעות שתי אצבעות כלפי מטה על מנת לאפשר את הנגישות.</string>
@@ -77,6 +78,7 @@
     <string name="item_contents_wwarning">אם המכשיר שלך ייעלם, לא תוכל למנוע מאנשים אחרים להשתמש בו ולגשת לנתונים שלך אלא אם תגדיר נעילת מסך. לדלג בכל זאת?</string>
     <string name="item_fingerprint">טביעת אצבע</string>
     <string name="item_lock_screen_password">נעילת מסך בלבד</string>
+    <string name="item_lock_screen_password_only">נעילת מסך</string>
     <string name="item_return">הגדר</string>
     <string name="item_skip">דלג</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
@@ -100,6 +102,8 @@
     <string name="move_data_dialog_cancel">ביטול</string>
     <string name="move_data_dialog_title">באפשרותך להגביל חיבור בעזרת גלישה סלולרית בתפריט ההגדרות מאוחר יותר</string>
     <string name="move_data_dialog_use">השתמש</string>
+    <string name="msim_setting_default_data">סים לגלישה סלולרית</string>
+    <string name="msim_setting_default_voice">SIM ברירת מחדל לשיחות</string>
     <string name="multisim_settings_category">הגדרות כרטיס ה-SIM</string>
     <string name="multisim_settings_title">זוהו 2 כרטיסי SIM</string>
     <string name="navigation_picker_gesture_guide">מדריך המחוות</string>
@@ -186,8 +190,11 @@
     <string name="pref_title_voice_slot">כרטיס ה-SIM המועדף לשיחות</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
     <string name="protect_persoanl_info_statement">אנו נגן על המידע האישי שלך בהתאם לחוקים, לתקנות ולמסמכי מדיניות פרטיות הרלוונטיים.</string>
+    <string name="provision_back">הקודם</string>
     <string name="provision_inputmethod_policy_description">&lt;Data>הצג את &lt;a href=%1$s>מדיניות הפרטיות&lt;/a >של המקלדת שנבחרה.&lt;/Data></string>
     <string name="provision_inputmethod_policy_description1">מדיניות הפרטיות</string>
+    <string name="provision_next">הבא</string>
+    <string name="provision_skip_underline">דלג</string>
     <string name="recorder_introduction">תוכל להשתמש ביישום כדי להקליט שמע ולגבות הקלטות לענן.</string>
     <string name="require_authority_statement">כדי לאפשר לנו לספק לך שירותים בסיסיים, עליך להעניק את ההרשאות הבאות על מנת שנוכל לאסוף את המידע האישי שלך:</string>
     <string name="require_network_authority_statement">כדי לאפשר לנו לספק לך שירותים בסיסיים, עליך להתחבר לאינטרנט ולהעניק את ההרשאות הבאות על מנת שנוכל לאסוף את המידע האישי שלך:</string>
@@ -220,13 +227,14 @@
     <string name="service_policy">&lt;Data>קרא והסכם ל&lt;a href=%1$s>מדיניות הפרטיות&lt;/a > שלנו.&lt;/Data></string>
     <string name="service_policy_download">&lt;Data>לפני השימוש בשירותים שלנו, עליך לקרוא את &lt;a href=%1$s>מדיניות הפרטיות של Xunlei&lt;/a > ולהסכים עמה.&lt;/Data></string>
     <string name="service_privacy_index">מדיניות הפרטיות</string>
+    <string name="service_security_over_r">&lt;Data>קרא והסכם ל&lt;a href=%1$s>מדיניות הפרטיות&lt;/a > שלנו לפני השימוש באבטחה.&lt;br/>&lt;br/>בהתאם לתקני Android 11, הרשאה חד פעמית תבוטל 5 שניות לאחר שהיישום המתאים מפסיק לפעול. אם תפתח את היישום במהלך פרק זמן קצר זה, ההרשאה תבוטל אז.&lt;/Data></string>
     <string name="servicestate_title">הצהרה אודות שירותים בסיסיים</string>
     <string name="setting_locale">מגדיר אזור…</string>
     <string name="shut_down">כיבוי</string>
     <string name="sim_card_detecting">מחפש כרטיס SIM…</string>
     <string name="sim_card_detecting_check">לא ניתן היה למצוא את כרטיס ה-SIM. ודא כי כרטיס ה-SIM מותקן כראוי וכי יתרתך מספקת.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">לאפשר חיבור לרשתות נתונים סלולריות? במידה ותאפשר, כרטיס ה-SIM שתכניס ישמש לחיבור לרשתות נתונים סלולריות.</string>
-    <string name="sim_card_detecting_title">חפש כרטיס SIM</string>
+    <string name="sim_card_detecting_title">מחפש כרטיס SIM…</string>
     <string name="sim_card_detection">הכנס כרטיס SIM</string>
     <string name="sim_card_detection_info">על מנת להכניס את כרטיס ה-SIM שלך, קרא את ההוראות שהגיעו יחד עם מכשירך.</string>
     <string name="sim_card_detection_mobile_not_available">כרטיס הסים לא מצליח להתחבר לרשת</string>

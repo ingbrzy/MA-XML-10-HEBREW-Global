@@ -171,6 +171,7 @@
     <string name="clear_default">הסר הגדרת ברירת מחדל</string>
     <string name="clear_digits">מחק מספר טלפון</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
+    <string name="close">סגירה</string>
     <string name="close_dial_pad_description">סגור את לוח מקשים</string>
     <string name="cloud_antispam_mark">דגל</string>
     <string name="cloud_antispam_marked">סומן בדגל</string>
@@ -254,6 +255,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">לוח שנה סיני מסורתי</string>
+    <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="date_year_toggle">ציין שנה</string>
     <string name="default_ringtone">צלצול ברירת מחדל</string>
     <string name="deleteCloudConfirmationDetail">למחוק את הפרטים ליצירת קשר %s גם מהענן וגם ממכשיר זה?</string>
@@ -454,6 +456,7 @@
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">שם</string>
     <string name="gallery">גלריה</string>
     <string name="ghostData_company">חברה</string>
@@ -577,6 +580,7 @@
     <string name="menu_sync_remove">הסר קבוצת סנכרון</string>
     <string name="midnight">לילה</string>
     <string name="miprofile_account_type">כרטיסי איש קשר</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ערוך פרופיל</string>
     <string name="miprofile_name">הפרופיל שלי</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -594,10 +598,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">מסנכרן עם הענן…</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
+    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
+    <string name="miuix_appcompat_select_all">בחר הכל</string>
     <string name="miuix_appcompat_select_all_description">בחר הכל</string>
+    <string name="miuix_appcompat_select_item">בחר פריטים</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">משוך כלפי מטה כדי לרענן</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">רוענן בהצלחה</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">מרענן…</string>
@@ -676,6 +683,7 @@
     <string name="night">ערב</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">יש צורך בחשבון על מנת ליצור קבוצות.</string>
+    <string name="no_contact_selected">בחר באיש קשר לצפייה בפרטים</string>
     <string name="no_contacts_dialog_message">ייתכן שאנשי הקשר שמורים על כרטיס ה-SIM שלך, נסה לייבא אותם מכרטיס ה-SIM אל אחסון המכשיר ונסה שנית.</string>
     <string name="no_contacts_dialog_title">לא ניתן למצוא אנשי קשר</string>
     <string name="no_phone_no_shortcut">לא ניתן ליצור קיצורים לאנשי קשר ללא מספר טלפון</string>
@@ -704,6 +712,7 @@
     <string name="payphone">טלפון ציבורי</string>
     <string name="people">אנשי קשר</string>
     <string name="phoneLabelsGroup">טלפון</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
     <string name="phone_primary">עיקרי</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות על גבי המכשיר.</string>
@@ -854,6 +863,7 @@
     <string name="select_all">בחר הכל</string>
     <string name="select_groups">בחר קבוצות</string>
     <string name="select_vcard_title">בחר קובץ vCard</string>
+    <string name="send">שליחה</string>
     <string name="send_contact_shortcut_todesktop_duplicate">קיצור הדרך כבר קיים</string>
     <string name="send_contact_shortcut_todesktop_failed">לא ניתן היה למקם קיצור דרך במסך הבית</string>
     <string name="send_contact_shortcut_todesktop_overflow">לא ניתן להציב קיצורי דרך נוספים במסך הבית</string>
@@ -905,6 +915,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">אין חברי קבוצה</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">חברות</string>
     <string name="smart_group_company_unavailable">אין פרטי חברה</string>
     <string name="smart_group_frequency_1">בחודש האחרון</string>
@@ -958,9 +969,9 @@
     <string name="t9_search_empty_send_sms">שליחת הודעה</string>
     <string name="t9_search_empty_video_call">שיחת וידאו</string>
     <string name="t9_search_guide_pinyin_title1">הזן מספרים למציאת אנשי קשר</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"ebbie mith\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">יש להכניס \"%d\" ו-\"%d\" כדי לחפש את \"דורון סגל\"</string>
     <string name="t9_search_guide_zhuyin_title1">הזן מספרים למציאת אנשי קשר</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"eff ax\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">"יש להכניס \"%d\" ו-\"%d\" כדי לחפש את \"ג'ורג' מילשטיין\""</string>
     <string name="take_new_photo">צלם תמונה חדשה</string>
     <string name="take_photo">צלם תמונה</string>
     <string name="the_anniversary_of_lifting_martial_law">יום השנה לביטול החוק הצבאי</string>
@@ -1061,6 +1072,7 @@
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>
+    <string name="wifi_pad_disable_phone">"Can't make calls on this device"</string>
     <string name="wipe_data">נקה נתונים</string>
     <string name="yellowPageNavigationLabel">דפי זהב</string>
     <string name="yellowpage_address_tag">כתובת</string>

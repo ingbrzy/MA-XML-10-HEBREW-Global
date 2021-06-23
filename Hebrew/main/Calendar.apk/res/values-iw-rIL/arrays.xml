@@ -1,88 +1,146 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="additional_cal_dialog_labels">
+        <item>ללא</item>
+        <item>"לוח שנה היג'רי"</item>
+        <item>שאקה סמבט (הינדי)</item>
+        <item>ויקראם סמבט (נפאל)</item>
+    </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>דלי</item>
-        <item>20/1-18/2</item>
+        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="aries_info">
+        <item>aries</item>
         <item>טלה</item>
-        <item>טלה</item>
-        <item>21/3-19/4</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="bundesliga">
+        <item>2</item>
+        <item>בונדסליגה</item>
     </string-array>
     <string-array name="cancer_info">
+        <item>cancer</item>
         <item>סרטן</item>
-        <item>סרטן</item>
-        <item>22/6-22/7</item>
+        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="capricorn_info">
         <item>capricorn</item>
         <item>גדי</item>
-        <item>22/12-19/1</item>
+        <item>22/12 - 19/1</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>אירוע זה בלבד</item>
         <item>כל האירועים בסדרה</item>
     </string-array>
-    <string-array name="close_alarm_repeating_labels">
-        <item>רק עבור שעה זו</item>
-        <item>כבה שעון מעורר</item>
-    </string-array>
     <string-array name="date_calculate_spinner">
         <item>קדימה</item>
         <item>אחורה</item>
     </string-array>
+    <string-array name="dates">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
     <string-array name="default_reminder_labels">
         <item>בשעת האירוע</item>
         <item>5 דקות לפני</item>
-        <item>10 דקות לפני</item>
         <item>15 דקות לפני</item>
         <item>30 דקות לפני</item>
         <item>שעה לפני</item>
+        <item>4 שעות לפני</item>
         <item>יום לפני</item>
         <item>יומיים לפני</item>
         <item>שבוע לפני</item>
-    </string-array>
-    <string-array name="default_reminder_later_time_labels">
-        <item>חמש דקות</item>
-        <item>10 דקות</item>
-        <item>15 דקות</item>
-        <item>30 דקות</item>
-        <item>שעה אחת</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>אירוע זה בלבד</item>
         <item>אירוע זה ואירועים עתידיים</item>
         <item>כל האירועים</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
+        <item>gemini</item>
         <item>תאומים</item>
-        <item>תאומים</item>
-        <item>21/5-21/6</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>מֻחַרַם</item>
+        <item>צַפַר</item>
+        <item>רַבִּיע אַלְאַוַל</item>
+        <item>"רַבִּיע אַלְאַחַ'ר"</item>
+        <item>"ג'וּמַאדַא אַלְאוּלַא"</item>
+        <item>"ג'וּמַדַא אַלְאַחִ'רַה"</item>
+        <item>"רַגַ'ב"</item>
+        <item>שַׁעְבַּאן</item>
+        <item>"רַמַד'אן"</item>
+        <item>שַׁוַאל</item>
+        <item>"ד'וּ-אַלְקֵעְדַה"</item>
+        <item>"ד'וּ-אַלְחִגַ'ה"</item>
+    </string-array>
+    <string-array name="la_liga">
+        <item>3</item>
+        <item>לה ליגה</item>
     </string-array>
     <string-array name="leo_info">
+        <item>leo</item>
         <item>אריה</item>
-        <item>אריה</item>
-        <item>23/7-22/8</item>
+        <item>23/7 - 22/8</item>
     </string-array>
     <string-array name="libra_info">
+        <item>libra</item>
         <item>מאזניים</item>
-        <item>מאזניים</item>
-        <item>23/9-23/10</item>
+        <item>23/9 - 23/10</item>
     </string-array>
-    <string-array name="open_alarm_repeating_labels">
-        <item>רק עבור שעה זו</item>
-        <item>הגדר תזכורת נפרדת</item>
+    <string-array name="ligue_1">
+        <item>5</item>
+        <item>ליגה 1</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>דגים</item>
-        <item>19/2-20/3</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_popup_new">
-        <item>כיבוי</item>
-        <item>עבור כל האירועים</item>
-        <item>עבור אירועים בעלי רגישות גבוהה</item>
+        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>תמיד</item>
@@ -180,41 +238,41 @@
         <item>שנה</item>
     </string-array>
     <string-array name="repeat_monthly_on_day_count_values">
-        <item>שני ראשון</item>
-        <item>שלישי ראשון</item>
-        <item>רביעי הראשון</item>
-        <item>חמישי הראשון</item>
+        <item>יום שני הראשון</item>
+        <item>יום שלישי הראשון</item>
+        <item>יום רביעי הראשון</item>
+        <item>יום חמישי הראשון</item>
         <item>יום שישי הראשון</item>
         <item>שבת ראשונה</item>
         <item>יום ראשון הראשון</item>
         <item>"יום ב' השני"</item>
-        <item>שלישי השני</item>
-        <item>רביעי השני</item>
+        <item>יום שלישי השני</item>
+        <item>יום רביעי השני</item>
         <item>חמישי השני</item>
         <item>יום שישי השני</item>
         <item>יום שבת השני</item>
-        <item>"א' השני"</item>
-        <item>יום שני, השלישי</item>
-        <item>יום שלישי שלישי</item>
-        <item>רביעי השלישי</item>
+        <item>יום ראשון השני</item>
+        <item>יום שלישי השני</item>
+        <item>יום שלישי השלישי</item>
+        <item>יום רביעי השלישי</item>
         <item>חמישי השלישי</item>
         <item>יום שישי שלישי</item>
         <item>שבת שלישית</item>
-        <item>"יום א' השלישי"</item>
-        <item>שני הרביעי</item>
-        <item>שלישי רביעי</item>
+        <item>יום ראשון השלישי</item>
+        <item>יום רביעי השני</item>
+        <item>רביעי השלישי</item>
         <item>רביעי הרביעי</item>
-        <item>חמישי הרביעי</item>
-        <item>"ו' הרביעי"</item>
+        <item>יום חמישי הרביעי</item>
+        <item>יום שישי הרביעי</item>
         <item>שבת רביעית</item>
         <item>ראשון הרביעי</item>
-        <item>שני אחרון</item>
-        <item>שלישי האחרון</item>
-        <item>רביעי האחרון</item>
-        <item>חמישי האחרון</item>
-        <item>שישי האחרון</item>
-        <item>שבת אחרונה</item>
-        <item>ראשון האחרון</item>
+        <item>יום שני האחרון בחודש</item>
+        <item>יום שלישי האחרון בחודש</item>
+        <item>יום רביעי האחרון בחודש</item>
+        <item>יום חמישי האחרון בחודש</item>
+        <item>יום שישי האחרון בחודש</item>
+        <item>יום שבת האחרון בחודש</item>
+        <item>יום ראשון האחרון בחודש</item>
     </string-array>
     <string-array name="response_labels1">
         <item>ללא תגובה</item>
@@ -222,28 +280,26 @@
         <item>אולי</item>
         <item>לא</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>לא להגיב</item>
-        <item>אישור</item>
-        <item>להחליט מאוחר יותר</item>
-        <item>סירוב</item>
-    </string-array>
     <string-array name="sagittarius_info">
+        <item>sagittarius</item>
         <item>קשת</item>
-        <item>קשת</item>
-        <item>23/11-21/12</item>
+        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
+        <item>scorpio</item>
         <item>עקרב</item>
-        <item>עקרב</item>
-        <item>24/10-22/11</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>"סדרה א'"</item>
     </string-array>
     <string-array name="taurus_info">
+        <item>taurus</item>
         <item>שור</item>
-        <item>שור</item>
-        <item>20/4-20/5</item>
+        <item>20/4 - 20/5</item>
     </string-array>
-    <string-array name="timezone_labels_v3">
+    <string-array name="timezone_labels">
         <item>איי מרשל</item>
         <item>האי מידווי</item>
         <item>הוואי</item>
@@ -257,7 +313,7 @@
         <item>שעון מרכזי (CT)</item>
         <item>מקסיקו סיטי</item>
         <item>"ססקצ'ואן"</item>
-        <item>בוגוטה</item>
+        <item>Bogotá</item>
         <item>שעון מזרחי (ET)</item>
         <item>ונצואלה</item>
         <item>שעון אטלנטי (ברבדוס)</item>
@@ -271,21 +327,18 @@
         <item>מונטבידאו</item>
         <item>אזור המיד-אטלנטיק</item>
         <item>האיים האזוריים</item>
-        <item>כף ורדה</item>
+        <item>Cape Verde</item>
         <item>קזבלנקה</item>
-        <item>לונדון</item>
-        <item>דבלין</item>
-        <item>אמסטרדם</item>
-        <item>ברלין</item>
+        <item>לונדון, דבלין</item>
+        <item>אמסטרדם, ברלין</item>
         <item>בלגרד</item>
         <item>בריסל</item>
         <item>סרייבו</item>
         <item>וינדהוק</item>
         <item>"שעון מע' אפריקה"</item>
-        <item>עמאן</item>
-        <item>אתונה</item>
-        <item>איסטנבול</item>
-        <item>ביירות</item>
+        <item>עמאן, ירדן</item>
+        <item>אתונה, איסטנבול</item>
+        <item>ביירות, לבנון</item>
         <item>קהיר</item>
         <item>הלסינקי</item>
         <item>ירושלים</item>
@@ -301,7 +354,7 @@
         <item>ירוואן</item>
         <item>דובאי</item>
         <item>קבול</item>
-        <item>"קראצ'י"</item>
+        <item>"איסלאמבד, קראצ'י"</item>
         <item>אורל (קזחסטן)</item>
         <item>יקטרינבורג</item>
         <item>כלכותה</item>
@@ -312,23 +365,21 @@
         <item>קרסנויארסק</item>
         <item>בנגקוק</item>
         <item>"בייג'ינג"</item>
-        <item>"צונגצ'ין"</item>
         <item>הונג קונג</item>
         <item>מקאו</item>
         <item>סינגפור</item>
         <item>אירקוטסק</item>
         <item>קואלה לומפור</item>
         <item>"פרת'"</item>
-        <item>טאיפיי</item>
+        <item>טייפה</item>
         <item>סאול</item>
-        <item>טוקיו</item>
+        <item>טוקיו, אוסקה</item>
         <item>יאקוטסק</item>
         <item>אדלייד</item>
         <item>דרווין</item>
         <item>בריסביין</item>
-        <item>הובארט</item>
-        <item>סידני</item>
-        <item>קנברה</item>
+        <item>הוברט</item>
+        <item>סידני, קנברה</item>
         <item>ולדיווסטוק</item>
         <item>גואם</item>
         <item>מגדן</item>
@@ -343,10 +394,52 @@
         <item>6 שעות לפני</item>
         <item>יום לפני</item>
     </string-array>
+    <string-array name="vikrami_samvat_month_names">
+        <item>Chaitra</item>
+        <item>Vaishākha</item>
+        <item>Jyēshtha</item>
+        <item>Āshādha</item>
+        <item>Shrāvana</item>
+        <item>Bhaadra</item>
+        <item>Āshwin</item>
+        <item>Kārtika</item>
+        <item>Mārgaśīrṣa</item>
+        <item>Pausha</item>
+        <item>Māgha</item>
+        <item>Phalguna</item>
+    </string-array>
     <string-array name="virgo_info">
+        <item>virgo</item>
         <item>בתולה</item>
-        <item>בתולה</item>
-        <item>23/8-22/9</item>
+        <item>23/8 - 22/9</item>
+    </string-array>
+    <string-array name="weather_forecasts">
+        <item>נעים</item>
+        <item>מעונן</item>
+        <item>מעונן מאוד</item>
+        <item>ערפל</item>
+        <item>סופה כבדה</item>
+        <item>סופה</item>
+        <item>סופה קלה</item>
+        <item>סופת רעמים</item>
+        <item>ממטר</item>
+        <item>גשם כבד</item>
+        <item>גשם</item>
+        <item>גשם קל</item>
+        <item>גשם ושלג</item>
+        <item>סופת שלגים</item>
+        <item>ממטרי שלג</item>
+        <item>שלג כבד</item>
+        <item>שלג</item>
+        <item>שלג קל</item>
+        <item>סופת חול חזקה</item>
+        <item>סופת חול</item>
+        <item>אבק</item>
+        <item>סופת חול קלה</item>
+        <item>ברד</item>
+        <item>אבק באוויר</item>
+        <item>אובך</item>
+        <item>גשם קפוא</item>
     </string-array>
     <string-array name="week_header_name">
         <item>א</item>
@@ -362,12 +455,21 @@
         <item>רקע לבן</item>
     </string-array>
     <string-array name="year_view_week_header_name">
-        <item>"א'"</item>
-        <item>"ב'"</item>
-        <item>"ג'"</item>
-        <item>"ד'"</item>
-        <item>"ה'"</item>
-        <item>"ו'"</item>
-        <item>"ר'"</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ש</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
     </string-array>
 </resources>

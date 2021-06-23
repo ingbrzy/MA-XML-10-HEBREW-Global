@@ -151,22 +151,34 @@
         <item quantity="many">לא ניתן היה לשחזר %d פריטים בגלל שגיאה לא ידועה.</item>
     </plurals>
     <plurals name="search_alll_records_hint">
-        <item quantity="other">חפש בין %d הקלטות</item>
-        <item quantity="one">חפש בהקלטה %d</item>
-        <item quantity="two">חפש בין %d הקלטות</item>
-        <item quantity="many">חפש בין %d הקלטות</item>
+        <item quantity="other">%d הקלטות</item>
+        <item quantity="one">הקלטה %d</item>
+        <item quantity="two">%d הקלטות</item>
+        <item quantity="many">%d הקלטות</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">חפש בין %d הקלטות</item>
-        <item quantity="one">חפש בין הקלטה %d</item>
-        <item quantity="two">חפש בין %d הקלטות</item>
-        <item quantity="many">חפש בין %d הקלטות</item>
+        <item quantity="other">%d הקלטות</item>
+        <item quantity="one">הקלטה %d</item>
+        <item quantity="two">%d הקלטות</item>
+        <item quantity="many">%d הקלטות</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">חפש בין %d הקלטות של שיחות</item>
-        <item quantity="one">חפש בהקלטת שיחה %d</item>
-        <item quantity="two">חפש בין %d הקלטות של שיחות</item>
-        <item quantity="many">חפש בין %d הקלטות של שיחות</item>
+        <item quantity="other">%d הקלטות שיחה</item>
+        <item quantity="one">הקלטת שיחה %d</item>
+        <item quantity="two">%d הקלטות שיחה</item>
+        <item quantity="many">%d הקלטות שיחה</item>
+    </plurals>
+    <plurals name="search_fm_records_hint">
+        <item quantity="other">%d הקלטות רדיו</item>
+        <item quantity="one">הקלטת רדיו %d</item>
+        <item quantity="two">%d הקלטות רדיו</item>
+        <item quantity="many">%d הקלטות רדיו</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d הקלטות שמע</item>
+        <item quantity="one">הקלטת שמע %d</item>
+        <item quantity="two">%d הקלטות שמע</item>
+        <item quantity="many">%d הקלטות שמע</item>
     </plurals>
     <plurals name="search_result">
         <item quantity="other">נמצאו %d הקלטות</item>

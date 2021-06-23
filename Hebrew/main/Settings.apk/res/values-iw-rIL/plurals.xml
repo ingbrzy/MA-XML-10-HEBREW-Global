@@ -108,6 +108,12 @@
         <item quantity="two">%d נוספו</item>
         <item quantity="many">%d נוספו</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">ה-Wi-Fi יופעל באופן אוטומטי כאשר המכשיר שלך יזהה רשתות שמורות בקרבת מקום, ויכבה לאחר %d דקות אם לא ייווצר חיבור</item>
+        <item quantity="one">ה-Wi-Fi יופעל באופן אוטומטי כאשר המכשיר שלך יזהה רשתות שמורות בקרבת מקום, ויכבה לאחר דקה אחת (%d) אם לא ייווצר חיבור</item>
+        <item quantity="two">ה-Wi-Fi יופעל באופן אוטומטי כאשר המכשיר שלך יזהה רשתות שמורות בקרבת מקום, ויכבה לאחר %d דקות אם לא ייווצר חיבור</item>
+        <item quantity="many">ה-Wi-Fi יופעל באופן אוטומטי כאשר המכשיר שלך יזהה רשתות שמורות בקרבת מקום, ויכבה לאחר %d דקות אם לא ייווצר חיבור</item>
+    </plurals>
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d פריטים נבחרו</item>
         <item quantity="one">פריט %d נבחר</item>

@@ -16,6 +16,8 @@
     <string name="activity_title_statistic">Stats</string>
     <string name="add_model_card">"Tap the button in the upper left corner
 to add cards"</string>
+    <string name="add_model_card2">"Tap the button above to add cards.
+You'll be able to track your workouts and activity."</string>
     <string name="add_record">Add</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="all_records">כל הרשומות</string>
@@ -86,6 +88,7 @@ to add cards"</string>
     <string name="close_once">Turn off once</string>
     <string name="collapse">Hide</string>
     <string name="complete_preference_basic_info">Complete your profile</string>
+    <string name="complete_progress">Progress</string>
     <string name="completed">"Completed "</string>
     <string name="copy_done">הועתק בהצלחה</string>
     <string name="copyright_statement">Copyright © Xiaomi Inc. All rights reserved.</string>
@@ -158,6 +161,7 @@ to add cards"</string>
     <string name="dialog_delete_record_confirm">Delete this record?</string>
     <string name="dialog_exercise_purpose">ברוך הבא ל Xiaomi Health! \"סופר הצעדים\" מאפשר לך לראות כמה צעדים אתה מבצע במהלך היום, כמו גם להגדיר ולנהל את יעדי הפעילות שלך. כל הנתונים הקשורים יאוחסנו באופן מקומי במכשיר, מה שמאפשר לך לנהל אותו בקלות.</string>
     <string name="dialog_exit">יציאה</string>
+    <string name="dialog_exit_use">Exit</string>
     <string name="dialog_feedback_content">"If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
     <string name="dialog_feedback_purpose">Xiaomi Health זקוקה לגישה לאחסון כדי לשלוח משוב.</string>
     <string name="dialog_feedback_purpose2">For submitting feedback</string>
@@ -188,6 +192,8 @@ to add cards"</string>
     <string name="dialog_user_agreement_purpose2">ברוך הבא ל- Xiaomi Health! תוכל להשתמש באפליקציה זו כדי לספור את הצעדים שלך, לנתח שינה, לעקוב אחר מחזור חודשי, לתעד משקל ועוד.</string>
     <string name="disable">Off</string>
     <string name="discard_update">לא תודה</string>
+    <string name="download_apk">Downloading %s…</string>
+    <string name="download_background">Download</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>
     <string name="dream_talk_title">Talking</string>
@@ -873,6 +879,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="tb_mens_mark_success">Marked successfully</string>
     <string name="tb_mens_select_column">Cycle starts on%1$s.%2$s.%3$s.</string>
     <string name="tb_mens_unmark_success">Canceled successfully</string>
+    <string name="tb_step_widget" formatted="false">Today. %1$s. Progress: %2$d%</string>
     <string name="text_edit_exercise_goal">שנה מטרה</string>
     <string name="text_save_exercise_goal">סיים</string>
     <string name="the_anniversary_of_lifting_martial_law">יום השנה לביטול החוק הצבאי</string>
@@ -986,6 +993,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="user_center">Profile</string>
     <string name="user_invalid_value">--</string>
     <string name="value_error_correct">ערוך רשומה</string>
+    <string name="view_step_and_progress">View your current step count</string>
     <string name="voice_remind">"We've increased the volume so you hear the instructions better."</string>
     <string name="walk">Walking</string>
     <string name="wednesday">רביעי</string>
