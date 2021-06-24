@@ -241,9 +241,7 @@
     <string name="download_method">הורדה</string>
     <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
     <string name="download_paused_in_power_save_mode">"ההורדות מופסקות בעת שימוש במצב 'חסכון בסוללה'"</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">מוריד…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">איכות הורדה</string>
     <string name="download_quality_summary">הגדרות נוספות עבור הורדות שירים</string>
     <string name="download_queued">בתור</string>
@@ -665,7 +663,6 @@
     <string name="privacy_authorize_revoking">שולל הרשאה…</string>
     <string name="privacy_desc">מדיניות פרטיות</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=iw_IL</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music צריך לאסוף מידע האישי הדרוש כדי לספק לך שירותי סטרימינג (הזרמה) מקוונים. מידע לגבי האופן בו אנו מטפלים במידע שאנו אוספים מופיע ב&lt;a href=\"%1$s\">מדיניות הפרטיות &lt;/a> שלנו. תוכל לבטל את הסכמתך למדיניות הפרטיות של Mi Music בכל עת בהגדרות.
 קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%1$s\">מדיניות פרטיות&lt;/a> שלנו לפני השימוש ב-Mi Music.
 אם אינך מסכים להשתמש בשירותים האמורים, לא תוכל להשתמש בתכונות מסוימות של יישום זה; עם זאת, התפקוד הבסיסי שלו עדיין יהיה זמין עבורך.&lt;/Data>"</string>
@@ -898,7 +895,6 @@
     <string name="upload_playlist_to_hungama_title">סנכרן שירים מקוונים עם Hungama כדי לקבל גישה לאותם השירים ממכשירים אחרים כשאתה משתמש בחשבון Mi.</string>
     <string name="upload_playlist_to_hungama_toast">שירים מקוונים יסונכרנו עם Hungama</string>
     <string name="user_agreement">הסכם המשתמש</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=iw_IL</string>
     <string name="user_playlist_plaza">רשימות השמעה</string>
     <string name="user_privacy_dialog_negative_text">ביטול</string>
     <string name="user_privacy_dialog_positive_count_down_text">משיכה (%s)</string>
