@@ -196,7 +196,6 @@
     <string name="card_game_title_1">המלצות יומיות</string>
     <string name="card_game_title_2">פופולריים השבוע</string>
     <string name="card_game_title_3">הנבחרים של Mint</string>
-    <string name="cast_video">שדר את הסרטון</string>
     <string name="category">קטגוריות</string>
     <string name="category_album">אלבומים</string>
     <string name="category_all">כל הקבצים</string>
@@ -236,7 +235,6 @@
     <string name="clear_history">ניקוי היסטוריה</string>
     <string name="clear_most_visited">היסטוריה אחרונה</string>
     <string name="clear_search_history">ניקוי היסטוריה</string>
-    <string name="clear_video_download">ניקוי סרטונים</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="click_always">הקש על \"תמיד\"</string>
     <string name="click_to_refresh">עצרת כאן בפעם הקודמת, לחץ לרענון</string>
@@ -258,7 +256,6 @@
     <string name="cloud_time_tips">סנכרון אחרון</string>
     <string name="cloud_up_to_loading_tips">שחרר לסנכרון</string>
     <string name="collect_diagnosis_log">אוסף יומנים</string>
-    <string name="collect_video">הוסף את הסרטון לאוסף</string>
     <string name="collection_articles">מאמרים</string>
     <string name="collection_videos">סרטונים</string>
     <string name="comment_app_menu">הערה</string>
@@ -318,15 +315,6 @@
     <string name="dark_mode">מצב כהה</string>
     <string name="data_error">שגיאת נתונים</string>
     <string name="data_format_ymd">dd.MM.yyyy</string>
-    <string name="data_traffic_continue">נגן בכל זאת</string>
-    <string name="data_traffic_download_cancel">חזרה</string>
-    <string name="data_traffic_download_prompt">תוכל להוריד סרטון זה כאשר מכשירך מחובר לרשת WiFi.</string>
-    <string name="data_traffic_download_setting">הגדרות</string>
-    <string name="data_traffic_goto">חבילת נתונים</string>
-    <string name="data_traffic_prompt_free_data">שימוש בנתונים סלולריים עלול לגרוב חיובים נוספים. נסה להשתמש בחבילת נתונים ייעודית.</string>
-    <string name="data_traffic_prompt_message">שימוש בחיבור הנתונים הסלולרי שלך לחיפוש סרטונים יגדיל את צריכת הנתונים, חריגה ממסגרת תכנית הגלישה שלך עלולה להיות כרוכה בחיובים נוספים.</string>
-    <string name="data_traffic_prompt_title">הינך משתמש בנתונים סלולריים</string>
-    <string name="data_traffic_stop">עצירה</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -465,7 +453,6 @@ ID:%s
     <string name="download_title">הורדות</string>
     <string name="download_unknown_title">לא ידועה</string>
     <string name="download_update_background">מוריד עדכונים ברקע</string>
-    <string name="download_video">הורד את הסרטון</string>
     <string name="download_video_from_social_site">הורד סרטונים מרשת חברתית</string>
     <string name="download_videos_from_here">תוכל להוריד סרטונים משירותי תוכן אלו</string>
     <string name="download_wait_connect">ממתין לחיבור</string>
@@ -509,7 +496,6 @@ ID:%s
     <string name="exit_clear_dialog_btn_cancel">יציאה</string>
     <string name="exit_clear_dialog_btn_ok">נקה וצא</string>
     <string name="exit_clear_dialog_msg">לנקות את ההיסטוריה לפני יציאה?</string>
-    <string name="exit_fullscreen">יציאה ממסך מלא</string>
     <string name="exit_game">סגירה</string>
     <string name="experience_improve">תכנית חוויית המשתמש</string>
     <string name="external_app_restricted_access_error">דפדפן Mi אינו יכול לגשת לפריט זה.</string>
@@ -727,15 +713,6 @@ ID:%s
     <string name="make_private_msg_2">להסתיר את הקבצים הללו?</string>
     <string name="max_tabs_warning">לא ניתן לפתוח תויות נוספות</string>
     <string name="maximum_input_alert">לא ניתן להזין יותר מ-2048 תווים</string>
-    <string name="media_error_action_refresh">רענון</string>
-    <string name="media_error_action_replace_video_source">לא ניתן היה לשנות מקור</string>
-    <string name="media_error_failure">לא ניתן להפעיל את הסרטון</string>
-    <string name="media_error_format">פורמט הוידאו לא נתמך</string>
-    <string name="media_error_network_unreachable">לא ניתן היה להתחבר לרשת</string>
-    <string name="media_error_nomemory">אין מספיק זכרון זמין</string>
-    <string name="media_error_source">לא ניתן היה למצוא מקור מדיה</string>
-    <string name="media_error_timeout">פג תוקף החיבור לרשת</string>
-    <string name="media_error_video_not_exist">הסרטון לא קיים</string>
     <string name="menu_addtodesk">"הוספה ל'מסך הבית'"</string>
     <string name="menu_exit_nightmode">יציאה</string>
     <string name="menu_hv_swap">סיבוב מסך</string>
@@ -831,6 +808,8 @@ ID:%s
     <string name="more_option">אפשרויות נוספות</string>
     <string name="more_recommend">המלצות נוספות</string>
     <string name="morning">בוקר</string>
+    <string name="most_visited_sites">הנצפים ביותר</string>
+    <string name="most_visited_sites_switch">הצג את האתרים הנצפים ביותר בדף הפתיחה</string>
     <string name="move_bookmark">העבר</string>
     <string name="msn_ad_identification">מודעה</string>
     <string name="msn_privacy">הצהרת הפרטיות של Microsoft</string>
@@ -850,6 +829,7 @@ ID:%s
     <string name="mw_actionbar_textselection_title">" בחר טקסט"</string>
     <string name="mw_actionbar_web_search">חיפוש באינטרנט</string>
     <string name="mw_autofill_popup_content_description">מציג חלון מילוי אוטומטי</string>
+    <string name="mw_chip_remove_icon_content_description">Remove \"%1$s\"</string>
     <string name="mw_color_picker_button_black">שחור</string>
     <string name="mw_color_picker_button_blue">כחול</string>
     <string name="mw_color_picker_button_cancel">בטל</string>
@@ -865,7 +845,7 @@ ID:%s
     <string name="mw_color_picker_hue">גוון</string>
     <string name="mw_color_picker_saturation">רוויה</string>
     <string name="mw_color_picker_value">ערך</string>
-    <string name="mw_common_google_play_services_install_text">%1$s לא יעבוד ללא שירותי Google Play, שלא מותקנים במכשיר שלך.</string>
+    <string name="mw_common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">לא ניתן היה להעתיק ללוח</string>
     <string name="mw_data_traffic_prompt_change">שימוש באינטרנט הסלולרי שלך לדפדוף בסרטונים יגדיל את צריכת הנתונים שלך. אם תחרוג מנפח הגלישה הכלול בתוכנית שלך, ייתכן שספק התקשורת הסלולרית שלך יגבה ממך תשלומים נוספים.</string>
@@ -889,6 +869,7 @@ ID:%s
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">חודש קודם</string>
     <string name="mw_license_activity_title">רשיונות WebView של המערכת</string>
+    <string name="mw_link_copied">Copied URL successfully</string>
     <string name="mw_low_memory_error">" לא ניתן היה להשלים את הפעולה הקודמת עקב מחסור בזיכרון"</string>
     <string name="mw_miui_content_copy">העתק</string>
     <string name="mw_miui_content_cut">גזור</string>
@@ -993,6 +974,7 @@ ID:%s
     <string name="mw_save_password_never">לעולם לא</string>
     <string name="mw_save_password_notnow">לא כעת</string>
     <string name="mw_save_password_remember">זכור</string>
+    <string name="mw_speech_recognition_service_not_found">"Couldn't find Google speech engine"</string>
     <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">AM</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
@@ -1000,7 +982,6 @@ ID:%s
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">הגדר זמן</string>
-    <string name="mw_url_copied">כתובת URL הועתקה בהצלחה</string>
     <string name="mw_video_buffering_percent">טוען</string>
     <string name="mw_video_download_no_permission">נדרשות הרשאות להורדת פריטים</string>
     <string name="mw_video_float_drag_scale_msg">גרור לשינוי הגודל</string>
@@ -1198,7 +1179,6 @@ ID:%s
     <string name="password">סיסמה</string>
     <string name="per_month">לחודש</string>
     <string name="permission_agree_service">קראתי, והסכמתי לכל התנאים וההגבלות הבאים.</string>
-    <string name="permission_alert_window">על מנת להשתמש בתכונה זו, עליך לאפשר הצגה של חלונות קופצים בהגדרות.</string>
     <string name="permission_contacts">אנשי קשר</string>
     <string name="permission_dialog_msg_camera">%s רוצה להשתמש במצלמה שלך</string>
     <string name="permission_dialog_msg_camera_mic">%s רוצה להשתמש במצלמה ובמיקרופון שלך</string>
@@ -1222,7 +1202,6 @@ ID:%s
     <string name="permission_open_storage">"עבור קודם ל'הגדרות' ואפשר לדפדפן Mi לגשת לאחסון הפנימי שלך"</string>
     <string name="permission_service">תנאים והגבלות</string>
     <string name="permission_storage">אחסון</string>
-    <string name="permission_unknown">שגיאה לא ידועה</string>
     <string name="permission_use">הרשאות</string>
     <string name="personalized_content_services">שירותי תוכן מותאמים אישית</string>
     <string name="personalized_services">שירותים מותאמים אישית</string>
@@ -1248,12 +1227,9 @@ ID:%s
     <string name="photoPickerNotFoundText">אין תמונות זמינות.</string>
     <string name="pick_file">בחר קבצים</string>
     <string name="ping_test_title">השהיית רשת</string>
-    <string name="play_pause_video">נגן או השהה את הסרטון</string>
-    <string name="play_video">נגן את הסרטון</string>
     <string name="players_still_play">&lt;font color=\"#ff2458\">%s&lt;/font> מהשחקנים גם אהבו את אלה</string>
     <string name="pm">PM</string>
     <string name="popular_game_video">Popular Game Video</string>
-    <string name="popup_video">סרטון קופץ</string>
     <string name="popup_window_attempt">לאפשר לאתר זה לפתוח חלון קופץ?</string>
     <string name="positive_confirm_message">כבה בכל זאת</string>
     <string name="pref_accessibility">נגישות</string>
@@ -1431,8 +1407,8 @@ ID:%s
     <string name="privacy_authorize_summary">כבה או הפעל את המתג כדי לשלול או להעניק הרשאות</string>
     <string name="privacy_authorize_title">הרשאה</string>
     <string name="privacy_btn_more">עוד</string>
-    <string name="privacy_improve_performance">עזור לדפדפן Mi לשפר את הביצועים</string>
-    <string name="privacy_improve_performance_desc">שלח נתונים מצטברים ודיווחים על קריסה לדפדפן Mi באופן אוטומטי</string>
+    <string name="privacy_improve_performance">תכנית חווית המשתמש</string>
+    <string name="privacy_improve_performance_desc">אפשר ל-Xiaomi לאסוף ולנתח נתוני משתמש על מנת לשפר את המוצרים והשירותים שלנו</string>
     <string name="privacy_message">לפני השימוש בדפדפן, תהיה חייב להסכים לשלנו &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\"> הסכם משתמש &lt;/a>&lt;/font> ו &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\"> מדיניות פרטיות &lt;/a>&lt;/font>.</string>
     <string name="privacy_message_main_tips_first">דפדפן Mi צריך לאסוף את המידע האישי הנדרש כדי לספק לך את השירותים הבסיסיים. ניתן למצוא מידע על אופן הטיפול שלנו במידע שאנו אוספים &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">במדיניות הפרטיות&lt;/a>&lt;/font> שלנו. תמיד תוכל לבטל את הסכמתך למדיניות הפרטיות של דפדפן Mi תחת הגדרות > פרטיות &amp; אבטחה. עליך לקרוא את &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">הסכם המשתמש&lt;/a>&lt;/font> ואת &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">מדיניות הפרטיות&lt;/a>&lt;/font> שלנו ולהסכים אתם כדי להשתמש בדפדפן Mi.</string>
     <string name="privacy_message_main_tips_second">כדי לחפש יישומים במכשיר ולדעת אילו יישומים הותקנו בו, דפדפן Mi זקוק לגישה לנתוני התקנת היישומים, אשר לא יישמרו במכשיר ולא יועלו לאינטרנט בכל צורה שהיא.</string>
@@ -1440,6 +1416,7 @@ ID:%s
     <string name="privacy_message_welcome_tip_first">- גלישה מהירה ומאובטחת באינטרנט</string>
     <string name="privacy_message_welcome_tip_second">- הורדת תמונות ויישומים מרשתות חברתיות</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
+    <string name="privacy_reset_fail">לא ניתן היה לאפס. נסה שוב.</string>
     <string name="privacy_sub_title">תנאי השימוש</string>
     <string name="privacy_title">ברוכים הבאים לדפדפן Mi</string>
     <string name="private_title">קבצים מוסתרים</string>
@@ -1611,10 +1588,10 @@ ID:%s
     <string name="setting_app_language">שפת דפדפן</string>
     <string name="setting_feed_language">שפת עדכוני התוכן</string>
     <string name="setting_privacy_password">הגדר תבנית ביטול נעילה</string>
+    <string name="setting_swipe_up">נא להעביר אצבע כלפי מעלה במסך הבית</string>
     <string name="share_image_text">תראו מה שיתפתי! @MIUI</string>
     <string name="share_page_text">תראו מה שיתפתי: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">תראו מה שיתפתי: %1$s</string>
-    <string name="share_video">שתף את הסרטון</string>
     <string name="sign_in">מתחבר</string>
     <string name="sign_in_by_others">דרכים אחרות להיכנס</string>
     <string name="sign_in_by_xiaommi">היכנס באמצעות חשבון Mi</string>
@@ -1762,8 +1739,6 @@ ID:%s
     <string name="traffic_fail_free_no_left">נגמרה לך חבילת הנתונים. הירשם כדי להמשיך.</string>
     <string name="traffic_fail_no_left">נגמרה לך תעבורת ה-VPN</string>
     <string name="traffic_fail_upload">אירעה שגיאה. הפעל שוב את ה-VPN.</string>
-    <string name="transfer_prompt_0">נגן סרטון</string>
-    <string name="transfer_restart">אתחל</string>
     <string name="translate">תרגם</string>
     <string name="translate_cur_page">לתרגם דף זה?</string>
     <string name="translate_into">תרגם אל</string>
@@ -1817,9 +1792,7 @@ ID:%s
     <string name="user_guide_read_info_tips">כדי שדפדפן Mi יוכל לכלול יישומים בתוצאות החיפוש עליו לגשת לרשימת היישומים המותקנים במכשירך.</string>
     <string name="user_id_hint">דוא\"ל/טלפון/מזהה חשבון Mi</string>
     <string name="username">שם</string>
-    <string name="v5_deselect_all">הסר בחירה מהכל</string>
-    <string name="v5_edit_mode_title_empty">0 נבחרו</string>
-    <string name="v5_select_all">בחר הכל</string>
+    <string name="v5_edit_mode_title_empty">בחר פריטים</string>
     <string name="v_code_title">הזן קוד אימות</string>
     <string name="verify_subscription">מעדכן מינוי…</string>
     <string name="version_check_button_checking">בודק…</string>
@@ -1837,59 +1810,18 @@ ID:%s
     <string name="version_dialog_buttion_update">עדכון</string>
     <string name="version_update_file_download_toast">מוריד</string>
     <string name="version_update_file_not_found">לא נמצאו עדכונים</string>
-    <string name="video_activity_name">מועדפים</string>
-    <string name="video_buffering_percent_string">"טוען "</string>
-    <string name="video_collect_cancel">הסר מהמועדפים</string>
-    <string name="video_collect_success">נוסף למועדפים</string>
     <string name="video_collection_click_view">כאן מופיעים הסרטונים שהוספת לרשימת המועדפים</string>
     <string name="video_collection_empty">עדיין אין כאן סרטונים</string>
     <string name="video_collection_known">הבנתי</string>
     <string name="video_collection_view">צפה</string>
-    <string name="video_download_complete">ההורדה הושלמה בהצלחה</string>
-    <string name="video_download_empty">אין סרטונים</string>
-    <string name="video_download_error">שגיאה</string>
-    <string name="video_download_error_http_gone">לא ניתן היה למצוא את הקובץ</string>
-    <string name="video_download_exists">הורדה זו קיימת כבר.</string>
-    <string name="video_download_fail">לא ניתן היה להוריד</string>
-    <string name="video_download_failed">לא ניתן היה להוריד</string>
-    <string name="video_download_finding_address">משיג קישור הורדה</string>
-    <string name="video_download_pause">הופסק</string>
-    <string name="video_download_start">מוריד…</string>
-    <string name="video_download_success">ההורדה הושלמה בהצלחה</string>
-    <string name="video_download_unknown_name">סרטון לא ידוע</string>
-    <string name="video_download_unknown_size">הגודל לא ידוע</string>
-    <string name="video_download_unsupport">לא נתמך</string>
-    <string name="video_download_wait_for_wifi">ממתין לחיבור רשת אלחוטית</string>
-    <string name="video_downloaded_group">ירדו</string>
+    <string name="video_download_complete">הורדת הסרטון הושלמה בהצלחה</string>
     <string name="video_downloader_edit_hint">"הדבק קישור להורדת סרטון. למשל:
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">לא ניתן היה להוריד פריט זה</string>
     <string name="video_downloader_retry">נסה שוב</string>
-    <string name="video_downloading_group">מוריד</string>
-    <string name="video_edit">עריכה</string>
-    <string name="video_float_window_text">סרטון בחלון בקופץ</string>
-    <string name="video_fragment_name_collections">מועדפים</string>
-    <string name="video_fragment_name_download">וידאו במצב לא מקוון</string>
-    <string name="video_fragment_name_historys">היסטוריה</string>
-    <string name="video_fragment_name_offine">לא מקוון</string>
-    <string name="video_group_noupdates_list">אין עדכונים זמינים</string>
-    <string name="video_group_updates_list">עדכונים</string>
-    <string name="video_history_empty">אין היסטוריה</string>
-    <string name="video_manager_action_bar_end_view">סרטונים אונליין</string>
     <string name="video_play_next">הבא</string>
-    <string name="video_project_button">עצירה</string>
-    <string name="video_project_msg">הקרנת וידאו אל %s</string>
-    <string name="video_project_title">הקרנת וידאו</string>
-    <string name="video_push_multi_title">קיים עדכון זמין</string>
-    <string name="video_push_single_message">לחץ על מנת לעדכן ל-%1$d.</string>
     <string name="video_replay_btn">נגן שוב</string>
     <string name="video_retry_btn">נסה שוב</string>
-    <string name="video_service_notification_title">מנגן סרטון בחלון קופץ…</string>
-    <string name="video_subtitle_last_message1">נותרה פחות מדקה</string>
-    <string name="video_subtitle_prefix1">נצפה</string>
-    <string name="video_subtitle_prefix2">"נצפה "</string>
-    <string name="video_title_prefix_message">"לא מקוון: "</string>
-    <string name="video_unknown_duration">משך זמן לא ידוע</string>
     <string name="view_certificate">הצג תעודה</string>
     <string name="view_document_downloaded_files">"הצג קבצים שירדו ב'הורדות'"</string>
     <string name="voice_check_network">בדוק את הגדרות הרשת שלך ונסה שוב.</string>
@@ -1936,7 +1868,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>
-    <string name="welcome_to_mi_browser">ברוכים הבאים לדפדפן Mi!</string>
     <string name="what_is_new">עדכן את האפליקציה כדי לקבל גישה לתכונות החדשות</string>
     <string name="whatsapp_downloadpage_tips">שומר סטטוסים ב-WhatsApp</string>
     <string name="whatsapp_file_saved_success">נשמר בהצלחה</string>

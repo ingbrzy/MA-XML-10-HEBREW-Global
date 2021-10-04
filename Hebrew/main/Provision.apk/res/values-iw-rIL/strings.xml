@@ -24,7 +24,6 @@
     <string name="boot_video_skip">דלג</string>
     <string name="calculator_introduction">תוכל להשתמש ביישום כדי לבצע חישובים, להמיר יחידות ומטבעות, ולאמוד את החזרי המשכנתא שלך.</string>
     <string name="camera_introduction">תוכל להשתמש במצלמה כדי לצלם תמונות וסרטונים.</string>
-    <string name="carrier_introduction">על מנת לספק לך שירותים טובים יותר, מכשירך עשוי להשתמש ברשתות אלחוטיות, ברשתות סלולריות או בהודעת טקסט חינמית כדי לשלוח מעת לעת לספק שלך מידע על גרסת המכשיר שלך, נתוני זיהוי מכשירים (כולל כתובת IMEI/IMSI/MSISDN/MAC, MEID/ICCID), ומידע על מיקום משוער (כולל מזהה תחנת בסיס). הספק מבטיח לנתח מידע מתאים רק לצורך שיפור איכות השירותים או כדי לספק שירותים או טכנולוגיות בהתאמה אישית, ולא יחשוף מידע מתאים לצדדים שלישיים בכל צורה שתזהה אותך באופן אישי. הצהרת הספק המסוים תהיה זו שתכריע. התייעץ עם הספק שלך בנוגע לעלות השימוש בשירות זה.</string>
     <string name="clock_introduction">תוכל להשתמש ביישום כדי לראות מה השעה, וכן להשתמש בטיימר, שעון עולמי, שעון עצר, להגדיר שעונים מעוררים ועוד.</string>
     <string name="close_location_service_setting">תוכל לבחור לכבות את הגישה למיקום בתפריט הגדרות > הגדרות נוספות > פרטיות, או להגביל הרשאות ליישומים בודדים בתפריט אבטחה.</string>
     <string name="cm_terms_content">על מנת לשפר את השירותים המוצעים לך, יתכן וספק הרשת הסלולרית שבחרת יעלה את נתוניך האישיים ופרטי מכשיר זה לשרתים שלו באמצעות הרשת האלחוטית או חיבור רשת הנתונים הסלולרית. מידע זה ישמש למטרת איסוף נתונים סטטיסטיים ולצורך שיפור איכות השירותים ומתן יותר תוכן מותאם אישית בלבד. לא יעשה שימוש במידע זה לזיהויך באופן אישי והוא אינו יועבר לגופי צד שלישי.</string>
@@ -53,6 +52,7 @@
     <string name="disagreement_exit_app">אם אינך מסכים להעניק הרשאות כאלה או לשתף ולהעלות את המידע האישי שלך, לא תוכל להשתמש ביישום זה. במקרים כאלו, תוכל לצאת מהיישום או להיכנס להגדרות כדי להגביל הרשאות.</string>
     <string name="disagreement_function">אם אינך מסכים להעניק הרשאות כאלה או לשתף ולהעלות את המידע האישי שלך, לא תוכל להשתמש בתכונה זו. במקרים כאלו, תוכל לבחור לא להשתמש בתכונה זו.</string>
     <string name="disagreement_location_service">אם אינך מסכים להעניק הרשאות כאלה או לשתף ולהעלות את המידע האישי שלך, לא תוכל להשתמש בשירות זה.</string>
+    <string name="disagreement_terminate_miuidaemon">אם אינך מסכים לספק הרשאות כאלה או להעלות ולחלוק את המידע האישי שלך, לא תוכל להשתמש בשירות הזה. במקרים אלה אתה יכול לבחור שלא להשתמש בשירות הזה או להגביל את ההרשאות דרך ההגדרות. שים לב שאנו נשתמש בהרשאות רק כשתתחיל להעביר מידע מהמכשיר שלך כשהמסך שלו ניזוק.</string>
     <string name="disagreement_terminate_service">אם אינך מסכים להעניק הרשאות כאלה או לשתף ולהעלות את המידע האישי שלך, לא תוכל להשתמש ביישום זה. במקרים כאלו, תוכל להסיר את ההתקנה, לצאת מהיישום או להיכנס להגדרות כדי להגביל הרשאות.</string>
     <string name="download_introduction">מאפיין ההורדות משתמש ב-Xunlei כדי להוריד פריטים למכשירך. ניתן להשתמש בכלי הזה עבור GetApps, עדכוני מערכת, נושאים, סרטונים והורדות דפדפן.</string>
     <string name="enable_accessibility_canceled">הנגישות מבוטלת.</string>
@@ -133,7 +133,7 @@
     <string name="other_settings_user_experience">תכנית חווית המשתמש</string>
     <string name="other_settings_user_experience_summary">עזור לנו לשפר את המוצרים והשירותים שלנו על ידי שיתוף סטטיסטיקות השימוש שלך איתנו. הצג פרטים</string>
     <string name="other_settings_user_experience_summary_index">הצג פרטים</string>
-    <string name="permission_MIUIDaemon_introduction">MIUI Daemon allows you to transfer data from your device when its screen is damaged.</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon מאפשר לך להעביר מידע מהמכשיר שלך כשהמסך שלו ניזוק.</string>
     <string name="permission_account">לגשת לחשבונות במכשירך:</string>
     <string name="permission_account_introduction">להיכנס באמצעות חשבון Mi</string>
     <string name="permission_application_package_introduction">כדי לגשת לאחסון במטרה לנתח ולסרוק חבילות התקנה</string>
@@ -166,9 +166,9 @@
     <string name="permission_picture_introduction">כדי לשמור, לערוך ולסנכרן תמונות ווידאו</string>
     <string name="permission_read_call_records">לערוך יומן שיחות:</string>
     <string name="permission_read_call_records_introduction">כדי להוסיף פריטים ליומן השיחות ולמחוק שיחות שנחסמו</string>
-    <string name="permission_read_contacts">Accessing contacts</string>
+    <string name="permission_read_contacts">גישה לאנשי קשר</string>
     <string name="permission_read_contacts_introduction">For verifying your identity</string>
-    <string name="permission_read_message">Accessing text messages</string>
+    <string name="permission_read_message">גישה להודעות טקסט</string>
     <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">כדי לגשת לפתקים ולקבצים מצורפים</string>
     <string name="permission_read_write_file">לגשת ולשמור קבצים ותמונות במכשירך:</string>
@@ -197,6 +197,7 @@
     <string name="provision_skip_underline">דלג</string>
     <string name="recorder_introduction">תוכל להשתמש ביישום כדי להקליט שמע ולגבות הקלטות לענן.</string>
     <string name="require_authority_statement">כדי לאפשר לנו לספק לך שירותים בסיסיים, עליך להעניק את ההרשאות הבאות על מנת שנוכל לאסוף את המידע האישי שלך:</string>
+    <string name="require_miuidaemon_authority_statement">על מנת לאפשר לנו לספק לך את השירות הזה, עליך להעניק לנו את ההרשאות הבאות כדי שנוכל לאסוף את הפרטים האישיים שלך:</string>
     <string name="require_network_authority_statement">כדי לאפשר לנו לספק לך שירותים בסיסיים, עליך להתחבר לאינטרנט ולהעניק את ההרשאות הבאות על מנת שנוכל לאסוף את המידע האישי שלך:</string>
     <string name="screen_recording_introduction">יישום זה מאפשר להקליט את מה שקורה על המסך שלך.</string>
     <string name="security_introduction">ניתן להשתמש באפליקציה זו כדי לנקות קובצי זבל, לאתר ולנטרל וירוסים, למטב את ביצועי המכשיר עבור משחקים, להאריך את חיי הסוללה, לנהל אפליקציות, הרשאות ועוד.</string>
@@ -278,7 +279,7 @@
     <string name="title_fingerprint">הגדרת סיסמה</string>
     <string name="title_set_fingerprint">נעילת מסך</string>
     <string name="user_agreement">הסכם המשתמש</string>
-    <string name="user_agreement_declare">לפני שימוש ב-MIUI עליך לקרוא את הסכם המשתמש ואת מדיניות הפרטיות שלנו ולהסכים אתם. בזמן הפעלת המכשיר שלך שירות הפעלת Mi סים, Xiaomi Cloud והשירותים אתר את המכשיר, מסך הבית, ביטויים שכיחים, שירות התרגום, MIUI Daemon, תצוגת HTML, MIUI SDK, עוזר AI (בינה-מלאכותית), סוללה וביצועים, חיישן חשמל, Joyose, הגדרות בינה מלאכותית של מערכת ההפעלה, מנהל ההרשאות ושירות העדכונים יתחברו לאינטרנט. השירותים החכמים יתחברו לאינטרנט ויקבלו גישה למיקום שלך.</string>
+    <string name="user_agreement_declare">לפני השימוש ב-MIUI, עליך לקרוא ולאשר את הסכם המשתמש שלנו ואת מדיניות הפרטיות. בזמן שהמכשיר שלך מופעל, האפליקציות הבאות יתחברו לרשת: Mi SIM Activation Service, Xiaomi Cloud, שירות גיבוי, איתור מכשיר, מסך הבית, ביטויים שכיחים, שירות התחברות לאינטרנט של Xiaomi, שירותי תרגום, MIUI Daemon, תצוגת HTML, MIUI SDK, Secure Element Application, AI Assistant, סוללה וביצועים, מאתר כוח, Joyose, הגדרות OS AI ויישום מעדכן. כרטיסים חכמים, מנהל ההרשאות ושירותים חכמים יתחברו לרשת ויקבלו גישה למיקום שלך.</string>
     <string name="voice_assist_advice">MI AI מאפשר לך להשתמש בפקודות קוליות, אבל שימוש באפשרות זו תגרור צריכה מוגברת של בטריה (+1% בכל שעה).</string>
     <string name="voice_assist_condition">"תוכל להשתמש ב Mi AI במקרים הבאים:r
 . כאשר המסך פועל. r

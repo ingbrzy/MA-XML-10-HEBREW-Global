@@ -144,14 +144,14 @@
     <string name="er">תיקית היעד</string>
     <string name="es">נבחרו</string>
     <string name="et">קבצים שנבחרו: %1$d | סה\"כ: %2$s</string>
-    <string name="eu">4-16 תוים, אותיות וספרות, מזהה אותיות גדולות</string>
+    <string name="eu">יש חשיבות לאותיות גדולות בשם המשתמש ובסיסמה, והם חייבים להכיל %1$d-%2$d תווים. ניתן לשלב אותיות אנגליות, סמלים מיוחדים ומספרים.</string>
     <string name="ev">היכנס באופן אנונימי</string>
     <string name="ew">שם המשתמש או הסיסמה שגויים</string>
     <string name="ex">לא ניתן היה לפתוח port, בדוק את החיבור שלך לרשת או אפס מספר port.</string>
     <string name="ey">סיסמה</string>
     <string name="ez">מספר Port</string>
     <string name="f0">אבטחה</string>
-    <string name="f1">היכנס</string>
+    <string name="f1">הגדרת שם משתמש וסיסמה</string>
     <string name="f2">שם משתמש</string>
     <string name="f3">קידוד ברירת מחדל של Windows עבור סינית מפושטת</string>
     <string name="f4">GBK</string>

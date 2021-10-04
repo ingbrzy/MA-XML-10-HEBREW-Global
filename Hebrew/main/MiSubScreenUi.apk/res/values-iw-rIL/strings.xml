@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="actionbar_button_up_description">הקודם</string>
+    <string name="add_emergency_contact">הוספת איש/אשת קשר למקרה חירום</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="alarm_close">החלק כלפי מעלה לכיבוי</string>
     <string name="alarm_later">נודניק</string>
     <string name="align_type">יישור</string>
     <string name="am">AM</string>
     <string name="aod_component">תצוגה תמידית</string>
+    <string name="aod_lock_screen_date">EEE dd.MM</string>
+    <string name="aod_lock_screen_date_signature">dd.MM</string>
+    <string name="aod_lock_screen_date_v">"EEE
+dd.MM"</string>
     <string name="aod_show_date_and_time">תאריך ושעה</string>
+    <string name="app_name">תצוגה אחורית</string>
     <string name="apply">החל</string>
     <string name="apply_succeed">הוחל בהצלחה</string>
     <string name="background_icon">רקע</string>
@@ -70,6 +76,7 @@
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
     <string name="gallery_page_name">From Gallery</string>
+    <string name="has_add_contact">נוספו</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="letter_space">ריווח תווים</string>
     <string name="line_space">ריווח שורות</string>
@@ -139,12 +146,13 @@
     <string name="morning">בוקר</string>
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
+    <string name="not_add_contact">לא נוספו</string>
     <string name="notification_new_message">הודעה חדשה</string>
     <string name="page_detail_preview_tip">סובב את הטלפון לתצוגה מקדימה</string>
     <string name="page_detail_publish_time_gallery_label">"נוסף: "</string>
     <string name="page_detail_publish_time_label">"פורסם: "</string>
     <string name="page_detail_version_label">"גרסה: "</string>
-    <string name="page_time_format_string">MM/dd/yyyy</string>
+    <string name="page_time_format_string">dd.MM.yyyy</string>
     <string name="please_input_signature">הזן חתימה</string>
     <string name="pm">PM</string>
     <string name="rapid_charge_mode_tip">טעינה מהירה</string>
@@ -152,17 +160,18 @@
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
     <string name="send">שליחה</string>
-    <string name="small_display_style">נושא התצוגה האחורית</string>
+    <string name="small_display_style">תצוגה אחורית</string>
+    <string name="sps_cancel">יש ללחוץ לחיצה ממושכת ליציאה</string>
     <string name="step_to_image_community">מצא עוד בקהילת Mi</string>
-    <string name="sub_screen_app_name">תצוגה אחורית</string>
+    <string name="subscreen_could_edit_pic">יש לגרור את התמונות כדי לשנות את גודלן וללחוץ לחיצה ממושכת למחיקה</string>
     <string name="subscreen_other">אחר</string>
     <string name="subscreen_other_dialog_cancel">בייטול</string>
-    <string name="subscreen_other_dialog_confirm">אישור</string>
+    <string name="subscreen_other_dialog_confirm">להפעיל</string>
     <string name="subscreen_other_dialog_goto">הוספה</string>
-    <string name="subscreen_other_dialog_message">חיסכון-על בחשמל משבית את המסך הראשי. ניתן יהיה רק לראות את השעה, לקבל שיחות ולהתקשר לאנשי הקשר לשעת חירום באמצעות המסך האחורי. המכשיר שלך יוכל לעבוד במשך עד %d ימים לאחר טעינה אחת כאשר המאפיין של חיסכון-על בחשמל מופעל. להפעיל את המאפיין של חיסכון-על בחשמל עכשיו?</string>
+    <string name="subscreen_other_dialog_message">חיסכון-על בחשמל משבית את המסך הראשי. ניתן יהיה רק לראות את השעה, לקבל שיחות ולהתקשר לאנשי הקשר לשעת חירום שהוגדרו קודם לכן. לפי הבדיקות שלנו, ייתכן כי המכשיר שלך יוכל לעבוד במשך עד %d ימים לאחר טעינה אחת כאשר חיסכון-על בחשמל מופעל. עם זאת, משך הזמן הזה עשוי להיות קצר יותר בגלל גורמים שונים. האם להפעיל את חיסכון-על בחשמל עכשיו?</string>
     <string name="subscreen_other_dialog_title">חיסכון-על בחשמל</string>
     <string name="subscreen_other_next_dialog_message">עליך להוסיף אנשי קשר לרשימת אנשי הקשר לשעת חירום כדי להשתמש במאפיין של חיסכון-על בחשמל. להוסיף כעת?</string>
-    <string name="subscreen_other_wilderness_summary">חיסכון-על בחשמל משבית את המסך הראשי. ניתן יהיה רק לראות את השעה, לקבל שיחות ולהתקשר לאנשי הקשר לשעת חירום באמצעות התצוגה האחורית. המכשיר שלך יוכל לעבוד במשך עד %d ימים לאחר טעינה אחת כאשר המאפיין של חיסכון-על בחשמל מופעל.</string>
+    <string name="subscreen_other_wilderness_summary">חיסכון-על בחשמל משבית את המסך הראשי. ניתן יהיה רק לראות את השעה, לקבל שיחות ולהתקשר לאנשי הקשר לשעת חירום שהוגדרו קודם לכן. לפי הבדיקות שלנו, ייתכן כי המכשיר שלך יוכל לעבוד במשך עד %d ימים לאחר טעינה אחת כאשר חיסכון-על בחשמל מופעל. עם זאת, משך הזמן הזה עשוי להיות קצר יותר בגלל גורמים שונים.</string>
     <string name="subscreen_other_wilderness_title">חיסכון-על בחשמל</string>
     <string name="subscreen_settings_fail">לא ניתן היה להשלים פעולה זו</string>
     <string name="subscreen_settings_mode">כיבוי לאחר</string>
@@ -240,6 +249,9 @@
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>
+    <string name="wilderness_dcalling">מחובר</string>
+    <string name="wilderness_dialing">מחייג</string>
+    <string name="wilderness_is_starting">להפעיל חיסכון-על בחשמל…</string>
     <string name="wireless_change_to_ac_charging">עבור לטעינה באמצעות כבל</string>
     <string name="yesterday">אתמול</string>
 </resources>

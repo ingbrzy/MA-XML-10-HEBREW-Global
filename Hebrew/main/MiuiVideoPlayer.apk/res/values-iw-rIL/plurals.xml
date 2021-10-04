@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">לפני שעה אחת</item>
+        <item quantity="one">לפני שעה אחת</item>
+        <item quantity="two">לפני שעה אחת</item>
+        <item quantity="many">לפני שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">לפני שעה אחת</item>
+        <item quantity="one">לפני שעה אחת</item>
+        <item quantity="two">לפני שעה אחת</item>
+        <item quantity="many">לפני שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">לפני חצי שעה</item>
+        <item quantity="one">לפני חצי שעה</item>
+        <item quantity="two">לפני חצי שעה</item>
+        <item quantity="many">לפני חצי שעה</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">בעוד שעה אחת</item>
+        <item quantity="one">בעוד שעה אחת</item>
+        <item quantity="two">בעוד שעה אחת</item>
+        <item quantity="many">בעוד שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">בעוד חצי שעה</item>
+        <item quantity="one">בעוד חצי שעה</item>
+        <item quantity="two">בעוד חצי שעה</item>
+        <item quantity="many">בעוד חצי שעה</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">באופן מיידי</item>
+        <item quantity="one">באופן מיידי</item>
+        <item quantity="two">באופן מיידי</item>
+        <item quantity="many">באופן מיידי</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">בעוד %d דקות</item>
+        <item quantity="one">בעוד דקה אחת</item>
+        <item quantity="two">בעוד %d דקות</item>
+        <item quantity="many">בעוד %d דקות</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ממש עכשיו</item>
+        <item quantity="one">ממש עכשיו</item>
+        <item quantity="two">ממש עכשיו</item>
+        <item quantity="many">ממש עכשיו</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה אחת</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
+    </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">הצג %d תגובות</item>
         <item quantity="one">הצג תגובה אחת (%d)</item>
@@ -17,6 +71,48 @@
         <item quantity="one">עוקב אחד (%d)</item>
         <item quantity="two">%d עוקבים</item>
         <item quantity="many">%d עוקבים</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">לפני חצי שעה</item>
+        <item quantity="one">לפני חצי שעה</item>
+        <item quantity="two">לפני חצי שעה</item>
+        <item quantity="many">לפני חצי שעה</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">בעוד שעה אחת</item>
+        <item quantity="one">בעוד שעה אחת</item>
+        <item quantity="two">בעוד שעה אחת</item>
+        <item quantity="many">בעוד שעה אחת</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">בעוד חצי שעה</item>
+        <item quantity="one">בעוד חצי שעה</item>
+        <item quantity="two">בעוד חצי שעה</item>
+        <item quantity="many">בעוד חצי שעה</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">באופן מיידי</item>
+        <item quantity="one">באופן מיידי</item>
+        <item quantity="two">באופן מיידי</item>
+        <item quantity="many">באופן מיידי</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">בעוד %d דקות</item>
+        <item quantity="one">בעוד דקה אחת</item>
+        <item quantity="two">בעוד %d דקות</item>
+        <item quantity="many">בעוד %d דקות</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ממש עכשיו</item>
+        <item quantity="one">ממש עכשיו</item>
+        <item quantity="two">ממש עכשיו</item>
+        <item quantity="many">ממש עכשיו</item>
+    </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d תיקיות</item>
+        <item quantity="one">תיקיה %d</item>
+        <item quantity="two">%d תיקיות</item>
+        <item quantity="many">%d תיקיות</item>
     </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">הכתוביות יוצגו בהקדם של %.1f שניות</item>
@@ -48,6 +144,12 @@
         <item quantity="two">%s שניות נותרו</item>
         <item quantity="many">%s שניות נותרו</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d פריטים נבחרו</item>
+        <item quantity="one">פריט %d נבחר</item>
+        <item quantity="two">%d פריטים נבחרו</item>
+        <item quantity="many">%d פריטים נבחרו</item>
+    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">התוכן שלך מכיל פריטים (%1$s) שמפרים את כללי הקהילות שלנו. חשבונך מושעה למשך %2$d ימים עד %3$s.</item>
         <item quantity="one">התוכן שלך מכיל פריטים (%1$s) שמפרים את כללי הקהילות שלנו. חשבונך מושעה למשך יום אחד (%2$d) עד %3$s.</item>
@@ -59,6 +161,12 @@
         <item quantity="one">מאפיין זה יושבת למשך יום %s</item>
         <item quantity="two">מאפיין זה יושבת למשך %s ימים</item>
         <item quantity="many">מאפיין זה יושבת למשך %s ימים</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה אחת</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d סרטונים</item>

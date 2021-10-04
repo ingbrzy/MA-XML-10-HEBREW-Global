@@ -11,7 +11,7 @@
     <string name="afternoon">אחר הצהריים</string>
     <string name="already_in_small_freeform">אפליקציות מסוימות נפתחות בחלונות צפים</string>
     <string name="am">AM</string>
-    <string name="app_name">systemui-controls</string>
+    <string name="app_name">תוסף ממשק משתמש למערכת</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="controls_confirmation_message">Confirm change for %s</string>
     <string name="controls_dialog_confirmation">Controls updated</string>
@@ -62,6 +62,7 @@
     <string name="disabled">לא זמין</string>
     <string name="dnd_popup_close_message">הבנתי</string>
     <string name="dnd_popup_message">"תוכל להפעיל את מצב 'נא לא להפריע' כדי להשתיק שיחות והתראות מבלי לכבות צלילי מדיה."</string>
+    <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="empty" />
     <string name="eras_ad">לספירה</string>
@@ -106,9 +107,20 @@
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="hearing_assist_bluetooth_enable_tips_cancle">ביטול</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">הפעלה</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">תכונות \"אוזניות בתוך האוזן Live (IEM)\" פועלת רק כאשר ה-Bluetooth פועל. האם ברצונך להפעיל את ה-Bluetooth כעת?</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">הפעלת Bluetooth</string>
+    <string name="hearing_assist_transmission_label">אוזניות בתוך האוזן Live (IEM)</string>
+    <string name="hearing_assist_transmission_tips_cancel">ביטול</string>
+    <string name="hearing_assist_transmission_tips_continue">הפעלה</string>
+    <string name="hearing_assist_transmission_tips_summary">אוזניות בתוך האוזן Live (IEM) משדרות את הקלט מהמיקרופון של הטלפון לאוזניות ה-Bluetooth המחוברות. להפעיל כעת?</string>
+    <string name="hearing_assist_transmission_tips_title">אוזניות בתוך האוזן Live (IEM)</string>
+    <string name="kddi_miui_toast_zen_standard_to_off">המצב השקט כובה. שיחות והתראות לא יושתקו.</string>
+    <string name="kddi_miui_toast_zen_to_standard">עבר למצב שקט. מעכשיו שיחות והתראות יושתקו.</string>
     <string name="loading">סטטוס לא ידוע</string>
     <string name="midnight">לילה</string>
-    <string name="miui_dnd_count_down">טיימר DND</string>
+    <string name="miui_dnd_count_down">יש להעביר אצבע להגדרת טיימר</string>
     <string name="miui_dnd_count_down_time">"טיימר DND
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">הגדרות</string>
@@ -123,9 +135,11 @@
     <string name="miui_ringer_total">לא להפריע</string>
     <string name="miui_ringer_total_description">השתקת צלילים והשבתת רטט עבור כל ההתראות, למעט השעון המעורר</string>
     <string name="miui_toast_zen_dnd_to_off">שיחות והתראות לא יושתקו יותר</string>
+    <string name="miui_toast_zen_dnd_to_off_T">ההתראות כבר לא מושתקות</string>
     <string name="miui_toast_zen_standard_to_off">מצב שקט כבוי</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">מצב שקט כבוי עכשיו. הטלפון ישמיע גם צלצולים וגם צלילי התראות ומדיה.</string>
     <string name="miui_toast_zen_to_dnd">שיחות והתראות יושתקו</string>
+    <string name="miui_toast_zen_to_dnd_T">ההתראות יושתקו</string>
     <string name="miui_toast_zen_to_dnd_when_lock">שיחות והתראות יושתקו כאשר המכשיר נעול</string>
     <string name="miui_toast_zen_to_standard">מצב שקט מופעל</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">הטלפון עבר למצב שקט. צלצולים וצלילי התראות ומדיה מושתקים עכשיו.</string>
@@ -202,6 +216,7 @@
     <string name="quick_settings_pcmode_turn_off_description">תצוגת הטלפון שלך תוצג על צג חיצוני. לכבות את מצב המחשב האישי?</string>
     <string name="quick_settings_pcmode_turn_on_description">תצוגת המחשב שלך תוצג על צג חיצוני. להפעיל את מצב המחשב האישי?</string>
     <string name="quick_settings_scanner_label">סורק</string>
+    <string name="quick_settings_uwbsh_label">בקרת קסם של Xiaomi</string>
     <string name="quick_settings_wireless_label">טעינת רשת אלחוטית אחורית</string>
     <string name="reboot_info_auto_boot">התראה מתקרבת: %s</string>
     <string name="reboot_info_shutdown_alarm">כיבוי התראות: %s</string>
@@ -282,6 +297,9 @@
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>
     <string name="wireless_charging_connected_message">לא ניתן להשתמש בטעינה אלחוטית אחורית כאשר המכשיר נטען בצורה אלחוטית.</string>
+    <string name="wireless_charging_fg_control_cancel">ביטול</string>
+    <string name="wireless_charging_fg_control_messgae">טעינה אלחוטית הפוכה הושבתה כי אחוז הסוללה שנותר הוא פחות מ- %d%%. ניתן לשנות את ההגדרות כדי לאפשר שימוש ממושך יותר בטעינה אלחוטית הפוכה.</string>
+    <string name="wireless_charging_fg_control_ok">התאמה</string>
     <string name="wireless_charging_low_battery_level_message">לא ניתן להשתמש בטעינה אלחוטית אחורית כאשר רמת הסלולה מתחת ל-%d%%.</string>
     <string name="wireless_charging_ok">הבנתי</string>
     <string name="wireless_charging_saver_cancel">כבה</string>

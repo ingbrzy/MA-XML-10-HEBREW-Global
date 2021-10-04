@@ -254,6 +254,12 @@
         <item quantity="two">חפש בין %d יישומים</item>
         <item quantity="many">חפש בין %d יישומים</item>
     </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d סיכונים לפרטיות</item>
+        <item quantity="one">סיכון %d לפרטיות</item>
+        <item quantity="two">%d סיכונים לפרטיות</item>
+        <item quantity="many">%d סיכונים לפרטיות</item>
+    </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d בעיות שדורשות מיטוב</item>
         <item quantity="one">בעיה %1$d שדורשת מיטוב</item>
@@ -337,6 +343,12 @@
         <item quantity="one">"בוצע צ'ק אין פעם %d"</item>
         <item quantity="two">"בוצע צ'ק אין %d ימים ברצף"</item>
         <item quantity="many">"בוצע צ'ק אין %d ימים ברצף"</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">"הבנתי (%dש')"</item>
+        <item quantity="one">"הבנתי (ש'%d)"</item>
+        <item quantity="two">"הבנתי (%dש')"</item>
+        <item quantity="many">"הבנתי (%dש')"</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"נסה את \"משנה הקול\" עכשיו

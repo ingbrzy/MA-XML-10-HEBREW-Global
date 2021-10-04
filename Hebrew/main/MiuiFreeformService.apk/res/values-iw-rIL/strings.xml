@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">חופש</string>
+    <string name="app_name">חלונות צפים</string>
+    <string name="bottom_bar_smallwindow_text">שחרר כדי להצמיד</string>
     <string name="contentDescription">להזיז את החלון</string>
     <string name="freeform_demo_back">הקודם</string>
     <string name="freeform_demo_final_over">בוצע</string>
@@ -9,6 +10,10 @@
     <string name="freeform_demo_go_on">הבא</string>
     <string name="freeform_demo_title_finish">יפה!</string>
     <string name="freeform_demo_title_skip">דלג</string>
+    <string name="freeform_slide_to_small_freeform">מזער חלון צף</string>
+    <string name="freeform_slide_to_small_freeform_summary">לחץ והחזק את רצועת הפעולות וגרור לפינה</string>
+    <string name="fullscreen_slide_to_small_freeform">מזעור יישום</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">יש להחליק אצבע מתחתית המסך לפינה הימנית העליונה.</string>
     <string name="how_to_close_or_fullscreen_freeform">סוגר חלונות צפים או עובר למצב מסך מלא</string>
     <string name="how_to_drop_down_to_fullscreen">עבור למצב מסך מלא</string>
     <string name="how_to_drop_down_to_fullscreen_summary">לחץ לחיצה ארוכה ואז משוך כלפי מטה את סרגל הפעולה של חלון צף</string>

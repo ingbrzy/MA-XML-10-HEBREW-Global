@@ -52,6 +52,7 @@
     <string name="accessibility_document_blackwhite_button">סורק מסמכים. שחור-לבן.</string>
     <string name="accessibility_document_origin_button">סורק מסמכים. מקורי.</string>
     <string name="accessibility_document_strengthen_button">סורק מסמכים. משופר.</string>
+    <string name="accessibility_double_click_to_exit">הקשה כפולה ליציאה</string>
     <string name="accessibility_dual_preview_change">צפה בשינויים</string>
     <string name="accessibility_dual_preview_change_finish">צפה בשינויים בהצלחה</string>
     <string name="accessibility_dual_video_merged">סרטון משולב</string>
@@ -91,6 +92,7 @@
     <string name="accessibility_live_preview_button">צפה בפריט הקודם</string>
     <string name="accessibility_live_reverse_button">מחק את הקליפ הקודם</string>
     <string name="accessibility_live_speed_panel_on">פאנל מהירות</string>
+    <string name="accessibility_lock_focus_success">נעילת מיקוד בוצעה בהצלחה</string>
     <string name="accessibility_manually_custom_panel_on">פאנל התאמה</string>
     <string name="accessibility_mimoji_background_panel_on">פאנל רקעים</string>
     <string name="accessibility_mimoji_gif_off">מצב GIF כבוי</string>
@@ -101,6 +103,7 @@
     <string name="accessibility_mimovie_on">שימוש בחלונית צילום סרטים</string>
     <string name="accessibility_module_picker_finish">הוחלף ל- %s</string>
     <string name="accessibility_more">עוד</string>
+    <string name="accessibility_multi_cam_reselect_button">בחירת מצלמות מחדש</string>
     <string name="accessibility_open">פועל</string>
     <string name="accessibility_pano_moving_left">הזז את המכשיר שמאלה</string>
     <string name="accessibility_pano_moving_right">הזז את המכשיר ימינה</string>
@@ -119,11 +122,14 @@
     <string name="accessibility_preview_selected">נבחרה</string>
     <string name="accessibility_preview_shrink">הקטן</string>
     <string name="accessibility_preview_zoom_tip">תצוגה מקדימה בזום של %1$.1fX</string>
+    <string name="accessibility_pro_parameters_panel_on">פתיחת התפריט עם פרמטרים של גרסת PRO</string>
     <string name="accessibility_pro_video_simple_mode">מצב קל</string>
     <string name="accessibility_protrait">דיוקן</string>
     <string name="accessibility_pull_down_to_open_camera">החלק מטה בכדי לפתוח את המצלמה</string>
     <string name="accessibility_record_button">כפתור הקלטה</string>
     <string name="accessibility_reduce">הקטן</string>
+    <string name="accessibility_reference_line_image_off">לא מציג את קווי הרשת</string>
+    <string name="accessibility_reference_line_image_on">מציג את קווי הרשת</string>
     <string name="accessibility_reference_line_text">פתח את הלוח עם אפשרויות קו התייחסות</string>
     <string name="accessibility_review_thumbnail">תמונה חדשה ביותר</string>
     <string name="accessibility_select_all">בחר הכל</string>
@@ -152,6 +158,8 @@
     <string name="accessibility_timer_burst_image_off">צילום מתפרץ מתוזמן מכובה</string>
     <string name="accessibility_timer_burst_image_on">צילום מתפרץ מתוזמן מופעל</string>
     <string name="accessibility_timer_burst_text">פאנל שינוי צילום מתפרץ מתוזמן</string>
+    <string name="accessibility_touch_focus_fail">לא ניתן היה למקד</string>
+    <string name="accessibility_touch_focus_success">מיקוד בוצע בהצלחה</string>
     <string name="accessibility_ultra_pixel_photography_off">%sUltra HD כבוי</string>
     <string name="accessibility_ultra_pixel_photography_on">%sUltra HD מופעל</string>
     <string name="accessibility_ultra_wide_off">כבה מצב זווית רחבה מאוד</string>
@@ -485,6 +493,7 @@
     <string name="custom_watermark_words">סימן מים מותאם אישית</string>
     <string name="custom_watermark_words_input_hint">הזן טקסט</string>
     <string name="custom_watermark_words_save_success">נשמר בהצלחה</string>
+    <string name="dd_frn_f_t">קפל את המכשיר שלך כדי להשתמש במצלמה הקדמית</string>
     <string name="dialog_button_accept">קבל</string>
     <string name="dialog_button_back">אחורה</string>
     <string name="dialog_button_cancel">ביטול</string>
@@ -537,11 +546,15 @@
     <string name="dual_video_record_remote">הקלטה משני טלפונים</string>
     <string name="dual_video_record_standalone">מופרד</string>
     <string name="dual_video_user_guide_main_content">כדי ליצור סרטונים ממספר מצלמות (מולטיקאם), בחר שתי מצלמות במכשיר שלך וצלם בו זמנית. ניתן לשמור את ההקלטות בנפרד, או לשלב אותן בתצוגה מפוצלת או בסרטון תמונה בתוך תמונה.</string>
+    <string name="dual_video_user_guide_main_content_new">"סרטונים ממצלמות מרובות מצולמים על-ידי מספר מצלמות בו-זמנית.
+הקלטה משני טלפונים מאפשרת להתחבר למכשיר השני וליצור סרטון ממצלמות מרובות על-ידי בחירה באפשרות \"משולב\"."</string>
     <string name="dual_video_user_guide_main_title">סרטון ממספר מצלמות</string>
     <string name="dual_video_user_guide_merge_content">צלם בשתי מצלמות בו זמנית ושלב את ההקלטות בתצוגה מפוצלת או בתמונה בתוך תמונה.</string>
-    <string name="dual_video_user_guide_remote_content">הקלטה משני טלפונים מאפשרת לשלב הזנות משני מכשירים שונים לסרטון אחד. תוכל להציג תצוגה מקדימה של שתי ההזנות ואת הסרטון הסופי במכשיר זה. שים לב שרק המכשיר הזה יקליט שמע.</string>
+    <string name="dual_video_user_guide_merge_content_new">ניתן לשלב שתי הקלטות בתצוגה מפוצלת או תצוגת תמונה-בתוך-תמונה.</string>
+    <string name="dual_video_user_guide_remote_content">שילוב פידים משני מכשירים שונים לסרטון אחד. תוכל/י לצפות בתצוגה מקדימה של שני הפידים ושל הסרטון הסופי במכשיר זה. לתשומת לבך, רק המכשיר הזה יקליט שמע.</string>
     <string name="dual_video_user_guide_remote_p">טלפון %d</string>
     <string name="dual_video_user_guide_standalone_content">צלם בשתי מצלמות בו זמנית ושמור את שתי ההקלטות כסרטונים נפרדים.</string>
+    <string name="dual_video_user_guide_standalone_content_new">ניתן גם להפריד סרטונים שהוקלטו בו-זמנית ולשמור אותם בתור שני קבצים שונים.</string>
     <string name="edit_blusher">סומק</string>
     <string name="edit_chin">סנטר</string>
     <string name="edit_color_skin">גוון העור</string>
@@ -564,6 +577,7 @@
     <string name="edit_solid">מתאר</string>
     <string name="emoticon">חבילת מדבקות</string>
     <string name="error_fail_to_start_audio_capture">לא ניתן היה להתחיל את הקלטת השמע</string>
+    <string name="esp_tip">תצוגה מקדימה של התצוגה החיצונית</string>
     <string name="eye_light">עין מרצדת</string>
     <string name="eye_light_angel">מלאך</string>
     <string name="eye_light_comic">מנגה יפנית</string>
@@ -706,7 +720,7 @@
     <string name="live_sticker_updating">מעדכן…</string>
     <string name="live_workspace_title">טיוטות</string>
     <string name="live_workspace_title_edit">בחר פריטים למחיקה</string>
-    <string name="location_access_allow">אפשר</string>
+    <string name="location_access_allow">Agree</string>
     <string name="location_permission_des">זכור מיקום עבור תמונות וסרטונים</string>
     <string name="location_permission_not_ask_again">אפשר למצלמה לקבל גישה למיקום שלך מההגדרות.</string>
     <string name="location_permission_not_ask_again_go_to_settings">אשר</string>
@@ -868,6 +882,7 @@
     <string name="module_name_panorama">פנורמי</string>
     <string name="module_name_portrait">דיוקן</string>
     <string name="module_name_professional">מקצועי</string>
+    <string name="module_name_scanner">סורק</string>
     <string name="module_name_square">מרובע</string>
     <string name="module_name_super_moon">ירח-על</string>
     <string name="module_name_video">וידאו</string>
@@ -885,8 +900,8 @@
     <string name="network_access_user_notice_title">התחבר לאינטרנט</string>
     <string name="network_connection_failed">לא ניתן היה להתחבר</string>
     <string name="network_connection_ongoing">מתחבר…</string>
-    <string name="network_connection_prerequisites">הפעל את ה-Bluetooth וה-Wifi כדי שתוכל להשתמש בהקלטה משני טלפונים.</string>
-    <string name="network_connection_prerequisites_china">Turn on Bluetooth and WLAN to be able to use Dual phone recording.</string>
+    <string name="network_connection_prerequisites">"עליך להפעיל את בלוטות' ואת Wi-Fi במרכז הבקרה כדי להשתמש בהקלטה משני טלפונים."</string>
+    <string name="network_connection_prerequisites_china">Turn on Bluetooth and WLAN in Control center to be able to use Dual phone recording.</string>
     <string name="network_connection_rejected">נדחה</string>
     <string name="network_connection_timed_out">תם הזמן שהוקצב להתחברות</string>
     <string name="no_storage">הכנס כרטיס זכרון לפני הפעלת המצלמה</string>
@@ -1022,6 +1037,7 @@
     <string name="pref_camera_auxiliary_close">כבוי</string>
     <string name="pref_camera_auxiliary_exposure_feedback">אימות חשיפה</string>
     <string name="pref_camera_auxiliary_focus_peak">סימון אזור מיקוד</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
@@ -1054,11 +1070,12 @@
     <string name="pref_camera_delay_capture_entry_audio">שמע</string>
     <string name="pref_camera_delay_capture_title">טיימר</string>
     <string name="pref_camera_device_watermark_title">סימן המים של המכשיר</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">בתנאי תאורה חלשים קצב הפריימים יופחת אוטומטית כדי לשפר את איכות הסרטון</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">בתנאי תאורה חלשים או בטמפרטורה גבוהה, קצב הפריימים יופחת אוטומטית כדי לשפר את איכות הסרטון</string>
     <string name="pref_camera_dynamic_frame_rate_title">התאימו את קצב הפריימים לתאורה חלשה</string>
     <string name="pref_camera_eis_entry_normal">ייצוב וידאו</string>
     <string name="pref_camera_eis_entry_off">כבוי</string>
     <string name="pref_camera_eis_entry_pro">מייצב וידאו PRO</string>
+    <string name="pref_camera_esp">תצוגה מקדימה של תצוגה אחורית</string>
     <string name="pref_camera_face_info_watermark_title">הוספת חותמת גיל על תמונות</string>
     <string name="pref_camera_fastmotion_duration">משך</string>
     <string name="pref_camera_fastmotion_duration_description">כברירת המחדל, משך הצילום אינו מוגבל. אפשר גם להגדיר טיימר שיעצור את הצילום ברגע נתון.</string>
@@ -1208,6 +1225,8 @@
     <string name="pref_camera_tip_id_card">סורק תעודת זהות</string>
     <string name="pref_camera_touchafaec_entry_off">כבוי</string>
     <string name="pref_camera_touchafaec_entry_on">מופעל</string>
+    <string name="pref_camera_track_focus_preferred_description">הפעל כדי שהמצלמה תמשיך להתמקד באופן אוטומטי על אנשים ובעלי חיים. תוכל גם לבחור עצמים למעקב ידני.</string>
+    <string name="pref_camera_track_focus_preferred_title">מעקב מיקוד</string>
     <string name="pref_camera_ubifocus_title">מיקוד מחדש</string>
     <string name="pref_camera_ultra_wide_ldc_description">תקן עיוותים באובייקטים באופן אוטומטי</string>
     <string name="pref_camera_ultra_wide_ldc_title">תקן הפרעות בתמונה במצב זווית רחבה מאוד</string>
@@ -1371,11 +1390,15 @@
     <string name="prek_b_j_o">שחזר אפקט סטריאו סראונד</string>
     <string name="prek_b_j_p">הפחת את השפעת הרוח על הקלטת הקול</string>
     <string name="prep_video_ai_audio_new_desc_tip">הצלילים שמקורם מהנושא הנמצא בפוקוס מוגברים</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">במצב תצוגה לרוחב המערכת תגביר צלילים שמקורם בעצם שבמוקד</string>
     <string name="prep_video_ai_audio_single_desc_tip">הצלילים שמקורם מאחורי המסך מסוננים</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">במצב תצוגה לרוחב מבוצע סינון של צלילים שמקורם מאחורי המסך</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">אודיו זום לא עובד עם אוזנייה הנמצאת בתוך האוזן ומיקרופון חיצוני</string>
     <string name="preparing_sd">בודק כרטיס זכרון…</string>
     <string name="preview_back_pressed_hint">הקש שוב כדי לחזור לתצוגה מקדימה</string>
     <string name="pro_color_mode">Pro Color</string>
+    <string name="process_tips_1">אל תקפל את המכשיר עד שהסרטון יישמר</string>
+    <string name="process_tips_2">אל תפתח את קיפול את המכשיר עד שהסרטון יישמר</string>
     <string name="professional_shortcut_short">מקצועי</string>
     <string name="recommend_macro_mode">נסה את מצב צילום מאקרו</string>
     <string name="recommend_portrait">נסה את מצב דיוקן</string>
@@ -1400,6 +1423,9 @@
     <string name="reset_manual_picture_style_toast">הפרמטרים אופסו בהצלחה</string>
     <string name="reset_manually_parameter_confirmed">אישור</string>
     <string name="reset_manually_parameter_hint">איפוס</string>
+    <string name="scan_install_prompt_header">התקן את הסורק</string>
+    <string name="scan_install_prompt_loading">מתקין את הסורק…</string>
+    <string name="scan_install_prompt_message">התקן את הסורק ונסה שוב.</string>
     <string name="screen_on_proximity_sensor_hint">"על מנת לכבות תכונה זו, הקש על לחצני 'הגברת עוצמת השמע' ו'חזרה' בו זמנית."</string>
     <string name="screen_on_proximity_sensor_summary">הימנע מכיסוי אזור פליטת השמע</string>
     <string name="search_settings">הגדרות מצלמה;איכות;איכות תמונה;מיקום תמונה;מיקום תמונה;זיהוי פנים;צליל מצלמה</string>
@@ -1463,6 +1489,7 @@
     <string name="super_moon_under">אור ירח</string>
     <string name="super_moon_window">חלון</string>
     <string name="super_night_hint">ממטב את התמונה…שמור על יציבות המכשיר שלך.</string>
+    <string name="super_night_owl_toast">שמור על הטלפון שלך יציב</string>
     <string name="super_night_se_tip">מצב לילה</string>
     <string name="super_night_toast">החזק את מכשיר הטלפון יציב כאשר אתה מצלם</string>
     <string name="tap_to_exposure">לחץ להתאמת החשיפה באופן ידני</string>
@@ -1498,9 +1525,11 @@
     <string name="ubifocus_capture_warning_message">לתוצאות מירביות, על התמונה להכיל עצמים קרובים (פחות ממטר מעדשת המצלמה) ורחוקים כאחד</string>
     <string name="ultra_ai_pixel_photography_close_tip">AI %sUltra HD כבוי</string>
     <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
+    <string name="ultra_pixel_100mp">100MP</string>
     <string name="ultra_pixel_108mp">108MP</string>
     <string name="ultra_pixel_32mp">32MP</string>
     <string name="ultra_pixel_48mp">48MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
     <string name="ultra_pixel_64mp">64MP</string>
     <string name="ultra_pixel_photography_close_tip">%sUltra HD כבוי</string>
     <string name="ultra_pixel_photography_open_tip">%sUltra HD מופעל</string>

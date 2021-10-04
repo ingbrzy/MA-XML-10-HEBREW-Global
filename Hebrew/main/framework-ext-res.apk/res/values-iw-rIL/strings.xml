@@ -163,6 +163,7 @@
     <string name="open_close_tip_content">לסגירת החלון הצף לחץ לחיצה ממושכת על סרגל הפעולות ולאחר מכן העבר אצבע כלפי מעלה</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">מקלדות אחרות</string>
     <string name="package_delete_confirm_step_1">להסיר את התקנת %s?</string>
     <string name="package_delete_confirm_step_2">הסרת התקנת יישום זה עשויה לגרום למערכת שלך להפוך לבלתי יציבה.</string>
     <string name="package_delete_confirm_step_3">לא תוכל לפתוח יישום זה לאחר הסרת התקנתו.</string>

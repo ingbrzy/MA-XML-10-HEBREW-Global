@@ -114,6 +114,18 @@
         <item quantity="two">%d תיקיות</item>
         <item quantity="many">%d תיקיות</item>
     </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d עונות</item>
+        <item quantity="one">עונה %d</item>
+        <item quantity="two">%d עונות</item>
+        <item quantity="many">%d עונות</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">הכתוביות יוצגו בהקדם של %.1f שניות</item>
         <item quantity="one">הכתוביות יוצגו בהקדם של שניה %.1f</item>

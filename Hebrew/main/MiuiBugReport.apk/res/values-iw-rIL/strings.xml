@@ -58,30 +58,31 @@
     <string name="bugreport_tool_log_dumping_title">יוצר דו\"ח שגיאה</string>
     <string name="catch_full_log_action_cancel">ביטול</string>
     <string name="catch_full_log_action_complete">סיים והעלה</string>
-    <string name="catch_full_log_action_start">צור יומן</string>
+    <string name="catch_full_log_action_start">התחלה</string>
     <string name="catch_full_log_add_original_photo">הוסף תמונה מקורית או סרטון קצר</string>
     <string name="catch_full_log_add_photo">הוסף תמונה</string>
     <string name="catch_full_log_add_photo_dialog_content">אם הבעיה עליה דיווחת קשורה לאיכות התמונה של המצלמה, שלח צילום מקורי לדוגמה, על מנת שנוכל לאתר את הבעיה. האם להוסיף תמונה כעת?</string>
+    <string name="catch_full_log_category">סוגי יומנים</string>
     <string name="catch_full_log_dialog_confirm_text">"מעבר ל'מסך הבית'"</string>
-    <string name="catch_full_log_dialog_content">MIUI יוצר יומן. פעולה זו עלולה לפגום בביצועי המכשיר. אם אינך יכול ליצור את התקלה עליה אתה מעוניין לדווח, חזור חזרה ליומנים ולחץ על \"ביטול\".</string>
+    <string name="catch_full_log_dialog_content">ייתכן שזה ישפיע על ביצועי המכשיר שלך. אם לא הצלחת לשחזר את הבעיה שעליה ברצונך לדווח, עליך לחזור ליומנים ולהקיש על \"ביטול\".</string>
+    <string name="catch_full_log_dialog_title">מייצר יומנים…</string>
     <string name="catch_full_log_dump_hprof_failed">לא ניתן היה ליצור יומן Lagging</string>
     <string name="catch_full_log_item_content_catch_direct">"1. לחץ על צור יומן.
 2. חזור חזרה לתכונה עליה ברצונך לדווח ושחזר אותה.
 3. חזור חזרה לעמוד זה ולחץ \"סיים והעלה\"."</string>
-    <string name="catch_full_log_item_content_need_open">"1. לחץ על צור יומן.
-2.
- חזור חזרה לתכונה עליה ברצונך לדווח ושחזר אותה.
-3.
- חזור חזרה לעמוד זה ולחץ \"סיים והעלה\"."</string>
-    <string name="catch_full_log_item_content_title">צעדים</string>
-    <string name="catch_full_log_item_title_audio">שמע, מקליט קול ושיחה קולית</string>
+    <string name="catch_full_log_item_content_catching">מייצר יומנים…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. נא להקיש על \"התחלה\" כדי להתחיל לייצר יומנים.
+%2$d. עליך לשחזר את הבעיה שבה נתקלת.
+%3$d. לאחר מכן יש לחזור לדף זה ולהקיש על \"לסיים ולהעלות\"."</string>
+    <string name="catch_full_log_item_content_title">איך לייצר יומנים</string>
+    <string name="catch_full_log_item_title_audio">שמע, צליל בשיחות והקלטת שמע</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Lagging</string>
     <string name="catch_full_log_item_title_gps">שירותי מיקום</string>
     <string name="catch_full_log_item_title_sensor">חיישנים</string>
     <string name="catch_full_log_item_title_signal">טלפון, קליטה ומפעילים סלולריים</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi ו ShareMe</string>
-    <string name="catch_full_log_item_title_wifi_china">WLAN and ShareMe</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
+    <string name="catch_full_log_item_title_wifi_china">WLAN</string>
     <string name="catch_full_log_notification_content">לחץ בכדי לחזור חזרה ליומנים</string>
     <string name="catch_full_log_notification_title">יוצר יומן…</string>
     <string name="catch_full_log_privacy_content_audio">"היומנים שנוצרו על ידך נשמרים על גבי מכשירך. יומני הרישום עשויים להכיל מידע עבור שימוש בהתקן השמע שלך (כולל היסטוריית השמעה והיסטוריית הקלטות, שהועברו וכו '). היזהר ואל תחשוף יומנים אלו בפני אנשים אחרים. על ידי הקשה על \"מסכים\" להלן, אתה מסכים כי נאסוף את הנתונים הנ\"ל תוך יצירת יומני רישום, והעלאתם אל השרתים שלנו בכדי לאתר ולפתור את הבעיות עליהן דיווחת."</string>

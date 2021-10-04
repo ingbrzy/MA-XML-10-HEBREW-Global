@@ -105,6 +105,10 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>חיפוש</item>
+        <item>חדשות</item>
+    </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>מחיקה</item>
         <item>לא תודה</item>

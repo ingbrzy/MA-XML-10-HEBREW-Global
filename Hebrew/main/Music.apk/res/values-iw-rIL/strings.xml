@@ -24,7 +24,7 @@
     <string name="action_item_download">הורדה</string>
     <string name="action_item_favorite">הוספה למועדפים</string>
     <string name="action_item_hide">הסתרה</string>
-    <string name="action_item_hifi">אוזניות &amp; אפקטי שמע</string>
+    <string name="action_item_hifi">אוזניות</string>
     <string name="action_item_play_all">ערבוב הכל</string>
     <string name="action_item_play_next">נגן מאוחר יותר</string>
     <string name="action_item_play_video">נגן קליפ לשיר</string>
@@ -36,6 +36,7 @@
     <string name="ad_data_exception">שגיאת נתוני פרסומת</string>
     <string name="ad_recommend">הצג פרסומות</string>
     <string name="ad_setting">Additional settings</string>
+    <string name="add">הוספה</string>
     <string name="add_music">הוסף שירים</string>
     <string name="add_to_last_of_playlist">הוסף לסוף רשימת ההשמעה</string>
     <string name="add_to_playlist">הוסף לתור</string>
@@ -160,6 +161,7 @@
     <string name="dialog_cannot_resume">ההורדה הופרעה. לא ניתן להמשיכה.</string>
     <string name="dialog_clear_history">לנקות את רשימת השירים שהושמעו לאחרונה?</string>
     <string name="dialog_confirm_delete_checkbox_message">מחק גם קבצים מקומיים</string>
+    <string name="dialog_continue">אישור</string>
     <string name="dialog_failed_body">לנסות להוריד מאוחר יותר, או להסיר את הקובץ מהרשימה להורדה?</string>
     <string name="dialog_file_already_exists">לא ניתן להוריד. קובץ זה קיים כבר.</string>
     <string name="dialog_file_missing_body">לא ניתן היה למצוא את הקובץ שירד.</string>
@@ -195,6 +197,7 @@
     <string name="dialog_song_view_type_artist">לפי אמן</string>
     <string name="dialog_song_view_type_folder">לפי תיקיה</string>
     <string name="dialog_song_view_type_song">לפי שיר</string>
+    <string name="dialog_stop_audio_in">טיימר להשמעה</string>
     <string name="dialog_subtitle_make_playlist_public">רשימות השמעה ציבוריות זמינות לאנשים אחרים. רשימות השמעה פרטיות גלויות רק לך בכל המכשירים המסונכרנים.</string>
     <string name="dialog_title_clearlist_tracks">הסרה מהתור</string>
     <string name="dialog_title_delete_tracks">מחיקה</string>
@@ -241,7 +244,9 @@
     <string name="download_method">הורדה</string>
     <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
     <string name="download_paused_in_power_save_mode">"ההורדות מופסקות בעת שימוש במצב 'חסכון בסוללה'"</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">מוריד…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">איכות הורדה</string>
     <string name="download_quality_summary">הגדרות נוספות עבור הורדות שירים</string>
     <string name="download_queued">בתור</string>
@@ -516,6 +521,7 @@
     <string name="mulit_choice_management">נהל מספר פריטים</string>
     <string name="music_browser_label">מוסיקה</string>
     <string name="music_filter">סנן קבצי שמע</string>
+    <string name="music_quality">איכות שמע</string>
     <string name="music_recommendation">המלצות שירים</string>
     <string name="music_service">שירות מוסיקה</string>
     <string name="music_settings">מוסיקה</string>
@@ -546,6 +552,7 @@
     <string name="no_local_songs_selected">לא ניתן לשלוח שירים שלא הורדו</string>
     <string name="no_local_source_find">לא ניתן היה למצוא את השיר</string>
     <string name="no_longer_prompt">אל תציג שוב</string>
+    <string name="no_lyrics">אין מילים לשיר</string>
     <string name="no_results_return">אין תוצאות חיפוש</string>
     <string name="no_scanned_songs">ריק</string>
     <string name="no_song_downloaded">לא ניתן היה למצוא שירים להורדה</string>
@@ -663,12 +670,14 @@
     <string name="privacy_authorize_revoking">שולל הרשאה…</string>
     <string name="privacy_desc">מדיניות פרטיות</string>
     <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=iw_IL</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music צריך לאסוף מידע האישי הדרוש כדי לספק לך שירותי סטרימינג (הזרמה) מקוונים. מידע לגבי האופן בו אנו מטפלים במידע שאנו אוספים מופיע ב&lt;a href=\"%1$s\">מדיניות הפרטיות &lt;/a> שלנו. תוכל לבטל את הסכמתך למדיניות הפרטיות של Mi Music בכל עת בהגדרות.
 קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%1$s\">מדיניות פרטיות&lt;/a> שלנו לפני השימוש ב-Mi Music.
 אם אינך מסכים להשתמש בשירותים האמורים, לא תוכל להשתמש בתכונות מסוימות של יישום זה; עם זאת, התפקוד הבסיסי שלו עדיין יהיה זמין עבורך.&lt;/Data>"</string>
     <string name="privacy_request_subtitle">"ברוך הבא ל-Mi Music! יישום זה מספק את השירותים הבאים:
 - נגן שמע מקומי
 - שירותי הזרמה מקוונים"</string>
+    <string name="privacy_request_subtitle_offline">ברוך הבא אל Mi מוסיקה! יישום זה הוא נגן לקובצי שמע מקומיים.</string>
     <string name="privacy_request_title">תנאי השימוש</string>
     <string name="pro_member">מנוי PRO</string>
     <string name="project_device">טלפון Mi</string>
@@ -855,6 +864,7 @@
     <string name="toast_download_in_process">ההורדה בתהליך</string>
     <string name="toast_favorite_has_been_added">נוסף לרשימת השמעה בהצלחה</string>
     <string name="toast_follow_success">מעקב הוחל בהצלחה</string>
+    <string name="toast_hungama_vip_song">שיר זה זמין רק למנויי PRO. עליך לרכוש מינוי כדי להוריד את השיר הזה.</string>
     <string name="toast_is_pro">אתה כבר חבר PRO.</string>
     <string name="toast_my_playlist_illegal_name">שם רשימת ההשמעה אינו חוקי. שנה את שם רשימת ההשמעה.</string>
     <string name="toast_my_playlist_set_to_private">רשימת ההשמעה פרטית כעת. אנשים אחרים אינם יכולים לצפות בה.</string>
@@ -895,6 +905,7 @@
     <string name="upload_playlist_to_hungama_title">סנכרן שירים מקוונים עם Hungama כדי לקבל גישה לאותם השירים ממכשירים אחרים כשאתה משתמש בחשבון Mi.</string>
     <string name="upload_playlist_to_hungama_toast">שירים מקוונים יסונכרנו עם Hungama</string>
     <string name="user_agreement">הסכם המשתמש</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=iw_IL</string>
     <string name="user_playlist_plaza">רשימות השמעה</string>
     <string name="user_privacy_dialog_negative_text">ביטול</string>
     <string name="user_privacy_dialog_positive_count_down_text">משיכה (%s)</string>
