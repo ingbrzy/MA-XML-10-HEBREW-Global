@@ -1037,7 +1037,6 @@
     <string name="pref_camera_auxiliary_close">כבוי</string>
     <string name="pref_camera_auxiliary_exposure_feedback">אימות חשיפה</string>
     <string name="pref_camera_auxiliary_focus_peak">סימון אזור מיקוד</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>

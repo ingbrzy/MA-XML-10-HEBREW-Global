@@ -531,7 +531,6 @@ d MMMM"</string>
     <string name="mock_location_app_not_set">לא הוגדר יישום מדמה מיקום</string>
     <string name="mock_location_app_set">יישום מדמה מיקום: %1$s</string>
     <string name="msim_set_sub_not_supported_phone_in_call">לא ניתן להגדיר במהלך שיחה</string>
-    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="no_application">אף אחד</string>
     <string name="notification_control_center">מרכז בקרה והתראות</string>
     <string name="notification_group_collapse_button_text">קיפול</string>
@@ -589,7 +588,6 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">שם המארח של DNS פרטי</string>
     <string name="private_dns_mode_provider_failure">לא ניתן להתחבר</string>
     <string name="private_dns_mode_provider_hostname_hint">הזן את שם המארח של ספק ה-DNS</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">בעיה בהתחברות. כבה את המכשיר והפעל אותו מחדש</string>
     <string name="profile_info_settings_title">נתוני פרופיל</string>
     <string name="qs_control_big_tile_state_closed">כבוי</string>
