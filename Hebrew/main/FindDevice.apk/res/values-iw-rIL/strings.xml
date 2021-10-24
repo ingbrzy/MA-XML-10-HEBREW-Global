@@ -9,6 +9,7 @@
     <string name="captcha">זיהוי תוים</string>
     <string name="change_find_device_status_failed">לא ניתן היה לבטל את הנעילה. %s.</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
+    <string name="close">סגירה</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -17,21 +18,25 @@
     <string name="default_debt_msg_words">"מכשיר זה ננעל עקב איחור בתשלום.
 צור קשר עם סוכן המכירות שלך לקבלת פרטים."</string>
     <string name="default_lock_msg_words">מכשיר זה מקושר לחשבון Mi קיים. מטעמי אבטחה, עליך להזין סיסמה על מנת לאמת את המכשיר.</string>
-    <string name="default_lock_msg_words_with_phone">היי! איבדתי את הטלפון שלי. תוכלו בבקשה ליצור עימי קשר? תודה!</string>
+    <string name="default_lock_msg_words_with_phone">היי! איבדתי את המכשיר שלי. אפשר בבקשה ליצור איתי קשר? תודה!</string>
     <string name="device_locked">מכשיר זה נעול</string>
     <string name="device_lost">מכשיר זה אבד</string>
-    <string name="disable_find_device_error">"לא ניתן להפעיל את 'איתור המכשיר'. %1$s"</string>
+    <string name="disable_find_device_error">לא ניתן היה להשבית את איתור המכשיר. %1$s</string>
     <string name="disable_find_device_success">"'איתור המכשיר' כבוי"</string>
     <string name="doing_extra_login_steps">מאמת כניסה…</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="emergency_call">שיחת חירום</string>
     <string name="empty" />
-    <string name="enable_find_device_error">"לא ניתן להפעיל את 'איתור המכשיר'. %1$s"</string>
+    <string name="enable_find_device_error">לא ניתן היה להפעיל את איתור המכשיר. %1$s</string>
     <string name="enable_find_device_success">"'איתור המכשיר' מופעל"</string>
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
     <string name="evening">לפנות ערב</string>
     <string name="find_device">איתור המכשיר</string>
+    <string name="find_device_capture_done_notification_content">View the photo on i.mi.com</string>
+    <string name="find_device_capture_done_notification_title">Find device took a photo remotely</string>
+    <string name="find_device_capture_notification_content">A request to take a photo remotely with this device was submitted by your account</string>
+    <string name="find_device_capture_notification_title">Find device is about to take a photo</string>
     <string name="find_device_crash">"'איתור המכשיר' נסגר באופן לא צפוי."</string>
     <string name="find_device_error_access_denied">הגישה נדחתה.</string>
     <string name="find_device_error_account_sys_timeout">"לא ניתן היה להתחבר לחשבון Mi. "</string>
@@ -42,14 +47,16 @@
     <string name="find_device_error_server">שגיאת שרת (%s).</string>
     <string name="find_device_error_unknown">שגיאה לא מוכרת (%s).</string>
     <string name="find_device_noise_title">"התרעת 'איתור המכשיר'"</string>
-    <string name="find_device_notice">עבור לכתובת &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> כדי לאתר, לנעול או לשחזר את מכשירך.</string>
+    <string name="find_device_notice">עבור אל &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> כדי לאתר ולנעול את המכשיר שלך, לסמן אותו כאבוד, למחוק נתונים או לצלם מרחוק.</string>
     <string name="find_device_notice_sms_alert_with_common_charge_hint">על מנת לעדכן את מצב ה-SIM ולוודא שכל השירותים פועלים כרגיל, תישלח &lt;font color=#0097FF>&lt;b>הודעת טקסט בתשלום&lt;/b>&lt;/font> אחת לאחר שתחליף את כרטיסי ה-SIM. הספק שלך יחייב אותך עבור הודעה זו.</string>
     <string name="find_device_notice_sms_alert_with_domestic_charge_hint">על מנת לעדכן את מצב ה-SIM ולוודא שכל השירותים פועלים כרגיל, תישלח &lt;font color=#0097FF>&lt;b>הודעת טקסט מקומית בתשלום&lt;/b>&lt;/font> אחת לאחר שתחליף את כרטיסי ה-SIM. הספק שלך יחייב אותך עבור הודעה זו.</string>
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">על מנת לעדכן את מצב ה-SIM ולוודא שכל השירותים פועלים כרגיל, תישלח &lt;font color=#0097FF>&lt;b>הודעת טקסט בינלאומית בתשלום&lt;/b>&lt;/font> אחת לאחר שתחליף את כרטיסי ה-SIM. הספק שלך יחייב אותך עבור הודעה זו.</string>
     <string name="find_device_stop_noise">"לחץ 'אישור' להשתקה"</string>
     <string name="find_device_storage_corrupted">"אחסון 'איתור המכשיר' פגום. מכשירך אינו מאובטח כעת."</string>
-    <string name="find_device_success_title">איתור המכשיר</string>
+    <string name="find_device_success_title">"'איתור המכשיר' מופעל"</string>
     <string name="find_device_telephony_fault">איתור המכשיר: תקלת טלפוניה (%s).</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -65,7 +72,11 @@
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -84,8 +95,18 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
@@ -176,6 +197,7 @@
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
+    <string name="send">שליחה</string>
     <string name="stop_on_empty_captcha">שדה זיהוי התוים לא יכול להיוותר ריק</string>
     <string name="stop_on_empty_password">שדה הסיסמה לא יכול להיוותר ריק</string>
     <string name="sunday">ראשון</string>
@@ -248,7 +270,7 @@
     <string name="unlock_error_passport_sdk_timeout">SDK של חשבון Mi אינו מגיב</string>
     <string name="unlock_error_rpc">שגיאת RPC</string>
     <string name="unlock_error_server">שגיאת שרת</string>
-    <string name="unlock_error_ssl_hand_shake">לא ניתן היה להתחבר אל השרת, נסה לשנות תאריך ושעה באופן ידני.</string>
+    <string name="unlock_error_ssl_hand_shake">לא ניתן היה להתחבר לשרת. עליך לנסות להגדיר את התאריך והשעה באופן ידני.</string>
     <string name="unlock_error_unknown">לא ניתן להיכנס</string>
     <string name="unlock_error_user_name">שם משתמש לא חוקי</string>
     <string name="unlock_error_wrong_vcode">הקוד שהזנת שגוי</string>

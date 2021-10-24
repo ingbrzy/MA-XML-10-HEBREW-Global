@@ -401,6 +401,7 @@
     <string name="note_gesture_guide_step3">לחץ והחזק הערה ואז גרור אותה אל מעל לתיקיה כדי להעביר אותה לשם</string>
     <string name="note_header_first_enter_guide">משוך למטה כדי לראות עוד</string>
     <string name="note_invalid_mindnote_hint">מפות חשיבה אינן זמינות בגרסה זו. עדכן את היישום כדי להשתמש בתכונה זו.</string>
+    <string name="note_item_default_title">פתק ריק</string>
     <string name="note_link_email">צור דוא\"ל</string>
     <string name="note_link_other">פתח באמצעות יישום המפות</string>
     <string name="note_link_select">בחר טקסט</string>
@@ -414,6 +415,7 @@
     <string name="note_sort_way">מיון</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">יישום הפתקים הוא יישום מערכת. לא תוכל להשתמש ביישום זה אחרי הסרתו.</string>
     <string name="notes_description_title">להסיר את יישום הפתקים?</string>
     <string name="notification_content_add_todo_from_other_app">הוספת משימה חדשה. הקש כדי לצפות בה.</string>
@@ -471,6 +473,12 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">החלק באמצעות שני אצבעות על מנת למחוק פתקים ללא אישור</string>
     <string name="pref_desc_todo_float_mode">החלק מהקצה העליון של המסך על מנת לפתוח את ארגז הכלים</string>
     <string name="pref_excerpt_link_float">קבל תזכורת ליצירת קטע לאחר כל העתקה של כתובת URL</string>
+    <string name="pref_permission_allowed">ניתנה</string>
+    <string name="pref_permission_manage">פרטי הרשאות</string>
+    <string name="pref_permission_manage_key_contact">גישה לאנשי הקשר</string>
+    <string name="pref_permission_manage_key_recording">הקלטת שמע</string>
+    <string name="pref_permission_manage_key_storage">גישה לאחסון</string>
+    <string name="pref_permission_not_allowed">לא ניתנה</string>
     <string name="pref_quick_note_desc">השתמש בקיצור בשולי המסך ליצירת פתקים ומשימות וגם לשמירת כתובות URL, טקסט ותמונות שהועתקו ביישום הפתקים.</string>
     <string name="pref_remind_type_summary">השמע צליל תזכורת במצב שקט</string>
     <string name="pref_remind_type_summary_new">התעלם ממצב שקט והמשך להשמיע קול עד לכיבוי השעון המעורר</string>
@@ -781,6 +789,9 @@
     <string name="widget_size_item_2x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x4">%1$d×%2$d</string>
+    <string name="widget_size_item_big">גדול</string>
+    <string name="widget_size_item_medium">בינוני</string>
+    <string name="widget_size_item_small">קטן</string>
     <string name="widget_take_notes_title">פתקים</string>
     <string name="yesterday">אתמול</string>
 </resources>

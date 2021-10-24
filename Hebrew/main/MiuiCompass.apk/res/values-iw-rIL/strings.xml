@@ -3,6 +3,7 @@
     <string name="actionbar_button_up_description">הקודם</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="allow">אפשר</string>
+    <string name="allowed">הוענקה</string>
     <string name="altitude">%.1f</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">גובה</string>
@@ -113,6 +114,7 @@
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="get_location">גישה למיקום</string>
     <string name="gradienter_title">פלס בנאים</string>
     <string name="guide_toast">בכדי לכייל, הזז את המכשיר כפי שמוצג להלן.</string>
     <string name="latitude">קו רוחב (LAT)</string>
@@ -128,6 +130,7 @@
     <string name="location_west">מיקום המערב</string>
     <string name="longitude">קו אורך (LON)</string>
     <string name="midnight">לילה</string>
+    <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
@@ -193,15 +196,23 @@
     <string name="month_september_shortest">"ספט'"</string>
     <string name="more">עוד</string>
     <string name="morning">בוקר</string>
+    <string name="new_cta_v2_app_purpose">הצגת הכיוונים, הקואורדינטות, הלחץ האטמוספרי והגובה הנוכחי</string>
+    <string name="new_permission_camera_desc">לבצע כיול</string>
+    <string name="new_permission_location_desc">להציג קואורדינטות</string>
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
+    <string name="not_allowed">לא הוענקה</string>
+    <string name="open_camera">שימוש במצלמה</string>
     <string name="open_perm_msg">המצפן זקוק להרשאות גישה למידע אודות המיקום שלך ולגישה למצלמה. ההרשאה נחוצה בכדי לקבוע את הקואורדינטות ולהעניק תצוגות מקדימות חיות. האם לאפשר?</string>
     <string name="open_perm_msg_no_camera">המצפן צריך לקבל גישה לנתוני המיקום כדי לקבוע את הקואורדינטות. האם לאפשר זאת?</string>
     <string name="open_perm_title">נדרשות הרשאות</string>
     <string name="permission_camera_desc">להציג אזימוט בתצוגה המקדימה החיה</string>
+    <string name="permission_description">פרטי הרשאות</string>
     <string name="permission_location_desc">להציג קואורדינטות</string>
     <string name="pm">PM</string>
     <string name="preference_other">אחר</string>
+    <string name="preference_privacy_policy">צפה במדיניות הפרטיות</string>
+    <string name="preference_privacy_setting">פרטיות</string>
     <string name="preference_privacy_title">מדיניות הפרטיות</string>
     <string name="pressure">%.1f</string>
     <string name="pressure_title">לחץ</string>

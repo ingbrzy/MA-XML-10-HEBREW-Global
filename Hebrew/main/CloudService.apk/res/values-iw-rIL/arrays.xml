@@ -72,16 +72,16 @@
         <item>נעילת מכשירך מרחוק במקרה של אובדן</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
-        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>סנכרון אנשי הקשר, ההודעות, הפתקים, לוח השנה שלך ועוד</item>
+        <item>"גיבוי יישומים, פריסת 'מסך הבית' והטפט"</item>
         <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>נעילת מכשירך מרחוק במקרה של אובדן</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
-        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>סנכרון אנשי הקשר, ההודעות, הפתקים, לוח השנה שלך ועוד</item>
+        <item>"גיבוי יישומים, פריסת 'מסך הבית' והטפט"</item>
         <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>נעילת מכשירך מרחוק במקרה של אובדן</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_pad">
         <item>סנכרן את התמונות, הפתקים, וההקלטות שלך ועוד</item>

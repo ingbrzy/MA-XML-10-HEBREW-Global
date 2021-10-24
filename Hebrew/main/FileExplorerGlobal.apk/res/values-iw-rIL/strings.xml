@@ -170,7 +170,7 @@
     <string name="folder_name_empty">שם התיקייה אינו יכול להיוותר ריק</string>
     <string name="folder_name_illegal">שם תיקיה לא חוקי</string>
     <string name="found_usb">אחסון USB מחובר</string>
-    <string name="ftp_account_req_notice">4-16 תוים, אותיות וספרות, מזהה אותיות גדולות</string>
+    <string name="ftp_account_req_notice">יש חשיבות לאותיות גדולות בשם המשתמש ובסיסמה, והם חייבים להכיל %1$d-%2$d תווים. ניתן לשלב אותיות אנגליות, סמלים מיוחדים ומספרים.</string>
     <string name="ftp_anonymous_login">היכנס באופן אנונימי</string>
     <string name="ftp_invalid_username_or_password">שם משתמש או סיסמה לא חוקיים.</string>
     <string name="ftp_open_port_error">לא ניתן היה לפתוח את היציאה. בדוק את החיבור שלך לרשת או אפס מספר את היציאה.</string>
@@ -178,7 +178,7 @@
     <string name="ftp_port_number">מספר יציאה</string>
     <string name="ftp_random_port">יציאה אקראית</string>
     <string name="ftp_transfer_secure">אבטחה</string>
-    <string name="ftp_username_and_passworld">היכנס</string>
+    <string name="ftp_username_and_passworld">הגדרת שם משתמש וסיסמה</string>
     <string name="ftp_username_hint">שם משתמש</string>
     <string name="gbk_summary">קידוד ברירת מחדל של Windows עבור סינית מפושטת</string>
     <string name="gigabyteShort">GB</string>
@@ -325,14 +325,6 @@
     <string name="phone_storage_zip_title">קבצי ארכיון:</string>
     <string name="pick_file">בחר קבצים</string>
     <string name="pick_folder">בחר תיקייה</string>
-    <string name="player_tips_brightness">כוון בהירות</string>
-    <string name="player_tips_double_click">הקש פעמיים על המסך</string>
-    <string name="player_tips_landscape">החלק אופקית</string>
-    <string name="player_tips_pause_player">השהה/ השמע מחדש</string>
-    <string name="player_tips_rewind">התאם את התקדמות השמע</string>
-    <string name="player_tips_up_down_left">החלק אנכית מצד שמאל</string>
-    <string name="player_tips_up_down_right">החלק אנכית מצד ימין</string>
-    <string name="player_tips_volume">שנה עוצמת קול</string>
     <string name="port">יציאה</string>
     <string name="port_range">מספר היציאה חייבת להיות בתחום של 1024-65535</string>
     <string name="possible_permissions">הרשאות אופציונליות</string>
@@ -383,8 +375,6 @@
     <string name="rlv_release_to_refresh">שחרר לרענון</string>
     <string name="save_seven_day">נקה פעם בשבוע</string>
     <string name="scan_code_download_from_play">סרוק קוד QR זה על מנת להוריד מחנות Play</string>
-    <string name="screenshot_fail">לא ניתן היה לבצע צילום מסך</string>
-    <string name="screenshot_success">שמור צילום מסך ל- %1$s</string>
     <string name="search_description">חפש בכל הקבצים במכשיר</string>
     <string name="search_empty_view_hint">לא ניתן היה למצוא דבר</string>
     <string name="search_error_hint">חיפוש</string>
@@ -441,8 +431,6 @@
     <string name="terabyteShort">TB</string>
     <string name="terms_conditions">תנאים והתניות</string>
     <string name="terms_conditions_desc">קרא בעיון את ההסכם שלפניך סמן ובחר במידה ואתה מסכים לתנאים וההתניות שלהלן.</string>
-    <string name="time_am">AM</string>
-    <string name="time_pm">PM</string>
     <string name="time_to_upgrade">קיים עדכון זמין</string>
     <string name="tip">שים לב</string>
     <string name="tips_by_forbid_access">התוכן של תיקייה זו לא יהיה נגיש יותר עקב מגבלות המערכת שהחלו ב-Android R. עליך להסיר את הקבצים האישיים שלך מתיקייה זו בהקדם האפשרי.</string>
@@ -472,9 +460,11 @@
     <string name="user_notice_term_of_service">הסכם המשתמש</string>
     <string name="utf8_summary">קידוד ברירת מחדל של מערכת FTP</string>
     <string name="version_name">גירסה</string>
-    <string name="video_replay_btn">נגן שוב</string>
     <string name="view_by_document">צפה ביישום \"קבצים\"</string>
     <string name="wechat_video">וידאו ב-%s</string>
+    <string name="whatsapp_cache_garbage">מטמון</string>
+    <string name="whatsapp_cache_garbage_cleanup">נקה</string>
+    <string name="whatsapp_cache_garbage_tip">ניקוי המטמון לא מוחק שום דבר חשוב. תוכל להשתמש באפליקציה כרגיל לאחר מכן.</string>
     <string name="wifi_state">סטטוס רשת אלחוטית</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yes">כן</string>

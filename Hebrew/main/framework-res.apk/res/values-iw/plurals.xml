@@ -7,10 +7,10 @@
         <item quantity="many">%1$s הצעות של מילוי אוטומטי</item>
     </plurals>
     <plurals name="bugreport_countdown">
-        <item quantity="other">יוצר צילום מסך לדוח על באג בעוד %d שניות.</item>
-        <item quantity="one">יוצר צילום מסך לדוח על באג בעוד שנייה %d.</item>
-        <item quantity="two">יוצר צילום מסך לדוח על באג בעוד %d שניות.</item>
-        <item quantity="many">יוצר צילום מסך לדוח על באג בעוד %d שניות.</item>
+        <item quantity="other">המערכת יוצרת צילום מסך לדוח על באג בעוד %d שניות.</item>
+        <item quantity="one">המערכת יוצרת צילום מסך לדוח על באג בעוד שנייה (%d‏).</item>
+        <item quantity="two">המערכת יוצרת צילום מסך לדוח על באג בעוד %d שניות.</item>
+        <item quantity="many">המערכת יוצרת צילום מסך לדוח על באג בעוד %d שניות.</item>
     </plurals>
     <plurals name="duration_days_relative">
         <item quantity="other">לפני %d ימים</item>
@@ -20,7 +20,7 @@
     </plurals>
     <plurals name="duration_days_relative_future">
         <item quantity="other">בעוד %d ימים</item>
-        <item quantity="one">בעוד %d יום</item>
+        <item quantity="one">בעוד יום אחד (%d)</item>
         <item quantity="two">בעוד %d ימים</item>
         <item quantity="many">בעוד %d ימים</item>
     </plurals>
@@ -44,13 +44,13 @@
     </plurals>
     <plurals name="duration_hours_relative_future">
         <item quantity="other">בעוד %d שעות</item>
-        <item quantity="one">בעוד %d שעה</item>
+        <item quantity="one">בעוד שעה אחת (%d)</item>
         <item quantity="two">בעוד %d שעות</item>
         <item quantity="many">בעוד %d שעות</item>
     </plurals>
     <plurals name="duration_hours_shortest">
         <item quantity="other">%d שעות</item>
-        <item quantity="one">שעה %d</item>
+        <item quantity="one">שעה (%d)‏</item>
         <item quantity="two">%d שעות</item>
         <item quantity="many">%d שעות</item>
     </plurals>
@@ -68,7 +68,7 @@
     </plurals>
     <plurals name="duration_minutes_relative_future">
         <item quantity="other">בעוד %d דקות</item>
-        <item quantity="one">בעוד %d דקה</item>
+        <item quantity="one">בעוד דקה אחת (%d)</item>
         <item quantity="two">בעוד %d דקות</item>
         <item quantity="many">בעוד %d דקות</item>
     </plurals>
@@ -86,7 +86,7 @@
     </plurals>
     <plurals name="duration_years_relative">
         <item quantity="other">לפני %d שנים</item>
-        <item quantity="one">לפני %d שנה</item>
+        <item quantity="one">לפני שנה אחת (%d)</item>
         <item quantity="two">לפני %d שנים</item>
         <item quantity="many">לפני %d שנים</item>
     </plurals>
@@ -98,7 +98,7 @@
     </plurals>
     <plurals name="duration_years_shortest">
         <item quantity="other">%d שנים</item>
-        <item quantity="one">שנה %d</item>
+        <item quantity="one">שנה אחת (%d‏)</item>
         <item quantity="two">%d שנים</item>
         <item quantity="many">%d שנים</item>
     </plurals>
@@ -109,10 +109,10 @@
         <item quantity="many">בעוד %d שנים</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other">%1$s + %2$d קבצים</item>
-        <item quantity="one">%1$s + קובץ אחד (%2$d)</item>
-        <item quantity="two">%1$s + %2$d קבצים</item>
-        <item quantity="many">%1$s + %2$d קבצים</item>
+        <item quantity="other">%1$s ועוד %2$d קבצים</item>
+        <item quantity="one">%1$s ועוד קובץ אחד (%2$d)</item>
+        <item quantity="two">%1$s ועוד %2$d קבצים</item>
+        <item quantity="many">%1$s ועוד %2$d קבצים</item>
     </plurals>
     <plurals name="kg_too_many_failed_attempts_countdown">
         <item quantity="other">אפשר יהיה לנסות שוב בעוד %d שניות.</item>
@@ -122,7 +122,7 @@
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">%d הימים האחרונים</item>
-        <item quantity="one">יום %d אחרון</item>
+        <item quantity="one">היום האחרון (%d)</item>
         <item quantity="two">%d הימים האחרונים</item>
         <item quantity="many">%d הימים האחרונים</item>
     </plurals>
@@ -133,16 +133,16 @@
         <item quantity="many">%1$d מתוך %2$d</item>
     </plurals>
     <plurals name="pinpuk_attempts">
-        <item quantity="other">‏נותרו לך %d ניסיונות לפני נעילת כרטיס ה-SIM.</item>
-        <item quantity="one">‏נותר לך ניסיון %d לפני נעילת כרטיס ה-SIM.</item>
-        <item quantity="two">‏נותרו לך %d ניסיונות לפני נעילת כרטיס ה-SIM.</item>
-        <item quantity="many">‏נותרו לך %d ניסיונות לפני נעילת כרטיס ה-SIM.</item>
+        <item quantity="other">‏נותרו לך %d ניסיונות לפני שכרטיס ה-SIM‏ יינעל.</item>
+        <item quantity="one">‏נותר לך ניסיון אחד (%d) לפני שכרטיס ה-SIM‏ יינעל.</item>
+        <item quantity="two">‏נותרו לך %d ניסיונות לפני שכרטיס ה-SIM‏ יינעל.</item>
+        <item quantity="many">‏נותרו לך %d ניסיונות לפני שכרטיס ה-SIM יינעל‏.</item>
     </plurals>
     <plurals name="restr_pin_countdown">
-        <item quantity="other">נסה שוב בעוד %d שניות</item>
-        <item quantity="one">נסה שוב בעוד שנייה אחת</item>
-        <item quantity="two">נסה שוב בעוד %d שניות</item>
-        <item quantity="many">נסה שוב בעוד %d שניות</item>
+        <item quantity="other">יש לנסות שוב בעוד %d שניות</item>
+        <item quantity="one">יש לנסות שוב בעוד שנייה אחת</item>
+        <item quantity="two">יש לנסות שוב בעוד %d שניות</item>
+        <item quantity="many">יש לנסות שוב בעוד %d שניות</item>
     </plurals>
     <plurals name="selected_count">
         <item quantity="other">בחרת %1$d</item>

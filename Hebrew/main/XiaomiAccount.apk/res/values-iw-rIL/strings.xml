@@ -4,6 +4,7 @@
     <string name="access_token_expired_warning">פג תוקף חשבון Weibo</string>
     <string name="access_token_invalid_warning">חשבון Weibo לא חוקי</string>
     <string name="account">חשבון</string>
+    <string name="account_and_password">סיסמה</string>
     <string name="account_bind_devices">מכשירים</string>
     <string name="account_bind_secure_email_title">הוסף דוא\"ל</string>
     <string name="account_bind_secure_phone_title">הוסף מספר טלפון</string>
@@ -35,7 +36,7 @@
  מזהה החשבון שלך: %s"</string>
     <string name="account_token_expired_title">לא ניתן היה לאמת</string>
     <string name="account_user_avatar">תמונת פרופיל</string>
-    <string name="account_user_avatar_from_album">Select photo</string>
+    <string name="account_user_avatar_from_album">בחר תמונה</string>
     <string name="account_user_avatar_from_camera">צלם תמונה</string>
     <string name="account_user_base_info">פרטים אישיים</string>
     <string name="account_user_birthday">יום הולדת</string>
@@ -48,7 +49,11 @@
     <string name="account_user_name_dialog_title">הזן שם משתמש</string>
     <string name="account_user_other_info">מקורות נוספים</string>
     <string name="account_user_phone">טלפון לשחזור</string>
+    <string name="account_user_phone_show">טלפון: %s</string>
     <string name="account_user_region">אזור</string>
+    <string name="account_verify_guide_bind_mail_desc">הוספת כתובת דוא\"ל לשחזור</string>
+    <string name="account_verify_guide_bind_phone_desc">הוספת טלפון לשחזור</string>
+    <string name="account_verify_guide_set_password_desc">הגדרת סיסמה</string>
     <string name="account_xiaomi_service">שירותים</string>
     <string name="action_add_phone">הוספת מספר טלפון</string>
     <string name="action_retry">נסה שוב</string>
@@ -131,16 +136,17 @@ ID:%s
     <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_login">היכנס באמצעות Facebook</string>
     <string name="failed_dup_secure_phone_number">מספר טלפון זה כבר מקושר אל חשבון Mi אחר</string>
+    <string name="family_share">שיתוף משפחתי</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">איתור מכשיר</string>
     <string name="find_device_access_denied">לא ניתן לקבל סטטוס, הגישה נדחתה</string>
     <string name="find_device_account_error">לא ניתן לקבל סטטוס עקב בעיה בחשבון</string>
     <string name="find_device_activate_account">הפעל חשבון</string>
-    <string name="find_device_bad_response_error">A server error occurred. Wait a minute or two and try again.</string>
+    <string name="find_device_bad_response_error">אירעה שגיאת שרת. נא להמתין דקה או שתיים ולנסות שוב.</string>
     <string name="find_device_clear_data">מחק נתונים</string>
     <string name="find_device_close">כבוי</string>
     <string name="find_device_error_password_not_confirmed">"לא ניתן לכבות את 'איתור המכשיר'. הזן שוב את סיסמת חשבון Mi שלך."</string>
-    <string name="find_device_error_password_recently_changed">"You've changed your password within last %d days. Can't turn off Find device now due to security reasons."</string>
+    <string name="find_device_error_password_recently_changed">שינית את סיסמתך ב-%d הימים האחרונים. לא ניתן להשבית את איתור המכשיר כעת בגלל שיקולי אבטחה.</string>
     <string name="find_device_interrupted">הפעולה הופרעה, המתן דקה או שתיים ונסה שוב</string>
     <string name="find_device_io_error">לא ניתן להתחבר לרשת</string>
     <string name="find_device_location">אתר</string>
@@ -159,7 +165,8 @@ ID:%s
     <string name="find_device_request_prepare_error">לא ניתן לקבל סטטוס, נסה שוב מאוחר יותר</string>
     <string name="find_device_set_lost_model">"מצב 'אבוד'"</string>
     <string name="find_device_title">איתור מכשיר</string>
-    <string name="find_device_unknown_error">"Can't get device status. Wait a minute or two and try again."</string>
+    <string name="find_device_unknown_error">לא ניתן לקבל את סטטוס המכשיר. נא להמתין דקה או שתיים ולנסות שוב.</string>
+    <string name="find_equipment">איתור המכשיר</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -216,6 +223,7 @@ ID:%s
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="get_back_password">איפוס סיסמה</string>
     <string name="get_back_pwd">איפוס סיסמה</string>
     <string name="get_device_list_failed">לא ניתן לקבל רשימת מכשירים</string>
     <string name="get_identity_auth_url_failed">לא ניתן לאמת את המזהה</string>
@@ -249,13 +257,14 @@ ID:%s
     <string name="loading_micloud_sync_data">רק רגע…</string>
     <string name="login_check_find_device">משיג את פרטי אבטחת המכשיר…</string>
     <string name="login_check_find_device_failed_title">לא ניתן היה לבדוק את פרטי אבטחת המכשיר</string>
-    <string name="login_find_device_bind">This device is associated with an existing Mi Account ID (%s).</string>
+    <string name="login_find_device_bind">מכשיר זה מקושר למזהה חשבון Mi קיים (%s).</string>
     <string name="logout_account">צא</string>
     <string name="logout_failed">לא ניתן לצאת</string>
     <string name="mi_account_identity_title">אמת את זהותך.</string>
     <string name="mi_finance">המימון שלי</string>
     <string name="mi_finance_info">בונוסים למשתמשים חדשים</string>
     <string name="mi_health">Xiaomi בריאות</string>
+    <string name="mi_member">קהילת Mi</string>
     <string name="mi_vip_info">הצג פריבילגיות</string>
     <string name="midnight">לילה</string>
     <string name="mipay">תשלום</string>
@@ -266,6 +275,7 @@ ID:%s
     <string name="mipay_indentity_done">אומת</string>
     <string name="mipay_others">אחר</string>
     <string name="mipay_transit_card">כרטיס תחבורה</string>
+    <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
@@ -335,13 +345,17 @@ ID:%s
     <string name="my_device_title">מכשיר נוכחי</string>
     <string name="need_install_wechat">התקן את WeChat תחילה</string>
     <string name="night">ערב</string>
+    <string name="no_install">לא הותקן</string>
     <string name="no_network_btn">רענן</string>
     <string name="no_network_title">לא ניתן להתחבר לרשת.</string>
+    <string name="no_password_set">לא הוגדרה</string>
     <string name="no_phone">אין מספר טלפון</string>
     <string name="no_response_retry">אין תגובה, נסה שוב.</string>
     <string name="no_sim_card_or_unactivated">כרטיס ה-SIM אינו מותקן או מופעל</string>
     <string name="nobind">לא מחובר</string>
     <string name="noon">צהריים</string>
+    <string name="notify_bind_security_phone">הוספת טלפון לשחזור</string>
+    <string name="notify_complete_security_info">הוספת מידע לשחזור</string>
     <string name="notify_network_restricted_content_bg_network">הגישה לרשת של חשבון Mi מוגבלת. לחץ על מנת לאפשרה.</string>
     <string name="notify_network_restricted_content_hidden_state">פעילות הרקע של חשבון Mi מוגבלת. לחץ על מנת לאפשרה.</string>
     <string name="notify_network_restricted_content_mobile_network">הגישה לרשת של חשבון Mi מוגבלת. לחץ על מנת לאפשרה.</string>
@@ -374,6 +388,7 @@ ID:%s
     <string name="passport_activing_account">מפעיל…</string>
     <string name="passport_adding_account">מוסיף חשבון…</string>
     <string name="passport_area_code_hot">בשימוש שכיח</string>
+    <string name="passport_area_code_others">שימוש בתחילית שונה</string>
     <string name="passport_area_code_title">קידומת מדינה</string>
     <string name="passport_auto_generate_pwd">צור סיסמה מאובטחת</string>
     <string name="passport_back">הקודם</string>
@@ -566,6 +581,7 @@ ID:%s
     <string name="passport_title_reg">צור חשבון</string>
     <string name="passport_trust_device">הוסף מכשיר זה לרשימת המכשירים המאומתים</string>
     <string name="passport_trying_read_verify_code_sms">מקבל קוד אימות…</string>
+    <string name="passport_tz_invalid">זוהו סיכוני אבטחה. ייתכן שהמכשיר נפרץ (rooted) או נצרב. נסה אפשרויות התחברות אחרות.</string>
     <string name="passport_uplink_reg">השתמש במספר טלפון</string>
     <string name="passport_uplink_send_sms_hint">לאחר שתועבר לדף עם נוסח הודעה מוכן, הקש על \"שליחה\"</string>
     <string name="passport_uplink_slot1_reg">השתמש ב-SIM 1</string>
@@ -603,6 +619,7 @@ ID:%s
     <string name="permission_group_phone">טלפון</string>
     <string name="permission_group_sms">מסרונים</string>
     <string name="permission_group_storage">אחסון</string>
+    <string name="personal_info_desc">תמונה, כינוי ועוד</string>
     <string name="phone_num_use_for">מספר הטלפון משמש ל:</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות.</string>
     <string name="pm">PM</string>
@@ -647,6 +664,7 @@ ID:%s
     <string name="search_user_detail_path">הגדרות/חשבון Mi/פרטים אישיים</string>
     <string name="search_user_detail_top_key_words">פרטים אישיים,שנה תמונת פרופיל,שנה שם משתמש,שנה כינוי,שנה יום הולדת,שנה מין</string>
     <string name="select_all">בחר הכל</string>
+    <string name="self_account_info">מידע אישי</string>
     <string name="send">שליחה</string>
     <string name="send_diagnosis_log">שלח יומן דיאגנוזתי</string>
     <string name="send_email_activate_message">דוא\"ל אימות נשלח</string>
@@ -714,6 +732,7 @@ ID:%s
     <string name="the_united_nations_day">יום האומות המאוחדות</string>
     <string name="the_valentines_day">יום האהבה (ולנטיין)</string>
     <string name="the_water_lantern_festival">פסטיבל פנסי המים</string>
+    <string name="third_party_login">חשבונות צד שלישי</string>
     <string name="thursday">חמישי</string>
     <string name="thursday_short">"ה'"</string>
     <string name="thursday_shortest">"ה'"</string>

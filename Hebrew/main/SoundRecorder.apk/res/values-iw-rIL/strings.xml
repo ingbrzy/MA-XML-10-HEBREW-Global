@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="actionbar_button_up_description">הקודם</string>
+    <string name="add_remark_hint">רשום את הערתך כאן</string>
+    <string name="add_remark_tip">הקש כדי להוסיף הערה</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="agree_description">אפשר לאפליקציה זו להתחבר לאינטרנט כדי שתוכל להשתמש בכל המאפיינים שלה.</string>
     <string name="alert_message_clear_records">האם למחוק את ההקלטות שנבחרו?</string>
@@ -56,6 +58,7 @@
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="empty" />
     <string name="empty_recognition_tip">ריק</string>
+    <string name="empty_tips">הקש על הלחצן להתחלת הקלטה</string>
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
     <string name="err_msg_abandon">הזמנה בוטלה</string>
@@ -80,6 +83,7 @@
     <string name="error_file_access">הקובץ אינו קיים או שנפגם</string>
     <string name="error_filename_illegal_char">שם הקובץ מכיל תווים לא חוקיים.</string>
     <string name="error_filename_too_long">שם הקובץ ארוך מידי.</string>
+    <string name="error_remark_too_long">ההערה שלך ארוכה מדי</string>
     <string name="error_sdcard_access">לא ניתן היה לגשת לכרטיס הזכרון</string>
     <string name="error_sdcard_unmounted">הכנס כרטיס זכרון כעת</string>
     <string name="evening">לפנות ערב</string>
@@ -245,6 +249,7 @@
     <string name="no_file">ריק</string>
     <string name="no_network">לא ניתן היה להתחבר לרשת</string>
     <string name="no_playback_file">נא לבחור הקלטה לצפייה בפרטים</string>
+    <string name="no_records">עדיין אין כאן הקלטות</string>
     <string name="noon">צהריים</string>
     <string name="normal_settings_pref_title">הגדרות כלליות</string>
     <string name="notification_message_all_paused">ממתין לחיבור רשת אלחוטית.</string>
@@ -362,6 +367,9 @@
     <string name="record_downloading_notification_complete">ההורדה הושלמה</string>
     <string name="record_downloading_notification_count">%d מוריד</string>
     <string name="record_format_preference_title">פורמט הקלטה</string>
+    <string name="record_item_title_multi_choice">בחירה</string>
+    <string name="record_item_title_remark">הוספת הערה</string>
+    <string name="record_item_title_send">שיתוף</string>
     <string name="record_list">הקלטות</string>
     <string name="record_list_app">הקלטות יישום</string>
     <string name="record_list_call">שיחות מוקלטות</string>
@@ -445,6 +453,10 @@
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
+    <string name="tab_all">הכל</string>
+    <string name="tab_apps">אפליקציות</string>
+    <string name="tab_call">שיחות</string>
+    <string name="tab_fm">FM</string>
     <string name="tap_to_record">נא להקיש על הכפתור להתחלת הקלטה</string>
     <string name="text_btn_backward_3_seconds">3 שניות אחרונות</string>
     <string name="text_btn_complete">עצירה</string>

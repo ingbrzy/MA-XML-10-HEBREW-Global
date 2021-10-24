@@ -148,6 +148,7 @@
     <string name="app_name">שירות הפעלת ה-SIM של Xiaomi</string>
     <string name="checking_client">בודק את סביבת ההפעלה</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
+    <string name="close">סגירה</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -174,6 +175,8 @@
     <string name="explain_send_sms_permission_button">אמת</string>
     <string name="explain_send_sms_permission_msg">"על מנת להפעיל את %s, 'מסגרת שירותי Xiaomi' ישלח מסרון לאימות מספר הטלפון שלך. תחויב עבור מסרון רגיל על ידי ספק הרשת שלך."</string>
     <string name="explain_send_sms_permission_title">אמת את מספר הטלפון שלך</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -189,7 +192,11 @@
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -208,8 +215,18 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
@@ -292,6 +309,7 @@
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
+    <string name="send">שליחה</string>
     <string name="sim_activate_failed">לא ניתן היה להפעיל את השירות</string>
     <string name="sim_activate_prepare">הפעלת השירות</string>
     <string name="sim_activated_failed_msg">לא ניתן היה להפעיל את השירות. הקש כדי לנסות שוב.</string>

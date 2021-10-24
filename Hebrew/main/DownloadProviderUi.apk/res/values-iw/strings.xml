@@ -45,6 +45,10 @@
     <string name="common_open_on_phone">פתח בטלפון</string>
     <string name="common_signin_button_text">כניסה</string>
     <string name="common_signin_button_text_long">‏היכנס באמצעות Google</string>
+    <string name="copy">העתקה</string>
+    <string name="expand_button_title">מתקדם</string>
+    <string name="not_set">לא מוגדרת</string>
+    <string name="preference_copied">\"%1$s\" הועתק ללוח.</string>
     <string name="s1">שמור את התמונה</string>
     <string name="s2">האם לאפשר למודעה לאחסן תמונה בגלריית התמונות?</string>
     <string name="s3">קבל</string>
@@ -54,4 +58,7 @@
     <string name="s7">מודעת בדיקה</string>
     <string name="search_menu_title">חיפוש</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">כבוי</string>
+    <string name="v7_preference_on">מופעל</string>
 </resources>
