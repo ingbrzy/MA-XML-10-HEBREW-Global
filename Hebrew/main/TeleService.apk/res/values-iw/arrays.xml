@@ -23,8 +23,8 @@
         <item>100%</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>שימוש בבחירת המערכת (ברירת המחדל)</item>
-        <item>16 ביטים לדגימה</item>
+        <item>השתמש בבחירת המערכת (ברירת המחדל)</item>
+        <item>16 סיביות לדגימה</item>
         <item>24 סיביות לדגימה</item>
         <item>32 סיביות לדגימה</item>
     </string-array>
@@ -35,7 +35,7 @@
         <item>32 סיביות לדגימה</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>שימוש בבחירת המערכת (ברירת המחדל)</item>
+        <item>השתמש בבחירת המערכת (ברירת המחדל)</item>
         <item>מונו</item>
         <item>סטריאו</item>
     </string-array>
@@ -46,7 +46,7 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>אופטימיזציה להשגת איכות אודיו מרבית</item>
-        <item>איזון בין איכות החיבור לאיכות אודיו</item>
+        <item>אזן בין איכות החיבור לאיכות אודיו</item>
         <item>אופטימיזציה להשגת איכות חיבור מרבית</item>
         <item>האיכות הטובה ביותר (קצב העברת נתונים מותאם)</item>
     </string-array>
@@ -57,7 +57,7 @@
         <item>האיכות הטובה ביותר (קצב העברת נתונים מותאם)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>שימוש בבחירת המערכת (ברירת המחדל)</item>
+        <item>השתמש בבחירת המערכת (ברירת המחדל)</item>
         <item>44.1 קילו-הרץ</item>
         <item>48.0 קילו-הרץ</item>
         <item>88.2 קילו-הרץ</item>
@@ -71,7 +71,7 @@
         <item>96.0 קילו-הרץ</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>שימוש בבחירת המערכת (ברירת המחדל)</item>
+        <item>השתמש בבחירת המערכת (ברירת המחדל)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>אודיו Qualcomm® aptX™</item>
@@ -93,15 +93,15 @@
         <item>, פעיל (טלפון)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp15</item>
-        <item>avrcp13</item>
         <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>‏AVRCP 1.5 (ברירת המחדל)</item>
+        <item>‏AVRCP 1.4 (ברירת המחדל)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.4</item>
+        <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
@@ -133,8 +133,8 @@
     </string-array>
     <string-array name="clir_display_values">
         <item>רשת ברירת מחדל</item>
-        <item>הסתרת מספר</item>
-        <item>הצגת מספר</item>
+        <item>הסתר מספר</item>
+        <item>הצג מספר</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>צבעים משופרים</item>
@@ -143,7 +143,7 @@
     </string-array>
     <string-array name="color_mode_names">
         <item>דינמי (ברירת מחדל)</item>
-        <item>גוון טבעי</item>
+        <item>טבעי</item>
         <item>רגיל</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
@@ -162,13 +162,13 @@
         <item>‏Call Stack ב-glGetError</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>‏אני לעולם לא רוצה להשתמש בבדיקת HDCP</item>
-        <item>‏שימוש בבדיקת HDCP עבור תוכן DRM בלבד</item>
-        <item>‏אני רוצה להשתמש תמיד בבדיקת HDCP</item>
+        <item>‏לעולם אל תשתמש בבדיקת HDCP</item>
+        <item>‏השתמש בבדיקת HDCP עבור תוכן DRM בלבד</item>
+        <item>‏תמיד השתמש בבדיקת HDCP</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>בלי לבדוק לעולם</item>
-        <item>‏בדיקה אם יש תוכן DRM בלבד</item>
+        <item>‏בדוק אם יש תוכן DRM בלבד</item>
         <item>בדוק תמיד</item>
     </string-array>
     <string-array name="list_language_entries">
@@ -261,7 +261,7 @@
         <item>‏256K לכל מאגר של יומן רישום</item>
         <item>‏1M לכל מאגר של יומן רישום</item>
         <item>‏4M לכל מאגר של יומן רישום</item>
-        <item>‏8M לכל מאגר נתונים זמני ביומן</item>
+        <item>‏16M לכל מאגר של יומן רישום</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>כבוי</item>
@@ -269,7 +269,7 @@
         <item>‎256K</item>
         <item>1M</item>
         <item>4M</item>
-        <item>8M</item>
+        <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>כבוי</item>
@@ -285,8 +285,8 @@
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>כבוי</item>
-        <item>שרטוט אזור חיתוך שאינו מלבני בצבע כחול</item>
-        <item>הדגשת פקודות האיור שנבדקות בצבע ירוק</item>
+        <item>שרטט אזור חיתוך שאינו מלבני בצבע כחול</item>
+        <item>הדגש את פקודות האיור שנבדקות בצבע ירוק</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>כבוי</item>
@@ -329,13 +329,13 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>מתבצעת סריקה...</item>
-        <item>מתבצעת התחברות...</item>
-        <item>מתבצע אימות…</item>
+        <item>סורק...</item>
+        <item>מתחבר ...</item>
+        <item>מאמת…</item>
         <item>‏משיג כתובת IP…</item>
         <item>מחובר</item>
         <item>בהשעיה</item>
-        <item>מתבצעת התנתקות...</item>
+        <item>מתנתק...</item>
         <item>מנותק</item>
         <item>נכשל</item>
         <item>חסומה</item>
@@ -343,31 +343,17 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>מתבצעת סריקה...</item>
-        <item>מתבצעת התחברות אל %1$s…</item>
-        <item>מתבצע אימות מול %1$s...</item>
-        <item>‏המערכת משיגה כתובת IP מ-%1$s…</item>
+        <item>סורק...</item>
+        <item>מתחבר אל %1$s…</item>
+        <item>מאמת עם %1$s...</item>
+        <item>‏משיג כתובת IP מ-%1$s…</item>
         <item>מחובר אל %1$s</item>
         <item>בהשעיה</item>
-        <item>מתבצעת התנתקות מרשת %1$s…</item>
+        <item>מתנתק מרשת %1$s...</item>
         <item>מנותק</item>
         <item>נכשל</item>
         <item>חסומה</item>
-        <item>המערכת נמנעת זמנית מחיבור חלש</item>
-    </string-array>
-    <string-array name="wifitrackerlib_wifi_status">
-        <item></item>
-        <item>מתבצעת סריקה…</item>
-        <item>מתבצעת התחברות…</item>
-        <item>בתהליך אימות…</item>
-        <item>‏בתהליך של השגת כתובת IP…</item>
-        <item>מחובר</item>
-        <item>בהשעיה</item>
-        <item>מתבצע ניתוק…</item>
-        <item>מנותק</item>
-        <item>נכשל</item>
-        <item>חסום</item>
-        <item>מניעה זמנית של חיבור באיכות ירודה</item>
+        <item>נמנע זמנית מחיבור חלש</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>אנימציה כבויה</item>

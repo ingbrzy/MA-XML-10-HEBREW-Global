@@ -84,18 +84,6 @@
         <item quantity="two">אפשר ליצור עד %d שיבוטים בכל פעם.</item>
         <item quantity="many">אפשר ליצור עד %d שיבוטים בכל פעם.</item>
     </plurals>
-    <plurals name="exit_camera_hint">
-        <item quantity="other">&lt;Data>לא ניתן להתחבר למצלמה.&lt;br>יישום זה ייסגר בעוד &lt;font color=#FFCE16>&lt;b>%1$d שניות&lt;/b>&lt;/font>. לאחר מכן עליך להמתין דקה או שתיים ולנסות שוב.&lt;/Data></item>
-        <item quantity="one">&lt;Data>לא ניתן להתחבר למצלמה.&lt;br>יישום זה ייסגר בעוד שנייה &lt;font color=#FFCE16>&lt;b>%1$d&lt;/b>&lt;/font>. לאחר מכן עליך להמתין דקה או שתיים ולנסות שוב.&lt;/Data></item>
-        <item quantity="two">&lt;Data>לא ניתן להתחבר למצלמה.&lt;br>יישום זה ייסגר בעוד &lt;font color=#FFCE16>&lt;b>%1$d שניות&lt;/b>&lt;/font>. לאחר מכן עליך להמתין דקה או שתיים ולנסות שוב.&lt;/Data></item>
-        <item quantity="many">&lt;Data>לא ניתן להתחבר למצלמה.&lt;br>יישום זה ייסגר בעוד &lt;font color=#FFCE16>&lt;b>%1$d שניות&lt;/b>&lt;/font>. לאחר מכן עליך להמתין דקה או שתיים ולנסות שוב.&lt;/Data></item>
-    </plurals>
-    <plurals name="exit_thermal_hint">
-        <item quantity="other">&lt;Data>כרגע המכשיר הזה חם מדי.&lt;br>היישום ייסגר בעוד &lt;font color=#FFCE16>&lt;b>%1$d שניות&lt;/b>&lt;/font>. ההתקדמות עד כה נשמרה באופן אוטומטי.&lt;/Data></item>
-        <item quantity="one">&lt;Data>כרגע המכשיר הזה חם מדי.&lt;br>היישום ייסגר בעוד שנייה &lt;font color=#FFCE16>&lt;b>%1$d&lt;/b>&lt;/font>. ההתקדמות עד כה נשמרה באופן אוטומטי.&lt;/Data></item>
-        <item quantity="two">&lt;Data>כרגע המכשיר הזה חם מדי.&lt;br>היישום ייסגר בעוד &lt;font color=#FFCE16>&lt;b>%1$d שניות&lt;/b>&lt;/font>. ההתקדמות עד כה נשמרה באופן אוטומטי.&lt;/Data></item>
-        <item quantity="many">&lt;Data>כרגע המכשיר הזה חם מדי.&lt;br>היישום ייסגר בעוד &lt;font color=#FFCE16>&lt;b>%1$d שניות&lt;/b>&lt;/font>. ההתקדמות עד כה נשמרה באופן אוטומטי.&lt;/Data></item>
-    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d דקות</item>
         <item quantity="one">דקה אחת (%1$d)</item>

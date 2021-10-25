@@ -60,18 +60,6 @@
         <item quantity="two">%d משחקים נוספו</item>
         <item quantity="many">%d משחקים נוספו</item>
     </plurals>
-    <plurals name="app_behavior_dashboard_title_desc">
-        <item quantity="other">%d יישומים</item>
-        <item quantity="one">יישום %d</item>
-        <item quantity="two">%d יישומים</item>
-        <item quantity="many">%d יישומים</item>
-    </plurals>
-    <plurals name="app_behavior_dashboard_total_usage_item">
-        <item quantity="other">%d יישומים</item>
-        <item quantity="one">יישום %d</item>
-        <item quantity="two">%d יישומים</item>
-        <item quantity="many">%d יישומים</item>
-    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">אופשר %3$d פעמים בין %1$s ל-%2$s</item>
         <item quantity="one">אופשר %3$d פעמים בין %1$s ל-%2$s</item>
@@ -95,24 +83,6 @@
         <item quantity="one">נדחה פעם %2$d ב-%1$s</item>
         <item quantity="two">נדחה %2$d פעמים ב-%1$s</item>
         <item quantity="many">נדחה %2$d פעמים ב-%1$s</item>
-    </plurals>
-    <plurals name="app_behavior_desc_duration_usage">
-        <item quantity="other">מותר לשימוש %3$d פעמים בין %1$s ל-%2$s</item>
-        <item quantity="one">מותר לשימוש פעם אחת (%3$d) בין %1$s ל-%2$s</item>
-        <item quantity="two">מותר לשימוש %3$d פעמים בין %1$s ל-%2$s</item>
-        <item quantity="many">מותר לשימוש %3$d פעמים בין %1$s ל-%2$s</item>
-    </plurals>
-    <plurals name="app_behavior_desc_duration_usage_time">
-        <item quantity="other">היה בשימוש למשך %1$d דקות</item>
-        <item quantity="one">היה בשימוש למשך דקה אחת (%1$d)</item>
-        <item quantity="two">היה בשימוש למשך %1$d דקות</item>
-        <item quantity="many">היה בשימוש למשך %1$d דקות</item>
-    </plurals>
-    <plurals name="app_behavior_desc_duration_usage_time_end">
-        <item quantity="other">היה בשימוש למשך %1$d דקות עד %2$s</item>
-        <item quantity="one">היה בשימוש למשך דקה אחת (%1$d) עד %2$s</item>
-        <item quantity="two">היה בשימוש למשך %1$d דקות עד %2$s</item>
-        <item quantity="many">היה בשימוש למשך %1$d דקות עד %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">הוחזרו %3$d הודעות ריקות בין %1$s ל-%2$s</item>
@@ -228,18 +198,6 @@
         <item quantity="two">%s יישומים יהיו מוגנים על-ידי נועל היישומים</item>
         <item quantity="many">%s יישומים יהיו מוגנים על-ידי נועל היישומים</item>
     </plurals>
-    <plurals name="behavior_widget_app_text">
-        <item quantity="other">%2$d יישומים כולל %1$s</item>
-        <item quantity="one">יישום %2$d כולל %1$s</item>
-        <item quantity="two">%2$d יישומים כולל %1$s</item>
-        <item quantity="many">%2$d יישומים כולל %1$s</item>
-    </plurals>
-    <plurals name="behavior_widget_perm_counts">
-        <item quantity="other">%d פעמים</item>
-        <item quantity="one">פעם %d</item>
-        <item quantity="two">%d פעמים</item>
-        <item quantity="many">%d פעמים</item>
-    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d יישומים יכולים להתחבר לרשת ברקע</item>
         <item quantity="one">יישום %d יכול להתחבר לרשת ברקע</item>
@@ -289,12 +247,6 @@
         <item quantity="one">לאחר דקה %1$d</item>
         <item quantity="two">לאחר %1$d דקות</item>
         <item quantity="many">לאחר %1$d דקות</item>
-    </plurals>
-    <plurals name="exit_dialog_scan_message_new">
-        <item quantity="other">דירוג הביצועים של מכשירך נמוך מ-%d נקודות. לבצע אופטימיזציה עכשיו?</item>
-        <item quantity="one">דירוג הביצועים של מכשירך נמוך מנקודה %d. לבצע אופטימיזציה עכשיו?</item>
-        <item quantity="two">דירוג הביצועים של מכשירך נמוך מ-%d נקודות. לבצע אופטימיזציה עכשיו?</item>
-        <item quantity="many">דירוג הביצועים של מכשירך נמוך מ-%d נקודות. לבצע אופטימיזציה עכשיו?</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">חפש בין %d יישומים</item>
@@ -393,10 +345,10 @@
         <item quantity="many">"בוצע צ'ק אין %d ימים ברצף"</item>
     </plurals>
     <plurals name="gb_toolbox_guide_known">
-        <item quantity="other">"הבנתי (ש'%d)"</item>
+        <item quantity="other">"הבנתי (%dש')"</item>
         <item quantity="one">"הבנתי (ש'%d)"</item>
-        <item quantity="two">"הבנתי (ש'%d)"</item>
-        <item quantity="many">"הבנתי (ש'%d)"</item>
+        <item quantity="two">"הבנתי (%dש')"</item>
+        <item quantity="many">"הבנתי (%dש')"</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"נסה את \"משנה הקול\" עכשיו
@@ -441,24 +393,6 @@
         <item quantity="one">קבל יום אחד (%d) של התנסות בחינם</item>
         <item quantity="two">קבל %d ימי התנסות בחינם</item>
         <item quantity="many">קבל %d ימי התנסות בחינם</item>
-    </plurals>
-    <plurals name="gtb_brightness_dialog_message">
-        <item quantity="other">כדי לחסוך בחשמל, תכונה זו מפחיתה אוטומטית את בהירות המסך לאחר %d דקות של חוסר פעילות. להשאיר את התכונה זו מופעלת?</item>
-        <item quantity="one">כדי לחסוך בחשמל, תכונה זו מפחיתה אוטומטית את בהירות המסך לאחר דקה אחת (%d) של חוסר פעילות. להשאיר את התכונה זו מופעלת?</item>
-        <item quantity="two">כדי לחסוך בחשמל, תכונה זו מפחיתה אוטומטית את בהירות המסך לאחר %d דקות של חוסר פעילות. להשאיר את התכונה זו מופעלת?</item>
-        <item quantity="many">כדי לחסוך בחשמל, תכונה זו מפחיתה אוטומטית את בהירות המסך לאחר %d דקות של חוסר פעילות. להשאיר את התכונה זו מופעלת?</item>
-    </plurals>
-    <plurals name="gtb_setting_item_summary_brightness">
-        <item quantity="other">הפחת את בהירות המסך באופן אוטומטי כדי לחסוך בחשמל לאחר %d דקות של חוסר פעילות</item>
-        <item quantity="one">הפחת את בהירות המסך באופן אוטומטי כדי לחסוך בחשמל לאחר דקה אחת (%d) של חוסר פעילות</item>
-        <item quantity="two">הפחת את בהירות המסך באופן אוטומטי כדי לחסוך בחשמל לאחר %d דקות של חוסר פעילות</item>
-        <item quantity="many">הפחת את בהירות המסך באופן אוטומטי כדי לחסוך בחשמל לאחר %d דקות של חוסר פעילות</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
-        <item quantity="two">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="many">"Congrats! You've unlocked %s Easter eggs."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
@@ -539,10 +473,10 @@
         <item quantity="many">נמצאו %d יישומים</item>
     </plurals>
     <plurals name="hints_scan_danger_result_with_number">
-        <item quantity="other">זוהו %d סיכונים</item>
-        <item quantity="one">זוהה סיכון %d</item>
-        <item quantity="two">זוהו %d סיכונים</item>
-        <item quantity="many">זוהו %d סיכונים</item>
+        <item quantity="other">התגלו %d סיכונים, תקן כעת</item>
+        <item quantity="one">התגלה סיכון %d, תקן כעת</item>
+        <item quantity="two">התגלו %d סיכונים, תקן כעת</item>
+        <item quantity="many">התגלו %d סיכונים, תקן כעת</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">עוקב אחר צריכת הנתונים של %d יישומים</item>
@@ -1006,12 +940,6 @@
         <item quantity="two">פריטים</item>
         <item quantity="many">פריטים</item>
     </plurals>
-    <plurals name="power_center_unoffical_battery_dialog_negative">
-        <item quantity="other">ביטול (%ds)</item>
-        <item quantity="one">ביטול (%ds)</item>
-        <item quantity="two">ביטול (%ds)</item>
-        <item quantity="many">ביטול (%ds)</item>
-    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s ימים נותרו</item>
         <item quantity="one">יום %s נותר</item>
@@ -1181,10 +1109,10 @@
         <item quantity="many">נמצאו %d יישומים בלתי רשמיים</item>
     </plurals>
     <plurals name="result_virus_header">
-        <item quantity="other">זוהו %d יישומים זדוניים</item>
-        <item quantity="one">זוהה יישום זדוני %d</item>
-        <item quantity="two">זוהו %d יישומים זדוניים</item>
-        <item quantity="many">זוהו %d יישומים זדוניים</item>
+        <item quantity="other">נמצאו %d וירוסים ויישומים לא בטוחים</item>
+        <item quantity="one">נמצא יישום וירוס %d</item>
+        <item quantity="two">נמצאו %d וירוסים ויישומים לא בטוחים</item>
+        <item quantity="many">נמצאו %d וירוסים ויישומים לא בטוחים</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">חפש %d יישומים</item>
@@ -1300,27 +1228,11 @@
         <item quantity="two">%d יישומים</item>
         <item quantity="many">%d יישומים</item>
     </plurals>
-    <plurals name="videobox_settings_timing_bubble">
-        <item quantity="other">"אתה צופה בסרטונים כבר %d שעות.
-צא להפסקה!"</item>
-        <item quantity="one">"אתה צופה בסרטונים כבר שעה אחת (%d).
-צא להפסקה!"</item>
-        <item quantity="two">"אתה צופה בסרטונים כבר %d שעות.
-צא להפסקה!"</item>
-        <item quantity="many">"אתה צופה בסרטונים כבר %d שעות.
-צא להפסקה!"</item>
-    </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d צפיות</item>
         <item quantity="one">צפיה %1$d</item>
         <item quantity="two">%1$d צפיות</item>
         <item quantity="many">%1$d צפיות</item>
-    </plurals>
-    <plurals name="virus_clear_dialog_content">
-        <item quantity="other">למחוק %d יישומים שנבחרו?</item>
-        <item quantity="one">למחוק יישום %d שנבחר?</item>
-        <item quantity="two">למחוק %d יישומים שנבחרו?</item>
-        <item quantity="many">למחוק %d יישומים שנבחרו?</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">יישומים מסוכנים: %d</item>

@@ -340,6 +340,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">לחץ על מתג הגיבוי</string>
     <string name="other_device_main_space">שטח ראשון</string>
     <string name="other_device_second_space">שטח משני</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">לא ניתן לשחזר פריטים במצב מחשב אישי. יש להשבית את מצב המחשב האישי ולנסות שוב.</string>
     <string name="pm">PM</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>

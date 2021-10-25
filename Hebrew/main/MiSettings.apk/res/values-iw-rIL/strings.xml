@@ -113,8 +113,6 @@
     <string name="created_successfully">נוצר בהצלחה</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">הגדר</string>
-    <string name="customize_radio_btn_summary">העדף את קצב הרענון שנבחר</string>
-    <string name="customize_radio_btn_title">מותאם אישית</string>
     <string name="dall_sheep">Dall sheep</string>
     <string name="dart_frog_info">Its bright blue skin and poisonous glands are defense mechanisms to potential predators.</string>
     <string name="date_picker_label_day" />
@@ -124,17 +122,13 @@
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="dc_light_hint_enable_title">שים לב</string>
     <string name="dc_light_hint_normal">עמעום DC עשוי להשפיע על הדרך בה פריטים מסוימים מוצגים.</string>
-    <string name="dc_light_hint_normal_anit">מצב אנטי-הבהוב עשוי להשפיע על האופן שבו פריטים מסוימים מוצגים.</string>
-    <string name="dc_light_hint_normal_other">מצב אנטי-הבהוב עשוי להשפיע על קצב הרענון ועל האופן שבו פריטים מסוימים מוצגים.</string>
     <string name="dc_light_hint_other">עמעום DC עשוי להשפיע על קצב הרענון ועל הדרך בה פריטים מסוימים מוצגים.</string>
-    <string name="dc_light_hint_unnormal_low">מצב אנטי-הבהוב בתאורה חלשה עשוי להשפיע על האופן שבו פריטים מסוימים מוצגים.</string>
-    <string name="dc_light_hint_unnormal_other">מצב אנטי-הבהוב בתאורה חלשה עשוי להשפיע על קצב הרענון ועל האופן שבו פריטים מסוימים מוצגים.</string>
     <string name="dc_lignt_enable_hint">מצב נוגד-ריצוד יקבע את קצב הרענון ב-60 הרץ. להחליף למצב נוגד-ריצוד?</string>
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
-    <string name="desktop_widget_authorization">הקש כדי להעניק הרשאות על מנת שתוכל לצפות בסטטיסטיקה</string>
-    <string name="desktop_widget_not_support">"נתוני זמן מסך
-אינם מיוצרים עבור השטח השני"</string>
-    <string name="desktop_widget_screen_use_time">זמן מסך</string>
+    <string name="desktop_widget_authorization">Tap to grant permissions to be able to view stats</string>
+    <string name="desktop_widget_not_support">"Screen time stats
+aren't generated in Second space"</string>
+    <string name="desktop_widget_screen_use_time">Screen time</string>
     <string name="display_description">צלמיות גדולות יותר, אותיות גדולות יותר, פחות עומס חזותי</string>
     <string name="display_title">פריטים גדולים יותר</string>
     <string name="dynamic_ringtone_desc">"We've explored different ecosystems and recreated their distinct sounds. Start exploring the sounds of nature with us!"</string>
@@ -214,19 +208,13 @@
     <string name="focus_mode_timer_pick_dialog_title">הזן את משך הזמן</string>
     <string name="focus_time_exception_tip">נראה שזמן המערכת השתנה. כבה את מצב המיקוד.</string>
     <string name="follow_sim1">החל הגדרות SIM 1</string>
-    <string name="fps_high">גבוה</string>
     <string name="fps_nature_summary">קצב רענון מרבי שומר על תמונה חדה וברורה</string>
     <string name="fps_nature_title">מרבי</string>
-    <string name="fps_normal">רגיל</string>
-    <string name="fps_radio_btn_title">קצב רענון</string>
-    <string name="fps_save_battery_tips">חיסכון בסוללה מופעל. קצב הרענון נקבע ל-%d הרץ.</string>
     <string name="fps_smooth_summary">קצב רענון גבוה הופך את פרטי התמונה לברורים יותר</string>
     <string name="fps_smooth_title">גבוה</string>
     <string name="fps_standard_summary">קצב רענון רגיל חוסך סוללה</string>
     <string name="fps_standard_title">רגיל</string>
     <string name="fps_user_tip">- האנימציות האלה להמחשה מתנגנות במהירות נמוכה, כדי שתוכל להתרשם מהן. הביצועים בפועל יכולים להיראות שונים, כתלות בגורמים משתנים.</string>
-    <string name="fps_user_tip_footer">"%1$d. כדי שתוכל להבין את ההבדל בין קצבי רענון גבוהים ונמוכים יותר, ההדגמות מופעלות כאן לאט יותר. ייתכן שיהיה לך יותר קשה להבחין בהבדל במהלך שימוש רגיל.
-%2$d. במקרים מסוימים, קצב הרענון עשוי להיות מותאם באופן דינמי בהתבסס על הפריטים המוצגים."</string>
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
@@ -252,14 +240,11 @@
     <string name="healthy_use_phone">נהל זמן מסך</string>
     <string name="helmeted_guineafowl">Guineafowl</string>
     <string name="high_fps_description">קצב רענון מסך גבוה. צריכת חשמל גבוהה יותר.</string>
-    <string name="high_fps_tip_footer">שימוש בקצב רענון גבוה יותר הופך את חוויית הצפייה לחלקה יותר אך צורך יותר חשמל.</string>
     <string name="hippopotamus">Hippo</string>
     <string name="hsv_space_color">טווח צבעים HSV</string>
     <string name="hsv_space_color_hue">גוון</string>
     <string name="hsv_space_color_saturation">רוויה</string>
     <string name="hsv_space_color_value">ערך</string>
-    <string name="intelligent_radio_btn_summary">התאמת קצב הרענון באופן דינמי על סמך תרחישים כדי לאזן בין ביצועים לצריכת החשמל</string>
-    <string name="intelligent_radio_btn_title">אוטומטי (מומלץ)</string>
     <string name="intelligent_recognition_item_summary">השתמש ברינגטון ייעודי עבור שיחות משירותי משלוח ומוניות. המאפיין הזה יעבור כאשר %s מוגדר כרינגטון ברירת המחדל שלך.</string>
     <string name="intelligent_recognition_item_title">זהה שירותים</string>
     <string name="item_anura">Anura</string>
@@ -300,8 +285,6 @@
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
     <string name="lock_summary">הגן על המידע האישי שלך</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
-    <string name="low_flicker_mode">תאורה חלשה</string>
-    <string name="low_flicker_mode_summary">מניעת הבהוב כאשר התאורה חלשה כדי להפחית את המאמץ של העיניים</string>
     <string name="low_fps_description">קצב רענון מסך נמוך. צריכת חשמל נמוכה יותר.</string>
     <string name="low_light_preview">תצוגה מקדימה באור חלש</string>
     <string name="lynx">Lynx</string>
@@ -311,7 +294,6 @@
     <string name="masked_palm_civet">Masked palm civet</string>
     <string name="medium_tree_finch">Medium tree finch</string>
     <string name="midnight">לילה</string>
-    <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
@@ -404,7 +386,6 @@
     <string name="noon">צהריים</string>
     <string name="normal_mode">רגיל</string>
     <string name="normal_mode_summary">אל תפחית הבהוב בתנאי אור חלש</string>
-    <string name="normal_mode_summary_new">אפשר הבהוב כאשר התאורה חלשה</string>
     <string name="north_white_rhinoceros">White rhinoceros</string>
     <string name="norway_lemmings">Norway lemmings</string>
     <string name="norway_lemmings_info">The Norway lemming dwells in tundra and fells, and prefers to live near water.</string>
@@ -419,7 +400,7 @@
     <string name="p3_color_region_summary">הצגת כל תוכן המסך בסולם הצבעים P3</string>
     <string name="pallas_s_cat">"Pallas's cat"</string>
     <string name="parasitic_jaeger">Parasitic jaeger</string>
-    <string name="personality_hint_ringtone">צלילים מותאמים אישית</string>
+    <string name="personality_hint_ringtone">Personalized sounds</string>
     <string name="petaurus_breviceps">Sugar glider</string>
     <string name="phoebastria_irrorata">Waved albatross</string>
     <string name="pied_butcherbird">Pied butcherbird</string>
@@ -481,7 +462,7 @@
     <string name="several_days_use_time">זמן מסך: %2$s</string>
     <string name="short_eared_owl">Short-eared owl</string>
     <string name="shortcut_created">קיצור דרך זה כבר קיים</string>
-    <string name="silent_ringtone_hint">"כבה קודם את 'מצב שקט'"</string>
+    <string name="silent_ringtone_hint">עכשיו השמע מושתק. הגבר את עוצמת השמע ונסה שוב.</string>
     <string name="silver_pheasant">Silver pheasant</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
@@ -493,8 +474,6 @@
     <string name="snowy_owl">Snowy owl</string>
     <string name="southern_elephant_seal">Southern elephant seal</string>
     <string name="southern_ground_hornbill">Ground hornbill</string>
-    <string name="split_page_authorization">ברוך הבא אל זמן מסך! כאן ניתן להגדיר הגבלות לזמן מסך ולצפות בסטטיסטיקה. נא להקיש על \"התחל\" כדי להפעיל את המאפיין הזה.</string>
-    <string name="split_page_start">התחל</string>
     <string name="spotted_hyaena">Spotted hyena</string>
     <string name="spotted_hyaena_info">Hyenas are nocturnal predators with the most complex social behaviours.</string>
     <string name="spur_winged_plover">Spur-winged lapwing</string>
@@ -593,7 +572,7 @@
     <string name="unlock_times_per_day">"ממוצע יומי: "</string>
     <string name="unlock_times_per_hour">"ביטולי נעילות בשעה: "</string>
     <string name="usage_agree">מסכים</string>
-    <string name="usage_app_desktop_widget_limit">נותרו %s</string>
+    <string name="usage_app_desktop_widget_limit">%s remaining</string>
     <string name="usage_app_get_it">הבנתי</string>
     <string name="usage_app_holiday_limit">ימי חופש</string>
     <string name="usage_app_limit_alter_summary">נראה כאילו הזמן המוקצב קצר יותר מהיישום שהשתמשת בו היום. האם להגביל זאת בכל מקרה?</string>

@@ -30,7 +30,7 @@
     <string name="add_alarm_text">הוספת התראה</string>
     <string name="add_notification_text">הוספת התראה</string>
     <string name="add_ringtone_text">רינגטון חדש</string>
-    <string name="alarm_sound_default">צליל ברירת המחדל לשעון מעורר</string>
+    <string name="alarm_sound_default">צליל לשעון מעורר</string>
     <string name="app_label">צלילים</string>
     <string name="delete_ringtone_text">מחיקה</string>
     <string name="notification_sound_default">צליל ברירת מחדל להתראות</string>

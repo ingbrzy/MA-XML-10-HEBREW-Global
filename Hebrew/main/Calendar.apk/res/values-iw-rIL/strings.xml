@@ -121,6 +121,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">לוח שנה סיני מסורתי</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="date_today">" (היום)"</string>
     <string name="day">יום</string>

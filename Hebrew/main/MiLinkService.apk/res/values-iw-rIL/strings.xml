@@ -4,7 +4,6 @@
     <string name="actionbar_button_up_description">חזרה</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="am">AM</string>
-    <string name="app_name">הקרנה</string>
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
@@ -37,9 +36,9 @@
     <string name="dialog_miplay_permission_message">אפשר למקרין להקליט שמע, לגשת לקבצים באחסון הפנימי ולגשת למיקום שלך כדי שתוכל להשתמש בתכונה זו באופן רגיל. הקש על \"הגדרות\" ובחר \"הרשאות אפליקציה\" כדי להמשיך.</string>
     <string name="dialog_miplay_permission_positive">הגדרות</string>
     <string name="dialog_miplay_permission_title">נדרשת הרשאה</string>
-    <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
-    <string name="dialog_no_device_message">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. חבר גם את המכשיר הנייד שלך וגם את הטלוויזיה לאותה רשת Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. בדגמי טלוויזיה מסוימים תכונה זו זמינה רק כאשר שיקוף המסך מופעל. היכנס ל&lt;a href=milink://com.milink.service/specification>\"עזרה\"&lt;/a> לקבלת למידע נוסף.&lt;/Data></string>
-    <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
+    <string name="dialog_nfc_cast_wifi_off">עליך להפעיל את ה-Wi-Fi כדי שתוכל לשדר באמצעות NFC. להפעיל עכשיו?</string>
+    <string name="dialog_no_device_message">&lt;Data>1. חבר גם את הטלפון וגם את הטלויזיה שלך לאותה רשת Wi-Fi.&lt;br>&lt;br>2. בדגמי טלויזיה מסוימים, התכונה הזאת זמינה רק כאשר שיקוף מסך פעיל. היכנסו ל&lt;a href=milink://com.milink.service/specification>/עזרה/&lt;/a> למידע נוסף.&lt;/Data></string>
+    <string name="dialog_no_device_message_china">&lt;Data>1. Connect both your phone and TV to the same WLAN network.&lt;br>&lt;br>2. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
     <string name="dialog_ok">אישור</string>
     <string name="dialog_only_suport_content">הזרם תמונות, סרטונים או מוזיקה</string>
     <string name="dialog_open_wifi_bt">הפעל</string>
@@ -47,17 +46,17 @@
 עיין בדף העזרה אם יש לך בעיות בחיבור."</string>
     <string name="dialog_recent_connected">לאחרונה</string>
     <string name="dialog_retry">נסה שוב</string>
-    <string name="dialog_scan_message">"%1$d. חבר גם את המכשיר הנייד וגם את הטלוויזיה שלך לאותה רשת Wi-Fi.
+    <string name="dialog_scan_message">"1. חבר גם את הטלפון וגם את הטלויזיה שלך לאותה רשת Wi-Fi.
 
-%2$d. למידע נוסף ראה \"עזרה\"."</string>
-    <string name="dialog_scan_message_china">"%1$d. Connect both your mobile device and TV to the same WLAN network.
+2. בדגמי טלויזיה מסוימים, התכונה הזאת זמינה רק כאשר שיקוף מסך פעיל. היכנסו ל\"עזרה\" למידע נוסף."</string>
+    <string name="dialog_scan_message_china">"1. Connect both your phone and TV to the same WLAN network.
 
-%2$d. View \"Help\" to learn more."</string>
+2. On some TV models, this feature is only available when screen mirroring is on. View \"Help\" to learn more."</string>
     <string name="dialog_scanning_device">מחפש מכשירים בסביבה הקרובה…</string>
     <string name="dialog_scanning_precondition">"הפעל אינטרנט אלחוטי ובלוטות' בטלפון שלך כדי להשתמש בשידור מסך אלחוטי."</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
     <string name="dialog_scanning_precondition_new_global">הפעל Wi-Fi, Bluetooth ושירותי מיקום כדי שתוכל להשתמש בשידור. להפעיל עכשיו?</string>
-    <string name="dialog_select_tv">בחר מכשיר (%1$d)</string>
+    <string name="dialog_select_tv">בחר מכשיר (%d)</string>
     <string name="dialog_show_help">עזרה</string>
     <string name="disconnect">הפסק את השידור</string>
     <string name="early_morning">מוקדם בבוקר</string>
@@ -66,58 +65,42 @@
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
     <string name="evening">לפנות ערב</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
-    <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="fmt_date_numeric_day">dd</string>
+    <string name="fmt_date_numeric_month">MM</string>
+    <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M-yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-    <string name="fmt_date_short_month">MMM</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month">MM</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">"h 'o''clock'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"H 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"ש'מ\"ש'"</string>
-    <string name="fmt_time_minute">"ד'דק'"</string>
-    <string name="fmt_time_minute_second">"ד'דקה' שנ'שנ'"</string>
-    <string name="fmt_time_minute_second_millis">"ד'דק' ש.ש'מ\"ש'"</string>
-    <string name="fmt_time_second">"שנ'שנ'"</string>
-    <string name="fmt_time_second_millis">"ש.ש'מ\"ש'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_time_12hour">hh</string>
+    <string name="fmt_time_12hour_minute">hh:mm</string>
+    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
+    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
+    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
+    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
+    <string name="fmt_time_12hour_pm">hh aa</string>
+    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
+    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_millis">S</string>
+    <string name="fmt_time_minute">m</string>
+    <string name="fmt_time_minute_second">m:s</string>
+    <string name="fmt_time_minute_second_millis">m:s.S</string>
+    <string name="fmt_time_second">s</string>
+    <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
@@ -138,34 +121,30 @@
     <string name="help_page_text_02">מהו שידור?</string>
     <string name="help_page_text_03">שידור הוא הקרנת התוכן של מסך הטלפון שלך לצג חיצוני גדול יותר. זה מאפשר לשתף תמונות וסרטונים עם חברים ובני משפחה, בלי שימוש בתעבורה סלולרית.</string>
     <string name="help_page_text_04">איך לשדר תוכן למסך גדול יותר?</string>
-    <string name="help_page_text_05">שלב %1$d: בדוק את המכשירים ואת סביבת העבודה שלך</string>
-    <string name="help_page_text_06">"%1$d. Xiaomi TVs, set-top boxes, projectors:
-Connect both your mobile device and external monitor to the same WLAN network for best effect. If they are connected to different networks, it might take more time to find the external monitor and connect.
-Note: Older TV models might not support casting across different networks.
-%2$d. If you're using TVs, set-top boxes, or projectors of other brands, connect both your mobile device and external monitor to the same WLAN network.
-If the two devices can't be connected to the same network, turn on Miracast on your external monitor. The naming of Miracast functionality might vary."</string>
-    <string name="help_page_text_06_global">"%1$d. מכשירי טלוויזיה של Xiaomi, ממירים ומקרנים:
-לתוצאות מיטביות חבר גם את המכשיר הנייד וגם את המסך החיצוני שלך לאותה רשת Wi-Fi. אם הם מחוברים לרשתות שונות, ייתכן שיידרש זמן רב יותר כדי לאתר את המסך החיצוני ולהתחבר אליו.
-הערה: ייתכן שדגמי טלוויזיה ישנים יותר לא תומכים בשידור דרך רשתות שונות.
-%2$d. אם אתה משתמש במכשיר טלוויזיה, ממיר או מקרן של מותגים אחרים, חבר גם את המכשיר הנייד וגם את המסך החיצוני לאותה רשת Wi-Fi.
-אם לא ניתן לחבר את שני המכשירים לאותה הרשת, הפעל את Miracast במסך החיצוני שלך. שם הפונקציה Miracast עשוי להיות שונה במסכים שונים."</string>
-    <string name="help_page_text_08">שלב %1$d: הפעל שידור</string>
-    <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both WLAN and Bluetooth for a more stable connection."</string>
-    <string name="help_page_text_09_global">הקש על המתג \"Cast\" (\"שידור\") בלוח ההתראות במכשירך. לחיבור יציב יותר יש להפעיל גם את ה-Wi-Fi וגם את ה-Bluetooth.</string>
-    <string name="help_page_text_10">אם ברצונך לשדר תמונות, סרטונים, משחקים או מצגות, אפשר להשתמש במאפייני השידור המובנים של היישומים הרלוונטיים.</string>
-    <string name="help_page_text_11">שלב %1$d: בחר מכשיר</string>
+    <string name="help_page_text_05">שלב 1: בדוק את המכשירים ואת סביבת הרשת שלך</string>
+    <string name="help_page_text_06">"1. אין צורך להתחבר לאינטרנט כדי לשדר מטלפון Mi לטלוויזיית Mi.
+אם לא הצלחת לחבר בין שני המכשירים, נסה לחבר את שניהם לאותה רשת אינטרנט אלחוטי."</string>
+    <string name="help_page_text_06_global">"1. טלוויזיות Mi, סטרימרים Mi Box ומקרני Mi:
+לתוצאות מיטביות חבר גם את הטלפון וגם את המסך החיצוני לאותה הרשת האלחוטית. אם הם מחוברים לרשתות שונות, ייתכן שיידרש זמן רב יותר כדי לאתר את המסך החיצוני ולהתחבר אליו.
+הערה: ייתכן שטלוויזיות Mi ישנות יותר לא תומכות בשידור לרשתות שונות.
+2. אם אתה משתמש בטלוויזיה, בממיר או במקרן של מותגים אחרים, חבר גם את הטלפון וגם את המסך החיצוני לאותה הרשת האלחוטית.
+אם לא ניתן לחבר את שני המכשירים לאותה הרשת, הפעל את Miracast במסך החיצוני. שם הפונקציה Miracast עשוי להיות שונה."</string>
+    <string name="help_page_text_08">שלב 2: הפעל שידור מסך</string>
+    <string name="help_page_text_09">"הקש על המתג \"Cast\" (\"שידור\") בפנל ההתראות בטלפון. הפעל גם את האינטרנט האלחוטי וגם את בלוטות' להתחברות יציבה יותר."</string>
+    <string name="help_page_text_10">אם ברצונך לשדר תוכן מהגלריה או מ-Mi Video, ניתן להשתמש במאפייני השידור המובנים שמכילות האפליקציות האלה.</string>
+    <string name="help_page_text_11">שלב 3: בחר מכשיר</string>
     <string name="help_page_text_12">בחר מכשיר חיצוני מרשימת המכשירים הזמינים כדי להתחיל לשדר.</string>
     <string name="help_page_text_13">אי אפשר להתחבר למכשיר חיצוני?</string>
-    <string name="help_page_text_14">"%1$d. If you want to use a Xiaomi device, but can't find it in the list of available devices, try the following:
-Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If there aren't any networks available or you can't connect both devices to the same network, check whether the casting features on your external monitor are up to date, turn on Bluetooth both on your mobile device and the external monitor, and turn on Miracast on your TV.
-%2$d. If you're casting on a Xiaomi device for the first time, you need to complete verification.
-%3$d. If you want to use a non-Xiaomi device, but can't find it in the list of available devices, try the following:
-Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If this doesn't help, install the HappyCast app on your TV and follow the instructions."</string>
-    <string name="help_page_text_14_global">"%1$d. אם ברצונך להשתמש במכשיר Xiaomi, אבל אינך מוצא אותו ברשימת המכשירים הזמינים, נסה לבצע את הפעולות הבאות:
-חבר גם את המכשיר הנייד שלך וגם את הצג החיצוני (למשל, הטלוויזיה שלך) לאותה רשת, או חבר את הצג החיצוני לנקודה החמה (hotspot) של המכשיר הנייד שלך. אם אין רשתות זמינות, או אם אינך מצליח לחבר את שני המכשירים לאותה הרשת, בדוק האם תכונות השידור מעודכנות בצג החיצוני, הפעל Bluetooth גם במכשיר הנייד שלך וגם בצג החיצוני, והפעל את Miracast בטלוויזיה שלך.
-%2$d. אם אתה משדר למכשיר Xiaomi בפעם ראשונה, עליך להשלים את תהליך הזיהוי.
-%3$d. אם ברצונך להשתמש במכשיר שאינו של Xiaomi, אבל אינך מצליח למצוא אותו ברשימת המכשירים הזמינים, נסה לבצע את הפעולות הבאות:
-חבר גם את המכשיר הנייד שלך וגם את הצג החיצוני (למשל, הטלוויזיה) לאותה רשת, או חבר את הצג החיצוני לנקודה החמה (hotspot) של המכשיר הנייד שלך."</string>
+    <string name="help_page_text_14">"אם ברצונך להשתמש במכשיר Xiaomi, אבל אתה לא מוצא אותו ברשימת המכשירים הזמינים, נסה את הדברים הבאים:
+חבר גם את הטלפון וגם את הצג החיצוני (למשל, הטלוויזיה שלך) לאותה הרשת האלחוטית, או חבר את הצג החיצוני לנקודה החמה של הטלפון שלך. אם אין רשתות אלחוטיות זמינות, או אם אינך מצליח לחבר את שני המכשירים לאותה הרשת, בדוק האם מאפייני השידור בצג החיצוני שלך מעודכנים, הפעל את בלוטות' גם בטלפון וגם בצג החיצוני, והפעל את Miracast בטלוויזיה שלך. 
+2. אם אתה משדר למכשיר Xiaomi בפעם ראשונה, עליך להשלים את תהליך הזיהוי. 
+3. אם אתה רוצה להשתמש במכשיר שאינו מכשיר Xiaomi, אבל לא מצליח למצוא אותו ברשימת המכשירים הזמינים, נסה לעשות את הדברים הבאים:
+חבר גם את הטלפון וגם את הצג החיצוני (למשל, הטלוויזיה) לאותה רשת אלחוטית, או חבר את הצג החיצוני לנקודה החמה של הטלפון שלך. אם זה לא עוזר, התקן את אפליקציית השידור LeEco בטלוויזיה שלך ובצע את ההוראות."</string>
+    <string name="help_page_text_14_global">"1. אם ברצונך להשתמש במכשיר Xiaomi, אבל אתה לא מוצא אותו ברשימת המכשירים הזמינים, נסה את הדברים הבאים:
+חבר גם את הטלפון וגם את הצג החיצוני (למשל, הטלוויזיה שלך) לאותה הרשת האלחוטית, או חבר את הצג החיצוני לנקודה החמה של הטלפון שלך. אם אין רשתות אלחוטיות זמינות, או אם אינך מצליח לחבר את שני המכשירים לאותה הרשת, בדוק האם מאפייני השידור בצג החיצוני שלך מעודכנים, הפעל את בלוטות' גם בטלפון וגם בצג החיצוני, והפעל את Miracast בטלוויזיה שלך.
+2. אם אתה משדר למכשיר Xiaomi בפעם ראשונה, עליך להשלים את תהליך הזיהוי.
+3. אם אתה רוצה להשתמש במכשיר שאינו מכשיר Xiaomi, אבל לא מצליח למצוא אותו ברשימת המכשירים הזמינים, נסה לעשות את הדברים הבאים:
+חבר גם את הטלפון וגם את הצג החיצוני (למשל, הטלוויזיה) לאותה רשת אלחוטית, או חבר את הצג החיצוני לנקודה החמה של הטלפון שלך."</string>
     <string name="help_page_text_15">פונקציית Miracast במכשירים שונים</string>
     <string name="help_page_text_16">Mi TV/מקרן Mi</string>
     <string name="help_page_text_17">"אפשר להקרין תוכן מטלפון Mi שלך לרוב דגמי הטלוויזיה Mi TV עם פונקציית בלוטות', ללא הפעלה ידנית של Miracast.
@@ -190,7 +169,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="help_page_text_34">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן לבחור באפשרות \"אפליקציות\" > \"שידור\" > \"מכשיר אנדרואיד\" > Miracast.</string>
     <string name="help_page_text_35">שירות הלקוחות של Skyworth: 95105555</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SOURCE] button on the remote control and then select \"Screen Mirroring\". On some other models, you can turn this feature on in Networks > WLAN Direct. This feature is turned on by default on various models.</string>
+    <string name="help_page_text_37">ראשית, ודא שהמכשיר שלך תומך ביכולת Miracast. בדגמים מסוימים ניתן ללחוץ על הכפתור [SOURCE] בשלט הרחוק, ולאחר מכן לבחור באפשרות \"שיקוף מסך\". בדגמים אחרים ניתן להפעיל את התכונה דרך תפריט רשתות > רשת אלחוטית ישירה (Wi-Fi Direct). בדגמים מסוימים תכונה זו מופעלת כברירת מחדל.</string>
     <string name="help_page_text_38">שירות הלקוחות של Sony: 400-810-9000</string>
     <string name="help_page_text_39">Panasonic</string>
     <string name="help_page_text_40">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן לבחור באפשרות \"אפליקציות\" > \"שיקוף מסך\".</string>
@@ -207,10 +186,10 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="help_page_text_51">LeEco</string>
     <string name="help_page_text_52">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן להפעיל את המאפיין הזה תחת \"הגדרות\" > \"רשתות\" > \"מסכים מרובים\" > \"תצוגה אלחוטית\".</string>
     <string name="help_page_text_53">מספר שירות הלקוחות של LeEco: 10109000</string>
-    <string name="help_page_text_55">"אם אינך מצליח להתחבר לרשת, ודא שהצג החיצוני שלך תומך בפונקציה Miracast ושהפונקציה הזו מופעלת. בדגמים מסוימים המאפיין הזה נקרא תצוגה אלחוטית, שיקוף מסך או מסכים מרובים. למטה מופיעים פרטים לגבי הפעלת .Miracast.
-%1$d. אם נתקלת בבעיות כלשהן, תוכל לדווח עליהן באמצעות האפליקציה שלנו \"שירותים ומשוב\"."</string>
+    <string name="help_page_text_55">"אם אינך מצליח להתחבר לרשת, ודא שהצג החיצוני שלך תומך בפונקציה Miracast ושהפונקציה הזו מופעלת. בדגמים מסוימים המאפיין הזה נקרא תצוגה אלחוטית, שיקוף מסך או מסכים מרובים. למטה מופיעים פרטים לגבי הפעלת Miracast.
+4. אם נתקלת בבעיות כלשהן, תוכל לדווח עליהן באמצעות האפליקציה שלנו \"שירותים ומשוב\"."</string>
     <string name="help_page_text_55_global">"אם אינך מצליח להתחבר לרשת, ודא שהצג החיצוני שלך תומך בפונקציה Miracast והפונקציה הזו מופעלת. בדגמים מסוימים המאפיין הזה נקרא תצוגה אלחוטית, שיקוף מסך או מסכים מרובים.
-%1$d. אם נתקלת בבעיות כלשהן, תוכל לדווח עליהן באמצעות האפליקציה שלנו \"שירותים ומשוב\"."</string>
+4. אם נתקלת בבעיות כלשהן, תוכל לדווח עליהן באמצעות האפליקציה שלנו \"שירותים ומשוב\"."</string>
     <string name="help_page_text_end">אם מותג המכשיר שלך לא מופיע כאן, פנה ליצרן למידע נוסף על פונקציית שידור.</string>
     <string name="keyguard_security_setting_privacy_policy">מדיניות הפרטיות</string>
     <string name="midnight">לילה</string>
@@ -328,7 +307,6 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
 　　•גישה למיקום שלך, על מנת למצוא מכשירים בסביבה הקרובה"</string>
     <string name="privacy_title">לתשומת לבך</string>
     <string name="private_protect">הסתר פריטים אישיים</string>
-    <string name="required_permissions">android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.RECORD_AUDIO;</string>
     <string name="san_wait_msg_1">הפעל שידור אלחוטי במכשיר היעד</string>
     <string name="san_wait_msg_2">חיפוש המכשירים עשוי לקחת זמן מה…</string>
     <string name="san_wait_msg_3">קל יותר למצוא מכשירים חיצוניים כשהם מחוברים לאותה הרשת אליה מחובר הטלפון שלך</string>
@@ -410,10 +388,8 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="time_picker_dialog_title">הגדרת זמן</string>
     <string name="time_picker_label_hour">"שע'"</string>
     <string name="time_picker_label_minute">"ד'"</string>
-    <string name="title_activity_permission">PermissionActivity</string>
     <string name="toast_guide_show_more">מידע נוסף</string>
     <string name="toast_guide_title">כאן אפשר לגלות את המאפיינים החדשים שלנו</string>
-    <string name="toast_invisible_mode">"You're incognito. Can't use casting now."</string>
     <string name="toast_msg_for_multi_window">לא ניתן להשתמש במאפיין זה עם מסך מפוצל</string>
     <string name="toast_msg_for_small_window">ניתן למזער את החלון המשודר כדי להשתמש במאפיינים אחרים בטלפון שלך, בלי לפגוע בתהליך השידור.</string>
     <string name="toast_nfc_dont_move">אל תרחיק את הטלפון שלך</string>

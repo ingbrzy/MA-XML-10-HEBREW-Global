@@ -16,7 +16,6 @@
     <string name="lockscreen_permanent_disabled_sim_instructions">"כרטיס ה-SIM שלך הושבת לצמיתות.
 פנה לספק הרשת שלך על מנת לקבל כרטיס SIM נוסף."</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">כרטיס SIM בלתי שמיש.</string>
-    <string name="tethered_notification_message">לחץ להגדרה.</string>
     <string name="tethered_notification_multi_device_message">%1$s התקנים מחוברים</string>
     <string name="tethered_notification_no_device_message">אין התקן מחובר</string>
     <string name="tethered_notification_one_device_message">%1$s התקן מחובר</string>

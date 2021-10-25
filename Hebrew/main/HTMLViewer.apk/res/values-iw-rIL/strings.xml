@@ -10,7 +10,7 @@
     <string name="autoconnect">התחבר באופן אוטומטי</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="close">סגירה</string>
-    <string name="copyright">Copyright</string>
+    <string name="copyright">זכויות יוצרים</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -77,7 +77,7 @@
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
     <string name="ime_privacy_policy">בחירת מקלדת</string>
-    <string name="instruction">Important safety information</string>
+    <string name="instruction">מידע בטיחות חשוב</string>
     <string name="license_host_unreachable">"לא ניתן היה להתחבר לרשת. על מנת להציג מידע זה כעת,
 עבור אל %s באמצעות מכשיר מחובר אחר."</string>
     <string name="loading">רק רגע…</string>
@@ -158,9 +158,9 @@
     <string name="poco_privacy_policy">מדיניות פרטיות של משגר היישומים POCO &amp; הסכם המשתמש של משגר היישומים POCO</string>
     <string name="policy_name">פרוטוקול: %s</string>
     <string name="pre_installed_apps">יישומים מותקנים מראש</string>
-    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy">מדיניות הפרטיות</string>
     <string name="privacy_station_title">פרטיות ב-Xiaomi</string>
-    <string name="sar">RF Exposure Information</string>
+    <string name="sar">"פרטי חשיפת 'תדרי רדיו' (RF)"</string>
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
@@ -235,9 +235,9 @@
     <string name="tuesday">שלישי</string>
     <string name="tuesday_short">"ג'"</string>
     <string name="tuesday_shortest">"ג'"</string>
-    <string name="user_agreement">Terms of Service</string>
-    <string name="user_experience_program">User Experience Program</string>
-    <string name="user_manual">User guide</string>
+    <string name="user_agreement">תנאי השירות</string>
+    <string name="user_experience_program">תכנית חווית המשתמש</string>
+    <string name="user_manual">מדריך המשתמש</string>
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>

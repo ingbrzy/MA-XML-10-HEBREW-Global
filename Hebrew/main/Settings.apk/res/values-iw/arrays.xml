@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="accessibility_button_gesture_selector_titles">
-        <item>לחצן</item>
-        <item>תנועה</item>
-    </string-array>
-    <string-array name="accessibility_button_location_selector_titles">
-        <item>צף מעל אפליקציות אחרות</item>
-        <item>סרגל ניווט</item>
-    </string-array>
-    <string-array name="accessibility_button_size_selector_titles">
-        <item>קטן</item>
-        <item>גדול</item>
-    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>אנימציה כבויה</item>
         <item>‏קנה מידה לאנימציה 5x.</item>
@@ -49,33 +37,33 @@
         <item>מיקום</item>
         <item>מיקום</item>
         <item>רטט</item>
-        <item>קריאת אנשי קשר</item>
-        <item>שינוי אנשי קשר</item>
+        <item>קרא אנשי קשר</item>
+        <item>שנה אנשי קשר</item>
         <item>קרא יומן שיחות</item>
-        <item>שינוי יומן שיחות</item>
-        <item>קריאת יומן</item>
-        <item>שינוי יומן</item>
+        <item>שנה יומן שיחות</item>
+        <item>קרא יומן</item>
+        <item>שנה יומן</item>
         <item>מיקום</item>
-        <item>פרסום התראה</item>
+        <item>פירסום התראה</item>
         <item>מיקום</item>
         <item>שיחת טלפון</item>
-        <item>‏קריאת SMS/MMS</item>
+        <item>‏קרא SMS/MMS</item>
         <item>‏כתוב SMS/MMS</item>
-        <item>‏קבלת SMS/MMS</item>
-        <item>‏קבלת SMS/MMS</item>
-        <item>‏קבלת SMS/MMS</item>
-        <item>‏קבלת SMS/MMS</item>
-        <item>‏שליחת SMS/MMS</item>
-        <item>‏קריאת SMS/MMS</item>
-        <item>‏כתיבת SMS/MMS</item>
-        <item>שינוי הגדרות</item>
-        <item>ציור מעל</item>
+        <item>‏קבל SMS/MMS</item>
+        <item>‏קבל SMS/MMS</item>
+        <item>‏קבל SMS/MMS</item>
+        <item>‏קבל SMS/MMS</item>
+        <item>‏שלח SMS/MMS</item>
+        <item>‏קרא SMS/MMS</item>
+        <item>‏כתוב SMS/MMS</item>
+        <item>שנה הגדרות</item>
+        <item>צייר מעל</item>
         <item>גישה אל ההתראות</item>
         <item>מצלמה</item>
-        <item>הקלטת אודיו</item>
-        <item>הפעלת האודיו</item>
-        <item>קריאת הלוח</item>
-        <item>שינוי הלוח</item>
+        <item>הקלט אודיו</item>
+        <item>הפעל את האודיו</item>
+        <item>קרא לוח</item>
+        <item>שנה לוח</item>
         <item>לחצני מדיה</item>
         <item>מיקוד אודיו</item>
         <item>שליטה ראשית בעוצמת קול</item>
@@ -85,11 +73,11 @@
         <item>עוצמת קול של התראה</item>
         <item>עוצמת קול של התראות</item>
         <item>‏עוצמת קול של Bluetooth</item>
-        <item>השארה במצב פעיל</item>
+        <item>שמור במצב פעיל</item>
         <item>מיקום</item>
         <item>מיקום</item>
-        <item>קבלת סטטיסטיקת שימוש</item>
-        <item>השתקה/ביטול השתקה של המיקרופון</item>
+        <item>קבל סטטיסטיקת שימוש</item>
+        <item>השתק/בטל השתקה של המיקרופון</item>
         <item>הצגת הודעה קופצת</item>
         <item>הקרנת מדיה</item>
         <item>‏הפעלת VPN</item>
@@ -116,33 +104,33 @@
         <item>מיקום מדויק</item>
         <item>GPS</item>
         <item>רטט</item>
-        <item>קריאת אנשי קשר</item>
+        <item>קרא אנשי קשר</item>
         <item>שנה אנשי קשר</item>
-        <item>קריאת יומן שיחות</item>
-        <item>שינוי יומן השיחות</item>
-        <item>קריאת יומן</item>
-        <item>שינוי יומן</item>
+        <item>קרא יומן שיחות</item>
+        <item>שנה יומן שיחות</item>
+        <item>קרא יומן</item>
+        <item>שנה יומן</item>
         <item>‏סריקת Wi-Fi</item>
         <item>התראה</item>
         <item>סריקה סלולרית</item>
         <item>שיחת טלפון</item>
-        <item>‏קריאת SMS</item>
+        <item>‏קרא SMS</item>
         <item>‏כתוב SMS</item>
-        <item>‏קבלת SMS</item>
-        <item>‏קבלת SMS חירום</item>
+        <item>‏קבל SMS</item>
+        <item>‏קבל SMS חירום</item>
         <item>‏קבל MMS</item>
-        <item>‏קבלת WAP בדחיפה</item>
-        <item>‏שליחת SMS</item>
-        <item>‏קריאת ICC SMS</item>
-        <item>‏כתיבת ICC SMS</item>
-        <item>שינוי הגדרות</item>
-        <item>ציור מעל</item>
+        <item>‏קבל WAP בדחיפה</item>
+        <item>‏שלח SMS</item>
+        <item>‏קרא ICC SMS</item>
+        <item>‏כתוב ICC SMS</item>
+        <item>שנה הגדרות</item>
+        <item>צייר מעל</item>
         <item>גישה אל התראות</item>
         <item>מצלמה</item>
         <item>הקלט אודיו</item>
-        <item>הפעלת האודיו</item>
-        <item>קריאת לוח</item>
-        <item>שינוי לוח</item>
+        <item>הפעל את האודיו</item>
+        <item>קרא לוח</item>
+        <item>שנה לוח</item>
         <item>לחצני מדיה</item>
         <item>מיקוד אודיו</item>
         <item>שליטה ראשית בעוצמת קול</item>
@@ -152,11 +140,11 @@
         <item>עוצמת קול של התרעה</item>
         <item>עוצמת קול של התראה</item>
         <item>‏עוצמת קול של Bluetooth</item>
-        <item>שמירה במצב פעיל</item>
+        <item>שמור במצב פעיל</item>
         <item>עקוב אחר מיקום</item>
         <item>מעקב אחר מיקום עם צריכת סוללה גבוהה</item>
-        <item>קבלת סטטיסטיקת שימוש</item>
-        <item>השתקה/ביטול השתקה של המיקרופון</item>
+        <item>קבל סטטיסטיקת שימוש</item>
+        <item>השתק/בטל השתקה של המיקרופון</item>
         <item>הצגת הודעה קופצת</item>
         <item>הקרנת מדיה</item>
         <item>‏הפעלת VPN</item>
@@ -202,7 +190,7 @@
         <item>100%</item>
     </string-array>
     <string-array name="bearer_entries">
-        <item>לא צוינו</item>
+        <item>לא צוין</item>
         <item>LTE</item>
         <item>HSPAP</item>
         <item>HSPA</item>
@@ -221,8 +209,8 @@
         <item>NR</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>שימוש בבחירת המערכת (ברירת המחדל)</item>
-        <item>16 ביטים לדגימה</item>
+        <item>השתמש בבחירת המערכת (ברירת המחדל)</item>
+        <item>16 סיביות לדגימה</item>
         <item>24 סיביות לדגימה</item>
         <item>32 סיביות לדגימה</item>
     </string-array>
@@ -233,7 +221,7 @@
         <item>32 סיביות לדגימה</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>שימוש בבחירת המערכת (ברירת המחדל)</item>
+        <item>השתמש בבחירת המערכת (ברירת המחדל)</item>
         <item>מונו</item>
         <item>סטריאו</item>
     </string-array>
@@ -244,7 +232,7 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>אופטימיזציה להשגת איכות אודיו מרבית</item>
-        <item>איזון בין איכות החיבור לאיכות אודיו</item>
+        <item>אזן בין איכות החיבור לאיכות אודיו</item>
         <item>אופטימיזציה להשגת איכות חיבור מרבית</item>
         <item>האיכות הטובה ביותר (קצב העברת נתונים מותאם)</item>
     </string-array>
@@ -255,7 +243,7 @@
         <item>האיכות הטובה ביותר (קצב העברת נתונים מותאם)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>שימוש בבחירת המערכת (ברירת המחדל)</item>
+        <item>השתמש בבחירת המערכת (ברירת המחדל)</item>
         <item>44.1 קילו-הרץ</item>
         <item>48.0 קילו-הרץ</item>
         <item>88.2 קילו-הרץ</item>
@@ -269,7 +257,7 @@
         <item>96.0 קילו-הרץ</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>שימוש בבחירת המערכת (ברירת המחדל)</item>
+        <item>השתמש בבחירת המערכת (ברירת המחדל)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>אודיו Qualcomm® aptX™</item>
@@ -291,15 +279,15 @@
         <item>, פעיל (טלפון)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp15</item>
-        <item>avrcp13</item>
         <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>‏AVRCP 1.5 (ברירת המחדל)</item>
+        <item>‏AVRCP 1.4 (ברירת המחדל)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.4</item>
+        <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
@@ -393,7 +381,7 @@
     </string-array>
     <string-array name="color_mode_names">
         <item>דינמי (ברירת מחדל)</item>
-        <item>גוון טבעי</item>
+        <item>טבעי</item>
         <item>רגיל</item>
     </string-array>
     <string-array name="color_picker">
@@ -410,7 +398,7 @@
     </string-array>
     <string-array name="data_usage_data_range">
         <item>30 הימים האחרונים</item>
-        <item>הגדרת מחזור שימוש...</item>
+        <item>הגדר מחזור שימוש...</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>כבוי</item>
@@ -428,9 +416,10 @@
         <item>30 דקות</item>
     </string-array>
     <string-array name="eap_ocsp_type">
-        <item>אין לאמת</item>
+        <item>ללא אימות</item>
         <item>יש לבקש סטטוס של אישורים</item>
         <item>יש לדרוש סטטוס של אישורים</item>
+        <item>יש לדרוש סטטוסים של כל האישורים שאינם מהימנים</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>ללא</item>
@@ -445,13 +434,13 @@
         <item>הכי גדול</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>‏אני לעולם לא רוצה להשתמש בבדיקת HDCP</item>
-        <item>‏שימוש בבדיקת HDCP עבור תוכן DRM בלבד</item>
-        <item>‏אני רוצה להשתמש תמיד בבדיקת HDCP</item>
+        <item>‏לעולם אל תשתמש בבדיקת HDCP</item>
+        <item>‏השתמש בבדיקת HDCP עבור תוכן DRM בלבד</item>
+        <item>‏תמיד השתמש בבדיקת HDCP</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>בלי לבדוק לעולם</item>
-        <item>‏בדיקה אם יש תוכן DRM בלבד</item>
+        <item>‏בדוק אם יש תוכן DRM בלבד</item>
         <item>בדוק תמיד</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
@@ -465,11 +454,6 @@
         <item>10 דקות</item>
         <item>30 דקות</item>
     </string-array>
-    <string-array name="long_press_timeout_selector_list_titles">
-        <item>קצר</item>
-        <item>בינוני</item>
-        <item>ארוך</item>
-    </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>קצר</item>
         <item>בינוני</item>
@@ -480,6 +464,7 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+        <item>ICCID</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>אין</item>
@@ -506,7 +491,7 @@
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>CDMA + LTE/EvDo</item>
         <item>GSM/WCDMA/LTE</item>
-        <item>LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>כללי</item>
         <item>LTE</item>
         <item>LTE/WCDMA</item>
         <item>‏TDSCDMA בלבד</item>
@@ -523,7 +508,7 @@
         <item>‏NR‏/LTE</item>
         <item>‏NR‏/LTE‏/CDMA‏/EvDo</item>
         <item>‏NR‏/LTE‏/GSM‏/WCDMA</item>
-        <item>גלובלי</item>
+        <item>‏NR‏/LTE‏/CDMA‏/EvDo‏/GSM‏/WCDMA</item>
         <item>‏NR‏/LTE‏/WCDMA</item>
         <item>‏NR‏/LTE‏/TDSCDMA</item>
         <item>‏NR‏/LTE‏/TDSCDMA‏/GSM</item>
@@ -545,7 +530,7 @@
         <item>גיבוי</item>
         <item>משקל כבד</item>
         <item>שירות (פועל)</item>
-        <item>שירות (מתבצע אתחול)</item>
+        <item>שירות (מאתחל)</item>
         <item>מקבל</item>
         <item>דף הבית</item>
         <item>פעילות אחרונה</item>
@@ -570,9 +555,9 @@
         <item>30 דקות</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
-        <item>יש לשאול</item>
-        <item>לעולם לא לאפשר</item>
-        <item>התרה תמיד</item>
+        <item>שאל</item>
+        <item>לעולם אל תאפשר</item>
+        <item>אפשר תמיד</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>כבוי</item>
@@ -586,7 +571,7 @@
         <item>‏256K לכל מאגר של יומן רישום</item>
         <item>‏1M לכל מאגר של יומן רישום</item>
         <item>‏4M לכל מאגר של יומן רישום</item>
-        <item>‏8M לכל מאגר נתונים זמני ביומן</item>
+        <item>‏16M לכל מאגר של יומן רישום</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>כבוי</item>
@@ -594,7 +579,7 @@
         <item>‎256K</item>
         <item>1M</item>
         <item>4M</item>
-        <item>8M</item>
+        <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>כבוי</item>
@@ -610,8 +595,8 @@
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>כבוי</item>
-        <item>שרטוט אזור חיתוך שאינו מלבני בצבע כחול</item>
-        <item>הדגשת פקודות האיור שנבדקות בצבע ירוק</item>
+        <item>שרטט אזור חיתוך שאינו מלבני בצבע כחול</item>
+        <item>הדגש את פקודות האיור שנבדקות בצבע ירוק</item>
     </string-array>
     <string-array name="swipe_direction_values">
         <item>1</item>
@@ -624,7 +609,7 @@
         <item>אסיה</item>
         <item>אוסטרליה</item>
         <item>האוקיינוס השקט</item>
-        <item>הכול</item>
+        <item>הכל</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>כבוי</item>
@@ -671,7 +656,7 @@
     <string-array name="vpn_states">
         <item>מנותק</item>
         <item>מאתחל...</item>
-        <item>מתבצעת התחברות…</item>
+        <item>מתחבר ...</item>
         <item>מחובר</item>
         <item>זמן קצוב לתפוגה</item>
         <item>נכשל</item>
@@ -708,16 +693,16 @@
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
-        <item>סטטית</item>
+        <item>סטטי</item>
     </string-array>
     <string-array name="wifi_metered_entries">
-        <item>זיהוי אוטומטי</item>
-        <item>יש להתייחס כרשת עם חיוב לפי צריכת הנתונים</item>
-        <item>יש להתייחס כרשת שבה החיוב הוא לא לפי צריכת הנתונים</item>
+        <item>גילוי אוטומטי</item>
+        <item>יש להתייחס כרשת נמדדת</item>
+        <item>יש להתייחס כרשת לא נמדדת</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>מחובר</item>
-        <item>נשלחה הזמנה</item>
+        <item>הוזמן</item>
         <item>נכשל</item>
         <item>זמין</item>
         <item>מחוץ לטווח</item>
@@ -739,13 +724,13 @@
         <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>‏שימוש בכתובת MAC אקראית (ברירת מחדל)</item>
-        <item>‏שימוש בכתובת MAC של המכשיר</item>
+        <item>‏שימוש ב-MAC אקראי (ברירת מחדל)</item>
+        <item>‏שימוש ב-MAC של המכשיר</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>ללא</item>
         <item>ידני</item>
-        <item>‏תצורת Proxy אוטומטית (PAC)</item>
+        <item>"‏הגדרה אוט' לשרת proxy"</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>חלש</item>
@@ -756,10 +741,10 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>הסריקה מתבצעת…</item>
-        <item>מתבצעת התחברות...</item>
-        <item>מתבצע אימות…</item>
-        <item>‏המערכת משיגה כתובת IP…</item>
+        <item>סורק...</item>
+        <item>מתחבר ...</item>
+        <item>מאמת…</item>
+        <item>‏משיג כתובת IP…</item>
         <item>מחובר</item>
         <item>בהשעיה</item>
         <item>מתנתק...</item>
@@ -770,37 +755,23 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>מתבצעת סריקה...</item>
-        <item>מתבצעת התחברות אל %1$s…</item>
-        <item>מתבצע אימות מול %1$s...</item>
-        <item>‏המערכת משיגה כתובת IP מ-%1$s…</item>
+        <item>סורק...</item>
+        <item>מתחבר אל %1$s…</item>
+        <item>מאמת עם %1$s...</item>
+        <item>‏משיג כתובת IP מ-%1$s…</item>
         <item>מחובר אל %1$s</item>
         <item>בהשעיה</item>
-        <item>המערכת מתנתקת מרשת %1$s...</item>
+        <item>מתנתק מרשת %1$s...</item>
         <item>מנותק</item>
         <item>נכשל</item>
         <item>חסומה</item>
-        <item>המערכת נמנעת זמנית מחיבור חלש</item>
+        <item>נמנע זמנית מחיבור חלש</item>
     </string-array>
     <string-array name="wifi_ttls_phase2_entries">
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
-    </string-array>
-    <string-array name="wifitrackerlib_wifi_status">
-        <item></item>
-        <item>מתבצעת סריקה…</item>
-        <item>מתבצעת התחברות…</item>
-        <item>בתהליך אימות…</item>
-        <item>‏בתהליך של השגת כתובת IP…</item>
-        <item>מחובר</item>
-        <item>בהשעיה</item>
-        <item>מתבצע ניתוק…</item>
-        <item>מנותק</item>
-        <item>נכשל</item>
-        <item>חסום</item>
-        <item>מניעה זמנית של חיבור באיכות ירודה</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>אנימציה כבויה</item>

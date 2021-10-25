@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_device_info">הצג את פרטי המכשיר</string>
+    <string name="accept">אפשר</string>
     <string name="access_token_expired_warning">פג תוקף חשבון Weibo</string>
     <string name="access_token_invalid_warning">חשבון Weibo לא חוקי</string>
     <string name="account">חשבון</string>
@@ -80,6 +81,7 @@
     <string name="binded_description" formatted="false">"%s התחבר לחשבון Mi שלך.
  תוכל להתחבר לחשבון Mi בשימוש %s כעת."</string>
     <string name="button_unbind">התנתק</string>
+    <string name="cancel">ביטול</string>
     <string name="change_activate_email">שנה כתובת דוא\"ל</string>
     <string name="change_email_address">שנה כתובת דוא\"ל</string>
     <string name="change_password">שנה סיסמה</string>
@@ -111,6 +113,7 @@
     <string name="delete_device_btn">הסר</string>
     <string name="delete_device_failed">לא ניתן להסיר את המכשיר</string>
     <string name="delete_device_notice">לאחר שהמכשיר הוסר, הוא ינותק מחשבון Mi באופן אוטומטי. לא תוכל להשתמש במכשיר זה על מנת לגשת לתמונות, הודעות או כל תוכן אחר המאוחסן בחשבון שלך.</string>
+    <string name="deny">דחה</string>
     <string name="device_delete_success_message">במידה ולא נכנסת באמצעות מכשיר זה, שנה סיסמתך באופן מידי.</string>
     <string name="device_delete_success_title">יצא</string>
     <string name="device_list__header">המכשירים שלי</string>
@@ -124,6 +127,7 @@ ID:%s
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="empty" />
     <string name="empty_device_list_notice">אין מכשירים</string>
+    <string name="enable">הגדרות</string>
     <string name="ep_unsupported">לא ניתן להתחבר לחשבון Mi ממכשירך</string>
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
@@ -231,6 +235,7 @@ ID:%s
     <string name="get_phone_verifycode_exceed_limit">מספר רב מידי של קודי אימות נשלחו אל מספר זה. נסה שוב לאחר 24 שעות.</string>
     <string name="google">גוגל</string>
     <string name="google_login">היכנס באמצעות Google</string>
+    <string name="goto_accept">אישור</string>
     <string name="guest_account_label">חשבון אורח Mi</string>
     <string name="health_action_activate">הפעל</string>
     <string name="health_action_install">התקן</string>
@@ -255,9 +260,11 @@ ID:%s
     <string name="kr_permission_sms_desc">בשימוש עבור מילוי אוטומטי של קוד אימות</string>
     <string name="kr_permission_storage_desc">בעבור שמירה של אבחונים</string>
     <string name="loading_micloud_sync_data">רק רגע…</string>
+    <string name="login_3rd_app_with_system_account">היכנס ל-%s</string>
     <string name="login_check_find_device">משיג את פרטי אבטחת המכשיר…</string>
     <string name="login_check_find_device_failed_title">לא ניתן היה לבדוק את פרטי אבטחת המכשיר</string>
     <string name="login_find_device_bind">מכשיר זה מקושר למזהה חשבון Mi קיים (%s).</string>
+    <string name="login_with_other">אפשרויות נוספות</string>
     <string name="logout_account">צא</string>
     <string name="logout_failed">לא ניתן לצאת</string>
     <string name="mi_account_identity_title">אמת את זהותך.</string>
@@ -388,7 +395,6 @@ ID:%s
     <string name="passport_activing_account">מפעיל…</string>
     <string name="passport_adding_account">מוסיף חשבון…</string>
     <string name="passport_area_code_hot">בשימוש שכיח</string>
-    <string name="passport_area_code_others">שימוש בתחילית שונה</string>
     <string name="passport_area_code_title">קידומת מדינה</string>
     <string name="passport_auto_generate_pwd">צור סיסמה מאובטחת</string>
     <string name="passport_back">הקודם</string>
@@ -615,10 +621,14 @@ ID:%s
     <string name="passport_yes">כן</string>
     <string name="password_view_hide_password">הסתר סיסמה</string>
     <string name="password_view_show_password">הצג סיסמה</string>
+    <string name="permission_desc_read_sms">כדי למלא קודי אימות באופן אוטומטי</string>
+    <string name="permission_desc_write_external_storage">כדי להעלות יומני רישום עבור משוב</string>
     <string name="permission_group_contacts">אנשי קשר</string>
     <string name="permission_group_phone">טלפון</string>
     <string name="permission_group_sms">מסרונים</string>
     <string name="permission_group_storage">אחסון</string>
+    <string name="permission_read_sms">גישה להודעות</string>
+    <string name="permission_write_external_storage">לגשת ולאחסן פריטים באחסון</string>
     <string name="personal_info_desc">תמונה, כינוי ועוד</string>
     <string name="phone_num_use_for">מספר הטלפון משמש ל:</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות.</string>
@@ -636,6 +646,12 @@ ID:%s
     <string name="recycle_phone_notification_title">סיכון אבטחה בחשבון Mi</string>
     <string name="removing_account">יוצא…</string>
     <string name="replace_binded_phone">החלף טלפון</string>
+    <string name="request_open_permission">נדרשות הרשאות</string>
+    <string name="request_use_camera_message">האם לאפשר לחשבון Mi לגשת למצלמה של הטלפון שלך?</string>
+    <string name="request_use_camera_title">גישה למצלמה</string>
+    <string name="request_use_gallery_message">האם לאפשר לחשבון Mi לגשת לגלריה?</string>
+    <string name="request_use_gallery_title">גישה לגלריה</string>
+    <string name="request_use_writing_clipboard_message">כדי להעתיק את מזהה חשבון Mi שלך, אפשר לחשבון Mi לשמור פריטים בלוח.</string>
     <string name="resend_active_email">שלח מחדש</string>
     <string name="resend_email_reach_limit_message">ביקשת מספר רב מידי של דוא\"ל אימות. וודא כי דוא\"ל האימות אינו נמצא בתיקית דואר הזבל שלך.</string>
     <string name="resend_email_reach_limit_title">לא ניתן לשלוח דוא\"ל</string>
@@ -765,6 +781,10 @@ ID:%s
     <string name="used_cloud_storage_info">%s בשימוש</string>
     <string name="user_avatar_update_title">החלף תמונת פרופיל</string>
     <string name="user_avatar_uploading">רק רגע…</string>
+    <string name="user_instruction_all_purpose">ברוך הבא לחשבון Mi! באפשרותך להשתמש בחשבון כדי לקבל גישה לשירותים הניתנים על ידי Xiaomi והחברות המסונפות אליה, כגון Mi.com, Xiaomi Cloud ו-GetApps. ניתן לקבל Mi מטבעות, לקנות מוצרים וירטואליים וליהנות משירותי ערך מוסף, כולל משחקים, ערכות נושא וספרים אלקטרוניים.</string>
+    <string name="user_instruction_tip">עליך לקרוא את התנאים וההגבלות ולהסכים אתם כדי שתוכל להתחבר.</string>
+    <string name="user_license_with_3rd_app">&lt;Data>על ידי כניסה עם חשבון Mi שלי, אני מאשר/ת שקראתי והסכמתי ל-&lt;a href=%1$s>הסכם המשתמשים&lt;/a> ו&lt;a href=%2$s>מדיניות פרטיות&lt;/a> ו &lt;a href=%3$s>הסכם משתמשים&lt;/a> ו&lt;a href=%4$s>מדיניות הפרטיות&lt;/a> של חשבון Mi.&lt;/Data></string>
+    <string name="user_license_without_3rd_app">&lt;Data>קראתי והסכמתי ל&lt;a href=%1$s>הסכם המשתמשים&lt;/a> ו&lt;a href=%2$s>מדיניות הפרטיות&lt;/a> של חשבון Mi.&lt;/Data></string>
     <string name="vip_account_settings">הגדרות VIP</string>
     <string name="vip_settings_info">הגדרות VIP</string>
     <string name="wednesday">רביעי</string>
