@@ -229,7 +229,6 @@
     <string name="back">חזרה</string>
     <string name="bank_card_detail">פרטי כרטיס האשראי</string>
     <string name="bcc">העתק סמוי</string>
-    <string name="bcc_heading">"העתק סמוי: "</string>
     <string name="bill_center_setting">הגדרות חיוב</string>
     <string name="bill_center_setting_head">ייבא מידע מחשבונות אלה</string>
     <string name="bill_cycle_text">מחזור חיוב</string>
@@ -251,7 +250,6 @@
     <string name="cancel_pop3_attchemt_downloading">לא ניתן לבטל הורדות של קבצים מצורפים בחשבונות POP3</string>
     <string name="cant_move_or_change_labels">לא ניתן להעביר פריטים ממספר חשבונות.</string>
     <string name="cc">העתק</string>
-    <string name="cc_attribution">העתק: %1$s&lt;br></string>
     <string name="cc_bcc">העתק/העתק סמוי</string>
     <string name="cc_heading">"העתק: "</string>
     <string name="certificate_add_failed">לא ניתן היה להוסיף את התעודה \"%s\"</string>
@@ -281,7 +279,6 @@
     <string name="click_to_reload">הקש על המסך על מנת לרענן</string>
     <string name="close">סגירה</string>
     <string name="collapse_recipient_details">צמצם את פרטי הנמען</string>
-    <string name="colon">:</string>
     <string name="compose">צור הודעה</string>
     <string name="compose_event">הזמנה</string>
     <string name="compose_paste_address_oob">יותר מידי תוים</string>
@@ -596,7 +593,6 @@
     <string name="go_to_mail_content">הצג אימייל</string>
     <string name="have_auth_code">יש לי קוד</string>
     <string name="header_category_account">חשבונות</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_label_general_preferences">כללי</string>
     <string name="help_and_info">עזרה</string>
     <string name="help_me_get_qq_auth">קבל קוד</string>
@@ -616,7 +612,6 @@
     <string name="invalid_recipient">"הכתובת %s  אינה חוקית."</string>
     <string name="invalid_recipient_title">שגיאת נמען</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">אין עדיין מיילים.</string>
     <string name="load_from_remote">חיפוש בתיבת הדואר בשרת</string>
     <string name="load_more">טען עוד</string>
@@ -1134,7 +1129,6 @@
 %s"</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
