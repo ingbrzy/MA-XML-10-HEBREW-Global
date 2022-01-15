@@ -206,8 +206,8 @@ dd MM"</string>
     <string name="my_style_title">הנושא שלי</string>
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
-    <string name="notification_anim_pulse">פעימה</string>
-    <string name="notification_anim_rhythm">קצב</string>
+    <string name="notification_anim_pulse">פעימות (אדום)</string>
+    <string name="notification_anim_rhythm">פעימות (כחול)</string>
     <string name="notification_anim_star">אור כוכבים</string>
     <string name="notification_nothing">ללא אפקט</string>
     <string name="notification_screen_on">הבהרת המסך</string>
@@ -259,6 +259,7 @@ dd MM"</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
     <string name="temporary_style">כ 10 שניות לאחר שתלחץ</string>
+    <string name="temporary_style_5">למשך 5 שניות לאחר הלחיצה</string>
     <string name="temporary_style_summary">מומלץ</string>
     <string name="text_color">צבע הטקסט</string>
     <string name="text_length_exceed_limit_alert">*הטקסט שהזנת ארוך מדיי</string>

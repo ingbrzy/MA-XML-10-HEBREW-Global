@@ -21,7 +21,6 @@
     <string name="accessibility_keyguard_face_unlock_view">פתיחה עם זיהוי פנים</string>
     <string name="accessibility_left_control_center_button">קיצור דרך</string>
     <string name="accessibility_left_lock_screen_magazine_button">טפט קרוסלה</string>
-    <string name="accessibility_left_xmyzl_button">בקרת קסם של Xiaomi</string>
     <string name="accessibility_manual_zen_less_time">פחות זמן.</string>
     <string name="accessibility_manual_zen_more_time">יותר זמן.</string>
     <string name="accessibility_no_wifi">מנותק מהרשת האלחוטית.</string>
@@ -216,7 +215,6 @@
     <string name="category_personal">אישי</string>
     <string name="category_work">עבודה</string>
     <string name="charge_length_format">לפני %1$s</string>
-    <string name="choose_clock_dual_clock_hint_text">לא ניתן לשנות את הפורמט כאשר השעון הכפול מופעל</string>
     <string name="choose_clock_panel_title">פריסת מסך נעילה</string>
     <string name="choose_clock_third_theme_hint_text">נעילת מסך מהנושא שהוחל עכשיו</string>
     <string name="choose_clock_title_left_top">מיושר לימין</string>
@@ -279,9 +277,6 @@
     <string name="development_settings_not_available">אפשרויות המפתח אינן זמינות עבור משתמש זה</string>
     <string name="development_settings_summary">הגדר אפשרויות עבור פיתוח יישומים</string>
     <string name="development_settings_title">אפשרויות מפתח</string>
-    <string name="device_locked_without_biometric">לא ניתן לפתוח מכשיר זה באמצעות טביעת אצבע או זיהוי פנים כשאתה משתמש בנעילת מסך של גורם שלישי</string>
-    <string name="device_locked_without_biometric_face">לא ניתן לפתוח מכשיר זה באמצעות זיהוי פנים כשאתה משתמש בנעילת מסך של גורם שלישי</string>
-    <string name="device_locked_without_biometric_finger">לא ניתן לפתוח מכשיר זה באמצעות טביעת אצבע כשאתה משתמש בנעילת מסך של גורם שלישי</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">הערה: לאחר אתחול יישום זה לא יופעל עד שתבטל את נעילת המכשיר.</string>
     <string name="disable_overlays">השבת שכבת על של HW</string>
@@ -325,7 +320,6 @@
     <string name="face_unlock_pin_and_fingerprint">בטל נעילה בעזרת טביעת אצבע או הזן קוד PIN</string>
     <string name="face_unlock_reveal_eye">גלה את עיניך</string>
     <string name="face_unlock_reveal_mouth">גלה את השפתיים שלך</string>
-    <string name="face_unlock_success">חסימה בוטלה בהצלחה</string>
     <string name="failed_to_open_app_settings_toast">לא ניתן היה לפתוח את ההגדרות עבור %1$s</string>
     <string name="fingerprint_add_text">ממשק טביעת האצבע התעדכן. הוסף את טביעת האצבע שלך שוב.</string>
     <string name="fingerprint_add_title">הוספת טביעת אצבע</string>
@@ -352,7 +346,6 @@
     <string name="fs_gesture_back_ready_title">חזרה</string>
     <string name="fs_gesture_final_over">סיימתי</string>
     <string name="fs_gesture_final_restart">עוד פעם אחת</string>
-    <string name="fs_gesture_final_see_more">צפה בהדגמות נוספות תחת הגדרות > מסך הבית > ניווט במערכת</string>
     <string name="fs_gesture_final_summary">"באפשרותך לחזור לשימוש בלחצנים ב'הגדרות' > 'תצוגת מסך מלא'"</string>
     <string name="fs_gesture_final_title">אתה מוכן לצאת לדרך!</string>
     <string name="fs_gesture_finish">יפה!</string>
@@ -367,6 +360,28 @@
     <string name="guest_nickname">אורח</string>
     <string name="gxzw_area">סורק טביעת אצבע</string>
     <string name="gxzw_press_harder">לחץ חזק יותר</string>
+    <string name="gxzw_quick_close">סגור</string>
+    <string name="gxzw_quick_open_add_event">הוסף אירוע</string>
+    <string name="gxzw_quick_open_add_event_sub">לוח שנה</string>
+    <string name="gxzw_quick_open_alipay_pay">קוד תשלום</string>
+    <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
+    <string name="gxzw_quick_open_alipay_scan">סורק</string>
+    <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
+    <string name="gxzw_quick_open_qr_code">קוד QR</string>
+    <string name="gxzw_quick_open_qr_code_sub">סורק</string>
+    <string name="gxzw_quick_open_search">חיפוש</string>
+    <string name="gxzw_quick_open_search_sub">דפדפן</string>
+    <string name="gxzw_quick_open_skip_teach">דלג על ההדרכה</string>
+    <string name="gxzw_quick_open_title">פתח את תפריט קיצורי הדרך</string>
+    <string name="gxzw_quick_open_wechat_pay">קוד תשלום</string>
+    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
+    <string name="gxzw_quick_open_wechat_scan">סורק</string>
+    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
+    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
+    <string name="gxzw_quick_open_xiaoai_title1">אמור את שם היישום אשר בכוונתך להפעיל</string>
+    <string name="gxzw_quick_open_xiaoai_title2">אמור את שם התכונה אשר בכוונתך להפעיל</string>
+    <string name="gxzw_quick_tip_press">המשך ללחוץ…</string>
+    <string name="gxzw_quick_tip_slide">אל תרים את אצבעך. החלק על מנת לבחור.</string>
     <string name="gxzw_try_again">נסה שוב</string>
     <string name="gxzw_try_more_again">נסה שוב</string>
     <string name="gxzw_use_password">השתמש בסיסמה שלך לביטול הנעילה</string>
@@ -400,15 +415,13 @@
     <string name="input_lockscreen_password_hint_text">הזן סיסמה</string>
     <string name="input_lockscreen_pattern_hint_text">צייר דפוס</string>
     <string name="input_lockscreen_pin_hint_text">הזן קוד PIN</string>
-    <string name="input_password_after_boot_msg">יש להזין את הסיסמה לאחר אתחול המכשיר</string>
+    <string name="input_password_after_boot_msg">לביטול נעילת המכשיר, הזן סיסמתך</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">לא ניתן להחליף בין שטחים במהלך שיחה</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">לא ניתן להחליף שטחים כאשר מצב בקרת ההורים מופעל</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">לא ניתן היה להחליף בין משטחים כאשר מצב חיסכון קיצוני בסוללה עובד</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">"עליך להיכנס ל'שטח ראשון' לאחר שהמכשיר אותחל"</string>
     <string name="input_password_hint_text">הזן סיסמה</string>
-    <string name="input_pattern_after_boot_msg">יש לצייר את התבנית לאחר אתחול המכשיר</string>
     <string name="input_pattern_hint_text">צייר את תבנית הפתיחה שלך</string>
-    <string name="input_pin_after_boot_msg">יש להזין את קוד ה-PIN לאחר אתחול המכשיר</string>
     <string name="input_pin_code">הזן PIN</string>
     <string name="input_puk_code">הכנס PUK</string>
     <string name="install_other_apps">התקנת יישומים לא מוכרים</string>
@@ -420,7 +433,6 @@
     <string name="keyboard_key_space">רווח</string>
     <string name="keyguard_charging_back_to_lockscreen">חזרה אל מסך הנעילה</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
-    <string name="keyguard_charging_double_fast_and_level_tip">מגדיל את מהירות הטעינה %s</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">היום %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">אתמול %s</string>
@@ -508,7 +520,7 @@ d MMMM"</string>
     <string name="mock_location_app">בחר יישום מדמה מיקום</string>
     <string name="mock_location_app_not_set">לא הוגדר יישום מדמה מיקום</string>
     <string name="mock_location_app_set">יישום מדמה מיקום: %1$s</string>
-    <string name="msim_set_sub_not_supported_phone_in_call">לא ניתן להגדיר במהלך שיחה</string>
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="no_application">אף אחד</string>
     <string name="notification_control_center">מרכז בקרה והתראות</string>
     <string name="notification_group_collapse_button_text">קיפול</string>
@@ -519,7 +531,6 @@ d MMMM"</string>
     <string name="open_camera_hint_text">גרור את האייקון על מנת לפתוח מצלמה</string>
     <string name="open_lock_screen_magazine_hint_text">החלק ימינה לאפשריות נוספות</string>
     <string name="open_remote_center_hint_text">החלק ימינה בכדי לצפות בפקדים</string>
-    <string name="open_xmyzl_hint_text">נא להעביר אצבע ימינה לפתיחת בקרת הקסם של Xiaomi</string>
     <string name="osu_completing_sign_up">מסיים הרשמה</string>
     <string name="osu_connect_failed">לא ניתן להתחבר</string>
     <string name="osu_opening_provider">פותח את %1$s</string>
@@ -533,7 +544,7 @@ d MMMM"</string>
     <string name="phone_locked_foget_password_method_content">&lt;Data>עליך &lt;font color=#a5220e>למחוק את כל הנתונים&lt;/font> המאוחסנים במכשיר שלך, כולל התמונות ואנשי הקשר, ואז להגדיר סיסמת נעילת מסך חדשה.&lt;/Data></string>
     <string name="phone_locked_foget_password_method_next">הבא</string>
     <string name="phone_locked_foget_password_ok">הבנתי</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>יש לכבות את המכשיר, ולאחר מכן ללחוץ לחיצה ממושכת על כפתורי &lt;font color=#e6e6e6>[ההפעלה]&lt;/font> וגם &lt;font color=#e6e6e6>[עוצמת הקול+]&lt;/font>, עד שיופיע &lt;img src=\"\">.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>כבה את מכשירך, לחץ וכבה את &lt;font color=#a5220e>לחצן ההפעלה&lt;/font> ואת &lt;font color=#a5220e>לחצן הגברת השמע&lt;/font> בו זמנית עד להופעת הלוגו של Mi.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>בחר &lt;font color=#a5220e>\"הסרה ואיפוס\"&lt;/font> והמתן לביצוע אתחול של המכשיר.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">כיצד למחוק נתונים?</string>
     <string name="phone_locked_string">מכשיר זה נעול</string>
@@ -566,6 +577,7 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">שם המארח של DNS פרטי</string>
     <string name="private_dns_mode_provider_failure">לא ניתן להתחבר</string>
     <string name="private_dns_mode_provider_hostname_hint">הזן את שם המארח של ספק ה-DNS</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">בעיה בהתחברות. כבה את המכשיר והפעל אותו מחדש</string>
     <string name="profile_info_settings_title">נתוני פרופיל</string>
     <string name="qs_control_big_tile_state_closed">כבוי</string>
@@ -608,7 +620,7 @@ d MMMM"</string>
     <string name="quick_settings_papermode_label">מצב קריאה</string>
     <string name="quick_settings_powermode_label">מצב ביצועים</string>
     <string name="quick_settings_quietmode_label">לא להפריע</string>
-    <string name="quick_settings_rotationlock_label">נעילת כיוון</string>
+    <string name="quick_settings_rotationlock_label">ביטול סיבוב</string>
     <string name="quick_settings_screenbutton_label">לחצנים</string>
     <string name="quick_settings_screenlock_label">מסך נעילה</string>
     <string name="quick_settings_screenshot_label">צילום מסך</string>
@@ -670,8 +682,6 @@ d MMMM"</string>
     <string name="show_screen_updates_summary">הבזק את מלוא פני השטח של חלונות כאשר הם מתעדכנים</string>
     <string name="show_touches">הצג נגיעות</string>
     <string name="show_touches_summary">הצג משוב ויזואלי עבור נגיעות</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>לחץ והחזק את הלחצנים &lt;font color=#e6e6e6>[[Power]]&lt;/font> ו-&lt;font color=#e6e6e6>[עוצמת שמע+]&lt;/font> עד שתראה את &lt;img src=\"\">.</Data></string>
-    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>בחר ב-&lt;font color=#e6e6e6>[מחק נתונים]&lt;/font> ולאחר מכן הקש על &lt;font color=#e6e6e6>[Reboot]&lt;/font>.</Data></string>
     <string name="sim_state_locked_dialog_title">כרטיס SIM לא חוקי</string>
     <string name="sim_state_locked_puk_dialog_message">הזנת קוד PUK שגוי לפחות %d פעמים. כרטיס ה-SIM שלך אינו חוקי כעת. החלף את כרטיס ה-SIM בכרטיס אחר.</string>
     <string name="simulate_color_space">צור הדמיה של מרחב צבעים</string>

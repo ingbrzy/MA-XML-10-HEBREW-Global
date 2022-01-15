@@ -79,10 +79,14 @@
     <string name="device_status_success">נשלח בהצלחה</string>
     <string name="device_status_waiting">ממתין…</string>
     <string name="device_type_pc">מחשב</string>
+    <string name="disable_nfc">NFC הושבת לצורך טעינה אלחוטית</string>
+    <string name="disable_nfc_reverse">NFC הושבת לצורך טעינה אלחוטית אחורית</string>
     <string name="eighthours">8 שעות</string>
     <string name="enable_livetalk_summary">חסוך 70% מהחיובים בגין השיחות שלך</string>
     <string name="enable_livetalk_title">הפעל חבילת Top-up</string>
     <string name="enable_midrop">הפעל</string>
+    <string name="enable_nfc">הטעינה הסתיימה. NFC הופעל מחדש.</string>
+    <string name="enable_nfc_reverse">הטעינה האחורית הסתיימה. NFC הופעל מחדש.</string>
     <string name="fc_dialog_body">לשלוח דו\"ח שגיאות אל Mi לצורך ניתוח? דו\"ח זה עשוי להכיל מידע המאפשר זיהוי אישי. הדו\"ח שלך יעזור בתיקון תקלה זו ולעולם לא ישותף בשום הקשר מסחרי.</string>
     <string name="fc_dialog_jump_to_preview">הצג סיכום</string>
     <string name="file_cannot_print">לא ניתן להדפיס פריט זה.</string>
@@ -159,7 +163,6 @@
     <string name="open_close_tip_content">לסגירת החלון הצף לחץ לחיצה ממושכת על סרגל הפעולות ולאחר מכן העבר אצבע כלפי מעלה</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
-    <string name="other_ime">מקלדות אחרות</string>
     <string name="package_delete_confirm_step_1">להסיר את התקנת %s?</string>
     <string name="package_delete_confirm_step_2">הסרת התקנת יישום זה עשויה לגרום למערכת שלך להפוך לבלתי יציבה.</string>
     <string name="package_delete_confirm_step_3">לא תוכל לפתוח יישום זה לאחר הסרת התקנתו.</string>

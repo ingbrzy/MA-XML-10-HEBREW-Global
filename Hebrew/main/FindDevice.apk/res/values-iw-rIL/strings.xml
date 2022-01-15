@@ -9,6 +9,9 @@
     <string name="captcha">זיהוי תוים</string>
     <string name="change_find_device_status_failed">לא ניתן היה לבטל את הנעילה. %s.</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">לקבלת גישה למספר הטלפון על מנת לאתר את המכשיר כשהוא לא מחובר לאינטרנט</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">לאיתור מכשיר זה כשהוא לא מחובר לאינטרנט</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">כדי לאתר את המכשיר שלך ולהעביר אותו למצב אובדן</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />

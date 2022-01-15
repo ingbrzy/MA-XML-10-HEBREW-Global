@@ -24,6 +24,7 @@
     <string name="calibrate_success">כויל בהצלחה</string>
     <string name="calibrate_tip">הטה את מכשירך וגלגל את הכדור מסביב למעגל</string>
     <string name="calibrate_title">כיול המצפן</string>
+    <string name="calibrating">כיול המצפן</string>
     <string name="cancel">ביטול</string>
     <string name="cannot_get_location">--</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
@@ -196,9 +197,10 @@
     <string name="month_september_shortest">"ספט'"</string>
     <string name="more">עוד</string>
     <string name="morning">בוקר</string>
+    <string name="new_cta_app_purpose">צפייה בהנחיות והגעה בקואורדינטות</string>
     <string name="new_cta_v2_app_purpose">הצגת הכיוונים, הקואורדינטות, הלחץ האטמוספרי והגובה הנוכחי</string>
-    <string name="new_permission_camera_desc">לבצע כיול</string>
-    <string name="new_permission_location_desc">להציג קואורדינטות</string>
+    <string name="new_permission_camera_desc">כדי לבצע כיול</string>
+    <string name="new_permission_location_desc">כדי להציג קואורדינטות</string>
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
     <string name="not_allowed">לא הוענקה</string>
@@ -206,6 +208,7 @@
     <string name="open_perm_msg">המצפן זקוק להרשאות גישה למידע אודות המיקום שלך ולגישה למצלמה. ההרשאה נחוצה בכדי לקבוע את הקואורדינטות ולהעניק תצוגות מקדימות חיות. האם לאפשר?</string>
     <string name="open_perm_msg_no_camera">המצפן צריך לקבל גישה לנתוני המיקום כדי לקבוע את הקואורדינטות. האם לאפשר זאת?</string>
     <string name="open_perm_title">נדרשות הרשאות</string>
+    <string name="pageIndicator">%1$s. %2$s.</string>
     <string name="permission_camera_desc">להציג אזימוט בתצוגה המקדימה החיה</string>
     <string name="permission_description">פרטי הרשאות</string>
     <string name="permission_location_desc">להציג קואורדינטות</string>

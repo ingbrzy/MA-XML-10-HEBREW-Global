@@ -10,6 +10,7 @@
     <string name="alert_message_delete_record">מחיקת ההקלטה ממכשירך תביא למחיקתה גם מ- Xiaomi Cloud. האם למחוק כעת?</string>
     <string name="alert_message_delete_record_title">למחוק הקלטה?</string>
     <string name="all_record">כל ההקלטות</string>
+    <string name="allowed">ניתנה</string>
     <string name="am">AM</string>
     <string name="app_name">רשמקול</string>
     <string name="app_record">הקלטות יישום</string>
@@ -148,6 +149,7 @@
     <string name="head_set_tip_dialog_ok">הבנתי</string>
     <string name="head_set_tip_dialog_title">השתמש במיקרופון הפנימי</string>
     <string name="invalid_argument">טיעון לא חוקי</string>
+    <string name="invisible_mode_error_tip">כבה את מצב גלישה בסתר בהגדרות כדי שתוכל להשתמש במיקרופון</string>
     <string name="keywords_search_call_record">הקלט שיחות;הקלט שיחה;הקלטת שיחה;הקלטת שיחות</string>
     <string name="keywords_search_record">הקלטה חדשה; הוספת הקלטה;הקלטה;הקלטות;תמליל;תמלול;רשמקול;רשמקול;מקליט שמע;יישום הקלטה;יישום הקלטות;איך אני מקליט; כיצד להקליט שמע;איפה הרשמקול; רשמקול MIUI</string>
     <string name="keywords_search_record_list">רשמקול;תמליל;תמלילים;הקלט;שתף הקלטה;שתף הקלטות;הקלטה;הקלטות</string>
@@ -172,6 +174,7 @@
     <string name="mi_account_ok">היכנס</string>
     <string name="mi_account_title">היכנס באמצעות חשבון Mi</string>
     <string name="midnight">לילה</string>
+    <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
@@ -252,6 +255,7 @@
     <string name="no_records">עדיין אין כאן הקלטות</string>
     <string name="noon">צהריים</string>
     <string name="normal_settings_pref_title">הגדרות כלליות</string>
+    <string name="not_allowed">לא ניתנה</string>
     <string name="notification_message_all_paused">ממתין לחיבור רשת אלחוטית.</string>
     <string name="notification_playback">מנגן…</string>
     <string name="notification_recording">מקליט…</string>
@@ -295,6 +299,15 @@
     <string name="pay_error_cancel">התשלום בוטל</string>
     <string name="pay_error_null">לא יכול לסיים את התשלום. בדוק את חשבונך.</string>
     <string name="pay_error_unknown">שגיאה לא ידועה</string>
+    <string name="permission_desc">פרטי הרשאות</string>
+    <string name="permission_dialog_cancel">ביטול</string>
+    <string name="permission_dialog_ok">הגדרות</string>
+    <string name="permission_record">הקלטת שמע</string>
+    <string name="permission_record_description">כדי לספק את שירותי הקלטת שמע</string>
+    <string name="permission_storage">גישה לאחסון</string>
+    <string name="permission_storage_description">כדי לנהל הקלטות ולהוריד אותן מהענן</string>
+    <string name="permission_storage_description_for_download">כדי להוריד הקלטות מהענן</string>
+    <string name="permission_storage_description_for_manage_files">כדי לנהל הקלטות</string>
     <string name="play_speed">מהירוצ %1$.1fX</string>
     <string name="playback_delete_records">מחק הקלטה</string>
     <string name="playback_share_records">שתף הקלטה</string>
@@ -315,6 +328,8 @@
     <string name="preference_status_bar_indicator_prompt">להציג מחוון כחול על מסך הנעילה בזמן הקלטה</string>
     <string name="preference_tip_rename">שנה את שמות ההקלטות באופן ידני</string>
     <string name="privacy_policy_title">מדיניות הפרטיות</string>
+    <string name="privacy_settings">פרטיות</string>
+    <string name="progress">סרגל התקדמות הניגון</string>
     <string name="recognition_button_add_to_queue">הוסף לתור</string>
     <string name="recognition_button_cancel">לא עכשיו</string>
     <string name="recognition_button_start">תמלל</string>
@@ -382,6 +397,7 @@
     <string name="record_mark_point">סמן את %s</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute">​</string>
+    <string name="record_permission_dialog_title">נדרשת הרשאת גישה למיקרופון</string>
     <string name="record_quliaty_preference_title">איכות הקלטה</string>
     <string name="record_resotre">משחזר רשומות</string>
     <string name="recorder_record">שמע</string>
@@ -414,6 +430,11 @@
     <string name="rename_no_more_tip">אל תציג שוב</string>
     <string name="retry">נסה שוב</string>
     <string name="runtime_permission_ungranted">"לא ניתן להשתמש ב'רשמקול' עקב מחסור בהרשאות"</string>
+    <string name="saf_permission_dialog_content">עקב המגבלות של אנדרואיד, יישום הרשמקול זקוק להרשאת גישה להקלטות שהוקלטו על-ידי יישומים אחרים. עליך לאשר לרשמקול גישה לאותן ההקלטות כדי לצפות בהן.</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">הגדרות</string>
+    <string name="saf_permission_dialog_later">לא, תודה</string>
+    <string name="saf_permission_dialog_no_more_tip">לא להציג שוב</string>
+    <string name="saf_permission_dialog_title">נדרשות הרשאות</string>
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
@@ -431,6 +452,7 @@
     <string name="search_tip_rename">שנה את שם ההקלטות באופן ידני</string>
     <string name="send">שליחה</string>
     <string name="service_instructions">אודות iflyrec.com</string>
+    <string name="settings_saf_permission">הרשאות לניהול קבצים</string>
     <string name="share">שיתוף</string>
     <string name="share_dialog_title">שתף באמצעות</string>
     <string name="shortcut_records">הקלטות</string>
@@ -450,6 +472,7 @@
     <string name="status_bar_back">"לחץ על מנת לחזור ל'רשמקול'"</string>
     <string name="status_bar_recording">מקליט…</string>
     <string name="status_bar_recording_pause">הרשמקול הופסק</string>
+    <string name="storage_permission_dialog_title">נדרשת הרשאת גישה לאחסון</string>
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
@@ -536,6 +559,7 @@
     <string name="uninstall_warning_title">להסיר את הרשמקול?</string>
     <string name="usage_description">תמלול קובצי שמע וסנכרון פריטים עם הענן</string>
     <string name="user_feedback">משוב</string>
+    <string name="view_privacy">צפייה במדיניות הפרטיות</string>
     <string name="webview_check_network">הגדרות רשת</string>
     <string name="webview_data_error">התרחשה שגיאה</string>
     <string name="webview_locating_fail">לא ניתן היה לאתר את מיקומך</string>

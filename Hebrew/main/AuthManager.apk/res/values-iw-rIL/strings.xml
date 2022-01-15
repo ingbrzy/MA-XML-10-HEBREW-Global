@@ -138,7 +138,6 @@
     <string name="clipboard_read_ai_deny_once">הגביל את הגישה ללוח עבור %1$s</string>
     <string name="clipboard_read_allow_once">היישום %1$s ניגש לפריטים בלוח</string>
     <string name="clipboard_read_deny_dialog_title">הגביל את הגישה ללוח עבור %1$s</string>
-    <string name="close">סגירה</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -330,7 +329,6 @@
     <string name="screen_overlay_button">פתח את הגדרות המכשיר</string>
     <string name="screen_overlay_message">"על מנת לשנות הרשאה זו, עליך לכבות את אפשרות שכבת-על על המסך ב'הגדרות' > 'יישומים."</string>
     <string name="screen_overlay_title">התגלתה שכבת-על על המסך</string>
-    <string name="send">שליחה</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>

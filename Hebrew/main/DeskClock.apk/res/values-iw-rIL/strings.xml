@@ -40,6 +40,7 @@
     <string name="alert_vibrate_enable_summary">הפעל רטט יחד עם צלצול השעון המעורר</string>
     <string name="alert_volume">עוצמת הקול של הרינגטון</string>
     <string name="alert_volume_summary">הגדר את עוצמת הקול לרינגטון השעון המעורר והטיימרים</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi AI מדבר…</string>
     <string name="already_exist">הטיימר הזה קיים כבר</string>
     <string name="am">AM</string>
     <string name="analog_gadget">שעון אנלוגי</string>
@@ -83,6 +84,7 @@
     <string name="channel_name_timer">שעון עצר</string>
     <string name="check_theme_app_install">ודא כי ערכות הנושא של יישום זה מותקנת על מכשירך.</string>
     <string name="check_voice_assist_app_version">עדכן את Mi AI לגרסה העדכנית.</string>
+    <string name="cities_show_limit_desc">לא ניתן להציג שעונים נוספים</string>
     <string name="city_time_contrast_desc">הקש כדי להשוות זמן בערים שונות</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="clock_bg_button_setting_summary_common">בחר צבע רקע עבור יישום השעון</string>
@@ -327,7 +329,7 @@
     <string name="module_white_noise_download_data">שעון צריך להוריד קבצי שמע עבור שעוני רקע. נדרשים 30מגה של נתונים ניידים עבור הורדה זו. האם להוריד כעת?</string>
     <string name="module_white_noise_download_data_privacy">&lt;Data>&lt;על מנת להוריד קבצי שמע עבור שעון ספירה לאחור מופחת רעש (≈30מב) ועל מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו &lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>. אתה משתמש בנתונים סלולריים כעת. האם אתה מסכים?&lt;/Data></string>
     <string name="module_white_noise_download_wifi">השעון צריך להוריד קבצי שמע עבור שעוני רעש רקע. האם להוריד כעת?</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data>&lt;על מנת לספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, אתה חייב גם לקרוא ולהסכים &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו&lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>האם אתה מסכים?&lt;/Data></string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data>כדי להוריד קובצי שמע עבור טיימרים של רעשי סביבה ולספק שירותים מותאמים אישית, השעון צריך להתחבר לאינטרנט. לפני השימוש בשעון, עליך גם לקרוא ולהסכים ל&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו. מסכים?&lt;/Data></string>
     <string name="monday">שני</string>
     <string name="monday_short">"ב'"</string>
     <string name="monday_shortest">"ב'"</string>
@@ -399,12 +401,12 @@
     <string name="permission_related">הרשאות</string>
     <string name="personal_recommend">המלצות מותאמות אישית עבור תוכן</string>
     <string name="pm">PM</string>
-    <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="privacy_policy">מדיניות הפרטיות</string>
     <string name="privacy_policy_title">מדיניות הפרטיות</string>
     <string name="privacy_settings_title">פרטיות</string>
     <string name="query_privacy_policy">צפה במדיניות הפרטיות</string>
     <string name="reach_upper_limit">אין אפשרות להוסיף טיימרים נוספים</string>
-    <string name="read_external_storage_permission_desc">להגדיר צלצולים מותאמים אישית</string>
+    <string name="read_external_storage_permission_desc">כדי להגדיר צלצולים מותאמים אישית</string>
     <string name="read_internal_storage">גישה לאחסון</string>
     <string name="remind_ringtone">צלצול</string>
     <string name="repeat_count">פעמים</string>
@@ -413,6 +415,7 @@
     <string name="repeat_count_value_ten">10</string>
     <string name="repeat_count_value_three">3</string>
     <string name="repeat_count_value_two">2</string>
+    <string name="repeat_type">חזור</string>
     <string name="reset">אפס</string>
     <string name="revert">חזרה</string>
     <string name="ringtone_all">כל הרינגטונים</string>
@@ -431,7 +434,9 @@
     <string name="search_stopwatch_keywords">שעון עצר</string>
     <string name="search_timer_keywords">טיימר (מונה לאחור)</string>
     <string name="search_worldclock_keywords">זמן;שעון עולמי;שעון</string>
+    <string name="select_all">בחר הכול</string>
     <string name="select_operation">בחר</string>
+    <string name="selected">נבחרה</string>
     <string name="send">שליחה</string>
     <string name="set_alarm">בחר שעה</string>
     <string name="set_alarm_choose_ringtone">בחר רינגטון</string>
@@ -454,6 +459,7 @@
     <string name="shutdown_alarm_enable_summary">השעון מעורר יכבה אם הוא נקבע למשך 10 דקות לפחות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="sleep_analysis">סטטיסטיקות</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
@@ -504,6 +510,7 @@
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">לאפשר ליישום זה להתחבר לאינטרנט על מנת לקבל גישה לכל המאפיינים שלו.</string>
     <string name="system_permission_main_purpose">זמני תצוגה, הגדרת התראות וטיימרים, שימוש בשעון עצר</string>
     <string name="system_permission_purpose">יצירת התראות לימי חול והגדרת רינגטונים אישיים</string>
@@ -610,6 +617,11 @@
     <string name="tuesday_shortest">"ג'"</string>
     <string name="turn_off_a_repeat_alarm">בטל שעון מעורר חוזר</string>
     <string name="turn_off_this_repeat_alarm">בטל שעון מעורר חוזר זה</string>
+    <string name="tv_blank_list_other_text">עדיין אין כאן כלום.</string>
+    <string name="tv_blank_list_show_text">עדיין אין כאן כלום. יש לחפש מיקום כדי להוסיף אותו לשעון העולמי.</string>
+    <string name="tv_world_clock_edit_title1">המיקומים מוצגים על מסך הבית</string>
+    <string name="tv_world_clock_edit_title2">מיקומים אחרים שנשמרו</string>
+    <string name="unselect_all">בטל בחירת הכל</string>
     <string name="upcoming_alarm">השעון המעורר הבא: %s</string>
     <string name="upcoming_alarm_hint">תוכל לכבות את השעון המעורר כעת</string>
     <string name="update_health_app">עדכן את Xiaomi Health</string>
@@ -635,8 +647,10 @@
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>
     <string name="week_ringtone_recommend_desc">שעון הטבע המעורר מפעיל צלילים שונים בהתאם לתאריך. האם ברצונך להגדיר אותו כברירת המחדל?</string>
+    <string name="white_noise">רעשי סביבה</string>
     <string name="white_noise_selector">בחר שמע</string>
     <string name="workday_alarm_clock">שעון מעורר של יום עבודה</string>
+    <string name="worldclock_edit_label">שעון עולמי</string>
     <string name="worldclock_empty_text">אין אזורי זמן</string>
     <string name="worldclock_input_hint_text">חפש מדינה או עיר</string>
     <string name="worldclock_local_time">שעון מקומי</string>
@@ -654,5 +668,6 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%sש</string>
     <string name="worldcolock_timezone_local">זהה לשעה המקומית</string>
+    <string name="xiaoai_ringtone_title">רינגטונים של Mi AI</string>
     <string name="yesterday">אתמול</string>
 </resources>

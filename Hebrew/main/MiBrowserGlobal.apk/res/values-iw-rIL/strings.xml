@@ -208,7 +208,7 @@
     <string name="category_folder">תיקיות</string>
     <string name="category_installed_app">אפליקציות מותקנות</string>
     <string name="category_midrive">Mi Drive</string>
-    <string name="category_move_limit_notice">תוכל להעביר בין 3 ל-7 פריטים לחלק העליון של המסך</string>
+    <string name="category_move_limit_notice">ניתן להעביר %1$d עד %2$d פריטים לחלק העליון של המסך</string>
     <string name="category_music">מוזיקה</string>
     <string name="category_other">אחר</string>
     <string name="category_photo">תמונות</string>
@@ -305,6 +305,9 @@
     <string name="contextmenu_webpage_snapshot">שמירת עמוד</string>
     <string name="copy_url">העתק כתובת אינטרנט</string>
     <string name="could_not_load_data">לא ניתן היה לטעון, רענן ונסה שוב</string>
+    <string name="crash_page_button">נסה שוב</string>
+    <string name="crash_page_description">משהו השתבש בניסיון להציג את דף האינטרנט הזה.</string>
+    <string name="crash_page_title">אוי לא!</string>
     <string name="create_qr_code">קוד QR</string>
     <string name="current_version_pad">טאבלט</string>
     <string name="current_version_pc">שולחן עבודה</string>
@@ -363,7 +366,7 @@ ID:%s
     <string name="download_btn_select_none">הסרת בחירה מהכל</string>
     <string name="download_business_app_new_version">הגרסה העדכנית ביותר של יישום זה כבר מותקנת</string>
     <string name="download_business_app_update_install">מוכן להתקנת העדכון.</string>
-    <string name="download_business_v5_edit_mode_title_empty">0 נבחרו</string>
+    <string name="download_business_v5_edit_mode_title_empty">בחר פריטים</string>
     <string name="download_change_dir">החלפת תיקיה</string>
     <string name="download_complete">ירד בהצלחה</string>
     <string name="download_completed">הורדו</string>
@@ -384,7 +387,7 @@ ID:%s
     <string name="download_dialog_failed_body">לנסות שוב מאוחר יותר או להסיר קובץ זה מרשימת ההורדות?</string>
     <string name="download_dialog_file_already_exists">קובץ זה ירד כבר</string>
     <string name="download_dialog_file_length_hint_txt">"גודל הקובץ: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">פחות מ-1KB</string>
+    <string name="download_dialog_file_length_lessthan1kb">פחות מ-%1$dKB</string>
     <string name="download_dialog_file_length_nolength_error_txt">לא ניתן היה להוריד</string>
     <string name="download_dialog_file_length_nolength_txt">רק רגע…</string>
     <string name="download_dialog_file_missing_body">לא ניתן היה לאתר את הקובץ. האם העברת או מחקת אותו?</string>
@@ -591,6 +594,8 @@ ID:%s
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="game_center_recommend_play">שחק</string>
+    <string name="game_center_recommend_title">מומלצים עבורך</string>
     <string name="game_played">לאחרונה</string>
     <string name="geolocation_permissions_prompt_dont_share">דחיה</string>
     <string name="geolocation_permissions_prompt_message">%s מעוניין לדעת את מיקומך</string>
@@ -701,9 +706,9 @@ ID:%s
     <string name="lockpattern_need_to_unlock_wrong">נסה שוב</string>
     <string name="lockpattern_pattern_confirmed_header">הנה תבנית הפתיחה שלך:</string>
     <string name="lockpattern_pattern_entered_header">בוצע!</string>
-    <string name="lockpattern_recording_incorrect_too_short">נסה שנית. חבר לפחות 4 נקודות.</string>
+    <string name="lockpattern_recording_incorrect_too_short">נסה שוב. חבר לפחות %1$d נקודות.</string>
     <string name="lockpattern_recording_inprogress">הרם את האצבע כשהתבנית הושלמה</string>
-    <string name="lockpattern_recording_intro_header">חבר 4 נקודות לפחות</string>
+    <string name="lockpattern_recording_intro_header">חבר לפחות %1$d נקודות</string>
     <string name="lockpattern_retry_button_text">איפוס</string>
     <string name="login_failed_toast">לא ניתן היה להיכנס, רענן ונסה שוב</string>
     <string name="login_or_register">או</string>
@@ -714,7 +719,7 @@ ID:%s
     <string name="make_private_msg_1">להסתיר את הקובץ?</string>
     <string name="make_private_msg_2">להסתיר את הקבצים הללו?</string>
     <string name="max_tabs_warning">לא ניתן לפתוח תויות נוספות</string>
-    <string name="maximum_input_alert">לא ניתן להזין יותר מ-2048 תווים</string>
+    <string name="maximum_input_alert">לא ניתן להזין יותר מ-%1$d תווים</string>
     <string name="menu_addtodesk">"הוספה ל'מסך הבית'"</string>
     <string name="menu_exit_nightmode">יציאה</string>
     <string name="menu_hv_swap">סיבוב מסך</string>
@@ -1218,7 +1223,7 @@ ID:%s
     <string name="pf_guide_msg_if_has_downloading">לא ניתן להוסיף פריטים שנמצאים בתהליך הורדה לתיקייה הפרטית</string>
     <string name="pf_move_out">הסר מהתיקייה הפרטית</string>
     <string name="pf_move_out_dialog_btn_confirm">הסרה</string>
-    <string name="pf_move_out_dialog_content">הפריטים שהוסרו יישמרו במיקומם המקורי.</string>
+    <string name="pf_move_out_dialog_content">פריטים שהוסרו יוצגו בקבצים האחרונים.</string>
     <string name="pf_move_out_dialog_title">הסר מהתיקייה הפרטית</string>
     <string name="pf_toast_add_success">הועבר לתיקייה הפרטית בהצלחה</string>
     <string name="phone">אחסון</string>
@@ -1508,7 +1513,7 @@ ID:%s
     <string name="rlv_pull_to_refresh">משוך כלפי מטה כדי לרענן</string>
     <string name="rlv_refreshing">מרענן...</string>
     <string name="rlv_release_to_refresh">שחרר כדי לרענן</string>
-    <string name="rlz_access_point">Y1</string>
+    <string name="rlz_access_point">Y%1$d</string>
     <string name="root_folder_lable">ללא</string>
     <string name="router_download_exist">קובץ זה קיים כבר</string>
     <string name="router_download_failed">לא ניתן היה להוריד</string>
@@ -1558,7 +1563,7 @@ ID:%s
     <string name="search_file_type_video">סרטונים</string>
     <string name="search_google">Google</string>
     <string name="search_hint">חיפוש</string>
-    <string name="search_s139">139</string>
+    <string name="search_s139">%1$d</string>
     <string name="search_settings_description">סימניות והיסטורית אתרים</string>
     <string name="search_shipin">וידאו</string>
     <string name="search_sm">SM</string>
@@ -1853,8 +1858,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_data_used_info">נעשה שימוש ב-%2$s מתוך %1$s</string>
     <string name="vpn_detail_guide1">פתח את כל השרתים כדי להאיץ את החיבור שלך</string>
     <string name="vpn_detail_guide2">הירשם לשירותי VPN כדי לגשת לאתרים נוספים</string>
-    <string name="vpn_detail_guide3">כמעט נגמרה לך חבילת הנתונים. נסה את תוכנית 12 החודשים שלנו! הקש כדי ללמוד מה האפשרויות שלך.</string>
-    <string name="vpn_detail_guide4">נגמרה לך חבילת הנתונים. נסה את תוכנית 12 החודשים שלנו! הקש כדי ללמוד מה האפשרויות שלך.</string>
+    <string name="vpn_detail_guide3">כמעט נגמרה לך חבילת הנתונים. נסה את התוכנית ל-%1$d-חודשים שלנו! הקש למידע נוסף על האפשרויות.</string>
+    <string name="vpn_detail_guide4">נגמרה לך חבילת הנתונים. נסה את התוכנית ל-%1$d-חודשים שלנו! הקש למידע נוסף על האפשרויות.</string>
     <string name="vpn_detail_guide5">כמעט נגמרה לך חבילת הנתונים</string>
     <string name="vpn_detail_guide6">נגמרה לך חבילת הנתונים</string>
     <string name="vpn_detail_subscribe">הרשמה</string>
@@ -1885,7 +1890,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_how_it_works">איך זה עובד</string>
     <string name="whatsapp_intro_dialog_title">תכונה חדשה</string>
     <string name="whatsapp_no_status_tips">עדיין אין כאן תמונות או סרטונים. צפה בעדכוני הסטטוס שלך ב-WhatsApp וחזור לכאן שוב.</string>
-    <string name="whatsapp_principle_page_message">תמונות וסרטונים בסטטוסים של WhatsApp נשמרים בתיקייה נסתרת ונעלמים לאחר 24 שעות. עכשיו תוכל להשתמש בדפדפן Mi כדי לשמור אותם.</string>
+    <string name="whatsapp_principle_page_message">תמונות וסרטונים בסטטוסים של WhatsApp נשמרים בתיקייה נסתרת ונעלמים לאחר %1$d שעות. עכשיו תוכל להשתמש בדפדפן Mi כדי לשמור אותם.</string>
     <string name="whatsapp_principle_page_title">ניתן לשמור תמונות וסרטונים מסטטוסים של WhatsApp באמצעות דפדפן Mi</string>
     <string name="whatsapp_principle_step_1">דפדף בתמונות ובסרטונים בלשונית \"סטטוס\" של WhatsApp.</string>
     <string name="whatsapp_principle_step_2">חזור לכאן כדי לשמור אותם.</string>

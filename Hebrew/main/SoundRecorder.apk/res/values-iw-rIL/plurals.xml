@@ -186,6 +186,12 @@
         <item quantity="two">נמצאו %d שתי הקלטות</item>
         <item quantity="many">נמצאו %d הקלטות</item>
     </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">%d הקלטות חדשות</item>
+        <item quantity="one">הקלטה חדשה %d</item>
+        <item quantity="two">%d הקלטות חדשות</item>
+        <item quantity="many">%d הקלטות חדשות</item>
+    </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">נותרו %d ימים</item>
         <item quantity="one">נותר יום %d</item>

@@ -44,6 +44,7 @@
     <string name="cast_forward">העבר</string>
     <string name="cast_forward_10">העבר עשר שניות קדימה</string>
     <string name="cast_forward_30">העבר 30 שניות קדימה</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">שידור חי</string>
     <string name="cast_mute">השתק</string>
     <string name="cast_notification_connected_message">מחובר אל %1$s</string>
@@ -161,12 +162,20 @@
     <string name="mr_controller_volume_slider">מחוון עוצמה</string>
     <string name="mr_system_route_name">מערכת</string>
     <string name="mr_user_route_category_name">מכשירים</string>
-    <string name="s1">שמור את התמונה</string>
+    <string name="offline_notification_text">יש להקיש כדי לפתוח את המודעה</string>
+    <string name="offline_notification_title">צפייה במודעה ששמרת כשלא היה לך חיבור לאינטרנט</string>
+    <string name="offline_opt_in_confirm">אישור</string>
+    <string name="offline_opt_in_confirmation">תישלח לך התראה עם קישור כשיתחדש החיבור לאינטרנט</string>
+    <string name="offline_opt_in_decline">לא תודה</string>
+    <string name="offline_opt_in_message">נשלח לך התראה עם קישור לאתר המפרסם.</string>
+    <string name="offline_opt_in_title">יש לפתוח את המודעה כשיתחדש החיבור לאינטרנט.</string>
+    <string name="s1">שמירת התמונה</string>
     <string name="s2">האם לאפשר למודעה לאחסן תמונה בגלריית התמונות?</string>
-    <string name="s3">קבל</string>
-    <string name="s4">דחה</string>
-    <string name="s5">צור אירוע ביומן</string>
+    <string name="s3">קבלה</string>
+    <string name="s4">דחייה</string>
+    <string name="s5">יצירת אירוע ביומן</string>
     <string name="s6">האם לאפשר למודעה ליצור אירוע ביומן?</string>
     <string name="s7">מודעת בדיקה</string>
     <string name="search_menu_title">חיפוש</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

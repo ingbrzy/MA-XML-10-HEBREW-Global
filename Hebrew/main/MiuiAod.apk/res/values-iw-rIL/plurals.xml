@@ -60,6 +60,28 @@
         <item quantity="two">" %1$sשעות %2$s"</item>
         <item quantity="many">" %1$sשעות %2$s"</item>
     </plurals>
+    <plurals name="character_pitch_minus">
+        <item quantity="other">צמצום ריווח תווים. ריווח התווים הוא %s.</item>
+        <item quantity="one">צמצום ריווח תווים. ריווח התווים הוא %s.</item>
+        <item quantity="two">צמצום ריווח תווים. ריווח התווים הוא %s.</item>
+        <item quantity="many">צמצום ריווח תווים. ריווח התווים הוא %s.</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">הגדלת ריווח תווים. ריווח התווים הוא %s.</item>
+        <item quantity="one">הגדלת ריווח תווים. ריווח התווים הוא %s.</item>
+        <item quantity="two">הגדלת ריווח תווים. ריווח התווים הוא %s.</item>
+        <item quantity="many">הגדלת ריווח תווים. ריווח התווים הוא %s.</item>
+    </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"משך ניגון אנימציות לא יכול לעלות על %d שניות.
+אנימציות ארוכות יותר יופסקו לאחר פרק זמן זה."</item>
+        <item quantity="one">"משך ניגון אנימציות לא יכול לעלות על שנייה %d.
+אנימציות ארוכות יותר יופסקו לאחר פרק זמן זה."</item>
+        <item quantity="two">"משך ניגון אנימציות לא יכול לעלות על %d שניות.
+אנימציות ארוכות יותר יופסקו לאחר פרק זמן זה."</item>
+        <item quantity="many">"משך ניגון אנימציות לא יכול לעלות על %d שניות.
+אנימציות ארוכות יותר יופסקו לאחר פרק זמן זה."</item>
+    </plurals>
     <plurals name="count_selected">
         <item quantity="other">נבחרו %d פריטים</item>
         <item quantity="one">נבחר פריט %d</item>
@@ -101,6 +123,18 @@
         <item quantity="one">ממש עכשיו</item>
         <item quantity="two">ממש עכשיו</item>
         <item quantity="many">ממש עכשיו</item>
+    </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">הגדלת ריווח שורות. ריווח השורות הוא %s.</item>
+        <item quantity="one">הגדלת ריווח שורות. ריווח השורות הוא %s.</item>
+        <item quantity="two">הגדלת ריווח שורות. ריווח השורות הוא %s.</item>
+        <item quantity="many">הגדלת ריווח שורות. ריווח השורות הוא %s.</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">צמצום ריווח שורות. ריווח השורות הוא %s.</item>
+        <item quantity="one">צמצום ריווח שורות. ריווח השורות הוא %s.</item>
+        <item quantity="two">צמצום ריווח שורות. ריווח השורות הוא %s.</item>
+        <item quantity="many">צמצום ריווח שורות. ריווח השורות הוא %s.</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d פריטים נבחרו</item>

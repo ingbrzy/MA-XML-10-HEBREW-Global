@@ -264,4 +264,16 @@
         <item quantity="two">הכתוביות מושהות למשך %.1f שניות</item>
         <item quantity="many">הכתוביות מושהות למשך %.1f שניות</item>
     </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">הוסף עד %d סימניות</item>
+        <item quantity="one">הוסף עד סימניה %d</item>
+        <item quantity="two">הוסף עד %d סימניות</item>
+        <item quantity="many">הוסף עד %d סימניות</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d צפיות</item>
+        <item quantity="one">צפייה אחת (%d)</item>
+        <item quantity="two">%d צפיות</item>
+        <item quantity="many">%d צפיות</item>
+    </plurals>
 </resources>

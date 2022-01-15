@@ -63,12 +63,20 @@
         <item>ירוק</item>
         <item>כחול</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>לא מעניינת</item>
+        <item>חוזרת על עצמה</item>
+        <item>איכות נמוכה</item>
+        <item>תמונה לא הולמת</item>
+        <item>מידע הונאה</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>תוכן מפורש</item>
         <item>כזב</item>
         <item>חדשות ישנות</item>
         <item>נוף קיצוני</item>
         <item>פרסום ממומן</item>
+        <item>אני לא אוהב את זה</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>קדימה ואחורה</item>

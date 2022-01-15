@@ -36,12 +36,6 @@
         <item quantity="two">%d מכשירים זמינים</item>
         <item quantity="many">%d מכשירים זמינים</item>
     </plurals>
-    <plurals name="color_game_led_freq_entries">
-        <item quantity="other">כל %d שניות</item>
-        <item quantity="one">כל שנייה %d</item>
-        <item quantity="two">כל %d שניות</item>
-        <item quantity="many">כל %d שניות</item>
-    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d התקנים</item>
         <item quantity="one">התקן %d</item>
