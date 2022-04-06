@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">לפני שעה אחת</item>
+        <item quantity="two">לפני שעה אחת</item>
+        <item quantity="many">לפני שעה אחת</item>
+        <item quantity="other">לפני שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">לפני שעה אחת</item>
+        <item quantity="two">לפני שעה אחת</item>
+        <item quantity="many">לפני שעה אחת</item>
+        <item quantity="other">לפני שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">לפני חצי שעה</item>
+        <item quantity="two">לפני חצי שעה</item>
+        <item quantity="many">לפני חצי שעה</item>
+        <item quantity="other">לפני חצי שעה</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">בעוד שעה אחת</item>
+        <item quantity="two">בעוד שעה אחת</item>
+        <item quantity="many">בעוד שעה אחת</item>
+        <item quantity="other">בעוד שעה אחת</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">בעוד חצי שעה</item>
+        <item quantity="two">בעוד חצי שעה</item>
+        <item quantity="many">בעוד חצי שעה</item>
+        <item quantity="other">בעוד חצי שעה</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">באופן מיידי</item>
+        <item quantity="two">באופן מיידי</item>
+        <item quantity="many">באופן מיידי</item>
+        <item quantity="other">באופן מיידי</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">בעוד %d דקות</item>
+        <item quantity="one">בעוד דקה אחת</item>
+        <item quantity="two">בעוד %d דקות</item>
+        <item quantity="many">בעוד %d דקות</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">ממש עכשיו</item>
+        <item quantity="two">ממש עכשיו</item>
+        <item quantity="many">ממש עכשיו</item>
+        <item quantity="other">ממש עכשיו</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה אחת</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
+    </plurals>
     <plurals name="backup_items_app_tailer">
         <item quantity="other">%d קבצי נתוני יישום</item>
         <item quantity="one">קובץ נתוני יישום %d</item>
@@ -30,23 +84,71 @@
         <item quantity="two">%1$d/%2$d פריטים</item>
         <item quantity="many">%1$d/%2$d פריטים</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">לפני חצי שעה</item>
+        <item quantity="two">לפני חצי שעה</item>
+        <item quantity="many">לפני חצי שעה</item>
+        <item quantity="other">לפני חצי שעה</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">בעוד שעה אחת</item>
+        <item quantity="two">בעוד שעה אחת</item>
+        <item quantity="many">בעוד שעה אחת</item>
+        <item quantity="other">בעוד שעה אחת</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">בעוד חצי שעה</item>
+        <item quantity="two">בעוד חצי שעה</item>
+        <item quantity="many">בעוד חצי שעה</item>
+        <item quantity="other">בעוד חצי שעה</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">באופן מיידי</item>
+        <item quantity="two">באופן מיידי</item>
+        <item quantity="many">באופן מיידי</item>
+        <item quantity="other">באופן מיידי</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">בעוד %d דקות</item>
+        <item quantity="one">בעוד דקה אחת</item>
+        <item quantity="two">בעוד %d דקות</item>
+        <item quantity="many">בעוד %d דקות</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">ממש עכשיו</item>
+        <item quantity="two">ממש עכשיו</item>
+        <item quantity="many">ממש עכשיו</item>
+        <item quantity="other">ממש עכשיו</item>
+    </plurals>
     <plurals name="local_main_backup_manage_summary">
         <item quantity="other">%1$s גיבויים (%2$s)</item>
         <item quantity="one">גיבוי %1$s (%2$s)</item>
         <item quantity="two">%1$s גיבויים (%2$s)</item>
         <item quantity="many">%1$s גיבויים (%2$s)</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d פריטים נבחרו</item>
+        <item quantity="one">פריט %d נבחר</item>
+        <item quantity="two">%d פריטים נבחרו</item>
+        <item quantity="many">%d פריטים נבחרו</item>
+    </plurals>
     <plurals name="new_task_backup_failed">
-        <item quantity="other">גיבוי בוצע בהצלחה. לא ניתן היה לגבות %d פריטים.</item>
-        <item quantity="one">גיבוי בוצע בהצלחה. לא ניתן היה לגבות פריט %d.</item>
-        <item quantity="two">גיבוי בוצע בהצלחה. לא ניתן היה לגבות %d פריטים.</item>
-        <item quantity="many">גיבוי בוצע בהצלחה. לא ניתן היה לגבות %d פריטים.</item>
+        <item quantity="other">"גיבוי בוצע בהצלחה. לא ניתן היה לגבות %d פריטים."</item>
+        <item quantity="one">"גיבוי בוצע בהצלחה. לא ניתן היה לגבות פריט %d."</item>
+        <item quantity="two">"גיבוי בוצע בהצלחה. לא ניתן היה לגבות %d פריטים."</item>
+        <item quantity="many">"גיבוי בוצע בהצלחה. לא ניתן היה לגבות %d פריטים."</item>
     </plurals>
     <plurals name="new_task_restore_failed">
-        <item quantity="other">שחזור בוצע בהצלחה. לא ניתן היה לשחזר %d פריטים.</item>
-        <item quantity="one">שחזור בוצע בהצלחה. לא ניתן היה לשחזר פריט %d.</item>
-        <item quantity="two">שחזור בוצע בהצלחה. לא ניתן היה לשחזר %d פריטים.</item>
-        <item quantity="many">שחזור בוצע בהצלחה. לא ניתן היה לשחזר %d פריטים.</item>
+        <item quantity="other">"שחזור בוצע בהצלחה. לא ניתן היה לשחזר %d פריטים."</item>
+        <item quantity="one">"שחזור בוצע בהצלחה. לא ניתן היה לשחזר פריט %d."</item>
+        <item quantity="two">"שחזור בוצע בהצלחה. לא ניתן היה לשחזר %d פריטים."</item>
+        <item quantity="many">"שחזור בוצע בהצלחה. לא ניתן היה לשחזר %d פריטים."</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה אחת</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"%d פריטים יובאו. "</item>
@@ -91,16 +193,16 @@
         <item quantity="many">%d פריטים,</item>
     </plurals>
     <plurals name="trans_failed_summary">
-        <item quantity="other">לא ניתן היה להעביר %d פריטים. לחץ להצגת פרטים.</item>
-        <item quantity="one">לא ניתן היה להעביר פריט %d. לחץ להצגת פרטים.</item>
-        <item quantity="two">לא ניתן היה להעביר %d פריטים. לחץ להצגת פרטים.</item>
-        <item quantity="many">לא ניתן היה להעביר %d פריטים. לחץ להצגת פרטים.</item>
+        <item quantity="other">"לא ניתן היה להעביר %d פריטים. לחץ להצגת פרטים."</item>
+        <item quantity="one">"לא ניתן היה להעביר פריט %d. לחץ להצגת פרטים."</item>
+        <item quantity="two">"לא ניתן היה להעביר %d פריטים. לחץ להצגת פרטים."</item>
+        <item quantity="many">"לא ניתן היה להעביר %d פריטים. לחץ להצגת פרטים."</item>
     </plurals>
     <plurals name="trans_item_failed_summary">
-        <item quantity="other">לא ניתן היה להעביר %d פריטים.</item>
-        <item quantity="one">לא ניתן היה להעביר פריט %d.</item>
-        <item quantity="two">לא ניתן היה להעביר %d פריטים.</item>
-        <item quantity="many">לא ניתן היה להעביר %d פריטים.</item>
+        <item quantity="other">"לא ניתן היה להעביר %d פריטים."</item>
+        <item quantity="one">"לא ניתן היה להעביר פריט %d."</item>
+        <item quantity="two">"לא ניתן היה להעביר %d פריטים."</item>
+        <item quantity="many">"לא ניתן היה להעביר %d פריטים."</item>
     </plurals>
     <plurals name="trans_time_format_hours">
         <item quantity="other">%d שעות</item>
