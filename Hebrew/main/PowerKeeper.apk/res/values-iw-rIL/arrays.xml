@@ -7,7 +7,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>מותאם אישית</item>
-        <item>"מצב 'חסכון בסוללה' של MIUI"</item>
+        <item>מצב \'חסכון בסוללה\' של MIUI</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>יישומים פעילים</item>

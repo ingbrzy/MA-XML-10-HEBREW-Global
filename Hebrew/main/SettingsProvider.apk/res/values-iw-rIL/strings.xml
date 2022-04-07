@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">אחסון הגדרות</string>
+    <string name="wifi_softap_config_change">ההגדרות של הנקודה לשיתוף אינטרנט השתנו</string>
+    <string name="wifi_softap_config_change_summary">יש להקיש להצגת פרטים</string>
+</resources>
