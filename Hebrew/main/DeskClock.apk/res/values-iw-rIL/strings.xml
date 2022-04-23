@@ -466,7 +466,6 @@
     <string name="shutdown_alarm_enable_summary">השעון מעורר יכבה אם הוא נקבע למשך 10 דקות לפחות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="sleep_analysis">סטטיסטיקות</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
@@ -519,7 +518,6 @@
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
-    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">לאפשר ליישום זה להתחבר לאינטרנט על מנת לקבל גישה לכל המאפיינים שלו.</string>
     <string name="system_permission_main_purpose">זמני תצוגה, הגדרת התראות וטיימרים, שימוש בשעון עצר</string>
     <string name="system_permission_purpose">יצירת התראות לימי חול והגדרת רינגטונים אישיים</string>
