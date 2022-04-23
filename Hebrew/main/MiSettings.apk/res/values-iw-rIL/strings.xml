@@ -132,6 +132,7 @@
     <string name="dc_lignt_enable_hint">מצב נוגד-ריצוד יקבע את קצב הרענון ב-60 הרץ. להחליף למצב נוגד-ריצוד?</string>
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
     <string name="desktop_widget_authorization">הקש כדי להעניק הרשאות על מנת שתוכל לצפות בסטטיסטיקה</string>
+    <string name="desktop_widget_authorization_new">הקש לצפייה בנתוני זמן מסך</string>
     <string name="desktop_widget_not_support">"נתוני זמן מסך
 אינם מיוצרים עבור השטח השני"</string>
     <string name="desktop_widget_screen_use_time">זמן מסך</string>
@@ -259,7 +260,7 @@
     <string name="hsv_space_color_saturation">רוויה</string>
     <string name="hsv_space_color_value">ערך</string>
     <string name="intelligent_radio_btn_summary">התאמת קצב הרענון באופן דינמי על סמך תרחישים כדי לאזן בין ביצועים לצריכת החשמל</string>
-    <string name="intelligent_radio_btn_title">אוטומטי (מומלץ)</string>
+    <string name="intelligent_radio_btn_title">ברירת מחדל (מומלץ)</string>
     <string name="intelligent_recognition_item_summary">השתמש ברינגטון ייעודי עבור שיחות משירותי משלוח ומוניות. המאפיין הזה יעבור כאשר %s מוגדר כרינגטון ברירת המחדל שלך.</string>
     <string name="intelligent_recognition_item_title">זהה שירותים</string>
     <string name="item_anura">Anura</string>
@@ -434,7 +435,7 @@
     <string name="primary_color_region">מקורי</string>
     <string name="primary_color_region_chinese_only">nature</string>
     <string name="primary_color_region_summary">זהה את סולם הצבעים באופן אוטומטי באמצעות כיול צבעים</string>
-    <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="privacy_policy">מדיניות הפרטיות</string>
     <string name="puffin">Atlantic puffin</string>
     <string name="random_play_sound_alert">התראות שתקבל יושמעו כצלילי קולות של בעלי חיים מאזור זה</string>
     <string name="red_billed_hornbill">Red-billed hornbill</string>
@@ -566,7 +567,7 @@
     <string name="time_picker_dialog_title">הגדרת זמן</string>
     <string name="time_picker_label_hour">"שע'"</string>
     <string name="time_picker_label_minute">"ד'"</string>
-    <string name="title_activity_easy_mode">מצב שימוש קל</string>
+    <string name="title_activity_easy_mode">מצב קל</string>
     <string name="title_mix_match_sound">Nature mix</string>
     <string name="title_mix_match_tips">Tap animals to listen to demos. You can add up to 5 animals to the mix.</string>
     <string name="title_submit_mix_match">Tap \"Apply\" to set a general ringtone.</string>
@@ -609,14 +610,14 @@
     <string name="usage_app_over_content">כבר השתמשת ביישום זה %s היום.</string>
     <string name="usage_app_over_summary">עברת את המגבלה. הזמן עבר!</string>
     <string name="usage_app_set_limit_time">הגדר מגבלות</string>
-    <string name="usage_app_stop_desc">All Screen time data and permissions, including individual settings, as well as the related items stored locally, will be deleted after you turn this feature off.​</string>
+    <string name="usage_app_stop_desc">"כיבוי התכונה יגרום למחיקת כל הנתונים וההרשאות של 'זמן מסך', כולל הגדרות אישיות והפריטים הקשורים המאוחסנים באופן מקומי."</string>
     <string name="usage_app_system_app_summary">לא ניתן היה להגביל את זמן המסך עבור יישומי המערכת</string>
     <string name="usage_app_weekday_limit">ימי חול</string>
     <string name="usage_app_weekend_limit">סופי שבוע</string>
     <string name="usage_beat_fans">טוב יותר מאשר %s משתמשי Mi Fans</string>
     <string name="usage_continuous_days">רצף</string>
     <string name="usage_creating_weekly_report">יוצר דו\"ח שבועי…</string>
-    <string name="usage_cta_desc">"Welcome to Settings! To provide Screen time and Focus mode stats to you, this app needs to collect the following data: the number of times you unlock the device, the list of your apps along with the corresponding usage duration, the number of times your screen lights up, and Focus mode settings. The collected data will only be stored locally on this device.
+    <string name="usage_cta_desc">"ברוכים הבאים ל\"הגדרות\"! כדי לספק נתונים סטטיסטיים על זמן מסך ומצב מיקוד, יישום זה צריך לאסוף את הנתונים הבאים: מספר הפעמים שאתה מבטל את נעילת המכשיר, רשימת היישומים שלך ומשך השימוש בכל אחד מהם, מספר הפעמים שהמסך נדלק, והגדרות מצב מיקוד. הנתונים שנאספים יאוחסנו באופן מקומי במכשיר זה בלבד.
 "</string>
     <string name="usage_current_week_usage">%s בממוצע במהלך 7 הימים האחרונים</string>
     <string name="usage_device_limit_app_prolong">הוסף זמן</string>

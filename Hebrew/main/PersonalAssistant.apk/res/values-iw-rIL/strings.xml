@@ -71,7 +71,6 @@
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
     <string name="midnight">לילה</string>
-    <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
@@ -142,8 +141,6 @@
     <string name="morning">בוקר</string>
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
-    <string name="passport_oauth_actionbar_title">חשבון Mi</string>
-    <string name="passport_oauth_sucess_tip">Authorized success</string>
     <string name="pm">PM</string>
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>

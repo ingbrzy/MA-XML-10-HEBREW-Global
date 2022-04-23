@@ -48,7 +48,7 @@
     <string name="com_facebook_smart_device_instructions_or">- או -</string>
     <string name="com_facebook_smart_login_confirmation_cancel">לא את/ה?</string>
     <string name="com_facebook_smart_login_confirmation_continue_as">המשך/המשיכי בתור %1$s</string>
-    <string name="com_facebook_smart_login_confirmation_title">אשר/י את ההתחברות</string>
+    <string name="com_facebook_smart_login_confirmation_title">אישור ההתחברות</string>
     <string name="com_facebook_tooltip_default">את/ה בשליטה - בחר/י אילו פרטים ברצונך לשתף עם אפליקציות.</string>
     <string name="common_google_play_services_enable_button">הפעל</string>
     <string name="common_google_play_services_enable_text">‏האפליקציה %1$s לא תפעל אם לא תפעיל את שירותי Google Play.</string>

@@ -26,6 +26,7 @@
     <string name="app_name_miuiringtone">צלצול</string>
     <string name="app_name_miuiwallpaper">טפטים</string>
     <string name="app_name_screenshot">צילומי מסך</string>
+    <string name="app_name_transport">Bluetooth והורדות</string>
     <string name="app_permissions">הרשאות יישומים</string>
     <string name="app_permissions_desc">מנהל הקבצים צריך הרשאות מסוימות על מנת לעבוד באופן תקין.</string>
     <string name="authorization_item_desc">הפעל או כבה את המתג כדי להעניק או לבטל את ההרשאה שלך</string>
@@ -62,6 +63,7 @@
     <string name="category_picture">תמונות</string>
     <string name="category_recent">נוספו לאחרונה</string>
     <string name="category_theme">ערכות נושא</string>
+    <string name="category_transport">Bluetooth והורדות</string>
     <string name="category_type_other">אחר</string>
     <string name="category_video">סרטונים</string>
     <string name="category_zip">קבצי ארכיון</string>
@@ -72,6 +74,8 @@
     <string name="clean_marquee_text">חפש קבצי זבל נוספים</string>
     <string name="click_to_switch_volume">לחץ להחלפה בין אחסון פנימי לכרטיס הזכרון</string>
     <string name="click_to_switch_volume_pad">לחץ להחלפה בין האחסון הפנימי לכרטיס הזכרון</string>
+    <string name="columbus_ad_flag_text">פרסומת</string>
+    <string name="columbus_skip_ad">דלג</string>
     <string name="compress_fail">לא ניתן היה לכווץ. קובץ עם שם זהה קיים כבר.</string>
     <string name="compress_fail_unknown">לא ניתן היה לכווץ. שטח האחסון מלא או שאירעה שגיאה לא מוכרת.</string>
     <string name="compress_message">כווץ אל...</string>
@@ -122,7 +126,7 @@
     <string name="display_name">הצג שם</string>
     <string name="domain">דומיין</string>
     <string name="download_success">ירד בהצלחה</string>
-    <string name="empty_by_forbid_access">לא ניתן להציג את התוכן של תיקייה זו עקב מגבלות של אנדרואיד 11.</string>
+    <string name="empty_by_forbid_access">לא ניתן להציג את התוכן של תיקייה זו עקב מגבלות של אנדרואיד.</string>
     <string name="enable_documentsui">הפעל %s בהגדרות > יישומים שהותקנו תחילה</string>
     <string name="enable_sd_card">הכנס כרטיס זכרון או בטל מצב חיבור USB כמתקן אחסון.</string>
     <string name="enable_usb">חבר התקן USB</string>
@@ -170,7 +174,7 @@
     <string name="folder_name_empty">שם התיקייה אינו יכול להיוותר ריק</string>
     <string name="folder_name_illegal">שם תיקיה לא חוקי</string>
     <string name="found_usb">אחסון USB מחובר</string>
-    <string name="ftp_account_req_notice">4-16 תוים, אותיות וספרות, מזהה אותיות גדולות</string>
+    <string name="ftp_account_req_notice">יש חשיבות לאותיות גדולות בשם המשתמש ובסיסמה, והם חייבים להכיל %1$d-%2$d תווים. ניתן לשלב אותיות אנגליות, סמלים מיוחדים ומספרים.</string>
     <string name="ftp_anonymous_login">היכנס באופן אנונימי</string>
     <string name="ftp_invalid_username_or_password">שם משתמש או סיסמה לא חוקיים.</string>
     <string name="ftp_open_port_error">לא ניתן היה לפתוח את היציאה. בדוק את החיבור שלך לרשת או אפס מספר את היציאה.</string>
@@ -178,7 +182,7 @@
     <string name="ftp_port_number">מספר יציאה</string>
     <string name="ftp_random_port">יציאה אקראית</string>
     <string name="ftp_transfer_secure">אבטחה</string>
-    <string name="ftp_username_and_passworld">היכנס</string>
+    <string name="ftp_username_and_passworld">הגדרת שם משתמש וסיסמה</string>
     <string name="ftp_username_hint">שם משתמש</string>
     <string name="gbk_summary">קידוד ברירת מחדל של Windows עבור סינית מפושטת</string>
     <string name="gigabyteShort">GB</string>
@@ -201,6 +205,7 @@
     <string name="invalid_name_or_password">שם משתמש או סיסמה לא חוקיים</string>
     <string name="just_now">ממש עכשיו</string>
     <string name="kilobyteShort">KB</string>
+    <string name="lack_perm_dialog_title">נדרשות הרשאות</string>
     <string name="list_order">תצוגת רשימה</string>
     <string name="load_more">הצג עוד</string>
     <string name="loading">רק רגע…</string>
@@ -302,6 +307,7 @@
     <string name="partial_delete_failure">לא ניתן היה למחוק קבצים מסוימים. נסה שוב.</string>
     <string name="partial_encrypt_success">לא ניתן היה להפוך קבצים מסוימים לפרטיים. נסה שוב</string>
     <string name="passive">פסיבי</string>
+    <string name="perm_manage_external_storage">כדי להשתמש במאפיין זה, עליך לאשר למנהל הקבצים גישה לתמונות ולסרטונים. ניתן לעשות זאת תחת ההגדרות.</string>
     <string name="permission_denial">"לא ניתן היה לגשת לקבצים. אפשר ל'מנהל הקבצים' לגשת לקבצים ב'הגדרות'."</string>
     <string name="permission_phone">טלפון</string>
     <string name="permission_phone_desc">גישה ל-IMEI כדי לזהות, לאחסן ולטפל בקבצים פרטיים</string>
@@ -325,14 +331,6 @@
     <string name="phone_storage_zip_title">קבצי ארכיון:</string>
     <string name="pick_file">בחר קבצים</string>
     <string name="pick_folder">בחר תיקייה</string>
-    <string name="player_tips_brightness">כוון בהירות</string>
-    <string name="player_tips_double_click">הקש פעמיים על המסך</string>
-    <string name="player_tips_landscape">החלק אופקית</string>
-    <string name="player_tips_pause_player">השהה/ השמע מחדש</string>
-    <string name="player_tips_rewind">התאם את התקדמות השמע</string>
-    <string name="player_tips_up_down_left">החלק אנכית מצד שמאל</string>
-    <string name="player_tips_up_down_right">החלק אנכית מצד ימין</string>
-    <string name="player_tips_volume">שנה עוצמת קול</string>
     <string name="port">יציאה</string>
     <string name="port_range">מספר היציאה חייבת להיות בתחום של 1024-65535</string>
     <string name="possible_permissions">הרשאות אופציונליות</string>
@@ -342,7 +340,7 @@
     <string name="privacy_experience_statement">הצטרף לתכנית חוויית המשתמש שלנו כדי לשתף אתנו את נתוני המשתמש, במטרה לעזור לנו לשפר את המוצרים והשירותים שלנו.</string>
     <string name="privacy_item1">סיווג של הפריטים שבהם נעשה שימוש לאחרונה</string>
     <string name="privacy_item2">צפייה ועריכת קבצים</string>
-    <string name="privacy_message">&lt;Data>מנהל הקבצים צריך לאסוף את המידע האישי הנדרש כדי להעניק לך שירותים בסיסיים המייצרים סטטיסטיקת שימוש. ניתן למצוא מידע לגבי הטיפול שלנו במידע שאנו אוספים &lt;a href=\"%1$s\">במדיניות הפרטיות&lt;/a> שלנו. עליך לקרוא את &lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ואת &lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> שלנו ולהסכים אתם כדי להשתמש במנהל הקבצים. באפשרותך למשוך את הסכמתך למדיניות הפרטיות של מנהל הקבצים בכל עת, תחת ההגדרות. אם אינך מסכים לשימוש בשירותים הנ\"ל, לא תוכל להשתמש בחלק ממאפייני היישום הזה. עם זאת, הפונקציות הבסיסיות שלו עדיין יהיו זמינות עבורך.&lt;/Data></string>
+    <string name="privacy_message">&lt;Data>מנהל הקבצים צריך לאסוף את המידע האישי הנדרש כדי להעניק לך שירותים בסיסיים המייצרים סטטיסטיקת שימוש. ניתן למצוא מידע לגבי הטיפול שלנו במידע שאנו אוספים &lt;a href=\"%1$s\">במדיניות הפרטיות&lt;/a> שלנו. עליך לקרוא את &lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ואת &lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> שלנו ולהסכים אתם כדי להשתמש במנהל הקבצים. באפשרותך למשוך את הסכמתך למדיניות הפרטיות של מנהל הקבצים בכל עת, תחת ההגדרות. אם אינך מסכים לשימוש בשירותים הנל, לא תוכל להשתמש בחלק ממאפייני היישום הזה. עם זאת, הפונקציות הבסיסיות שלו עדיין יהיו זמינות עבורך.&lt;/Data></string>
     <string name="privacy_title">ברוך הבא למנהל הקבצים</string>
     <string name="private_files">פרטי</string>
     <string name="private_folder">קבצים פרטיים</string>
@@ -383,8 +381,6 @@
     <string name="rlv_release_to_refresh">שחרר לרענון</string>
     <string name="save_seven_day">נקה פעם בשבוע</string>
     <string name="scan_code_download_from_play">סרוק קוד QR זה על מנת להוריד מחנות Play</string>
-    <string name="screenshot_fail">לא ניתן היה לבצע צילום מסך</string>
-    <string name="screenshot_success">שמור צילום מסך ל- %1$s</string>
     <string name="search_description">חפש בכל הקבצים במכשיר</string>
     <string name="search_empty_view_hint">לא ניתן היה למצוא דבר</string>
     <string name="search_error_hint">חיפוש</string>
@@ -441,8 +437,6 @@
     <string name="terabyteShort">TB</string>
     <string name="terms_conditions">תנאים והתניות</string>
     <string name="terms_conditions_desc">קרא בעיון את ההסכם שלפניך סמן ובחר במידה ואתה מסכים לתנאים וההתניות שלהלן.</string>
-    <string name="time_am">AM</string>
-    <string name="time_pm">PM</string>
     <string name="time_to_upgrade">קיים עדכון זמין</string>
     <string name="tip">שים לב</string>
     <string name="tips_by_forbid_access">התוכן של תיקייה זו לא יהיה נגיש יותר עקב מגבלות המערכת שהחלו ב-Android R. עליך להסיר את הקבצים האישיים שלך מתיקייה זו בהקדם האפשרי.</string>
@@ -472,9 +466,11 @@
     <string name="user_notice_term_of_service">הסכם המשתמש</string>
     <string name="utf8_summary">קידוד ברירת מחדל של מערכת FTP</string>
     <string name="version_name">גירסה</string>
-    <string name="video_replay_btn">נגן שוב</string>
     <string name="view_by_document">צפה ביישום \"קבצים\"</string>
     <string name="wechat_video">וידאו ב-%s</string>
+    <string name="whatsapp_cache_garbage">מטמון</string>
+    <string name="whatsapp_cache_garbage_cleanup">נקה</string>
+    <string name="whatsapp_cache_garbage_tip">ניקוי המטמון לא מוחק שום דבר חשוב. תוכל להשתמש באפליקציה כרגיל לאחר מכן.</string>
     <string name="wifi_state">סטטוס רשת אלחוטית</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yes">כן</string>

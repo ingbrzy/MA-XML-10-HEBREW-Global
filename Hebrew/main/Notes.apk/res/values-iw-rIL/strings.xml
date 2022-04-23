@@ -21,6 +21,7 @@
     <string name="alert_message_delete_excerpt">למחוק את הפתק הזה? גם הקטע שבתוכו יימחק.</string>
     <string name="alert_message_delete_note">למחוק פתק זה?</string>
     <string name="alert_message_edit_anyway">במידה ותערוך פתק זה, אתה עשוי לאבד חלק מהתוכן שלו.</string>
+    <string name="alert_message_edit_anyway_new">פתק זה מכיל תוכן שאינו נתמך. עריכתו עלולה להוביל לשינויים בפורמט או לאובדן נתונים.</string>
     <string name="alert_message_restore">לא ניתן היה לפתוח פתק זה. שחזר אותו כדי לערוך את תוכנו.</string>
     <string name="alert_title_delete">מחיקת פתק</string>
     <string name="alert_title_edit_anyway">פתק זה מכיל תוכן שאינו נתמך</string>
@@ -41,7 +42,7 @@
     <string name="audio_create_will_cancel_state">שחרר לביטול</string>
     <string name="audio_dialog_mode_meeting">מצב פגישה (בטא)</string>
     <string name="audio_dialog_mode_meeting_exit">לא, תודה</string>
-    <string name="audio_dialog_mode_meeting_sum">מצב פגישה מאפשר לזהות את הקולות של עד 4 אנשים שונים. בגרסת הבטא ייתכנו טעויות זיהוי.</string>
+    <string name="audio_dialog_mode_meeting_sum">מצב פגישה מאפשר לך לזהות את הקולות של %1$d-%2$d אנשים שונים. ייתכנו מספר שגיאות זיהוי בגרסת הבטא.</string>
     <string name="audio_dialog_mode_meeting_use">התחלה</string>
     <string name="audio_panel_time_counter_default">00:00</string>
     <string name="audio_toast_file_invalid">קובץ שמע לא חוקי</string>
@@ -169,6 +170,7 @@
     <string name="error_send_empty_note">לא ניתן לשלוח פתק ריק</string>
     <string name="error_send_empty_note_to_weibo">לא ניתן לשלוח פתק ריק אל Weibo</string>
     <string name="error_unsupport_content">פתק זה מכיל תוכן שאינו נתמך, לחץ כאן לעדכון</string>
+    <string name="error_unsupport_content_format">פתק זה מכיל תוכן שאינו נתמך. יש לשדרג לגרסה %1$s ומעלה.</string>
     <string name="error_widget_exist_for_send_to_desktop">"פתק זה קיים כבר ב'מסך הבית' שלך"</string>
     <string name="evening">לפנות ערב</string>
     <string name="exceed_todo_text_limitation">תאור המשימה ארוך מדיי.</string>
@@ -287,6 +289,7 @@
     <string name="menu_create_folder">תיקיה חדשה</string>
     <string name="menu_delete">מחיקה</string>
     <string name="menu_delete_forever">מחק לצמיתות</string>
+    <string name="menu_edit">עריכה</string>
     <string name="menu_folders">תיקיות</string>
     <string name="menu_group">צור תיקייה</string>
     <string name="menu_hide">הסתר</string>
@@ -467,10 +470,12 @@
     <string name="note_mindnote_entrance_hint_newversion">"התחל להקליד "</string>
     <string name="note_mindnote_entrance_icon_text">צור מפת חשיבה</string>
     <string name="note_mindnote_entrance_icon_text_newversion">צור מפת חשיבה</string>
+    <string name="note_module_name">פתקים</string>
     <string name="note_not_text_stub">אין טקסט</string>
     <string name="note_sort_way">מיון</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">יישום הפתקים הוא יישום מערכת. לא תוכל להשתמש ביישום זה אחרי הסרתו.</string>
     <string name="notes_description_title">להסיר את יישום הפתקים?</string>
     <string name="notification_content_add_todo_from_other_app">הוספת משימה חדשה. הקש כדי לצפות בה.</string>
@@ -625,6 +630,13 @@
     <string name="select_account_prompt">סנכרן פתקים</string>
     <string name="send">שליחה</string>
     <string name="set_alarm_description">הגדרת שעון מעורר</string>
+    <string name="setting_big_screen_layout_columns">סרגל צד</string>
+    <string name="setting_big_screen_layout_flat">משבצות</string>
+    <string name="setting_big_screen_layout_title">פריסת מסך גדול</string>
+    <string name="setting_cloud_service">שירותי ענן</string>
+    <string name="setting_layout">פריסה</string>
+    <string name="setting_micloud_sync_title">Xiaomi Cloud</string>
+    <string name="setting_note_list_layout_title">פריסה</string>
     <string name="setting_other">אחר</string>
     <string name="setting_privacy">מדיניות הפרטיות</string>
     <string name="single_link_excerpt_saving">שומר את הפריטים…</string>
@@ -844,6 +856,15 @@
     <string name="undo">בטל</string>
     <string name="unknown_source">מקור לא ידוע</string>
     <string name="view_all_notes">הצג הכול</string>
+    <string name="warn_cannot_add_new_bullet">לא ניתן להוסיף רשימת נקודות חדשה משום שהפתק ארוך מידי</string>
+    <string name="warn_cannot_add_new_checkbox">לא ניתן להוסיף תיבת סימון חדשה משום שהפתק ארוך מידי</string>
+    <string name="warn_cannot_add_new_doodle">לא ניתן להוסיף שרבוט חדש משום שהפתק ארוך מידי</string>
+    <string name="warn_cannot_add_new_element">לא ניתן לצרף פריט חדש משום שהפתק ארוך מידי</string>
+    <string name="warn_cannot_add_new_link_card">לא ניתן להוסיף קישור חדש משום שהפתק ארוך מידי</string>
+    <string name="warn_cannot_add_new_picture">לא ניתן להוסיף תמונה חדשה משום שהפתק ארוך מידי</string>
+    <string name="warn_cannot_add_new_style">לא ניתן להוסיף פורמט חדש משום שהפתק ארוך מידי</string>
+    <string name="warn_disable_edit_in_browse_mode">לא ניתן לערוך פתקים במצב קריאה בלבד</string>
+    <string name="warn_enter_browse_mode">אתם במצב קריאה בלבד</string>
     <string name="web_sso_login_fail">עליך להיכנס שוב</string>
     <string name="web_sso_login_message">נכנס…</string>
     <string name="webview_reload">נסה שוב</string>

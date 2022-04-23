@@ -150,6 +150,24 @@
         <item quantity="two">%d סרטונים</item>
         <item quantity="many">%d סרטונים</item>
     </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">זמינים %1$1d מתוך %2$2d פרקים</item>
+        <item quantity="one">זמין פרק %1$1d מתוך %2$2d</item>
+        <item quantity="two">זמינים %1$1d מתוך %2$2d פרקים</item>
+        <item quantity="many">זמינים %1$1d מתוך %2$2d פרקים</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">%1$1d מתוך %2$2d פרקים זמינים</item>
+        <item quantity="one">פרק %1$1d מתוך %2$2d זמין</item>
+        <item quantity="two">%1$1d מתוך %2$2d פרקים זמינים</item>
+        <item quantity="many">%1$1d מתוך %2$2d פרקים זמינים</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">%d פרקים בסך הכל</item>
+        <item quantity="one">פרק אחד (%d) בסך הכל</item>
+        <item quantity="two">%d פרקים בסך הכל</item>
+        <item quantity="many">%d פרקים בסך הכל</item>
+    </plurals>
     <plurals name="mediation_animate_close_after">
         <item quantity="other">%s שניות נותרו</item>
         <item quantity="one">שנייה אחת (%s) נותרה</item>

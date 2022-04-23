@@ -247,6 +247,11 @@
     <string name="network_tip_dialog_title">דרוש חיבור לאינטרנט</string>
     <string name="network_unavailable_tip">התחבר לרשת ונסה שוב.</string>
     <string name="new_record_name">הקלטה חדשה</string>
+    <string name="new_saf_permission_dialog_content">"הרשאות הרשמקול עודכנו. יש לאפשר לרשמקול גישה להקלטת שיחות.
+
+איך לתת הרשאה
+יש להקיש על \"%1$s\", ואז לבחור \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">הבא</string>
     <string name="night">ערב</string>
     <string name="no_content">עדיין אין כאן פריטים</string>
     <string name="no_file">ריק</string>
@@ -302,6 +307,8 @@
     <string name="permission_desc">פרטי הרשאות</string>
     <string name="permission_dialog_cancel">ביטול</string>
     <string name="permission_dialog_ok">הגדרות</string>
+    <string name="permission_read_phone_state">גישה לפרטי המכשיר</string>
+    <string name="permission_read_phone_state_description">כדי לגשת למצב שיחה כדי להפסיק אוטומטית את ההקלטה בעת קבלת שיחות</string>
     <string name="permission_record">הקלטת שמע</string>
     <string name="permission_record_description">כדי לספק את שירותי הקלטת שמע</string>
     <string name="permission_storage">גישה לאחסון</string>
@@ -537,6 +544,7 @@
     <string name="the_united_nations_day">יום האומות המאוחדות</string>
     <string name="the_valentines_day">יום האהבה (ולנטיין)</string>
     <string name="the_water_lantern_festival">פסטיבל פנסי המים</string>
+    <string name="this_folder">שימוש בתיקייה הזו</string>
     <string name="thursday">חמישי</string>
     <string name="thursday_short">"ה'"</string>
     <string name="thursday_shortest">"ה'"</string>

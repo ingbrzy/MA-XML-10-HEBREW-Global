@@ -1145,7 +1145,7 @@
     <string name="clear_activities">ניקוי ברירות מחדל</string>
     <string name="clear_adb_keys">‏ביטול הרשאות לניפוי ב-USB</string>
     <string name="clear_cache_btn_text">ניקוי המטמון</string>
-    <string name="clear_data_dlg_text">כל נתוני האפליקציה יימחקו לתמיד. נתונים אלה כוללים את כל הקבצים, ההגדרות, החשבונות, מסדי הנתונים וכדומה.</string>
+    <string name="clear_data_dlg_text">נתוני האפליקציה יימחקו באופן סופי. לרבות קבצים, הגדרות, מסדי נתונים ונתונים אחרים מהאפליקציה.</string>
     <string name="clear_data_dlg_title">למחוק את נתוני האפליקציה?</string>
     <string name="clear_failed_dlg_text">לא ניתן לפנות שטח אחסון לאפליקציה.</string>
     <string name="clear_instant_app_confirmation">האם ברצונך להסיר את אפליקציית האינסטנט הזאת?</string>
@@ -1176,7 +1176,6 @@
     <string name="color_unspecified">ברירת מחדל</string>
     <string name="color_white">לבן</string>
     <string name="color_yellow">צהוב</string>
-    <string name="common_google_play_services_unknown_issue">‏%1$s נתקלה בבעיה בשירותי Google Play. נסה שוב.</string>
     <string name="computing_size">מחשב...</string>
     <string name="condition_airplane_summary">הרשתות לא זמינות</string>
     <string name="condition_airplane_title">מצב טיסה מופעל</string>
@@ -2059,7 +2058,7 @@
     <string name="ims_reg_status_not_registered">לא רשום</string>
     <string name="ims_reg_status_registered">רשום</string>
     <string name="ims_reg_title">‏סטטוס הרשמה ל-IMS</string>
-    <string name="imsi_protection_warning">הרשת הזו מקבלת מזהה ייחודי שיכול לשמש למעקב אחר מיקום המכשיר. <annotation id="url">מידע נוסף</annotation></string>
+    <string name="imsi_protection_warning">‏הרשת הזו מקבלת מזהה SIM שיכול לשמש למעקב אחר מיקום המכשיר. <annotation id="url">מידע נוסף</annotation></string>
     <string name="inactive_app_active_summary">אפליקציה פעילה. הקש כדי להחליף מצב.</string>
     <string name="inactive_app_inactive_summary">אפליקציה לא פעילה. הקש כדי להחליף מצב.</string>
     <string name="inactive_apps_title">אפליקציות בהמתנה</string>
@@ -2259,6 +2258,7 @@
     <string name="legal_information">מידע משפטי</string>
     <string name="license_title">רישיון</string>
     <string name="lift_to_wake_title">הרם כדי להוציא ממצב שינה</string>
+    <string name="link_speed">%1$d מגה בייט לשנייה</string>
     <string name="live_caption_summary">הוספת כתוביות אוטומטית למדיה</string>
     <string name="live_caption_title">כתוביות בזמן אמת</string>
     <string name="load_networks_progress">מחפש…</string>
@@ -2580,6 +2580,7 @@
     <string name="memory_summary">ממוצע של %1$s מתוך %2$s זיכרון בשימוש</string>
     <string name="memory_usage">שימוש בזיכרון</string>
     <string name="memory_usage_apps">זיכרון בשימוש על ידי אפליקציות</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">בשלוש השעות האחרונות נעשה בממוצע שימוש ב-%1$s מהזיכרון</string>
     <string name="menu_cancel">מחיקה</string>
     <string name="menu_delete">‏מחיקת APN</string>
@@ -2735,6 +2736,7 @@
     <string name="nfc_how_it_works_got_it">הבנתי</string>
     <string name="nfc_how_it_works_title">תשלום במסוף</string>
     <string name="nfc_more_title">עוד...</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">הגדרה כברירת מחדל</string>
     <string name="nfc_payment_btn_text_update">עדכון</string>
     <string name="nfc_payment_default">ברירת המחדל לתשלום</string>
@@ -2968,6 +2970,7 @@
     <string name="overlay_settings_title">"אפשרות של שכבות-על במסכי 'הגדרות'"</string>
     <string name="overlay_toast_failed_to_apply">נכשלה החלה של שכבת-על</string>
     <string name="owner_info_settings_edit_text_hint">‏לדוגמה, ה-Android של יוסי.</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">ללא</string>
     <string name="owner_info_settings_title">הוספת טקסט במסך הנעילה</string>
     <string name="packages_subtitle">חבילות כלולות</string>
@@ -3045,6 +3048,7 @@
     <string name="power_remaining_less_than_duration_only">יש פחות מ-%1$s</string>
     <string name="power_remaining_more_than_subtext">יש יותר מ-%1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">יש יותר מ-%1$s</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">מסך</string>
     <string name="power_suggestion_battery_run_out">ייתכן שהסוללה תתרוקן עד %1$s</string>
     <string name="power_unaccounted">שונות</string>
@@ -3158,6 +3162,8 @@
     <string name="private_dns_mode_provider_failure">לא ניתן היה להתחבר</string>
     <string name="private_dns_mode_provider_hostname_hint">‏צריך להזין את שם המארח של ספק DNS</string>
     <string name="process_dex2oat_label">אופטימיזציית אפליקציה</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_provider_in_use_description">הספק %1$s נמצא בשימוש.</string>
     <string name="process_service_in_use_description">השירות %1$s נמצא בשימוש.</string>
@@ -3745,6 +3751,7 @@
     <string name="sim_select_card">‏בחירת כרטיס SIM</string>
     <string name="sim_selection_channel_title">‏בחירת SIM</string>
     <string name="sim_selection_required_pref">יש לציין בחירה</string>
+    <string name="sim_settings_summary">%1$s ‏- %2$s</string>
     <string name="sim_settings_title">‏כרטיסי SIM</string>
     <string name="sim_setup_wizard_title">‏כרטיסי SIM</string>
     <string name="sim_signal_strength">‏%1$d dBm ‏%2$d asu</string>
@@ -3804,6 +3811,7 @@
     <string name="standby_bucket_summary">אפליקציה במצב המתנה: %s</string>
     <string name="starting_android">‏מפעיל את Android…</string>
     <string name="status_awake_time">משך פעילות</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bt_address">‏כתובת Bluetooth</string>
     <string name="status_data_network_type">סוג הרשת של חבילת הגלישה</string>
     <string name="status_data_state">מצב רשת סלולרית</string>
@@ -4040,6 +4048,7 @@
     <string name="sum_carrier_select">בחר מפעיל רשת</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s עד %2$s</string>
     <string name="summary_separator">" / "</string>
     <string name="support_summary">"מאמרי עזרה, תמיכה טלפונית ותמיכה בצ'אט, תחילת העבודה"</string>
@@ -4657,6 +4666,7 @@
     <string name="wifi_configure_settings_preference_summary_wakeup_on">‏Wi‑Fi חוזר לפעול באופן אוטומטי</string>
     <string name="wifi_configure_settings_preference_title">‏העדפות Wi‑Fi</string>
     <string name="wifi_connect">התחברות</string>
+    <string name="wifi_connected_low_quality">איכות נמוכה</string>
     <string name="wifi_connected_no_internet">אין אינטרנט</string>
     <string name="wifi_connected_to_message">יש חיבור אל %1$s</string>
     <string name="wifi_connecting">מתחבר…</string>
@@ -5203,8 +5213,10 @@
     <string name="zen_suggestion_title">"עדכון המצב 'נא לא להפריע'"</string>
     <string name="zone_auto_title">לפי אזור הזמן שמספקת הרשת</string>
     <string name="zone_change_to_from_dst">%1$s מתחיל בתאריך %2$s.</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">משתמש ב-%1$s. %2$s מתחיל ב-%3$s.</string>
     <string name="zone_info_footer_no_dst">משתמש ב-%1$s. ללא שעון קיץ.</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_menu_by_offset">‏בחירה לפי קיזוז ל-UTC</string>
     <string name="zone_menu_by_region">בחירה לפי אזור</string>
     <string name="zone_time_type_dst">שעון קיץ</string>

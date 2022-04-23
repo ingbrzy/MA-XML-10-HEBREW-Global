@@ -11,7 +11,7 @@
     <string name="debug_dump_title">העתק את מסד הנתונים של אנשי הקשר</string>
     <string name="default_directory">אנשי קשר</string>
     <string name="local_invisible_directory">אחרים</string>
-    <string name="low_memory_toast">"לא ניתן להמשיך עקב זכרון נמוך."</string>
+    <string name="low_memory_toast">לא ניתן להמשיך עקב זכרון נמוך.</string>
     <string name="pound_search_tip">הזן מספר ואחריו # על מנת לחפש אנשי קשר</string>
     <string name="provider_label">אנשי קשר</string>
     <string name="sharedUserLabel">יישומי ליבה של אנדרואיד</string>

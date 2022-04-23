@@ -105,7 +105,7 @@
     <string name="app_category_games">משחקים</string>
     <string name="app_category_health">בריאות</string>
     <string name="app_category_lifestyle">סגנון חיים</string>
-    <string name="app_category_music_movie">טלויזיה &amp; מוסיקה</string>
+    <string name="app_category_music_movie">טלויזיה ומוסיקה</string>
     <string name="app_category_news">חדשות</string>
     <string name="app_category_photos">צילום</string>
     <string name="app_category_productivity">פרודוקטיביות</string>
@@ -132,7 +132,7 @@
     <string name="auto_add_app_shortcut">מקם יישומים חדשים על מסך הבית</string>
     <string name="auto_delete_category_dialog_content">האפליקציות הקיימות יוסרו מהקטגוריה הזו, והקטגוריה תימחק. למחוק את הקטגוריה עכשיו?</string>
     <string name="auto_delete_category_dialog_title">מתבצעת מחיקת הקטגוריה</string>
-    <string name="auto_disable_screenbuttons_summary">הקש פעמיים כל כל מקש ניווט כדי להפעיל מחדש</string>
+    <string name="auto_disable_screenbuttons_summary">משבית אוטומטית את כפתורי הניווט כאשר שורת המצב אינה מוצגת. ניתן להקיש פעמיים על כל כפתור ניווט כדי להפעילם מחדש.</string>
     <string name="auto_disable_screenbuttons_title">השבת את לחצני הניווט באופן אוטומטי</string>
     <string name="back">הקודם</string>
     <string name="backup_fail">"לא ניתן לגבות את הלאונצ'ר"</string>
@@ -313,7 +313,7 @@
     <string name="free_style_edit_bar_select_app">בחר יישום</string>
     <string name="free_style_edit_bottom_empty_tip">לחץ על המלבן על מנת לערוך</string>
     <string name="free_style_edit_drawer">מגירה</string>
-    <string name="free_style_edit_move_tip">לחץ&amp; והחזק על מנת להעביר פריט</string>
+    <string name="free_style_edit_move_tip">לחיצה ארוכה על מנת להזיז פריטים</string>
     <string name="free_style_edit_tab_free_component">פריטים</string>
     <string name="free_style_edit_tab_shortcut">קיצורי דרך</string>
     <string name="free_style_edit_tab_widget">"ווידג'טים"</string>
@@ -393,7 +393,7 @@
     <string name="launcher_search_bar_value_enable">הפעלה</string>
     <string name="launcher_slide_up_title">העבר אצבע כלפי מעלה במסך הבית</string>
     <string name="launcher_sliding_up_gesture">"החלק מעלה ב'מסך הבית' לפתיחת החיפוש"</string>
-    <string name="launcher_title">מסך הבית &amp; אחרונים</string>
+    <string name="launcher_title">"'מסך הבית' ולאחרונה"</string>
     <string name="like">הוספה למועדפים</string>
     <string name="liked">נוסף למועדפים</string>
     <string name="loading_desktop">רק רגע…</string>
@@ -431,6 +431,7 @@
     <string name="menu_launcher_setting">"הגדרות 'משגר היישומים'"</string>
     <string name="menu_lock">"נעל את פריסת 'מסך הבית'"</string>
     <string name="menu_more">עוד</string>
+    <string name="menu_no_word">לא להציג טקסט</string>
     <string name="menu_picktheme">בחר ערכת נושא</string>
     <string name="menu_reset_scene">איפוס לסגנון ברירת מחדל</string>
     <string name="menu_search">חיפוש</string>
@@ -443,6 +444,7 @@
     <string name="midnight">לילה</string>
     <string name="minus_one_screen">כספת היישומים</string>
     <string name="miui_screen_config_title">"הגדרות 'מסך הבית'"</string>
+    <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
@@ -633,6 +635,11 @@
     <string name="recents_title_market">מצא יישומים</string>
     <string name="recents_title_security_scan">סריקת אבטחה</string>
     <string name="recents_tv_small_window_text">חלונות צפים</string>
+    <string name="recents_worldcirculate_text">יש לשחרר כדי לבחור</string>
+    <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
+    <string name="recnets_worldcirculate_display_computer_info">יישום זה עובד ב-%s.</string>
+    <string name="recnets_worldcirculate_display_default_info">יש להקיש כדי להחזיר אותו לכאן.</string>
+    <string name="recnets_worldcirculate_display_pad_info">יישום זה עובד ב-%s.</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">הצעות לאפליקציות</string>
     <string name="recommend_apps_default_title">ריק</string>

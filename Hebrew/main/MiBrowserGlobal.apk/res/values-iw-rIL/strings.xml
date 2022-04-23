@@ -147,7 +147,7 @@
     <string name="block_ads_choice_continue">המשך</string>
     <string name="block_ads_message">האם ברצונך לחסום הודעות מאתר זה?</string>
     <string name="block_ads_title">התוכן עשוי להכיל מודעות</string>
-    <string name="block_cookies">"חסום קוקיות של צד ג'"</string>
+    <string name="block_cookies">חסום קובצי Cookie של צד שלישי</string>
     <string name="block_cookies_tips">לא מאפשר לאתרים לקבל גישה לקוקיות ולשמור אותן. לאחר בחירת אפשרות זו, ייתכן שמאפיינים של אתרים מסוימים לא יעבדו כנדרש.</string>
     <string name="bookmark">סימניות</string>
     <string name="bookmark_add_to">הוספה אל</string>
@@ -649,6 +649,7 @@ ID:%s
     <string name="homepage_search_hint">חיפוש</string>
     <string name="homepage_top_card_menu">עליון</string>
     <string name="hot_games">פופולרי</string>
+    <string name="i_know">עצור</string>
     <string name="identity">זיהוי</string>
     <string name="if_cancel">לבטל את הפעולה?</string>
     <string name="ignore_add_game_center_dialog_this_week">אל תציג השבוע</string>
@@ -952,7 +953,7 @@ ID:%s
     <string name="mw_miuichromium_error_page_suggestion_check_url">בדוק את כתובת ה-URL שהזנת.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(רשת אלחוטית) בדוק את %s1 הגדרות ה-Proxy שלך%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">ניקוי מטמון.</string>
-    <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">נקה מטמון ועוגיות (פרטי החשבון שלך עשויים ללכת לאיבוד).</string>
+    <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">נקה זיכרון מטמון וקובצי עוגיות (Cookies) (ייתכן שפרטי החשבון שלך יאבדו).</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">טען מחדש לאחר התחברות לאינטרנט</string>
     <string name="mw_miuichromium_error_page_suggestion_contact_admin">צור קשר עם מנהל המערכת שלך.</string>
     <string name="mw_miuichromium_error_page_suggestion_correct_url">בדוק את הכתובת שהזנת ונסה שוב באמצעות כתובת ה-URL הנכונה.</string>
@@ -1401,7 +1402,7 @@ ID:%s
     <string name="preference_des_autocomplete_search">השלמה אוטומטית של חיפושים על סמך היסטוריית החיפוש, הצעות של מנוע החיפוש ואתרים פופולריים</string>
     <string name="preference_title_autocomplete_search">השלמה אוטומטית של חיפושים וכתובות URL</string>
     <string name="privacy_accept">מסכים והמשך</string>
-    <string name="privacy_agreement">הסכם המשתמש</string>
+    <string name="privacy_agreement">הסכם משתמש</string>
     <string name="privacy_authorize_cannot_revoke_dialog_msg">פעולה זו מחייבת העלאה של מזהה הביצועים שלך, ולא ניתן לעשות זאת במצב גלישה בסתר. יש לצאת ממצב גלישה בסתר ולנסות שוב.</string>
     <string name="privacy_authorize_network_error">המכשיר צריך להתחבר לרשת כדי שתוכל לבטל את הסכמתך. בדוק את הגדרות הרשת ונסה שוב.</string>
     <string name="privacy_authorize_revoke">שלילה</string>

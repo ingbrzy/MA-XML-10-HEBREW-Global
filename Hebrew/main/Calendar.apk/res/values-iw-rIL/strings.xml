@@ -30,6 +30,7 @@
     <string name="alert_title">התראות לוח שנה</string>
     <string name="all_events">כל האירועים</string>
     <string name="all_records">כל התיעודים</string>
+    <string name="already_num">זמן מאז %s</string>
     <string name="am">AM</string>
     <string name="anniversary_event_title">יום השנה: %1$s</string>
     <string name="anniversary_secondary_tag">יום השנה</string>
@@ -84,6 +85,7 @@
     <string name="close">סגירה</string>
     <string name="close_alarm">כיבוי</string>
     <string name="contacts_permission_desc">גישה אל פרטי קשר</string>
+    <string name="count_down_date_view">ספירה לאחור</string>
     <string name="countdown_event_title">ספירה לאחור: %1$s</string>
     <string name="countdown_notify_before_3_day_title">ספירה לאחור: %1$s בעוד %2$d ימים</string>
     <string name="countdown_notify_title">ספירה לאחור: %1$s</string>
@@ -121,8 +123,10 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">לוח שנה סיני מסורתי</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="date_today">" (היום)"</string>
+    <string name="date_view">תאריך</string>
     <string name="day">יום</string>
     <string name="day_view_new_event_hint">ארוע חדש</string>
     <string name="default_reminder_mode">תזכורות</string>
@@ -318,6 +322,7 @@
     <string name="import_action">ייבוא</string>
     <string name="import_birthday">ייבא יום הולדת</string>
     <string name="imported">מיובא</string>
+    <string name="in_progress">בעיצומו</string>
     <string name="insert_event_dialog_btn_negative">לא</string>
     <string name="insert_event_dialog_btn_positive">כן</string>
     <string name="insert_event_dialog_message">להוסיף אירוע זה ללוח השנה?</string>
@@ -468,6 +473,7 @@
     <string name="movie_card_title">סרטים</string>
     <string name="movie_card_trailer">טריילר</string>
     <string name="name_title_menstruation_today_end">הווסת צפויה להסתיים היום</string>
+    <string name="near_agenda_view">אירועים קרובים</string>
     <string name="network_not_available">לא ניתן להתחבר לרשת</string>
     <string name="never">אף פעם</string>
     <string name="new_event_description">חדש</string>
@@ -668,8 +674,11 @@
     <string name="size_tera_byte">TB</string>
     <string name="skip">דלג</string>
     <string name="small_week_date_format">EEE dd.MM.yyyy</string>
+    <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
+    <string name="spec_agenda_view">אירועים מיוחדים</string>
     <string name="start_date_calculate">חישוב</string>
     <string name="stats_title">סטטיסטיקה</string>
+    <string name="still_num">זמן עד %s</string>
     <string name="storage_permission_denied">קודם עליך לאפשר גישה לזיכרון</string>
     <string name="subscribe_card">הירשם כעת</string>
     <string name="subscribe_card_success">נירשם בהצלחה! צפה בפרטים בעמוד הבית.</string>
@@ -793,6 +802,7 @@
     <string name="today">היום</string>
     <string name="today_at_time_fmt">היום ב-%s</string>
     <string name="today_icon_voice_contentdescription">חזרה להיום</string>
+    <string name="today_no_event">אין אירועים היום.</string>
     <string name="today_no_events">אין אירועים</string>
     <string name="todays_panchang_title">\"Panchang\" יומי</string>
     <string name="todo_audio_event">"[משימה קולית] "</string>
@@ -856,7 +866,13 @@
     <string name="widget_events">אירוע הבא</string>
     <string name="widget_get_weather_info">קבל מידע אודות מזג האויר</string>
     <string name="widget_no_events">אין אירועים</string>
+    <string name="widget_normal_agenda_tip_empty">אין אירועים היום.</string>
+    <string name="widget_normal_agenda_today_done">כל האירועים הסתיימו להיום.</string>
+    <string name="widget_normal_more_event">אירועים נוספים</string>
+    <string name="widget_normal_new_event">הוספת אירוע</string>
+    <string name="widget_normal_weekN">שבוע %d</string>
     <string name="widget_select_style">בחר סגנון</string>
+    <string name="widget_spec_agenda_birth_today">היום</string>
     <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_delete_description">לוח השנה הוא יישום מערכת שמאפשר ליצור ולנהל אירועים. חלק מהמאפיינים שלו עדיין יהיו זמינים עבורך גם לאחר הסרת הקיצור ממסך הבית.</string>
     <string name="xiaomi_calendar_delete_title">להסיר את לוח השנה ממסך הבית?</string>

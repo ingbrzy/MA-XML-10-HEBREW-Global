@@ -10,6 +10,7 @@
     <string name="add_clock">הוסף שעון</string>
     <string name="add_common_timer">הוסף טיימר</string>
     <string name="add_timer">טיימר לפריטים שכיחים</string>
+    <string name="add_timer_dialog_title">הוספת טיימר</string>
     <string name="add_timezone_title">הוספת אזור זמן</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="agree">מסכים</string>
@@ -408,6 +409,10 @@
     <string name="reach_upper_limit">אין אפשרות להוסיף טיימרים נוספים</string>
     <string name="read_external_storage_permission_desc">כדי להגדיר צלצולים מותאמים אישית</string>
     <string name="read_internal_storage">גישה לאחסון</string>
+    <string name="read_phone_state">גישה לפרטי המכשיר</string>
+    <string name="read_phone_state_desc">גישה לסטטוס שיחה כשהשעון המעורר מצלצל</string>
+    <string name="read_phone_state_desc_when_request">לקבלת גישה לסטטוס שיחה לצורך השהייה אוטומטית של התראות שעון מעורר בשיחה נכנסת</string>
+    <string name="remark_hint">הזן תווית</string>
     <string name="remind_ringtone">צלצול</string>
     <string name="repeat_count">פעמים</string>
     <string name="repeat_count_value_five">5</string>
@@ -451,6 +456,8 @@
     <string name="shortcut_new_alarm">הגדר שעון מעורר</string>
     <string name="shortcut_start_timer">הגדר טיימר</string>
     <string name="shortcut_stop_watch">התחל שעון עצר</string>
+    <string name="show_life_post_desc">לא יוצגו דוחות בוקר אם תכבה תכונה זו</string>
+    <string name="show_life_post_lable">הצג דוח בוקר</string>
     <string name="shut_down_keep_screen">המסך לא יישאר דלוק</string>
     <string name="shutdown_alarm_alert_enable_summary">השעונים המעוררים יתכבו לפחות 10 דקות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_alert_enable_summary_new">יש להפעיל כדי שההתראות שעון המעורר שהוגדרו מראש יושמעו כשהמכשיר כבוי. יושמעו רק התראות שנקבעו לפחות ל-%d דקות לאחר כיבוי המכשיר.</string>
@@ -459,10 +466,12 @@
     <string name="shutdown_alarm_enable_summary">השעון מעורר יכבה אם הוא נקבע למשך 10 דקות לפחות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="sleep_analysis">סטטיסטיקות</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
     <string name="sleep_date_provider_text">נתוני השינה מתקבלים באמצעות Xiaomi Health</string>
+    <string name="sleep_date_provider_text_new">נתוני השינה מסופקים על ידי Mi Fitness</string>
     <string name="sleep_duration">"משך שינה: "</string>
     <string name="sleep_duration_avg_text_diff">משך שינה ממוצע (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">ישנת במשך %1$s %2$s</string>
@@ -478,6 +487,7 @@
     <string name="sleep_record">עקוב אחר השינה</string>
     <string name="sleep_record_desc">הפעל כדי להתחיל ברישום נתוני השינה</string>
     <string name="sleep_record_desc_detailed">המעקב אחר השינה מבוצע על ידי Xiaomi Health. לאחר הפעלת המעקב, Xiaomi Health מתעד אוטומטית את השינה שלך על סמך השימוש בטלפון, נתונים סטטיסטיים של פעילויות, וכן לפי זמני שעות השינה וההשכמה שהגדרת, ומציג נתונים סטטיסטיים בצורה של תרשימים. לקבלת מעקב שינה מדויק יותר, אפשר הפעלה אוטומטית של Xiaomi Health. כל הנתונים הקשורים לשירות יאוחסנו באופן מקומי במכשיר שלך כך שתוכל לנהל אותם בקלות.</string>
+    <string name="sleep_record_desc_detailed_new">מעקב השינה מסופק על ידי תכונת Mi Fitness Sleep. אם תפעיל את התכונה הזו, Mi Fitness יאסוף ויציג באופן אוטומטי נתונים על השינה שלך בהתבסס על השימוש בטלפון, הפעילות, שעת השינה ושעת ההשכמה שהגדרת. כדי לעקוב אחר השינה בצורה מדויקת יותר, אפשר ל-Mi Fitness להתחיל לפעול אוטומטית.</string>
     <string name="sleep_record_no_data">הנתונים הסטטיסטיים שלך יופיעו כאן לאחר ש-Xiaomi Health ינתח מספיק נתונים</string>
     <string name="sleep_remind">תזכורת שעת שינה</string>
     <string name="sleep_time">לך לישון</string>
@@ -509,6 +519,7 @@
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">לאפשר ליישום זה להתחבר לאינטרנט על מנת לקבל גישה לכל המאפיינים שלו.</string>
     <string name="system_permission_main_purpose">זמני תצוגה, הגדרת התראות וטיימרים, שימוש בשעון עצר</string>
     <string name="system_permission_purpose">יצירת התראות לימי חול והגדרת רינגטונים אישיים</string>
@@ -576,6 +587,7 @@
     <string name="timer_alert_type_beach">חוף</string>
     <string name="timer_alert_type_forest">יער</string>
     <string name="timer_alert_type_mute">ברירת המחדל</string>
+    <string name="timer_alert_type_no">ללא</string>
     <string name="timer_alert_type_rain">גשם מטפטף</string>
     <string name="timer_alert_type_spring_rain">גשם קייצי</string>
     <string name="timer_alert_type_stove_fire">אח בוערת</string>
@@ -587,6 +599,9 @@
     <string name="timer_continue">המשך</string>
     <string name="timer_continue_timer">הפעל את שעון העצר מחדש</string>
     <string name="timer_created">הטיימר נוסף בהצלחה</string>
+    <string name="timer_desc_use_brush_teeth">לצחצח שיניים</string>
+    <string name="timer_desc_use_facial_mask">מסכת פנים</string>
+    <string name="timer_desc_use_sleep">תנומה</string>
     <string name="timer_end_time">הטיימר (שעון עצר) יעצור ב-%s</string>
     <string name="timer_end_time_format">HH:mm MMM dd</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -595,6 +610,7 @@
     <string name="timer_is_paused">הטיימר הושהה</string>
     <string name="timer_item_delete">מחק</string>
     <string name="timer_item_duration_display">%1$d דקות ו-%2$d שניות</string>
+    <string name="timer_item_edit">עריכה</string>
     <string name="timer_item_label_hint">קבע שם לטיימר</string>
     <string name="timer_item_picker_hour">שע</string>
     <string name="timer_item_picker_minute">דק</string>
@@ -624,6 +640,8 @@
     <string name="upcoming_alarm_hint">תוכל לכבות את השעון המעורר כעת</string>
     <string name="update_health_app">עדכן את Xiaomi Health</string>
     <string name="update_health_app_desc">מעקב השינה מבוצע על ידי Xiaomi Health. עדכן את Xiaomi Health לגרסה האחרונה כדי לגשת לתכונות קשורות.</string>
+    <string name="update_health_app_desc_new">מעקב השינה מבוצע על ידי Mi Fitness. עדכן את Mi Fitness לגרסה האחרונה כדי לגשת לתכונות קשורות.</string>
+    <string name="update_health_app_new">עדכן את Mi Fitness</string>
     <string name="update_it">עדכן</string>
     <string name="update_notification_info">מעדכן ברקע…</string>
     <string name="usage_start">התחלה</string>
@@ -646,6 +664,7 @@
     <string name="wednesday_shortest">"ד'"</string>
     <string name="week_ringtone_recommend_desc">שעון הטבע המעורר מפעיל צלילים שונים בהתאם לתאריך. האם ברצונך להגדיר אותו כברירת המחדל?</string>
     <string name="white_noise">רעשי סביבה</string>
+    <string name="white_noise_guide_desc">הוספת צלילי רקע כדי לשמור על ריכוז</string>
     <string name="white_noise_selector">בחר שמע</string>
     <string name="workday_alarm_clock">שעון מעורר של יום עבודה</string>
     <string name="worldclock_edit_label">שעון עולמי</string>
@@ -657,6 +676,7 @@
     <string name="worldclock_search_city">בחר עיר</string>
     <string name="worldclock_second_time">זמן ב-%s</string>
     <string name="worldclock_second_time_desc">"%s: "</string>
+    <string name="worldclock_second_time_new">%s</string>
     <string name="worldclock_title">שעון</string>
     <string name="worldclock_world_time">אזורי זמן</string>
     <string name="worldcolock_date_display_prefix">נוכחי: </string>

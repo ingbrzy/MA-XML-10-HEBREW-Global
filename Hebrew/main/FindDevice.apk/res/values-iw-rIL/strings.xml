@@ -9,6 +9,7 @@
     <string name="captcha">זיהוי תוים</string>
     <string name="change_find_device_status_failed">לא ניתן היה לבטל את הנעילה. %s.</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
+    <string name="close">סגירה</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">לקבלת גישה למספר הטלפון על מנת לאתר את המכשיר כשהוא לא מחובר לאינטרנט</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">לאיתור מכשיר זה כשהוא לא מחובר לאינטרנט</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">כדי לאתר את המכשיר שלך ולהעביר אותו למצב אובדן</string>
@@ -57,6 +58,8 @@
     <string name="find_device_storage_corrupted">"אחסון 'איתור המכשיר' פגום. מכשירך אינו מאובטח כעת."</string>
     <string name="find_device_success_title">"'איתור המכשיר' מופעל"</string>
     <string name="find_device_telephony_fault">איתור המכשיר: תקלת טלפוניה (%s).</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -72,7 +75,11 @@
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -91,8 +98,18 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
@@ -183,6 +200,7 @@
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
+    <string name="send">שליחה</string>
     <string name="stop_on_empty_captcha">שדה זיהוי התוים לא יכול להיוותר ריק</string>
     <string name="stop_on_empty_password">שדה הסיסמה לא יכול להיוותר ריק</string>
     <string name="sunday">ראשון</string>
@@ -192,6 +210,9 @@
     <string name="sys_notification_async_open_failed_title">"לא ניתן היה להפעיל את 'איתור המכשיר'"</string>
     <string name="sys_notification_async_verify_content">"'מדיניות האבטחה' המעודכנת שלנו דורשת ש'איתור המכשיר' יופעל מחדש."</string>
     <string name="sys_notification_async_verify_title">"הפעל מחדש את 'איתור המכשיר'"</string>
+    <string name="talkback_back">הקודם</string>
+    <string name="talkback_hide_pwd">הסתר סיסמה</string>
+    <string name="talkback_show_pwd">הצג סיסמה</string>
     <string name="the_anniversary_of_lifting_martial_law">יום השנה לביטול החוק הצבאי</string>
     <string name="the_anti_aggression_day">יום המאבק באלימות</string>
     <string name="the_arbor_day">יום העץ</string>

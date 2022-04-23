@@ -120,6 +120,7 @@
     <string name="calllog_menu_blacklist">חסום</string>
     <string name="calllog_menu_edit_before_call">ערוך</string>
     <string name="calllog_menu_send_sms">שלח הודעה</string>
+    <string name="calllog_record_none_toast">אין הקלטות שיחות שניתן להציג</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dד %2$dש</string>
     <string name="callrecordview_item_op_time_missed">לא התחבר</string>
     <string name="callrecordview_item_op_time_only_minutes">%d דקות</string>
@@ -473,6 +474,7 @@
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">שם</string>
     <string name="gallery">גלריה</string>
     <string name="ghostData_company">חברה</string>
@@ -598,6 +600,7 @@
     <string name="menu_sync_remove">הסר קבוצת סנכרון</string>
     <string name="midnight">לילה</string>
     <string name="miprofile_account_type">כרטיסי איש קשר</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ערוך פרופיל</string>
     <string name="miprofile_name">הפרופיל שלי</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -691,6 +694,12 @@
     <string name="name_phonetic_middle">שם אמצעי פונטי</string>
     <string name="name_prefix">קידומת שם</string>
     <string name="name_suffix">סיומת שם</string>
+    <string name="new_saf_permission_dialog_content">"הרשאות אנשי קשר עודכנו. יש לאפשר לאנשי קשר גישה להקלטת שיחות.
+
+איך לתת הרשאה
+יש להקיש על \"%1$s\", ואז לבחור \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">הבא</string>
+    <string name="new_saf_permission_dialog_title"><b>נדרשות הרשאות</b></string>
     <string name="next">הבא</string>
     <string name="next_birthday">יום ההולדת הבא: %s</string>
     <string name="nfc_vcard_file_name">איש הקשר התקבל באמצעות NFC</string>
@@ -747,6 +756,7 @@
     <string name="permission_retry_dialog_msg_pad">כדי שניתן יהיה להשתמש בכרטיס ה-SIM שלך באפליקציה זו ולנהל את אנשי הקשר שלך, יש לאפשר לאפליקציה זו לגשת ולערוך את אנשי הקשר שלך, כמו גם לגשת למידע על המכשיר.</string>
     <string name="permission_retry_setting">הגדרות</string>
     <string name="phoneLabelsGroup">טלפון</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
     <string name="phone_primary">עיקרי</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות על גבי המכשיר.</string>
@@ -803,7 +813,7 @@
     <string name="preference_privacy_settings_title">פרטיות</string>
     <string name="preference_remove_duplicate">מזג כפילויות</string>
     <string name="preference_show_firewall_calllog">הצג שיחות שנחסמו והיסטוריית שיחות</string>
-    <string name="preference_show_yellowpage_tab_description">"יתכן ש'דפי זהב' לא יעבוד באופן תקין כאשר תכונה זו כבויה."</string>
+    <string name="preference_show_yellowpage_tab_description">דפי זהב והשירותים הנלווים לא יוצגו לאחר השבתת מאפיין זה</string>
     <string name="preference_show_yellowpage_tab_title">"הצג את 'דפי זהב'"</string>
     <string name="preference_simple_mode_title">הצג תמונות ומידע</string>
     <string name="preference_smart_group_company_summary">קבץ לפי חברה</string>
@@ -814,6 +824,7 @@
     <string name="preference_smart_group_location_title">מיקומים</string>
     <string name="preference_smart_group_title">קבוצות חכמות</string>
     <string name="preference_tone_title">צלילים</string>
+    <string name="preference_yellowpage_function_setting">הגדרות דפי זהב</string>
     <string name="previous">הקודם</string>
     <string name="privacy_password_message1">הסיסמה להגנת הפרטיות מתאימה עבור תמונות, פתקים ותיקיות מוסתרות.</string>
     <string name="privacy_password_message2">השתמש בסיסמה להגנת הפרטיות. היא מתאימה עבור תמונות, פתקים, ותיקיות מוסתרות.</string>
@@ -823,6 +834,7 @@
     <string name="privacy_password_title2">השתמש בסיסמה להגנת הפרטיות</string>
     <string name="privacy_password_title3">שדרג את הסיסמה שלך</string>
     <string name="privacy_password_title4">הסיסמה שודרגה</string>
+    <string name="privacy_settings_blue_scan_connect">התחברות למכשירים בסביבה הקרובה</string>
     <string name="privacy_settings_call_phone">ביצוע שיחות</string>
     <string name="privacy_settings_call_phone_description">לביצוע שיחות באמצעות קיצורי דרך במסך הבית</string>
     <string name="privacy_settings_call_phone_description_for_pad">לביצוע שיחות ביישומי צד שלישי</string>
@@ -985,6 +997,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">אין חברי קבוצה</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">חברות</string>
     <string name="smart_group_company_unavailable">אין פרטי חברה</string>
     <string name="smart_group_frequency_1">בחודש האחרון</string>
@@ -1083,6 +1096,7 @@
     <string name="the_united_nations_day">יום האומות המאוחדות</string>
     <string name="the_valentines_day">יום האהבה (ולנטיין)</string>
     <string name="the_water_lantern_festival">פסטיבל פנסי המים</string>
+    <string name="this_folder">שימוש בתיקייה הזו</string>
     <string name="three_letter">DEF</string>
     <string name="thursday">חמישי</string>
     <string name="thursday_short">"ה'"</string>
@@ -1100,6 +1114,7 @@
     <string name="toast_for_failed_saving_nickname">לא ניתן היה לשמור כינוי</string>
     <string name="toast_for_saving_nickname">כינוי נשמר</string>
     <string name="toast_join_with_empty_contact">הקלד שם איש קשר לפני מיזוג עם אחר</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">"יש לאפשר למאפיין זה התחברות למכשירים בסביבה הקרובה באמצעות בלוטות' כדי לייבא אנשי קשר ממכשירים אחרים."</string>
     <string name="toast_not_show_camera_perm_req">כדי שניתן יהיה להשתמש במצלמה לצילום תמונות פרופיל, תחילה יש לאפשר לאפליקציה זו לצלם תמונות ולהקליט סרטונים.</string>
     <string name="toast_not_show_location_perm_req">"כדי שניתן יהיה לייבא אנשי קשר ממכשירים אחרים באמצעות בלוטות', תחילה יש לאפשר לאפליקציה זו לגשת למיקום שלך."</string>
     <string name="toast_not_show_read_calllogs_perm_req">כדי שניתן יהיה לצפות ביומן השיחות, תחילה יש לאשר ליישום גישה ליומן השיחות.</string>

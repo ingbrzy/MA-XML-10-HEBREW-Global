@@ -68,7 +68,7 @@
     </plurals>
     <plurals name="duration_minutes_relative_future">
         <item quantity="other">בעוד %d דקות</item>
-        <item quantity="one">בעוד %d דקה</item>
+        <item quantity="one">בעוד דקה אחת (%d)</item>
         <item quantity="two">בעוד %d דקות</item>
         <item quantity="many">בעוד %d דקות</item>
     </plurals>
@@ -98,7 +98,7 @@
     </plurals>
     <plurals name="duration_years_shortest">
         <item quantity="other">%d שנים</item>
-        <item quantity="one">שנה %d</item>
+        <item quantity="one">שנה אחת (%d‏)</item>
         <item quantity="two">%d שנים</item>
         <item quantity="many">%d שנים</item>
     </plurals>
@@ -122,7 +122,7 @@
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">%d הימים האחרונים</item>
-        <item quantity="one">יום %d אחרון</item>
+        <item quantity="one">היום האחרון (%d)</item>
         <item quantity="two">%d הימים האחרונים</item>
         <item quantity="many">%d הימים האחרונים</item>
     </plurals>
@@ -139,10 +139,10 @@
         <item quantity="many">‏נותרו לך %d ניסיונות לפני נעילת כרטיס ה-SIM.</item>
     </plurals>
     <plurals name="restr_pin_countdown">
-        <item quantity="other">נסה שוב בעוד %d שניות</item>
-        <item quantity="one">נסה שוב בעוד שנייה אחת</item>
-        <item quantity="two">נסה שוב בעוד %d שניות</item>
-        <item quantity="many">נסה שוב בעוד %d שניות</item>
+        <item quantity="other">יש לנסות שוב בעוד %d שניות</item>
+        <item quantity="one">יש לנסות שוב בעוד שנייה אחת</item>
+        <item quantity="two">יש לנסות שוב בעוד %d שניות</item>
+        <item quantity="many">יש לנסות שוב בעוד %d שניות</item>
     </plurals>
     <plurals name="selected_count">
         <item quantity="other">בחרת %1$d</item>

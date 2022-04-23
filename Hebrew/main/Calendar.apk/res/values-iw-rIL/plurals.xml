@@ -90,6 +90,12 @@
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
     </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">בעוד %d דקות</item>
+        <item quantity="one">בעוד דקה %d</item>
+        <item quantity="two">בעוד %d דקות</item>
+        <item quantity="many">בעוד %d דקות</item>
+    </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s ימים</item>
         <item quantity="one">יום אחד</item>
@@ -282,6 +288,12 @@
         <item quantity="two">" ימים"</item>
         <item quantity="many">" ימים"</item>
     </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">עוד %d אירועים</item>
+        <item quantity="one">עוד אירוע %d</item>
+        <item quantity="two">עוד %d אירועים</item>
+        <item quantity="many">עוד %d אירועים</item>
+    </plurals>
     <plurals name="repeat_custom_prompt">
         <item quantity="other">בכל%1$sב%2$s</item>
         <item quantity="one">בכל%1$sב%2$s</item>
@@ -354,6 +366,12 @@
         <item quantity="two">היום ה-%1$d המשוער של הווסת</item>
         <item quantity="many">היום ה-%1$d המשוער של הווסת</item>
     </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">%d אירועים היום</item>
+        <item quantity="one">אירוע %d היום</item>
+        <item quantity="two">%d אירועים היום</item>
+        <item quantity="many">%d אירועים היום</item>
+    </plurals>
     <plurals name="travel_eta_advice">
         <item quantity="other">%2$s דקות נסיעה ל- %1$s.</item>
         <item quantity="one">%2$s דקת נסיעה ל- %1$s.</item>
@@ -365,6 +383,42 @@
         <item quantity="one">שבוע %d</item>
         <item quantity="two">שבוע %d</item>
         <item quantity="many">שבוע %d</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s ימים</item>
+        <item quantity="one">יום אחד</item>
+        <item quantity="two">%1$s ימים</item>
+        <item quantity="many">%1$s ימים</item>
+    </plurals>
+    <plurals name="widget_custom_unit_day">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום אחד</item>
+        <item quantity="two">%d ימים</item>
+        <item quantity="many">%d ימים</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">%d אירועים בעיצומם</item>
+        <item quantity="one">אירוע %d בעיצומו</item>
+        <item quantity="two">%d אירועים בעיצומם</item>
+        <item quantity="many">%d אירועים בעיצומם</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">האירוע הבא בעוד %d דקות</item>
+        <item quantity="one">האירוע הבא בעוד דקה %d</item>
+        <item quantity="two">האירוע הבא בעוד %d דקות</item>
+        <item quantity="many">האירוע הבא בעוד %d דקות</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">%d אירועים מחר</item>
+        <item quantity="one">אירוע %d מחר</item>
+        <item quantity="two">%d אירועים מחר</item>
+        <item quantity="many">%d אירועים מחר</item>
+    </plurals>
+    <plurals name="widget_weekN">
+        <item quantity="other">%d שבועות</item>
+        <item quantity="one">שבוע %d</item>
+        <item quantity="two">%d שבועות</item>
+        <item quantity="many">%d שבועות</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d ימי עבודה</item>

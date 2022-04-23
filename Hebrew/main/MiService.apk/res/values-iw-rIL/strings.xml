@@ -70,7 +70,7 @@
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
-    <string name="i_get_it">Got it</string>
+    <string name="i_get_it">הבנתי</string>
     <string name="icon_add_description">הוסף קיצור דרך למסך הבית</string>
     <string name="icon_remove_confirm">הסר</string>
     <string name="icon_remove_description_content">\"שירותים ומשוב\" הוא יישום מערכת. אחרי הסרת קיצור הדרך ממסך הבית עדיין תוכל להשתמש בו דרך ההגדרות.</string>
@@ -156,6 +156,9 @@
     <string name="miui_feedback_edit_toast_screenshot_too_large">לא ניתן להעלות תמונות או וידאו הגדולים מ-100MB</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">הזן שם יישום</string>
     <string name="miui_feedback_main_answer_title">ישנה תשובה לשאלה זו</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"מוקד שירות: 0120-300-521
+שעות המשרד: 9:00 - 18:00 (למעט חגים וימי שבתון)
+דוא\"ל: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_frequent_question_title">שאלות נפוצות</string>
     <string name="miui_feedback_main_item_catch_full_log">לקבל יומנים</string>
     <string name="miui_feedback_main_item_customer_service">שירותים לאחר מכירה</string>
@@ -309,10 +312,10 @@
     <string name="permission_storage_introduce">בעבור שמירת פריטים על גבי המכשיר</string>
     <string name="permission_user_protocol">חשבון משתמש (חובה)</string>
     <string name="pm">PM</string>
-    <string name="privacy_policy_update_hint">"%1$s Privacy Policy was updated:
+    <string name="privacy_policy_update_hint">"מדיניות הפרטיות של %1$s עודכנה:
 %2$s
-Read and agree to the new version of %3$s before you continue."</string>
-    <string name="privacy_policy_update_title">Updated Privacy Policy</string>
+עליך לקרוא את הגרסה החדשה של %3$s ולהסכים איתה כדי להמשיך."</string>
+    <string name="privacy_policy_update_title">מדיניות הפרטיות המעודכנת</string>
     <string name="public_authorize_now">הגדרות</string>
     <string name="public_loading_text">רק רגע…</string>
     <string name="public_net_error_retry">נסה שוב</string>
@@ -379,14 +382,14 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="tuesday">שלישי</string>
     <string name="tuesday_short">"ג'"</string>
     <string name="tuesday_shortest">"ג'"</string>
-    <string name="user_must_known">Attention</string>
-    <string name="user_must_known_content">"You won't be able to keep using our services unless you agree to the new version of our %s. Agree to the updated Privacy Policy now?"</string>
+    <string name="user_must_known">לתשומת לבך</string>
+    <string name="user_must_known_content">לא ניתן יהיה להמשיך להשתמש בשירותינו ללא הסכמה לגרסה החדשה של %s שלנו. להסכים למדיניות הפרטיות המעודכנת כעת?</string>
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>
-    <string name="withdraw_consent_failed">"Couldn't withdraw consent"</string>
-    <string name="withdraw_consent_failed_hint">A server error occurred. Wait a minute or two and try again.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
-    <string name="withdrawing">Withdrawing consent…</string>
+    <string name="withdraw_consent_failed">לא ניתן היה לבטל הסכמה</string>
+    <string name="withdraw_consent_failed_hint">אירעה שגיאת שרת. נא להמתין דקה או שתיים ולנסות שוב.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">המכשיר צריך להתחבר לרשת כדי שניתן יהיה לבטל את הסכמתך. נא לבדוק את הגדרות הרשת ולנסות שוב.</string>
+    <string name="withdrawing">מבטל הסכמה…</string>
     <string name="yesterday">אתמול</string>
 </resources>

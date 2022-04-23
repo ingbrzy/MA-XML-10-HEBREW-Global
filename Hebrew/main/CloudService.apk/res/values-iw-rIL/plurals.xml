@@ -54,12 +54,6 @@
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
     </plurals>
-    <plurals name="cloud_space_full_gallery_notification_content_title">
-        <item quantity="other">לא ניתן לסנכרן %s פריטים</item>
-        <item quantity="one">לא ניתן לסנכרן פריט %s</item>
-        <item quantity="two">לא ניתן לסנכרן %s פריטים</item>
-        <item quantity="many">לא ניתן לסנכרן %s פריטים</item>
-    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d כניסות לרשימת החסומים</item>
         <item quantity="one">כניסה %d לרשימת החסומים</item>
@@ -102,12 +96,6 @@
         <item quantity="two">%d הודעות</item>
         <item quantity="many">%d הודעות</item>
     </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">%d שירים</item>
-        <item quantity="one">שיר %d</item>
-        <item quantity="two">%d שירים</item>
-        <item quantity="many">%d שירים</item>
-    </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">%d פתקים</item>
         <item quantity="one">%d פתק אחד</item>
@@ -138,12 +126,6 @@
         <item quantity="two">%d הקלטות</item>
         <item quantity="many">%d הקלטות</item>
     </plurals>
-    <plurals name="dirty_secretphoto_count">
-        <item quantity="other">%d תמונות מוסתרות לא סונכרנו. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>
-        <item quantity="one">תמונה מוסתרת %d לא סונכרנה. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>
-        <item quantity="two">%d תמונות מוסתרות לא סונכרנו. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>
-        <item quantity="many">%d תמונות מוסתרות לא סונכרנו. צא רק לאחר סנכרון כל הפריטים על מנת לשמור עליהם. אחרת, פריטים ימחקו.</item>
-    </plurals>
     <plurals name="dirty_wlan_count">
         <item quantity="other">%d רשתות אלחוטיות</item>
         <item quantity="one">רשת אלחוטית %d</item>
@@ -156,11 +138,35 @@
         <item quantity="two">%d WLAN networks</item>
         <item quantity="many">%d WLAN networks</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s שעות</item>
+        <item quantity="one">שעה %s</item>
+        <item quantity="two">%s שעות</item>
+        <item quantity="many">%s שעות</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s דקות</item>
+        <item quantity="one">דקה %s</item>
+        <item quantity="two">%s דקות</item>
+        <item quantity="many">%s דקות</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s שניות</item>
+        <item quantity="one">שנייה %s</item>
+        <item quantity="two">%s שניות</item>
+        <item quantity="many">%s שניות</item>
+    </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">נסה שוב בעוד %d שניות</item>
         <item quantity="one">נסה שוב בעוד שנייה אחת (%d)</item>
         <item quantity="two">נסה שוב בעוד %d שניות</item>
         <item quantity="many">נסה שוב בעוד %d שניות</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">לא ניתן היה לסנכרן %s פריטים</item>
+        <item quantity="one">לא ניתן היה לסנכרן פריט אחד (%s)</item>
+        <item quantity="two">לא ניתן היה לסנכרן %s פריטים</item>
+        <item quantity="many">לא ניתן היה לסנכרן %s פריטים</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>

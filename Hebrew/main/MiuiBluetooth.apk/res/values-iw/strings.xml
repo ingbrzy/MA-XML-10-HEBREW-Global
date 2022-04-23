@@ -300,7 +300,7 @@
     <string name="ims_reg_status_not_registered">לא רשום</string>
     <string name="ims_reg_status_registered">רשום</string>
     <string name="ims_reg_title">‏סטטוס הרשמה ל-IMS</string>
-    <string name="imsi_protection_warning">הרשת הזו מקבלת מזהה ייחודי שיכול לשמש למעקב אחר מיקום המכשיר. <annotation id="url">מידע נוסף</annotation></string>
+    <string name="imsi_protection_warning">‏הרשת הזו מקבלת מזהה SIM שיכול לשמש למעקב אחר מיקום המכשיר. <annotation id="url">מידע נוסף</annotation></string>
     <string name="inactive_app_active_summary">אפליקציה פעילה. הקש כדי להחליף מצב.</string>
     <string name="inactive_app_inactive_summary">אפליקציה לא פעילה. הקש כדי להחליף מצב.</string>
     <string name="inactive_apps_title">אפליקציות בהמתנה</string>
@@ -538,6 +538,7 @@
     <string name="wifi_cant_connect">לא ניתן להתחבר</string>
     <string name="wifi_cant_connect_to_ap">לא ניתן להתחבר אל %1$s</string>
     <string name="wifi_check_password_try_again">בדוק את הסיסמה ונסה שוב</string>
+    <string name="wifi_connected_low_quality">איכות נמוכה</string>
     <string name="wifi_connected_no_internet">אין אינטרנט</string>
     <string name="wifi_disabled_by_recommendation_provider">אין חיבור לרשת, כי איכות הרשת נמוכה</string>
     <string name="wifi_disabled_generic">מושבת</string>

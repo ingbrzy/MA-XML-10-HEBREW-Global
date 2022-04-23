@@ -10,7 +10,7 @@
 נא להקיש לצפייה"</string>
     <string name="app_notification_title">מקליט המסך</string>
     <string name="auto_stop_title">הסרטון נשמר בהצלחה</string>
-    <string name="battery_not_allowed" formatted="false">לא ניתן להקליט כאשר טעינת הסוללה נמוכה מ-3%. ודא כי הסוללה טעונה ב-20% לפחות.</string>
+    <string name="battery_not_allowed_warning">לא ניתן להקליט כאשר רמת הסוללה מתחת ל-%1$s. יש לוודא כי הסוללה טעונה ב-%2$s לפחות.</string>
     <string name="bit_rate">איכות הוידאו</string>
     <string name="bit_rate_summary">איכות גבוהה יותר משמעותה קובץ גדול יותר</string>
     <string name="bubble_text">לחץ על מנת להתחיל להקליט</string>
@@ -120,8 +120,8 @@
     <string name="low_battery_for_pad">טען את המכשיר שלך לפני שתתחיל להקליט</string>
     <string name="low_battery_title">סוללה חלשה</string>
     <string name="low_battery_warning">הסוללה חלשה מידי. ההקלטה נעצרה והסרטון נשמר.</string>
-    <string name="low_memory">ברשותך פחות מ-1GB של שטח אחסון זמין. באפשרותך להקליט עד כ-20 דקות כעת.</string>
     <string name="low_memory_for_pad">"יש לך פחות מ-%1$d ג\"ב של שטח אחסון פנוי. ניתן לההקליט עד %2$d דק' עכשיו."</string>
+    <string name="low_memory_for_phone">יש לך פחות מ-%1$d ג\"ב של שטח אחסון פנוי. עכשיו ניתן לההקליט עד %2$d דקות.</string>
     <string name="low_memory_title">אין מספיק שטח אחסון</string>
     <string name="low_momery_warning">אין מספיק שטח אחסון. ההקלטה נעצרה והסרטון נשמר.</string>
     <string name="memory_not_allowed">אין שטח אחסון זמין. פנה שטח על מנת להקליט.</string>

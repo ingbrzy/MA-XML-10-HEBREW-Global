@@ -55,6 +55,7 @@
     <string name="account_verify_guide_bind_mail_desc">הוספת כתובת דוא\"ל לשחזור</string>
     <string name="account_verify_guide_bind_phone_desc">הוספת טלפון לשחזור</string>
     <string name="account_verify_guide_set_password_desc">הגדרת סיסמה</string>
+    <string name="account_verify_guide_verify_phone_desc">אמת מספר טלפון לשחזור</string>
     <string name="account_xiaomi_service">שירותים</string>
     <string name="action_add_phone">הוספת מספר טלפון</string>
     <string name="action_retry">נסה שוב</string>
@@ -94,6 +95,10 @@
     <string name="cloud_description_closed">תפוס | סנכרון מושבת</string>
     <string name="cloud_description_normal">תפוס</string>
     <string name="cloud_service">Xiaomi Cloud</string>
+    <string name="cloud_service_status_backup_not_open">הגיבוי מושבת</string>
+    <string name="cloud_service_status_cloud_not_open">כבוי</string>
+    <string name="cloud_service_status_storage_full">שטח האחסון מלא</string>
+    <string name="cloud_service_status_storage_not_enough">אין מספיק מקום</string>
     <string name="collect_diagnosis_log">צור יומן אבחונים</string>
     <string name="completed">הכל מוכן!</string>
     <string name="confirm_activate_email">אומת</string>
@@ -370,6 +375,8 @@ ID:%s
     <string name="notify_network_restricted_content_hidden_state">פעילות הרקע של חשבון Mi מוגבלת. לחץ על מנת לאפשרה.</string>
     <string name="notify_network_restricted_content_mobile_network">הגישה לרשת של חשבון Mi מוגבלת. לחץ על מנת לאפשרה.</string>
     <string name="notify_network_restricted_title">חשבון Mi נכשל בהתחברות לרשת</string>
+    <string name="notify_verify_again_security_phone">אישור</string>
+    <string name="notify_verify_security_phone">טלפון</string>
     <string name="oauth_get_scopes_failed">לא ניתן היה להשיג את פרטי החשבון</string>
     <string name="oauth_getting_scopes">מאמת חשבון…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> יקבל את ההרשאות הבאות:&lt;br> &lt;br> %3$s</string>
@@ -604,7 +611,7 @@ ID:%s
     <string name="passport_uplink_suggest_dialog_title">לתשומת לבך</string>
     <string name="passport_use_generated_pwd_message">הקפד לזכור את הסיסמה שלך. תוכל להשתמש בה לכניסה לשירותי Mi אחרים.</string>
     <string name="passport_use_generated_pwd_title">זכור את סיסמתך!</string>
-    <string name="passport_user_agreement">הסכם המשתמש</string>
+    <string name="passport_user_agreement">הסכם משתמש</string>
     <string name="passport_user_agreement_link">&lt;Data>קראתי והסכמתי לXiaomi &lt;a href=%1$s>הסכם משתמש&lt;/a> ו &lt;a href=%2$s>מדיניות פרטיות&lt;/a>.&lt;/Data></string>
     <string name="passport_user_agreement_required">הסכם משתמש (חובה)</string>
     <string name="passport_user_id_notice">מזהה חשבון Mi שלך הוא %s.</string>
@@ -633,7 +640,7 @@ ID:%s
     <string name="permission_group_storage">אחסון</string>
     <string name="permission_instructions">שימוש בהרשאות,</string>
     <string name="permission_read_sms">גישה להודעות</string>
-    <string name="permission_withdraw">לבטל</string>
+    <string name="permission_withdraw">ביטול הסכמה</string>
     <string name="permission_write_external_storage">לגשת ולאחסן פריטים באחסון</string>
     <string name="personal_info_desc">תמונה, כינוי ועוד</string>
     <string name="phone_num_use_for">מספר הטלפון משמש ל:</string>

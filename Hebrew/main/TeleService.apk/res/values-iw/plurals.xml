@@ -22,10 +22,4 @@
         <item quantity="two">הפעולה הנבחרת אינה זמינה במצב חירום של התקשרות חזרה. הטלפון יהיה במצב זה למשך %s דקות. האם ברצונך לצאת כעת?</item>
         <item quantity="many">הפעולה הנבחרת אינה זמינה במצב חירום של התקשרות חזרה. הטלפון יהיה במצב זה למשך %s דקות. האם ברצונך לצאת כעת?</item>
     </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">‏%1$d מכשירים מחוברים</item>
-        <item quantity="one">מכשיר אחד מחובר</item>
-        <item quantity="two">‏%1$d מכשירים מחוברים</item>
-        <item quantity="many">‏%1$d מכשירים מחוברים</item>
-    </plurals>
 </resources>
