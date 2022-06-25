@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_to_recover">רק רגע…</string>
+    <string name="access_denied_info">יותר מדיי ניסיונות כניסה. חכה דקה או שתיים ונסה שוב.</string>
     <string name="actionbar_button_up_description">הקודם</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="am">AM</string>
@@ -335,6 +336,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="msg_restore_with_metered_network_hint">אם תמשיך לשחזר פריטים אלו, נתונים סלולריים ישמשו להורדה זו.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>%s&lt;/b> קבצים ירדו."</string>
     <string name="network_error">התחבר לרשת</string>
+    <string name="network_error_info">אירעה שגיאת רשת. בדוק את הגדרות הרשת ונסה שוב.</string>
+    <string name="network_timeout_info">לא ניתן היה להתחבר לרשת. נסה שוב.</string>
     <string name="night">ערב</string>
     <string name="no_account">לא מחובר לחשבון Mi.</string>
     <string name="no_backup">אין גיבויים ב Xiaomi Cloud.</string>
@@ -344,9 +347,12 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">לחץ על מתג הגיבוי</string>
     <string name="other_device_main_space">שטח ראשון</string>
     <string name="other_device_second_space">שטח משני</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">לא ניתן לשחזר פריטים במצב מחשב אישי. יש להשבית את מצב המחשב האישי ולנסות שוב.</string>
     <string name="pm">PM</string>
     <string name="process_whole_recovery">משחזר את \"%s\"</string>
+    <string name="progressbar_title">בודק שגיאות אבטחה…</string>
     <string name="provision_back">הקודם</string>
     <string name="provision_background_restore_more_data">שחזר יותר פריטים ברקע</string>
     <string name="provision_error_connect_msg">בדוק את הרשת ונסה שוב. הגיבויים אינם זמינים כאשר מכשירך נמצא במצב לא מקוון.</string>
@@ -423,6 +429,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
+    <string name="system_error_info">המערכת עסוקה כעת. חכה דקה או שתיים ונסה שוב.</string>
     <string name="the_anniversary_of_lifting_martial_law">יום השנה לביטול החוק הצבאי</string>
     <string name="the_anti_aggression_day">יום המאבק באלימות</string>
     <string name="the_arbor_day">יום העץ</string>
@@ -480,6 +487,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="tuesday">שלישי</string>
     <string name="tuesday_short">"ג'"</string>
     <string name="tuesday_shortest">"ג'"</string>
+    <string name="unknown_error_info">שגיאה לא ידועה</string>
     <string name="unselected">לא נבחר</string>
     <string name="unsupported_home">מעדכן את MIUI לגרסה האחרונה.</string>
     <string name="wait_icon_download">מוריד אייקונים של יישומים</string>

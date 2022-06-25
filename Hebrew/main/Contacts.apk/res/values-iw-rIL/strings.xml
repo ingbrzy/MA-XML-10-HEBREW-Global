@@ -21,8 +21,8 @@
     <string name="add_field">הוסף שדה חדש</string>
     <string name="add_field_toast">אין עוד שדות להוספה.</string>
     <string name="add_new_account">הוסף חשבון חדש</string>
-    <string name="add_xiaomi_account_dialog_btn">השתמש בחשבון Mi</string>
-    <string name="add_xiaomi_account_dialog_msg">גבה את אנשי הקשר שלך אל חשבון Mi על מנת לגשת אליהם מכל מקום!</string>
+    <string name="add_xiaomi_account_dialog_btn">שימוש בחשבון Xiaomi</string>
+    <string name="add_xiaomi_account_dialog_msg">גבה את אנשי הקשר שלך אל חשבון Xiaomi על מנת לגשת אליהם מכל מקום!</string>
     <string name="add_xiaomi_account_dialog_title">בחר חשבון</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="aggregation_suggestion_edit_dialog_message">עבור לעריכת איש קשר קשר עם שם זהה? מידע שהזנת עד כה יועתק.</string>
@@ -121,6 +121,7 @@
     <string name="calllog_menu_edit_before_call">ערוך</string>
     <string name="calllog_menu_send_sms">שלח הודעה</string>
     <string name="calllog_record_none_toast">אין הקלטות שיחות שניתן להציג</string>
+    <string name="calllog_record_searching_toast">מחפש הקלטות של שיחות…</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dד %2$dש</string>
     <string name="callrecordview_item_op_time_missed">לא התחבר</string>
     <string name="callrecordview_item_op_time_only_minutes">%d דקות</string>
@@ -474,6 +475,7 @@
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">שם</string>
     <string name="gallery">גלריה</string>
     <string name="ghostData_company">חברה</string>
@@ -530,7 +532,7 @@
     <string name="import_to_xiaomi_account_confirm">ייבא</string>
     <string name="import_to_xiaomi_account_progress_finish">אנשי הקשר יובאו</string>
     <string name="import_to_xiaomi_account_progress_message">מייבא…</string>
-    <string name="import_to_xiaomi_account_title">ייבא אל חשבון Mi</string>
+    <string name="import_to_xiaomi_account_title">ייבוא לחשבון Xiaomi</string>
     <string name="import_vcard_dialog_message">לייבא vCard?</string>
     <string name="importing_sim_contacts_miui">מייבא אנשי קשר מכרטיס SIM…</string>
     <string name="importing_sim_contacts_miui_prepare">מכין אנשי קשר…</string>
@@ -539,6 +541,11 @@
     <string name="importing_vcard_finished_title">ייבוא קובץ Vcard %s הסתיים</string>
     <string name="insertContactDescription">צור איש קשר</string>
     <string name="invalidContactMessage">איש הקשר אינו קיים</string>
+    <string name="invisible_mode_dialog_cancel">ביטול</string>
+    <string name="invisible_mode_dialog_to_close">כיבוי</string>
+    <string name="invisible_mode_title">אתה במצב גלישה בסתר</string>
+    <string name="invisible_mode_unable_connect_camera">כבה את מצב גלישה בסתר כדי שתוכל להשתמש במצלמה. לכבות עכשיו?</string>
+    <string name="invisible_mode_unable_get_location">כבה את מצב גלישה בסתר כדי שתוכל להשתמש בשירותי מיקום ולייבא אנשי קשר ממכשירים אחרים באמצעות Bluetooth. לכבות עכשיו?</string>
     <string name="item_offical">רשמי</string>
     <string name="keep_local">אל תסנכרן</string>
     <string name="keep_local_btn">השתמש באחסון הפנימי של המכשיר</string>
@@ -565,6 +572,9 @@
     <string name="low_memory_toast">לא ניתן להשתמש בתכונה זו עקב זכרון נמוך.</string>
     <string name="lunarBirthdayLabelsGroup">יום הולדת ירחי</string>
     <string name="make_primary">זכור בחירה זו</string>
+    <string name="manage_external_storage_dialog_message">יש לאשר ליישום זה גישה לכל הקבצים כדי לנהל הקלטות של שיחות.</string>
+    <string name="manage_external_storage_dialog_positive">הגדרות</string>
+    <string name="manage_external_storage_dialog_title">נדרשות הרשאות</string>
     <string name="map_custom">הצג כתובת של %s</string>
     <string name="map_home">הצג כתובת בית</string>
     <string name="map_other">הצג כתובת</string>
@@ -599,6 +609,7 @@
     <string name="menu_sync_remove">הסר קבוצת סנכרון</string>
     <string name="midnight">לילה</string>
     <string name="miprofile_account_type">כרטיסי איש קשר</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ערוך פרופיל</string>
     <string name="miprofile_name">הפרופיל שלי</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -754,6 +765,7 @@
     <string name="permission_retry_dialog_msg_pad">כדי שניתן יהיה להשתמש בכרטיס ה-SIM שלך באפליקציה זו ולנהל את אנשי הקשר שלך, יש לאפשר לאפליקציה זו לגשת ולערוך את אנשי הקשר שלך, כמו גם לגשת למידע על המכשיר.</string>
     <string name="permission_retry_setting">הגדרות</string>
     <string name="phoneLabelsGroup">טלפון</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
     <string name="phone_primary">עיקרי</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות על גבי המכשיר.</string>
@@ -787,9 +799,9 @@
     <string name="pref_key_sim_manage">כרטיסי SIM</string>
     <string name="pref_key_sim_manage1">הגדרות SIM 1</string>
     <string name="pref_key_sim_manage2">הגדרות SIM 2</string>
-    <string name="pref_summary_import_from_account">ייבא אנשי קשר מחשבונות Google ו-Exchange לחשבון Mi שלי</string>
+    <string name="pref_summary_import_from_account">ייבא אנשי קשר מחשבונות Google ו-Exchange לחשבון Xiaomi שלי</string>
     <string name="pref_title_account_import">ייבוא אנשי קשר</string>
-    <string name="pref_title_import_from_account">ייבא אל חשבון Mi</string>
+    <string name="pref_title_import_from_account">ייבוא לחשבון Xiaomi</string>
     <string name="preference_contacts">אנשי קשר</string>
     <string name="preference_contacts_filter">קבע תצורת רשימות אנשי קשר</string>
     <string name="preference_contacts_more">סדר אנשי קשר</string>
@@ -994,6 +1006,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">אין חברי קבוצה</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">חברות</string>
     <string name="smart_group_company_unavailable">אין פרטי חברה</string>
     <string name="smart_group_frequency_1">בחודש האחרון</string>
@@ -1137,6 +1150,7 @@
     <string name="unknown_contact_name">איש קשר לא מוכר</string>
     <string name="unknown_details_add_to_contact">קיים</string>
     <string name="unknown_details_new_contact">חדש</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">לא ניתן להציג קודי QR בזמן שימוש במסך מפוצל</string>
     <string name="update_sim_contact_photo_toast">לא ניתן להגדיר תמונות פרופיל עבור אנשי קשר ב-SIM</string>
     <string name="upgrade_in_progress">רשימת אנשי הקשר מתעדכנת.</string>
     <string name="upgrade_out_of_memory">"אנשי הקשר נמצאים בתהליך של עדכון. 

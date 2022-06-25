@@ -112,6 +112,7 @@
     <string name="hint_volume_down">הנמך שמע</string>
     <string name="hint_volume_up">הגבר שמע</string>
     <string name="home_title_none">בחר פריטים</string>
+    <string name="invisible_mode_error_tip">נבחר מצב גלישה בסתר. לא ניתן להקליט שמע.</string>
     <string name="is_checked">נבחר</string>
     <string name="is_go_home">"חזרה ל'מקליט המסך'"</string>
     <string name="is_go_home_summary">"פתיחת עמוד ההתחלה של 'מקליט המסך' לאחר סיום ההקלטה"</string>

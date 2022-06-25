@@ -91,10 +91,10 @@
         <item quantity="many">%d מכשירים זמינים</item>
     </plurals>
     <plurals name="color_game_led_freq_entries">
-        <item quantity="other">כל %d שניות</item>
-        <item quantity="one">כל שנייה %d</item>
-        <item quantity="two">כל %d שניות</item>
-        <item quantity="many">כל %d שניות</item>
+        <item quantity="other">בכל %d שניות</item>
+        <item quantity="one">בכל שנייה אחת (%d)</item>
+        <item quantity="two">בכל %d שניות</item>
+        <item quantity="many">בכל %d שניות</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d התקנים</item>
@@ -151,16 +151,16 @@
         <item quantity="many">ממש עכשיו</item>
     </plurals>
     <plurals name="lockpassword_password_too_long">
-        <item quantity="other">תוכל להקיש עד %d תווים</item>
-        <item quantity="one">תוכל להקיש עד %d תוו</item>
-        <item quantity="two">תוכל להקיש עד %d תווים</item>
-        <item quantity="many">תוכל להקיש עד %d תווים</item>
+        <item quantity="other">ניתן להזין עד %d תווים</item>
+        <item quantity="one">ניתן להזין עד תו %d</item>
+        <item quantity="two">ניתן להזין עד %d תווים</item>
+        <item quantity="many">ניתן להזין עד %d תווים</item>
     </plurals>
     <plurals name="lockpassword_password_too_short">
-        <item quantity="other">הזן %d תוים לכל הפחות</item>
-        <item quantity="one">הזן %d תוו לכל הפחות</item>
-        <item quantity="two">הזן %d תוים לכל הפחות</item>
-        <item quantity="many">הזן %d תוים לכל הפחות</item>
+        <item quantity="other">עליך להזין לפחות %d תווים</item>
+        <item quantity="one">עליך להזין לפחות תו %d</item>
+        <item quantity="two">עליך להזין לפחות %d תווים</item>
+        <item quantity="many">עליך להזין לפחות %d תווים</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">קוד ה-PIN צריך להכיל %d ספרות</item>
@@ -170,21 +170,21 @@
     </plurals>
     <plurals name="lockpassword_pin_too_long">
         <item quantity="other">ניתן להזין עד %d ספרות</item>
-        <item quantity="one">ניתן להזין ספרה אחת בלבד (%d)</item>
+        <item quantity="one">ניתן להזין עד ספרה %d</item>
         <item quantity="two">ניתן להזין עד %d ספרות</item>
         <item quantity="many">ניתן להזין עד %d ספרות</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">הזן את %d הספרות האחרונות</item>
-        <item quantity="one">הזן את הספרה האחרונה (%d)</item>
-        <item quantity="two">הזן את %d הספרות האחרונות</item>
-        <item quantity="many">הזן את %d הספרות האחרונות</item>
+        <item quantity="other">הזן %d ספרות לפחות</item>
+        <item quantity="one">הזן ספרה %d לפחות</item>
+        <item quantity="two">הזן %d ספרות לפחות</item>
+        <item quantity="many">הזן %d ספרות לפחות</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">חבר לפחות %d נקודות. נסה שוב.</item>
-        <item quantity="one">חבר לפחות נקודה %d. נסה שוב.</item>
-        <item quantity="two">חבר לפחות %d נקודות. נסה שוב.</item>
-        <item quantity="many">חבר לפחות %d נקודות. נסה שוב.</item>
+        <item quantity="other">יש לחבר לפחות %d נקודות. נא לנסות שוב.</item>
+        <item quantity="one">יש לחבר לפחות נקודה %d. נא לנסות שוב.</item>
+        <item quantity="two">יש לחבר לפחות %d נקודות. נא לנסות שוב.</item>
+        <item quantity="many">יש לחבר לפחות %d נקודות. נא לנסות שוב.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
         <item quantity="other">יותר מדי ניסיונות שגויים. נסה שוב בעוד %d שניות.</item>
@@ -193,10 +193,10 @@
         <item quantity="many">יותר מדי ניסיונות שגויים. נסה שוב בעוד %d שניות.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">חכה %d שניות ונסה שוב.</item>
-        <item quantity="one">חכה שנייה %d ונסה שוב.</item>
-        <item quantity="two">חכה %d שניות ונסה שוב.</item>
-        <item quantity="many">חכה %d שניות ונסה שוב.</item>
+        <item quantity="other">יש להמתין במשך %d שניות ולנסות שוב.</item>
+        <item quantity="one">יש להמתין במשך שנייה %d ולנסות שוב.</item>
+        <item quantity="two">יש להמתין במשך %d שניות ולנסות שוב.</item>
+        <item quantity="many">יש להמתין במשך %d שניות ולנסות שוב.</item>
     </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d נוספו</item>

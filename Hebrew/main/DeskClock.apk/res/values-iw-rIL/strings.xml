@@ -9,6 +9,7 @@
     <string name="add_alarm">הוספת שעון מעורר</string>
     <string name="add_clock">הוסף שעון</string>
     <string name="add_common_timer">הוסף טיימר</string>
+    <string name="add_new_sound">הוספת רינגטון</string>
     <string name="add_timer">טיימר לפריטים שכיחים</string>
     <string name="add_timer_dialog_title">הוספת טיימר</string>
     <string name="add_timezone_title">הוספת אזור זמן</string>
@@ -37,6 +38,7 @@
     <string name="alarmclock_empty_text">אין שעונים מעוררים</string>
     <string name="alarmclock_silent_hint">השעון המעורר מושתק</string>
     <string name="alert">צלצול</string>
+    <string name="alert_page_desc">להשבתת השעון המעורר יש יש ללחוץ לחיצה ממושכת ואז להעביר אצבע כלפי מעלה</string>
     <string name="alert_ringtone">רינגטון לשעון המעורר</string>
     <string name="alert_vibrate_enable_summary">הפעל רטט יחד עם צלצול השעון המעורר</string>
     <string name="alert_volume">עוצמת הקול של הרינגטון</string>
@@ -98,12 +100,14 @@
     <string name="common_timer_selector">בחר טיימר</string>
     <string name="confirm">אישור</string>
     <string name="confirm_abort">ביטול</string>
+    <string name="confirm_remove_custom_ringtone">לאחר מחיקת רינגטון זה התראות השעון המעורר והטיימר שהשתמשו בו ישתמשו במקומו ברינגטון ברירת המחדל. למחוק עכשיו?</string>
     <string name="content_desc_keep_screen">לחצן \"השאר את המסך דלוק\"</string>
     <string name="continue_operation">המשך</string>
     <string name="continue_step">הבא</string>
     <string name="control_set_alarm">הגדרת שעון מעורר</string>
     <string name="control_set_alarm_with_existing">השעון המעורר מוגדר: %s</string>
     <string name="current_stopwatch_time">השעה הנוכחית</string>
+    <string name="custom_ringtone_lost_permissions">אין גישה לצליל זה.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -119,6 +123,7 @@
     <string name="delete_timer_item_title">מחק משימת טיימר</string>
     <string name="delete_timezone_title">מחק אזור זמן</string>
     <string name="deskclock_sleep_no_disturbance">"שעון - ניהול שעת שינה - מצב 'נא לא להפריע'"</string>
+    <string name="device_sounds">צלילי המכשיר</string>
     <string name="dialog_confirm_abort">לבטל שינויים?</string>
     <string name="dialog_legal_off_day">&lt;Data>נראה כאילו אתה משתמש בשעון מעורר עבור חגים. תכונה זו זקוקה לחיבור אינטרנט על מנת לעבוד באופן תקין. לפני שתשתמש בתכונה זו, עליך להסכים ל &lt;a href=\"%1$s\">הסכם משתמש&lt;/a> ו &lt;a href=\"%2$s\">מדיניות פרטיות&lt;/a>.האם אתה מסכים?&lt;/Data></string>
     <string name="dialog_legal_off_day_desc">השעון אינו מאפשר להתחבר לאינטרנט על מנת לקבל עדכונים אודות חגים. שעון מעורר עבור חגים יצלצל משבת עד ראשון.</string>
@@ -466,6 +471,7 @@
     <string name="shutdown_alarm_enable_summary">השעון מעורר יכבה אם הוא נקבע למשך 10 דקות לפחות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="sleep_analysis">סטטיסטיקות</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
@@ -518,6 +524,7 @@
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">לאפשר ליישום זה להתחבר לאינטרנט על מנת לקבל גישה לכל המאפיינים שלו.</string>
     <string name="system_permission_main_purpose">זמני תצוגה, הגדרת התראות וטיימרים, שימוש בשעון עצר</string>
     <string name="system_permission_purpose">יצירת התראות לימי חול והגדרת רינגטונים אישיים</string>
@@ -633,6 +640,7 @@
     <string name="tv_blank_list_show_text">עדיין אין כאן כלום. יש לחפש מיקום כדי להוסיף אותו לשעון העולמי.</string>
     <string name="tv_world_clock_edit_title1">המיקומים מוצגים על מסך הבית</string>
     <string name="tv_world_clock_edit_title2">מיקומים אחרים שנשמרו</string>
+    <string name="unknown_ringtone_title">לא ידוע</string>
     <string name="unselect_all">בטל בחירת הכל</string>
     <string name="upcoming_alarm">השעון המעורר הבא: %s</string>
     <string name="upcoming_alarm_hint">תוכל לכבות את השעון המעורר כעת</string>
@@ -663,6 +671,8 @@
     <string name="week_ringtone_recommend_desc">שעון הטבע המעורר מפעיל צלילים שונים בהתאם לתאריך. האם ברצונך להגדיר אותו כברירת המחדל?</string>
     <string name="white_noise">רעשי סביבה</string>
     <string name="white_noise_guide_desc">הוספת צלילי רקע כדי לשמור על ריכוז</string>
+    <string name="white_noise_not_selected">לא נבחר</string>
+    <string name="white_noise_selected">נבחר</string>
     <string name="white_noise_selector">בחר שמע</string>
     <string name="workday_alarm_clock">שעון מעורר של יום עבודה</string>
     <string name="worldclock_edit_label">שעון עולמי</string>
@@ -686,4 +696,5 @@
     <string name="worldcolock_timezone_local">זהה לשעה המקומית</string>
     <string name="xiaoai_ringtone_title">רינגטונים של Mi AI</string>
     <string name="yesterday">אתמול</string>
+    <string name="your_sounds">הצלילים שלי</string>
 </resources>

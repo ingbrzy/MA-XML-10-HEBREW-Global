@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_External_Storage">אחסון</string>
+    <string name="HIPS_Perm_External_Storage_Desc">כדי לגשת ולשמור קבצים ותמונות במכשירך</string>
+    <string name="HIPS_Perm_Read_Contact">אנשי קשר</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">לגשת לאנשי הקשר שלך</string>
     <string name="actionbar_button_up_description">הקודם</string>
     <string name="add">הוספה</string>
     <string name="advanced_mobile_settings">הגדרות מתקדמות</string>
@@ -7,6 +11,7 @@
     <string name="ai_assistant_not_installed">קודם עליך להתקין את עוזר השיחות החכם</string>
     <string name="ai_assistant_setting_title">עוזר שיחות AI</string>
     <string name="alertdialogtitle">תוצאות</string>
+    <string name="allow">הוענקה</string>
     <string name="always_enable_mms">קבל תמיד הודעות מולטימדיה</string>
     <string name="always_enable_mms_summary">קבל הודעות מולטימדיה גם כאשר חיבור הנתונים הסלולרי כבוי</string>
     <string name="am">AM</string>
@@ -15,6 +20,9 @@
     <string name="answer_state_setting_title">הגדרות שיחות נכנסות</string>
     <string name="antispam_notification_title">מספר לא ידוע</string>
     <string name="antispam_setting">רשימת החסומים</string>
+    <string name="arrears_sim_summary">Top up your phone balance to stay connected.</string>
+    <string name="arrears_sim_title">Insufficient funds</string>
+    <string name="ask">לשאול</string>
     <string name="auto_answer_delay_entries_delay_10s">%d שניות</string>
     <string name="auto_answer_delay_entries_delay_3s">%d שניות</string>
     <string name="auto_answer_delay_entries_delay_5s">%d שניות</string>
@@ -180,11 +188,6 @@
     <string name="dial_related_setting_catory">לוח המקשים</string>
     <string name="dialog_cancel">ביטול</string>
     <string name="dialog_network_priority_title">עדיפות רשת</string>
-    <string name="dialog_ota_change_number_fail">לא ניתן לשנות את מספר הטלפון. אם השגיאה הזו תחזור לאחר ניסיון נוסף, פנה לספק הרשת שלך.</string>
-    <string name="dialog_ota_change_number_lgu">להוריד את USIM עכשיו?</string>
-    <string name="dialog_ota_change_number_lgu_roaming">לא ניתן לשנות מספרי טלפון בזמן שהייה בחו\"ל.</string>
-    <string name="dialog_ota_change_number_processing">מוריד USIM…</string>
-    <string name="dialog_ota_change_number_success">מספר הטלפון שונה בהצלחה</string>
     <string name="dialog_report">דו\"ח</string>
     <string name="dialpad_eight">%d</string>
     <string name="dialpad_five">%d</string>
@@ -224,18 +227,14 @@
     <string name="enhanced_4g_lte_mode_off_failed">לא ניתן היה לכבות את VoLTE.</string>
     <string name="enhanced_4g_lte_mode_on_failed">לא ניתן היה להפעיל את VoLTE.</string>
     <string name="enter_callbarring_password">הזן סיסמה לחסימת שיחות (%d ספרות)</string>
-    <string name="enter_esim_manager">ניהול eSIM</string>
     <string name="enter_pin2_text">קוד PIN2</string>
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
-    <string name="esim_goto_active">הפעלה</string>
-    <string name="esim_inactive_message">eSIM לא פעיל</string>
-    <string name="esim_inactive_notification_message">לא זוהה כרטיס SIM. נא להקיש להפעלת eSIM.</string>
-    <string name="esim_inactive_settings_title">כרטיס SIM כפול ורשתות סלולריות</string>
     <string name="evening">לפנות ערב</string>
     <string name="fdn_enable_puk2_requested">הסיסמה שגויה, PIN2 נחסם. שנה את PIN2 ונסה שוב.</string>
     <string name="fdn_full">"'מספרי חיוג קבועים' לא עודכן משום שהרשימה מלאה."</string>
     <string name="fdn_summary">"הגבל שיחות יוצאות ל'מספרי חיוג קבועים' (FDN) או למספרים עם קידומות מסוימות"</string>
+    <string name="fiveg_carrier_aggregation_title">צבירת ספק 5G</string>
     <string name="fiveg_hosted_mode_summary">בחר אוטומטית את הרשת הטובה ביותר כדי לחסוך בסוללה</string>
     <string name="fiveg_hosted_mode_title">מתג חכם ל-5G</string>
     <string name="fiveg_network_mode_default">אוטומטי</string>
@@ -566,6 +565,7 @@
     <string name="night">ערב</string>
     <string name="no_checked_network">לא תוכל להתחבר לרשת הסלולרית ולבצע שיחות. לבחור רשת אחרת?</string>
     <string name="noon">צהריים</string>
+    <string name="notallow">לא הוענקה</string>
     <string name="notification_switch_auto_text">נראה שחזרת. בוצע מעבר לרשתות מקומיות.</string>
     <string name="notification_switch_auto_title">רשתות סלולריות</string>
     <string name="nr_network_info">פרטי שימוש ברשת 5G</string>
@@ -575,6 +575,8 @@
     <string name="nr_usaged_network_usaged">נתוני היום</string>
     <string name="nr_usaged_operator">ספק</string>
     <string name="nr_usaged_used_time">משך השימוש</string>
+    <string name="obtain_location_information">מיקום</string>
+    <string name="obtain_location_information_summary">למיטוב סביבת הרשת הנוכחית</string>
     <string name="old_password_label">הסיסמה הנוכחית בת %d-הספרות</string>
     <string name="old_pin2_label">קוד PIN2</string>
     <string name="old_pin_label">קוד PIN ישן</string>
@@ -620,6 +622,7 @@
     <string name="path_telocation_enable_title">יישומי מערכת/טלפון/מיקום/הצג מיקום</string>
     <string name="path_turnover_mute_title">יישומי מערכת/טלפון/הגדרות שיחה נכנסת/החלף לצלצול שקט</string>
     <string name="path_voicemail_settings">יישומי מערכת/טלפון/הגדרות מתקדמות/הגדרות תא קולי</string>
+    <string name="permission_description">פרטי הרשאות</string>
     <string name="phone_account_settings">חשבונות חיוג</string>
     <string name="phone_report_title">לקרוא מידע שיחה נכנסת</string>
     <string name="pin2_changed">קוד PIN2 שונה בהצלחה.</string>
@@ -637,11 +640,12 @@
     <string name="pm">PM</string>
     <string name="prefered_network_type_3g_promp">עליך לכבות את VoLTE לפני בחירה ב-3G כסוג הרשת המועדף עליך. לכבות כעת?</string>
     <string name="preference_auto_ip_summary_disable">כבוי</string>
-    <string name="preference_countrycode_title">קידומת מדינה</string>
+    <string name="preference_check_privacy">צפייה במדיניות הפרטיות</string>
     <string name="preference_dial_pad_touch_tone_default">ברירת מחדל</string>
     <string name="preference_dial_pad_touch_tone_off">כבוי</string>
     <string name="preference_dial_pad_touch_tone_piano">קלידי פסנתר</string>
     <string name="preference_dial_pad_touch_tone_title">צלילי לוח המקשים</string>
+    <string name="preference_permission_related">הרשאות</string>
     <string name="preference_telocation_summary_countrycode_off">אל תוסיף קידומת מדינה באופן אוטומטי</string>
     <string name="preference_telocation_summary_countrycode_on">הוסף קידומת מדינה באופן אוטומטי</string>
     <string name="preference_telocation_summary_teloc_off">הסתר את מיקום איש הקשר</string>
@@ -671,6 +675,7 @@
     <string name="preferred_phone_account">חשבון חיוג מועדף</string>
     <string name="preferred_wificall_title">העדפות רשת</string>
     <string name="privacy_policy_title">מדיניות הפרטיות</string>
+    <string name="privacy_setting">פרטיות</string>
     <string name="prompt_to_turnoff_volte_when_failed">שירותי VoLTE אינם זמינים. כבה את VoLTE על מנת שתוכל לבצע שיחה.</string>
     <string name="prompt_to_turnoff_volte_when_supp_service">"השירות אינו זמין. כבה את VoLTE ב'הגדרות'."</string>
     <string name="prompt_when_turnon_volte_on_3g_prefered">בחר ב-LTE כסוג הרשת המועדף שלך לפני הפעלת VoLTE.</string>
@@ -681,6 +686,8 @@
     <string name="puk_lock_warning">"
 כרטיס ה-SIM שלך ינעל לאחר נסיון כושל נוסף."</string>
     <string name="quick_dial_setting_title">חיוג מהיר</string>
+    <string name="read_call_log">הקלטת שמע</string>
+    <string name="read_call_log_summary">להקלטת שיחות</string>
     <string name="reject_via_sms">תגובות מהירות</string>
     <string name="reject_via_sms_summary">הצג לחצנים עבור סיום שיחות ושליחת מסרונים</string>
     <string name="reject_via_sms_title">תגובות מהירות</string>
@@ -716,8 +723,39 @@
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
     <string name="search_antispam_setting">רשימת החסומים</string>
     <string name="search_app_name">"טלפון;הקלטת שיחות;הפנית שיחות;הפניה;שיחה ממתינה;רשימת החסומים;קידומת מדינה;קוד אזור;אזור חיוג;קידומות מדינה;קודי אזורים;הקלט שיחות;הקלט שיחה;לוח מקשים;שיחה;שיחות;טלפוניה;VoIP;VoLTE;שיחה שלא נענתה;שיחות שלא נענו;SIP;T9;טלפונית IP;'מספרי חיוג קבועים'"</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_sip_settings">@string/sip_settings</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
     <string name="select_dds_dialog_title">בחר בנתוני ברירת מחדל עבור SIM נתונים סלולריים</string>
     <string name="select_voice_call_sim">בחר כרטיס SIM</string>
     <string name="send">שליחה</string>
@@ -918,6 +956,8 @@
     <string name="volte_switch_title">השתמש ב VoLTE</string>
     <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">שירותי China Telecom VoLTE מסופקות באזורים בעלי כיסוי רשת VoLTE בלבד. שירותי ה-VoLTE מסופקים על ידי ספק הרשת.</string>
+    <string name="vonr_switch_summary">השתמש ב-VoNR כדי לשפר שיחות קוליות</string>
+    <string name="vonr_switch_title">השתמש ב-VoNR</string>
     <string name="vowifi_emergency_notification_content">שיחות חירום באזורים עם כיסוי סלולרי בלבד</string>
     <string name="vowifi_emergency_notification_title">שיחות רשת אלחוטית Vodafone</string>
     <string name="vowifi_emergency_warning_check">אל תציג שוב.</string>

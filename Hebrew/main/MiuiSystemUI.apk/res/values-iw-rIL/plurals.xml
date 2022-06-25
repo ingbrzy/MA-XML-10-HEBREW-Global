@@ -85,40 +85,40 @@
         <item quantity="many">בעוד %d דקות</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">קוד PIN שגוי, %d נסיונות נותרו</item>
-        <item quantity="one">קוד PIN שגוי, נסיון %d נותר</item>
-        <item quantity="two">קוד PIN שגוי, %d נסיונות נותרו</item>
-        <item quantity="many">קוד PIN שגוי, %d נסיונות נותרו</item>
+        <item quantity="other">קוד PIN שגוי, נותרו %d ניסיונות</item>
+        <item quantity="one">קוד PIN שגוי, נותר ניסיון %d</item>
+        <item quantity="two">קוד PIN שגוי, נותרו %d ניסיונות</item>
+        <item quantity="many">קוד PIN שגוי, נותרו %d ניסיונות</item>
     </plurals>
     <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">קוד PUK שגוי, %d נסיונות נותרו</item>
-        <item quantity="one">קוד PUK שגוי, נסיון %d נותר</item>
-        <item quantity="two">קוד PUK שגוי, %d נסיונות נותרו</item>
-        <item quantity="many">קוד PUK שגוי, %d נסיונות נותרו</item>
+        <item quantity="other">קוד PUK שגוי, נותרו %d ניסיונות</item>
+        <item quantity="one">קוד PUK שגוי, נותר ניסיון %d</item>
+        <item quantity="two">קוד PUK שגוי, נותרו %d ניסיונות</item>
+        <item quantity="many">קוד PUK שגוי, נותרו %d ניסיונות</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">הכנס את ססמתך לפחות פעם בכל %d שעות ותמיד זכור אותה</item>
-        <item quantity="one">הכנס את ססמתך לפחות פעם בכל %d שעה ותמיד זכור אותה</item>
-        <item quantity="two">הכנס את ססמתך לפחות פעם בכל %d שעות ותמיד זכור אותה</item>
-        <item quantity="many">הכנס את ססמתך לפחות פעם בכל %d שעות ותמיד זכור אותה</item>
+        <item quantity="other">עליך להזין את הסיסמה שלך לפחות פעם ב-%d שעות כדי לזכור אותה</item>
+        <item quantity="one">עליך להזין את הסיסמה שלך לפחות פעם בשעה %d כדי לזכור אותה</item>
+        <item quantity="two">עליך להזין את הסיסמה שלך לפחות פעם ב-%d שעות כדי לזכור אותה</item>
+        <item quantity="many">עליך להזין את הסיסמה שלך לפחות פעם ב-%d שעות כדי לזכור אותה</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">הכנס את ססמתך לפחות פעם בכל %d שעה ותמיד זכור אותה</item>
-        <item quantity="one">הכנס את ססמתך לפחות פעם בכל %d שעה ותמיד זכור אותה</item>
-        <item quantity="two">הכנס את ססמתך לפחות פעם בכל %d שעה ותמיד זכור אותה</item>
-        <item quantity="many">הכנס את ססמתך לפחות פעם בכל %d שעה ותמיד זכור אותה</item>
+        <item quantity="other">עליך להזין את הסיסמה שלך לפחות פעם ב-%d שעות כדי לזכור אותה</item>
+        <item quantity="one">עליך להזין את הסיסמה שלך לפחות פעם בשעה %d כדי לזכור אותה</item>
+        <item quantity="two">עליך להזין את הסיסמה שלך לפחות פעם ב-%d שעות כדי לזכור אותה</item>
+        <item quantity="many">עליך להזין את הסיסמה שלך לפחות פעם ב-%d שעות כדי לזכור אותה</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">"כ-%d  שעות נותרו"</item>
-        <item quantity="one">"נותרה כשעה %d "</item>
-        <item quantity="two">"כ-%d  שעות נותרו"</item>
-        <item quantity="many">"כ-%d  שעות נותרו"</item>
+        <item quantity="other">נותרו בערך %d שעות</item>
+        <item quantity="one">נותרה בערך שעה %d</item>
+        <item quantity="two">נותרו בערך %d שעות</item>
+        <item quantity="many">נותרו בערך %d שעות</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">"כ-%d  דקות נותרו"</item>
-        <item quantity="one">"נותרה כדקה %d "</item>
-        <item quantity="two">"כ-%d  דקות נותרו"</item>
-        <item quantity="many">"כ-%d  דקות נותרו"</item>
+        <item quantity="other">"נותרו בערך %d  דקות"</item>
+        <item quantity="one">נותרה בערך דקה %d</item>
+        <item quantity="two">"נותרו בערך %d  דקות"</item>
+        <item quantity="many">"נותרו בערך %d  דקות"</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_time_text">
         <item quantity="other">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
@@ -127,16 +127,16 @@
         <item quantity="many">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">"%d  שעות"</item>
-        <item quantity="one">"שעה %d "</item>
-        <item quantity="two">"%d  שעות"</item>
-        <item quantity="many">"%d  שעות"</item>
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה %d</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">"%d  דקות"</item>
-        <item quantity="one">"דקה %d "</item>
-        <item quantity="two">"%d  דקות"</item>
-        <item quantity="many">"%d  דקות"</item>
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">
         <item quantity="other">"%1$d  שעות ו-%2$d  דקות"</item>
@@ -145,16 +145,16 @@
         <item quantity="many">"%1$d  שעות ו-%2$d  דקות"</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">"%d  שעות"</item>
-        <item quantity="one">"%d  שעות"</item>
-        <item quantity="two">"%d  שעות"</item>
-        <item quantity="many">"%d  שעות"</item>
+        <item quantity="other">נותרו %d שעות</item>
+        <item quantity="one">נותרה שעה %d</item>
+        <item quantity="two">נותרו %d שעות</item>
+        <item quantity="many">נותרו %d שעות</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">"%d  דקות"</item>
-        <item quantity="one">"דקה %d "</item>
-        <item quantity="two">"%d  דקות"</item>
-        <item quantity="many">"%d  דקות"</item>
+        <item quantity="other">נותרו %d דקות</item>
+        <item quantity="one">נותרה דקה %d</item>
+        <item quantity="two">נותרו %d דקות</item>
+        <item quantity="many">נותרו %d דקות</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_time_text">
         <item quantity="other">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
@@ -187,21 +187,15 @@
         <item quantity="many">לפני %d דקות</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
-        <item quantity="other">נסה שוב בעוד %d דקות</item>
-        <item quantity="one">נסה שוב בעוד דקה %d</item>
-        <item quantity="two">נסה שוב בעוד %d דקות</item>
-        <item quantity="many">נסה שוב בעוד %d דקות</item>
+        <item quantity="other">נא לנסות שוב בעוד %d דקות</item>
+        <item quantity="one">נא לנסות שוב בעוד דקה %d</item>
+        <item quantity="two">נא לנסות שוב בעוד %d דקות</item>
+        <item quantity="many">נא לנסות שוב בעוד %d דקות</item>
     </plurals>
     <plurals name="phone_locked_timeout_seconds_string">
-        <item quantity="other">נסה שוב בעוד %d שניות</item>
-        <item quantity="one">נסה שוב בעוד שניה %d</item>
-        <item quantity="two">נסה שוב בעוד %d שניות</item>
-        <item quantity="many">נסה שוב בעוד %d שניות</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">מחוברים %1$d מכשירים</item>
-        <item quantity="one">מחובר מכשיר %1$d</item>
-        <item quantity="two">מחוברים %1$d מכשירים</item>
-        <item quantity="many">מחוברים %1$d מכשירים</item>
+        <item quantity="other">נא לנסות שוב בעוד %d שניות</item>
+        <item quantity="one">נא לנסות שוב בעוד שנייה %d</item>
+        <item quantity="two">נא לנסות שוב בעוד %d שניות</item>
+        <item quantity="many">נא לנסות שוב בעוד %d שניות</item>
     </plurals>
 </resources>

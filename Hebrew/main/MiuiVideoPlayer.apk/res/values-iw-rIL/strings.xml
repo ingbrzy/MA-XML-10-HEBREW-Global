@@ -83,13 +83,13 @@
     <string name="auto_play_next_on">ניגון אוטומטי מופעל</string>
     <string name="back_to_mainpage">גלה</string>
     <string name="background_playback_enabled">נגינה ברקע מופעלת</string>
-    <string name="before_yestoday">לפני יומיים</string>
     <string name="before_yestoday_new">לפני %d ימים</string>
     <string name="bind_sign_in_title">הוספת חשבון Mi</string>
     <string name="box_title_gallery">ארגז כלי וידאו</string>
     <string name="box_title_mivideo">מאפיינים נוספים</string>
     <string name="btn_clear_history">נקה היסטוריה</string>
     <string name="btn_empty_go_to_download">הורדה</string>
+    <string name="btn_playlist_play_all">ניגון</string>
     <string name="cancel">ביטול</string>
     <string name="cancel_choose">נקה בחירה</string>
     <string name="cancel_subscribe_tips">להפסיק לעקוב עכשיו?</string>
@@ -109,7 +109,6 @@
     <string name="cloud_auto_pip_play_switch">השתמש אוטומטית בתמונה בתוך תמונה</string>
     <string name="cloud_online_player">נַגָן</string>
     <string name="cloud_online_switch">המלצות מותאמות אישית</string>
-    <string name="cloud_online_switch_close_time">תוכל להפעיל המלצות תוכן מותאמות אישית ב-%s</string>
     <string name="cloud_online_switch_open_time">הצג המלצות תוכן מותאמות אישית</string>
     <string name="collect_diagnosis_log">אוסף יומנים</string>
     <string name="columbus_ad_flag_text">פרסומת</string>
@@ -211,6 +210,8 @@ ID:%s
     <string name="dialog_set_default_later">לא, תודה</string>
     <string name="dialog_set_default_set">הגדר</string>
     <string name="dialog_set_default_text">להגדיר את וידאו Mi כנגן וידאו ברירת מחדל?</string>
+    <string name="dialog_title_delete_folder">מחיקת קובץ זה תביא למחיקה של כל הקבצים שהוא מכיל לצמיתות. למחוק את הקובץ כעת?</string>
+    <string name="dialog_title_hidden_folder">לאחר הסתרת קובץ זה הקבצים שהוא מכיל לא יופיעו ברשימת הסרטונים שלך. להסתיר את הקובץ עכשיו?</string>
     <string name="dialog_video_change">שנה</string>
     <string name="dialog_video_download_tip">נוסף לתור ההורדות</string>
     <string name="dialog_video_download_view">הצג</string>
@@ -371,7 +372,7 @@ ID:%s
     <string name="galleryplus_double_tap_to_higher_definition">לחץ פעמיים שוב כדי לפתוח תצוגה מקדימה ב-HD</string>
     <string name="galleryplus_fr_unsupport_restore_speed">קצב המסגרת אינו נתמך. מהירות רגילה שוחזרה.</string>
     <string name="galleryplus_gallery_fold_tags">הסתר סימנים</string>
-    <string name="galleryplus_gallery_video_adjust_hint">נתמכים רק סרטונים באיכות 960fps</string>
+    <string name="galleryplus_gallery_video_adjust_hint">נתמכים רק סרטונים של %dfps</string>
     <string name="galleryplus_gallery_video_adjust_text">התאמה</string>
     <string name="galleryplus_gallery_video_default_music_text">אוטומטי</string>
     <string name="galleryplus_gallery_video_item3_default_text">רגשות</string>
@@ -382,7 +383,7 @@ ID:%s
     <string name="galleryplus_gallery_video_music_format_error">לא ניתן להוסיף פסקול לסרטון שנבחר</string>
     <string name="galleryplus_gallery_video_music_text">פסקול</string>
     <string name="galleryplus_gallery_video_no_music_text">ללא</string>
-    <string name="galleryplus_gallery_video_operate_text">התאמות בהילוך איטי</string>
+    <string name="galleryplus_gallery_video_operate_text">התאמות להילוך איטי</string>
     <string name="galleryplus_gallery_video_save_video">יוצר סרטון…</string>
     <string name="galleryplus_gallery_video_slow_edit">הילוך איטי</string>
     <string name="galleryplus_gallery_view_tags">הצג סימנים</string>
@@ -480,7 +481,6 @@ ID:%s
     <string name="got_it">הבנתי</string>
     <string name="goto_sign_up">צור חשבון</string>
     <string name="have_learned">הבנתי</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hidden_channels">הערוצים הבאים לא יוצגו בדף הבית.</string>
     <string name="hide">הסתר</string>
     <string name="hint_icon_ad_title">מומלצים</string>
@@ -494,7 +494,6 @@ ID:%s
     <string name="init_channels">שחזר את הגדרות ברירת המחדל</string>
     <string name="input_email_address_notice">אנו נשתמש בכתובת דוא\"ל זו על מנת לאמת את חשבונך</string>
     <string name="input_new_pwd">הזן סיסמה חדשה</string>
-    <string name="input_size_tips">ניתן להזין עד 1000 תווים</string>
     <string name="input_size_tips_new">ניתן להזין עד %d תווים</string>
     <string name="isornot_your_mi_account">האם זה חשבון Mi שלך?</string>
     <string name="issue">בעיה</string>
@@ -507,6 +506,7 @@ ID:%s
     <string name="item_download_path">מיקום הורדה</string>
     <string name="item_download_path_setting">הגדרות מיקום הורדה</string>
     <string name="item_setting_go_back">ביטול הסכמה</string>
+    <string name="item_title_unknown">כותרת לא ידועה</string>
     <string name="just_a_second">רק רגע…</string>
     <string name="language_later_setting_tips">ניתן לשנות את הגדרות השפה תחת פרופיל > שפה.</string>
     <string name="language_select_tips">"בחר שפה מועדפת
@@ -521,10 +521,14 @@ ID:%s
     <string name="local_diversion_close_recommend">סגור</string>
     <string name="local_diversion_download_more_video">סרטונים נוספים</string>
     <string name="local_diversion_manage_local_video">ניהול קבצים</string>
-    <string name="local_diversion_open_mivideo">"צפה בווידאו Mi
-לחוויית הצפייה הטובה ביותר"</string>
+    <string name="local_diversion_open_mivideo">*מעבר ל-Mi וידאו, נגן וידאו רב-תכליתי ורב-עוצמה</string>
     <string name="local_diversion_recommend_title">פופולרי</string>
     <string name="local_empty_guide">הסרטונים שצילמת יופיעו כאן</string>
+    <string name="local_folder_select_count">%s נבחר/ו</string>
+    <string name="local_hide_folder_dialog_content">סרטונים מוסתרים לא יוצגו בפלייליסטים שלך</string>
+    <string name="local_hide_folder_dialog_title">סרטונים מוסתרים</string>
+    <string name="local_hide_folder_setting_goto">הגדרות</string>
+    <string name="local_hide_folder_setting_tip">תוכל לנהל את הסרטונים המוסתרים שלך בפרופיל > הגדרות > נהל סרטונים מוסתרים.</string>
     <string name="local_play_tip">מנגן סרטון מקומי</string>
     <string name="local_push_setting_power_tag">התראות על סרטונים מקומיים</string>
     <string name="local_push_title">פופולרי היום</string>
@@ -591,7 +595,6 @@ ID:%s
     <string name="lv_brightness">בהירות</string>
     <string name="lv_cast">שידור</string>
     <string name="lv_check_delete_file">בחר פריטים למחיקה</string>
-    <string name="lv_check_send_file">ניתן לשלוח רק קובץ אחד בכל פעם</string>
     <string name="lv_check_send_file_new">ניתן לשלוח רק קובץ אחד (%d) בכל פעם</string>
     <string name="lv_confirm_delete_history">האם למחוק את הפריטים שנבחרו?</string>
     <string name="lv_confirm_delete_videos">למחוק את הפריטים?</string>
@@ -654,14 +657,10 @@ ID:%s
     <string name="lv_subtitle_manual_add_sub">הכתוביות נוספו בהצלחה</string>
     <string name="lv_subtitle_no_subtitle">הכתוביות אינן זמינות</string>
     <string name="lv_subtitle_non_subtitle_file">אין קבצי כתוביות זמינים</string>
-    <string name="lv_subtitle_offset_add_1s">"1+ ש'"</string>
     <string name="lv_subtitle_offset_add_1s_new">"+%d שנ'"</string>
-    <string name="lv_subtitle_offset_add_dot5s">"0.5+ ש'"</string>
     <string name="lv_subtitle_offset_add_dot5s_new">"+%f שנ'"</string>
     <string name="lv_subtitle_offset_normal">אל תזיז כתוביות</string>
-    <string name="lv_subtitle_offset_sub_1s">"1- ש'"</string>
     <string name="lv_subtitle_offset_sub_1s_new">"-%d שנ'"</string>
-    <string name="lv_subtitle_offset_sub_dot5s">"0.5- ש'"</string>
     <string name="lv_subtitle_offset_sub_dot5s_new">"-%f שנ'"</string>
     <string name="lv_subtitle_onlinesub_language">שפה: %s</string>
     <string name="lv_subtitle_onlinesub_loading">טוען כתוביות…</string>
@@ -675,7 +674,6 @@ ID:%s
     <string name="lv_subtitle_onlinesub_size_string_b">גודל: %sB</string>
     <string name="lv_subtitle_onlinesub_title">כתוביות מקוונות</string>
     <string name="lv_subtitle_open_subtitle_file_title">איתור קובץ כתוביות</string>
-    <string name="lv_subtitle_preoffset_max">"לא ניתן להזיז מעל 5 ש'"</string>
     <string name="lv_subtitle_preoffset_max_new">"לא ניתן להעביר קדימה יותר מ-%d שנ'"</string>
     <string name="lv_subtitle_subonline_non_network">לא ניתן היה להתחבר לרשת. התחבר ונסה שוב.</string>
     <string name="lv_subtitle_synchronization_title">סנכרון</string>
@@ -777,6 +775,8 @@ ID:%s
     <string name="month_september_shortest">"ספט'"</string>
     <string name="more">עוד</string>
     <string name="morning">בוקר</string>
+    <string name="music_new_user_dialog_got_it">הבנתי</string>
+    <string name="music_new_user_dialog_tip">ברוכים הבאים ל-Mi וידאו! יישום זה מספק נגן וידאו מקומי ושירותי הזרמת מוזיקה ווידאו מקוונים.</string>
     <string name="my_favorite_channels">הערוצים המועדפים עליי</string>
     <string name="my_feedback_title">המשוב שלי</string>
     <string name="need_update_app">עדכן את וידאו Mi על מנת שתוכל להשתמש בכל תכונותיו</string>
@@ -886,13 +886,14 @@ ID:%s
     <string name="ovp_navigation_language">שפה</string>
     <string name="ovp_navigation_localvideo">מקומי</string>
     <string name="ovp_navigation_notice">התראות</string>
+    <string name="ovp_navigation_playlist">רשימות השמעה</string>
     <string name="ovp_navigation_score">נא לדרג את היישום שלנו</string>
     <string name="ovp_navigation_setting">הגדרות</string>
     <string name="ovp_navigation_subscribe">מינוי</string>
     <string name="ovp_navigation_version_update">בדוק אם קיימים עדכונים</string>
     <string name="ovp_player_cached_error_btn">סרטונים אונליין</string>
     <string name="ovp_player_cached_error_hint_info">לא ניתן לנגן סרטונים מקומיים כרגע</string>
-    <string name="ovp_player_plugin_dlg_neg_btn">סגירה</string>
+    <string name="ovp_player_plugin_dlg_neg_btn">סגור</string>
     <string name="ovp_player_plugin_dlg_no_content">אין תוספים עבור נגן וידאו.</string>
     <string name="ovp_player_plugin_dlg_title">תוספות עבור נגן וידאו</string>
     <string name="ovp_player_update_dialog_info">עדכן את הרחבת Mi Video לגרסה האחרונה על מנת לנגן וידאו זה. האם לעדכן כעת?</string>
@@ -1032,6 +1033,18 @@ ID:%s
     <string name="phone_number">מספר טלפון</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות.</string>
     <string name="pip">תמונה בתוך תמונה</string>
+    <string name="play_list_delete_title">למחוק את הפלייליסט הזה עכשיו?</string>
+    <string name="play_list_detial_add">הוסף סרטונים</string>
+    <string name="play_list_detial_delete">מחק</string>
+    <string name="play_list_detial_play">נגן</string>
+    <string name="play_list_detial_rename">שנה שם</string>
+    <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
+    <string name="play_list_save_dialog_create">צור פלייליסט</string>
+    <string name="play_list_save_dialog_title">הוסף לפלייליסט</string>
+    <string name="play_list_sign_in_dialog_message">היכנס עם חשבון Google שלך ​​כדי להציג את כל הפלייליסטים שלך.</string>
+    <string name="play_list_skeleton_file">mnc_live_tv_list_skeleton.json</string>
+    <string name="play_list_user_local">מקומי</string>
+    <string name="play_list_user_online">מקוון</string>
     <string name="playlist_create">צור</string>
     <string name="playlist_detail_recomm_title">פלייליסטים מומלצים</string>
     <string name="playlist_finish">בוצע</string>
@@ -1055,7 +1068,7 @@ ID:%s
     <string name="plus_gallery_mediatype_aimusic">פסקולים</string>
     <string name="plus_gallery_mediatype_changtu">תמונות ארוכות</string>
     <string name="plus_gallery_mediatype_fangtu">תמונות מרובעות</string>
-    <string name="plus_gallery_mediatype_fastslowvideo">מרווח זמן והילוך איטי</string>
+    <string name="plus_gallery_mediatype_fastslowvideo">צילום דולג זמן והילוך איטי</string>
     <string name="plus_gallery_mediatype_gif">קבצי GIF</string>
     <string name="plus_gallery_mediatype_hidded">פריטים מוסתרים</string>
     <string name="plus_gallery_mediatype_longvideo">סרטונים ארוכים</string>
@@ -1076,7 +1089,6 @@ ID:%s
     <string name="plus_mine_gallery">האלבומים שלי</string>
     <string name="plus_mine_videos">הסרטונים שלי</string>
     <string name="plus_player_8k_video_not_support">לא ניתן להפעיל סרטון באיכות 8K במכשיר זה</string>
-    <string name="plus_player_8k_video_not_support_new">לא ניתן לנגן סרטוני %dK במכשיר זה.</string>
     <string name="plus_player_audio_track">רצועת שמע</string>
     <string name="plus_player_detail_file_location">"מיקום:  "</string>
     <string name="plus_player_detail_file_name">"שם קובץ: "</string>
@@ -1203,7 +1215,6 @@ ID:%s
     <string name="read_and_agree">מסכים</string>
     <string name="recommend_channels">ערוצים מומלצים</string>
     <string name="recommend_online_switch">המלצות באינטרנט</string>
-    <string name="recommend_online_switch_open_time">מאפיין זה יופעל באופן אוטומטי ב %s</string>
     <string name="recommend_online_tips">הפעל כדי לקבל המלצות על סרטונים באינטרנט</string>
     <string name="recommend_page_replay">נגן שוב</string>
     <string name="recommend_switch_alert">כדי להסיר את החלק הזה, יש ללכת להגדרות של Mi Video</string>
@@ -1265,6 +1276,7 @@ ID:%s
     <string name="sending">שולח…</string>
     <string name="service_error">שגיאת שרת</string>
     <string name="set_success">שונה בהצלחה</string>
+    <string name="settings_manager_hidden_folder">נהל סרטונים נסתרים</string>
     <string name="share">שתף</string>
     <string name="share_fail">לא ניתן לשתף. בדוק את הגדרות הרשת ונסה שוב.</string>
     <string name="share_success">שותף בהצלחה</string>
@@ -1279,6 +1291,10 @@ ID:%s
     <string name="sign_in_title">היכנס באמצעות חשבון Mi</string>
     <string name="slid_fail_message">לא ניתן היה לשמור</string>
     <string name="slide_save_message">יוצר וידאו…</string>
+    <string name="small_video_cancel_button">ביטול</string>
+    <string name="small_video_download_button">הורדה</string>
+    <string name="small_video_snack_download_description">יש להוריד את SnackVideo כדי לצפות בסרטונים האחרונים מהיוצרים האהובים עליך.</string>
+    <string name="small_video_snack_download_title">SnackVideo</string>
     <string name="sms_send_success">נשלח בהצלחה</string>
     <string name="sns_access_token_expired_warning">פג תוקף התהליך. היכנס שוב כדי לחבר חשבון זה מחדש.</string>
     <string name="sns_bind_limit">יותר מדי ניסיונות. נסה דרכים אחרות להיכנס.</string>
@@ -1312,7 +1328,6 @@ ID:%s
     <string name="sure_to_logout">האם לצאת מהחשבון כעת?</string>
     <string name="switch_ratio_pause">מהירות ההשמעה אינה יציבה. יש לחזור למהירות ברירת המחדל.</string>
     <string name="symbol_rmb">¥</string>
-    <string name="sync_favorites_limit">ישנם יותר מ-500 סרטונים במועדפים שלך. נצטרך למחוק סרטונים מוקדמים יותר כדי להמשיך בסנכרון.</string>
     <string name="sync_favorites_limit_new">במועדפים שלך שמורים למעלה מ-%d סרטונים. נצטרך למחוק כמה מהסרטונים הקודמים כדי שנוכל להמשיך לסנכרן.</string>
     <string name="sync_favorites_message">האם ברצונך לסנכרן את המועדפים מהמכשיר הזה לחשבונך? פריטים שאינם זמינים עוד יוסרו.</string>
     <string name="sync_favorites_title">סנכרון מועדפים</string>
@@ -1325,7 +1340,6 @@ ID:%s
     <string name="t_lv_check_unhide_file">בחר סרטונים שברצונך לבטל את הסתרתם</string>
     <string name="t_lv_downloading_new_version">מוריד עדכונים…</string>
     <string name="t_lv_no_new_version">וידאו Mi מעודכן.</string>
-    <string name="t_lv_password_limit">על הסיסמה להכיל 4 תווים לפחות</string>
     <string name="t_lv_password_limit_new">יש להגדיר סיסמה באורך של %d תווים לפחות</string>
     <string name="t_lv_password_null">שדה הסיסמה לא יכול להיות ריק</string>
     <string name="t_lv_password_wrong">הסיסמה שגויה. נסה שוב.</string>
@@ -1333,7 +1347,6 @@ ID:%s
     <string name="t_lv_subtitle_padding_default_hint">מתאים כתוביות…</string>
     <string name="t_network_error">אירעה שגיאת רשת.</string>
     <string name="t_ovp_check_delete_favor">בחר בפריטים להסרה</string>
-    <string name="t_password_limit">הססמה חייבת להכיל 4 תווים לפחות</string>
     <string name="t_password_limit_new">יש להגדיר סיסמה באורך של %d תווים לפחות</string>
     <string name="t_password_null">שדה הסיסמה לא יכול להיוותר ריק</string>
     <string name="t_password_wrong">הסיסמה שהזנת שגויה. נסה שנית.</string>
@@ -1342,8 +1355,11 @@ ID:%s
     <string name="tab_name_local">מקומי</string>
     <string name="tab_name_me">פרופיל</string>
     <string name="tab_name_moment">רגעים</string>
+    <string name="tab_name_movies">סרטים</string>
     <string name="tab_name_trending">פופולרי</string>
     <string name="tab_name_video">סרטונים</string>
+    <string name="tab_playlist_local">מקומי</string>
+    <string name="tab_playlist_online">מקוון</string>
     <string name="talkback_ad_clicked">פרסומת</string>
     <string name="talkback_background_playback">ניגון ברקע</string>
     <string name="talkback_voice_search">חיפוש קולי</string>
@@ -1406,6 +1422,7 @@ ID:%s
     <string name="tip_enter_the_website">%d. פתח אתר או יישום</string>
     <string name="tip_local_long_press_for_manager">לחץ והחזק כדי לנהל סרטונים</string>
     <string name="tip_local_manager_here">נהל את הקבצים שלך כאן</string>
+    <string name="tip_login_for_your_online_playlist">יש להתחבר כדי לצפות ברשימות ההשמעה שלך.</string>
     <string name="tip_play_a_video">%d. נגן סרטון</string>
     <string name="tip_pop">"&lt;com.miui.video.biz.livetv.data.mnc.information.Data>'תוכן מרגעים' מסופק על ידי Firework. על מנת לשפר את חוויית הצפייה שלך ולקבל המלצות תוכן מתאימות יותר, אפשר ל-Firework לאסוף, לעבד ולהשתמש במידע האישי שלך בהתאם למדיניות הפרטיות שלהם. קרא והסכם ל&lt;a href=\"%1$s\">מדיניות הפרטיות של Firework&lt;/a> לפני שתשתמש בשירות שלהם.&lt;/com.miui.video.biz.livetv.data.mnc.information.Data>"</string>
     <string name="tip_storage_used_space" formatted="false">%.2f GB מתוך %.2f GB בשימוש</string>
@@ -1428,8 +1445,11 @@ ID:%s
     <string name="toast_bookmark_success_to_add">הסימניה נוספה</string>
     <string name="toast_bookmark_success_to_delete">הסימניה נמחקה</string>
     <string name="toast_bookmark_url_error">הזן כתובת URL חוקית</string>
+    <string name="toast_fail_to_delete">לא ניתן היה למחוק. נא לנסות שוב.</string>
+    <string name="toast_fail_to_rename">לא ניתן היה לשנות את השם. נא לנסות שוב.</string>
     <string name="toast_m3u8_download_path_tip">לא ניתן לשנות את נתיב ההורדה עבור תוכן בתבנית M3U8</string>
     <string name="toast_no_data">פריט זה אינו זמין כעת. חזור מאוחר יותר.</string>
+    <string name="toast_play_error_tip">לא ניתן לנגן קובץ זה</string>
     <string name="toast_request_too_frequently">לא כל כך מהר!</string>
     <string name="toast_share_failed">לא ניתן לשתף. נא להמתין כמה דקות ולנסות שוב.</string>
     <string name="today">היום</string>
@@ -1438,7 +1458,6 @@ ID:%s
     <string name="tool_bar_notification_setting_title">סרגל הכלים בלוח ההתראות</string>
     <string name="top_bar_game_desc">גלה כאן המון משחקים חדשים</string>
     <string name="top_bar_game_title">ערוץ המשחקים</string>
-    <string name="trending_scroll_load_more">לסרטונים נוספים יש להעביר אצבע כלפי מעלה</string>
     <string name="tuesday">שלישי</string>
     <string name="tuesday_short">"ג'"</string>
     <string name="tuesday_shortest">"ג'"</string>

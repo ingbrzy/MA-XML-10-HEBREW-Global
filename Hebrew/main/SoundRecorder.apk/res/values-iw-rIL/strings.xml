@@ -167,6 +167,7 @@
     <string name="low_battery_error_for_pad">נותרה פחות מ-%s סוללה. עצור ושמור את ההקלטה שלך על מנת לודא שלא תאבד.</string>
     <string name="low_battery_error_title">סוללה חלשה</string>
     <string name="lyric_item_point_count">%1$d אל %2$d</string>
+    <string name="manage_external_storage">גישה לכל הקבצים</string>
     <string name="mark_point_list_title">סימנים</string>
     <string name="menu">תפריט</string>
     <string name="message_file_size_error">ההקלטה הגיעה לאורך המירבי הנתמך על ידי %s</string>
@@ -483,6 +484,7 @@
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
+    <string name="sync_desc_state_complete">סונכרנו עם הענן: %1$s</string>
     <string name="tab_all">הכל</string>
     <string name="tab_apps">אפליקציות</string>
     <string name="tab_call">שיחות</string>

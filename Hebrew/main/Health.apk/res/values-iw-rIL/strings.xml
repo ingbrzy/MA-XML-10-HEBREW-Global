@@ -196,6 +196,11 @@ You'll be able to track your workouts and activity."</string>
     <string name="dialog_sleep_goal_title">Sleep duration goal</string>
     <string name="dialog_sleep_record_auto_start">למעקב שינה מדויק יותר, אפשר הפעלה מחדש אוטומטית של Xiaomi Health.</string>
     <string name="dialog_sure">אישור</string>
+    <string name="dialog_upgrade_description">"1. עיצוב חדש.
+2. סנכרון נתונים בין מכשירים.
+3. צפייה בנתונים בריאותיים מיישום הבריאות, Xiaomi Wear ויישומים אחרים במקום אחד."</string>
+    <string name="dialog_upgrade_positive_btn">עדכון</string>
+    <string name="dialog_upgrade_title">Mi Fitness</string>
     <string name="dialog_user_agreement_purpose">ברוכים הבאים אל Xiaomi Health! אפשר להשתמש באפליקציה הזו כדי לספור צעדים, לנטר שינה, מחזורים ומשקל, גם לסנכרן את הנתונים לענן.</string>
     <string name="dialog_user_agreement_purpose2">ברוך הבא ל- Xiaomi Health! תוכל להשתמש באפליקציה זו כדי לספור את הצעדים שלך, לנתח שינה, לעקוב אחר מחזור חודשי, לתעד משקל ועוד.</string>
     <string name="disable">Off</string>

@@ -463,6 +463,7 @@
     <string name="mtrl_picker_a11y_next_month">מעבר לחודש הבא</string>
     <string name="mtrl_picker_a11y_prev_month">מעבר לחודש הקודם</string>
     <string name="mtrl_picker_announce_current_selection">הבחירה הנוכחית: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">יש לבחור תאריך</string>
     <string name="mtrl_picker_date_header_unselected">התאריך הנבחר</string>
@@ -571,6 +572,7 @@
     <string name="private_dns_mode_provider">‏שם מארח של ספק DNS פרטי</string>
     <string name="private_dns_mode_provider_failure">לא ניתן היה להתחבר</string>
     <string name="private_dns_mode_provider_hostname_hint">‏צריך להזין את שם המארח של ספק DNS</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">יש בעיה בחיבור. עליך לכבות את המכשיר ולהפעיל אותו מחדש</string>
     <string name="profile_info_settings_title">פרטי פרופיל</string>
     <string name="remaining_length_format">נשארו %1$s</string>

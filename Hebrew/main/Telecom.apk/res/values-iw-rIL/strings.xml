@@ -17,6 +17,7 @@
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="dial_conference_fail_prompt">לא ניתן לבצע שיחת ועידה באופן ישיר מפני שהרשת הנוכחית אינה תומכת ב-VoLTE.</string>
     <string name="dial_vt_fail_prompt">הרשת הנוכחית אינה תומכת ב-VoLTE. להחליף לשיחה קולית רגילה?</string>
+    <string name="do_not_show_again">אל תציג שוב</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="empty" />
     <string name="eras_ad">לספירה</string>
@@ -154,6 +155,11 @@
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
+    <string name="scam_cancle">ביטול</string>
+    <string name="scam_message">אתה מגדיר הפניית שיחות. בהמשך, כל השיחות הנכנסות שלך ייענו על ידי מספר הטלפון %1$s. אם מספר הפנייה זה אינו בבעלותך, ייתכן שאתה נמצא בסיכון לחשוף את המידע האישי שלך או לסכן את אבטחת הנכסים שלך. השתמש בתכונה זו בזהירות.</string>
+    <string name="scam_message_2">**21*מספר העברה# הוא קוד הפניית השיחות. צור קשר עם המפעיל הסלולרי שלך אם יש לך שאלות.</string>
+    <string name="scam_ok">חיוג</string>
+    <string name="scam_title">תזכורת לסיכון הונאה</string>
     <string name="send">שליחה</string>
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>

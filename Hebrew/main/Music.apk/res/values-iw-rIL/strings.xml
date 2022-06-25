@@ -13,41 +13,8 @@
     <string name="October">אוקטובר</string>
     <string name="September">ספטמבר</string>
     <string name="Updated_at">"עודכן: "</string>
-    <string name="access_denied_info">יותר מדיי ניסיונות כניסה. חכה דקה או שתיים ונסה שוב.</string>
     <string name="account_and_cloud">חשבון</string>
-    <string name="account_bind_secure_email_title">הוסף כתובת דוא\"ל לשחזור</string>
-    <string name="account_bind_secure_phone_title">הוסף מספר טלפון לשחזור</string>
-    <string name="account_crop_user_avatar">חתוך את התמונה</string>
-    <string name="account_empty_user_name">הזן את שם המשתמש של חשבון Mi שלך</string>
-    <string name="account_error_all_space_user_name">שם המשתמש אינו יכול להכיל סימני רווח בלבד</string>
-    <string name="account_error_invalid_user_name">השם אינו יכול להכיל &lt;, >, או /</string>
-    <string name="account_error_longer_user_name">השם אינו יכול להכיל יותר מ-20 תווים</string>
-    <string name="account_error_shorter_user_name">השם חייב להכיל יותר מ-2 תווים</string>
-    <string name="account_error_user_birthday">תאריך יום ההולדת שהזנת אינו בתבנית חוקית</string>
-    <string name="account_error_user_name">כינוי זה אינו חוקי. נסה כינוי אחר.</string>
-    <string name="account_invalid_user_avatar">תמונה זו אינה חוקית. נסה תמונה אחרת.</string>
-    <string name="account_limit_update_birthday">לא ניתן לעדכן כרגע את תאריך יום ההולדת</string>
     <string name="account_logout">יציאה</string>
-    <string name="account_no_set">ללא</string>
-    <string name="account_none_bind_info">ללא</string>
-    <string name="account_none_user_name">ללא</string>
-    <string name="account_secure_info_pref_title">פרטי החשבון</string>
-    <string name="account_security_info_pref_title">פרטי אבטחה</string>
-    <string name="account_user_avatar">תמונת פרופיל</string>
-    <string name="account_user_avatar_from_album">גלריה</string>
-    <string name="account_user_avatar_from_camera">מצלמה</string>
-    <string name="account_user_base_info">מידע בסיסי</string>
-    <string name="account_user_birthday">יום הולדת</string>
-    <string name="account_user_details">פרטים אישיים</string>
-    <string name="account_user_email">דוא\"ל לשחזור</string>
-    <string name="account_user_gender">מין</string>
-    <string name="account_user_id">מזהה חשבון Mi</string>
-    <string name="account_user_name">כינוי</string>
-    <string name="account_user_name_dialog_title">הזן שם משתמש</string>
-    <string name="account_user_other_info">פרטים</string>
-    <string name="account_user_phone">טלפון לשחזור</string>
-    <string name="account_user_region">אזור</string>
-    <string name="action_add_phone">הוסף מספר טלפון</string>
     <string name="action_item_add">הוספה אל</string>
     <string name="action_item_add_song">הוסף לרשימת ההשמעה</string>
     <string name="action_item_add_to_current_playlist">העברה לתור</string>
@@ -65,10 +32,7 @@
     <string name="action_item_remove_from_favorite">בטל ההעדפה</string>
     <string name="action_item_share">שיתוף</string>
     <string name="action_settings">הגדרות</string>
-    <string name="action_update_phone">שינוי מספר טלפון</string>
     <string name="actionbar_button_up_description">הקודם</string>
-    <string name="activate_email_notice">הקפד להפעיל את החשבון תוך 24 שעות</string>
-    <string name="activity_not_found_notice">לא ניתן למצוא את היישום</string>
     <string name="ad_close">סגור</string>
     <string name="ad_data_exception">שגיאת נתוני פרסומת</string>
     <string name="ad_recommend">הצג פרסומות</string>
@@ -78,7 +42,6 @@
     <string name="add_to_last_of_playlist">הוסף לסוף רשימת ההשמעה</string>
     <string name="add_to_playlist">הוסף לתור</string>
     <string name="add_to_playlist_successful">נוסף בהצלחה</string>
-    <string name="add_to_trust_device">מכשיר זה הוגדר כאמין</string>
     <string name="added_next_play">נוסף לתור ההשמעות</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="agreement_desc">חשבון משתמש (חובה)</string>
@@ -130,7 +93,6 @@
     <string name="audio_ad_countdown">"דלג על הפרסומת בעוד %sש'"</string>
     <string name="audio_ad_pass">דלג על הפרסומת</string>
     <string name="audio_picker_title">בחר שיר</string>
-    <string name="auth_fail_warning">פג תוקף התהליך. היכנס שוב.</string>
     <string name="auto_recommend">אוטומטי (מומלץ)</string>
     <string name="auto_sound_quality">אוטומטי</string>
     <string name="auto_update">עדכן אוטומטית</string>
@@ -143,7 +105,6 @@
     <string name="back">חזרה</string>
     <string name="back_confirm">לחץ שוב על מנת לדחוף את היישום לרקע</string>
     <string name="best_experience">החוויה הכי טובה</string>
-    <string name="bind_sign_in_title">הוספת חשבון Mi</string>
     <string name="bluetooth_device">התקן שמע Bluetooth</string>
     <string name="btn_text_edit">עריכה</string>
     <string name="btn_text_view_all">הצג הכל</string>
@@ -158,34 +119,25 @@
     <string name="cancel">ביטול</string>
     <string name="cancel_running_download">ביטול</string>
     <string name="cannot_download_to_sdcard_hint">לא ניתן להוריד פריטים לכרטיס SD בגלל הגבלות של זכויות יוצרים. במקום זאת, הפריטים יאוחסנו באחסון הפנימי.</string>
-    <string name="change_activate_email">שינוי כתובת דוא\"ל</string>
     <string name="change_download_quality">שינוי איכות ההורדה</string>
-    <string name="change_password">שנה סיסמה</string>
     <string name="checking_new_version">בודק זמינות עדכונים…</string>
     <string name="choose_download_quality">בחירת איכות הורדה</string>
     <string name="choose_music_lang_pref">שפה מועדפת עבור שירים</string>
     <string name="choose_stream_quality">בחר איכות הזרמה</string>
-    <string name="choose_to_signin">כן</string>
-    <string name="choose_to_signup">לא, אצור חשבון משלי</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="click_and_watch_video_tip">לחץ על מנת לנגן את הקליפ לשיר</string>
     <string name="click_to_add_album_cover_and_lyric">הקש כדי להוסיף עטיפת אלבום ומילים</string>
     <string name="click_to_shuffle">לחץ לעירבוב</string>
     <string name="close">סגירה</string>
-    <string name="close_country_code_content_description">מחיקת קידומת המדינה</string>
     <string name="close_music_time">"זמן שנותר: "</string>
-    <string name="collect_diagnosis_log">אוסף יומנים</string>
     <string name="columbus_ad_flag_text">פרסומת</string>
     <string name="columbus_skip_ad">דלג</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="confirm">אישור</string>
-    <string name="confirm_activate_email">אומת</string>
-    <string name="confirm_bundled_phone_dialog_title">אשר את מספר הטלפון המקושר</string>
     <string name="confirm_exit">לשמור את השינויים?</string>
-    <string name="confirm_new_pwd">אשר את הסיסמה החדשה</string>
-    <string name="confirm_unbundled_phone_dialog_message">מספר הטלפון קושר לחשבון Mi %2$s ב-%1$s. אם תמשיך, הוא כבר לא יהיה מקושר לחשבון Mi %3$s. להמשיך?</string>
     <string name="connect_now">התחבר</string>
     <string name="connecting_apk">מתחבר…</string>
+    <string name="content_failed_to_load">לא ניתן היה לטעון תוכן</string>
     <string name="create_playlist">צור רשימת השמעה</string>
     <string name="create_playlist_failure">לא ניתן היה ליצור רשימת השמעה</string>
     <string name="create_playlist_input_hint">הזן שם לרשימת השמעה</string>
@@ -222,10 +174,6 @@
     <string name="desktop_lyric_textsize">טקסט</string>
     <string name="device_connected">מחובר</string>
     <string name="device_not_connected">לא מחובר</string>
-    <string name="diagnosis_log_send_failed">לא ניתן היה לשלוח את היומנים. נסה שוב.</string>
-    <string name="diagnosis_log_sent_format">"היומנים נשלחו בהצלחה.
-ID:%s
-שלח קוד זה לאחראי."</string>
     <string name="dialog_cannot_resume">ההורדה הופרעה. לא ניתן להמשיכה.</string>
     <string name="dialog_clear_history">לנקות את רשימת השירים שהושמעו לאחרונה?</string>
     <string name="dialog_confirm_delete_checkbox_message">מחק גם קבצים מקומיים</string>
@@ -277,9 +225,6 @@ ID:%s
     <string name="discover_more_music">גלה שירים נוספים</string>
     <string name="do_not_remind_this_version">אל תזכיר לי עבור גרסה זו</string>
     <string name="do_not_support_google_voice_search">החיפוש הקולי של Google אינו נתמך במכשירך.</string>
-    <string name="doing_login">מתחבר…</string>
-    <string name="doing_query_account">בודק את פרטי החשבון…</string>
-    <string name="doing_register">יוצר חשבון…</string>
     <string name="download">הורדה</string>
     <string name="download_added_to_list">נוסף לרשימת ההורדות</string>
     <string name="download_apk_desktop_installing">מתקין</string>
@@ -316,7 +261,9 @@ ID:%s
     <string name="download_method">הורדה</string>
     <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
     <string name="download_paused_in_power_save_mode">"ההורדות מופסקות בעת שימוש במצב 'חסכון בסוללה'"</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">מוריד…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">איכות הורדה</string>
     <string name="download_quality_summary">הגדרות נוספות עבור הורדות שירים</string>
     <string name="download_queued">בתור</string>
@@ -361,7 +308,9 @@ ID:%s
     <string name="empty_page_no_artist">אין אמנים.</string>
     <string name="enabled">מאופשר</string>
     <string name="enjoy_hungama_pro">תיהנה מ-Hungama PRO</string>
+    <string name="enroll_in">הצטרף</string>
     <string name="enter_garbage_clean">פנה מקום בשטח האחסון הפנימי.</string>
+    <string name="entertainment">בידור</string>
     <string name="eq_auto">מותאם אישית</string>
     <string name="eq_blues">בלוז</string>
     <string name="eq_classical">קלאסית</string>
@@ -382,17 +331,12 @@ ID:%s
     <string name="equalizer">אקולייזר</string>
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
-    <string name="error_dup_binded_email">כתובת דוא\"ל זו כבר מקושרת אל חשבון Mi אחר.</string>
-    <string name="error_invalid_bind_address">כתובת הדוא\"ל שהזנת אינה חוקית.</string>
     <string name="error_not_support">לא נתמך</string>
     <string name="evening">לפנות ערב</string>
-    <string name="exceed_binded_phone_times_notice">מספר טלפון זה כבר מקושר אל חשבון Mi אחר.</string>
     <string name="expired">פג תוקף</string>
-    <string name="facebook_login_btn_content_description">התחברות עם Facebook</string>
     <string name="facebook_not_installed">התקן את Facebook תחילה.</string>
     <string name="fail_to_fetch_payment_page_url">לא ניתן היה להשיג את פרטי התשלום</string>
     <string name="fail_to_play">לא ניתן להשמיע את השיר</string>
-    <string name="failed_dup_secure_phone_number">מספר טלפון זה כבר מקושר לחשבון Mi אחר</string>
     <string name="failed_not_access_sd_card">תחילה, אפשר גישה לכרטיס הזכרון</string>
     <string name="failed_obtain_permissions">לא ניתן היה לקבל הרשאות</string>
     <string name="failed_to_connect_hint">בדוק את הגדרות הרשת ונסה שוב</string>
@@ -422,7 +366,6 @@ ID:%s
     <string name="filter_by_size_prefix">"הסתר קבצים הקטנים מ- "</string>
     <string name="filter_by_size_summary">הסתר קבצי שמע קטנים</string>
     <string name="filter_size_unit">%dKB</string>
-    <string name="find_psw">שכחתי את הסיסמה</string>
     <string name="find_you_tunes">מצא/י מוזיקה בשבילך</string>
     <string name="floating_view_dialog_desc">המוסיקה תפסיק להתנגן אם תעזוב דף זה. האם לעזוב בכל מקרה?</string>
     <string name="floating_view_dialog_leave">יציאה</string>
@@ -482,7 +425,6 @@ ID:%s
     <string name="fmt_weekday_timezone">W z</string>
     <string name="follow">עקוב</string>
     <string name="followed">תחת מעקב</string>
-    <string name="for_diagnosis_usage_only">היומנים משמשים לאבחון בלבד.</string>
     <string name="format_not_support">פורמט זה אינו נתמך.</string>
     <string name="format_unsupported_or_corrupted">פורמט זה אינו נתמך או שהקובץ פגום</string>
     <string name="fragment_title_artist_album">אלבומים</string>
@@ -490,22 +432,15 @@ ID:%s
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
-    <string name="get_back_pwd">מאפס סיסמה</string>
     <string name="get_more_favorite_content_after_login">היכנס כדי לגלות שירים וסרטונים נוספים.</string>
     <string name="get_one_day_vip">יש לך מינוי אח\"מ ליום %d!</string>
     <string name="get_one_hour_vip">יש לך מינוי אח\"מ לשעה %d!</string>
-    <string name="get_ph_ticket">קבל קוד</string>
-    <string name="get_phone_bind_exceed_limit">ניתן לקשר עד 3 חשבונות Mi למספר טלפון אחד. לא ניתן להוסיף חשבונות חדשים.</string>
-    <string name="get_phone_verifycode_exceed_limit">למספר זה נשלחו יותר מדי קודי אימות. המתן 24 שעות ונסה שוב.</string>
     <string name="get_vip">קבלת אח\"מ</string>
     <string name="google_account_login">היכנס באמצעות גוגל</string>
-    <string name="google_login_btn_content_description">התחברות עם Google</string>
     <string name="goto_local_search">חפש במכשירך</string>
     <string name="goto_online_search">חפש באינטרנט</string>
-    <string name="goto_sign_up">צור חשבון</string>
     <string name="handle_later">לא כעת</string>
     <string name="hd_quality_audio">אודיו באיכות HD</string>
-    <string name="header_help">עזרה</string>
     <string name="headset_and_audio_effect_category">אוזניות ואפקטים קוליים</string>
     <string name="headset_and_audio_effect_summary">אוזניות ואקולייזר</string>
     <string name="headset_and_audio_effect_title">אוזניות ואפקטים קוליים</string>
@@ -535,7 +470,6 @@ ID:%s
     <string name="hungama_subscribe_positive_button">"רכישת 'חברות PRO'"</string>
     <string name="hungama_subscribe_title">חברות PRO</string>
     <string name="i_know">אישור</string>
-    <string name="identity">זיהוי</string>
     <string name="imported">יובאו</string>
     <string name="impunity_declaration_content">עליך לקרוא ולהסכים ל&lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=iw_IL\">הסכם המשתמש&lt;/a> ול&lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=iw_IL\">מדיניות הפרטיות&lt;/a> שלנו לפני השימוש במוצר.</string>
     <string name="impunity_declaration_ignore">אל תציג שוב</string>
@@ -545,7 +479,6 @@ ID:%s
     <string name="impunity_declaration_summary">"הצג את 'תנאי השירות' בכל כניסה ליישום ה'מוסיקה'"</string>
     <string name="impunity_declaration_title">תנאי השירות</string>
     <string name="in_searching_please_wait">מחפש…</string>
-    <string name="inconsistent_pwd">הסיסמאות אינן תואמות</string>
     <string name="individuation_card_login_button">התחבר</string>
     <string name="individuation_card_login_message">התחבר כדי לגלות שירים נוספים שתאהב</string>
     <string name="individuation_card_title">בשבילך</string>
@@ -554,17 +487,13 @@ ID:%s
     <string name="individuation_recommend_title">המלצות</string>
     <string name="individuation_setting_summary">קבל המלצות תוכן בהתבסס על תחומי העניין שלך</string>
     <string name="individuation_setting_title">המלצות מותאמות אישית</string>
-    <string name="input_email_address_notice">אנו נשתמש בכתובת דוא\"ל זו על מנת לאמת את חשבונך</string>
     <string name="input_hint_prefix">הזן %1$s</string>
-    <string name="input_length_exceeds_limit">הטקסט שהזנת ארוך מדיי</string>
-    <string name="input_new_pwd">הזן סיסמה חדשה</string>
     <string name="installing_apk">מתקין…</string>
     <string name="insufficient_space">אין מספיק מקום באחסון הפנימי של המכשיר</string>
     <string name="is_latest_version">"יישום 'מוסיקה' מעודכן."</string>
     <string name="is_scanning">בודק שטח אחסון…</string>
     <string name="is_scanning_support_online">"בודק שטח אחסון…
 (בינתיים, באפשרותך להזרים מוסיקה מקוונת)"</string>
-    <string name="isornot_your_mi_account">האם זה חשבון Mi שלך?</string>
     <string name="joox_account_bind_mi_account">הוסף חשבון Mi</string>
     <string name="joox_account_cancel_login">ביטול</string>
     <string name="joox_account_continue_login">היכנס</string>
@@ -605,7 +534,6 @@ ID:%s
     <string name="joox_search_result_more">עוד</string>
     <string name="joox_vip_check_to_pay">רכישה</string>
     <string name="joox_vip_expired_hint">פג תוקף החברות שלך ב-VIP. השירים שהורדו מ-JOOX יוצגו רק בהורדות שלך.</string>
-    <string name="just_a_second">רק רגע…</string>
     <string name="just_hit_next">פשוט לחץ/י על \"הבא\"</string>
     <string name="keep_queued_download">השאר</string>
     <string name="ktv_playlist">רשימת השמעה לקריוקי</string>
@@ -619,7 +547,6 @@ ID:%s
     <string name="listen_anywhere">האזנה בכל מקום</string>
     <string name="load_shuffle">טוען…</string>
     <string name="loadercontainer_loading">רק רגע…</string>
-    <string name="loading">רק רגע…</string>
     <string name="loading_hint">רק רגע…</string>
     <string name="loading_reached_the_bottom">זה הכל לעת עתה.</string>
     <string name="loading_text">רק רגע…</string>
@@ -630,18 +557,13 @@ ID:%s
     <string name="local_page_artist_more">שירים נוספים מאת %s</string>
     <string name="local_page_playlist">רשימות השמעה</string>
     <string name="local_page_song_download_history">הורדות</string>
-    <string name="login_by_local_phone_long_text">התחבר כעת</string>
-    <string name="login_by_local_phone_short_text">התחבר</string>
     <string name="login_instantly">היכנס</string>
     <string name="login_mi_account_and_gain_more_rights">היכנס באמצעות חשבון Mi שלך כדי לגשת לתכונות נוספות.</string>
-    <string name="login_other">חשבון Mi אחר</string>
-    <string name="login_register_by_local_phone_long_text">צור חשבון</string>
-    <string name="login_with_sns">דרכים אחרות להתחבר</string>
-    <string name="logout_account">צא</string>
     <string name="long_press_to_select_lyric">לחץ והחזק על מנת לבחור קובץ מלל מקומי</string>
     <string name="low_sound_quality">נמוך</string>
     <string name="lrc_search_failed">לא ניתן היה למצוא את מילות השיר</string>
     <string name="lrc_searching">מחפש…</string>
+    <string name="ludo_tab_guide">גלה את חדרי המוזיקה החדשים שלנו</string>
     <string name="lyric_is_empty">אין מילות שיר זמינות</string>
     <string name="lyric_label">מילות שירים</string>
     <string name="lyric_open_other_connect">הורד מילות שירים באמצעות הרשת הסלולרית</string>
@@ -770,16 +692,12 @@ ID:%s
     <string name="my_playlist_set_to_public">הפוך לציבורי</string>
     <string name="network_disable">לא ניתן היה להתחבר לרשת</string>
     <string name="network_error_and_retry">לא ניתן היה להתחבר, לחץ על מנת לנסות שוב</string>
-    <string name="network_error_info">אירעה שגיאת רשת. בדוק את הגדרות הרשת ונסה שוב.</string>
     <string name="network_request_error">לא ניתן להתחבר לרשת</string>
     <string name="network_settings_error">לא ניתן להתחבר לרשת</string>
-    <string name="network_timeout_info">לא ניתן היה להתחבר לרשת. נסה שוב.</string>
     <string name="network_traffic">נתונים בשימוש</string>
     <string name="next_time">לא כעת</string>
     <string name="next_to_play">הבא</string>
-    <string name="nick_name">כינוי</string>
     <string name="night">ערב</string>
-    <string name="no_account">לא מחובר</string>
     <string name="no_album_info">אין פרטים אודות האלבום</string>
     <string name="no_artist_info">אין פרטים אודות האמן</string>
     <string name="no_downloads">אין הורדות</string>
@@ -792,7 +710,6 @@ ID:%s
     <string name="no_local_source_find">לא ניתן היה למצוא את השיר</string>
     <string name="no_longer_prompt">אל תציג שוב</string>
     <string name="no_lyrics">אין מילים לשיר</string>
-    <string name="no_phone">אין מספר טלפון</string>
     <string name="no_results_return">אין תוצאות חיפוש</string>
     <string name="no_scanned_songs">ריק</string>
     <string name="no_song_downloaded">לא ניתן היה למצוא שירים להורדה</string>
@@ -858,100 +775,9 @@ ID:%s
     <string name="only_pro_can_choose_hd_sound_quality">שמע ב-HD זמין רק לבעלי מינוי PRO</string>
     <string name="open_online_service">עליך להפעיל את השירותים המקוונים על מנת שתוכל להשתמש בתכונה זו. להפעיל כעת?</string>
     <string name="open_service">הפעלה</string>
-    <string name="open_settings">הגדרות</string>
     <string name="operation_done_close">סגירה</string>
     <string name="other_song_in_album">שירים אחרים מאלבום זה</string>
     <string name="party">מסיבה</string>
-    <string name="passport_access_denied">הגישה נדחתה</string>
-    <string name="passport_account_label">חשבון Mi</string>
-    <string name="passport_account_name">"חשבון: %1$s "</string>
-    <string name="passport_activate_token_expired">פג תוקפו של קוד האימות. נסה שוב.</string>
-    <string name="passport_area_code_title">אזור חיוג</string>
-    <string name="passport_bad_authentication">שם משתמש או סיסמה לא חוקיים</string>
-    <string name="passport_barcode_add_account_prompt">כדי להוסיף חשבון, סרוק שוב את קוד ה-QR לאחר שתיכנס.</string>
-    <string name="passport_can_not_receive_verification_code">לא קיבלת קוד אימות?</string>
-    <string name="passport_captcha_title">זיהוי תווים</string>
-    <string name="passport_checking_account">בודק סיסמה…</string>
-    <string name="passport_close">סגירה</string>
-    <string name="passport_delete_account">צא</string>
-    <string name="passport_email">כתובת דוא\"ל</string>
-    <string name="passport_empty_password">שדה הסיסמה לא יכול להישאר ריק</string>
-    <string name="passport_empty_user_name">שדה שם המשתמש לא יכול להישאר ריק</string>
-    <string name="passport_error_auth_fail">פג תוקף התהליך. היכנס שוב.</string>
-    <string name="passport_error_device_id">לא ניתן להשיג את מזהה המכשיר</string>
-    <string name="passport_error_email">כתובת הדוא\"ל שהזנת אינה חוקית</string>
-    <string name="passport_error_empty_captcha_code">הזן את התווים שבתמונה</string>
-    <string name="passport_error_empty_email">הזן את כתובת הדוא\"ל שלך</string>
-    <string name="passport_error_empty_phone_num">הזן מספר טלפון</string>
-    <string name="passport_error_empty_pwd">שדה הסיסמה לא יכול להישאר ריק</string>
-    <string name="passport_error_empty_vcode">הזן קוד אימות</string>
-    <string name="passport_error_empty_voice_code">הזן את התווים שבתמונה</string>
-    <string name="passport_error_illegal_pwd">סיסמה לא חוקית</string>
-    <string name="passport_error_network">לא ניתן להתחבר לרשת</string>
-    <string name="passport_error_no_password_user">עדיין לא הגדרת סיסמה. היכנס באמצעות מסרון.</string>
-    <string name="passport_error_phone_error">מספר טלפון לא חוקי</string>
-    <string name="passport_error_server">שגיאת שרת</string>
-    <string name="passport_error_unknown">שגיאה לא ידועה</string>
-    <string name="passport_error_user_agreement_error">ראשית, הסכם לתנאי השימוש</string>
-    <string name="passport_error_user_name">שם המשתמש שהזנת אינו חוקי</string>
-    <string name="passport_forget_password"><u>שכחתי סיסמה</u></string>
-    <string name="passport_get_verify_code">קבל קוד</string>
-    <string name="passport_getting_verify_code">רק רגע…</string>
-    <string name="passport_identification_expired">פג התוקף של קוד האימות. התחל מחדש.</string>
-    <string name="passport_input_captcha_hint">הזן קוד</string>
-    <string name="passport_input_password_hint">הזן סיסמה</string>
-    <string name="passport_input_phone_hint">הזן מספר טלפון</string>
-    <string name="passport_input_vcode_hint">הזן קוד אימות</string>
-    <string name="passport_input_voice_captcha_hint">הזן קוד אימות קולי</string>
-    <string name="passport_input_voice_hint">הזן קוד קולי</string>
-    <string name="passport_international_phone_password_login_tip">(משתמשים מחוץ לסין צריכים להזין את מספר הטלפון הנייד בתבנית הבאה: +[קוד אזור][מספר טלפון], למשל: +91 817282982)</string>
-    <string name="passport_log_detail">הצג פרטים</string>
-    <string name="passport_login_failed">לא ניתן היה להיכנס</string>
-    <string name="passport_next">הבא</string>
-    <string name="passport_next_step">הבא</string>
-    <string name="passport_password_req_notice">הסיסמה חייבת להיות באורך של 8 עד 16 תווים ולשלב לפחות שניים מהבאים: ספרות, אותיות וסמלים מיוחדים (למשל 123abc@#, או 123abc, או abc@#).</string>
-    <string name="passport_querying_phone_info">מבקש פרטי חשבון…</string>
-    <string name="passport_quick_login_dialog_step2_title">אימות דו-שלבי</string>
-    <string name="passport_quick_login_dialog_title">אימות סיסמה</string>
-    <string name="passport_quick_login_step2_title">אימות דו-שלבי</string>
-    <string name="passport_quick_login_title">הזן את סיסמתך</string>
-    <string name="passport_re_get_verify_code">קבל קוד שוב</string>
-    <string name="passport_reging">יוצר חשבון…</string>
-    <string name="passport_register_restricted">למספר זה קושרו יותר מדי חשבונות. נסה מספר אחר.</string>
-    <string name="passport_reload_ph_ticket">שלח שוב</string>
-    <string name="passport_relogin_notice">עליך להיכנס שוב</string>
-    <string name="passport_send_too_many_code">למספר זה נשלחו יותר מדי קודי אימות. המתן 24 שעות ונסה שוב.</string>
-    <string name="passport_send_too_many_sms">נשלחו למספר זה יותר מדי קודי אימות. עליך להמתין 24 שעות ולנסות שוב.</string>
-    <string name="passport_sending_vcode">שולח קוד…</string>
-    <string name="passport_set_password">הגדר סיסמה</string>
-    <string name="passport_set_password_no_phone_msg">הוסף את מספר הטלפון שלך כדי להגן על חשבונך.</string>
-    <string name="passport_sign_in">התחבר</string>
-    <string name="passport_sign_in_or_sign_up">התחבר/צור חשבון</string>
-    <string name="passport_sms_phone_intro">הקוד נשלח אל %1$s</string>
-    <string name="passport_talkback_image_captcha">קוד אימות תמונה</string>
-    <string name="passport_talkback_switch_image_captcha">החלף לקוד אימות תמונה</string>
-    <string name="passport_talkback_switch_voice_captcha">החלף לקוד אימות קולי</string>
-    <string name="passport_talkback_voice_captcha">השמע קוד אימות קולי</string>
-    <string name="passport_timeout_network_error">פג תוקף בקשת החיבור לרשת</string>
-    <string name="passport_trust_device">מכשיר זה הוגדר כאמין</string>
-    <string name="passport_trying_read_verify_code_sms">מקבל קוד אימות…</string>
-    <string name="passport_unknow_error">אירעה שגיאה לא ידועה</string>
-    <string name="passport_unknow_host_network_error">בדוק את הגדרות הרשת ונסה שוב</string>
-    <string name="passport_unknow_network_error">אירעה שגיאת רשת</string>
-    <string name="passport_user_agreement_link">&lt;Data>קראתי ואני מסכים ל&lt;a href=%1$s>הסכם המשתמש&lt;/a> ול&lt;a href=%2$s>מדיניות הפרטיות&lt;/a>של Xiaomi.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>קראתי ואני מסכים למסמכים הבאים: &lt;a href=%1$s>הסכם המשתמש&lt;/a> ו&lt;a href=%4$s>מדיניות הפרטיות&lt;/a> של Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_id_intro">הזן סיסמה עבור %1$s</string>
-    <string name="passport_v_code_error">קוד האימות שגוי</string>
-    <string name="passport_vcode_notification_title">אימות הכניסה שלך לא הושלם</string>
-    <string name="passport_vcode_prompt_long">הזן קוד אימות</string>
-    <string name="passport_vcode_sms_send_prompt">נשלח קוד אל %s</string>
-    <string name="passport_verification_failed">לא ניתן היה לאמת</string>
-    <string name="passport_verify">אמת סיסמה</string>
-    <string name="passport_wechat_not_install">התקן את WeChat תחילה</string>
-    <string name="passport_wrong_captcha">הקוד שהזנת שגוי</string>
-    <string name="passport_wrong_phone_number_format">תבנית מספר הטלפון שהזנת אינה חוקית</string>
-    <string name="passport_wrong_vcode">הקוד שהזנת שגוי</string>
-    <string name="passport_wrong_voice">הקוד שהזנת שגוי</string>
     <string name="paused_by_app">עצר</string>
     <string name="paused_in_power_save_mode">"עוצר כשמצב 'חסכון בסוללה' מופעל"</string>
     <string name="paused_insufficient_space">ממתין</string>
@@ -969,11 +795,6 @@ ID:%s
     <string name="permission_declaration_title">אפשר גישה</string>
     <string name="permission_open">אשר</string>
     <string name="permission_required">נדרשת הרשאה</string>
-    <string name="phone_bind_too_many">מספר טלפון זה קושר למספר חשבונות Mi בפרק זמן קצר. נסה להשתמש במספר טלפון אחר.</string>
-    <string name="phone_hint">מספר טלפון</string>
-    <string name="phone_num_use_for">מספר הטלפון משמש עבור:</string>
-    <string name="phone_number">מספר טלפון</string>
-    <string name="photoPickerNotFoundText">אין תמונות זמינות.</string>
     <string name="pick_favorite_song">מועדפים</string>
     <string name="pick_local_song">שירים מקומיים</string>
     <string name="pick_recent_song">נוגן לאחרונה</string>
@@ -1011,6 +832,7 @@ ID:%s
     <string name="privacy_authorize_revoking">שולל הרשאה…</string>
     <string name="privacy_desc">מדיניות פרטיות</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=iw_IL</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music צריך לאסוף מידע האישי הדרוש כדי לספק לך שירותי סטרימינג (הזרמה) מקוונים. מידע לגבי האופן בו אנו מטפלים במידע שאנו אוספים מופיע ב&lt;a href=\"%1$s\">מדיניות הפרטיות &lt;/a> שלנו. תוכל לבטל את הסכמתך למדיניות הפרטיות של Mi Music בכל עת בהגדרות.
 קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%1$s\">מדיניות פרטיות&lt;/a> שלנו לפני השימוש ב-Mi Music.
 אם אינך מסכים להשתמש בשירותים האמורים, לא תוכל להשתמש בתכונות מסוימות של יישום זה; עם זאת, התפקוד הבסיסי שלו עדיין יהיה זמין עבורך.&lt;/Data>"</string>
@@ -1020,18 +842,11 @@ ID:%s
     <string name="privacy_request_subtitle_offline">ברוך הבא אל Mi מוסיקה! יישום זה הוא נגן לקובצי שמע מקומיים.</string>
     <string name="privacy_request_title">תנאי השימוש</string>
     <string name="pro_member">מנוי PRO</string>
-    <string name="progressbar_title">בודק שגיאות אבטחה…</string>
     <string name="project_device">טלפון Mi</string>
     <string name="prompt_grant_write_settings_permission">אפשר שינוי של הגדרות המערכת</string>
-    <string name="protocal_dialog_cancel">ביטול</string>
-    <string name="protocal_dialog_confirm">מסכים</string>
-    <string name="protocal_dialog_title">שים לב</string>
-    <string name="psw_hint">סיסמה</string>
-    <string name="psw_sign_in">התחבר באמצעות סיסמה</string>
     <string name="pulluprefreshrecyclerview_loading_error">לא ניתן היה לטעון</string>
     <string name="pulluprefreshrecyclerview_loading_finished">נטען בהצלחה</string>
     <string name="pulluprefreshrecyclerview_loading_running">טוען…</string>
-    <string name="qq_login_btn_content_description">התחברות עם QQ</string>
     <string name="queue_is_empty">תור ההשמעה ריק.</string>
     <string name="ready_to_play">הבא</string>
     <string name="recently_played">נוגן לאחרונה</string>
@@ -1039,8 +854,6 @@ ID:%s
     <string name="recommend_songs_when_playing_audio_files">קבל המלצות על שירים בזמן האזנה למוזיקה</string>
     <string name="recommended_file_size_download_in_mobile">להשתמש ב- %s של נתונים סלולריים על מנת להוריד קובץ זה?</string>
     <string name="recommended_no_file_size_download_in_mobile">להשתמש בחיבור הנתונים הסלולריים על מנת להוריד קובץ זה?</string>
-    <string name="register_by_local_phone_long_text">צור חשבון</string>
-    <string name="register_by_local_phone_short_text">צור חשבון</string>
     <string name="remove">הסרה</string>
     <string name="remove_download">הסר</string>
     <string name="remove_user_privacy_dialog_message">על ידי כיבוי המתג, אתה מבטל את הסכמתך למדיניות הפרטיות של Mi Music. אנו נפסיק לאסוף את המידע האישי שלך. הנתונים האישיים שכבר נאספו ונשמרים יימחקו במהלך התקופה הנדרשת על פי החוקים החלים. Mi Music צריך לאסוף מידע אישי הכרחי כדי לספק לך את שירותיו הבסיסיים. ביטול הסכמתך למדיניות הפרטיות שלו תיחשב כסירוב לקבל את שירותיו המבוססים על נתונים אישיים שנאספו.</string>
@@ -1048,25 +861,11 @@ ID:%s
     <string name="remove_user_privacy_dialog_title">ביטול הסכמה</string>
     <string name="repeat_all_notif">חוזר על כל השירים.</string>
     <string name="repeat_current_notif">חוזר על השיר הנוכחי.</string>
-    <string name="request_agree">אשר</string>
-    <string name="request_camera_permission_message">אנו נגן על המידע האישי שלך בהתאם לתקנות ולחוקים הרלוונטיים. כדי לעבוד כנדרש, יישום זה זקוק להרשאות הבאות:&lt;br>&lt;br>&lt;b>שימוש במצלמה (להגדרת תמונת פרופיל)&lt;/b>&lt;br>&lt;br>אם אינך מסכים להעניק את ההרשאות הללו, לא תוכל להשתמש בחלק ממאפייני היישום. עם זאת, הפונקציות הבסיסיות עדיין יהיו זמינות עבורך. תמיד ניתן להגביל את ההרשאות או לבטל אותן בהגדרות.</string>
-    <string name="request_cancel">ביטול</string>
-    <string name="request_error_invalid_token">לא ניתן היה לאמת</string>
-    <string name="request_error_network">אירעה שגיאת רשת. בדוק את הגדרות הרשת ונסה שוב.</string>
-    <string name="request_error_unknown">אירעה שגיאת מערכת. חזור לאחור ונסה שוב.</string>
-    <string name="request_gallery_permission_message">לאפשר גישה לגלריה:&lt;br />להגדרת תמונות פרופיל</string>
     <string name="request_overlay_permission_desc">אפשר למוסיקת Mi להציג חלון על מנת להשתמש בתכונה זו.</string>
     <string name="request_privacy_permission_title">עליך לקרוא את תנאי השימוש שלמטה ולהסכים אתם כדי לקבל גישה לכל השירותים שלנו.</string>
     <string name="request_share_info">רק רגע…</string>
     <string name="request_subscription_status">רק רגע…</string>
-    <string name="resend_active_email">שלח שוב</string>
-    <string name="resend_email_reach_limit_message">ביקשת יותר מדי הודעות דוא\"ל לאימות. ודא שהודעות האימות אינן נמצאות בתיקיית דואר הזבל שלך.</string>
-    <string name="resend_email_reach_limit_title">יותר מדי ניסיונות</string>
-    <string name="resend_email_success">נשלח בהצלחה</string>
-    <string name="restart_action">התחל מחדש</string>
     <string name="restart_immediate">הפעלה מחדש</string>
-    <string name="restart_phone_bind_message">ייתכן שקבלת המסרון תתעכב. להתחיל מחדש בכל מקרה?</string>
-    <string name="restart_phone_bind_title">שנה את מספר הטלפון לשחזור</string>
     <string name="retry">נסה שוב</string>
     <string name="retry_after_network_available">לא ניתן להתחבר לרשת. בדוק את החיבור ונסה שוב.</string>
     <string name="retry_download">נסה שוב</string>
@@ -1078,7 +877,6 @@ ID:%s
     <string name="ringtones_stop">עצירה</string>
     <string name="ringtones_successful">הרינגטון הוגדר בהצלחה</string>
     <string name="root_downloads">הורדות</string>
-    <string name="same_new_and_old_pwd">הסיסמה לא יכולה להיות זהה לסיסמה הנוכחית</string>
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
@@ -1117,19 +915,14 @@ ID:%s
     <string name="select_three_languages">ניתן לבחור עד %d שפות</string>
     <string name="selected_count">%1$d מתוך %2$d נבחרו</string>
     <string name="send">שליחה</string>
-    <string name="send_diagnosis_log">שלח יומנים</string>
-    <string name="send_email_activate_message">הודעת דוא\"ל לאימות החשבון נשלחה בהצלחה</string>
     <string name="send_to_title">שלח אל (%1$s)</string>
-    <string name="sending">שולח…</string>
     <string name="service_and_settings">שירות והגדרות</string>
-    <string name="service_error">שגיאת שרת</string>
     <string name="set_as_alarm_clock_ringtone">שעון מעורר</string>
     <string name="set_as_ring">הגדר כצלצול</string>
     <string name="set_online_home_subtitle">פתח המלצות מקוונות כשהאפליקציה מופעלת</string>
     <string name="set_online_home_title">הצג המלצות מקוונות בזמן ההפעלה</string>
     <string name="set_ringtones_failed">לא ניתן היה להגדיר צלצול</string>
     <string name="set_ringtones_successful">%s הוגדר כצלצול</string>
-    <string name="set_success">שונה בהצלחה</string>
     <string name="setting_feature_setting">הגדרת תכונות</string>
     <string name="settings">הגדרות</string>
     <string name="settings_search_key_notification">התראות מוסיקה;מוסיקה;התראות;שירים</string>
@@ -1152,24 +945,16 @@ ID:%s
     <string name="shuffle_off_notif">העירבוב כבוי.</string>
     <string name="shuffle_on_notif">העירבוב מופעל.</string>
     <string name="shuffle_play_toast_text">מערבב שירים…</string>
-    <string name="sign_in">מתחבר</string>
-    <string name="sign_in_progress">נכנס…</string>
-    <string name="sign_in_title">היכנס באמצעות חשבון Mi</string>
     <string name="similar_albums">אלבומים דומים</string>
     <string name="similar_playlists">רשימות השמעה זהות</string>
     <string name="similar_songs">שירים דומים</string>
     <string name="similar_videos">סרטונים דומים</string>
     <string name="skip">דלג</string>
-    <string name="skip_query_account">דלג</string>
     <string name="sleep_mode">"טיימר 'מצב שינה'"</string>
     <string name="sleep_mode_canceled">"'מצב שינה' כובה"</string>
     <string name="sleep_mode_summary">עצור את הנגן לאחר פרק זמן מסוים</string>
     <string name="sleep_mode_title">"טיימר 'מצב שינה'"</string>
     <string name="sliding_pro_center">מרכז PRO</string>
-    <string name="sms_send_success">נשלח בהצלחה</string>
-    <string name="sns_access_token_expired_warning">פג תוקף התהליך. היכנס שוב כדי לחבר חשבון זה מחדש.</string>
-    <string name="sns_bind_limit">יותר מדי ניסיונות. נסה דרכים אחרות להיכנס.</string>
-    <string name="sns_sign_in">דרכים אחרות לכניסה</string>
     <string name="song_already_in_playlist">שיר זה קיים כבר ברשימת ההשמעה</string>
     <string name="song_exist_in_playlist">שיר זה כבר נמצא בתור</string>
     <string name="song_info">פרטי השיר</string>
@@ -1199,7 +984,6 @@ ID:%s
     <string name="sunday_shortest">"א'"</string>
     <string name="supplementary_songs">שירים נוספים</string>
     <string name="switch_success">ההחלפה בוצעה בהצלחה</string>
-    <string name="system_error_info">המערכת עסוקה כעת. חכה דקה או שתיים ונסה שוב.</string>
     <string name="tab_album">אלבומים</string>
     <string name="tab_album_list">אלבומים</string>
     <string name="tab_artist">אמנים</string>
@@ -1233,7 +1017,6 @@ ID:%s
     <string name="talkback_pre">השיר הקודם</string>
     <string name="talkback_search">חיפוש</string>
     <string name="talkback_show_navigation_draw">הצג את המגירה</string>
-    <string name="temporary_not_available">תכונה זו עדיין אינה זמינה</string>
     <string name="terms_of_service">תנאי השירות</string>
     <string name="the_anniversary_of_lifting_martial_law">יום השנה לביטול החוק הצבאי</string>
     <string name="the_anti_aggression_day">יום המאבק באלימות</string>
@@ -1278,9 +1061,6 @@ ID:%s
     <string name="thursday">חמישי</string>
     <string name="thursday_short">"ה'"</string>
     <string name="thursday_shortest">"ה'"</string>
-    <string name="ticket_hint">קוד אימות</string>
-    <string name="ticket_invalid">הקוד שהזנת אינו נכון</string>
-    <string name="ticket_sign_in">התחבר באמצעות מסרון</string>
     <string name="ticket_summary">קנה כרטיסים למופעים, קונצרטים, הצגות, ואירועים אחרים</string>
     <string name="ticket_title">הצג כרטיסים</string>
     <string name="time_picker_dialog_title">הגדרת זמן</string>
@@ -1330,18 +1110,13 @@ ID:%s
     <string name="ultra_high_quality">הגבוה ביותר</string>
     <string name="unknown_album_name">אלבום לא ידוע</string>
     <string name="unknown_artist_name">אמן לא ידוע</string>
-    <string name="unknown_error_info">שגיאה לא ידועה</string>
     <string name="unlimited_downloads">הורדות ללא הגבלה</string>
     <string name="unlimited_offline_songs">שירים בלי חיבור לאינטרנט ללא הגבלה</string>
     <string name="unlimited_skips">דילוגים ללא הגבלה</string>
-    <string name="update_email_address_dialog_message">עליך לאמת את זהותך לפני שתעדכן את כתובת הדוא\"ל לשחזור.</string>
-    <string name="update_email_address_dialog_title">עדכן את הדוא\"ל לשחזור</string>
     <string name="update_now">עדכן עכשיו</string>
-    <string name="update_phone_notice">שינוי הגדרות האבטחה</string>
     <string name="upgrade_music">"עדכן את 'מוסיקה'"</string>
     <string name="upgrade_music_message">העדכונים מוכנים. הפעל מחדש לעדכון.</string>
     <string name="upgrading_in_backstage">מעדכן ברקע…</string>
-    <string name="upload_error_log">העלה יומן</string>
     <string name="upload_favorite_dialog_title">העלה את השירים שלך לענן כדי שתוכל לקבל גישה אליהם ממכשירים מסונכרנים אחרים. באפשרותך להשבית את האפשרות הזאת בהגדרות.</string>
     <string name="upload_favorite_setting_summary">הוספת שירים מקוונים למועדפים מעלה אותם לענן ומאפשרת לך לגשת אליהם במכשירים אחרים</string>
     <string name="upload_favorite_setting_title">סנכרן שירים</string>
@@ -1350,21 +1125,8 @@ ID:%s
     <string name="upload_playlist_to_hungama_title">סנכרן שירים מקוונים עם Hungama כדי לקבל גישה לאותם השירים ממכשירים אחרים כשאתה משתמש בחשבון Mi.</string>
     <string name="upload_playlist_to_hungama_toast">שירים מקוונים יסונכרנו עם Hungama</string>
     <string name="user_agreement">הסכם משתמש</string>
-    <string name="user_agreement_hint_3rd_app">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a> ואת &lt;a href=%3$s>הסכם המשתמש&lt;/a> &lt;a href=%4$s>ומדיניות הפרטיות&lt;/a> של חשבון Mi, והסכמתי אתם.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, את &lt;a href=%3$s>הסכם המשתמש&lt;/a> &lt;a href=%4$s>ומדיניות הפרטיות&lt;/a> של חשבון Mi, וגם את &lt;a href=%5$s>התנאים וההגבלות עבור שירותי האימות של China Mobile, והסכמתי אתם&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, את &lt;a href=%3$s>הסכם המשתמש&lt;/a> &lt;a href=%4$s>ומדיניות הפרטיות&lt;/a> של חשבון Mi, וגם את &lt;a href=%5$s>התנאים וההגבלות עבור שירותי האימות של eSurfing, והסכמתי אתם&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, את &lt;a href=%3$s>הסכם המשתמש&lt;/a> &lt;a href=%4$s>ומדיניות הפרטיות&lt;/a> של חשבון Mi, וגם את &lt;a href=%5$s>התנאים וההגבלות עבור שירותי האימות של China Unicom, והסכמתי אתם&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_default">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמשים&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a> של חשבון Mi, והסכמתי אתם.&lt;/Data></string>
-    <string name="user_agreement_hint_first_login">אם אתה משתמש במספר טלפון זה בפעם הראשונה, ניצור חשבון באופן אוטומטי.</string>
-    <string name="user_agreement_hint_with_mobile">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, וגם את &lt;a href=%3$s>התנאים וההגבלות עבור שירותי האימות של China Mobile והסכמתי אתם&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_with_telecom">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, וגם את &lt;a href=%3$s>התנאים וההגבלות עבור שירותי האימות של eSurfing והסכמתי אתם&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_with_unicom">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, וגם את &lt;a href=%3$s>התנאים וההגבלות עבור שירותי האימות של China Unicom והסכמתי אתם&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_protocal_dialog_hint_default">"&lt;Data>Read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
-    <string name="user_avatar_update_title">החלף תמונת פרופיל</string>
-    <string name="user_avatar_uploading">רק רגע…</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=iw_IL</string>
     <string name="user_experience_program_open">בגלל הגבלות של זכויות יוצרים עליך להירשם לתכנית חווית המשתמש כדי להשמיע שירם שהורדו. ניתן לעשות את זה על-ידי מעבר אל הגדרות > סיסמאות ואבטחה > פרטיות > הירשם לתוכנית חוויית המשתמש.</string>
-    <string name="user_id_hint">דוא\"ל/טלפון/מזהה חשבון Mi</string>
-    <string name="user_name_phone_number">מספר טלפון</string>
     <string name="user_playlist_plaza">רשימות השמעה</string>
     <string name="user_privacy_dialog_negative_text">ביטול</string>
     <string name="user_privacy_dialog_positive_count_down_text">משיכה (%s)</string>
@@ -1374,7 +1136,6 @@ ID:%s
     <string name="user_profile_created_playlist_title">רשימות השמעה בהתאמה אישית</string>
     <string name="user_profile_fans_count">עוקבים: %s</string>
     <string name="user_profile_follow_count">עוקב אחר: %s</string>
-    <string name="v_code_title">הזן קוד אימות</string>
     <string name="version_info">גרסה</string>
     <string name="video_play_cellular">מכשירך אינו מחובר ל-Wi-Fi. להשתמש בנתונים סלולריים?</string>
     <string name="video_replay_btn">נגן שוב</string>
@@ -1387,8 +1148,7 @@ ID:%s
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>
-    <string name="weibo_login_btn_content_description">התחברות עם Weibo</string>
-    <string name="weixin_login_btn_content_description">התחברות עם WeChat</string>
+    <string name="welcome_to_entertainment">התרשם/י ממאפיין הבידור החדש כדי ליהנות ממשחקי מוזיקה ועוד</string>
     <string name="wifi_required_body" formatted="false">"\"התחבר לרשת אלחוטית על מנת להשלים הורדה זו %s.
 
  לחץ על %s על מנת להתחיל הורדה זו בפעם הבאה שתהיה מחובר לרשת אלחוטית.\""</string>

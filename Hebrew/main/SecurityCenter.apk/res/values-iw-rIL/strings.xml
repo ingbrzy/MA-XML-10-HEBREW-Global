@@ -892,6 +892,7 @@
     <string name="card_main_private_space_summary">"השימוש ב'שטח שני' דומה לשימוש בשני מכשירים"</string>
     <string name="card_main_private_space_title">שטח שני</string>
     <string name="card_main_sectool_title">כלים</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">צור</string>
     <string name="card_main_xspace_summary">צור חשבונות משוכפלים לכל יישום שתבחר</string>
     <string name="card_main_xspace_title">יישומים משוכפלים</string>
@@ -944,6 +945,8 @@
     <string name="cmcc_app_check_dialog_negative">מאוחר יותר</string>
     <string name="cmcc_app_check_dialog_positive">אתחל כעת</string>
     <string name="cmcc_app_check_dialog_title">המערכת תוקנה</string>
+    <string name="columbus_ad_flag_text">פרסומת</string>
+    <string name="columbus_skip_ad">דלג</string>
     <string name="confirmSecondSpacePassword">"אשר את סיסמת 'שטח שני'"</string>
     <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">מוסיף חשבון Mi</string>
@@ -1150,6 +1153,7 @@
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="early_morning">מוקדם בבוקר</string>
+    <string name="ellipsis">…</string>
     <string name="email">דוא\"ל</string>
     <string name="empty" />
     <string name="empty_app">אין יישומים</string>
@@ -1430,6 +1434,7 @@
     <string name="gamebox_app_not_find">התקן את היישום תחילה.</string>
     <string name="gamebox_brightness">בהירות</string>
     <string name="gamebox_browser_not_find">ראשית התקן את דפדפן Mi</string>
+    <string name="gamebox_bullet_chat">הערות על המסך</string>
     <string name="gamebox_collimator">כוונת</string>
     <string name="gamebox_display_1">ללא</string>
     <string name="gamebox_display_2">רוויה</string>
@@ -1531,6 +1536,10 @@
     <string name="gb_dialog_record_way_ai">הקלטות AI נשמרות בתיבת המשחקים ומאוחסנות בה למשך 7 ימים.</string>
     <string name="gb_dialog_record_way_finish">בוצע</string>
     <string name="gb_dialog_record_way_manual">הקלט סרטונים באורך עד 30 שניות באופן ידני</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">הקלט ידנית %d-%d שניות של סרטון וידאו במהלך משחק.</string>
+    <string name="gb_dialog_record_way_setting_tip_one">צריכת חשמל מוגברת והשהיות</string>
+    <string name="gb_dialog_record_way_setting_tip_title">תכונה זו עלולה לגרום לבעיות הבאות:</string>
+    <string name="gb_dialog_record_way_setting_tip_two">התנגשויות עם מקליטי מסך אחרים</string>
     <string name="gb_dialog_record_way_setting_tips">הערה: הקלטת משחקים מעלה את צריכת החשמל, וזה עלול לגרום לעיכובים.</string>
     <string name="gb_dialog_record_way_title">בחר שיטת הקלטה</string>
     <string name="gb_first_guide_function_shiled_title">כבה את תכונות מערכת כאשר מאיץ המשחקים פועל</string>
@@ -1559,6 +1568,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_game_video_page_null">הקלט את רגעי המפתח של המשחקים שלך</string>
     <string name="gb_game_video_record_finish_tips">הסרטון שהוקלט ידנית נשמר במאיץ המשחקים</string>
     <string name="gb_game_video_save">שמירה</string>
+    <string name="gb_game_video_save_tip">נשמר בהצלחה</string>
     <string name="gb_game_video_type_ai">AI</string>
     <string name="gb_game_video_type_ai_record">הקלט באמצעות AI</string>
     <string name="gb_game_video_type_manual">באופן ידני</string>
@@ -1571,6 +1581,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_gpu_driver_update_app_tips">הגרסה הקיימת עדכנית</string>
     <string name="gb_have_signed">"בוצע צ'ק אין היום"</string>
     <string name="gb_manual_record_dialog_del_video_message">למחוק את הסרטונים שנבחרו לצמיתות?</string>
+    <string name="gb_manual_video_record_title">הקלטות</string>
     <string name="gb_msg_completely_shielded">הסתרת הודעות</string>
     <string name="gb_msg_completely_shielded_summary">הסתרה</string>
     <string name="gb_msg_not_shielded_summary">הצג</string>
@@ -1590,26 +1601,39 @@ Record sequences and use them anytime!"</string>
     <string name="gb_performance_tips">"מצב ביצועים משפר את הביצועים הגרפיים,
 אבל גם מגדיל את צריכת החשמל ומאפשר למכשיר להתחמם יתר על המידה"</string>
     <string name="gb_shortcut_pref_title">"קיצור דרך ב'מסך הבית'"</string>
-    <string name="gb_shoulder_key">כפתורי כתפיים</string>
+    <string name="gb_shoulder_guide_message1">הזז את [L] לכל מיקום פונקציונלי והשתמש בו באמצעות מפעיל הפופ-אפ</string>
+    <string name="gb_shoulder_guide_message2">פעולה [1] מופעלת ע\"י לחיצה על הכפתור. פעולה [2] מופעלת ע\"י שחרור הכפתור.</string>
+    <string name="gb_shoulder_guide_tips1">פתח את ארגז הכלים והגדר מפעילי פופ-אפ</string>
+    <string name="gb_shoulder_guide_title1">פעולה</string>
+    <string name="gb_shoulder_guide_title2">רצף</string>
+    <string name="gb_shoulder_key">מפעילי פופ-אפ</string>
     <string name="gb_shoulder_key_add_show_btn">תצוגת כפתורים וירטואליים במשחקים</string>
-    <string name="gb_shoulder_key_add_tips">העבירו את הכפתורים [L] (שמאל) ו-[R] (ימין) לכל מיקום פונקציונלי והשתמשו בהם באמצעות כפתורי הכתפיים</string>
+    <string name="gb_shoulder_key_add_tips">הזז את [L] ו-[R] לכל מיקום פונקציונלי והשתמש בהם באמצעות מפעילי פופ-אפ</string>
     <string name="gb_shoulder_key_btn_cancel">ביטול</string>
     <string name="gb_shoulder_key_btn_save_exit">שמירה</string>
-    <string name="gb_shoulder_key_dialog_message">ניתן להשתמש בשני כפתורי הכתפיים בו-זמנית כדי להפעיל את מאיץ המשחקים בזמן שאינך משחק/ת במשחקים.</string>
-    <string name="gb_shoulder_key_dialog_txt">ניתן להפעיל את מאיץ המשחקים על-ידי שימוש בכפתורי הכתפיים.</string>
+    <string name="gb_shoulder_key_dialog_message">ניתן להשתמש בשני מפעילי הפופ-אפ בו זמנית כדי להפעיל את מאיץ המשחקים בזמן שאינך משחק במשחקים.</string>
+    <string name="gb_shoulder_key_dialog_txt">ניתן להפעיל את מאיץ המשחקים על-ידי שימוש במפעילי פופ-אפ</string>
     <string name="gb_shoulder_key_guide_btn_done">הבנתי</string>
     <string name="gb_shoulder_key_guide_btn_next">הבא</string>
-    <string name="gb_shoulder_key_guide_tips">הגדירו את תצורת כפתורי הכתפיים כדי לשחק כמו המקצוענים!</string>
-    <string name="gb_shoulder_key_guide_tips1">פתחו את תיבת הכלים והגדירו את תצורת כפתורי הכתפיים</string>
+    <string name="gb_shoulder_key_guide_tips">הגדר מפעילי פופ-טפ כדי לשחק כמו מקצוען!</string>
+    <string name="gb_shoulder_key_guide_tips1">פתח את ארגז הכלים והגדר מפעילי פופ-אפ</string>
     <string name="gb_shoulder_key_light_effect">אנימציות צבעוניות</string>
     <string name="gb_shoulder_key_light_effect_color">צבע</string>
-    <string name="gb_shoulder_key_light_effect_subtitle">אנימציות צבעוניות יוצגו בזמן שאתה משחק וכפתורי הכתפיים מופעלים</string>
+    <string name="gb_shoulder_key_light_effect_subtitle">אנימציות צבעוניות יוצגו כאשר מפעילי הפופ-אפ מופעלים ואתה משחק במשחקים</string>
     <string name="gb_shoulder_key_light_effect_title">אנימציות</string>
     <string name="gb_shoulder_key_settings_guide_tips1">העבירו את הכפתורים [L] (שמאל) ו-[R] (ימין) לכל מיקום פונקציונלי כדי להשלים את הגדרת התצורה</string>
-    <string name="gb_shoulder_key_settings_guide_tips2">השתמשו בכפתורי הכתפיים למאפיינים שהקצתם עבורם במשחקים</string>
-    <string name="gb_shoulder_key_settings_summary">השתמש/י בשני כפתורי הכתפיים כדי להפעיל את מאיץ המשחקים בזמן שאינך משחק/ת במשחקים</string>
-    <string name="gb_shoulder_key_settings_title">השתמשו בכפתורי הכתפיים למאיץ המשחקים</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">השתמש במפעילי פופ-אפ עבור התכונות שהקצית עבורם במהלך משחקים</string>
+    <string name="gb_shoulder_key_settings_summary">השתמש בשני מפעילי הפופ-אפ כדי להפעיל את מאיץ המשחקים בזמן שאינך משחק במשחקים</string>
+    <string name="gb_shoulder_key_settings_title">השתמש במפעילי פופ-אפ עבור מאיץ המשחקים</string>
     <string name="gb_shoulder_key_settings_title_new">הפעלה מהירה של מאיץ משחקים</string>
+    <string name="gb_shoulder_set_left_right">הגדירו את [%s]</string>
+    <string name="gb_shoulder_set_title">הפעל מפעילי פופ-אפ כדי להגדיר אותם</string>
+    <string name="gb_shoulder_set_title2">הזז את [%s] לכל מיקום פונקציונלי והשתמש בו באמצעות מפעילי פופ-אפ</string>
+    <string name="gb_shoulder_single_trigger">פעולה</string>
+    <string name="gb_shoulder_subsection_down">לחצו</string>
+    <string name="gb_shoulder_subsection_trigger">רצף</string>
+    <string name="gb_shoulder_subsection_up">שחררו</string>
+    <string name="gb_shoulder_update_left_right">ערוך את %s</string>
     <string name="gb_sign_gift">"בצע צ'ק אין לקבלת פרסים"</string>
     <string name="gb_sign_gift_button_text">קבלה</string>
     <string name="gb_sign_notification_summary">שחק במשחקים בלי השהיות ברשת</string>
@@ -1691,13 +1715,13 @@ Record sequences and use them anytime!"</string>
     <string name="gd_setting_group_custom_line_location">מיקום ארגז הכלים</string>
     <string name="gd_setting_group_custom_settings">התאמה אישית</string>
     <string name="gd_setting_group_custom_vtb_apps">יישומי וידאו</string>
-    <string name="gd_setting_group_smart_tool_box">Sidebar</string>
+    <string name="gd_setting_group_smart_tool_box">סרגל צד</string>
     <string name="gd_setting_group_title_switch">סצנות</string>
     <string name="gd_setting_gtb">הצג בזמן משחק במשחקים שונים</string>
     <string name="gd_setting_gtb_desc">מאפייני גיימינג מיוחדים</string>
     <string name="gd_setting_miui_dock">הצג תמיד</string>
     <string name="gd_setting_shorthand">פתקים מהירים</string>
-    <string name="gd_setting_title">Sidebar</string>
+    <string name="gd_setting_title">סרגל צד</string>
     <string name="gd_setting_vtb">הצג בזמן ניגון וידאו</string>
     <string name="gd_setting_vtb_desc">מאפיינים מיוחדים לניגון וידאו</string>
     <string name="gd_splite_screen_tips">מסך מפוצל אינו תומך בחלונות צפים</string>
@@ -2104,6 +2128,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_license_manager">הרשאות</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2112,6 +2137,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_optimize_manage">האצת מהירות</string>
     <string name="menu_text_optimize_manage_1">האצת מהירות</string>
     <string name="menu_text_power_manager">סוללה</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">הסרה מרשימת החריגים</string>
     <string name="menu_white">הוספה לרשימת החריגים</string>
     <string name="mi_ime_not_used">השתמש במקלדת שאושרה ע\"י שיאומי</string>
@@ -2527,7 +2553,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_fast_charge_notifi_action_text_on">האץ</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">הגדר רמת סוללה עבור תזכורות</string>
     <string name="pc_fast_charge_notifi_summary">טעינה במהירות של עד %s מהר יותר מהרגיל…</string>
-    <string name="pc_fast_charge_notifi_summary_on">תכונה זו עלולה לגרום למכשיר שלך להתחמם</string>
+    <string name="pc_fast_charge_notifi_summary_on">מהירות הטעינה מוגברת כאשר המסך כבוי. המכשיר שלך יתחמם.</string>
     <string name="pc_fast_charge_notifi_switch_summary">הצג הודעה על האצת מהירות הטעינה כאשר מטען ה-%dW שסופק מחובר ורמת הטעינה של הסוללה נמוכה מהרמה שנקבעה.</string>
     <string name="pc_fast_charge_notifi_switch_title">הצג הודעה על האצה</string>
     <string name="pc_fast_charge_notifi_title">טעינה ב-%dW</string>
@@ -2741,6 +2767,11 @@ Record sequences and use them anytime!"</string>
     <string name="power_center_dialog_msg_top">כאשר צריכת הבטריה מופעלת, MIUI יבצע את פעולות האופטימיזציה הבאות:</string>
     <string name="power_center_hints_scan_danger_result">ניתן לתקן בעיות בסוללה עכשיו</string>
     <string name="power_center_list_item_auto_brightness">התאמת בהירות אוטומטית</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">V %s</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_capacity">מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">"ש'"</string>
     <string name="power_center_list_item_close_bluetooth">כיבוי Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">הגדרות מתקדמות</string>
@@ -2999,6 +3030,7 @@ Record sequences and use them anytime!"</string>
     <string name="pref_normal_traffic_limit">כאשר תכנית הנתונים מנוצלת עד לתומה</string>
     <string name="pref_open_adjust_traffic">עדכן את השימוש בנתונים בכל יום על פי סטטיסטיקות מספק הרשת שלך</string>
     <string name="pref_operator_not_set">ספק הרשת אינו מוגדר</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">כאשר הינך חורג מתכנית הנתונים שלך</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_pkg_begin_date">תאריך איפוס שימוש</string>
@@ -3248,6 +3280,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_using_record">הקלטת שמע</string>
     <string name="privacyapp_number_masked_text">תוכן ההתראות מוסתר</string>
     <string name="privacyapp_number_unmasked_text">ניתן להסתיר את תוכן ההתראות</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="process_vpnsdkmanager_label">מאיץ המשחקים</string>
     <string name="promotion">פרסומת</string>
@@ -3323,6 +3356,7 @@ Record sequences and use them anytime!"</string>
     <string name="result_sms_title_antispam">מאויים עלי ידי מסרוני קישורים זדוניים</string>
     <string name="result_sms_title_auth">קיים סיכון זליגת מסרונים פיננסיים</string>
     <string name="result_wifi_header">התגלו סיכוני רשת אלחוטית</string>
+    <string name="resume">שחזר</string>
     <string name="right_precent">100%</string>
     <string name="risk_app_install_agree_button">בטח ביישום זה</string>
     <string name="risk_app_install_agree_checkbox">אני מעוניין לקחת את הסיכונים האפשריים.</string>
@@ -4340,7 +4374,7 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_3d">צליל היקפי</string>
     <string name="vb_video_effects_3d_summary">שיפור עומק השמעת הצליל עבור אוזניות ורמקולים</string>
     <string name="vb_video_effects_3d_summary_headset">העצמת התחושה הסוחפת והעוטפת בעת האזנה לשמע באוזניות.</string>
-    <string name="vb_video_effects_3d_surround">צליל היקפי</string>
+    <string name="vb_video_effects_3d_surround">צליל מקיף וירטואלי</string>
     <string name="vb_video_effects_display_style">סגנון</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">דיאלוג משופר</string>
@@ -4368,7 +4402,7 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_settings_stereo">עוצמת שמע</string>
     <string name="vb_video_effects_some_headphone">נתמך על-ידי דגמי אוזניות נבחרים</string>
     <string name="vb_video_effects_spatial">ניטור תנועות ראש</string>
-    <string name="vb_video_effects_spatial_summary">"התאמת צליל היקפי על-פי תנועות הראש
+    <string name="vb_video_effects_spatial_summary">"התאמת צליל מקיף על-פי תנועות הראש
 *נתמכת רק בדגמי אוזניות לגיימינג"</string>
     <string name="vb_video_effects_srs_premium_sound">צליל</string>
     <string name="vb_video_super_division">שדרג</string>

@@ -10,6 +10,7 @@
     <string name="add_private_files">הוסף קבצים</string>
     <string name="add_remote">הוסף התקן מרוחק</string>
     <string name="agree_all">קראתי, והסכמתי לכל התנאים וההגבלות הבאים.</string>
+    <string name="agree_privacy_policy">יש להסכים למדיניות הפרטיות</string>
     <string name="all">הכל</string>
     <string name="already_latest_version">הגרסה הנוכחית עדכנית.</string>
     <string name="anonymous">אנונימי</string>
@@ -161,6 +162,7 @@
     <string name="favorite_screen_cap">צילומי מסך</string>
     <string name="feedback_desc">תאר את הבעיה בה נתקלת</string>
     <string name="feedback_send_email_body_extra_info">אל תמחק את המידע שלהלן. זה יעזור לנו לאתר את הבעיה.</string>
+    <string name="feeling_ok">ניטרלי/ת</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">ניתן לקריאה:</string>
     <string name="file_info_canwrite">ניתן לכתיבה:</string>
@@ -186,6 +188,7 @@
     <string name="ftp_username_hint">שם משתמש</string>
     <string name="gbk_summary">קידוד ברירת מחדל של Windows עבור סינית מפושטת</string>
     <string name="gigabyteShort">GB</string>
+    <string name="great">מרוצה מאוד</string>
     <string name="grid_order">תצוגת רשת</string>
     <string name="homepage_tab_recent">לאחרונה</string>
     <string name="host">מארח</string>
@@ -261,6 +264,7 @@
     <string name="not_connect_user">אין אפשרות להתחבר: %1$s ל- %2$s</string>
     <string name="not_installed_documentsui">DocumentsUI לא מותקן</string>
     <string name="not_support_documentui">DocumentUI אינו נתמך במכשיר זה</string>
+    <string name="not_very_dissatisfied">לא מרוצה</string>
     <string name="notif_server_starting">מפעיל שרת FTP…</string>
     <string name="notif_title">שרת FTP פעיל</string>
     <string name="notification_wechat_expired_empty">WeChat כבר מחק סרטונים אלו.</string>
@@ -334,7 +338,7 @@
     <string name="port">יציאה</string>
     <string name="port_range">מספר היציאה חייבת להיות בתחום של 1024-65535</string>
     <string name="possible_permissions">הרשאות אופציונליות</string>
-    <string name="privacy_accept">הסכם&amp; להמשך</string>
+    <string name="privacy_accept">מסכים והמשך</string>
     <string name="privacy_cancel"><u>לא מסכים</u></string>
     <string name="privacy_desc">ברוך הבא אל מנהל הקבצים! מעבר למאפיינים הבסיסיים, היישום הזה מציע גם את השירותים הבאים:</string>
     <string name="privacy_experience_statement">הצטרף לתכנית חוויית המשתמש שלנו כדי לשתף אתנו את נתוני המשתמש, במטרה לעזור לנו לשפר את המוצרים והשירותים שלנו.</string>
@@ -379,6 +383,7 @@
     <string name="rlv_pull_to_refresh">משוך מטה לרענון</string>
     <string name="rlv_refreshing">מרענן...</string>
     <string name="rlv_release_to_refresh">שחרר לרענון</string>
+    <string name="satisfied">מרוצה</string>
     <string name="save_seven_day">נקה פעם בשבוע</string>
     <string name="scan_code_download_from_play">סרוק קוד QR זה על מנת להוריד מחנות Play</string>
     <string name="search_description">חפש בכל הקבצים במכשיר</string>
@@ -432,7 +437,9 @@
     <string name="storage_usb">אחסון USB</string>
     <string name="storage_warning">לא ניתן להשתמש באחסון החיצוני</string>
     <string name="str_clean">ניקוי</string>
-    <string name="tab_common_app">יישומים &amp; תיקיות</string>
+    <string name="switch_to_grid_mode">מעבר לתצוגת רשת</string>
+    <string name="switch_to_list_mode">מעבר לתצוגת רשימה</string>
+    <string name="tab_common_app">אפליקציות ותיקיות</string>
     <string name="tab_more">עוד</string>
     <string name="terabyteShort">TB</string>
     <string name="terms_conditions">תנאים והתניות</string>
@@ -463,9 +470,10 @@
     <string name="user_experience_title">תכנית חוויית המשתמש</string>
     <string name="user_not_login">היכנס תחילה</string>
     <string name="user_notice_privacy_policy">מדיניות הפרטיות</string>
-    <string name="user_notice_term_of_service">הסכם המשתמש</string>
+    <string name="user_notice_term_of_service">הסכם משתמש</string>
     <string name="utf8_summary">קידוד ברירת מחדל של מערכת FTP</string>
     <string name="version_name">גירסה</string>
+    <string name="very_dissatisfied">מאוד לא מרוצה</string>
     <string name="view_by_document">צפה ביישום \"קבצים\"</string>
     <string name="wechat_video">וידאו ב-%s</string>
     <string name="whatsapp_cache_garbage">מטמון</string>

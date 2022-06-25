@@ -638,6 +638,7 @@
     <string name="edit_smile">חיוך</string>
     <string name="edit_solid">מתאר</string>
     <string name="emoticon">חבילת מדבקות</string>
+    <string name="empty" />
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
     <string name="error_fail_to_start_audio_capture">לא ניתן היה להתחיל את הקלטת השמע</string>
@@ -845,6 +846,9 @@
     <string name="live_sticker_updating">מעדכן…</string>
     <string name="live_workspace_title">טיוטות</string>
     <string name="live_workspace_title_edit">בחר פריטים למחיקה</string>
+    <string name="live_workspace_title_pause">עצור</string>
+    <string name="live_workspace_title_play">נגן</string>
+    <string name="live_workspace_title_pre_edit">בחר פריטים למחיקה</string>
     <string name="location_access_allow">מסכים</string>
     <string name="location_fromkeyguard_not_permission">המצלמה אינה מורשית לגשת למיקום שלך כעת. יש לפתוח את המכשיר תחילה.</string>
     <string name="location_permission_des">זכור מיקום עבור תמונות וסרטונים</string>
@@ -1040,6 +1044,10 @@
     <string name="module_name_multi_camera">רב-מצלמה</string>
     <string name="module_name_new_slow_motion">הילוך איטי</string>
     <string name="module_name_panorama">פנורמי</string>
+    <string name="module_name_pixel_108m">108MP</string>
+    <string name="module_name_pixel_48m">48MP</string>
+    <string name="module_name_pixel_50m">50MP</string>
+    <string name="module_name_pixel_64m">64MP</string>
     <string name="module_name_portrait">דיוקן</string>
     <string name="module_name_professional">מקצועי</string>
     <string name="module_name_scanner">סורק</string>
@@ -1176,6 +1184,7 @@
     <string name="popup_tips_near_range_mode">מיקוד מקרוב</string>
     <string name="popup_tips_privacy_watermark_edit">ערוך סימן מים</string>
     <string name="portait_effect_entry_blackwhite">שחור ולבן</string>
+    <string name="portait_effect_entry_cold_white">אור כוכבים</string>
     <string name="portait_effect_entry_cool">מנטה</string>
     <string name="portait_effect_entry_dusk">חשכה</string>
     <string name="portait_effect_entry_fairytale">ילדות</string>
@@ -1193,6 +1202,7 @@
     <string name="portait_effect_entry_riddle">ממתק</string>
     <string name="portait_effect_entry_romance">רומנטי</string>
     <string name="portait_effect_entry_sepia">חום כהה</string>
+    <string name="portait_effect_entry_shallots">קרן שמש</string>
     <string name="portait_effect_entry_story">סיפור</string>
     <string name="portait_effect_entry_tea">תה</string>
     <string name="portrait_bokeh_first_tips">"השתמש במצב דיוקן כדי לטשטש
@@ -1229,7 +1239,7 @@
     <string name="pref_audio_focus_title">מיקוד שמע</string>
     <string name="pref_auto_boot">הפעלה אוטומטית</string>
     <string name="pref_auto_boot_summary">תוכל לשפר את התגובתיות של המצלמה ע\"י כך שתאפשר לה להפעיל את עצמה אוטומטית. ניתן לנהל את הרשאות ההפעלה האוטומטית בפרטי האפליקציה.</string>
-    <string name="pref_burst_shoot_title">פרץ תמונות</string>
+    <string name="pref_burst_shoot_title">צילום מתפרץ</string>
     <string name="pref_camcorder_settings">וידאו</string>
     <string name="pref_camcorder_settings_category">הגדרות המצלמה</string>
     <string name="pref_camera_ai_scene_title">מצלמת בינה מלאכותית</string>
@@ -1255,6 +1265,7 @@
     <string name="pref_camera_auxiliary_close">כבוי</string>
     <string name="pref_camera_auxiliary_exposure_feedback">אימות חשיפה</string>
     <string name="pref_camera_auxiliary_focus_peak">סימון אזור מיקוד</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
@@ -1384,8 +1395,8 @@
     <string name="pref_camera_portrait_mode_entry_off">"מצב 'דיוקן' כבוי"</string>
     <string name="pref_camera_portrait_mode_entry_on">"מצב 'דיוקן' מופעל"</string>
     <string name="pref_camera_portrait_mode_title">מצב דיוקן</string>
-    <string name="pref_camera_predictive_shutter_description">עקוב אחר התנועה כדי למזער את הטשטוש בתמונות של ילדים, חיות מחמד ונושאי צילום פעילים אחרים</string>
-    <string name="pref_camera_predictive_shutter_title">מעקב תנועה</string>
+    <string name="pref_camera_predictive_shutter_description">ניטור תנועה כדי למזער טשטוש בתמונות של ילדים, חיות מחמד ונושאי צילום פעילים אחרים</string>
+    <string name="pref_camera_predictive_shutter_title">ניטור תנועה</string>
     <string name="pref_camera_proximity_lock_summary">נעל מחוות מגע בעת נשיאה בתוך כיס</string>
     <string name="pref_camera_proximity_lock_title">מצב כיס</string>
     <string name="pref_camera_quick_settings">הגדרות מהירות</string>
@@ -1447,10 +1458,12 @@
     <string name="pref_camera_tip_id_card">סורק תעודת זהות</string>
     <string name="pref_camera_touchafaec_entry_off">כבוי</string>
     <string name="pref_camera_touchafaec_entry_on">מופעל</string>
-    <string name="pref_camera_track_focus_intro_description">When you take photos or shoot videos with moving subjects, this feature detects people, cats, and dogs, and keeps them in focus automatically. Additionally, you can also double tap any subject to track movement.</string>
-    <string name="pref_camera_track_focus_intro_goto">Turn on</string>
+    <string name="pref_camera_track_eye_preferred_description">מעקב אחר תנועות העיניים כדי להשאיר את העיניים במיקוד כשאדם אחד נמצא בתמונה</string>
+    <string name="pref_camera_track_eye_preferred_title">מיקוד עם ניטור עיניים</string>
+    <string name="pref_camera_track_focus_intro_description">בצילום תמונות או הקלטת סרטונים עם נושאים שזזים, מאפיין זה מזהה אנשים, חתולים וכלבים ומתמקד בהם באופן אוטומטי. כמו כן, ניתן להקיש פעמיים על כל נושא כדי לעקוב אחר התנועה שלו.</string>
+    <string name="pref_camera_track_focus_intro_goto">הפעל</string>
     <string name="pref_camera_track_focus_preferred_description">השאר אנשים, חתולים וכלבים שזזים במיקוד באופן אוטומטי, או הקש על כל דבר פעמיים כדי לעקוב אחריו</string>
-    <string name="pref_camera_track_focus_preferred_title">מעקב מיקוד</string>
+    <string name="pref_camera_track_focus_preferred_title">מיקוד עם ניטור תנועה</string>
     <string name="pref_camera_ubifocus_title">מיקוד מחדש</string>
     <string name="pref_camera_ultra_wide_ldc_description">תקן עיוותים באובייקטים באופן אוטומטי</string>
     <string name="pref_camera_ultra_wide_ldc_title">תקן הפרעות בתמונה במצב זווית רחבה מאוד</string>
@@ -1466,6 +1479,7 @@
     <string name="pref_camera_video_tag_description">הקש על \"תייג\" בזמן צילום וידאו כדי שתוכל לחזור לרגעים שסומנו בניגון הווידאו</string>
     <string name="pref_camera_volumekey_function_entry_shutter">תריס</string>
     <string name="pref_camera_volumekey_function_entry_timer">צילום בספירה לאחור</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Timer (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">עוצמה</string>
     <string name="pref_camera_volumekey_function_entry_zoom">זום</string>
     <string name="pref_camera_volumekey_function_title">פונקציות לחצני עוצמת שמע</string>
@@ -1519,6 +1533,7 @@
     <string name="pref_hdr10_hdr10plus_video_mode_description">הקלט סרטוני וידאו ברזולוציה גבוהה ב-HDR10+/HDR10 כדי למטב צבעים וטווח דינמי. ניתן לנגן את הסרטונים המוקלטים רק במכשירים תואמי HDR10+/HDR10.</string>
     <string name="pref_hdr10_video_mode_description">מיטוב אוטומטי של צבעים וניגודיות לסרטוני 4K ו-8K. ניתן לנגן סרטונים ממוטבים רק במכשירים תואמים ל-HDR10.</string>
     <string name="pref_hdr10plus_video_mode_description">מטב צבעים והתאם ניגודיות לסרטוני 4K ו-8K. תכונה זו פועלת רק במכשירים תואמי HDR10+.</string>
+    <string name="pref_hybrid_video_mode_description">השתמש בטכנולוגיית HLG לשיפור הצבעים והטווח הדינמי בסרטוני וידאו שהוקלטו ברזולוציה גבוהה</string>
     <string name="pref_i_n_r_b">הפחתת רעש חכמה</string>
     <string name="pref_k_h">אוזניות בתוך האוזן Live (IEM)</string>
     <string name="pref_k_s_i">נטר הקלטות שמע באמצעות אוזניות חוטיות, כאשר הן מחוברות למכשיר</string>

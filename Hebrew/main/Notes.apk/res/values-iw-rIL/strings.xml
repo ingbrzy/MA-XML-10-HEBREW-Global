@@ -475,6 +475,7 @@
     <string name="note_sort_way">מיון</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">יישום הפתקים הוא יישום מערכת. לא תוכל להשתמש ביישום זה אחרי הסרתו.</string>
     <string name="notes_description_title">להסיר את יישום הפתקים?</string>
     <string name="notification_content_add_todo_from_other_app">הוספת משימה חדשה. הקש כדי לצפות בה.</string>
@@ -857,6 +858,7 @@
     <string name="view_all_notes">הצג הכול</string>
     <string name="warn_cannot_add_new_bullet">לא ניתן להוסיף רשימת נקודות חדשה משום שהפתק ארוך מידי</string>
     <string name="warn_cannot_add_new_checkbox">לא ניתן להוסיף תיבת סימון חדשה משום שהפתק ארוך מידי</string>
+    <string name="warn_cannot_add_new_content">לא ניתן להוסיף תוכן חדש מכיוון שהפתק ארוך מדי</string>
     <string name="warn_cannot_add_new_doodle">לא ניתן להוסיף שרבוט חדש משום שהפתק ארוך מידי</string>
     <string name="warn_cannot_add_new_element">לא ניתן לצרף פריט חדש משום שהפתק ארוך מידי</string>
     <string name="warn_cannot_add_new_link_card">לא ניתן להוסיף קישור חדש משום שהפתק ארוך מידי</string>
@@ -883,6 +885,8 @@
     <string name="widget_size_item_big">גדול</string>
     <string name="widget_size_item_medium">בינוני</string>
     <string name="widget_size_item_small">קטן</string>
+    <string name="widget_size_item_super_big">גדול במיוחד</string>
+    <string name="widget_size_not_support">"מכשיר זה אינו תומך בווידג'טים גדולים במיוחד"</string>
     <string name="widget_take_notes_title">פתקים</string>
     <string name="yesterday">אתמול</string>
 </resources>

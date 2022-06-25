@@ -2,6 +2,7 @@
 <resources>
     <string name="about_device_info">הצג את פרטי המכשיר</string>
     <string name="accept">אפשר</string>
+    <string name="access_denied_info">יותר מדיי ניסיונות כניסה. חכה דקה או שתיים ונסה שוב.</string>
     <string name="access_token_expired_warning">פג תוקף חשבון Weibo</string>
     <string name="access_token_invalid_warning">חשבון Weibo לא חוקי</string>
     <string name="account">חשבון</string>
@@ -68,6 +69,8 @@
     <string name="agreement_and_privacy">תנאי השימוש</string>
     <string name="am">AM</string>
     <string name="app_name">חשבון Mi</string>
+    <string name="area_code_no_search_result">לא ניתן היה למצוא תוצאות</string>
+    <string name="area_code_search_hint">חיפוש מדינה או אזור</string>
     <string name="auth_fail_warning">פג תוקף נסיון הכניסה, היכנס שוב מאוחר יותר</string>
     <string name="authorize_title">הרשאה</string>
     <string name="bind_facebook">חבר את חשבון ה-Facebook שלך</string>
@@ -359,7 +362,10 @@ ID:%s
     <string name="multi_user_not_show_sync_activity_title">אל תפעיל את הסנכרון עם Cloud</string>
     <string name="my_device_title">מכשיר נוכחי</string>
     <string name="need_install_wechat">התקן את WeChat תחילה</string>
+    <string name="network_error_info">אירעה שגיאת רשת. בדוק את הגדרות הרשת ונסה שוב.</string>
+    <string name="network_timeout_info">לא ניתן היה להתחבר לרשת. נסה שוב.</string>
     <string name="night">ערב</string>
+    <string name="no_account_or_forget_password">ברצונך לייצר חשבון או ששכחת את הסיסמה?</string>
     <string name="no_install">לא הותקן</string>
     <string name="no_network_btn">רענן</string>
     <string name="no_network_title">לא ניתן להתחבר לרשת.</string>
@@ -593,7 +599,9 @@ ID:%s
     <string name="passport_talkback_voice_captcha">השמע קוד אימות קולי</string>
     <string name="passport_ticket_login_select_sim_card">בחר כרטיס סים</string>
     <string name="passport_ticket_login_select_sim_card_1">סים 1</string>
+    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_2">סים 2</string>
+    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">ביטול</string>
     <string name="passport_title_reg">צור חשבון</string>
     <string name="passport_trust_device">הוסף מכשיר זה לרשימת המכשירים המאומתים</string>
@@ -650,6 +658,7 @@ ID:%s
     <string name="privacy_policy_reject_confirm_title">לא ניתן להשתמש בחשבון Mi</string>
     <string name="privacy_policy_update_msg">מדיניות הפרטיות של חשבון Mi עודכנה:&lt;br/>%1$s&lt;br/>עליך לקרוא את הגרסה החדשה של &lt;a href=%2$s>&lt;u>מדיניות הפרטיות&lt;/u>&lt;/a> ולהסכים איתה כדי להמשיך.</string>
     <string name="privacy_policy_update_title">מדיניות הפרטיות המעודכנת</string>
+    <string name="progressbar_title">בודק שגיאות אבטחה…</string>
     <string name="provision_back">הקודם</string>
     <string name="provision_next">הבא</string>
     <string name="provision_skip_underline">דלג</string>
@@ -727,6 +736,7 @@ ID:%s
     <string name="system_ad_summary">"הפעל תכונה זו על מנת לאפשר צפיה של מספר מוגבל של פרסומות על גבי יישומי מערכת. פרסומות אלו עוזרות לנו לפתח ולשפר את המוצרים והשירותים שלנו. תוכל לבחור לכבות תכונה זו בכל זמן. תודה על תמיכתך! "</string>
     <string name="system_ad_switch">פרסומות ביישומי מערכת</string>
     <string name="system_ad_switch_failed">לא ניתן להחיל את ההגדרה</string>
+    <string name="system_error_info">המערכת עסוקה כעת. חכה דקה או שתיים ונסה שוב.</string>
     <string name="talkback_scan_barcode">סריקת קוד QR</string>
     <string name="temporary_not_available">תכונה זו עדיין לא זמינה.</string>
     <string name="the_anniversary_of_lifting_martial_law">יום השנה לביטול החוק הצבאי</string>
@@ -791,6 +801,7 @@ ID:%s
     <string name="two_factor_auth_need_code_summary">תוכל לראות קוד במכשירי Mi מחוברים. הזן קוד זה על המכשיר החדש בכדי להיכנס.</string>
     <string name="two_factor_auth_summary">כאשר אתה מנסה להיכנס באמצעות התקן חדש או במיקום חדש, תקבל הודעה על כך בהתקנים אחרים המחוברים. יהיה עליך לאשר אם נסיונות כניסה אלו אושרו על-ידך.</string>
     <string name="unbind_sns_description">לאחר ניתוק חשבון זה, לא תוכל להשתמש בפרטי חשבון ה- %s שלך על מנת להיכנס לחשבון Mi שלך.</string>
+    <string name="unknown_error_info">שגיאה לא ידועה</string>
     <string name="unlock_help_notice">"עזרה:
 1. במידה ושכחת את סיסמתך, עבור אל id.mi.com על מנת לאפס אותה.
 2. אם אינך יכול לאפס את סיסמתך או שמישהו נעל את מכשירך, עבור אל i.mi.com על מנת לבטל את נעילת מכשירך.

@@ -154,7 +154,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="snapdragon_sound_notification_content">מכשיר זה תומך בטכנולוגיית השמע Qualcomm® Snapdragon Sound™</string>
+    <string name="snapdragon_sound_notification_content">מכשיר זה תומך בטכנולוגיית Snapdragon Sound™.</string>
     <string name="snapdragon_sound_notification_title">Bluetooth</string>
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
