@@ -6,7 +6,7 @@
     <string name="app_name">מקליט המסך</string>
     <string name="app_notification_channel_record_complete">התראות על הקלטות שהושלמו</string>
     <string name="app_notification_info">"'מקליט המסך' פועל ברקע"</string>
-    <string name="app_notification_record_complete">"הקלטת המסך נשמרה בגלריה
+    <string name="app_notification_record_saved">"ההקלטה נשמרה בהצלחה
 נא להקיש לצפייה"</string>
     <string name="app_notification_title">מקליט המסך</string>
     <string name="auto_stop_title">הסרטון נשמר בהצלחה</string>
@@ -230,9 +230,9 @@
     <string name="show_screen_touch">הצג מחוות נגיעה</string>
     <string name="show_screen_touch_summary">הצג מחוות באמצעות נקודה לבנה</string>
     <string name="size_byte">בייט</string>
-    <string name="size_gigabyte">"ג'יגה"</string>
-    <string name="size_kilobyte">קילובייט</string>
-    <string name="size_megabyte">מגהבייט</string>
+    <string name="size_gigabyte">GB</string>
+    <string name="size_kilobyte">KB</string>
+    <string name="size_megabyte">MB</string>
     <string name="sound_source">מקור השמע</string>
     <string name="sound_source_summary">צלילי מערכת או מיקרופון</string>
     <string name="sound_source_summary_without_system_sounds">השתמש במיקרופון או השתק את השמע</string>

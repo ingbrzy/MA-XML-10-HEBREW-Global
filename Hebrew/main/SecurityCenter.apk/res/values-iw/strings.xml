@@ -27,7 +27,6 @@
     <string name="abc_shareactionprovider_share_with">שיתוף עם</string>
     <string name="abc_shareactionprovider_share_with_application">שיתוף עם %s</string>
     <string name="abc_toolbar_collapse_description">כיווץ</string>
-    <string name="common_google_play_services_unknown_issue">‏%1$s נתקלה בבעיה בשירותי Google Play. נסה שוב.</string>
     <string name="copy">העתקה</string>
     <string name="exo_controls_cc_disabled_description">הפעלת כתוביות</string>
     <string name="exo_controls_cc_enabled_description">השבתת כתוביות</string>
@@ -61,7 +60,9 @@
     <string name="exo_download_notification_channel_name">הורדות</string>
     <string name="exo_download_removing">מסיר הורדות</string>
     <string name="exo_item_list">%1$s‏, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f מגה סיביות לשנייה</string>
     <string name="exo_track_mono">מונו</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">חלופי</string>
     <string name="exo_track_role_closed_captions">כתוביות</string>
     <string name="exo_track_role_commentary">פרשנות</string>

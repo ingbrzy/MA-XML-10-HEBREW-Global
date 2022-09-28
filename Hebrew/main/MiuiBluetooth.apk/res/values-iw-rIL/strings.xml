@@ -428,7 +428,9 @@
     <string name="hdcp_checking_dialog_title">הגדרת התנהגות בדיקת HDCP</string>
     <string name="hdcp_checking_title">בדיקת HDCP</string>
     <string name="headset_battery_fw_failed">קודם טען את מכשירך</string>
+    <string name="headset_battery_low">רמת הסוללה נמוכה. עליך לטעון את האוזניות כעת.</string>
     <string name="headset_connect_device">חבר מכשיר</string>
+    <string name="headset_connect_timeout">פג תוקף ההתחברות. יש להתחיל מחדש.</string>
     <string name="headset_device_check_failed">לא ניתן היה לבדוק זמינות עדכונים</string>
     <string name="headset_device_donot_move">החזק את המכשיר בסביבה הקרובה</string>
     <string name="headset_device_enter_upgrade_failed">לא ניתן היה להתחיל את העדכון</string>
@@ -454,6 +456,7 @@
     <string name="headset_loss_notify_summary">נראה שלפחות אחת האוזניות שלך לא נמצאת במארז הטעינה. הסתכל סביב!</string>
     <string name="headset_loss_notify_summary1">נראה שהאוזניות שלך אינן נמצאות במארז. יש להחזיר אותן למארז כדי לאפשר טעינה.</string>
     <string name="headset_loss_notify_title">חסרה התראת אוזניות</string>
+    <string name="headset_not_in_case">יש להכניס את שתי האוזניות למארז ולהתחיל מחדש.</string>
     <string name="headset_read_fw_state">לא ניתן היה לקבל את פרטי העדכון</string>
     <string name="headset_update_failed">לא ניתן היה לעדכן</string>
     <string name="headset_update_ok">בוצע</string>

@@ -5,7 +5,7 @@
     <string name="accessibility_battery_level_charging">הסוללה בטעינה, %d אחוז.</string>
     <string name="actionbar_button_up_description">הקודם</string>
     <string name="add_custom_image">תמונה בהתאמה אישית</string>
-    <string name="add_from_album">הוסף מהגלריה</string>
+    <string name="add_from_local">בחר תמונה</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="align_center_horizontally">אופקי ומיושר למרכז</string>
     <string name="align_center_vertically">בערימה ומיושר למרכז</string>

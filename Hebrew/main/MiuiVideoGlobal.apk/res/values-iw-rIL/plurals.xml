@@ -148,6 +148,18 @@
         <item quantity="two">היום צפית במשך %d דקות</item>
         <item quantity="many">היום צפית במשך %d דקות</item>
     </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">שותף בהצלחה. הרווחת %d נקודות.</item>
+        <item quantity="one">שותף בהצלחה. הרווחת נקודה אחת (%d).</item>
+        <item quantity="two">שותף בהצלחה. הרווחת %d נקודות.</item>
+        <item quantity="many">שותף בהצלחה. הרווחת %d נקודות.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">נרשם בהצלחה. הרווחת %d נקודות.</item>
+        <item quantity="one">נרשם בהצלחה. הרווחת נקודה אחת (%d)</item>
+        <item quantity="two">נרשם בהצלחה. הרווחת %d נקודות.</item>
+        <item quantity="many">נרשם בהצלחה. הרווחת %d נקודות.</item>
+    </plurals>
     <plurals name="incentive_task_watchvideo_begin">
         <item quantity="other">צבור %d נקודות!</item>
         <item quantity="one">צבור נקודה אחת (%d)!</item>

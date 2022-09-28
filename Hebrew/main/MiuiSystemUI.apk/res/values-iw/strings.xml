@@ -968,6 +968,7 @@
     <string name="keyguard_missing_sim_instructions_long">‏כרטיס ה-SIM חסר או שלא ניתן לקרוא אותו. יש להכניס כרטיס SIM.</string>
     <string name="keyguard_missing_sim_message">‏אין כרטיס SIM בטלפון.</string>
     <string name="keyguard_missing_sim_message_short">‏אין כרטיס SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">הרשת נעולה</string>
     <string name="keyguard_password_enter_password_code">יש להזין סיסמה לביטול הנעילה</string>
     <string name="keyguard_password_enter_pin_code">יש להזין את קוד האימות</string>
@@ -1182,12 +1183,14 @@
 
 למידע נוסף, יש לפנות למנהל המערכת."</string>
     <string name="monitoring_description_ca_cert_settings">פתיחה של פרטי הכניסה המהימנים</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">במכשיר זה מותקנת רשות אישורים. ניתן לעקוב אחר התנועה ברשת המאובטחת או לשנות אותה.</string>
     <string name="monitoring_description_do_body">מנהל המערכת יכול לנטר ולנהל הגדרות, גישה ארגונית, אפליקציות, נתונים המשויכים למכשיר ומידע על מיקום המכשיר.</string>
     <string name="monitoring_description_do_body_vpn">התחברת לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
     <string name="monitoring_description_do_header_generic">המכשיר שלך מנוהל על ידי %1$s.</string>
     <string name="monitoring_description_do_header_with_name">ארגון %1$s משתמש באפליקציה %2$s כדי לנהל את המכשיר שלך.</string>
     <string name="monitoring_description_do_learn_more">למידע נוסף</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">הארגון שלך התקין רשות אישורים בפרופיל העבודה. ניתן לעקוב אחר התנועה ברשת המאובטחת או לשנות אותה.</string>
     <string name="monitoring_description_managed_profile_named_vpn">פרופיל העבודה שלך מחובר לאפליקציה %1$s, שיכולה לעקוב אחר הפעילות שלך ברשת, כולל הודעות אימייל, אפליקציות ואתרים.</string>
     <string name="monitoring_description_managed_profile_network_logging">מנהל המערכת הפעיל את תכונת רישום התנועה ברשת, שמנטרת את תנועת הנתונים בפרופיל העבודה, אבל לא בפרופיל האישי.</string>
@@ -1221,6 +1224,7 @@
 
 בנוסף, התבצע חיבור ל-VPN, שגם באמצעותו ניתן לעקוב אחרי הפעילות שלך ברשת."</string>
     <string name="monitoring_description_vpn_settings">‏להגדרות ה-VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"ל-%1$s תהיה אפשרות לגשת לנתונים המשויכים למכשיר הזה, לנהל אפליקציות ולשנות את הגדרות המכשיר.
 
 אם יש לך שאלות, ניתן ליצור קשר עם %2$s."</string>
@@ -1262,6 +1266,7 @@
     <string name="mtrl_picker_a11y_next_month">מעבר לחודש הבא</string>
     <string name="mtrl_picker_a11y_prev_month">מעבר לחודש הקודם</string>
     <string name="mtrl_picker_announce_current_selection">הבחירה הנוכחית: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">יש לבחור תאריך</string>
     <string name="mtrl_picker_date_header_unselected">התאריך הנבחר</string>
@@ -1488,6 +1493,7 @@
     <string name="private_dns_mode_provider">‏שם מארח של ספק DNS פרטי</string>
     <string name="private_dns_mode_provider_failure">לא ניתן היה להתחבר</string>
     <string name="private_dns_mode_provider_hostname_hint">‏צריך להזין את שם המארח של ספק DNS</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">יש בעיה בחיבור. עליך לכבות את המכשיר ולהפעיל אותו מחדש</string>
     <string name="profile_info_settings_title">פרטי פרופיל</string>
     <string name="profile_owned_footer">ייתכן שהפרופיל נתון למעקב</string>

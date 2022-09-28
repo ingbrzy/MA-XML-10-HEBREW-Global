@@ -8,6 +8,7 @@
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
+    <string name="cast_image_des">מדריך שידור</string>
     <string name="casting_tips">משדר…</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="close">סגירה</string>
@@ -36,7 +37,7 @@
     <string name="dialog_connect_verify_perssion_fail">לא ניתן לאשר את השידור במכשיר הטלוויזיה שלך. המתן דקה או שתיים ונסה שוב.</string>
     <string name="dialog_connected">התחבר</string>
     <string name="dialog_connecting">מתחבר…</string>
-    <string name="dialog_location_permission_message">יישום זה זקוק לגישה למיקום שלך כדי שהוא יוכל לאתר מסכים חיצוניים בסביבה הקרובה. בזמן מתן הרשאה זו יש לבחור באפשרות \"אשר תמיד\" כדי למנוע שגיאות אפשריות.</string>
+    <string name="dialog_location_permission_message">יישום זה זקוק לגישה למיקום שלך כדי שהוא יוכל לאתר מסכים חיצוניים בסביבה הקרובה. יש לבחור באפשרות \"לאפשר תמיד\" במתן הרשאה זו כדי למנוע שגיאות אפשריות.</string>
     <string name="dialog_location_permission_title">נדרשת הרשאה</string>
     <string name="dialog_miplay_permission_message">אפשר למקרין להקליט שמע, לגשת לקבצים באחסון הפנימי ולגשת למיקום שלך כדי שתוכל להשתמש בתכונה זו באופן רגיל. הקש על \"הגדרות\" ובחר \"הרשאות אפליקציה\" כדי להמשיך.</string>
     <string name="dialog_miplay_permission_positive">הגדרות</string>
@@ -60,7 +61,7 @@
     <string name="dialog_scanning_device">מחפש מכשירים בסביבה הקרובה…</string>
     <string name="dialog_scanning_precondition">"הפעל אינטרנט אלחוטי ובלוטות' בטלפון שלך כדי להשתמש בשידור מסך אלחוטי."</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
-    <string name="dialog_scanning_precondition_new_global">הפעל Wi-Fi, Bluetooth ושירותי מיקום כדי שתוכל להשתמש בשידור. להפעיל עכשיו?</string>
+    <string name="dialog_scanning_precondition_new_global">הפעל Wi-Fi ושירותי מיקום כדי שתוכל להשתמש בשידור. להפעיל עכשיו?</string>
     <string name="dialog_select_tv">בחר מכשיר (%1$d)</string>
     <string name="dialog_show_help">עזרה</string>
     <string name="disconnect">הפסק את השידור</string>
@@ -134,6 +135,7 @@
     <string name="global_privacy_main">הצגת הפריטים שמופיעים על מסך הטלפון שלך על צג חיצוני גדול יותר.</string>
     <string name="global_privacy_negative">לא מסכים</string>
     <string name="global_privacy_positive">מסכים</string>
+    <string name="global_privacy_screencast">בזמן ההקלטה או השידור, השירות המספק תכונה זו יכול לתפוס כל מידע רגיש שמוצג על המסך שלך או מושמע מהמכשיר שלך, כולל מידע רגיש כגון שמע, סיסמאות, פרטי תשלום, תמונות והודעות.</string>
     <string name="global_privacy_tip">&lt;Data>עלינו לאסוף את הנתונים האישיים הנדרשים כדי לספק לך את השירותים הבסיסיים ולמטב את תהליך השידור. ניתן למצוא מידע נוסף לגבי אופן הטיפול שלנו במידע שאנו אוספים &lt;a href=%1$s>במדיניות הפרטיות&lt;/a> שלנו. באפשרותך למשוך את הסכמתך למדיניות הפרטיות בכל עת, תחת ההגדרות.&lt;/Data></string>
     <string name="hang_up">שדר כשהמסך כבוי</string>
     <string name="hang_up_alert_dialog_content">המשך לשדר את המסך כשמסך המכשיר כבוי. מאפיין זה מפחית את צריכת האנרגיה. לחץ על כפתור ההפעלה כדי להפעיל את המסך שוב.</string>
@@ -335,6 +337,8 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="privacy_permission_nfc_desc">לצימוד מכשירים באמצעות NFC</string>
     <string name="privacy_permission_optional">הרשאות אופציונליות</string>
     <string name="privacy_permission_optional_desc">משמשות למאפיינים נוספים בזמן השימוש בהם</string>
+    <string name="privacy_permission_screencast">גישה למידע על המסך</string>
+    <string name="privacy_permission_screencast_desc">בזמן ההקלטה או השידור, השירות המספק תכונה זו יכול לתפוס כל מידע רגיש שמוצג על המסך שלך או מושמע מהמכשיר שלך, כולל מידע רגיש כגון שמע, סיסמאות, פרטי תשלום, תמונות והודעות</string>
     <string name="privacy_permission_wlan">הפעלה וכיבוי WI-FI</string>
     <string name="privacy_permission_wlan_china">Turning WLAN on and off</string>
     <string name="privacy_permission_wlan_desc">איתור מכשירים זמינים בסביבה</string>

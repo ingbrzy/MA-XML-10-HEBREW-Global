@@ -306,6 +306,12 @@
         <item quantity="two">"קרוספייד (הצלבה) בין שירים: %d שנ'"</item>
         <item quantity="many">"קרוספייד (הצלבה) בין שירים: %d שנ'"</item>
     </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">תרוויח/י %1$d מטבעות היום</item>
+        <item quantity="one">תרוויח/י מטבע %1$d היום</item>
+        <item quantity="two">תרוויח/י %1$d מטבעות היום</item>
+        <item quantity="many">תרוויח/י %1$d מטבעות היום</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">סרטונים</item>
         <item quantity="one">סרטון</item>

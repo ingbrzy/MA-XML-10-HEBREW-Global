@@ -152,6 +152,7 @@
     <string name="callrecordview_menu_show_missed">שיחות שלא נענו</string>
     <string name="callrecordview_menu_show_sim">%s שיחות</string>
     <string name="callrecordview_menu_show_stranger">שיחות ממספר לא מזוהה</string>
+    <string name="callrecordview_menu_xiaoaiphone">עוזר שיחות Mi AI</string>
     <string name="cancel">ביטול</string>
     <string name="cancel_confirmation_dialog_message">לבטל את השינויים שלך?</string>
     <string name="cancel_confirmation_dialog_title">חזרה</string>
@@ -475,6 +476,7 @@
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">שם</string>
     <string name="gallery">גלריה</string>
     <string name="ghostData_company">חברה</string>
@@ -608,6 +610,7 @@
     <string name="menu_sync_remove">הסר קבוצת סנכרון</string>
     <string name="midnight">לילה</string>
     <string name="miprofile_account_type">כרטיסי איש קשר</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ערוך פרופיל</string>
     <string name="miprofile_name">הפרופיל שלי</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -763,6 +766,7 @@
     <string name="permission_retry_dialog_msg_pad">כדי שניתן יהיה להשתמש בכרטיס ה-SIM שלך באפליקציה זו ולנהל את אנשי הקשר שלך, יש לאפשר לאפליקציה זו לגשת ולערוך את אנשי הקשר שלך, כמו גם לגשת למידע על המכשיר.</string>
     <string name="permission_retry_setting">הגדרות</string>
     <string name="phoneLabelsGroup">טלפון</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
     <string name="phone_primary">עיקרי</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות על גבי המכשיר.</string>
@@ -831,6 +835,9 @@
     <string name="preference_smart_group_title">קבוצות חכמות</string>
     <string name="preference_tone_title">צלילים</string>
     <string name="preference_yellowpage_function_setting">הגדרות דפי זהב</string>
+    <string name="presentation_payphone">טלפון ציבורי</string>
+    <string name="presentation_private">מספר פרטי</string>
+    <string name="presentation_unknown">מספר לא ידוע</string>
     <string name="previous">הקודם</string>
     <string name="privacy_password_message1">הסיסמה להגנת הפרטיות מתאימה עבור תמונות, פתקים ותיקיות מוסתרות.</string>
     <string name="privacy_password_message2">השתמש בסיסמה להגנת הפרטיות. היא מתאימה עבור תמונות, פתקים, ותיקיות מוסתרות.</string>
@@ -907,7 +914,7 @@
     <string name="remove_duplicate">"MIUI יעזור לך לאתר ולמזג כפילויות של אנשי קשר.
 
  להתחלה, הקש על לחצן המיזוג בתחתית המסך שלך."</string>
-    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE</string>
+    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE;android.permission.POST_NOTIFICATIONS</string>
     <string name="restore_app_btn_cancel">ביטול</string>
     <string name="restore_app_btn_restore">אישור</string>
     <string name="restore_app_description_content">הוסף קיצור דרך למסך הבית כדי שתוכל לגשת מהר יותר לאנשי הקשר שלך.</string>
@@ -1003,6 +1010,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">אין חברי קבוצה</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">חברות</string>
     <string name="smart_group_company_unavailable">אין פרטי חברה</string>
     <string name="smart_group_frequency_1">בחודש האחרון</string>
@@ -1165,6 +1173,7 @@
     <string name="video_chat">"צ'אט וידאו"</string>
     <string name="viewContactDesription">צפה באיש קשר</string>
     <string name="viewContactTitle">פרטי איש קשר</string>
+    <string name="view_more_call_logs">הצג עוד</string>
     <string name="view_updates_from_group">הצג עדכונים</string>
     <string name="voicemail">תא קולי</string>
     <string name="websiteLabelsGroup">אתר</string>

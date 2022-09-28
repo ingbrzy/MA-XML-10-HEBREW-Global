@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="access_denied_info">יותר מדיי ניסיונות כניסה. חכה דקה או שתיים ונסה שוב.</string>
     <string name="action_collapse">הסתר</string>
     <string name="action_expand">הצג עוד</string>
     <string name="action_folder_description">הצג תיקיות</string>
@@ -105,6 +106,7 @@
     <string name="dlg_hide_message">מסתיר…</string>
     <string name="dlg_info_creating_message">יוצר תמונה…</string>
     <string name="dlg_info_save_to_gallery_message">שומר תמונה לגלריה…</string>
+    <string name="dlg_info_save_to_local_message">שומר…</string>
     <string name="dlg_message_password_reset">הסיסמה עבור פתקים מוסתרים תוחלף בסיסמה להגנת הפרטיות שמתאימה להודעות, תמונות, ותיקיות מוסתרות</string>
     <string name="dlg_message_set_password">הסיסמה להגנת הפרטיות מתאימה להודעות, לתמונות, ולתיקיות מוסתרות</string>
     <string name="dlg_message_use_privacy_password">השתמש בסיסמה להגנת הפרטיות. היא מתאימה עבור הודעות, תמונות ותיקיות מוסתרות.</string>
@@ -441,6 +443,8 @@
     <string name="month_september_shortest">"ספט'"</string>
     <string name="more">עוד</string>
     <string name="morning">בוקר</string>
+    <string name="network_error_info">אירעה שגיאת רשת. בדוק את הגדרות הרשת ונסה שוב.</string>
+    <string name="network_timeout_info">לא ניתן היה להתחבר לרשת. נסה שוב.</string>
     <string name="new_app_name">Mi פתקים</string>
     <string name="new_audio_create_cancel_talkback_des">בוטל</string>
     <string name="new_audio_create_done_talkback_des">נוצר</string>
@@ -470,11 +474,14 @@
     <string name="note_mindnote_entrance_hint_newversion">"התחל להקליד "</string>
     <string name="note_mindnote_entrance_icon_text">צור מפת חשיבה</string>
     <string name="note_mindnote_entrance_icon_text_newversion">צור מפת חשיבה</string>
+    <string name="note_mindnote_not_support_in_phone_model">לא ניתן לערוך מפות חשיבה במכשיר הזה</string>
     <string name="note_module_name">פתקים</string>
     <string name="note_not_text_stub">אין טקסט</string>
     <string name="note_sort_way">מיון</string>
+    <string name="note_write_hint">התחל לכתוב</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">יישום הפתקים הוא יישום מערכת. לא תוכל להשתמש ביישום זה אחרי הסרתו.</string>
     <string name="notes_description_title">להסיר את יישום הפתקים?</string>
     <string name="notification_content_add_todo_from_other_app">הוספת משימה חדשה. הקש כדי לצפות בה.</string>
@@ -536,6 +543,8 @@
     <string name="permission_phone_state_desc">להפסקת הקלטה של הערות קוליות בזמן שיחה</string>
     <string name="permission_read_contact_desc">קישור הפתקים שנוצרו בשיחות לאנשי קשר</string>
     <string name="permission_storage_desc">לשמירת הערות כתמונות</string>
+    <string name="permission_storage_desc_new_v12">להוספת תמונות לפתקים ולשמירת פתקים בתור תמונות</string>
+    <string name="permission_storage_desc_pad_new_v12">להוספת תמונות לפתקים ולשמירת פתקים בתור תמונות</string>
     <string name="permission_storage_desc_pad_v12">כדי להוסיף תמונות לפתקים ולשמור פתקים כתמונות</string>
     <string name="permission_storage_desc_v12">כדי להוסיף תמונות לפתקים ולשמור פתקים כתמונות</string>
     <string name="permission_xiaoai_desc">&lt;Data>Mi AI יאסוף את ההקלטות הקוליות ואת מזהה המכשיר שלך כדי לתמלל אודיו וליצור פתקים קוליים. למידע נוסף עיין &lt;a href=\"%1$s\">במדיניות הפרטיות&lt;/a>.&lt;/Data> של Mi AI</string>
@@ -572,6 +581,7 @@
     <string name="privacy_note_content_empty">עדיין אין כאן פריטים.</string>
     <string name="private_entry_available">שחרר לפתיחת תיקייה פרטית</string>
     <string name="private_entry_default">משוך כלפי מטה לפתיחת תיקייה פרטית</string>
+    <string name="progressbar_title">בודק שגיאות אבטחה…</string>
     <string name="quick_note_link_default_text">כתובת URL</string>
     <string name="quick_note_new_user_guide">הפונקציה של פתקים מהירים מאפשרת ליצור פתקים וקטעים</string>
     <string name="recover_notes_hint">אירעה שגיאה, עבור אל i.mi.com כדי לשחזר את הפתקים.</string>
@@ -620,6 +630,9 @@
     <string name="save_to_gallery_failure_message">לא ניתן היה לשמור</string>
     <string name="save_to_gallery_icon_name">"שמור ב'גלריה'"</string>
     <string name="save_to_gallery_success_message">נשמר/ו בהצלחה</string>
+    <string name="save_to_local_failure_message">לא ניתן היה לשמור</string>
+    <string name="save_to_local_icon_name">שמירה</string>
+    <string name="save_to_local_success_message">נשמר בהצלחה</string>
     <string name="search">פתקים</string>
     <string name="search_hint">חפש פתקים</string>
     <string name="search_keyword_notes">פתקים;תזכורת</string>
@@ -678,6 +691,7 @@
     <string name="sync_note_folder">%1$s ו- %2$s</string>
     <string name="sync_note_todo">%1$s ו-%2$s</string>
     <string name="sync_tips">לחץ על מנת לסנכרן פתקים עם הענן.</string>
+    <string name="system_error_info">המערכת עסוקה כעת. חכה דקה או שתיים ונסה שוב.</string>
     <string name="the_anniversary_of_lifting_martial_law">יום השנה לביטול החוק הצבאי</string>
     <string name="the_anti_aggression_day">יום המאבק באלימות</string>
     <string name="the_arbor_day">יום העץ</string>
@@ -853,6 +867,7 @@
     <string name="tuesday_shortest">"ג'"</string>
     <string name="unclassfied_folder_name">ללא קטגוריה</string>
     <string name="undo">בטל</string>
+    <string name="unknown_error_info">שגיאה לא ידועה</string>
     <string name="unknown_source">מקור לא ידוע</string>
     <string name="view_all_notes">הצג הכול</string>
     <string name="warn_cannot_add_new_bullet">לא ניתן להוסיף רשימת נקודות חדשה משום שהפתק ארוך מידי</string>

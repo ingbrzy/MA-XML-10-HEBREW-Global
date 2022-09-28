@@ -396,6 +396,7 @@ mm"</string>
     <string name="more">עוד</string>
     <string name="morning">בוקר</string>
     <string name="msim_set_sub_not_supported_phone_in_call">לא ניתן להגדיר במהלך שיחה</string>
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
     <string name="notification_control_center">מרכז בקרה והתראות</string>
@@ -508,6 +509,8 @@ mm"</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, MMM d</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, d MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, d MMMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 MMM d"</string>
     <string name="status_bar_date_format_12">"E

@@ -91,10 +91,10 @@
         <item quantity="many">לפני %1$d ימים</item>
     </plurals>
     <plurals name="download_business_v5_edit_mode_title">
-        <item quantity="other">%1$d נבחרה</item>
-        <item quantity="one">%1$d נבחרה</item>
-        <item quantity="two">%1$d נבחרה</item>
-        <item quantity="many">%1$d נבחרה</item>
+        <item quantity="other">%1$d פריטים נבחרו</item>
+        <item quantity="one">פריט %1$d נבחר</item>
+        <item quantity="two">%1$d פריטים נבחרו</item>
+        <item quantity="many">%1$d פריטים נבחרו</item>
     </plurals>
     <plurals name="download_dialog_confirm_delete_downloads_message">
         <item quantity="other">למחוק %d משימות?</item>
@@ -162,11 +162,23 @@
         <item quantity="two">בעוד %d דקות</item>
         <item quantity="many">בעוד %d דקות</item>
     </plurals>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+        <item quantity="two">%d</item>
+        <item quantity="many">%d</item>
+    </plurals>
+    <plurals name="intercept_panel_protection_total">
+        <item quantity="other">הוגן %d פעמים</item>
+        <item quantity="one">הוגן פעם אחת (%d)</item>
+        <item quantity="two">הוגן %d פעמים</item>
+        <item quantity="many">הוגן %d פעמים</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
-        <item quantity="other">הורדת %d פריטים הצליחה</item>
-        <item quantity="one">הורדת %d פריט הצליחה</item>
-        <item quantity="two">הורדת %d פריטים הצליחה</item>
-        <item quantity="many">הורדת %d פריטים הצליחה</item>
+        <item quantity="other">%1$s פריטים הורדו בהצלחה</item>
+        <item quantity="one">פריט %1$s הורד בהצלחה</item>
+        <item quantity="two">%1$s פריטים הורדו בהצלחה</item>
+        <item quantity="many">%1$s פריטים הורדו בהצלחה</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">ממש עכשיו</item>
@@ -222,6 +234,12 @@
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
     </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">הוגן %s פעמים</item>
+        <item quantity="one">הוגן פעם אחת (%s)</item>
+        <item quantity="two">הוגן %s פעמים</item>
+        <item quantity="many">הוגן %s פעמים</item>
+    </plurals>
     <plurals name="players">
         <item quantity="other">%d שחקנים</item>
         <item quantity="one">שחקן אחד (%d)</item>
@@ -233,6 +251,12 @@
         <item quantity="one">נחסמה פרסומת %d</item>
         <item quantity="two">נחסמו %d פרסומות</item>
         <item quantity="many">נחסמו %d פרסומות</item>
+    </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">נמצאו %1$d תוצאות</item>
+        <item quantity="one">נמצאה תוצאה אחת (%1$d)</item>
+        <item quantity="two">נמצאו %1$d תוצאות</item>
+        <item quantity="many">נמצאו %1$d תוצאות</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s בקשות חיפוש</item>
@@ -264,6 +288,12 @@
         <item quantity="two">%d שירים פופולריים</item>
         <item quantity="many">%d שירים פופולריים</item>
     </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d כרטיסיות</item>
+        <item quantity="one">כרטיסיה אחת (%d)</item>
+        <item quantity="two">%d כרטיסיות</item>
+        <item quantity="many">%d כרטיסיות</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d פריטים נבחרו</item>
         <item quantity="one">פריט %1$d נבחר</item>
@@ -275,6 +305,12 @@
         <item quantity="one">לא צפית בסרטון %d מהמועדפים זה זמן רב.</item>
         <item quantity="two">לא צפית ב-%d מהסרטונים המועדפים שלך זה זמן רב.</item>
         <item quantity="many">לא צפית ב-%d מהסרטונים המועדפים שלך זה זמן רב.</item>
+    </plurals>
+    <plurals name="video_views">
+        <item quantity="other">%s צפיות</item>
+        <item quantity="one">צפייה %s</item>
+        <item quantity="two">%s צפיות</item>
+        <item quantity="many">%s צפיות</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">בדוק %1$d סרטוני וידאו חדשים</item>
@@ -299,5 +335,65 @@
         <item quantity="one">אדם אחד (%d) הצביע</item>
         <item quantity="two">%d אנשים הצביעו</item>
         <item quantity="many">%d אנשים הצביעו</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">חסם %d הודעות</item>
+        <item quantity="one">חסם מודעה אחת (%d)</item>
+        <item quantity="two">נחסמו %d הודעות</item>
+        <item quantity="many">חסם %d הודעות</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">ניתנה אפשרות %d פעמים</item>
+        <item quantity="one">ניתנה אפשרות פעם אחת (%d)</item>
+        <item quantity="two">ניתנה אפשרות %d פעמים</item>
+        <item quantity="many">ניתנה אפשרות %d פעמים</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">הוגבל %d פעמים</item>
+        <item quantity="one">הוגבל פעם אחת (%d)</item>
+        <item quantity="two">הוגבל %d פעמים</item>
+        <item quantity="many">הוגבל %d פעמים</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">נעצר %d פעמים</item>
+        <item quantity="one">נעצר פעם אחת (%d)</item>
+        <item quantity="two">נעצר %d פעמים</item>
+        <item quantity="many">נעצר %d פעמים</item>
+    </plurals>
+    <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">נחסמו %s מודעות</item>
+        <item quantity="one">נחסמה מודעה אחת (%s)</item>
+        <item quantity="two">נחסמו %s מודעות</item>
+        <item quantity="many">נחסמו %s מודעות</item>
+    </plurals>
+    <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">ניתנה אפשרות %s פעמים</item>
+        <item quantity="one">ניתנה אפשרות פעם אחת (%s)</item>
+        <item quantity="two">ניתנה אפשרות %s פעמים</item>
+        <item quantity="many">ניתנה אפשרות %s פעמים</item>
+    </plurals>
+    <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">הוגבל %s פעמים</item>
+        <item quantity="one">הוגבל פעם אחת (%s)</item>
+        <item quantity="two">הוגבל %s פעמים</item>
+        <item quantity="many">הוגבל %s פעמים</item>
+    </plurals>
+    <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">נעצר %s פעמים</item>
+        <item quantity="one">נעצר פעם אחת (%s)</item>
+        <item quantity="two">נעצר %s פעמים</item>
+        <item quantity="many">נעצר %s פעמים</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s ימים</item>
+        <item quantity="one">יום אחד (%s)</item>
+        <item quantity="two">%s ימים</item>
+        <item quantity="many">%s ימים</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s פעמים</item>
+        <item quantity="one">פעם אחת (%s)</item>
+        <item quantity="two">%s פעמים</item>
+        <item quantity="many">%s פעמים</item>
     </plurals>
 </resources>

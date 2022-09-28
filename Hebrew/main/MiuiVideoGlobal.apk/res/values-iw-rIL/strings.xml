@@ -95,6 +95,8 @@
     <string name="choose">בחירה</string>
     <string name="choose_to_signin">כן</string>
     <string name="choose_to_signup">לא, אצור חשבון משלי</string>
+    <string name="chromecast_connecting">מתחבר ל-Chromecast…</string>
+    <string name="chromecast_playing">אתה צופה בסרטון הזה באמצעות Chromecast</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="click_to_open_pip">הקש כדי לעבור לתמונה בתוך תמונה</string>
     <string name="click_to_play_video_push_context">הקש כדי לנגן וידוא</string>
@@ -153,6 +155,8 @@
 מומלץ לעדכן את היישום כעת כדי להתרשם ממאפיינים חדשים ומדליקים!
 צוות וידאו Mi"</string>
     <string name="description">תיאור</string>
+    <string name="desktop_widget_local_media">קובצי מדיה</string>
+    <string name="desktop_widget_new">חדש</string>
     <string name="detail_select_source">בחר מקור להשמעה</string>
     <string name="diagnosis_log_send_failed">לא ניתן היה לשלוח את היומנים. נסה שוב.</string>
     <string name="diagnosis_log_sent_format">"היומנים נשלחו בהצלחה.
@@ -409,6 +413,7 @@ ID:%s
     <string name="galleryplus_notification_linkvideo_title4">מאות סרטונים, בחינם לתקופה מוגבלת</string>
     <string name="galleryplus_notification_linkvideo_title5">הזרמת התכניות האהובות עליך בחינם</string>
     <string name="galleryplus_notification_try_now_btn">לנסות עכשיו</string>
+    <string name="galleryplus_notification_type_link_video">מעביר לסרטונים מקומיים</string>
     <string name="galleryplus_online_cta">Mi וידאו צריכה להתחבר לאינטרנט כדי לפעול באופן תקין. מסכים?</string>
     <string name="galleryplus_online_cta_agree">מסכים</string>
     <string name="galleryplus_online_cta_disagree">לא מסכים</string>
@@ -512,8 +517,10 @@ ID:%s
     <string name="incentive_exchange">מימוש</string>
     <string name="incentive_exchange_code">קוד</string>
     <string name="incentive_exchange_code_copy">העתק</string>
+    <string name="incentive_exchange_code_copy_and_start">השתמש</string>
     <string name="incentive_exchange_details">פרטים</string>
     <string name="incentive_exchange_details_current">סך ההזמנה</string>
+    <string name="incentive_exchange_details_dotask">צבור/צברי נקודות</string>
     <string name="incentive_exchange_details_total">יתרה</string>
     <string name="incentive_exchange_empty_tip">עדיין אין כאן כלום. יש לממש נקודות כדי להתחיל.</string>
     <string name="incentive_exchange_expire_tip">נקודות שלא תצבור ייעלמו בחצות</string>
@@ -521,6 +528,7 @@ ID:%s
     <string name="incentive_exchange_successful">מומש בהצלחה</string>
     <string name="incentive_exchange_tip">הנקודות הללו זמינות רק היום</string>
     <string name="incentive_login_for_claim">היכנס לחשבון Google שלך ​​כדי שתוכל לצבור נקודות</string>
+    <string name="incentive_login_success_for_already_claimd">התחברת בהצלחה. מימשת את הנקודות.</string>
     <string name="incentive_login_tip">התחבר/י כדי להרוויח נקודות ולקבל פרסים</string>
     <string name="incentive_my_points">הנקודות שלי</string>
     <string name="incentive_popup_window_share">שיתוף כדי להרוויח נקודות</string>
@@ -536,10 +544,16 @@ ID:%s
     <string name="incentive_task_title_novice">למצטרפים חדשים</string>
     <string name="incentive_task_to_get">התחל</string>
     <string name="incentive_task_to_login">היכנס</string>
+    <string name="incentive_toast_share_success_new">שותף בהצלחה</string>
+    <string name="incentive_toast_subscribe_success_new">ההרשמה הצליחה</string>
+    <string name="incentive_ui_tab_earn_credits">נקודות</string>
     <string name="incentive_view_all_prizes">הצג את כל הפרסים</string>
     <string name="incentive_view_details">פרטים</string>
     <string name="inconsistent_pwd">הסיסמאות אינן תואמות</string>
     <string name="init_channels">שחזר את הגדרות ברירת המחדל</string>
+    <string name="inline_auto_play_tip">"משתמש בגלישה סלולרית… "</string>
+    <string name="inline_auto_play_to_set">הגדרות</string>
+    <string name="inline_mute_click_tip">הקש כדי לבטל את ההשתקה</string>
     <string name="input_email_address_notice">אנו נשתמש בכתובת דוא\"ל זו על מנת לאמת את חשבונך</string>
     <string name="input_new_pwd">הזן סיסמה חדשה</string>
     <string name="input_size_tips_new">ניתן להזין עד %d תווים</string>
@@ -554,6 +568,7 @@ ID:%s
     <string name="item_download_path">מיקום הורדה</string>
     <string name="item_download_path_setting">הגדרות מיקום הורדה</string>
     <string name="item_setting_go_back">ביטול הסכמה</string>
+    <string name="item_title_for_search_page_hot">פופולרי</string>
     <string name="item_title_unknown">כותרת לא ידועה</string>
     <string name="just_a_second">רק רגע…</string>
     <string name="language_later_setting_tips">ניתן לשנות את הגדרות השפה תחת פרופיל > שפה.</string>
@@ -564,8 +579,14 @@ ID:%s
     <string name="later">מאוחר יותר</string>
     <string name="live_now">חי כעת</string>
     <string name="live_title">Live TV</string>
+    <string name="live_tv_dialog_item_passed">תוכנית זו הסתיימה. נסה בפעם הבאה!</string>
+    <string name="live_tv_dialog_subscirbe_button">הירשם</string>
+    <string name="live_tv_dialog_subscirbe_tips">הירשם ל-%1$s כדי שלא תפספס אף פרק</string>
     <string name="live_tv_title">Live TV</string>
+    <string name="live_tv_toast_item_subscirbe">יש לך כבר מינוי לתוכנית הזו</string>
     <string name="loading">רק רגע…</string>
+    <string name="local_adjust_zoom_mode_hint">את/ה צופה ב-%s</string>
+    <string name="local_crop_zoom_mode">התמונה נחתכה</string>
     <string name="local_diversion_all_local_videos">כל הסרטונים במכשיר</string>
     <string name="local_diversion_close_recommend">סגור</string>
     <string name="local_diversion_download_more_video">סרטונים נוספים</string>
@@ -583,6 +604,7 @@ ID:%s
     <string name="local_push_setting_power_tag">התראות על סרטונים מקומיים</string>
     <string name="local_push_title">פופולרי היום</string>
     <string name="local_push_video_title">סרוק אחר סרטונים מקומיים חדשים</string>
+    <string name="local_stretch_zoom_mode">התמונה נמתחה</string>
     <string name="local_video_create_a_new_playlist">רשימת השמעה חדשה</string>
     <string name="local_video_date">תאריך</string>
     <string name="local_video_dialog_default">ברירת מחדל</string>
@@ -603,6 +625,7 @@ ID:%s
     <string name="local_video_size">גודל</string>
     <string name="local_video_space">תפוס: %s</string>
     <string name="local_video_time">משך זמן</string>
+    <string name="local_zoom_adjust_button">החלף מצב תצוגה</string>
     <string name="lock_screen">מסך נעילה</string>
     <string name="login">כניסה</string>
     <string name="login_tip">עליך להתחבר כדי לקבל את התגובות שלנו למשוב שלך.</string>
@@ -630,6 +653,7 @@ ID:%s
     <string name="lp_video_zoom_title">זום</string>
     <string name="lv_advance_sound">שיפור השמע</string>
     <string name="lv_airkan_control_device_des">לשליטה בנגינה, לחץ על שורת השליטה בתחתית.</string>
+    <string name="lv_airkan_device_my_device">המכשיר שלי</string>
     <string name="lv_airkan_device_xiaomi_phone">טלפון Mi שלי</string>
     <string name="lv_airkan_playing">מקרין על גבי %s</string>
     <string name="lv_airkan_tips">לחץ להקרנה</string>
@@ -708,10 +732,10 @@ ID:%s
     <string name="lv_subtitle_no_subtitle">הכתוביות אינן זמינות</string>
     <string name="lv_subtitle_non_subtitle_file">אין קבצי כתוביות זמינים</string>
     <string name="lv_subtitle_offset_add_1s_new">"+%d שנ'"</string>
-    <string name="lv_subtitle_offset_add_dot5s_new">"+%f שנ'"</string>
+    <string name="lv_subtitle_offset_add_dot5s_new">"+%.1f שנ'"</string>
     <string name="lv_subtitle_offset_normal">אל תזיז כתוביות</string>
     <string name="lv_subtitle_offset_sub_1s_new">"-%d שנ'"</string>
-    <string name="lv_subtitle_offset_sub_dot5s_new">"-%f שנ'"</string>
+    <string name="lv_subtitle_offset_sub_dot5s_new">"-%.1f שנ'"</string>
     <string name="lv_subtitle_onlinesub_language">שפה: %s</string>
     <string name="lv_subtitle_onlinesub_loading">טוען כתוביות…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">טוען כתוביות…</string>
@@ -866,10 +890,16 @@ ID:%s
     <string name="notification_recall_desc">Mi Video יכול להודיע ​​לך על סרטונים פופולריים ועל המינויים שלך.</string>
     <string name="notification_recall_title">הפעל התראות</string>
     <string name="notification_tool">ארגז כלים</string>
+    <string name="notification_type_channel_music">ניגון מוזיקה</string>
     <string name="notify_apk_installed">ההורדה הושלמה בהצלחה</string>
     <string name="ok">אישור</string>
     <string name="online_play_hint">לדוגמה: http://www.example.com/video.mp4</string>
+    <string name="online_play_start_loading_tip">רק רגע…</string>
+    <string name="online_play_start_ready_loading_tip_b">"טוען %.2f B/שנ'"</string>
+    <string name="online_play_start_ready_loading_tip_kb">"טוען %.2f KB/שנ'"</string>
+    <string name="online_play_start_ready_loading_tip_mb">"טוען %.2f MB/שנ'"</string>
     <string name="online_play_title">הזן כתובת URL</string>
+    <string name="order_alphabet">"א'-ת'"</string>
     <string name="order_recently_subscribe">מינויים חדשים</string>
     <string name="order_recently_updated">עודכנו לאחרונה</string>
     <string name="out_of_memory_background_playback_is_suspended">הניגון ברקע הושהה כי אין מספיק זיכרון</string>
@@ -1229,6 +1259,7 @@ ID:%s
     <string name="popup_click_for_download_video">הורדת סרטון</string>
     <string name="popup_pip_activate_button">הגדרות</string>
     <string name="popup_pip_not_activated">אפשר קודם ל-Mi Video להשתמש בתמונה בתוך בתמונה.</string>
+    <string name="popup_recommend_text">גלה/י עוד סרטונים שתאהב/י</string>
     <string name="popup_window_home_tip">הורד סרטונים מקוונים</string>
     <string name="privacy_agree_subtitle">הסכמה למדיניות הפרטיות מאפשרת להשתמש בכל המאפיינים של וידאו Mi</string>
     <string name="privacy_agree_title">הסכמה</string>
@@ -1320,6 +1351,15 @@ ID:%s
     <string name="sending">שולח…</string>
     <string name="service_error">שגיאת שרת</string>
     <string name="set_success">שונה בהצלחה</string>
+    <string name="settings_inline_auto_play">תמיד לנגן אוטומטית</string>
+    <string name="settings_inline_auto_play_close">ניגון אוטומטי מושבת</string>
+    <string name="settings_inline_auto_play_tip_close_forever">תמיד כבוי</string>
+    <string name="settings_inline_auto_play_tip_close_month">כבוי לחודש אחד</string>
+    <string name="settings_inline_auto_play_tip_open">מופעל</string>
+    <string name="settings_inline_auto_play_tip_title">תזכורות על שימוש בגלישה סלולרית</string>
+    <string name="settings_inline_auto_play_title">ניגון אוטומטי</string>
+    <string name="settings_inline_auto_play_wify">לנגן אוטומטית רק ב-Wi-Fi</string>
+    <string name="settings_inline_title">ניגון אוטומטי בעמוד הבית</string>
     <string name="settings_manager_hidden_folder">נהל סרטונים נסתרים</string>
     <string name="share">שתף</string>
     <string name="share_fail">לא ניתן לשתף. בדוק את הגדרות הרשת ונסה שוב.</string>
@@ -1340,7 +1380,7 @@ ID:%s
     <string name="small_video_load_more_hint">החלק למעלה כדי לנגן סרטונים נוספים</string>
     <string name="small_video_snack_download_description">יש להוריד את SnackVideo כדי לצפות בסרטונים האחרונים מהיוצרים האהובים עליך.</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
-    <string name="small_video_tab_expose_hint">Tap for more short videos</string>
+    <string name="small_video_tab_expose_hint">הקש לעוד סרטונים קצרים</string>
     <string name="sms_send_success">נשלח בהצלחה</string>
     <string name="sns_access_token_expired_warning">פג תוקף התהליך. היכנס שוב כדי לחבר חשבון זה מחדש.</string>
     <string name="sns_bind_limit">יותר מדי ניסיונות. נסה דרכים אחרות להיכנס.</string>
@@ -1614,6 +1654,12 @@ ID:%s
     <string name="welcome_tip_into_mivideo">להתחיל</string>
     <string name="welcome_tip_skip">לדלג</string>
     <string name="welcome_tip_title">ברוכים הבאים אל וידאו Mi</string>
+    <string name="widget_local_video">סרטונים מקומיים</string>
+    <string name="widget_local_video_click">נא להקיש לצפייה בסרטונים המאוחסנים במכשיר שלך</string>
+    <string name="widget_more_channel">ערוצים נוספים</string>
+    <string name="widget_more_channel_click">נא להקיש לצפייה בערוצי טלוויזיה</string>
+    <string name="widget_trending_click">נא להקיש לצפייה בסרטונים הפופולריים של היום</string>
+    <string name="widget_trending_today">פופולרי היום</string>
     <string name="yesterday">אתמול</string>
     <string name="yt_subscription_notification_setting_title">התראות מינוי</string>
     <string name="ytb_account">חשבונות</string>

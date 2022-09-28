@@ -662,6 +662,7 @@ ApatX–Adaptive: מצב קודק"</string>
 נראה שכבר עשית את הפעולות שלהלן, הוסף חשבון חשבון Mi שנית; אם לא תעשה זאת לא תוכל לפתוח את הנעילה של מכשירך."</string>
     <string name="bootloader_tips_ok">הבנתי</string>
     <string name="bootloader_tips_warning">אל תתנתק מהרשת, התנתק מחשבון Mi, בצע איפוס להגדרות יצרן או מחק נתוני מערכת.</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">פונקציות של לחצנים נוספים</string>
     <string name="breathing_light_color_menu_title">צבע הנורית</string>
     <string name="breathing_light_color_summary">צבע הנורית כאשר מתקבלות התראות חדשות</string>
@@ -987,6 +988,11 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="dark_color_mode">מצב מוחשך</string>
     <string name="dark_color_summary_lcd">השתמש בערכת נושא כהה עבור יישומים רקע מערכת ויישומים מותאמים. מצב מוחשך עוזר להפחתת המאמץ בעניים כאשר אתה משתמש במכשירך בחושך.</string>
     <string name="dark_color_summary_oled">השתמש בערכת צבעים כהה עבור יישומי מערכת ויישומים תואמים. מצב מוחשך מצמצם את צריכת הסוללה ועוזר להפחתת המאמץ בעיניים.</string>
+    <string name="dark_mode_alert_dialog_cancel">ביטול</string>
+    <string name="dark_mode_alert_dialog_checkbox">אל תציג שוב</string>
+    <string name="dark_mode_alert_dialog_confirm">הפעל</string>
+    <string name="dark_mode_alert_dialog_message">ייתכן שיישום זה לא יוצג כראוי במצב כהה. האם להפעיל מצב כהה בכל זאת?</string>
+    <string name="dark_mode_alert_dialog_title">שים לב</string>
     <string name="dark_mode_apps_header">יישומים בודדים</string>
     <string name="dark_mode_auto_time_summary">הפעל וכבה את מצב כהה בזמנים קבועים מראש</string>
     <string name="dark_mode_auto_time_title">מותאם אישית</string>
@@ -1161,6 +1167,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="dialog_wifi_context">עליך להתחבר לאינטרנט כדי להגדיר את המכשיר שלך. אם אינך מחובר ל-Wi-Fi, ניתן להשתמש בנתונים ניידים. בשימוש בנתונים ניידים ייתכנו חיובי גלישה נוספים מצד הספק. להשתמש בנתונים ניידים בכל מקרה?</string>
     <string name="dialog_wifi_title">שימוש בחיבור נתונים ניידים</string>
     <string name="dialog_yes">כן</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">הערה: לאחר הפעלה מחדש, היישום לא יפעל עד שתפתח את נעילת המכשיר.</string>
     <string name="disable_overlays">השבת שכבת על של HW</string>
     <string name="disable_overlays_summary">השתמש תמיד ב-GPU עבור צלימת שכבות המסך</string>
@@ -1194,6 +1201,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="dndm_auto_button_title">"חזרה על תזמון מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_setting_group">מתוזמן</string>
     <string name="dndm_auto_time_setting">הגדר שעה</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">עד</string>
     <string name="dndm_auto_time_turn_off_title">"כבה אוטומטית את מצב 'נא לא להפריע'"</string>
     <string name="dndm_auto_time_turn_on">1546</string>
@@ -1345,6 +1353,7 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="erase_sure">חובה</string>
     <string name="error_apn_not_allowed">לא ניתן להשתמש ב-APN זה במכשיר זה. נסה APN אחר.</string>
     <string name="error_apn_restrict_string">שדה ה-APN לא יכול להכיל %1$s</string>
+    <string name="error_xcap_not_add">לא ניתן להשתמש ב-XCAP כסוג שם נקודת הגישה.</string>
     <string name="evening">לפנות ערב</string>
     <string name="every_day">כל יום</string>
     <string name="exceptional_case">חריגים</string>
@@ -1694,6 +1703,11 @@ ApatX–Adaptive: מצב קודק"</string>
     <string name="gmscore_settings_title">שירותי גוגל בסיסיים</string>
     <string name="go_to_sleep">כיבוי המסך</string>
     <string name="google_account_title">גוגל</string>
+    <string name="google_assistant_guide_cancel">ביטול</string>
+    <string name="google_assistant_guide_message">ניתן ללחוץ על כפתור ההפעלה במשך %s שניות כדי להתחיל לדבר עם סייען Google. האם להגדיר את הקיצור עכשיו?</string>
+    <string name="google_assistant_guide_ok">הוגדר</string>
+    <string name="google_assistant_guide_tip">*יש ללחוץ על כפתור ההפעלה במשך %s לפתיחת תפריט הכיבוי.</string>
+    <string name="google_assistant_guide_title">סייען Google</string>
     <string name="google_assistant_label">מסייע גוגל</string>
     <string name="google_backup_enable">הפעל את הגיבוי</string>
     <string name="google_backup_section_title">גיבויי Google</string>
@@ -3075,6 +3089,7 @@ Xiaomi Cloud
     <string name="power_remaining_less_than_duration_only">נותרו פחות מ-%1$s</string>
     <string name="power_remaining_more_than_subtext">נותרו פחות מ-%1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">נותרו פחות מ-%1$s</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_settings_title">ביצועי מערכת</string>
     <string name="power_suggestion_battery_run_out">הסוללה עלולה להיגמר עד %1$s</string>
     <string name="power_usage_history">שימוש בסוללה</string>
@@ -3214,6 +3229,7 @@ Xiaomi Cloud
     <string name="private_sms_need_to_unlock">הזן סיסמה</string>
     <string name="private_sms_recording_intro_header">צייר דפוס ביטול נעילה</string>
     <string name="private_sms_reset_by_account">כדי לאפס את הסיסמה, היכנס לחשבון Mi שלך.</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">בעיה בהתחברות. כבה את המכשיר והפעל אותו מחדש</string>
     <string name="profile_info_settings_title">נתוני פרופיל</string>
     <string name="provision_activation">פעיל</string>
@@ -3685,6 +3701,7 @@ Xiaomi Cloud
     <string name="security_encryption_attention_3">תצטרך להגדיר נעילת מסך חדשה.</string>
     <string name="security_encryption_attention_4">הקפד לזכור את נעילת המסך שלך, אחרת יהיה עליך לבצע איפוס מלא את המכשיר ולמחוק את כל הנתונים שבו.</string>
     <string name="security_encryption_attention_info">באפשרותך להצפין חשבונות, הגדרות, יישומים שהורדו ונתונים שלהם, מדיה וקבצים אחרים.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">חשוב</string>
     <string name="security_encryption_close_dialog_info">בחירה שלא להצפין את המכשיר באמצעות נעילת מסך עשויה לגרום לכך ששירותים מסוימים של Google לא יהיו זמינים.</string>
     <string name="security_encryption_close_dialog_title">חזור להצפנת ברירת המחדל של המערכת</string>
@@ -3838,6 +3855,7 @@ Xiaomi Cloud
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">"התראות, לחצני בקרת נגן המוסיקה וקיצורי דרך לא יוצגו ב'מסך הנעילה'."</string>
     <string name="skip_step">דלג</string>
@@ -3978,6 +3996,7 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="status_bar_carrier_settings_no_sim_card">אין כרטיס SIM</string>
     <string name="status_bar_settings">התראות ושורת המצב</string>
     <string name="status_bar_settings_all_app_display_loading">רק רגע…</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">התראות יישומים</string>
     <string name="status_bar_settings_notification_bar">לוח ההתראות</string>
     <string name="status_bar_settings_status_bar">שורת מצב</string>
@@ -4551,6 +4570,7 @@ SMSלשליחת הודעות טקסט לאנשי קשר לשעת חירום
     <string name="visibility_override_title">במסך הנעילה</string>
     <string name="voice_access">בקרות קוליות</string>
     <string name="voice_assist">Mi AI</string>
+    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">דיבור</string>
     <string name="voice_helper_title">אשף הקול</string>
     <string name="voip_assistant_settings">עוזר VoIP</string>

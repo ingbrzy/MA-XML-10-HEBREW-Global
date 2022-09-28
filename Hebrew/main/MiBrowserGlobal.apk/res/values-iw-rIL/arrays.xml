@@ -113,6 +113,19 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
+    <string-array name="pref_web_permissions">
+        <item>הגבל</item>
+        <item>שאל</item>
+        <item>אפשר</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>הגבל</item>
+        <item>שאל</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>הגבל</item>
+        <item>אפשר</item>
+    </string-array>
     <string-array name="setting_swipe_up_target">
         <item>חיפוש</item>
         <item>חדשות</item>

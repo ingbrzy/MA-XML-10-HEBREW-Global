@@ -273,6 +273,7 @@
     <string name="menu_item_sort_by_gmt_offset">מיון לפי זמן</string>
     <string name="menu_item_sort_by_name">מיון לפי שם</string>
     <string name="midnight">לילה</string>
+    <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
@@ -471,6 +472,7 @@
     <string name="shutdown_alarm_enable_summary">השעון מעורר יכבה אם הוא נקבע למשך 10 דקות לפחות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="sleep_analysis">סטטיסטיקות</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
@@ -523,6 +525,7 @@
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">לאפשר ליישום זה להתחבר לאינטרנט על מנת לקבל גישה לכל המאפיינים שלו.</string>
     <string name="system_permission_main_purpose">זמני תצוגה, הגדרת התראות וטיימרים, שימוש בשעון עצר</string>
     <string name="system_permission_purpose">יצירת התראות לימי חול והגדרת רינגטונים אישיים</string>
@@ -693,6 +696,8 @@
     <string name="worldcolock_timezone_gap">%sש</string>
     <string name="worldcolock_timezone_local">זהה לשעה המקומית</string>
     <string name="xiaoai_ringtone_title">רינגטונים של Mi AI</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">השעון הוא יישום מערכת. לא תוכל לבדוק מה השעה, להגדיר שעון מעורר או להשתמש בתכונות אחרות של השעון לאחר הסרת ההתקנה של היישום.</string>
+    <string name="xiaomi_deskclock_uninstall_description_title">להסיר את ההתקנה של השעון?</string>
     <string name="yesterday">אתמול</string>
     <string name="your_sounds">הצלילים שלי</string>
 </resources>

@@ -25,6 +25,8 @@
     <string name="agenda_tomorrow">מחר, %1$s</string>
     <string name="agenda_view">אירועים</string>
     <string name="alarm_label">התעלם</string>
+    <string name="alarm_open_reminder">הפעל תזכורת</string>
+    <string name="alarm_reminder_already">התזכורת מופעלת</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">פג תוקף</string>
     <string name="alert_title">התראות לוח שנה</string>
@@ -60,6 +62,7 @@
     <string name="birthday_term">יום הולדת</string>
     <string name="button_record_menstruation">תעדי</string>
     <string name="calendar_permission_desc">ניהול אירועים</string>
+    <string name="calendar_privacy_policy">מדיניות הפרטיות</string>
     <string name="can_not_create_long_event">שם האירוע ארוך מידי</string>
     <string name="can_not_modify_allday_event">לא ניתן לשנות אירוע של יום שלם</string>
     <string name="can_not_modify_event">לא ניתן לשנות אירוע</string>
@@ -91,10 +94,10 @@
     <string name="countdown_notify_title">ספירה לאחור: %1$s</string>
     <string name="countdown_secondary_tag">ספירה לאחור</string>
     <string name="countdown_today">היום</string>
-    <string name="create_an_account_desc">"'לוח שנה' עובד טוב יותר עם חשבון Mi.
+    <string name="create_an_account_desc">"לוח השנה עובד טוב יותר עם חשבון Xiaomi.
 
-• גש אליו מכל דפדפן.
-•גבה את האירועים שלך באופן מאובטח."</string>
+• ניתן לגשת אליו מכל דפדפן אינטרנט.
+• גבה את האירועים שלך בצורה מאובטחת."</string>
     <string name="create_kundli">צור את Kundli</string>
     <string name="creating_event">האירוע נוצר</string>
     <string name="creating_event_with_guest">שולח הזמנות…</string>
@@ -123,11 +126,13 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">לוח שנה סיני מסורתי</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="date_today">" (היום)"</string>
     <string name="date_view">תאריך</string>
     <string name="day">יום</string>
     <string name="day_view_new_event_hint">ארוע חדש</string>
+    <string name="default_reminder_later_time">מרווח ברירת המחדל עבור \"להזכיר מאוחר יותר\"</string>
     <string name="default_reminder_mode">תזכורות</string>
     <string name="delete_menstruation_record_confirm">האם למחוק את הרשומה?</string>
     <string name="delete_recurring_event_title">למחוק את %s?</string>
@@ -157,8 +162,10 @@
     <string name="edit_event_label">פרטים</string>
     <string name="edit_event_no_reminder_value">אל תזכיר לי</string>
     <string name="edit_event_reminder_3_days_before">ושלחו תזכורת %d ימים לפני</string>
+    <string name="edit_event_reminder_3_days_before_time">שלח תזכורת גם %d ימים לפני</string>
     <string name="edit_event_reminder_summary">ביום האירוע ב- %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d ימים מראש ובאותו היום בשעה %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%1$d ימים לפני ובשעה %1$s ביום שהוגדר</string>
     <string name="edit_event_reminder_text">%1$s ב- %2$s</string>
     <string name="edit_event_reminder_time">זמן התזכורת</string>
     <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s ב- %3$s</string>
@@ -167,6 +174,14 @@
     <string name="edit_event_tab_birthday">יום הולדת</string>
     <string name="edit_event_tab_countdown">ספירה לאחור</string>
     <string name="edit_event_tab_event">אירוע</string>
+    <string name="edit_event_title_create_agenda">צור אירוע</string>
+    <string name="edit_event_title_create_anniversary">צור יום שנה</string>
+    <string name="edit_event_title_create_birthday">צור יום הולדת</string>
+    <string name="edit_event_title_create_countdown">צור ספירה לאחור</string>
+    <string name="edit_event_title_edit_agenda">ערוך אירוע</string>
+    <string name="edit_event_title_edit_anniversary">ערוך יום שנה</string>
+    <string name="edit_event_title_edit_birthday">ערוך יום הולדת</string>
+    <string name="edit_event_title_edit_countdown">ערוך ספירה לאחור</string>
     <string name="edit_event_to_label">עד</string>
     <string name="edit_your_long_holidays">ערוך ימי חופשה או חג</string>
     <string name="ee_dd_short_month">EEE, dd MMM</string>
@@ -334,7 +349,9 @@
     <string name="item_num_selected">%1$d נבחרו</string>
     <string name="language_change_confirmation">שונה בהצלחה. באפשרותך לשנות את השפה בהגדרות לוח השנה.</string>
     <string name="launch_weather_comment">הקש כאן כדי לקבל מידע אודות מזג האוויר</string>
-    <string name="load_more_hint">טען אירועים מ-%1$d</string>
+    <string name="load_more_events">צפייה ב-%d אירועים</string>
+    <string name="load_more_events_default">צפייה באירועי השנה הבאה</string>
+    <string name="load_more_hint">צפייה ב-%1$d אירועים</string>
     <string name="loading">רק רגע…</string>
     <string name="local_calendar_display_name">לוח שנה מקומי</string>
     <string name="local_owner_account_name">נשמר על גבי המכשיר</string>
@@ -486,6 +503,7 @@
     <string name="no_internet_dialog_message">המכשיר שלך צריך להתחבר לרשת כדי שתוכל לבטל את הסכמתך. בדוק את הגדרות הרשת שלך ונסה שוב.</string>
     <string name="no_internet_dialog_title">אירעה שגיאה</string>
     <string name="no_long_holidays">אין ימי חג או חופשה בזמן הקרוב</string>
+    <string name="no_more_events">אין יותר אירועים שניתן להציג</string>
     <string name="no_network">"לא ניתן היה להתחבר לרשת.
 בדוק את הגדרות הרשת ונסה שוב."</string>
     <string name="no_network_btn">נסה שוב</string>
@@ -538,6 +556,7 @@
     <string name="panchang_yog">יוג</string>
     <string name="partner_compatibility">התאמת בן זוג</string>
     <string name="path_calendar_settings">יישומי מערכת/לוח שנה/הגדרות</string>
+    <string name="permission_description">פרטי הרשאות</string>
     <string name="picker_day">היום שנבחר:%1$d החליקי אנכית כדי לבחור.</string>
     <string name="picker_month">החודש שנבחר:%1$d החליקי אנכית כדי לבחור.</string>
     <string name="picker_year">השנה שנבחרה:%1$d החליקי אנכית כדי לבחור.</string>
@@ -550,14 +569,20 @@
     <string name="pref_title_no_remind">ללא תזכורת</string>
     <string name="pref_title_notification_remind">הצג תזכורת כהתראה</string>
     <string name="preferences_additional_cal_default">0</string>
+    <string name="preferences_alarms_category_title">תזכורות שעון מעורר</string>
+    <string name="preferences_alarms_sound">צליל</string>
+    <string name="preferences_alarms_vibrateWhen">רטט</string>
     <string name="preferences_alerts_ringtone_title">צליל</string>
     <string name="preferences_alerts_vibrateWhen_title">רטט</string>
     <string name="preferences_alerts_vibrate_title">רטט וצלצול</string>
+    <string name="preferences_allow_remind">לאפשר תזכורות</string>
     <string name="preferences_default_allday_reminder_title">ברירת מחדל עבור זמני תזכורת בכל היום</string>
     <string name="preferences_default_reminder_dialog">ברירת מחדל עבור זמן לתזכורת</string>
     <string name="preferences_default_reminder_title">ברירת מחדל עבור זמן לתזכורת</string>
     <string name="preferences_home_tz_title">אזור הזמן הביתי</string>
     <string name="preferences_notification_ringtone_title">צליל</string>
+    <string name="preferences_popup_alert_smart_summary_new">אירועים עם חשיבות לזמן הם אירועים עם זמנים מדויקים</string>
+    <string name="preferences_popup_alert_title">תזכורות קופצות</string>
     <string name="preferences_show_indic_date_title">הצג לוח שנה אינדי</string>
     <string name="preferences_title">לוח שנה</string>
     <string name="preferences_use_home_tz_descrip">מציג זמני לוח שנה ואירועים באזור הזמן הביתי שלך במהלך נסיעות</string>
@@ -565,12 +590,18 @@
     <string name="preferences_week_start_day_default">1-</string>
     <string name="preferences_week_start_day_dialog">יום בו מתחיל השבוע</string>
     <string name="preferences_week_start_day_title">יום בו מתחיל השבוע</string>
+    <string name="privacy_and_permissions">פרטיות והרשאות</string>
     <string name="privacy_card_description">עליך להסכים למדיניות הפרטיות שלנו כדי לקבל גישה לכל המאפיינים</string>
     <string name="privacy_policy_dialog_agree">מסכים</string>
     <string name="privacy_policy_dialog_dont_agree">לא מסכים</string>
     <string name="privacy_policy_dialog_message">&lt;Data>ברוך הבא ליישום לוח השנה!&lt;br/>ניתן להשתמש ביישום זה כדי ליצור ולנהל אירועים, להגדיר תזכורות ולקבל מידע נוסף בהתאם למיקומך.&lt;br/>יישום לוח השנה צריך לאסוף את המידע האישי הנדרש כדי לספק לך שירותים בסיסיים. ניתן למצוא פרטים על אופן הטיפול במידע שאנו אוספים &lt;a href=\"%1$s\">במדיניות הפרטיות&lt;/a> שלנו.&lt;br/>עליך לקרוא את &lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ואת &lt;a href=\"%3$s\">מדיניות הפרטיות&lt;/a> שלנו כדי להשתמש ביישום לוח השנה. באפשרותך למשוך את הסכמתך למדיניות הפרטיות של יישום לוח השנה בכל עת, תחת ההגדרות.&lt;br/> אם אינך מסכים למדיניות הפרטיות שלנו, לא תוכל להשתמש בחלק ממאפייני היישום. עם זאת, הפונקציות הבסיסיות של היישום עדיין יהיו נגישות עבורך.&lt;/Data></string>
     <string name="privacy_policy_dialog_title">תנאי השימוש</string>
     <string name="privacy_revoke_switch_text">ביטול הסכמה</string>
+    <string name="pull_refresh_events">צפייה ב-%d אירועים</string>
+    <string name="pull_refresh_events_default">צפייה באירועי השנה שעברה</string>
+    <string name="pull_refresh_progress_load_finish">נטען בהצלחה</string>
+    <string name="pull_refresh_progress_loading">רק רגע…</string>
+    <string name="pull_refresh_progress_release_to_load">יש לשחרר לטעינה</string>
     <string name="pull_to_refresh_hint">משוך לטעינת אירועים מ-%1$d</string>
     <string name="recorded_menstruation">וסת שתועדה</string>
     <string name="refresh">רענון</string>
@@ -627,6 +658,8 @@
     <string name="search_calendar">תאריך;מועדי חמה;ירחי;אלמנך;מזל;לו\"ז;פגישה;תזכורת;חופשה;חג;יום הולדת;2016;2017;ראש השנה הסיני;יום השנה החדשה;יום המופעלים הבינלאומי;פסטיבל אמצע הסתיו</string>
     <string name="search_calendar_edit_event">פגישה;תזכורת;לו\"ז</string>
     <string name="search_calendar_settings">לוח שנה;לו\"ז;תזכורת</string>
+    <string name="search_events">חיפוש אירועים</string>
+    <string name="search_history">היסטוריית חיפוש</string>
     <string name="second_saturday_holiday">כל שבת שניה היא יום חופשי</string>
     <string name="select_date">עבור לתאריך</string>
     <string name="select_menstruation_end_date">בחרי את התאריך האחרון של הווסת</string>
@@ -645,7 +678,9 @@
     <string name="setting_features_title">הגדרות תכונה</string>
     <string name="setting_holiday_display_desc">כרטיסי הברכה ממוקמים מתחת לסדר היום שלך בעמוד הבית</string>
     <string name="setting_holiday_reminder">תזכורת חג</string>
+    <string name="setting_import_events">ייבוא אירועים</string>
     <string name="setting_others">עוד</string>
+    <string name="setting_show_reject_agenda">להציג אירועים שנדחו</string>
     <string name="setting_title_about">אודות</string>
     <string name="setting_title_holiday_display">הצג חגים</string>
     <string name="setting_title_import_todo">ייבא משימות</string>
@@ -706,6 +741,10 @@
     <string name="tab_title_day">יום</string>
     <string name="tab_title_month">חודש</string>
     <string name="tab_title_week">שבוע</string>
+    <string name="tab_view_day">יום</string>
+    <string name="tab_view_month">חודש</string>
+    <string name="tab_view_week">שבוע</string>
+    <string name="tab_view_year">שנה</string>
     <string name="talk_back_read_date">%1$s (%2$s על פי לוח השנה הירחי).</string>
     <string name="talk_back_setting">הגדרות</string>
     <string name="talk_back_tab_switch">מעבר בין תצוגה</string>
@@ -875,7 +914,7 @@
     <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_delete_description">לוח השנה הוא יישום מערכת שמאפשר ליצור ולנהל אירועים. חלק מהמאפיינים שלו עדיין יהיו זמינים עבורך גם לאחר הסרת הקיצור ממסך הבית.</string>
     <string name="xiaomi_calendar_delete_title">להסיר את לוח השנה ממסך הבית?</string>
-    <string name="xiaomi_calendar_display_name">לוח שנה של חשבון Mi</string>
+    <string name="xiaomi_calendar_display_name">לוח שנה של חשבון Xiaomi</string>
     <string name="year">שנה</string>
     <string name="yearly">שנתי (בכל %s)</string>
     <string name="yearly_plain">שנתי</string>

@@ -41,6 +41,7 @@
     <string name="afternoon">אחר הצהריים</string>
     <string name="am">AM</string>
     <string name="auth_fail_warning">פג תוקף התהליך. היכנס שוב.</string>
+    <string name="back">הקודם</string>
     <string name="bind_sign_in_title">הוספת חשבון Mi</string>
     <string name="change_activate_email">שינוי כתובת דוא\"ל</string>
     <string name="change_password">שנה סיסמה</string>
@@ -48,6 +49,7 @@
     <string name="choose_to_signup">לא, אצור חשבון משלי</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="close">סגירה</string>
+    <string name="close_country_code_content_description">מחיקת קידומת המדינה</string>
     <string name="collect_diagnosis_log">אוסף יומנים</string>
     <string name="confirm_activate_email">אומת</string>
     <string name="confirm_bundled_phone_dialog_title">אשר את מספר הטלפון המקושר</string>
@@ -73,6 +75,7 @@ ID:%s
     <string name="error_invalid_bind_address">כתובת הדוא\"ל שהזנת אינה חוקית.</string>
     <string name="evening">לפנות ערב</string>
     <string name="exceed_binded_phone_times_notice">מספר טלפון זה כבר מקושר אל חשבון Mi אחר.</string>
+    <string name="facebook_login_btn_content_description">התחברות עם Facebook</string>
     <string name="failed_dup_secure_phone_number">מספר טלפון זה כבר מקושר לחשבון Mi אחר</string>
     <string name="find_psw">שכחתי את הסיסמה</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -135,7 +138,9 @@ ID:%s
     <string name="get_ph_ticket">קבל קוד</string>
     <string name="get_phone_bind_exceed_limit">ניתן לקשר עד 3 חשבונות Mi למספר טלפון אחד. לא ניתן להוסיף חשבונות חדשים.</string>
     <string name="get_phone_verifycode_exceed_limit">למספר זה נשלחו יותר מדי קודי אימות. המתן 24 שעות ונסה שוב.</string>
+    <string name="google_login_btn_content_description">התחברות עם Google</string>
     <string name="goto_sign_up">צור חשבון</string>
+    <string name="header_help">עזרה</string>
     <string name="i_know">הבנתי</string>
     <string name="identity">זיהוי</string>
     <string name="inconsistent_pwd">הסיסמאות אינן תואמות</string>
@@ -152,6 +157,23 @@ ID:%s
     <string name="login_with_sns">דרכים אחרות להתחבר</string>
     <string name="logout_account">צא</string>
     <string name="midnight">לילה</string>
+    <string name="miui_clock_city_name_local">מקומי</string>
+    <string name="miui_clock_city_name_second">שעון משני</string>
+    <string name="miui_lock_screen_date">EEEE dd.MM</string>
+    <string name="miui_lock_screen_date_12">EEEE dd.MM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+dd.MM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd.MM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd.MM"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+dd.MM"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
+    <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
@@ -321,8 +343,12 @@ ID:%s
     <string name="photoPickerNotFoundText">אין תמונות זמינות.</string>
     <string name="pm">PM</string>
     <string name="progressbar_title">בודק שגיאות אבטחה…</string>
+    <string name="protocal_dialog_cancel">ביטול</string>
+    <string name="protocal_dialog_confirm">מסכים</string>
+    <string name="protocal_dialog_title">שים לב</string>
     <string name="psw_hint">סיסמה</string>
     <string name="psw_sign_in">התחבר באמצעות סיסמה</string>
+    <string name="qq_login_btn_content_description">התחברות עם QQ</string>
     <string name="register_by_local_phone_long_text">צור חשבון</string>
     <string name="register_by_local_phone_short_text">צור חשבון</string>
     <string name="request_agree">אשר</string>
@@ -430,6 +456,7 @@ ID:%s
     <string name="user_agreement_hint_with_mobile">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, וגם את &lt;a href=%3$s>התנאים וההגבלות עבור שירותי האימות של China Mobile והסכמתי אתם&lt;/a>.&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, וגם את &lt;a href=%3$s>התנאים וההגבלות עבור שירותי האימות של eSurfing והסכמתי אתם&lt;/a>.&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, וגם את &lt;a href=%3$s>התנאים וההגבלות עבור שירותי האימות של China Unicom והסכמתי אתם&lt;/a>.&lt;/Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default">"&lt;Data>Read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
     <string name="user_avatar_update_title">החלף תמונת פרופיל</string>
     <string name="user_avatar_uploading">רק רגע…</string>
     <string name="user_id_hint">דוא\"ל/טלפון/מזהה חשבון Mi</string>
@@ -438,5 +465,7 @@ ID:%s
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>
+    <string name="weibo_login_btn_content_description">התחברות עם Weibo</string>
+    <string name="weixin_login_btn_content_description">התחברות עם WeChat</string>
     <string name="yesterday">אתמול</string>
 </resources>
