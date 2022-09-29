@@ -310,9 +310,7 @@ ID:%s
     <string name="download_method">הורדה</string>
     <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
     <string name="download_paused_in_power_save_mode">"ההורדות מופסקות בעת שימוש במצב 'חסכון בסוללה'"</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">מוריד…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">איכות הורדה</string>
     <string name="download_quality_summary">הגדרות נוספות עבור הורדות שירים</string>
     <string name="download_queued">בתור</string>
@@ -999,7 +997,6 @@ ID:%s
     <string name="privacy_authorize_revoking">שולל הרשאה…</string>
     <string name="privacy_desc">מדיניות פרטיות</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=iw_IL</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music צריך לאסוף מידע האישי הדרוש כדי לספק לך שירותי סטרימינג (הזרמה) מקוונים. מידע לגבי האופן בו אנו מטפלים במידע שאנו אוספים מופיע ב&lt;a href=\"%1$s\">מדיניות הפרטיות &lt;/a> שלנו. תוכל לבטל את הסכמתך למדיניות הפרטיות של Mi Music בכל עת בהגדרות.
 קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%1$s\">מדיניות פרטיות&lt;/a> שלנו לפני השימוש ב-Mi Music.
 אם אינך מסכים להשתמש בשירותים האמורים, לא תוכל להשתמש בתכונות מסוימות של יישום זה; עם זאת, התפקוד הבסיסי שלו עדיין יהיה זמין עבורך.&lt;/Data>"</string>
@@ -1340,7 +1337,6 @@ ID:%s
     <string name="user_agreement_hint_with_mobile">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, וגם את &lt;a href=%3$s>התנאים וההגבלות עבור שירותי האימות של China Mobile והסכמתי אתם&lt;/a>.&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, וגם את &lt;a href=%3$s>התנאים וההגבלות עבור שירותי האימות של eSurfing והסכמתי אתם&lt;/a>.&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, וגם את &lt;a href=%3$s>התנאים וההגבלות עבור שירותי האימות של China Unicom והסכמתי אתם&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=iw_IL</string>
     <string name="user_avatar_update_title">החלף תמונת פרופיל</string>
     <string name="user_avatar_uploading">רק רגע…</string>
     <string name="user_experience_program_open">בגלל הגבלות של זכויות יוצרים עליך להירשם לתכנית חווית המשתמש כדי להשמיע שירם שהורדו. ניתן לעשות את זה על-ידי מעבר אל הגדרות > סיסמאות ואבטחה > פרטיות > הירשם לתוכנית חוויית המשתמש.</string>

@@ -299,17 +299,12 @@
     <string name="screen_editor_btn_save">שמור</string>
     <string name="screen_editor_btn_shell_off">הסר את מסגרת המכשיר</string>
     <string name="screen_editor_btn_shell_on">הוסף מסגרת למכשיר</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">למחוק את צילום המסך הזה?</string>
     <string name="screen_editor_delete_dialog_picture_msg">למחוק את התמונה הזו עכשיו?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">בוצע</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">לא ניתן להוסיף מסגרת לתמונה חתוכה</string>
     <string name="screen_editor_shell_net_error">התחבר לרשת להורדת מסגרת מכשיר</string>
     <string name="screen_editor_shell_res_downloading">מוריד מסגרת מחשיר…</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ביטול</string>
     <string name="screen_save_dialog_btn_delete">מחיקת צילום מסך</string>
     <string name="screen_save_dialog_btn_save">"שמור ב'גלריה'"</string>
