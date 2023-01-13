@@ -20,6 +20,7 @@
     <string name="calibrate_failed">כיול הגובה נכשל</string>
     <string name="calibrate_failed_no_location">לא ניתן לבצע כיול</string>
     <string name="calibrate_failed_timeout">לא ניתן להתחבר לשרת</string>
+    <string name="calibrate_new_tip">יש להטות את המכשיר שלך בזווית חדה כדי לגלגל את הכדור סביב העיגול</string>
     <string name="calibrate_rotate_again">נסה שוב</string>
     <string name="calibrate_success">כויל בהצלחה</string>
     <string name="calibrate_tip">הטה את מכשירך וגלגל את הכדור מסביב למעגל</string>
@@ -199,7 +200,7 @@
     <string name="morning">בוקר</string>
     <string name="new_cta_app_purpose">צפייה בהנחיות והגעה בקואורדינטות</string>
     <string name="new_cta_v2_app_purpose">הצגת הכיוונים, הקואורדינטות, הלחץ האטמוספרי והגובה הנוכחי</string>
-    <string name="new_permission_camera_desc">כדי לבצע כיול</string>
+    <string name="new_permission_camera_desc">להצגת תצוגות מקדימות חיות</string>
     <string name="new_permission_location_desc">כדי להציג קואורדינטות</string>
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>

@@ -159,6 +159,7 @@
     <string name="data_enable_summary">אפשר למכשיר זה להשתמש בנתונים סלולריים</string>
     <string name="data_enable_warning">מתן אפשרות להשתמש תמיד בנתונים ניידים עשוי לגרום לכך שהספק שלך יחייב אותך בגין חריגה מהתוכנית שלך. לחבר בכל מקרה?</string>
     <string name="data_enabled">נתונים סלולריים</string>
+    <string name="data_interruption_remind_for_t">נראה שסביבת הרשת שלך אינה מהימנה. לשיפור החיבור יש לאפשר למכשיר שלך להשתמש בגלישה סלולרית בשיחות VoLTE בכרטיס ה-SIM המשני.</string>
     <string name="data_plan">תוכניות נתונים סלולריים</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -188,6 +189,11 @@
     <string name="dial_related_setting_catory">לוח המקשים</string>
     <string name="dialog_cancel">ביטול</string>
     <string name="dialog_network_priority_title">עדיפות רשת</string>
+    <string name="dialog_ota_change_number_fail">לא ניתן לשנות את מספר הטלפון. אם השגיאה הזו תחזור לאחר ניסיון נוסף, פנה לספק הרשת שלך.</string>
+    <string name="dialog_ota_change_number_lgu">להוריד את USIM עכשיו?</string>
+    <string name="dialog_ota_change_number_lgu_roaming">לא ניתן לשנות מספרי טלפון בזמן שהייה בחו\"ל.</string>
+    <string name="dialog_ota_change_number_processing">מוריד USIM…</string>
+    <string name="dialog_ota_change_number_success">מספר הטלפון שונה בהצלחה</string>
     <string name="dialog_report">דו\"ח</string>
     <string name="dialpad_eight">%d</string>
     <string name="dialpad_five">%d</string>
@@ -200,6 +206,11 @@
     <string name="dialpad_two">%d</string>
     <string name="dialpad_zero">%d</string>
     <string name="disable_all_cf">כבה את כל תכונות הפנית השיחות</string>
+    <string name="disable_esim_dialog_summary">"SIM %s יופעל אם תפסיק להשתמש ב-eSIM עכשיו.
+להפסיק להשתמש ב-eSIM בכל זאת?"</string>
+    <string name="disable_esim_dialog_title">מפסיק את השימוש ב-eSIM</string>
+    <string name="disable_esim_error_toast_message">לא ניתן היה להפסיק את השימוש ב-eSIM</string>
+    <string name="disable_esim_progress_activating_message">מפסיק את השימוש ב-eSIMS…</string>
     <string name="disabled_by_admin">בוטל על ידי המנהל</string>
     <string name="do_not_show_again">לא להציג שוב</string>
     <string name="dtmf_tone_entries_long">ארוך</string>
@@ -220,6 +231,12 @@
     <string name="enable_antispam_strange_title">השתק את הצלצול הראשון</string>
     <string name="enable_dual_4g_if_dual_ct">העדפה שרשתות 4G בשני כרטיסי הסים ישתמשו ב-VoLTE עבור כרטיס הסים המשני כאשר מותקנים כרטיסי סים של China Telecom.</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">"VoLTE דורש חיבור 4G עבור שני חריצי ה-SIM. לעבור למצב '4G כפול' כעת?"</string>
+    <string name="enable_esim_dialog_summary">"SIM %s יושבת אם תפעיל את ה-eSIM כעת.
+להפעיל את eSIM בכל זאת?"</string>
+    <string name="enable_esim_dialog_title">מפעיל eSIM</string>
+    <string name="enable_esim_error_toast_message">לא ניתן היה להפעיל את ה-eSIM</string>
+    <string name="enable_esim_progress_activating_message">מפעיל את ה-eSIM…</string>
+    <string name="enable_esim_title">השתמש ב-eSIM</string>
     <string name="enable_proximity_summary">כיבוי המסך באופן אוטומטי בעת הצמדת המכשיר לאוזן במהלך שיחה</string>
     <string name="enable_proximity_title">חיישן קרבה</string>
     <string name="enable_vice_volte_if_dual_ct">הפעל את VoLTE עבור הסים המשני באופן אוטומטי כשמותקנים שני כרטיסי סים של China Telecom.</string>
@@ -227,9 +244,14 @@
     <string name="enhanced_4g_lte_mode_off_failed">לא ניתן היה לכבות את VoLTE.</string>
     <string name="enhanced_4g_lte_mode_on_failed">לא ניתן היה להפעיל את VoLTE.</string>
     <string name="enter_callbarring_password">הזן סיסמה לחסימת שיחות (%d ספרות)</string>
+    <string name="enter_esim_manager_title">ניהול eSIM</string>
     <string name="enter_pin2_text">קוד PIN2</string>
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
+    <string name="esim_inactive_notification_message_global">לא זוהה כרטיס SIM. נא להקיש להפעלת eSIM.</string>
+    <string name="esim_inactive_notification_title_global">כרטיס SIM כפול ורשתות סלולריות</string>
+    <string name="esim_is_activating_notification_message_for_o2">מפעיל תוכנית סלולרית…</string>
+    <string name="esim_setting_title">הגדרות eSIM</string>
     <string name="evening">לפנות ערב</string>
     <string name="fdn_enable_puk2_requested">הסיסמה שגויה, PIN2 נחסם. שנה את PIN2 ונסה שוב.</string>
     <string name="fdn_full">"'מספרי חיוג קבועים' לא עודכן משום שהרשימה מלאה."</string>
@@ -410,6 +432,7 @@
     <string name="miui_network_selection_reset_text">איפוס</string>
     <string name="miui_notification_network_selection_title">SIM: אין שירות</string>
     <string name="miui_notification_network_selection_title_by_sim">SIM %s: אין שירות</string>
+    <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
@@ -531,7 +554,7 @@
     <string name="msim_setting_sim_info_editor_title">ערוך פרטי SIM</string>
     <string name="msim_sim_lock">נעול</string>
     <string name="msim_sim_radio_off">כבוי</string>
-    <string name="msim_switch_data_conn_toast">"החלפת כרטיס SIM. סוג הרשת השתנה. צפה במידע נוסף ב'כרטיסי SIM ורשתות סלולריות' בתפריט ה'הגדרות'."</string>
+    <string name="msim_switch_data_conn_toast">בוצעה החלפה של כרטיסי SIM. סוג הרשת השתנה.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">חריץ SIM 2 תומך ברשתות GSM בלבד. סוג הרשת המועדף של חריץ SIM זה שונה ל-2G בלבד.</string>
     <string name="netcheck_title">אבחון רשת סלולרית</string>
     <string name="network_active">רשתות פעילות</string>
@@ -563,6 +586,7 @@
     <string name="new_pin2_label">קוד PIN2 חדש</string>
     <string name="new_pin_label">קוד PIN חדש</string>
     <string name="night">ערב</string>
+    <string name="no_active_esim_text">eSIM לא פעיל</string>
     <string name="no_checked_network">לא תוכל להתחבר לרשת הסלולרית ולבצע שיחות. לבחור רשת אחרת?</string>
     <string name="noon">צהריים</string>
     <string name="notallow">לא הוענקה</string>
@@ -614,7 +638,6 @@
     <string name="path_preference_dial_pad_touch_tone_title">יישומי מערכת/טלפון/הגדרות מתקדמות/צלילי מגע של לוח המקשים</string>
     <string name="path_preference_telocation_title">יישומי מערכת/טלפון/מיקום</string>
     <string name="path_reject_via_sms">יישומי מערכת/טלפון/הגדרות מתקדמות/תגובות מהירות</string>
-    <string name="path_sip_settings">יישומי מערכת/טלפון/הגדרות מתקדמות/הגדרות SIP</string>
     <string name="path_t9_indexing_method_title">יישומי מערכת/טלפון/הגדרות מתקדמות/קלט חיפוש T9</string>
     <string name="path_telocation_auto_country_code">יישומי מערכת/טלפון/מיקום/הוסף קידומת מדינה</string>
     <string name="path_telocation_contacts_countrycode">יישומי מערכת/טלפון/מיקום/ברירת מחדל של קידומת מדינה</string>
@@ -723,13 +746,44 @@
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
     <string name="search_antispam_setting">רשימת החסומים</string>
     <string name="search_app_name">"טלפון;הקלטת שיחות;הפנית שיחות;הפניה;שיחה ממתינה;רשימת החסומים;קידומת מדינה;קוד אזור;אזור חיוג;קידומות מדינה;קודי אזורים;הקלט שיחות;הקלט שיחה;לוח מקשים;שיחה;שיחות;טלפוניה;VoIP;VoLTE;שיחה שלא נענתה;שיחות שלא נענו;SIP;T9;טלפונית IP;'מספרי חיוג קבועים'"</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
     <string name="select_dds_dialog_title">בחר בנתוני ברירת מחדל עבור SIM נתונים סלולריים</string>
     <string name="select_voice_call_sim">בחר כרטיס SIM</string>
     <string name="send">שליחה</string>
     <string name="sensor_answer_summary">קרב את הטלפון לאוזן שלך כדי לענות לשיחות נכנסות באופן אוטומטי</string>
     <string name="sensor_answer_title">הרם כדי לענות</string>
+    <string name="set_esim_toast_phone_in_call">לא ניתן לבצע את הפעולה הזו במהלך שיחות</string>
     <string name="set_primary_summary">משמש עבור שיחות יוצאות</string>
     <string name="set_primary_title">הגדר כחשבון ראשי</string>
     <string name="set_smsc_address_error">לא ניתן להגדיר מספר</string>
@@ -776,6 +830,13 @@
     <string name="smart_dual_sim_prompt_title">אזהרת שימוש בנתונים (SIM %s)</string>
     <string name="smart_dual_sim_summary">עבור לכרטיס ה-SIM המשני והשתמש אוטומטית בנתונים הסלולריים שלו כאשר הקישוריות הנוכחית גרועה. כאשר הקישוריות משתפרת, חזור לכרטיס ה-SIM המקורי.</string>
     <string name="smart_dual_sim_title">SIM כפול חכם</string>
+    <string name="smart_switch_dual_sim_diag_cancel">ביטול</string>
+    <string name="smart_switch_dual_sim_diag_message">נראה כי ה-SIM הנוכחי שלך המשמש לגלישה סלולרית אינו מספק חיבור יציב לרשת. מעבר אוטומטי בין כרטיסי SIM לצורך גלישת נתונים עשוי לשפר את איכות החיבור. ניתן להפעיל את המאפיין הזה בהגדרות.</string>
+    <string name="smart_switch_dual_sim_diag_ok">הגדרות</string>
+    <string name="smart_switch_dual_sim_diag_title">לתשומת לבך</string>
+    <string name="smart_switch_dual_sim_prompt">התחברות לרשת נתונים סלולרית באמצעות SIM %1$s עשויה לגרום לחיובי גלישה נוספים. ניתן להגדיר מגבלת שימוש בנתונים כדי למנוע חיובים נוספים.</string>
+    <string name="smart_switch_dual_sim_summary">מעבר אוטומטי בין כרטיסי SIM לגלישה סלולרית בהתבסס על איכות החיבור לרשת ומצב המכשיר</string>
+    <string name="smart_switch_dual_sim_title">מעבר בין כרטיסי SIM לגלישה סלולרית</string>
     <string name="sms_messages_title">הודעת טקסט</string>
     <string name="smsc_dialog_message">וודא שהמספר שהזנת הינו נכון. אחרת, לא תוכל לשלוח או לקבל הודעות SMS. צור קשר עם המפעיל הסלולרי שלך על מנת לאשרר את מספר ה SMCC שלך.</string>
     <string name="status_unavailable">לא זמין</string>
@@ -787,6 +848,8 @@
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
+    <string name="switch_cancel_btn_text">ביטול</string>
+    <string name="switch_confirm_btn_text">אישור</string>
     <string name="switch_dds_to_sub_alert">הגדר כרטיס זה כברירת המחדל עבור כרטיס הנתונים שלך.</string>
     <string name="switch_off">כבוי</string>
     <string name="switch_on">מופעל</string>
@@ -966,5 +1029,6 @@
     <string name="wificall_switch_summary">כאשר זה מתאפשר, השתמש ברשת Wi-Fi על מנת לקבל שיחות</string>
     <string name="wificall_switch_title">בצע שיחות באמצעות Wi-Fi</string>
     <string name="wrong_password">הסיסמה שהזנת שגויה</string>
+    <string name="xiaoai_assistant_setting_title">עוזר שיחות Mi AI</string>
     <string name="yesterday">אתמול</string>
 </resources>

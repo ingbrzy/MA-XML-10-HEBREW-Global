@@ -115,16 +115,16 @@
         <item quantity="many">נותרו בערך %d שעות</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">"נותרו בערך %d  דקות"</item>
+        <item quantity="other">נותרו בערך %d דקות</item>
         <item quantity="one">נותרה בערך דקה %d</item>
-        <item quantity="two">"נותרו בערך %d  דקות"</item>
-        <item quantity="many">"נותרו בערך %d  דקות"</item>
+        <item quantity="two">נותרו בערך %d דקות</item>
+        <item quantity="many">נותרו בערך %d דקות</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
-        <item quantity="one">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
-        <item quantity="two">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
-        <item quantity="many">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
+        <item quantity="other">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+        <item quantity="one">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+        <item quantity="two">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+        <item quantity="many">כ-%1$d שעות ו-%2$d דקות נותרו</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%d שעות</item>
@@ -139,10 +139,10 @@
         <item quantity="many">%d דקות</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">"%1$d  שעות ו-%2$d  דקות"</item>
-        <item quantity="one">"%1$d  שעות ו-%2$d  דקות"</item>
-        <item quantity="two">"%1$d  שעות ו-%2$d  דקות"</item>
-        <item quantity="many">"%1$d  שעות ו-%2$d  דקות"</item>
+        <item quantity="other">%1$d שעות ו-%2$d דקות</item>
+        <item quantity="one">%1$d שעות ו-%2$d דקות</item>
+        <item quantity="two">%1$d שעות ו-%2$d דקות</item>
+        <item quantity="many">%1$d שעות ו-%2$d דקות</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
         <item quantity="other">נותרו %d שעות</item>
@@ -157,10 +157,10 @@
         <item quantity="many">נותרו %d דקות</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
-        <item quantity="one">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
-        <item quantity="two">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
-        <item quantity="many">"כ-%1$d  שעות ו-%2$d  דקות נותרו"</item>
+        <item quantity="other">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+        <item quantity="one">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+        <item quantity="two">כ-%1$d שעות ו-%2$d דקות נותרו</item>
+        <item quantity="many">כ-%1$d שעות ו-%2$d דקות נותרו</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">ממש עכשיו</item>

@@ -16,6 +16,8 @@
     <string name="date_picker_lunar">לוח שנה סיני מסורתי</string>
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="default_list_type">מיון לפי תאריך הקבלה</string>
+    <string name="disable_description_content">יישום ההתראות הוא יישום מערכת. לאחר השבתתו לא ניתן יהיה לנהל התראות של יישומים. להשבית בכל זאת?</string>
+    <string name="disable_description_title">להשבית את יישום המערכת?</string>
     <string name="disable_float_notification">הודעות צפות זמינות אינן מאופשרות</string>
     <string name="disable_lockscreen_notification">התראות במסך הנעילה אינן מאופשרות</string>
     <string name="disable_show_badge_notification">התראות תגים אינן מאופשרות</string>

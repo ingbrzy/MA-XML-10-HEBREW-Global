@@ -3,14 +3,14 @@
     <plurals name="abc_slice_duration_days">
         <item quantity="other">לפני %d ימים</item>
         <item quantity="one">לפני יום אחד (%d)</item>
-        <item quantity="two">לפני %d ימים</item>
+        <item quantity="two">לפני יומיים (%d)</item>
         <item quantity="many">לפני %d ימים</item>
     </plurals>
     <plurals name="abc_slice_duration_min">
-        <item quantity="other">לפני %d דק’</item>
-        <item quantity="one">לפני %d דק’</item>
-        <item quantity="two">לפני %d דק’</item>
-        <item quantity="many">לפני %d דק’</item>
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה (%d)</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
     </plurals>
     <plurals name="abc_slice_duration_years">
         <item quantity="other">לפני %d שנים</item>
@@ -23,6 +23,12 @@
         <item quantity="one">נוסף פקד אחד (%s).</item>
         <item quantity="two">נוספו %s פקדים.</item>
         <item quantity="many">נוספו %s פקדים.</item>
+    </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s אפליקציות פעילות</item>
+        <item quantity="one">אפליקציה אחת (%s) פעילה</item>
+        <item quantity="two">%s אפליקציות פעילות</item>
+        <item quantity="many">%s אפליקציות פעילות</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">‏יש להזין קוד אימות של כרטיס SIM. נותרו לך %d ניסיונות נוספים.</item>
@@ -47,30 +53,6 @@
         <item quantity="one">‏קוד ה-PUK של כרטיס ה-SIM שגוי. נותר לך ניסיון %d נוסף לפני שכרטיס ה-SIM יינעל לצמיתות.</item>
         <item quantity="two">‏קוד ה-PUK של כרטיס ה-SIM שגוי. נותרו לך עוד %d ניסיונות לפני שכרטיס ה-SIM יינעל לצמיתות.</item>
         <item quantity="many">‏קוד ה-PUK של כרטיס ה-SIM שגוי. נותרו לך עוד %d ניסיונות לפני שכרטיס ה-SIM יינעל לצמיתות.</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">נעילת המכשיר לא בוטלה במשך %d שעות. יש להזין את הסיסמה.</item>
-        <item quantity="one">נעילת המכשיר לא בוטלה במשך %d שעה. יש להזין את הסיסמה.</item>
-        <item quantity="two">נעילת המכשיר לא בוטלה במשך %d שעות. יש להזין את הסיסמה.</item>
-        <item quantity="many">נעילת המכשיר לא בוטלה במשך %d שעות. יש להזין את הסיסמה.</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">נעילת המכשיר לא בוטלה במשך %d שעות. יש להזין את קו ביטול הנעילה.</item>
-        <item quantity="one">נעילת המכשיר לא בוטלה במשך שעה אחת (%d). יש להזין את קו ביטול הנעילה.</item>
-        <item quantity="two">נעילת המכשיר לא בוטלה במשך %d שעות. יש להזין את קו ביטול הנעילה.</item>
-        <item quantity="many">נעילת המכשיר לא בוטלה במשך %d שעות. יש להזין את קו ביטול הנעילה.</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">נעילת המכשיר לא בוטלה במשך %d שעות. יש להזין את קוד האימות.</item>
-        <item quantity="one">נעילת המכשיר לא בוטלה במשך שעה (%d). יש להזין את קוד האימות.</item>
-        <item quantity="two">נעילת המכשיר לא בוטלה במשך %d שעות. יש להזין את קוד האימות.</item>
-        <item quantity="many">נעילת המכשיר לא בוטלה במשך %d שעות. יש להזין את קוד האימות.</item>
-    </plurals>
-    <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">אפשר יהיה לנסות שוב בעוד %d שניות.</item>
-        <item quantity="one">אפשר יהיה לנסות שוב בעוד שנייה אחת.</item>
-        <item quantity="two">אפשר יהיה לנסות שוב בעוד %d שניות.</item>
-        <item quantity="many">אפשר יהיה לנסות שוב בעוד %d שניות.</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d התראות חדשות</item>
@@ -107,11 +89,5 @@
         <item quantity="one">ניתן ליצור רק משתמש אחד.</item>
         <item quantity="two">ניתן להוסיף עד %d משתמשים.</item>
         <item quantity="many">ניתן להוסיף עד %d משתמשים.</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">‏%1$d מכשירים מחוברים</item>
-        <item quantity="one">מכשיר אחד מחובר</item>
-        <item quantity="two">‏%1$d מכשירים מחוברים</item>
-        <item quantity="many">‏%1$d מכשירים מחוברים</item>
     </plurals>
 </resources>

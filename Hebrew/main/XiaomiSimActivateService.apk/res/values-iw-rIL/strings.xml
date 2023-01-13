@@ -232,6 +232,7 @@
     <string name="saturday_shortest">"ש'"</string>
     <string name="send">שליחה</string>
     <string name="sim_activate_failed">לא ניתן היה להפעיל את השירות</string>
+    <string name="sim_activate_notificat_channel">התראות הפעלה</string>
     <string name="sim_activate_prepare">הפעלת השירות</string>
     <string name="sim_activated_failed_msg">לא ניתן היה להפעיל את השירות. הקש כדי לנסות שוב.</string>
     <string name="sim_unactivated_feature_title">\"%s\" לא הופעל</string>

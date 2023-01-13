@@ -238,6 +238,8 @@ dd MM"</string>
     <string name="select_notification_animation_style">בחר אפקטים מיוחדים</string>
     <string name="select_notification_notify_style">בחר בסוג ההתראה</string>
     <string name="send">שליחה</string>
+    <string name="settings_view_btn_check_off">כיבוי</string>
+    <string name="settings_view_btn_check_on">מופעל</string>
     <string name="share">שתף</string>
     <string name="share_to_community">שתף ב-Xiaomi Community</string>
     <string name="show_battery">הצג את מצב הסוללה</string>

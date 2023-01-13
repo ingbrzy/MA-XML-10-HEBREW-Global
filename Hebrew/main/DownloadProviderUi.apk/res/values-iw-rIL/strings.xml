@@ -36,8 +36,10 @@
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="delete_download">מחק</string>
     <string name="dialog_btn_cancel">ביטול</string>
+    <string name="dialog_btn_force_download">הורדה</string>
     <string name="dialog_btn_ok">אישור</string>
     <string name="dialog_btn_ok_disabled_net">הגדרות רשת</string>
+    <string name="dialog_btn_wait_wifi">להמתין ל-Wi-Fi</string>
     <string name="dialog_clipboard_permission_message">"לאפשר ל'הורדות' לגשת לפריטים בלוח כדי להוסיף באופן אוטומטי כתובות URL מועתקות?"</string>
     <string name="dialog_clipboard_permission_title">נדרשת הרשאה</string>
     <string name="dialog_confirm_delete_checkbox_message">מחק גם קבצים מקומיים</string>
@@ -45,8 +47,11 @@
     <string name="dialog_file_missing_body">לא ניתן היה למצוא את הקובץ, נראה כי הוא נמחק.</string>
     <string name="dialog_file_missing_title">לא ניתן לפתוח את הקובץ</string>
     <string name="dialog_msg_disabled_net">"%1$s אסר על הורדות ברשת הנוכחית. לחץ על 'הגדרות רשת' על מנת לעבור ליישום ה'אבטחה'."</string>
+    <string name="dialog_msg_net_disallowed_by_app">הורדה זו תחל אוטומטית כאשר המכשיר מתחבר ל-Wi-Fi. האם להוריד עכשיו בכל זאת?</string>
+    <string name="dialog_msg_net_slow">נראה שייקח יותר מדי זמן להוריד את הפריט הזה באמצעות הרשת הנוכחית. להוריד בכל זאת?</string>
     <string name="dialog_msg_recommend">לא תוכל להציג מקורות מומלצים לאחר שתכבה תכונה זו. תוכל לבחור ב\"השתמש בחיבור רשת אלחוטית בלבד\" על מנת לחסוך בנתונים סלולריים.</string>
     <string name="dialog_title_disabled_net">גישה לאינטרנט</string>
+    <string name="dialog_title_download">המתן לחיבור רשת אלחוטית</string>
     <string name="dialog_title_recommend">"כבה את 'מקורות מומלצים'"</string>
     <string name="download_complete">ירד</string>
     <string name="download_error">לא ניתן היה להוריד</string>

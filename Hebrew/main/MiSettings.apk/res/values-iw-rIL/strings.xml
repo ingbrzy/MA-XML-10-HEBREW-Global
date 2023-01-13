@@ -38,6 +38,7 @@
     <string name="australian_magpie">Australian magpie</string>
     <string name="authorization_btn_text">התחל</string>
     <string name="authorization_tips">נדרשות הרשאות</string>
+    <string name="avalible_per_day">משך הפעלה</string>
     <string name="baboon_info">The olive baboon lives in groups with developed social ranking depending on the dominance of each individual.</string>
     <string name="back">הקודם</string>
     <string name="bear_info">Bears are the largest land carnivores. They live in cold regions and are known for their keen sense of smell.</string>
@@ -87,6 +88,9 @@
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Capybaras are semiaquatic herbivore rodents who can hold their breath underwater for up to five minutes at a time.</string>
+    <string name="category_limit_notify_title">התראת זמן מסך</string>
+    <string name="category_list_expand">עוד</string>
+    <string name="category_list_packup">הסתר</string>
     <string name="category_other">אחר</string>
     <string name="chacma_baboon">Chacma baboon</string>
     <string name="cheetah">Cheetah</string>
@@ -98,11 +102,14 @@
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="click_to_save">Tap \"Done\" to set a general ringtone.</string>
     <string name="close">סגירה</string>
+    <string name="closed_high_refresh_options">יישומים שלא משתמשים בקצב רענון גבוה</string>
     <string name="color_gamut">סולם צבעים</string>
     <string name="common_brushtail">Brushtail possum</string>
     <string name="common_ostrich">Ostrich</string>
+    <string name="compulsor_tip">מסך הבית</string>
     <string name="contact_description">הקש על קיצורים במסך הבית לביצוע שיחות</string>
     <string name="contact_title">קיצורי דרך לאנשי קשר</string>
+    <string name="continue_time">משך הפעלה</string>
     <string name="contrast_ratio">ניגודיות</string>
     <string name="control_center_title">הגבלת זמן מסך להיום</string>
     <string name="control_center_title_new">בשימוש היום</string>
@@ -113,6 +120,8 @@
     <string name="created_successfully">נוצר בהצלחה</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">הגדר</string>
+    <string name="customize_high_refresh_summary">מאפיין זה תומך בקצב רענון של עד %d הרץ. ניתן לבחור בקצב הרענון המתאים באופן אוטומטי, בהתאם להעדפות המכשיר.</string>
+    <string name="customize_high_refresh_title">יישומים המשתמשים בקצב רענון גבוה</string>
     <string name="customize_radio_btn_summary">העדף את קצב הרענון שנבחר</string>
     <string name="customize_radio_btn_title">מותאם אישית</string>
     <string name="dall_sheep">Dall sheep</string>
@@ -136,6 +145,8 @@
     <string name="desktop_widget_not_support">"נתוני זמן מסך
 אינם מיוצרים עבור השטח השני"</string>
     <string name="desktop_widget_screen_use_time">זמן מסך</string>
+    <string name="device_limit_enable">מופעלת</string>
+    <string name="device_limit_un_enable">כבויה</string>
     <string name="display_description">צלמיות גדולות יותר, אותיות גדולות יותר, פחות עומס חזותי</string>
     <string name="display_title">פריטים גדולים יותר</string>
     <string name="dynamic_ringtone_desc">"We've explored different ecosystems and recreated their distinct sounds. Start exploring the sounds of nature with us!"</string>
@@ -214,7 +225,11 @@
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d עד %d דקות</string>
     <string name="focus_mode_timer_pick_dialog_title">הזן את משך הזמן</string>
     <string name="focus_time_exception_tip">נראה שזמן המערכת השתנה. כבה את מצב המיקוד.</string>
+    <string name="follow_apps_settings">מבוסס על הגדרות היישום</string>
     <string name="follow_sim1">החל הגדרות SIM 1</string>
+    <string name="force_rest">השתמש בהפסקות הפעלה</string>
+    <string name="force_rest_summary">צא להפסקות חובה כאשר משך הפעלות מגיע למגבלה שנקבעה</string>
+    <string name="force_rest_time">משך הפסקה</string>
     <string name="fps_high">גבוה</string>
     <string name="fps_nature_summary">קצב רענון מרבי שומר על תמונה חדה וברורה</string>
     <string name="fps_nature_title">מרבי</string>
@@ -247,6 +262,16 @@
     <string name="green_peafowl">Green peafowl</string>
     <string name="green_warbler_finch">Green warbler-finch</string>
     <string name="grey_headed_flying_fox">Grey-headed flying fox</string>
+    <string name="guard_item_app_summary">הסר התקנה של יישומים מרחוק</string>
+    <string name="guard_item_app_title">ניהול יישומים</string>
+    <string name="guard_item_browser_summary">שלוט בגישה ליישומים ותכנים</string>
+    <string name="guard_item_browser_title">הגבלות</string>
+    <string name="guard_item_call_summary">אפשר לאנשי קשר מסוימים לבצע שיחות</string>
+    <string name="guard_item_call_title">תקשורת</string>
+    <string name="guard_item_eye_protect_summary">ניטור יציבה</string>
+    <string name="guard_item_eye_protect_title">נוחות לעיניים</string>
+    <string name="guard_range_from">מ-</string>
+    <string name="guard_range_to">עד</string>
     <string name="harp_seal">Harp seal</string>
     <string name="harpy_eagle">Harpy eagle</string>
     <string name="has_applied">Applied</string>
@@ -254,11 +279,14 @@
     <string name="helmeted_guineafowl">Guineafowl</string>
     <string name="high_fps_description">קצב רענון מסך גבוה. צריכת חשמל גבוהה יותר.</string>
     <string name="high_fps_tip_footer">שימוש בקצב רענון גבוה יותר הופך את חוויית הצפייה לחלקה יותר אך צורך יותר חשמל.</string>
+    <string name="high_refresh_options_title">יישומים נתמכים</string>
     <string name="hippopotamus">Hippo</string>
+    <string name="holiday_limit">ימי חופש</string>
     <string name="hsv_space_color">טווח צבעים HSV</string>
     <string name="hsv_space_color_hue">גוון</string>
     <string name="hsv_space_color_saturation">רוויה</string>
     <string name="hsv_space_color_value">ערך</string>
+    <string name="in_forbidden_period">השימוש מוגבל כעת</string>
     <string name="intelligent_radio_btn_summary">התאמת קצב הרענון באופן דינמי על סמך תרחישים כדי לאזן בין ביצועים לצריכת החשמל</string>
     <string name="intelligent_radio_btn_title">ברירת מחדל (מומלץ)</string>
     <string name="intelligent_recognition_item_summary">השתמש ברינגטון ייעודי עבור שיחות משירותי משלוח ומוניות. המאפיין הזה יעבור כאשר %s מוגדר כרינגטון ברירת המחדל שלך.</string>
@@ -299,6 +327,7 @@
     <string name="less_than_one">&lt; %d</string>
     <string name="lion">Lion</string>
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
+    <string name="loading_error">לא ניתן היה לטעון פריטים</string>
     <string name="lock_summary">הגן על המידע האישי שלך</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
     <string name="low_flicker_mode">תאורה חלשה</string>
@@ -398,6 +427,8 @@
     <string name="nature_mix_summary">Create a custom mix</string>
     <string name="nazca_booby">Nazca booby</string>
     <string name="network_error">אירעה שגיאת רשת. נסה שוב.</string>
+    <string name="new_customize_high_refresh_title">קצב רענון גבוה</string>
+    <string name="next_day">"(למחרת) "</string>
     <string name="night">ערב</string>
     <string name="nine_banded_armadillo">Armadillo</string>
     <string name="no_matching">לא נמצאה אפליקציה שבאמצעותה ניתן לפתוח קישור זה</string>
@@ -412,6 +443,7 @@
     <string name="notification_sound">צלילי התראה</string>
     <string name="ocelot">Ocelot</string>
     <string name="olive_baboon">Olive baboon</string>
+    <string name="opened_high_refresh_options">יישומים המשתמשים בקצב רענון גבוה</string>
     <string name="orange_winged_amazon">Orange-winged amazon</string>
     <string name="orca">Killer whale</string>
     <string name="ostrich_info">Ostriches are large flightless birds of Africa who lay the largest eggs of any living land animal.</string>
@@ -476,6 +508,7 @@
     <string name="sea_otter">Sea otter</string>
     <string name="seal_info">Seals are marine mammals that can move quickly in deep waters, feeding on fish and shrimps.</string>
     <string name="search_app_name">חפש יישומים</string>
+    <string name="search_app_tips">חיפוש יישומים</string>
     <string name="search_empty">לא נמצאו יישומים</string>
     <string name="send">שליחה</string>
     <string name="service_ringtone_title">רינגטון שירות</string>
@@ -486,6 +519,13 @@
     <string name="silver_pheasant">Silver pheasant</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skywalker_hoolock_gibbon">Skywalker hoolock gibbon</string>
     <string name="small_ground_finch">Small ground finch</string>
     <string name="sms_delivered_sound_title">ההודעה הועברה</string>
@@ -505,6 +545,8 @@
     <string name="steady_on_screen_notification_title">הנח את הטלפון וקח הפסקה</string>
     <string name="steady_on_screen_notification_title_pad">הנח את המכשיר וקח הפסקה</string>
     <string name="steady_on_screen_notify">יידעו אותי על שימוש רציף</string>
+    <string name="steady_on_screen_notify_new">צא להפסקה</string>
+    <string name="steady_on_screen_ntf_msg">כל התכונות יהיו זמינות שוב בעוד %1$s</string>
     <string name="steady_on_screen_setting">הגבלת זמן לשימושים רציפים</string>
     <string name="steady_on_screen_summary">הגבלת זמן לשימושים רציפים</string>
     <string name="stop_app_timer">"כבה את 'זמן מסך'"</string>
@@ -564,6 +606,12 @@
     <string name="thursday">חמישי</string>
     <string name="thursday_short">"ה'"</string>
     <string name="thursday_shortest">"ה'"</string>
+    <string name="time_over_back_home">מסך הבית</string>
+    <string name="time_over_delayed_use">התעלם</string>
+    <string name="time_over_not_delayed_use">הבנתי</string>
+    <string name="time_over_today">"לא נשאר עוד זמן
+להיום"</string>
+    <string name="time_over_today_use">"ההפעלות של היום: "</string>
     <string name="time_picker_dialog_title">הגדרת זמן</string>
     <string name="time_picker_label_hour">"שע'"</string>
     <string name="time_picker_label_minute">"ד'"</string>
@@ -592,6 +640,7 @@
     <string name="tuesday_shortest">"ג'"</string>
     <string name="two_toed_sloths">Two-toed sloth</string>
     <string name="two_toed_sloths_info">Two-toed sloths can easily travel from tree to tree in the canopies of the rainforests.</string>
+    <string name="unavailable_per_day">הפסקות</string>
     <string name="unlock_times_per_day">"ממוצע יומי: "</string>
     <string name="unlock_times_per_hour">"ביטולי נעילות בשעה: "</string>
     <string name="usage_agree">מסכים</string>
@@ -627,8 +676,10 @@
     <string name="usage_device_limit_app_prolong_time3">הוסף 60 דקות</string>
     <string name="usage_device_limit_app_prolong_time4">אל תגביל היום</string>
     <string name="usage_device_limit_app_prolong_time5">להוסיף זמן פעם אחת</string>
+    <string name="usage_device_limit_forbidden_period">השימוש מוגבל בין %1$s ל-%2$s</string>
     <string name="usage_device_limit_notifation_summary_start">תגיע למגבלה שקבעת בעוד %1$s</string>
     <string name="usage_device_limit_notifation_title">זמן שנותר להיום</string>
+    <string name="usage_device_limit_start_forbidden_period">השימוש יוגבל בין %1$s ל-%2$s (נותרו %3$s)</string>
     <string name="usage_device_limit_time_over">הגעת למגבלה היומית שקבעת (%1$s)</string>
     <string name="usage_exit">יציאה</string>
     <string name="usage_focus_focus_premission_main_summary">יישום זה צריך לגשת למידע של החשבון כדי לרשום את סטטיסטיקות השימוש במצב מיקוד.</string>
@@ -660,6 +711,8 @@
     <string name="usage_home_premission_second_summary_double_link_prefix">נגן על המידע האישי שלך בהתאם לחוקים, לתקנות ולנוהלי הפרטיות הרלוונטיים. אם אינך מסכים למתן ההרשאות הנדרשות או לשיתוף והעלאה של המידע האישי שלך, לא תוכל להשתמש באפליקציה. באפשרותך לבטל את הסכמתך תחת \"זמן מסך\" > הגדרות > השבתת \"זמן מסך\".</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>לפני שימוש באפליקציה זו, עליך לקרוא את &lt;a href='%1s'>הסכם המשתמש&lt;/a> ואת &lt;a href='%2s'>מדיניות הפרטיות&lt;/a>שלנו.&lt;/Data>"</string>
     <string name="usage_home_premission_second_summary_new">נגן על המידע האישי שלך בהתאם לחוקים, לתקנות ולנוהלי הפרטיות הרלוונטיים. אם אינך מסכים למתן ההרשאות הנדרשות או לשיתוף והעלאה של המידע האישי שלך, לא תוכל להשתמש באפליקציה. באפשרותך לבטל את הסכמתך תחת \"זמן מסך\" > הגדרות > השבתת \"זמן מסך\". בכל שאלה לגבי פרטיות ניתן לפנות אלינו בכתובת privacy@xiaomi.com.</string>
+    <string name="usage_new_category_limit_summary">הגדר מגבלות שימוש יומיות עבור כל היישומים בקטגוריה זו</string>
+    <string name="usage_new_category_limit_title">הגבל את השימוש עבור קטגוריית היישום</string>
     <string name="usage_new_home_app_limit_summary">הגדר הגבלה יומית של זמן מסך עבור יישום זה</string>
     <string name="usage_new_home_app_limit_title">הגבל זמן מסך</string>
     <string name="usage_new_home_average">"ממוצע "</string>
@@ -882,6 +935,7 @@
     <string name="willow_grouse_info">The willow ptarmigan is herbivorous for most of its life and primarily occupies subalpine and subarctic habitats.</string>
     <string name="wolf">Wolf</string>
     <string name="wombat">Wombat</string>
+    <string name="workday_limit">ימי עבודה</string>
     <string name="yellow_necked_spurfowl">Yellow-necked spurfowl</string>
     <string name="yellow_throated_marten">Yellow-throated marten</string>
     <string name="yesterday">אתמול</string>

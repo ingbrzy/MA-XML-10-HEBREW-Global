@@ -61,6 +61,7 @@
     <string name="birthday_saved">יום ההולדת נשמר</string>
     <string name="birthday_term">יום הולדת</string>
     <string name="button_record_menstruation">תעדי</string>
+    <string name="calendar_account_settings">הגדרות חשבון</string>
     <string name="calendar_permission_desc">ניהול אירועים</string>
     <string name="calendar_privacy_policy">מדיניות הפרטיות</string>
     <string name="can_not_create_long_event">שם האירוע ארוך מידי</string>
@@ -82,6 +83,7 @@
     <string name="change">שנה</string>
     <string name="change_response_title">שינוי תגובה</string>
     <string name="change_zodiac">שנה את המזל מגלגל המזלות</string>
+    <string name="check_new_version">חפש עדכונים</string>
     <string name="choose_your_holidays">בחר ימי חופשה וחגים</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="click_to_share">הקש כדי לשתף</string>
@@ -126,6 +128,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">לוח שנה סיני מסורתי</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="date_today">" (היום)"</string>
     <string name="date_view">תאריך</string>
@@ -140,6 +143,7 @@
     <string name="description_calendar_edit_event">יישומי מערכת/לוח שנה/לו\"ז</string>
     <string name="directory_searching_fmt">מחפש אחר %s…</string>
     <string name="discard_label">ביטול</string>
+    <string name="display_to_calendar">הצג בלוח השנה</string>
     <string name="does_not_repeat">אירוע חד פעמי</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="edit_date_calculate_days_backward_error_hint">לא ניתן לחשב קדימה</string>
@@ -331,6 +335,7 @@
     <string name="horoscope">הורוסקופ</string>
     <string name="horoscope_card_title">ההורוסקופ היומי</string>
     <string name="horoscope_select_activity_label">בחר מזל</string>
+    <string name="hour_1">שעה אחת (%d)</string>
     <string name="image_processing">התמונה עדיין לא מכונה</string>
     <string name="import_action">ייבוא</string>
     <string name="import_birthday">ייבא יום הולדת</string>
@@ -395,6 +400,10 @@
     <string name="mesens_card_title_today_begin">ייתכן שהווסת תתחיל היום</string>
     <string name="mesens_card_title_tomorrow_begin">ייתכן שהווסת תתחיל מחר</string>
     <string name="midnight">לילה</string>
+    <string name="minutes_10">%d דקות</string>
+    <string name="minutes_15">%d דקות</string>
+    <string name="minutes_30">%d דקות</string>
+    <string name="minutes_5">%d דקות</string>
     <string name="missing_name">(ללא שם)</string>
     <string name="missing_required_permission">הגבלת הרשאה חיונית.</string>
     <string name="miuix_access_state_desc">נבחר</string>
@@ -654,7 +663,6 @@
     <string name="save">שמור</string>
     <string name="saving_event">האירוע נשמר</string>
     <string name="saving_event_with_guest">שולח עדכונים…</string>
-    <string name="search_calendar">תאריך;מועדי חמה;ירחי;אלמנך;מזל;לו\"ז;פגישה;תזכורת;חופשה;חג;יום הולדת;2016;2017;ראש השנה הסיני;יום השנה החדשה;יום המופעלים הבינלאומי;פסטיבל אמצע הסתיו</string>
     <string name="search_calendar_edit_event">פגישה;תזכורת;לו\"ז</string>
     <string name="search_calendar_settings">לוח שנה;לו\"ז;תזכורת</string>
     <string name="search_events">חיפוש אירועים</string>
@@ -693,6 +701,9 @@
     <string name="share_image_label">שתף באמצעות</string>
     <string name="share_title">שיתוף</string>
     <string name="short_date_format">dd MMM</string>
+    <string name="shortcut_new_event">הוסף אירוע</string>
+    <string name="shortcut_next_agenda">האירוע הבא</string>
+    <string name="shortcut_settings">הגדרות</string>
     <string name="show_day_view">הצג יום</string>
     <string name="show_indic_date_summary">לוח שנה הינדי זמין כאשר השפה ההודית מוגדרת כשפת מערכת במכשיר שלך</string>
     <string name="show_menstruation_info">להציג את נתוני הווסת</string>
@@ -731,6 +742,7 @@
     <string name="subtitle_mi_calendar_predict_menstruation">"תיעוד וחישוב משוער של תאריכי הווסת הבאים באמצעות היישום 'לוח שנה'"</string>
     <string name="subtitle_record_and_start_predict">תעדי את הווסת שלך כדי להעריך מתי הווסת הבאה אמורה להתחיל</string>
     <string name="subtitle_stick_record">תעדי את מועדי קבלת הווסת שלך על מנת לקבל חיזוי מדויק יותר</string>
+    <string name="suggestions_and_feedback">משוב</string>
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>

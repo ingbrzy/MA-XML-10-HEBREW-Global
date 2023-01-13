@@ -127,6 +127,7 @@
     <string name="display_name">הצג שם</string>
     <string name="domain">דומיין</string>
     <string name="download_success">ירד בהצלחה</string>
+    <string name="drag_not_support_with_dir">לא ניתן לגרור ולשלוח תיקיות</string>
     <string name="empty_by_forbid_access">לא ניתן להציג את התוכן של תיקייה זו עקב מגבלות של אנדרואיד.</string>
     <string name="enable_documentsui">הפעל %s בהגדרות > יישומים שהותקנו תחילה</string>
     <string name="enable_sd_card">הכנס כרטיס זכרון או בטל מצב חיבור USB כמתקן אחסון.</string>

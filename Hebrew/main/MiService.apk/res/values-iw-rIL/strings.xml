@@ -76,6 +76,7 @@
     <string name="icon_remove_description_content">\"שירותים ומשוב\" הוא יישום מערכת. אחרי הסרת קיצור הדרך ממסך הבית עדיין תוכל להשתמש בו דרך ההגדרות.</string>
     <string name="icon_remove_description_title">להסיר את \"שירותים ומשוב\" ממסך הבית</string>
     <string name="mi_service_app_name">שירותים ומשוב</string>
+    <string name="mi_service_back">חזרה</string>
     <string name="midnight">לילה</string>
     <string name="miservice_channel_update_notification_info">\"שירותים ומשוב\" מבקש גישה למידע מקוון…</string>
     <string name="miservice_notification_boot_content">למד עוד מה MIUI יכול לעשות</string>
@@ -85,7 +86,7 @@
     <string name="miservice_notification_open_feedback_title">מציג \"שירותים ומשוב\"</string>
     <string name="miservice_notification_scan_content">השתמש בסורק כדי לתרגם מילים וביטויים</string>
     <string name="miservice_notification_scan_title">תרגם במהירות</string>
-    <string name="miui_feedback_answer_detail_community">תוכל למצוא תשובות עבור השאלות ששאלת בקהילת Mi</string>
+    <string name="miui_feedback_answer_detail_community">ניתן למצוא תשובות לשאלות שלך ב-Xiaomi Community</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">כן</string>
     <string name="miui_feedback_answer_detail_feedback_result">תודה לך על המשוב!</string>
     <string name="miui_feedback_answer_detail_feedback_title">האם המידע עזר?</string>
@@ -153,7 +154,6 @@
     <string name="miui_feedback_edit_toast_module_required">בחר פריט</string>
     <string name="miui_feedback_edit_toast_more_desc_required">התיאור אינו זמין יותר</string>
     <string name="miui_feedback_edit_toast_problem_class_required">בחר קטגוריה</string>
-    <string name="miui_feedback_edit_toast_screenshot_too_large">לא ניתן להעלות תמונות או וידאו הגדולים מ-100MB</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">הזן שם יישום</string>
     <string name="miui_feedback_main_answer_title">ישנה תשובה לשאלה זו</string>
     <string name="miui_feedback_main_customer_service_onfo_for_jp">"מוקד שירות: 0120-300-521
@@ -176,23 +176,18 @@
     <string name="miui_feedback_main_title">משוב</string>
     <string name="miui_feedback_main_withdraw">ביטול הסכמה</string>
     <string name="miui_feedback_main_withdraw_consent_hint">המשך מהווה ביטול של הסכמתך למדיניות הפרטיות של %1$s. המידע האישי שכבר נאסף ונשמר, יימחק תוך פרק הזמן הנדרש על-פי החוקים והתקנות הרלוונטיים, אלא אם קיימת דרישה אחרת. מאחר ששירותי %2$s מבוססים על איסוף המידע האישי הנדרש, ביטול הסכמתך ייחשב כסירוב לקבל את השירותים של %3$s. האם לבטל את הסכמתך כעת?</string>
-    <string name="miui_guide_accessibility_image_desc">תמונה</string>
-    <string name="miui_guide_clear_db_service">\"שירותים ומשוב\" מנקה מטמון שפה…</string>
-    <string name="miui_guide_footer_desc">מדריך למתחילים מיועד לסייע לך ללמוד עוד אודות המכשיר שלך ו-MIUI. תמונות וקטעי וידאו מסוימים במדריך נוצרו למטרות ייחוס בלבד ועשויים להיות שונים מהמוצר הממשי. התכונות המתוארות במדריך זה עשויות להשתנות בהתאם לדגם ההתקן, לגירסת MIUI ולסביבת השימוש.</string>
-    <string name="miui_guide_item_complete">הושלם</string>
-    <string name="miui_guide_item_new">חדש</string>
-    <string name="miui_guide_item_progress">הושלם%1$d/%2$d</string>
-    <string name="miui_guide_menu_privacy">מדיניות הפרטיות</string>
-    <string name="miui_guide_top_bar_sub_title">למד מה MIUI יכול לעשות</string>
-    <string name="miui_guide_top_bar_title">מדריך למתחיל</string>
     <string name="miui_main_back">הקודם</string>
     <string name="miui_main_bottom_bar_feedback">משוב</string>
     <string name="miui_main_bottom_bar_guide">מדריך למתחיל</string>
     <string name="miui_main_bottom_bar_mine">השירותים שלי</string>
     <string name="miui_main_continue">הבא</string>
-    <string name="miui_main_control_center_desc">או עבור לגרסה הישנה תחת הגדרות > התראות &amp; מרכז בקרה</string>
+    <string name="miui_main_control_center_desc">או עבור לגרסה הישנה תחת הגדרות > התראות ומרכז בקרה</string>
     <string name="miui_main_control_center_open">מרכז הבקרה החדש</string>
     <string name="miui_main_control_center_title">העבר אצבע כדי לעבור בין לוח ההתראות למרכז הבקרה</string>
+    <string name="miui_main_icon_callback">קיצור דרך במסך הבית</string>
+    <string name="miui_main_icon_callback_create">צור</string>
+    <string name="miui_main_icon_callback_desc">האם ליצור כעת קיצור דרך במסך הבית?</string>
+    <string name="miui_main_icon_callback_nocreate">ביטול</string>
     <string name="miui_main_mirror_tab_desc1">התחבר באופן אוטומטי</string>
     <string name="miui_main_mirror_tab_desc2">צפה בתמונות על מסך גדול יותר</string>
     <string name="miui_main_mirror_tab_desc3">שתף קבצים בקלי קלות</string>
@@ -295,7 +290,7 @@
     <string name="permission_china_version_msg">&lt;Data>לפני שתשתמש \"שירותים ומשוב\", עליך לקרוא ולהסכים ל &lt;a href=%1$s>הסכם משתמש&lt;/a> ו &lt;a href=%2$s>מדיניות פרטיות&lt;/a>. יישום זה גם זקוק לחיבור אינטרנט על מנת לעבוד באופן תקין.&lt;/Data></string>
     <string name="permission_complete">בוצע</string>
     <string name="permission_contacts_info">גישה לפרטי חשבון</string>
-    <string name="permission_contacts_introduce">בעבור כניסה באמצעות חשבון Mi</string>
+    <string name="permission_contacts_introduce">בעבור כניסה באמצעות חשבון Xiaomi</string>
     <string name="permission_device_info">גש למידע אודות המכשיר</string>
     <string name="permission_device_introduce">בעבור קביעת תקופת אחריות מוגבלת</string>
     <string name="permission_exit">צא</string>

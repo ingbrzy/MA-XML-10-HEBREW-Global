@@ -17,6 +17,8 @@
     <string name="agree">מסכים</string>
     <string name="alarm_alert_alert_silenced">השעון המעורר יושתק לאחר %1$s.</string>
     <string name="alarm_alert_disabled">כבוי</string>
+    <string name="alarm_alert_now">התראת שעון מעורר %s</string>
+    <string name="alarm_alert_snooze_button">נודניק</string>
     <string name="alarm_ascending_mode_summary">עוצמת שעון מעורר מתגברת בהדרגה</string>
     <string name="alarm_ascending_mode_title">עוצמה גבוהה</string>
     <string name="alarm_clock_more_setting">הגדרות נוספות</string>
@@ -90,6 +92,7 @@
     <string name="cities_show_limit_desc">לא ניתן להציג שעונים נוספים</string>
     <string name="city_time_contrast_desc">הקש כדי להשוות זמן בערים שונות</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
+    <string name="click_to_cancel_alarm">נא להקיש להשבתה</string>
     <string name="clock_bg_button_setting_summary_common">בחר צבע רקע עבור יישום השעון</string>
     <string name="clock_bg_button_setting_summary_follow_sys">ייעשה שימוש בשחור כצבע הרקע בכל פעם שתחליף למצב השחרה</string>
     <string name="clock_bg_button_setting_title">צבע הרקע</string>
@@ -207,6 +210,8 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="force_start_permission_desc">לאפשר תפקוד תקין של התראות השעון המעורר, אפילו אחרי סגירת היישום.</string>
+    <string name="force_start_permission_title">הפעלה אוטומטית</string>
     <string name="force_touch_add_alarm">הוספת שעון מעורר</string>
     <string name="force_touch_enter_stopwatch">שעון עצר</string>
     <string name="force_touch_enter_timer">טיימר</string>
@@ -273,6 +278,22 @@
     <string name="menu_item_sort_by_gmt_offset">מיון לפי זמן</string>
     <string name="menu_item_sort_by_name">מיון לפי שם</string>
     <string name="midnight">לילה</string>
+    <string name="miui_clock_city_name_local">מקומי</string>
+    <string name="miui_clock_city_name_second">שעון משני</string>
+    <string name="miui_lock_screen_date">EEE, MMM dd</string>
+    <string name="miui_lock_screen_date_12">EEE, MMM dd</string>
+    <string name="miui_lock_screen_date_two_lines">"EEE
+MMM dd"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEE
+MMM dd"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+M/d"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+M/d"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
@@ -472,6 +493,7 @@
     <string name="shutdown_alarm_enable_summary">השעון מעורר יכבה אם הוא נקבע למשך 10 דקות לפחות לאחר כיבוי המכשיר</string>
     <string name="shutdown_alarm_title">כיבוי שעון מעורר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="sleep_analysis">סטטיסטיקות</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
@@ -524,6 +546,7 @@
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">לאפשר ליישום זה להתחבר לאינטרנט על מנת לקבל גישה לכל המאפיינים שלו.</string>
     <string name="system_permission_main_purpose">זמני תצוגה, הגדרת התראות וטיימרים, שימוש בשעון עצר</string>
     <string name="system_permission_purpose">יצירת התראות לימי חול והגדרת רינגטונים אישיים</string>

@@ -54,6 +54,12 @@
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">נשארו %2$d דקות להשתמש ב\"%1$s\" היום</item>
+        <item quantity="one">נשארה דקה אחת (%2$d) להשתמש ב\"%1$s\" היום</item>
+        <item quantity="two">נשארו %2$d דקות להשתמש ב\"%1$s\" היום</item>
+        <item quantity="many">נשארו %2$d דקות להשתמש ב\"%1$s\" היום</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
         <item quantity="one">לפני חצי שעה</item>
@@ -114,11 +120,29 @@
         <item quantity="two">השתמשת השתמשת במכשיר כבר %d דקות רצוף</item>
         <item quantity="many">השתמשת השתמשת במכשיר כבר %d דקות רצוף</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">זה הזמן למנוחה של %d דקות</item>
+        <item quantity="one">זה הזמן למנוחה של דקה אחת (%d)</item>
+        <item quantity="two">זה הזמן למנוחה של %d דקות</item>
+        <item quantity="many">זה הזמן למנוחה של %d דקות</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d דקות</item>
         <item quantity="one">דקהדקה %d</item>
         <item quantity="two">%d דקות</item>
         <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">אתה כבר משתמש במכשיר %d דקות</item>
+        <item quantity="one">אתה כבר משתמש במכשיר דקה אחת (%d)</item>
+        <item quantity="two">אתה כבר משתמש במכשיר %d דקות</item>
+        <item quantity="many">אתה כבר משתמש במכשיר %d דקות</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">ניתן להוסיף עד %d הפסקות</item>
+        <item quantity="one">ניתן להוסיף הפסקה אחת (%d)</item>
+        <item quantity="two">ניתן להוסיף עד %d הפסקות</item>
+        <item quantity="many">ניתן להוסיף עד %d הפסקות</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">זמן המסך היום שווה לממוצע שלך ב-%d הימים האחרונים</item>

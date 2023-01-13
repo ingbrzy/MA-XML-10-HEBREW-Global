@@ -17,6 +17,7 @@
         <item>3 תהליכים לכל היותר</item>
         <item>4 תהליכים לכל היותר</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -77,6 +78,8 @@
         <item>אודיו Qualcomm® aptX™</item>
         <item>אודיו Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>אודיו Qualcomm® aptX™ Adaptive</item>
+        <item>אודיו Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>שימוש בבחירת המערכת (ברירת המחדל)</item>
@@ -85,6 +88,8 @@
         <item>אודיו Qualcomm® aptX™</item>
         <item>אודיו Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>אודיו Qualcomm® aptX™ Adaptive</item>
+        <item>אודיו Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>

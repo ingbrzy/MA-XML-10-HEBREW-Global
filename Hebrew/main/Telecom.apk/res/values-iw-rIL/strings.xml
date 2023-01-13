@@ -9,7 +9,7 @@
     <string name="can_not_dial_vt_while_voice_prompt">לא ניתן לבצע שיחת וידאו במהלך ביצוע שיחה קולית</string>
     <string name="can_not_dial_while_vt_prompt">לא ניתן לחייג כאשר שיחת וידאו נמצאת בעיצומה</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
-    <string name="close">סגירה</string>
+    <string name="close">כיבוי</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -75,6 +75,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fraud_toast_message">ניתן לנהל הפניית שיחות בהגדרות</string>
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
@@ -83,6 +84,7 @@
     <string name="incall_error_supp_service_unknown">שירות זה אינו נתמך.</string>
     <string name="midnight">לילה</string>
     <string name="missedcall_notification_public_version_title">טלפון</string>
+    <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>

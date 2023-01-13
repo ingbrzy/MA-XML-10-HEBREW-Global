@@ -84,6 +84,12 @@
         <item quantity="two">לפני %1$d ימים</item>
         <item quantity="many">לפני %1$d ימים</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">למחוק %1$d קבצים מכל המכשירים שלך ומהענן? ניתן לשחזר קובצי Mi Drive מהפריטים שמחקת לאחרונה.</item>
+        <item quantity="one">למחוק קובץ %1$d מכל המכשירים שלך ומהענן? ניתן לשחזר קובצי Mi Drive מהפריטים שמחקת לאחרונה.</item>
+        <item quantity="two">למחוק %1$d קבצים מכל המכשירים שלך ומהענן? ניתן לשחזר קובצי Mi Drive מהפריטים שמחקת לאחרונה.</item>
+        <item quantity="many">למחוק %1$d קבצים מכל המכשירים שלך ומהענן? ניתן לשחזר קובצי Mi Drive מהפריטים שמחקת לאחרונה.</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">למחוק %1$d קבצים?</item>
         <item quantity="one">למחוק קובץ אחד (%1$d)?</item>
@@ -203,6 +209,24 @@
         <item quantity="one">אסוף עוד אבן חן אחת (&lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font>) כדי להשתתף בהגרלת המזל.</item>
         <item quantity="two">אסוף עוד &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> אבני חן כדי להשתתף בהגרלת המזל.</item>
         <item quantity="many">אסוף עוד &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> אבני חן כדי להשתתף בהגרלת המזל.</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">לא ניתן היה לסנכרן %1$s קבצים</item>
+        <item quantity="one">לא ניתן היה לסנכרן קובץ %1$s</item>
+        <item quantity="two">לא ניתן היה לסנכרן %1$s קבצים</item>
+        <item quantity="many">לא ניתן היה לסנכרן %1$s קבצים</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"סונכרנו %1$s קבצים | "</item>
+        <item quantity="one">"סונכרן קובץ %1$s | "</item>
+        <item quantity="two">"סונכרנו %1$s קבצים | "</item>
+        <item quantity="many">"סונכרנו %1$s קבצים | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">ממתין לחיבור לרשת. נותרו %1$s קבצים.</item>
+        <item quantity="one">ממתין לחיבור לרשת. נותר קובץ אחד (%1$s).</item>
+        <item quantity="two">ממתין לחיבור לרשת. נותרו %1$s קבצים.</item>
+        <item quantity="many">ממתין לחיבור לרשת. נותרו %1$s קבצים.</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d פריטים נבחרו</item>

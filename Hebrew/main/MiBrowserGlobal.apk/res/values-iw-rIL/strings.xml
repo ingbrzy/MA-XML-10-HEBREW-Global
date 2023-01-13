@@ -119,13 +119,21 @@
     <string name="am">AM</string>
     <string name="app_cache">מטמון</string>
     <string name="app_library_category_entertainment">בידור</string>
+    <string name="app_library_category_financial_management">כספים</string>
     <string name="app_library_category_games">משחקים</string>
+    <string name="app_library_category_health_and_exercise">בריאות</string>
+    <string name="app_library_category_individualization">התאמה אישית</string>
     <string name="app_library_category_information">מדיה</string>
     <string name="app_library_category_lifestyle">סגנון חיים</string>
+    <string name="app_library_category_originality">יצירתיות</string>
     <string name="app_library_category_others">אחר</string>
     <string name="app_library_category_productivity">פרודוקטיביות</string>
+    <string name="app_library_category_reading_and_information">חדשות</string>
+    <string name="app_library_category_shopping_and_food">קניות</string>
     <string name="app_library_category_social">חברתי</string>
+    <string name="app_library_category_travel">טיולים</string>
     <string name="app_library_category_utility">כלים</string>
+    <string name="app_library_category_work_and_efficiency">פרודוקטיביות</string>
     <string name="app_library_title">יישומים</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">מצלמה</string>
@@ -144,6 +152,7 @@
     <string name="app_update_install">מוכן להתקנת העדכון.</string>
     <string name="application">יישומים</string>
     <string name="application_name">דפדפן</string>
+    <string name="application_upgrade">עדכונים</string>
     <string name="aqi_quality_index_break">מסוכן באופן חמור</string>
     <string name="aqi_quality_index_dangerous">מסוכן</string>
     <string name="aqi_quality_index_good">טוב</string>
@@ -175,6 +184,7 @@
     <string name="bookmark_btn_select_all">בחר הכל</string>
     <string name="bookmark_btn_select_none">הסר בחירה מהכל</string>
     <string name="bookmark_cannot_save_url">לא ניתן לשמור כתובת אתר זו כסימניה.</string>
+    <string name="bookmark_file_privacy_nightmode_moved_here">כאן ניתן למצוא קיצורי דרך למאפיינים ומצבי גלישה</string>
     <string name="bookmark_folder_needs_title">הזן שם קבוצה</string>
     <string name="bookmark_group_lable">קבוצה</string>
     <string name="bookmark_needs_title">יש להזין שם סימניה</string>
@@ -269,9 +279,12 @@
     <string name="choose_to_signin">כן</string>
     <string name="choose_to_signup">לא, אצור חשבון משלי</string>
     <string name="choosertitle_sharevia">שיתוף באמצעות</string>
+    <string name="clean_cache">ניקוי מטמון</string>
     <string name="clear">ניקוי</string>
     <string name="clear_history">ניקוי היסטוריה</string>
     <string name="clear_most_visited">היסטוריה אחרונה</string>
+    <string name="clear_result_page_more_content">גלה/י עוד</string>
+    <string name="clear_result_page_show_more">הצג עוד</string>
     <string name="clear_search_history">ניקוי היסטוריה</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="cleared_garbage">נוקו %d MB של אשפה</string>
@@ -290,6 +303,7 @@
     <string name="close_all_tab_alert_title">סגור את כל התויות</string>
     <string name="close_cant_recommand">אם תכבה את התכונה לא תוכל לקבל שירותי תוכן מותאם אישית.</string>
     <string name="close_cloud_tab_tip">לסגור תויות ענן ב-%s?</string>
+    <string name="close_desktop">גרסת המחשב השולחני הושבתה</string>
     <string name="cloud_loading_tips">משוך מטה לסנכרון</string>
     <string name="cloud_no_new_data_toast">הכל מעודכן</string>
     <string name="cloud_sync_closed_toast">הסנכרון כבוי, לא ניתן לעדכן</string>
@@ -361,7 +375,7 @@
     <string name="custom_head_card_text_incognito">"אתה גולש במצב נסתר!
 דפים בהם תצפה לא יופיעו בהיסטוריה."</string>
     <string name="custom_page_guide_content">סימניות, הגדרות וכלים נמצאים פה!</string>
-    <string name="dark_mode">מצב כהה</string>
+    <string name="dark_mode">מצב מוחשך</string>
     <string name="data_error">שגיאת נתונים</string>
     <string name="data_format_ymd">dd.MM.yyyy</string>
     <string name="data_traffic_prompt_title">האם להמשיך עכשיו לנגן את הסרטון?</string>
@@ -404,6 +418,7 @@ ID:%s
     <string name="display__quick_entry_of_search">הצג קיצורי דרך לתכונות בלוח ההתראות</string>
     <string name="doc_viewer_label">קורא (דפדפן Mi)</string>
     <string name="doc_viewer_open_out_file_prompt">כדי לפתוח ולהציג קובץ שהתקבל ממקורות חיצוניים, יישום זה צריך ליצור קודם עותק של הקובץ. האם להמשיך?</string>
+    <string name="doc_viewer_user_guide_profile">לצפות כאן בפריט שבו עיינת</string>
     <string name="document_download_background_btn">הורד ברקע</string>
     <string name="document_download_cancel_btn">ביטול</string>
     <string name="document_download_failed">לא ניתן היה להוריד</string>
@@ -604,6 +619,7 @@ ID:%s
     <string name="file_picker">בחירת נתיב</string>
     <string name="filename_empty_alert_message">הזן שם קובץ</string>
     <string name="filename_illegal_alert_message">תו לא חוקי הוסר משם הקובץ</string>
+    <string name="files_stored_in_the_phone">קבצים המאוחסנים במכשיר זה</string>
     <string name="find_garbage">נמצאו %d MB של אשפה</string>
     <string name="find_new_version">עדכון חדש זמין</string>
     <string name="find_on_page_cancel">ביטול</string>
@@ -681,6 +697,7 @@ ID:%s
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="game_center">משחקים</string>
     <string name="game_center_recommend_play">שחק</string>
     <string name="game_center_recommend_title">מומלצים עבורך</string>
     <string name="game_play">שחק</string>
@@ -737,7 +754,7 @@ ID:%s
     <string name="home_feed_channel">הצג \"חדשות\" בסרגל הניווט</string>
     <string name="home_game_channel">הצג \"משחקים\" בסרגל הניווט</string>
     <string name="home_nf">עדכוני תוכן</string>
-    <string name="home_nf_recommend_on">מומלץ עבורך</string>
+    <string name="home_nf_recommend_on">Recommended for you</string>
     <string name="home_page_simple">פשוט</string>
     <string name="homepage_default">ברירת מחדל</string>
     <string name="homepage_delete_card_menu">מחיקה</string>
@@ -749,6 +766,10 @@ ID:%s
     <string name="homepage_setting">הגדרות עמוד הבית</string>
     <string name="homepage_top_card_menu">עליון</string>
     <string name="hot_games">פופולרי</string>
+    <string name="hot_news_notify_summary">התראות בדחיפה על כותרות החדשות</string>
+    <string name="hot_news_notify_tips_light">ניתן להפעיל התראות על חדשות תחת &lt;font color=\"#0D84FF\">הגדרות&lt;/font></string>
+    <string name="hot_news_notify_title">התראות על חדשות</string>
+    <string name="hour_minute">%1$s %2$s</string>
     <string name="i_know">עצור</string>
     <string name="identity">זיהוי</string>
     <string name="if_cancel">לבטל את הפעולה?</string>
@@ -831,6 +852,8 @@ ID:%s
     <string name="loading_tips">משוך מטה לרענון</string>
     <string name="local_apps">יישומים מקומיים</string>
     <string name="local_bookmarks">Mi</string>
+    <string name="local_file">קבצים מקומיים</string>
+    <string name="local_video_player_label">נגן וידאו (דפדפן Mi)</string>
     <string name="location_permission_name">גישה למיקום</string>
     <string name="lockpattern_continue_button_text">הבא</string>
     <string name="lockpattern_need_to_confirm">אשר את תבנית הפתיחה שלך</string>
@@ -859,6 +882,7 @@ ID:%s
     <string name="media_error_video_not_exist">הסרטון לא קיים</string>
     <string name="memory_clear_nothing_result">אין מה לנקות במטמון</string>
     <string name="memory_clear_result">%1$s נוקו</string>
+    <string name="memory_management">נהל אחסון</string>
     <string name="memory_usage">זכרון</string>
     <string name="menu_addtodesk">"הוספה ל'מסך הבית'"</string>
     <string name="menu_exit_nightmode">יציאה</string>
@@ -958,6 +982,7 @@ ID:%s
     <string name="month_september_short">"ספט'"</string>
     <string name="month_september_shortest">"ספט'"</string>
     <string name="more">עוד</string>
+    <string name="more_convenient_features_and_content">ראה את הכלים והתוכן החדשים שיש לדפדפן להציע!</string>
     <string name="more_description">תפריט</string>
     <string name="more_info">למידע נוסף</string>
     <string name="more_option">אפשרויות נוספות</string>
@@ -1144,6 +1169,7 @@ ID:%s
     <string name="my_account">החשבון שלי</string>
     <string name="my_cahnnel">הערוצים שלי</string>
     <string name="my_channel">הערוצים שלי</string>
+    <string name="my_prize_entry">הפרסים שלי</string>
     <string name="name_empty">עליך להזין שם.</string>
     <string name="nav_bottom_bar_back">הקודם</string>
     <string name="nav_bottom_bar_close_all">סגור הכל</string>
@@ -1197,6 +1223,7 @@ ID:%s
     <string name="no_network">בדוק את חיבור הרשת שלך ונסה שוב.</string>
     <string name="no_phone">אין מספר טלפון</string>
     <string name="no_recent_files">אין קבצים אחרונים</string>
+    <string name="no_scalable_applications">כל היישומים מעודכנים</string>
     <string name="no_space_alert_cancel">מאוחר יותר</string>
     <string name="no_space_alert_clean">פינוי שטח</string>
     <string name="no_space_alert_text">אין מספיק שטח אחסון פנוי</string>
@@ -1227,9 +1254,11 @@ ID:%s
     <string name="novel_continue_read_popup">קרא</string>
     <string name="novel_tab_popup">צפה בספרים החדשים ביותר שלך כאן</string>
     <string name="novel_tab_popup_ok">אישור</string>
+    <string name="occupy">%s תפוסים</string>
     <string name="ok">אישור</string>
     <string name="one_prefect_author">יוצר</string>
     <string name="open_app_confirm_message">לאפשר לדף זה לפתוח את %s?</string>
+    <string name="open_desktop">מעבר לגרסת המחשב השולחני בוצע בהצלחה</string>
     <string name="open_google_gaid">כדי שתוכל להשתמש בתכונה זו, ודא שלא ביטלת את ההסכמה להתאמה אישית של מודעות בהגדרות > Google > מודעות.</string>
     <string name="open_personalized_services">הפעל שירותים מותאמים אישית כדי שתוכל להשתמש בתכונה זו.</string>
     <string name="open_private_folder">שחרר כדי להציג תיקיות נסתרות</string>
@@ -1242,6 +1271,7 @@ ID:%s
     <string name="operation_rename">שנה שם</string>
     <string name="operation_rename_message">הזן שם חדש</string>
     <string name="operation_send">שלח</string>
+    <string name="opr_activity_title">לצפות בעונה ולקבל פרסים</string>
     <string name="other_channel">לחץ להוספת ערוצים נוספים.</string>
     <string name="page_info">פרטי העמוד</string>
     <string name="page_info_address">כתובת:</string>
@@ -1408,6 +1438,7 @@ ID:%s
     <string name="popular_game_video">Popular Game Video</string>
     <string name="popup_window_attempt">לאפשר לאתר זה לפתוח חלון קופץ?</string>
     <string name="positive_confirm_message">כבה בכל זאת</string>
+    <string name="power_saving_settings">חסכון בסוללה</string>
     <string name="pref_accessibility">נגישות</string>
     <string name="pref_accessibility_title">נגישות</string>
     <string name="pref_adblock_summary">ייתכן שהפעלת מאפיין זה תאט את זמן הטעינה של אתרי אינטרנט</string>
@@ -1620,6 +1651,7 @@ ID:%s
     <string name="pwa_hint_added_success">נוסף בהצלחה</string>
     <string name="qr_code_title">קוד QR</string>
     <string name="qr_description">סריקת קוד QR</string>
+    <string name="quick_access_to_common_functions">גישה מהירה לתכונות המועדפות עליך</string>
     <string name="quick_search_and_access_to_functions">חיפוש מהיר מאפשר לגשת בקלות לתכונות שבהן אתה משתמש הכי הרבה.</string>
     <string name="quicklink_bookmark_save">שמור ב:</string>
     <string name="quicklink_cannot_save_url">לא ניתן להוסיף כתובת אתר זו.</string>
@@ -1637,6 +1669,9 @@ ID:%s
     <string name="quicklinks_most_visited">הוספה לעמוד הבית</string>
     <string name="quicklinks_most_visited_subtitle">הצג אתרים בהם ביקרת לאחרונה בתוית חדשה</string>
     <string name="quicklinks_most_visited_title">הוספה לעמוד הבית</string>
+    <string name="reading__business_recommend_at_end_more">להציג עוד</string>
+    <string name="reading__business_recommend_at_end_other_docs">ספרים נוספים</string>
+    <string name="reading__business_recommend_at_end_title">תוכן מומלץ</string>
     <string name="reading__cancel">ביטול</string>
     <string name="reading__menu_open_with_another_app">פתח באמצעות יישום אחר</string>
     <string name="reading__menu_play">מצגת</string>
@@ -1644,6 +1679,7 @@ ID:%s
     <string name="reading__menu_search">חיפוש</string>
     <string name="reading__menu_share">שיתוף</string>
     <string name="reading__menu_thumbnail">תמונות ממוזערות של עמודים</string>
+    <string name="reading__reading_end">סיום</string>
     <string name="reading__reading_first_page">זהו העמוד הראשון</string>
     <string name="reading__reading_last_page">זהו העמוד האחרון</string>
     <string name="reading__search_cancel">ביטול</string>
@@ -1755,6 +1791,9 @@ ID:%s
     <string name="search_bar_hint_content">חיפוש אפליקציות ותכנים</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">המשך</string>
+    <string name="search_card_online_rec_app">חנויות יישומים</string>
+    <string name="search_card_online_rec_app_install">התקן</string>
+    <string name="search_card_online_rec_app_open">פתח</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">לא נמצאו תוצאות</string>
@@ -1828,6 +1867,8 @@ ID:%s
     <string name="setting_searchable_content">פריטים שניתן לחפש</string>
     <string name="setting_sms_content">תוכן SMS</string>
     <string name="setting_swipe_up">נא להעביר אצבע כלפי מעלה במסך הבית</string>
+    <string name="settings_search_online_apps">חנויות יישומים</string>
+    <string name="settings_search_online_apps_desc">תוכן מחנויות יישומים</string>
     <string name="share_image_text">תראו מה שיתפתי! @MIUI</string>
     <string name="share_page_text">תראו מה שיתפתי: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">תראו מה שיתפתי: %1$s</string>
@@ -1864,6 +1905,11 @@ ID:%s
     <string name="speed_test_no_network">לא ניתן היה להתחבר לרשת. בדוק את הגדרות הרשת ונסה שוב.</string>
     <string name="speed_test_ping">השהיה</string>
     <string name="speed_test_upload">העלאה</string>
+    <string name="sport_card_match_week">שבוע %d</string>
+    <string name="sports_card_match_season">עונה</string>
+    <string name="sports_card_match_status_1">בקרוב</string>
+    <string name="sports_card_match_status_2">בעיצומו</string>
+    <string name="sports_card_match_status_3">הסתיים</string>
     <string name="ssl_bad_clock_date_settings">הגדרת תאריך</string>
     <string name="ssl_bad_clock_warning" formatted="false">חיבור פרטי אל %s1 אינו יכול להתבצע כיוון שהתאריך והשעה של המכשיר שלך (%s2) שגויים.</string>
     <string name="ssl_bad_expired_warning">ערוץ זה מסופק על-ידי %1$s. אולם, התאריך והשעה שמוגדרים במכשיר שלך (%2$s) אינם מאפשרים התחברות מאובטחת אל %1$s. תוכל להגדיר את התאריך והשעה הנכונים, או להקיש על \"המשך\", אם אתה עדיין רוצה להשתמש בערוץ זה.</string>
@@ -1978,6 +2024,7 @@ ID:%s
     <string name="the_united_nations_day">יום האומות המאוחדות</string>
     <string name="the_valentines_day">יום האהבה (ולנטיין)</string>
     <string name="the_water_lantern_festival">פסטיבל פנסי המים</string>
+    <string name="third_image_viewer_label">יישום לצפייה בתמונות (דפדפן Mi)</string>
     <string name="thursday">חמישי</string>
     <string name="thursday_short">"ה'"</string>
     <string name="thursday_shortest">"ה'"</string>
@@ -2010,6 +2057,11 @@ ID:%s
     <string name="translation_query_error_network">לא ניתן לתרגם. בדוק את הגדרות הרשת ונסה שוב.</string>
     <string name="translation_result_empty">לא ניתן לתרגם. נסה שוב.</string>
     <string name="translation_to">תרגם אל</string>
+    <string name="trash_cleaner_unit_b">ב</string>
+    <string name="trash_cleaner_unit_gb">ג\"ב</string>
+    <string name="trash_cleaner_unit_kb">ק\"ב</string>
+    <string name="trash_cleaner_unit_mb">מ\"ב</string>
+    <string name="trash_cleaner_unit_tb">ט\"ב</string>
     <string name="trending_apps_more">עוד</string>
     <string name="tuesday">שלישי</string>
     <string name="tuesday_short">"ג'"</string>
@@ -2028,6 +2080,7 @@ ID:%s
     <string name="update_no_network_toast">לא ניתן להתחבר לרשת</string>
     <string name="update_now">עדכן עכשיו</string>
     <string name="update_phone_notice">שינוי הגדרות האבטחה</string>
+    <string name="upgrade">עדכן</string>
     <string name="upload_error_log">העלה יומן</string>
     <string name="upload_usage_statistics">הפעל כדי לשתף איתנו נתוני משתמש כאשר מצב גלישה בסתר מופעל</string>
     <string name="uploads_disabled">העלאת קבצים מוגבלת</string>
@@ -2214,10 +2267,13 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_desc">הצג תמונות ממוזערות של דפים שביקרת בהם בעבר</string>
     <string name="web_tag_tips">הקש כאן כדי לבקר מחדש בדף</string>
     <string name="web_tag_title">תמונות ממוזערות של דפי אינטרנט</string>
+    <string name="web_tools_moved_here">הכלים הועברו לכאן</string>
     <string name="web_video_accelerate">מהירות</string>
+    <string name="web_video_default_time">%1$s :%2$s</string>
     <string name="web_video_download">הורדה</string>
     <string name="web_video_download_no_access">נדרשות הרשאות כדי להוריד פריטים</string>
     <string name="web_video_enable_long_click_toast">מנגן במהירות של %dX</string>
+    <string name="web_video_float_drag_msg">גרור כדי להתאים את הגודל</string>
     <string name="web_video_list_more">עוד</string>
     <string name="web_video_list_playing">מנגן</string>
     <string name="web_video_list_replay">נגן שוב</string>

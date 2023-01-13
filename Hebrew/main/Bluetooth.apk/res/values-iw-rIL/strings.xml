@@ -76,6 +76,7 @@
     <string name="miui_transfer_history_title">העברות Bluetooth</string>
     <string name="miui_transfer_inbound_title">נכנס</string>
     <string name="miui_transfer_outbound_title">יוצא</string>
+    <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>

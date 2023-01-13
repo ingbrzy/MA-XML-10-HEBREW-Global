@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="actionbar_button_up_description">הקודם</string>
     <string name="afternoon">אחר הצהריים</string>
-    <string name="already_newest_version">הגרסה הקיימת עדכנית</string>
     <string name="am">AM</string>
-    <string name="cancel_download">ההורדה בוטלה</string>
-    <string name="clearable_edittext_clear_description">ניקוי</string>
-    <string name="close">סגירה</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
-    <string name="date_picker_lunar">לוח שנה סיני מסורתי</string>
-    <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
-    <string name="download_button">לחצן הורדה</string>
-    <string name="download_failed">לא ניתן היה להוריד</string>
     <string name="early_morning">מוקדם בבוקר</string>
+    <string name="earth_position_content_0">בפארק הטבע כף קמניאק בקרואטיה יש נופים עוצרי נשימה, אולי המרהיבים ביותר בחוף הים התיכון. התצורות הגיאולוגיות המרשימות שקיימות במקום הזה הופכות אותו לגן עדן לצוללנים. בכל קיץ השמש הבוהקת ומי הים התיכון החמימים מושכים לאזור הזה המון חובבי נופש בטבע.</string>
+    <string name="earth_position_content_1">"טרסות האורז הן תוצר של פעילות האדם, אבל הן גם מהוות נקודת תצפית יוצאת מן הכלל שממנה נשקפים נופי טבע.
+בסין טרסות האורז נמצאות בעיקר דרומית לנהר יאנגצה, שם יורדים גשמים בתדירות גבוהה ויש הרבה רכסי הרים. טרסות לונג-ג'י קימות זה יותר מ-700 שנה, ויש בכפרים בסביבה כמה וכמה אתרים היסטוריים."</string>
+    <string name="earth_position_content_2">אילוליסאט נמצא במערב גרינלנד, 200 ק\"מ מהחוג הארקטי. פיורד הקרח היפהפה אילוליסאט שאורכו 56 ק\"מ נמצא בסמוך לקרחון בשם יאקובשבן. זהו הקרחון הגדול ביותר בחצי הכדור הצפוני, ובכל שנה הוא מייצר קרחונים במשקל כולל של 2 מיליארד טון. אחרי סיבוב קצר בסביבה, הקרחונים הללו פונים דרומה וזורמים אל האוקיינוס האטלנטי.</string>
+    <string name="earth_position_content_3">נבגיו הוא אחד החופים היפים ביותר באי זקינתוס, אחד האיים היוניים ביוון. אומרים שנמצאים שם שרידיה של ספינה מפורסמת, ולכן החוף מכונה גם \"חוף הספינה הטרופה\".</string>
+    <string name="earth_position_content_4">"הרי הדולומיטים הם רכס הרים שנמצא בצפון-מזרח איטליה. ההר סצ'דה הוא בהחלט אחד המקומות הציוריים ביותר באזור הזה."</string>
+    <string name="earth_position_title_0">"קרואטיה
+כף קמניאק"</string>
+    <string name="earth_position_title_1">"גואנגשי, סין
+ ‏טרסות האורז לונג-ג’י"</string>
+    <string name="earth_position_title_2">"גרינלנד
+אילוליסאט"</string>
+    <string name="earth_position_title_3">"יוון
+חוף נבגיו"</string>
+    <string name="earth_position_title_4">"איטליה
+הרי הדולומיטים"</string>
     <string name="earth_summary">כדור הארץ הוא ערש התרבות האנושית</string>
     <string name="earth_super_wallpaper_label">earth</string>
     <string name="earth_title">בית</string>
@@ -31,14 +38,14 @@
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
@@ -56,12 +63,12 @@
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
-    <string name="fmt_time_second">"s's'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_millis">"ש'מ\"ש'"</string>
+    <string name="fmt_time_minute">"ד'דק'"</string>
+    <string name="fmt_time_minute_second">"ד'דקה' שנ'שנ'"</string>
+    <string name="fmt_time_minute_second_millis">"ד'דק' ש.ש'מ\"ש'"</string>
+    <string name="fmt_time_second">"שנ'שנ'"</string>
+    <string name="fmt_time_second_millis">"ש.ש'מ\"ש'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -80,47 +87,32 @@
     <string name="geometry_summary">צורות, אור וצבעים</string>
     <string name="geometry_super_wallpaper_label">גאומטריה</string>
     <string name="geometry_title">גאומטריה</string>
-    <string name="install_failed">לא ניתן היה להתקין</string>
-    <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
+    <string name="mars_position_content_0">"יש באזור הזה צוקים, הרי טבלה ועמקים שטוחים רחבים. מאמינים שהעמקים הללו נוצרו על-ידי קרחונים שהיו מצופים בפסולת. זוהו באזור גם מינרלי חרסית, שמעוררים עניין רב בחיפוש אחר סימני חיים במאדים העתיקה.
 
-NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
+NASA/JPL/אוניברסיטת אריזונה"</string>
+    <string name="mars_position_content_1">"מכתש גייל צולם בזמן שרובר (כלי רכב לחקר החלל) Curiosity חקר את גבעות פאהרמפ במאדים. האזור הזה מכיל סלעי משקעים שלפי הערכת המדענים נוצרו בנוכחות מים, והאזורים הכהים הם חול.
 
-NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
+NASA/JPL/אוניברסיטת אריזונה"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis (עמק המאדים בוולשית) הוא ערוץ מים עתיק עם סלעים עתירי חרסית בצבע בהיר. ייצורים חיים זעירים השתמרו היטב במינרלי חרסית בכדור הארץ, כך שאולי ניתן למצוא בעמק המאדים שרידים של חיים עתיקים.
 
-NASA/JPL/University of Arizona"</string>
+NASA/JPL/אוניברסיטת אריזונה"</string>
+    <string name="mars_position_content_3">"תמונות אלה צולמו בזמן שרובר (כלי רכב לחקר החלל) Curiosity חקר את גבעת פראמפ במכתש גייל, מאדים. האזור הזה מכיל סלעי משקעים שלפי הערכת המדענים נוצרו בנוכחות מים. האזורים הכהים הם חול.
+
+NASA/JPL/אוניברסיטת אריזונה"</string>
+    <string name="mars_position_content_4">"עמק בהראם הוא עמק עם ערוץ נהר יחיד, שבו יש במקומות מסוימים קירות מסולסלים. הנוכחות של סממני איכול קוויים ברצפת העמק מצביעה על מעורבות של נוזל כלשהו בהיווצרותו.
+
+NASA/JPL/אוניברסיטת אריזונה"</string>
     <string name="mars_position_title_0">"אזור Nilosyrtis
 Mensae"</string>
-    <string name="mars_position_title_1">Gale Crater</string>
-    <string name="mars_position_title_2">"Crater in
-Mawrth Vallis"</string>
+    <string name="mars_position_title_1">מכתש גייל</string>
+    <string name="mars_position_title_2">"מכתש ב
+מאוורת' ואליס (Mawrth Vallis)"</string>
+    <string name="mars_position_title_3">גבעות פראמפ</string>
+    <string name="mars_position_title_4">עמק בהראם</string>
     <string name="mars_summary">המדבריות העצומים של מאדים עוררו תמיד באנושות תחושה של יראת כבוד</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">הכוכב האדום</string>
     <string name="midnight">לילה</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
-    <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
-    <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
-    <string name="miuix_appcompat_cancel_description">ביטול</string>
-    <string name="miuix_appcompat_confirm_description">אישור</string>
-    <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
-    <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
-    <string name="miuix_appcompat_search_input_description">חיפוש</string>
-    <string name="miuix_appcompat_select_all">בחר הכל</string>
-    <string name="miuix_appcompat_select_all_description">בחר הכל</string>
-    <string name="miuix_appcompat_select_item">בחר פריטים</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">משוך כלפי מטה כדי לרענן</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">רוענן בהצלחה</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">מרענן…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">שחרר כדי לרענן</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">זה הכול לעכשיו</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">זה הכול לעכשיו</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">רק רגע…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">לא ניתן היה לטעון פריטים</string>
     <string name="monday">שני</string>
     <string name="monday_short">"ב'"</string>
     <string name="monday_shortest">"ב'"</string>
@@ -160,11 +152,8 @@ Mawrth Vallis"</string>
     <string name="month_september">ספטמבר</string>
     <string name="month_september_short">"ספט'"</string>
     <string name="month_september_shortest">"ספט'"</string>
-    <string name="more">עוד</string>
     <string name="morning">בוקר</string>
     <string name="night">ערב</string>
-    <string name="no_cta_agreed">אין ל-GetApps הרשאות CTA</string>
-    <string name="no_install_permission">אין לך הרשאה להתקנת פריט זה</string>
     <string name="noon">צהריים</string>
     <string name="pm">PM</string>
     <string name="saturday">שבת</string>
@@ -173,7 +162,6 @@ Mawrth Vallis"</string>
     <string name="saturn_summary">הטבעות של שבתאי הן המראה המרהיב ביותר במערכת השמש</string>
     <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">טבעות רחוקות</string>
-    <string name="send">שליחה</string>
     <string name="snowmountain_summary">המדרונות שטופי השמש של הר סיגוניאנג</string>
     <string name="snowmountain_super_wallpaper_label">פסגות מושלגות</string>
     <string name="snowmountain_title">פסגות מושלגות</string>
@@ -181,78 +169,15 @@ Mawrth Vallis"</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
     <string name="super_wallpaper_list_label">סופר טפטים</string>
-    <string name="super_wallpaper_setting_apply_success_toast">הוחל בהצלחה</string>
-    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">החל</string>
-    <string name="super_wallpaper_setting_choose_position_btn_text">בחר מיקום</string>
-    <string name="super_wallpaper_setting_coordinate_title">קואורדינטות</string>
-    <string name="super_wallpaper_setting_view_height_title">גובה</string>
-    <string name="task_already_exist">משימה זו כבר קיימת</string>
-    <string name="the_anniversary_of_lifting_martial_law">יום השנה לביטול החוק הצבאי</string>
-    <string name="the_anti_aggression_day">יום המאבק באלימות</string>
-    <string name="the_arbor_day">יום העץ</string>
-    <string name="the_armed_forces_day">יום הכוחות המזוינים</string>
-    <string name="the_armys_day">יום צבא השחרור העממי (PLA)</string>
-    <string name="the_childrens_day">יום הילד</string>
-    <string name="the_chinese_youth_day">יום הנוער</string>
-    <string name="the_christmas_day">חג המולד</string>
-    <string name="the_double_ninth_festival">"פסטיבל צ'ונג-יאנג"</string>
-    <string name="the_dragon_boat_festival">פסטיבל סירות הדרקון</string>
-    <string name="the_easter_day">חג הפסחא</string>
-    <string name="the_eve_of_the_spring_festival">ערב ראש השנה הסיני</string>
-    <string name="the_fifth_day">היום החמישי של השנה הסינית החדשה</string>
-    <string name="the_fools_day">ה-1 באפריל</string>
-    <string name="the_forth_day">היום הרביעי של השנה הסינית החדשה</string>
-    <string name="the_hksar_establishment_day">יום הקמת האזור המנהלי המיוחד הונג קונג</string>
-    <string name="the_international_womens_day">יום האישה</string>
-    <string name="the_laba_festival">פסטיבל הלבה (Laba)</string>
-    <string name="the_labour_day">יום העבודה</string>
-    <string name="the_lantern_festival">פסטיבל הפנסים</string>
-    <string name="the_mid_autumn_festival">פסטיבל אמצע הסתיו</string>
-    <string name="the_national_day">יום העצמאות הסיני</string>
-    <string name="the_national_father_day">יום ההולדת של סון יאט-סן</string>
-    <string name="the_new_years_day">השנה החדשה</string>
-    <string name="the_night_of_sevens">יום האהבה הסיני</string>
-    <string name="the_partys_day">יום המפלגה הקומוניסטית הסינית (CPC)</string>
-    <string name="the_peace_day">יום הזיכרון</string>
-    <string name="the_retrocession_day">יום הנסיגה (טייוואן)</string>
-    <string name="the_second_day">היום השני של השנה הסינית החדשה</string>
-    <string name="the_seventh_day">היום השביעי של השנה הסינית החדשה</string>
-    <string name="the_sixth_day">היום השישי של השנה הסינית החדשה</string>
-    <string name="the_spirit_festival">פסטיבל הרוחות</string>
-    <string name="the_spring_festival">ראש השנה הסיני</string>
-    <string name="the_teachers_day">יום המורה</string>
-    <string name="the_third_day">היום השלישי של השנה הסינית החדשה</string>
-    <string name="the_tw_childrens_day">יום הילד</string>
-    <string name="the_tw_youth_day">יום הנוער</string>
-    <string name="the_united_nations_day">יום האומות המאוחדות</string>
-    <string name="the_valentines_day">יום האהבה (ולנטיין)</string>
-    <string name="the_water_lantern_festival">פסטיבל פנסי המים</string>
     <string name="thursday">חמישי</string>
     <string name="thursday_short">"ה'"</string>
     <string name="thursday_shortest">"ה'"</string>
-    <string name="time_picker_dialog_title">הגדרת זמן</string>
     <string name="time_picker_label_hour">"שע'"</string>
     <string name="time_picker_label_minute">"ד'"</string>
-    <string name="title_system_wallpaper_resource">טפט מערכת</string>
-    <string name="today">היום</string>
     <string name="tomorrow">מחר</string>
     <string name="tuesday">שלישי</string>
     <string name="tuesday_short">"ג'"</string>
     <string name="tuesday_shortest">"ג'"</string>
-    <string name="update">עדכון</string>
-    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
-    <string name="wallpaper_setting_find_more_text">עוד טפטים מקוונים</string>
-    <string name="wallpaper_setting_home_wallpaper_banner_button_text">מסך הבית</string>
-    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">מסך הנעילה</string>
-    <string name="wallpaper_setting_online_wallpaper_actionbar_title">טפטים מקוונים</string>
-    <string name="wallpaper_setting_online_wallpaper_none_title">גלה טפטים</string>
-    <string name="wallpaper_setting_online_wallpaper_title">טפטים מקוונים</string>
-    <string name="wallpaper_setting_super_wallpaper_banner_title">סופר טפטים</string>
-    <string name="wallpaper_setting_super_wallpaper_more_button_text">עוד</string>
-    <string name="wallpaper_setting_title">טפט</string>
-    <string name="weather_summary">מידע על מזג האוויר המקומי</string>
-    <string name="weather_super_wallpaper_label">מזג האוויר</string>
-    <string name="weather_title">מזג האוויר</string>
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>

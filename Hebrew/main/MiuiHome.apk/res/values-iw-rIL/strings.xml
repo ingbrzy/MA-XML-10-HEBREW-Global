@@ -268,6 +268,7 @@
     <string name="dual_app">יישומים משוכפלים</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="edit">עריכה</string>
+    <string name="edit_folder">ערוך תיקייה</string>
     <string name="edit_folder_title">ערוך שם תיקיה</string>
     <string name="edit_mode_dual_app">צור יישום משוכפל</string>
     <string name="edit_mode_group">קבוצה</string>
@@ -351,9 +352,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_pair_install_shortcut_launcher_success">נוצר בהצלחה</string>
     <string name="fold_pair_install_shortcut_long_click">יש ללחוץ לחיצה ממושכת להוספה למסך הבית</string>
     <string name="fold_pair_installed_shortcut_launcher">קיצור הדרך כבר קיים</string>
     <string name="folder_name">תיקיה</string>
+    <string name="folder_picker_big_2x2_9_text">ענק</string>
+    <string name="folder_picker_big_text">מוגדל</string>
+    <string name="folder_picker_default_text">רגיל</string>
+    <string name="folder_picker_options_tab_text">גודל</string>
+    <string name="folder_picker_sliding_button_tab_text">הצע יישומים מודגשים</string>
+    <string name="folder_picker_tab_text">תיקייה</string>
     <string name="frame_load_failed">לא ניתן לטעון מסגרת</string>
     <string name="free_style_apps_title">בחר יישום</string>
     <string name="free_style_drawer_title">כל היישומים</string>
@@ -432,6 +440,7 @@
     <string name="icon_style">סגנון</string>
     <string name="image_too_small_message">התמונה המקורית אינה גדולה מספיק.</string>
     <string name="install">התקן</string>
+    <string name="intelligent_exposed_button_summary_text">השתמש בהצעות חכמות המבוססות על השימוש שלך ביישום כדי להדגיש יישומים בתיקיות מוגדלות</string>
     <string name="invalid_contact_shortcut">איש קשר לא חוקי</string>
     <string name="is_setting_wallpaper_message">מגדיר טפט…</string>
     <string name="is_system_wallpaper_message">לא ניתן למחוק קבצי מערכת</string>
@@ -504,6 +513,7 @@
     <string name="minus_one_screen">כספת היישומים</string>
     <string name="miui_screen_config_title">"הגדרות 'מסך הבית'"</string>
     <string name="miui_widget_menu_replace_text">להחליף</string>
+    <string name="miui_widget_toast_for_not_support_by_pa">"כספת היישומים לא תומכת בווידג'טים בגודל זה"</string>
     <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
@@ -530,6 +540,8 @@
     <string name="monday">שני</string>
     <string name="monday_short">"ב'"</string>
     <string name="monday_shortest">"ב'"</string>
+    <string name="monochrome_summary">שינוי צבע רקע עבור סמלים תואמים</string>
+    <string name="monochrome_title">צבע רקע</string>
     <string name="month_april">אפריל</string>
     <string name="month_april_short">"אפר'"</string>
     <string name="month_april_shortest">"אפר'"</string>
@@ -710,6 +722,8 @@
     <string name="quick_search_guide_quick_search">חיפוש מהיר</string>
     <string name="quick_search_guide_title">בחר מצב ברירת מחדל</string>
     <string name="recent_apps">אחרון</string>
+    <string name="recent_menu_item_add_pair">צור קיצור דרך למסך הבית עבור שילוב מסך מפוצל זה</string>
+    <string name="recent_menu_item_add_pair_first_toast">צור קיצור דרך למסך הבית עבור שילוב מסך מפוצל זה</string>
     <string name="recent_menu_item_info">פרטים</string>
     <string name="recent_menu_item_lock">נעל</string>
     <string name="recent_menu_item_multi_window">פצל</string>
@@ -896,6 +910,8 @@
     <string name="title_select_shortcut">בחר קיצור דרך</string>
     <string name="toast_drag_to_assistant_reject">מתקין את כספת היישומים…</string>
     <string name="toast_screen_icons_misplaced">שוחזר ממקור אחר, מיקומם של אייקונים מסויימים עשוי להשתנות.</string>
+    <string name="toast_split_app_unsupported">יישום זה אינו תומך במסך מפוצל</string>
+    <string name="toast_split_select_app">נא להקיש על יישום לשימוש במסך מפוצל</string>
     <string name="today">היום</string>
     <string name="toggle_select_title">בחר מתג</string>
     <string name="toggle_title">מתגים</string>
@@ -944,8 +960,12 @@
     <string name="widget_global_search">חיפוש</string>
     <string name="widget_quick_function">פונקציות מהירות</string>
     <string name="widgets_preview_title">"הוספת ווידג'טים"</string>
+    <string name="work_mode_off_detailed_text">האפליקציות לעבודה לא יכולות לשלוח לך התראות, להשתמש בסוללה או לגשת למיקום שלך</string>
     <string name="work_mode_off_label">ההתראות מכובות ואפליקציות אינן זמינות כרגע</string>
+    <string name="work_mode_off_text">יישומי העבודה בהשהייה</string>
     <string name="work_mode_on_label">מנוהל על ידי הארגון שלך</string>
+    <string name="work_mode_toggle_off">השבתת יישומי העבודה</string>
+    <string name="work_mode_toggle_on">הפעלת יישומי העבודה</string>
     <string name="work_profile_first_content">נתונים אישיים נפרדים ומוסתרים מיישומי עבודה</string>
     <string name="work_profile_got_button">הבנתי</string>
     <string name="work_profile_next_button">הבא</string>

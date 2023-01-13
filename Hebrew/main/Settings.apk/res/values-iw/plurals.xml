@@ -3,14 +3,14 @@
     <plurals name="abc_slice_duration_days">
         <item quantity="other">לפני %d ימים</item>
         <item quantity="one">לפני יום אחד (%d)</item>
-        <item quantity="two">לפני %d ימים</item>
+        <item quantity="two">לפני יומיים (%d)</item>
         <item quantity="many">לפני %d ימים</item>
     </plurals>
     <plurals name="abc_slice_duration_min">
-        <item quantity="other">לפני %d דק’</item>
-        <item quantity="one">לפני %d דק’</item>
-        <item quantity="two">לפני %d דק’</item>
-        <item quantity="many">לפני %d דק’</item>
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה (%d)</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
     </plurals>
     <plurals name="abc_slice_duration_years">
         <item quantity="other">לפני %d שנים</item>
@@ -289,10 +289,10 @@
         <item quantity="many">‏%d אפליקציות יכולות לקרוא התראות</item>
     </plurals>
     <plurals name="manage_trust_agents_summary_on">
-        <item quantity="other">%d סביבות אמינות פעילות</item>
-        <item quantity="one">סביבה אמינה פעילה אחת</item>
-        <item quantity="two">%d סביבות אמינות פעילות</item>
-        <item quantity="many">%d סביבות אמינות פעילות</item>
+        <item quantity="other">%d סביבות מהימנות פעילות</item>
+        <item quantity="one">סביבה מהימנה פעילה אחת</item>
+        <item quantity="two">%d סביבות מהימנות פעילות</item>
+        <item quantity="many">%d סביבות מהימנות פעילות</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d אפליקציות השתמשו בזיכרון ב-%2$s האחרונות</item>
@@ -480,34 +480,6 @@
         <item quantity="two">קבלת מהימנות או הסרה של אישורים</item>
         <item quantity="many">קבלת מהימנות או הסרה של אישורים</item>
     </plurals>
-    <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s התקין רשויות אישורים לפרופיל העבודה שלך. ייתכן שהדבר יאפשר לו לנהל מעקב אחר פעילות רשת בעבודה, כולל אימיילים, אפליקציות ואתרים מאובטחים.
-
-לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת."</item>
-        <item quantity="one">"%s התקין רשות אישורים לפרופיל העבודה שלך. ייתכן שהרשות תאפשר לו לנהל מעקב אחר פעילות רשת בעבודה, כולל אימיילים, אפליקציות ואתרים מאובטחים.
-
-לקבלת מידע נוסף על אישור זה, פנה למנהל המערכת."</item>
-        <item quantity="two">"%s התקין רשויות אישורים לפרופיל העבודה שלך. ייתכן שהדבר יאפשר לו לנהל מעקב אחר פעילות רשת בעבודה, כולל אימיילים, אפליקציות ואתרים מאובטחים.
-
-לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת."</item>
-        <item quantity="many">"%s התקין רשויות אישורים לפרופיל העבודה שלך. ייתכן שהדבר יאפשר לו לנהל מעקב אחר פעילות רשת בעבודה, כולל אימיילים, אפליקציות ואתרים מאובטחים.
-
-לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת."</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s התקין במכשירך רשויות אישורים שעשויות לאפשר לו לנהל מעקב אחר פעילות המכשיר ברשת, כולל אימיילים, אפליקציות ואתרים מאובטחים.
-
-לקבלת מידע נוסף על אישורים אלה, יש לפנות למנהל המערכת."</item>
-        <item quantity="one">"%s התקין במכשירך רשות אישורים שעשויה לאפשר לו לנהל מעקב אחר פעילות המכשיר ברשת, כולל אימיילים, אפליקציות ואתרים מאובטחים.
-
-לקבלת מידע נוסף על אישור זה, יש לפנות למנהל המערכת."</item>
-        <item quantity="two">"%s התקין במכשירך רשויות אישורים שעשויות לאפשר לו לנהל מעקב אחר פעילות המכשיר ברשת, כולל אימיילים, אפליקציות ואתרים מאובטחים.
-
-לקבלת מידע נוסף על אישורים אלה, יש לפנות למנהל המערכת."</item>
-        <item quantity="many">"%s התקין במכשירך רשויות אישורים שעשויות לאפשר לו לנהל מעקב אחר פעילות המכשיר ברשת, כולל אימיילים, אפליקציות ואתרים מאובטחים.
-
-לקבלת מידע נוסף על אישורים אלה, יש לפנות למנהל המערכת."</item>
-    </plurals>
     <plurals name="ssl_ca_cert_settings_button">
         <item quantity="other">בדיקת אישורים</item>
         <item quantity="one">בדיקת אישור</item>
@@ -555,12 +527,6 @@
         <item quantity="one">מינוי אחד</item>
         <item quantity="two">‏%d מינויים</item>
         <item quantity="many">‏%d מינויים</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">‏%1$d מכשירים מחוברים</item>
-        <item quantity="one">מכשיר אחד מחובר</item>
-        <item quantity="two">‏%1$d מכשירים מחוברים</item>
-        <item quantity="many">‏%1$d מכשירים מחוברים</item>
     </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">‏קוד גישה שגוי של כרטיס SIM. נותרו לך %d ניסיונות.</item>

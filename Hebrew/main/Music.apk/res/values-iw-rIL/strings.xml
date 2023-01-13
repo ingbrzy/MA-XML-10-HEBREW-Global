@@ -130,6 +130,8 @@
     <string name="audio_ad_pass">דלג על הפרסומת</string>
     <string name="audio_picker_title">בחר שיר</string>
     <string name="auth_fail_warning">פג תוקף התהליך. היכנס שוב.</string>
+    <string name="auto_play_switch">ניגון אוטומטי של סרטונים</string>
+    <string name="auto_play_toast">הניגון האוטומטי מופעל. ניתן לכבות אותו בהגדרות.</string>
     <string name="auto_recommend">אוטומטי (מומלץ)</string>
     <string name="auto_sound_quality">אוטומטי</string>
     <string name="auto_update">עדכן אוטומטית</string>
@@ -142,6 +144,7 @@
     <string name="back">חזרה</string>
     <string name="back_confirm">לחץ שוב על מנת לדחוף את היישום לרקע</string>
     <string name="best_experience">החוויה הכי טובה</string>
+    <string name="billion_char">%sB</string>
     <string name="bluetooth_device">התקן שמע Bluetooth</string>
     <string name="btn_text_edit">עריכה</string>
     <string name="btn_text_view_all">הצג הכל</string>
@@ -189,7 +192,7 @@
     <string name="current_lyric">מילות שיר נוכחיות</string>
     <string name="current_version">גרסה נוכחית</string>
     <string name="daily_recommendation">מיקס יומי</string>
-    <string name="dark_mode">מצב כהה</string>
+    <string name="dark_mode">מצב מוחשך</string>
     <string name="data_usage_warning">שימוש בנתונים</string>
     <string name="data_usage_warning_summary">שימוש בחיבור הנתונים הסלולרי שלך להזרמת מוסיקה באיכות גבוהה עשוי להגדיל את החיובים בגין צריכת הנתונים שלך.</string>
     <string name="data_use_desc">מסמכים משפטיים</string>
@@ -237,11 +240,11 @@ ID:%s
     <string name="dialog_my_playlist_online_changed_merge">שמירה</string>
     <string name="dialog_my_playlist_online_changed_message">נראה כאילו רשימת ההשמעה שונתה. תוכל לשנות אותה בגרסה החדשה או לשמור את הישנה.</string>
     <string name="dialog_my_playlist_online_changed_replace">החלפה</string>
-    <string name="dialog_my_playlist_set_to_public">שתף את רשימת ההשמעה אם כל המשתמשים של Mi Music ו Hungama Music</string>
+    <string name="dialog_my_playlist_set_to_public">לשתף את רשימת ההשמעה הזו עם כל משתמשי Mi מוסיקה ו-hungama Music</string>
     <string name="dialog_queued_body">קובץ זה נמצא בתור להורדה עתידית.</string>
     <string name="dialog_renew_failure">מצטערים, הפעולה נכשלה</string>
-    <string name="dialog_renew_free_end">הניסיון החינמי שלך נגמר. הצטרף Hungama Pro?</string>
-    <string name="dialog_renew_positive_text">כן, אני רוצה להיות כמו PRO (מקצוען)</string>
+    <string name="dialog_renew_free_end">תקופת הניסיון שלך בחינם הסתיימה. האם להצטרף למינוי הזהב של hungama?</string>
+    <string name="dialog_renew_positive_text">לחדש את מינוי הזהב שלי!</string>
     <string name="dialog_renew_success">תודה על האישור</string>
     <string name="dialog_score_btn_good">דרג</string>
     <string name="dialog_score_msg_score_explorer">האם אהבת את Mi מוסיקה?</string>
@@ -310,7 +313,9 @@ ID:%s
     <string name="download_method">הורדה</string>
     <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
     <string name="download_paused_in_power_save_mode">"ההורדות מופסקות בעת שימוש במצב 'חסכון בסוללה'"</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">מוריד…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">איכות הורדה</string>
     <string name="download_quality_summary">הגדרות נוספות עבור הורדות שירים</string>
     <string name="download_queued">בתור</string>
@@ -354,7 +359,7 @@ ID:%s
     <string name="empty_page_no_album">אין אלבומים.</string>
     <string name="empty_page_no_artist">אין אמנים.</string>
     <string name="enabled">מאופשר</string>
-    <string name="enjoy_hungama_pro">תיהנה מ-Hungama PRO</string>
+    <string name="enjoy_hungama_pro">תיהנה ממינוי הזהב של hungama</string>
     <string name="enroll_in">הצטרף</string>
     <string name="enter_garbage_clean">פנה מקום בשטח האחסון הפנימי.</string>
     <string name="entertainment">בידור</string>
@@ -515,17 +520,17 @@ ID:%s
     <string name="home_tab_recommend">מקוון</string>
     <string name="home_tab_search">חיפוש</string>
     <string name="hot_icon_in_fast_indexer">חם</string>
-    <string name="hungama_batch_download_alert_summary">רק מנויי PRO יכולים להוריד שירים מרובים. לקבל מינוי PRO עכשיו?</string>
+    <string name="hungama_batch_download_alert_summary">רק מנויי זהב יכולים להוריד שירים מרובים. האם לרכוש מינוי זהב כעת?</string>
     <string name="hungama_batch_download_alert_summary_toast">קבל מינוי להורדת כל רשימת ההשמעה.</string>
-    <string name="hungama_download_subscription_toast">נדרש מינוי ל-Hungama Music כדי להוריד שיר זה</string>
-    <string name="hungama_free_download_out_summary">לא ניתן להוריד יותר משלושה שירים בחינם. לקבל מינוי PRO כדי להוריד שירים ללא הגבלה?</string>
+    <string name="hungama_download_subscription_toast">עליך להצטרף ל-hungama Music כמנוי כדי להוריד שיר זה</string>
+    <string name="hungama_free_download_out_summary">לא ניתן להוריד יותר משלושה שירים בחינם. האם לרכוש מינוי זהב כדי להוריד שירים ללא הגבלה?</string>
     <string name="hungama_free_download_out_summary_toast">כבר הורדת %d שירים. קבל מינוי כדי להוריד יותר.</string>
-    <string name="hungama_privacy_desc">מדיניות פרטיות Hungama (אופציונלי)</string>
-    <string name="hungama_privacy_tips_content">על מנת לקבל גישה לתוכן אונליין, תהיה חייב להסכים ל <a href="/link/click"> מדיניות הפרטיות של Hungama</a>.</string>
-    <string name="hungama_privacy_tips_title">מדיניות פרטיות של Hungama</string>
-    <string name="hungama_subscribe_message">"רכוש 'חברות PRO' על מנת שתוכל להוריד מוסיקה באיכות גבוהה."</string>
-    <string name="hungama_subscribe_positive_button">"רכישת 'חברות PRO'"</string>
-    <string name="hungama_subscribe_title">חברות PRO</string>
+    <string name="hungama_privacy_desc">מדיניות הפרטיות של hungama (אופציונלי)</string>
+    <string name="hungama_privacy_tips_content">על מנת לקבל גישה לתוכן מקוון, עליך להסכים עם <a href="/link/click"> מדיניות הפרטיות של hungama</a>.</string>
+    <string name="hungama_privacy_tips_title">מדיניות פרטיות של hungama</string>
+    <string name="hungama_subscribe_message">עליך לרכוש מינוי זהב כדי להוריד מוזיקה באיכות גבוהה.</string>
+    <string name="hungama_subscribe_positive_button">רכישת מינוי זהב</string>
+    <string name="hungama_subscribe_title">מינוי זהב</string>
     <string name="i_know">אישור</string>
     <string name="imported">יובאו</string>
     <string name="impunity_declaration_content">עליך לקרוא ולהסכים ל&lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=iw_IL\">הסכם המשתמש&lt;/a> ול&lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=iw_IL\">מדיניות הפרטיות&lt;/a> שלנו לפני השימוש במוצר.</string>
@@ -656,6 +661,7 @@ ID:%s
     <string name="middle_sound_quality">רגיל</string>
     <string name="midnight">לילה</string>
     <string name="milink_unavaliable_please_update">Mi Link אינו זמין. עדכן את MIUI.</string>
+    <string name="million_char">%sM</string>
     <string name="millions_songs">מיליוני שירים</string>
     <string name="missing_title">&lt;לא מוכר></string>
     <string name="miuishare_account_login_ok">היכנס</string>
@@ -842,7 +848,7 @@ ID:%s
     <string name="online_switch_confirm_title">כיבוי שירותי תוכן מקוון יהפוך את כל התכונות המקוונות לבלתי זמינות. לכבות בכל זאת?</string>
     <string name="online_switch_message">כיבוי של השירותים המקוונים ישפיע על שירותי והמלצות ה-VIP. לכבות בכל זאת?</string>
     <string name="online_switch_setting">הגדרות תוכן מקוון</string>
-    <string name="only_pro_can_choose_hd_sound_quality">שמע ב-HD זמין רק לבעלי מינוי PRO</string>
+    <string name="only_pro_can_choose_hd_sound_quality">שמע באיכות גבוהה (HD) זמין רק עבור מנויי זהב</string>
     <string name="open_online_service">עליך להפעיל את השירותים המקוונים על מנת שתוכל להשתמש בתכונה זו. להפעיל כעת?</string>
     <string name="open_service">הפעלה</string>
     <string name="open_settings">הגדרות</string>
@@ -949,7 +955,7 @@ ID:%s
     <string name="paused_waiting_for_network">ממתין לחיבור</string>
     <string name="paused_waiting_to_retry">ממתין לנסיון מחודש</string>
     <string name="pay_now">השירות הנוכחי</string>
-    <string name="payment_success_message">תודה! התשלום שלך בוצע בהצלחה. מעתה תוכל להנות משירותי PRO.</string>
+    <string name="payment_success_message">תודה! התשלום שלך טופל בהצלחה. מעכשיו תוכל ליהנות משירותי מינוי זהב.</string>
     <string name="payment_success_title">ברכותינו!</string>
     <string name="pending_apk">ממתין…</string>
     <string name="permission_declaration_message">אפשר גישה לאחסון באבטחה > הרשאות > הרשאות > אחסון > מוסיקה על מנת לאפשר למוסיקה לעבוד באופן נורמאלי.</string>
@@ -988,6 +994,7 @@ ID:%s
     <string name="please_select_song">בחר שיר תחילה</string>
     <string name="pm">PM</string>
     <string name="power_save_mode_dialog_msg">"'חסכון בסוללה' מופעל. להתחיל להוריד כעת?"</string>
+    <string name="pre_watched">נצפו</string>
     <string name="preset_music_playlist">רשימת השמעה של Mi מוסיקה</string>
     <string name="priority_storage">השתמש בכרטיס זכרון חיצוני</string>
     <string name="priority_storage_summary">הורד באופן אוטומטי אל כרטיס הזכרון החיצוני במידה וזמין</string>
@@ -997,6 +1004,7 @@ ID:%s
     <string name="privacy_authorize_revoking">שולל הרשאה…</string>
     <string name="privacy_desc">מדיניות פרטיות</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=iw_IL</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music צריך לאסוף מידע האישי הדרוש כדי לספק לך שירותי סטרימינג (הזרמה) מקוונים. מידע לגבי האופן בו אנו מטפלים במידע שאנו אוספים מופיע ב&lt;a href=\"%1$s\">מדיניות הפרטיות &lt;/a> שלנו. תוכל לבטל את הסכמתך למדיניות הפרטיות של Mi Music בכל עת בהגדרות.
 קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%1$s\">מדיניות פרטיות&lt;/a> שלנו לפני השימוש ב-Mi Music.
 אם אינך מסכים להשתמש בשירותים האמורים, לא תוכל להשתמש בתכונות מסוימות של יישום זה; עם זאת, התפקוד הבסיסי שלו עדיין יהיה זמין עבורך.&lt;/Data>"</string>
@@ -1005,7 +1013,7 @@ ID:%s
 - שירותי הזרמה מקוונים"</string>
     <string name="privacy_request_subtitle_offline">ברוך הבא אל Mi מוסיקה! יישום זה הוא נגן לקובצי שמע מקומיים.</string>
     <string name="privacy_request_title">תנאי השימוש</string>
-    <string name="pro_member">מנוי PRO</string>
+    <string name="pro_member">מנוי זהב</string>
     <string name="progressbar_title">בודק שגיאות אבטחה…</string>
     <string name="project_device">טלפון Mi</string>
     <string name="prompt_grant_write_settings_permission">אפשר שינוי של הגדרות המערכת</string>
@@ -1016,7 +1024,7 @@ ID:%s
     <string name="pulluprefreshrecyclerview_loading_running">טוען…</string>
     <string name="qq_login_btn_content_description">התחברות עם QQ</string>
     <string name="queue_is_empty">תור ההשמעה ריק.</string>
-    <string name="read_and_agree_hungama_protocol">&lt;Data>קראתי והסכמתי ל&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">מדיניות הפרטיות של Hungama&lt;/a>&lt;/font>&lt;/Data></string>
+    <string name="read_and_agree_hungama_protocol">&lt;Data>קראתי את &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">מדיניות הפרטיות של hungama&lt;/a> והסכמתי אתה.&lt;/font>&lt;/Data></string>
     <string name="read_and_agree_joox_protocol">&lt;Data>קראתי והסכמתי ל&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">מדיניות הפרטיות של JOOX&lt;/a>&lt;/font>&lt;/Data></string>
     <string name="read_and_agree_mi_protocol">&lt;Data>קראתי והסכמתי ל&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a>&lt;/font> ול&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a>&lt;/font> של Xiaomi&lt;/Data></string>
     <string name="read_and_agree_protocol">קרא והסכם להסכם המשתמש ולמדיניות הפרטיות שלנו לפני שתמשיך.</string>
@@ -1026,6 +1034,7 @@ ID:%s
     <string name="recommend_songs_when_playing_audio_files">קבל המלצות על שירים בזמן האזנה למוזיקה</string>
     <string name="recommended_file_size_download_in_mobile">להשתמש ב- %s של נתונים סלולריים על מנת להוריד קובץ זה?</string>
     <string name="recommended_no_file_size_download_in_mobile">להשתמש בחיבור הנתונים הסלולריים על מנת להוריד קובץ זה?</string>
+    <string name="refresh">רענון</string>
     <string name="register_by_local_phone_long_text">צור חשבון</string>
     <string name="register_by_local_phone_short_text">צור חשבון</string>
     <string name="remove">הסרה</string>
@@ -1054,7 +1063,7 @@ ID:%s
     <string name="retry">נסה שוב</string>
     <string name="retry_after_network_available">לא ניתן להתחבר לרשת. בדוק את החיבור ונסה שוב.</string>
     <string name="retry_download">נסה שוב</string>
-    <string name="revoke_upload_playlist_to_hungama_toast">שירים מקוונים לא יסונכרנו עם Hungama</string>
+    <string name="revoke_upload_playlist_to_hungama_toast">שירים מקוונים לא יסונכרנו עם hungama</string>
     <string name="ringtone_editing">עורך הרינגוטנים</string>
     <string name="ringtone_not_support">הפורמט של שיר זה אינו נתמך</string>
     <string name="ringtone_selected">נבחר</string>
@@ -1082,6 +1091,7 @@ ID:%s
     <string name="search_in_youtube">חפש ב YouTube</string>
     <string name="search_instant_online_music">מקוון</string>
     <string name="search_more">עוד</string>
+    <string name="search_recommend">מומלצים</string>
     <string name="search_result_local_songs">מקומי</string>
     <string name="search_result_online_songs">מקוון</string>
     <string name="search_songs">חפש שירים</string>
@@ -1144,7 +1154,7 @@ ID:%s
     <string name="sleep_mode_canceled">"'מצב שינה' כובה"</string>
     <string name="sleep_mode_summary">עצור את הנגן לאחר פרק זמן מסוים</string>
     <string name="sleep_mode_title">"טיימר 'מצב שינה'"</string>
-    <string name="sliding_pro_center">מרכז PRO</string>
+    <string name="sliding_pro_center">hungama זהב</string>
     <string name="sns_access_token_expired_warning">פג תוקף התהליך. היכנס שוב כדי לחבר חשבון זה מחדש.</string>
     <string name="sns_bind_limit">יותר מדי ניסיונות. נסה דרכים אחרות להיכנס.</string>
     <string name="sns_sign_in">דרכים אחרות לכניסה</string>
@@ -1258,6 +1268,7 @@ ID:%s
     <string name="the_united_nations_day">יום האומות המאוחדות</string>
     <string name="the_valentines_day">יום האהבה (ולנטיין)</string>
     <string name="the_water_lantern_festival">פסטיבל פנסי המים</string>
+    <string name="thousand_char">%sK</string>
     <string name="thursday">חמישי</string>
     <string name="thursday_short">"ה'"</string>
     <string name="thursday_shortest">"ה'"</string>
@@ -1267,6 +1278,7 @@ ID:%s
     <string name="time_picker_label_hour">"שע'"</string>
     <string name="time_picker_label_minute">"ד'"</string>
     <string name="time_to_upgrade">קיים עדכון זמין</string>
+    <string name="tips_click_here_to_continue">הקש כדי לחדש את הניגון</string>
     <string name="title_online_fm_recommend">תחנות FM מומלצות</string>
     <string name="title_online_recommend">רשימות השמעה נבחרות</string>
     <string name="title_search_history">הסטורית חיפוש</string>
@@ -1279,8 +1291,8 @@ ID:%s
     <string name="toast_download_in_process">ההורדה בתהליך</string>
     <string name="toast_favorite_has_been_added">נוסף לרשימת השמעה בהצלחה</string>
     <string name="toast_follow_success">מעקב הוחל בהצלחה</string>
-    <string name="toast_hungama_vip_song">שיר זה זמין רק למנויי PRO. עליך לרכוש מינוי כדי להוריד את השיר הזה.</string>
-    <string name="toast_is_pro">אתה כבר חבר PRO.</string>
+    <string name="toast_hungama_vip_song">שיר זה זמין רק עבור מנויי זהב. עליך לרכוש מינוי כדי להוריד את השיר הזה.</string>
+    <string name="toast_is_pro">כבר הצטרפת למינוי זהב</string>
     <string name="toast_my_playlist_illegal_name">שם רשימת ההשמעה אינו חוקי. שנה את שם רשימת ההשמעה.</string>
     <string name="toast_my_playlist_set_to_private">רשימת ההשמעה פרטית כעת. אנשים אחרים אינם יכולים לצפות בה.</string>
     <string name="toast_my_playlist_set_to_public">רשימת ההשמעה ציבורית כעת. אנשים אחרים יכולים לראות זאת.</string>
@@ -1289,7 +1301,7 @@ ID:%s
     <string name="toast_new_playlist_name_too_long">שם רשימת ההשמעה ארוך מידי</string>
     <string name="toast_normal_songs_for_download">נקבעה איכות הורדות סטנדרטית</string>
     <string name="toast_normal_songs_for_stream">נקבעה איכות הזרמה סטנדרטית</string>
-    <string name="toast_not_pro">תכונה זו זמינה רק למנויי PRO.</string>
+    <string name="toast_not_pro">מאפיין זה זמין רק עבור מנויי זהב</string>
     <string name="toast_playlist_has_been_added">נוסף לתור בהצלחה</string>
     <string name="toast_playlist_has_been_private">רשימת השמעה זו היא פרטית</string>
     <string name="toast_playlist_has_been_public">רשימת השמעה זו היא ציבורית</string>
@@ -1325,8 +1337,8 @@ ID:%s
     <string name="upload_favorite_setting_title">סנכרן שירים</string>
     <string name="upload_playlist_to_hungama_negative_text">לא לסנכרן</string>
     <string name="upload_playlist_to_hungama_positive_text">סנכרן</string>
-    <string name="upload_playlist_to_hungama_title">סנכרן שירים מקוונים עם Hungama כדי לקבל גישה לאותם השירים ממכשירים אחרים כשאתה משתמש בחשבון Xiaomi.</string>
-    <string name="upload_playlist_to_hungama_toast">שירים מקוונים יסונכרנו עם Hungama</string>
+    <string name="upload_playlist_to_hungama_title">סנכרון שירים מקוונים עם hungama כדי שניתן יהיה לקבל גישה אליהם ממכשירים אחרים בזמן שימוש בחשבון Xiaomi שלך.</string>
+    <string name="upload_playlist_to_hungama_toast">שירים מקוונים יסונכרנו עם hungama</string>
     <string name="user_agreement">הסכם משתמש</string>
     <string name="user_agreement_hint_3rd_app">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a> ואת &lt;a href=%3$s>הסכם המשתמש&lt;/a> &lt;a href=%4$s>ומדיניות הפרטיות&lt;/a> של חשבון Mi, והסכמתי אתם.&lt;/Data></string>
     <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, את &lt;a href=%3$s>הסכם המשתמש&lt;/a> &lt;a href=%4$s>ומדיניות הפרטיות&lt;/a> של חשבון Mi, וגם את &lt;a href=%5$s>התנאים וההגבלות עבור שירותי האימות של China Mobile, והסכמתי אתם&lt;/a>.&lt;/Data></string>
@@ -1337,6 +1349,7 @@ ID:%s
     <string name="user_agreement_hint_with_mobile">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, וגם את &lt;a href=%3$s>התנאים וההגבלות עבור שירותי האימות של China Mobile והסכמתי אתם&lt;/a>.&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, וגם את &lt;a href=%3$s>התנאים וההגבלות עבור שירותי האימות של eSurfing והסכמתי אתם&lt;/a>.&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>קראתי את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a>, וגם את &lt;a href=%3$s>התנאים וההגבלות עבור שירותי האימות של China Unicom והסכמתי אתם&lt;/a>.&lt;/Data></string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=iw_IL</string>
     <string name="user_avatar_update_title">החלף תמונת פרופיל</string>
     <string name="user_avatar_uploading">רק רגע…</string>
     <string name="user_experience_program_open">בגלל הגבלות של זכויות יוצרים עליך להירשם לתכנית חווית המשתמש כדי להשמיע שירם שהורדו. ניתן לעשות את זה על-ידי מעבר אל הגדרות > סיסמאות ואבטחה > פרטיות > הירשם לתוכנית חוויית המשתמש.</string>
@@ -1356,7 +1369,7 @@ ID:%s
     <string name="video_retry_btn">נסה שוב</string>
     <string name="view_album">צפה באלבום</string>
     <string name="vip_required">"רכוש את 'חבילת שירי פרימיום' על מנת לנגן שיר זה. דילגנו עליו לעת עתה."</string>
-    <string name="vip_required_with_song">%s זמין למנויי PRO בלבד. כרגע דילגנו על השיר הזה.</string>
+    <string name="vip_required_with_song">%s זמין למנויי זהב בלבד. כרגע דילגנו על השיר הזה.</string>
     <string name="voice_search_first_hint">נסה חיפוש קולי!</string>
     <string name="watch_video">צפייה בווידאו</string>
     <string name="wednesday">רביעי</string>
@@ -1372,5 +1385,16 @@ ID:%s
     <string name="yesterday">אתמול</string>
     <string name="you_can_switch_mode_in_settings">ניתן להחליף בין המצבים בהגדרות</string>
     <string name="you_may_like">יתכן שתאהב גם</string>
+    <string name="youtube_download_canl">ביטול</string>
+    <string name="youtube_download_fail_net">לא ניתן להתחבר לאינטרנט. יש לבדוק את הגדרות הרשת ולנסות שוב.</string>
+    <string name="youtube_download_fail_source">אירעה שגיאה. יש להמתין דקה או שתיים ולנסות שוב.</string>
+    <string name="youtube_download_fail_space">ההורדה נכשלה. אין די שטח אחסון.</string>
+    <string name="youtube_download_fail_unknown">אירעה שגיאה. יש להמתין דקה או שתיים ולנסות שוב.</string>
+    <string name="youtube_download_hint">השמע מסרטון זה יאוחסן במכשיר שלך בפורמט MP3, כאשר כותרת הסרטון תשמש כשם הקובץ. האם להוריד עכשיו?</string>
+    <string name="youtube_download_ing">רק רגע…</string>
+    <string name="youtube_download_start">הורדה</string>
+    <string name="youtube_download_suc">ההורדה הושלמה בהצלחה</string>
     <string name="youtube_play_history">היסטורית צפייה/האזנה</string>
+    <string name="youtube_share_guide_tip">כעת באפשרותך לשתף סרטונים עם חברים</string>
+    <string name="youtube_tab_explore">לגלות</string>
 </resources>

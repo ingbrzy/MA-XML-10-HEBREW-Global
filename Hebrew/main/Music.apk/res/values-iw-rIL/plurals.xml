@@ -186,6 +186,12 @@
         <item quantity="two">&lt;font color=\"red\">%d שירים&lt;/font> בתהליך הורדה</item>
         <item quantity="many">&lt;font color=\"red\">%d שירים&lt;/font> בתהליך הורדה</item>
     </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s צפיות</item>
+        <item quantity="one">צפייה %s</item>
+        <item quantity="two">%s צפיות</item>
+        <item quantity="many">%s צפיות</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d הורדות בחינם</item>
         <item quantity="one">%d הורדה בחינם</item>

@@ -5,7 +5,7 @@
     <string name="am">AM</string>
     <string name="cancel">ביטול</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
-    <string name="close">סגירה</string>
+    <string name="close">כיבוי</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -98,7 +98,13 @@
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
+    <string name="grant_permission_go_and_set_2">הגדרות</string>
+    <string name="grant_permission_item">%s</string>
+    <string name="grant_permission_remind_title">נדרשות הרשאות</string>
+    <string name="grant_permission_storage">אפשר ליישום זה לגשת לאחסון.</string>
+    <string name="grant_permission_text">עורך הגלריה זקוק להרשאה הבאה כדי לפעול כרגיל: %s. הקש על \"הגדרות\" כדי להעניק אותה.</string>
     <string name="midnight">לילה</string>
+    <string name="miuix_access_state_desc">נבחר</string>
     <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
@@ -177,6 +183,7 @@
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
     <string name="ok">אישור</string>
+    <string name="open">פועל</string>
     <string name="pm">PM</string>
     <string name="refocus_discard_confirm_message">לשמור את השינויים?</string>
     <string name="refocus_discard_negative_btn">דחיה</string>
@@ -219,6 +226,14 @@
     <string name="refocus_type_relighting_small_face">תאורת סטודיו מיועדת לתמונות שבהן הפנים שבתמונה גדולות יותר.</string>
     <string name="refocus_type_static">טשטוש</string>
     <string name="refocus_type_video">שבילי אור</string>
+    <string name="saf_operation_guide_1">"עורך הגלריה זקוק לאישור שלך כדי להגן על הנתונים שלך ולנהל אותם. "</string>
+    <string name="saf_operation_guide_2">למתן ההרשאה יש להקיש על \"%1$s\", ואז לבחור באפשרות \"%2$s\".</string>
+    <string name="saf_operation_guide_param1">הבא</string>
+    <string name="saf_operation_guide_param2">גישה לתיקייה זו</string>
+    <string name="saf_requester_cancel">ביטול</string>
+    <string name="saf_requester_title">לאשר לגלריה גישה אל \"%s\"</string>
+    <string name="saf_secret_album">אלבום פרטי</string>
+    <string name="saf_secret_album_guide">אפליקציה זו זקוקה להרשאות להצגת פריטים מהאלבום הפרטי שלך.</string>
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>

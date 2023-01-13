@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="all_month_str">
-        <item>ינו</item>
-        <item>פבר</item>
-        <item>מרץ</item>
-        <item>אפר</item>
-        <item>מאי</item>
-        <item>יונ</item>
-        <item>יול</item>
-        <item>אוג</item>
-        <item>ספט</item>
-        <item>אוק</item>
-        <item>נוב</item>
-        <item>דצמ</item>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>א</item>
@@ -73,29 +81,12 @@
         <item>בחודש הבא</item>
         <item>בחר תאריך</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_summary_array">
-        <item>זעיר</item>
-        <item>קטן</item>
-        <item>רגיל</item>
-        <item>גדול</item>
-        <item>ענק</item>
-    </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>נצפו לאחרונה</item>
         <item>סוג הקובץ</item>
         <item>שם</item>
         <item>השולח</item>
         <item>תאריך הקבלה</item>
-    </string-array>
-    <string-array name="moveto_folder_sections">
-        <item>מערכת</item>
-        <item>בשימוש שכיח</item>
-        <item>כל התיקיות</item>
-    </string-array>
-    <string-array name="prefEntries_autoAdvance">
-        <item>הודעה חדשה יותר</item>
-        <item>הודעה ישנה יותר</item>
-        <item>דואר נכנס</item>
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>הכל</item>

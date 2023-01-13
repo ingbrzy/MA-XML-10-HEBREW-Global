@@ -29,6 +29,7 @@
     <string name="dual_app_title">יישומים משוכפלים</string>
     <string name="dual_app_words">לכל חשבון מגיע יישום משלו</string>
     <string name="early_morning">מוקדם בבוקר</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
     <string name="evening">לפנות ערב</string>
@@ -118,14 +119,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="free_send_net_booster">"'מאיץ מהירות רשת' חינמי"</string>
-    <string name="free_send_net_booster_busniess">"קבל את 'מאיץ המהירות של Xunlei' בחינם"</string>
-    <string name="free_send_net_booster_busniess_tip">לחץ כדי לקבל</string>
-    <string name="free_send_net_booster_tip">"'מאיץ מהירות רשת' חינמי שיעניק לך חוויית משחק חלקה ומהנה."</string>
+    <string name="free_send_net_booster">נסה את מאיץ המשחקים בחינם</string>
+    <string name="free_send_net_booster_busniess">נסה את מאיץ המשחקים בחינם</string>
+    <string name="free_send_net_booster_busniess_tip">שפר את חוויית המשחק שלך וזכה במעטפת (סקין) של משחק. ההצעה תקפה רק היום!</string>
+    <string name="free_send_net_booster_tip">שפר את חוויית המשחק שלך וזכה במכשיר Xiaomi!</string>
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
     <string name="game_booster">מאיץ מהירות המשחקים</string>
+    <string name="gamebooster_dialog_recover">חדש</string>
+    <string name="gamebooster_dialog_start_booster">התחל</string>
     <string name="gamebooster_network_dialog_message">לאפשר ליישום האבטחה להתחבר לאינטרנט על מנת להשתמש בכל המאפיינים של \"משחקים טורבו\"?</string>
     <string name="gamebooster_network_dialog_message_pad">האם לאפשר ליישום האבטחה להתחבר לאינטרנט על מנת להשתמש בכל התכונות של \"מאיץ המשחקים\"?</string>
     <string name="gamebooster_network_dialog_title">תכונות מסויימות אינן זמינות</string>
@@ -289,7 +292,7 @@
     <string name="morning">בוקר</string>
     <string name="net_booster_expire_notification">פעילות האצת מהירות הרשת עומדת להסתיים</string>
     <string name="net_booster_overdue_notification">פעילות האצת מהירות הרשת עומדת להסתיים</string>
-    <string name="net_booster_overdue_notification_tip">פעילות האצת מהירות הרשת תסתיים בקרוב. לחדש את התהליך?</string>
+    <string name="net_booster_overdue_notification_tip">ההפעלה של הגברת מהירות הרשת הסתיימה. ייתכן שתתחיל לחוות עיכובים ברשת. האם לחדש את ההפעלה עכשיו?</string>
     <string name="network_not_available">לא ניתן להתחבר לרשת</string>
     <string name="night">ערב</string>
     <string name="no_network">לא ניתן להתחבר לרשת</string>
@@ -300,6 +303,8 @@
     <string name="pc_activity_title">ייעול הסוללה</string>
     <string name="pm">PM</string>
     <string name="pm_lable_name">אודות הרשאות Root</string>
+    <string name="power_center_battery_duration_screen_on">זמן מסך שנותר</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">נותרו %1$s %2$s של זמן מסך</string>
     <string name="privacy_declare_dialog_title">תנאי השירות</string>
     <string name="privacy_prompt_traffic_purchase_message">מספר הטלפון שלך ופרטי ספק הרשת יוצפנו ויועלו לשרתי Mi על מנת לקבל מידע נוסף אודות אפשרויות רכישת נתונים.</string>
     <string name="renew_now">חידוש</string>

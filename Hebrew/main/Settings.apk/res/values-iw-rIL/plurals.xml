@@ -90,6 +90,12 @@
         <item quantity="two">%d מכשירים זמינים</item>
         <item quantity="many">%d מכשירים זמינים</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">שנייה אחת (%d)</item>
+        <item quantity="two">%d שניות</item>
+        <item quantity="many">%d שניות</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">בכל %d שניות</item>
         <item quantity="one">בכל שנייה אחת (%d)</item>
@@ -198,6 +204,12 @@
         <item quantity="two">יש להמתין במשך %d שניות ולנסות שוב.</item>
         <item quantity="many">יש להמתין במשך %d שניות ולנסות שוב.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">%d תהליכים לכל היותר</item>
+        <item quantity="one">תהליך אחד (%d) לכל היותר</item>
+        <item quantity="two">%d תהליכים לכל היותר</item>
+        <item quantity="many">%d תהליכים לכל היותר</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d נוספו</item>
         <item quantity="one">%d נוסף</item>
@@ -235,10 +247,10 @@
         <item quantity="many">הינך נמצא %1$d צעדים לפני כניסה ל-CIT.</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">אתה נמצא במרחק של (%1$d) צעדים מפתיחת פרטי מכשיר.</item>
+        <item quantity="other">"You're %1$d steps away from opening device info."</item>
         <item quantity="one">אתה נמצא במרחק של צעד אחד (%1$d) מפתיחת פרטי מכשיר.</item>
-        <item quantity="two">אתה נמצא במרחק של (%1$d) צעדים מפתיחת פרטי מכשיר.</item>
-        <item quantity="many">אתה נמצא במרחק של (%1$d) צעדים מפתיחת פרטי מכשיר.</item>
+        <item quantity="two">"You're %1$d steps away from opening device info."</item>
+        <item quantity="many">"You're %1$d steps away from opening device info."</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">הינך נמצא %1$d צעדים לפני דיווח על שגיאה.</item>
@@ -257,6 +269,36 @@
         <item quantity="one">יישום %d יכול להציג התראות</item>
         <item quantity="two">%d יישומים יכולים להציג התראות</item>
         <item quantity="many">%d יישומים יכולים להציג התראות</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">לאחר %d דקות</item>
+        <item quantity="one">לאחר דקה אחת (%d)</item>
+        <item quantity="two">לאחר %d דקות</item>
+        <item quantity="many">לאחר %d דקות</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d ביטים לדגימה</item>
+        <item quantity="one">%d ביט לדגימה</item>
+        <item quantity="two">%d ביטים לדגימה</item>
+        <item quantity="many">%d ביטים לדגימה</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה אחת (%d)</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה אחת (%d)</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">שנייה אחת (%d)</item>
+        <item quantity="two">%d שניות</item>
+        <item quantity="many">%d שניות</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">לקבל התראה בכל פעם כשאחת מהאוזניות שלך לא נמצאת באוזן או במארז הטעינה במשך יותר מ-%d דקות</item>

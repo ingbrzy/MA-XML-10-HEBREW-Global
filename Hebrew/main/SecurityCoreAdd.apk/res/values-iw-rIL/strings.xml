@@ -16,6 +16,7 @@
     <string name="air_space_exit">צא מהשטח</string>
     <string name="air_space_setting">הגדרות השטח</string>
     <string name="airspace_users_full">לא ניתן היה ליצור שטח עבודה נוסף</string>
+    <string name="alwaysUsePrompt">זכור את הבחירה שלי</string>
     <string name="am">AM</string>
     <string name="appData">יישומים מותקנים</string>
     <string name="app_name">רכיב ליבת האבטחה</string>
@@ -235,8 +236,7 @@
     <string name="green_guard_title3">ניהול יישומים</string>
     <string name="greenguard_child_des">נהל את המכשירים של חבריך ומשפחתך</string>
     <string name="greenguard_child_des_title">סרוק קוד QR להוספת מכשיר</string>
-    <string name="greenguard_functional_description">"נהל מכשירים מרחוק, צפה בפרטי המיקום, 
-שלוט ביישומים מותקנים והגבל שימושיות"</string>
+    <string name="greenguard_functional_description">ניהול מכשירים מרחוק, צפייה במידע מיקום, ושליטה ביישומים מותקנים</string>
     <string name="greenguard_install_cancle">לא תודה</string>
     <string name="greenguard_install_confirm">התקנה</string>
     <string name="greenguard_install_message">\"הגנה משפחתית\" הוא יישום מערכת. לא צריך חיבור אינטרנטי כדי להתקין אותו.</string>
@@ -656,6 +656,7 @@
     <string name="xspace_guide_description">"לכל חשבון
 מגיע יישום משלו"</string>
     <string name="xspace_guide_title">"נסה את 'יישומים כפולים'"</string>
+    <string name="xspace_head">יישום משוכפל</string>
     <string name="xspace_header">יישומים משוכפלים</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font>יישום משוכפל נוצר בהצלחה.&lt;/font>&lt;font color=#0D84FF>פתח אותו עכשיו&lt;/font>.</string>
@@ -671,6 +672,7 @@
     <string name="xspace_notification_error">היכנס ל-WeChat המשוכפל ונסה שוב</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">מחיק חשבונות של יישומים משוכפלים</string>
+    <string name="xspace_resolver_activity_title">בחר יישום</string>
     <string name="xspace_setting_label">הגדרות יישומים משוכפלים</string>
     <string name="xspace_settins">הגדר</string>
     <string name="xspace_start">צור</string>

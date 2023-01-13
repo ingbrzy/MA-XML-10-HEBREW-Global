@@ -252,6 +252,12 @@
         <item quantity="two">%d פריטים נבחרו</item>
         <item quantity="many">%d פריטים נבחרו</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d שיחות שלא נענו</item>
+        <item quantity="one">שיחה %d שלא נענתה</item>
+        <item quantity="two">%d שיחות שלא נענו</item>
+        <item quantity="many">%d שיחות שלא נענו</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d נבחרו</item>
         <item quantity="one">%1$d נבחר</item>

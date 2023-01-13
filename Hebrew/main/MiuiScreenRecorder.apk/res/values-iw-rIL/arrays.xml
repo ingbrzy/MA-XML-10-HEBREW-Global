@@ -88,6 +88,12 @@
         <item>מיקרופון</item>
         <item>צלילי מערכת</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>ללא</item>
+        <item>מיקרופון</item>
+        <item>מערכת</item>
+        <item>גם וגם</item>
+    </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>אחסון פנימי</item>
         <item>אחסון חיצוני</item>

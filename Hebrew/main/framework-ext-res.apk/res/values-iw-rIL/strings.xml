@@ -13,6 +13,7 @@
     <string name="android_ringtone_default_with_actual">צלצול ברירת מחדל (%1$s)</string>
     <string name="android_ringtone_silent">אין</string>
     <string name="android_ringtone_unknown">צלצול לא מוכר</string>
+    <string name="app_continuity_channel_name">התאמות פריסה של יישום</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">לא ניתן היה לפתוח את קוד התשלום של Alipay</string>
     <string name="application_cannot_open_alipay_scanner">לא ניתן היה לפתוח את סורק Alipay</string>
@@ -111,6 +112,10 @@
     <string name="crystal">בדולח</string>
     <string name="cut">גזור</string>
     <string name="dance">ריקוד</string>
+    <string name="dark_mode_enable">הפעלה</string>
+    <string name="dark_mode_suggest_message">אפשר לעבור למצב מוחשך באופן אוטומטי לאחר שקיעת השמש כדי ליהנות מחוויית צפייה נוחה יותר</string>
+    <string name="dark_mode_suggest_title">מתחיל להחשיך</string>
+    <string name="dark_mode_suggest_toast">מעכשיו מצב מוחשך יופעל באופן אוטומטי לאחר שקיעת השמש ויושבת עם זריחת השמש</string>
     <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="daydream">חלום בהקיץ</string>
     <string name="default_device_name">מכשיר לא ידוע</string>
@@ -130,6 +135,7 @@
     <string name="dewdrops">טללי שחר</string>
     <string name="digitaluniverse">ייקום דיגיטלי (סטריאו)</string>
     <string name="disable_nfc">NFC הושבת לצורך טעינה אלחוטית</string>
+    <string name="disable_nfc_haptic_reverse">ה-NFC והרטט כובו לצורך טעינה אלחוטית הפוכה</string>
     <string name="disable_nfc_reverse">NFC הושבת לצורך טעינה אלחוטית אחורית</string>
     <string name="echo">הד</string>
     <string name="eighthours">8 שעות</string>
@@ -137,6 +143,7 @@
     <string name="enable_livetalk_title">הפעל חבילת Top-up</string>
     <string name="enable_midrop">הפעל</string>
     <string name="enable_nfc">הטעינה הסתיימה. NFC הופעל מחדש.</string>
+    <string name="enable_nfc_haptic_reverse">הטעינה ההפוכה נעצרה. ה-NFC והרטט הופעלו שוב.</string>
     <string name="enable_nfc_reverse">הטעינה האחורית הסתיימה. NFC הופעל מחדש.</string>
     <string name="expect">התרגשות</string>
     <string name="fadein">פייד אין</string>
@@ -154,6 +161,7 @@
     <string name="flip_screen_camera_tip">הפוך את המכשיר כדי להשתמש במצלמה</string>
     <string name="flute">חליל</string>
     <string name="fm_record_smaple_prefix_miui">הקלטת FM</string>
+    <string name="fold_small_not_split">"'מסך מפוצל' אינו נתמך במסך חיצוני"</string>
     <string name="force_exit_message">%1$s נסגר בכפייה</string>
     <string name="force_exit_skip_message">לא ניתן לסגור את %1$s משום שהוא נחוץ לפעילות המערכת.</string>
     <string name="fourhours">שעתיים</string>
@@ -163,6 +171,7 @@
     <string name="fp_nav_center_action_choose_dlg_title">"הפעל את 'הקשה מהירה'"</string>
     <string name="freeform_exchange_tip">שחרר לפתיחת היישום</string>
     <string name="freeform_exchange_tip2">גרור לפינה לביטול</string>
+    <string name="freeform_exchange_tip3">פתח חלון צף במצב מסך מלא</string>
     <string name="frenchchic">"צ'יק"</string>
     <string name="frequent_email">כתובת אימייל שנמצאת בשימוש הרבה</string>
     <string name="frequent_phrases">ביטויים שכיחים</string>
@@ -204,6 +213,13 @@
     <string name="international_livetalk_enable">שימוש בחבילת Top-up עבור שיחות בינלאומיות</string>
     <string name="key_btn_ok">אישור</string>
     <string name="key_btn_space">רווח</string>
+    <string name="keyboard_connect_failed">חיבור מקלדת נכשל. יש לחברה בשנית.</string>
+    <string name="keyboard_identity_reject_confirm">הבנתי</string>
+    <string name="keyboard_identity_reject_message">נראה שהמקלדת שלך לא מתאימה למכשיר זה.</string>
+    <string name="keyboard_identity_transfer_error_message">חיבור מקלדת נכשל. נסה שנית.</string>
+    <string name="keyboard_upgrade_failed">לא ניתן לעדכן מקלדת</string>
+    <string name="keyboard_upgrade_start">מעדכן מקלדת…</string>
+    <string name="keyboard_upgrade_success">המקלדת עודכנה בהצלחה</string>
     <string name="kungfu">קונג-פו</string>
     <string name="leisure">פנאי</string>
     <string name="livetalk_not_enable">חבילת Top-up כבויה</string>
@@ -235,6 +251,8 @@
     <string name="miremix">Mi (רמיקס)</string>
     <string name="miui_forbid_poweroff_when_device_locked">לא ניתן לכבות, המכשיר נעול.</string>
     <string name="miui_multiwindow_not_support_cvw">לא ניתן להתאים את גודל החלון עבור יישום זה</string>
+    <string name="miui_multiwindow_not_support_small_window">%1$s אינו תומך בחלונות צפים</string>
+    <string name="miui_multiwindow_not_support_split">%1$s אינו תומך במסך מפוצל</string>
     <string name="miui_screen_ratio_hint">בעיות יחסי המסך</string>
     <string name="miui_screen_ratio_hint_dont_show_again">אל תציג שוב</string>
     <string name="miui_screen_ratio_hint_go_to_settings">"עבור ל'הגדרות'"</string>
@@ -262,6 +280,7 @@
     <string name="oneplus_phone">OnePlus</string>
     <string name="open_close_tip_action">הבנתי</string>
     <string name="open_close_tip_content">לסגירת החלון הצף לחץ לחיצה ממושכת על סרגל הפעולות ולאחר מכן העבר אצבע כלפי מעלה</string>
+    <string name="open_miui_optimization">קודם יש להפעיל את מיטוב MIUI</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="orange">כתום</string>
@@ -309,8 +328,19 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_action">הפעל מחדש</string>
+    <string name="relaunch_dialog_alwaysUsePrompt">זכור את הבחירה שלי</string>
+    <string name="relaunch_dialog_button_cancel">ביטול</string>
+    <string name="relaunch_dialog_button_confirm">הפעל מחדש</string>
+    <string name="relaunch_dialog_message">ניתן לשנות את גודל היישום רק לאחר הפעלה מחדש. הפעלת היישום מחדש כעת תגרום לאובדן כל השינויים שלא נשמרו. האם להפעיל מחדש בכל זאת?</string>
+    <string name="relaunch_dialog_title">האם להפעיל כעת מחדש את \"%s\"?</string>
+    <string name="relaunch_fold_notification_content">ייתכן שיישום זה לא יוצג כראוי במסך זה. הפעל מחדש את היישום כדי להתאים פריסות.</string>
+    <string name="relaunch_notification_title">הפעל מחדש את \"%s\"</string>
+    <string name="relaunch_unfold_notification_content">ייתכן שיישום זה לא יוצג כראוי במסך זה. הפעל מחדש את היישום כדי להתאים פריסות.</string>
     <string name="remain">נותרו: %s</string>
     <string name="replace">החלף</string>
+    <string name="rescuepartyplus_config_reset_context">ייתכן שחלק מהנתונים נוקו. הקש כדי להציג פרטים.</string>
+    <string name="rescuepartyplus_config_reset_title">תיקון המערכת הושלם</string>
     <string name="resolver_app_recommend_flag">המלץ</string>
     <string name="resolver_checkbox_always">תמיד</string>
     <string name="resolver_checkbox_once">פעם אחת</string>
@@ -325,6 +355,11 @@
     <string name="rog_phone">ROG</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">טלפון Samsung</string>
+    <string name="sc_notification_warning_content">אם היישום אינו מוצג כראוי, ניתן לשחזר את תצוגת ברירת המחדל שלו או לשנות את העדפות התצוגה של היישום בהגדרות.</string>
+    <string name="sc_notification_warning_restore">שחזר</string>
+    <string name="sc_notification_warning_settings">הגדרות</string>
+    <string name="sc_notification_warning_title">העדפות תצוגה של היישום</string>
+    <string name="sc_relaunch_dialog_message">ייתכן שיישום זה לא יוצג כראוי במסך זה. הפעל מחדש את היישום כדי להתאים פריסות.</string>
     <string name="scanning_device_tips">מחפש מכשירים בקרבת מקום… וודא שהמכשיר שאתה מחפש נמצא במצב איתור.</string>
     <string name="screen_button_notification_text">"על מנת להפעילם, לחץ במקביל על לחצן ה'בית' ולחצן ה'הפעלה'."</string>
     <string name="screen_button_notification_title">לחצני הניווט כבויים</string>
@@ -357,6 +392,7 @@
     <string name="set_password_action">הגדר סיסמה</string>
     <string name="set_password_message">הגדר סיסמה על מנת להשתמש בתכונה זו.</string>
     <string name="set_password_title">הגדר סיסמה</string>
+    <string name="shortcut_no_support_on_pc_mode">מחווה זו אינה נתמכת במצב מחשב אישי</string>
     <string name="shutdown_confirm_title">לכבות את המכשיר כעת?</string>
     <string name="shutdown_progress">מכבה…</string>
     <string name="silence_mode">מצב שקט</string>
@@ -413,6 +449,8 @@
     <string name="status_bar_toggle_wifi_ap">נקודה חמה</string>
     <string name="stoneskimming_preview">צעדים קלים</string>
     <string name="stop_operate_camera_frequently">פתחת את המצלמה בתדירות גבוהה מדיי.</string>
+    <string name="stylus_pen_mask_screenshot">הקש על המסך כדי לבצע צילום מסך</string>
+    <string name="stylus_pen_mask_text">הקש על המסך כדי להתחיל לכתוב</string>
     <string name="subinfo_default_name">SIM %d</string>
     <string name="sunlight_notification_content">התאם את הבהירות באופן אוטומטי לאור סביבה חזק</string>
     <string name="sunlight_notification_title">"הפעל את 'מצב אור שמש'"</string>
@@ -441,6 +479,7 @@
     <string name="unknown_caller">מספר לא ידוע</string>
     <string name="unrecognized_manufacture">לא ידוע</string>
     <string name="unrecognized_model">מכשיר לא ידוע</string>
+    <string name="unreplace_freeform_count_max">לא ניתן לפתוח עוד חלונות צפים</string>
     <string name="user_authentication_failed">האימות נכשל -29-</string>
     <string name="user_switching_dialog_switch_into_kid_space">מחליף לשטח ילד…</string>
     <string name="user_switching_dialog_switch_out_kid_space">עוזב את שטח ילד…</string>

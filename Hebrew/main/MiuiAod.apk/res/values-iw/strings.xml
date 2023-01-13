@@ -42,11 +42,11 @@
     <string name="material_hour_suffix">השעה %1$s</string>
     <string name="material_minute_selection">בחר דקות</string>
     <string name="material_minute_suffix">%1$s דקות</string>
-    <string name="material_timepicker_am">לפנה\"צ</string>
+    <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">העבר למצב שעון לצורך הזנת השעה</string>
     <string name="material_timepicker_hour">שעה</string>
     <string name="material_timepicker_minute">דקה</string>
-    <string name="material_timepicker_pm">אחה\"צ</string>
+    <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">בחר שעה</string>
     <string name="material_timepicker_text_input_mode_description">העבר למצב קלט טקסט לצורך הזנת השעה</string>
     <string name="mtrl_badge_numberless_content_description">התראה חדשה</string>
@@ -55,6 +55,8 @@
     <string name="mtrl_picker_a11y_next_month">מעבר לחודש הבא</string>
     <string name="mtrl_picker_a11y_prev_month">מעבר לחודש הקודם</string>
     <string name="mtrl_picker_announce_current_selection">הבחירה הנוכחית: %1$s</string>
+    <string name="mtrl_picker_cancel">ביטול</string>
+    <string name="mtrl_picker_confirm">אישור</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">יש לבחור תאריך</string>
     <string name="mtrl_picker_date_header_unselected">התאריך הנבחר</string>
@@ -81,10 +83,13 @@
     <string name="mtrl_picker_toggle_to_day_selection">יש להקיש כדי להחליף לבחירת יום</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">החלפה לשיטת קלט של טקסט</string>
     <string name="mtrl_picker_toggle_to_year_selection">יש להקיש כדי להחליף לבחירת שנה</string>
+    <string name="mtrl_timepicker_cancel">ביטול</string>
+    <string name="mtrl_timepicker_confirm">אישור</string>
     <string name="not_set">לא מוגדרת</string>
     <string name="password_toggle_content_description">הצגת סיסמה</string>
     <string name="preference_copied">\"%1$s\" הועתק ללוח.</string>
     <string name="search_menu_title">חיפוש</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="v7_preference_off">כבוי</string>
     <string name="v7_preference_on">מופעל</string>

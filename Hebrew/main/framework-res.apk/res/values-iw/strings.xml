@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">זהירות</string>
     <string name="VideoView_error_text_invalid_progressive_playback">לא ניתן להעביר את הסרטון הזה בסטרימינג למכשיר.</string>
     <string name="selectTextMode">בחירת טקסט</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">סמל טביעת אצבע</string>
     <string name="paste_as_plain_text">הדבקה כטקסט פשוט</string>
     <string name="autofill">מילוי אוטומטי</string>
@@ -175,7 +176,6 @@
     <string name="accessibility_dialog_button_deny">עדיף שלא</string>
     <string name="accessibility_edit_shortcut_menu_button_title">בחירת תכונה לשימוש עם לחצן הנגישות</string>
     <string name="accessibility_edit_shortcut_menu_volume_title">בחירת תכונות לשימוש עם מקש הקיצור לעוצמת הקול</string>
-    <string name="accessibility_enable_service_encryption_warning">אם השירות %1$s יופעל, המכשיר לא ישתמש בנעילת המסך כדי לשפר את הצפנת הנתונים.</string>
     <string name="accessibility_enable_service_title">להעניק לשירות %1$s שליטה מלאה במכשיר?</string>
     <string name="accessibility_freeform_caption">סרגל כיתוב של %1$s.</string>
     <string name="accessibility_gesture_3finger_instructional_text">כדי לעבור בין תכונות, יש להחליק כלפי מעלה בעזרת שלוש אצבעות ולהחזיק.</string>
@@ -193,7 +193,7 @@
     <string name="accessibility_shortcut_enabling_service">לחצני עוצמת הקול נלחצו בלחיצה ארוכה. שירות %1$s הופעל.</string>
     <string name="accessibility_shortcut_menu_item_status_off">כבוי</string>
     <string name="accessibility_shortcut_menu_item_status_on">מופעל</string>
-    <string name="accessibility_shortcut_multiple_service_list">"\u0009• %1$s
+    <string name="accessibility_shortcut_multiple_service_list">" • %1$s
 "</string>
     <string name="accessibility_shortcut_multiple_service_warning">"לחיצה ארוכה על שני לחצני עוצמת הקול למשך מספר שניות מפעילה את תכונות הנגישות. בעקבות זאת, ייתכן שאופן הפעולה של המכשיר ישתנה.
 
@@ -212,7 +212,13 @@
     <string name="accessibility_shortcut_warning_dialog_title">להשתמש בקיצור הדרך לתכונת הנגישות?</string>
     <string name="accessibility_system_action_back_label">חזרה</string>
     <string name="accessibility_system_action_dismiss_notification_shade">סגירת לוח ההתראות</string>
+    <string name="accessibility_system_action_dpad_center_label">‏לחצן אמצעי ב-Dpad</string>
+    <string name="accessibility_system_action_dpad_down_label">‏לחצן תחתון ב-Dpad</string>
+    <string name="accessibility_system_action_dpad_left_label">‏לחצן שמאלי ב-Dpad</string>
+    <string name="accessibility_system_action_dpad_right_label">‏לחצן ימני ב-Dpad</string>
+    <string name="accessibility_system_action_dpad_up_label">‏לחצן עליון ב-Dpad</string>
     <string name="accessibility_system_action_hardware_a11y_shortcut_label">קיצור דרך לנגישות</string>
+    <string name="accessibility_system_action_headset_hook_label">הוק לאוזניות</string>
     <string name="accessibility_system_action_home_label">בית</string>
     <string name="accessibility_system_action_lock_screen_label">מסך הנעילה</string>
     <string name="accessibility_system_action_notifications_label">התראות</string>
@@ -291,6 +297,15 @@
     <string name="app_not_found">לא נמצאה אפליקציה שתומכת בפעולה הזו</string>
     <string name="app_running_notification_text">יש להקיש לקבלת מידע נוסף או כדי לעצור את האפליקציה.</string>
     <string name="app_running_notification_title">אפליקציית %1$s פועלת</string>
+    <string name="app_streaming_blocked_message">אי אפשר לגשת לאפליקציה הזו במכשיר %1$s. במקום זאת, יש לנסות בטלפון.</string>
+    <string name="app_streaming_blocked_message_for_fingerprint_dialog">האפליקציה הזו מבקשת אמצעי אבטחה נוסף. במקום זאת, יש לנסות בטלפון.</string>
+    <string name="app_streaming_blocked_message_for_permission_dialog">אי אפשר לגשת לאפליקציה הזו במכשיר %1$s כרגע. במקום זאת, יש לנסות בטלפון.</string>
+    <string name="app_streaming_blocked_title">%1$s לא זמינה</string>
+    <string name="app_streaming_blocked_title_for_camera_dialog">המצלמה לא זמינה</string>
+    <string name="app_streaming_blocked_title_for_fingerprint_dialog">יש להמשיך בטלפון</string>
+    <string name="app_streaming_blocked_title_for_microphone_dialog">המיקרופון לא זמין</string>
+    <string name="app_streaming_blocked_title_for_permission_dialog">דרושה הרשאה</string>
+    <string name="app_streaming_blocked_title_for_settings_dialog">ההגדרות של הטלפון לא זמינות</string>
     <string name="app_suspended_default_message">האפליקציה %1$s לא זמינה כרגע. אפשר לנהל זאת באפליקציה %2$s.</string>
     <string name="app_suspended_more_details">מידע נוסף</string>
     <string name="app_suspended_title">האפליקציה לא זמינה</string>
@@ -312,6 +327,7 @@
     <string name="autofill_parish">קהילה</string>
     <string name="autofill_picker_accessibility_title">אפשרויות מילוי אוטומטי</string>
     <string name="autofill_picker_no_suggestions">אין הצעות של מילוי אוטומטי</string>
+    <string name="autofill_picker_some_suggestions">{count,plural, =1{הצעה אחת של מילוי אוטומטי}two{# הצעות של מילוי אוטומטי}many{# הצעות של מילוי אוטומטי}other{# הצעות של מילוי אוטומטי}}</string>
     <string name="autofill_postal_code">מיקוד</string>
     <string name="autofill_prefecture">אזור</string>
     <string name="autofill_province">מחוז</string>
@@ -363,6 +379,7 @@
     <string name="biometric_or_screen_lock_dialog_default_subtitle">יש להשתמש במידע הביומטרי או בנעילת המסך כדי להמשיך</string>
     <string name="bluetooth_a2dp_audio_route_name">‏אודיו Bluetooth</string>
     <string name="bluetooth_airplane_mode_toast">‏Bluetooth יישאר מופעל במהלך מצב טיסה</string>
+    <string name="bugreport_countdown">{count,plural, =1{צילום המסך לדוח על הבאג ייווצר בעוד שנייה אחת.}two{צילום המסך לדוח על הבאג ייווצר בעוד # שניות.}many{צילום המסך לדוח על הבאג ייווצר בעוד # שניות.}other{צילום המסך לדוח על הבאג ייווצר בעוד # שניות.}}</string>
     <string name="bugreport_message">הפעולה הזו תאסוף מידע על מצב המכשיר הנוכחי שלך כדי לשלוח אותו כהודעת אימייל. היא תימשך זמן קצר מרגע פתיחת הדיווח על הבאג ועד לשליחת ההודעה בפועל. יש להמתין בסבלנות.</string>
     <string name="bugreport_option_full_summary">כדאי להשתמש באפשרות הזו כדי שההפרעה למערכת תהיה מזערית כשהמכשיר אינו מגיב או איטי מדי, או כשצריך את כל קטעי הדוח. לא ניתן להזין פרטים נוספים או ליצור צילומי מסך נוספים.</string>
     <string name="bugreport_option_full_title">דוח מלא</string>
@@ -434,7 +451,6 @@
     <string name="conversation_single_line_name_display">%1$s:</string>
     <string name="conversation_title_fallback_group_chat">שיחה קבוצתית</string>
     <string name="conversation_title_fallback_one_to_one">שיחה</string>
-    <string name="copied">ההעתקה בוצעה</string>
     <string name="country_detector">גלאי מדינה</string>
     <string name="country_selection_title">העדפת אזור</string>
     <string name="create_contact_using">"יצירת איש קשר
@@ -490,6 +506,7 @@
     <string name="deprecated_target_sdk_message">‏האפליקציה הזו עוצבה לגרסה ישנה יותר של Android וייתכן שלא תפעל כראוי. ניתן לבדוק אם יש עדכונים או ליצור קשר עם המפתח.</string>
     <string name="description_target_unlock_tablet">יש להחליק לביטול הנעילה.</string>
     <string name="device_ownership_relinquished">מנהל המערכת ביטל את האפשרות לשימוש במכשיר לצרכים אישיים</string>
+    <string name="device_policy_manager_service">"שירות 'מנהל מדיניות המכשיר'"</string>
     <string name="device_storage_monitor_notification_channel">נפח האחסון במכשיר</string>
     <string name="dial_number_using">"חיוג למספר
 באמצעות %s"</string>
@@ -511,6 +528,22 @@
     <string name="dump_heap_system_text">‏התהליך %1$s חרג ממגבלת הזיכרון בגודל %2$s. יש Dump של ערימה זמין לשיתוף. חשוב לנקוט זהירות: ה-Dump של הערימה עשוי לכלול מידע אישי רגיש שאליו יש לתהליך גישה. ייתכן שמידע זה כולל נתונים שהקלדת.</string>
     <string name="dump_heap_text">התהליך %1$s חרג ממגבלת הזיכרון בגודל %2$s‏. תמונת מצב של הזיכרון זמינה לשיתוף עם המפתח. חשוב לנקוט זהירות: תמונת המצב של הזיכרון עשויה לכלול מידע אישי שאליו יש לאפליקציה גישה.</string>
     <string name="dump_heap_title">לשתף את תמונת המצב של הזיכרון?</string>
+    <string name="duration_days_relative">{count,plural, =1{לפני יום}two{לפני יומיים}many{לפני # ימים}other{לפני # ימים}}</string>
+    <string name="duration_days_relative_future">{count,plural, =1{יום}two{יומיים}many{# ימים}other{# ימים}}</string>
+    <string name="duration_days_shortest">%d י‘</string>
+    <string name="duration_days_shortest_future">בעוד %d י‘</string>
+    <string name="duration_hours_relative">{count,plural, =1{לפני שעה}two{לפני שעתיים}many{לפני # שעות}other{לפני # שעות}}</string>
+    <string name="duration_hours_relative_future">{count,plural, =1{שעה}two{שעתיים}many{# שעות}other{# שעות}}</string>
+    <string name="duration_hours_shortest">%d שע‘</string>
+    <string name="duration_hours_shortest_future">בעוד %d שע‘</string>
+    <string name="duration_minutes_relative">{count,plural, =1{לפני דקה}two{לפני # דקות}many{לפני # דקות}other{לפני # דקות}}</string>
+    <string name="duration_minutes_relative_future">{count,plural, =1{דקה}two{# דקות}many{# דקות}other{# דקות}}</string>
+    <string name="duration_minutes_shortest">%d דק‘</string>
+    <string name="duration_minutes_shortest_future">בעוד %d דק‘</string>
+    <string name="duration_years_relative">{count,plural, =1{לפני שנה}two{לפני שנתיים}many{לפני # שנים}other{לפני # שנים}}</string>
+    <string name="duration_years_relative_future">{count,plural, =1{שנה}two{שנתיים}many{# שנים}other{# שנים}}</string>
+    <string name="duration_years_shortest">%d שנים</string>
+    <string name="duration_years_shortest_future">בעוד %d שנים</string>
     <string name="dynamic_mode_notification_channel_name">התראת מידע לגבי מצב שגרתי</string>
     <string name="dynamic_mode_notification_summary">תכונת החיסכון בסוללה הופעלה כדי להאריך את חיי הסוללה</string>
     <string name="dynamic_mode_notification_title">הסוללה עלולה להתרוקן לפני המועד הרגיל של הטעינה</string>
@@ -618,6 +651,7 @@
     <string name="face_error_timeout">יש לנסות שוב את הפתיחה ע\"י זיהוי הפנים</string>
     <string name="face_error_unable_to_process">לא ניתן לאמת את הפנים. יש לנסות שוב.</string>
     <string name="face_error_user_canceled">הפתיחה ע\"י זיהוי הפנים בוטלה על ידי המשתמש</string>
+    <string name="face_error_vendor_unknown">משהו השתבש. עליך לנסות שוב.</string>
     <string name="face_icon_content_description">סמל הפנים</string>
     <string name="face_name_template">פנים %d</string>
     <string name="face_or_screen_lock_app_setting_name">שימוש בזיהוי פנים או בנעילת מסך</string>
@@ -625,6 +659,7 @@
     <string name="face_recalibrate_notification_content">יש להקיש כדי למחוק את התבנית לזיהוי הפנים, ואז להוסיף תבנית חדשה לזיהוי הפנים</string>
     <string name="face_recalibrate_notification_name">פתיחה ע\"י זיהוי הפנים</string>
     <string name="face_recalibrate_notification_title">בעיה בפתיחה ע\"י זיהוי הפנים</string>
+    <string name="face_sensor_privacy_enabled">"‏כדי להשתמש בתכונה 'פתיחה ע\"י זיהוי הפנים', יש להפעיל את ה"<b>גישה למצלמה</b> בהגדרות > פרטיות</string>
     <string name="face_setup_notification_content">יש להביט בטלפון כדי לבטל את נעילתו</string>
     <string name="face_setup_notification_title">"הגדרת התכונה 'פתיחה ע\"י זיהוי הפנים'"</string>
     <string name="faceunlock_multiple_failures">חרגת ממספר הניסיונות המרבי לפתיחה ע\"י זיהוי הפנים</string>
@@ -641,17 +676,20 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">קוד תכונה הושלם.</string>
     <string name="fcError">בעיה בחיבור או קוד תכונה לא תקין.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="file_count">{count,plural, =1{{file_name} ועוד קובץ אחד}two{{file_name} ועוד # קבצים}many{{file_name} ועוד # קבצים}other{{file_name} ועוד # קבצים}}</string>
     <string name="find">חיפוש</string>
     <string name="find_next">מציאת ההתאמה הבאה</string>
     <string name="find_on_page">חיפוש בדף</string>
     <string name="find_previous">חיפוש של הקודם</string>
     <string name="fingerprint_acquired_already_enrolled">יש להשתמש בטביעת אצבע אחרת</string>
-    <string name="fingerprint_acquired_imager_dirty">יש לנקות את החיישן</string>
+    <string name="fingerprint_acquired_imager_dirty">עליך לנקות את חיישן טביעות האצבע ולנסות שוב</string>
+    <string name="fingerprint_acquired_imager_dirty_alt">עליך לנקות את החיישן ולנסות שוב</string>
     <string name="fingerprint_acquired_immobile">צריך לשנות מעט את תנוחת האצבע בכל פעם</string>
     <string name="fingerprint_acquired_insufficient">לא ניתן היה לעבד את טביעת האצבע. אפשר לנסות שוב.</string>
-    <string name="fingerprint_acquired_partial">זוהתה טביעת אצבע חלקית</string>
+    <string name="fingerprint_acquired_partial">לוחצים לחיצה חזקה על החיישן</string>
     <string name="fingerprint_acquired_too_bright">בהיר מדי</string>
-    <string name="fingerprint_acquired_too_fast">עליך להשאיר את האצבע על החיישן קצת יותר זמן</string>
+    <string name="fingerprint_acquired_too_fast">לוחצים לחיצה חזקה על החיישן</string>
     <string name="fingerprint_acquired_too_slow">הזזת את האצבע לאט מדי. יש לנסות שוב.</string>
     <string name="fingerprint_acquired_try_adjusting">יש לנסות ולשנות את תנוחת האצבע</string>
     <string name="fingerprint_app_setting_name">שימוש בטביעת אצבע</string>
@@ -665,10 +703,12 @@
     <string name="fingerprint_error_lockout_permanent">יותר מדי ניסיונות. חיישן טביעות האצבע הושבת.</string>
     <string name="fingerprint_error_no_fingerprints">לא נסרקו טביעות אצבע.</string>
     <string name="fingerprint_error_no_space">לא ניתן להגדיר טביעת אצבע</string>
+    <string name="fingerprint_error_not_match">טביעת האצבע לא זוהתה</string>
     <string name="fingerprint_error_security_update_required">החיישן מושבת באופן זמני.</string>
     <string name="fingerprint_error_timeout">נגמר הזמן הקצוב לטביעת אצבע. אפשר לנסות שוב.</string>
     <string name="fingerprint_error_unable_to_process">כדאי לנסות שוב.</string>
     <string name="fingerprint_error_user_canceled">פעולת טביעת האצבע בוטלה על ידי המשתמש.</string>
+    <string name="fingerprint_error_vendor_unknown">משהו השתבש. עליך לנסות שוב.</string>
     <string name="fingerprint_name_template">אצבע %d</string>
     <string name="fingerprint_or_screen_lock_app_setting_name">שימוש בטביעת אצבע או בנעילת מסך</string>
     <string name="fingerprint_or_screen_lock_dialog_default_subtitle">יש להשתמש בטביעת האצבע או בנעילת המסך כדי להמשיך</string>
@@ -677,6 +717,7 @@
     <string name="fingerprint_recalibrate_notification_title">לא ניתן להשתמש בחיישן טביעות האצבע</string>
     <string name="fingerprint_setup_notification_content">יש להקיש כדי להוסיף טביעת אצבע</string>
     <string name="fingerprint_setup_notification_title">אפשר להגדיר דרכים נוספות לביטול נעילה</string>
+    <string name="fingerprint_udfps_error_not_match">טביעת האצבע לא זוהתה</string>
     <string name="fingerprints">טביעות אצבע:</string>
     <string name="floating_toolbar_close_overflow_description">סגירת האפשרויות הנוספות</string>
     <string name="floating_toolbar_open_overflow_description">אפשרויות נוספות</string>
@@ -687,12 +728,18 @@
     <string name="foreground_service_tap_for_details">אפשר להקיש כדי לקבל פרטים על צריכה של נתונים וסוללה</string>
     <string name="forward_intent_to_owner">בחרת להשתמש באפליקציה הזאת מחוץ לפרופיל העבודה שלך</string>
     <string name="forward_intent_to_work">נעשה שימוש באפליקציה הזו בפרופיל העבודה שלך</string>
-    <string name="fp_enrollment_powerbutton_intent_message">"כשהגדרת את טביעת האצבע, לחצת על לחצן ההפעלה.
+    <string name="fp_power_button_bp_message">"לחצת על לחצן ההפעלה – בדרך כלל הפעולה הזו מכבה את המסך.
 
-לרוב, הפעולה הזו מכבה את המסך."</string>
-    <string name="fp_enrollment_powerbutton_intent_negative_button">ביטול</string>
-    <string name="fp_enrollment_powerbutton_intent_positive_button">כיבוי</string>
-    <string name="fp_enrollment_powerbutton_intent_title">לכבות את המסך?</string>
+עליך לנסות להקיש בעדינות כדי לאמת את טביעת האצבע שלך."</string>
+    <string name="fp_power_button_bp_negative_button">המשך</string>
+    <string name="fp_power_button_bp_positive_button">כיבוי המסך</string>
+    <string name="fp_power_button_bp_title">להמשיך לאמת את טביעת האצבע שלך?</string>
+    <string name="fp_power_button_enrollment_message">"לחצת על לחצן ההפעלה – בדרך כלל הפעולה הזו מכבה את המסך.
+
+עליך לנסות להקיש בעדינות במהלך ההגדרה של טביעת האצבע שלך."</string>
+    <string name="fp_power_button_enrollment_negative_button">להמשך ההגדרה</string>
+    <string name="fp_power_button_enrollment_positive_button">כיבוי המסך</string>
+    <string name="fp_power_button_enrollment_title">להמשיך בהגדרה?</string>
     <string name="gadget_host_error_inflating">‏לא ניתן להוסיף widget.</string>
     <string name="geofencing_service">שירות להגדרת גבולות וירטואליים</string>
     <string name="gigabyteShort">GB</string>
@@ -729,6 +776,7 @@
     <string name="granularity_label_line">שורה</string>
     <string name="granularity_label_link">קישור</string>
     <string name="granularity_label_word">מילה</string>
+    <string name="guest_name">אורח</string>
     <string name="hardware">הצגת מקלדת וירטואלית</string>
     <string name="harmful_app_warning_open_anyway">לפתוח בכל זאת</string>
     <string name="harmful_app_warning_title">אותרה אפליקציה מזיקה</string>
@@ -781,8 +829,11 @@
     <string name="immersive_cling_title">צפייה במסך מלא</string>
     <string name="importance_from_person">ההודעה חשובה בשל האנשים המעורבים.</string>
     <string name="importance_from_user">עליך להגדיר את החשיבות של ההתראות האלה.</string>
+    <string name="in_progress">בתהליך</string>
     <string name="inputMethod">שיטת קלט</string>
     <string name="input_method_binding_label">שיטת קלט</string>
+    <string name="input_method_ime_switch_button_desc">החלפה של שיטת הקלט</string>
+    <string name="input_method_nav_back_button_desc">חזרה</string>
     <string name="install_carrier_app_notification_button">להורדת האפליקציה</string>
     <string name="install_carrier_app_notification_text">‏צריך להוריד את אפליקציית הספק כדי להפעיל את כרטיס ה-SIM החדש</string>
     <string name="install_carrier_app_notification_text_app_name">‏אפשר להוריד את האפליקציה %1$s כדי להפעיל את כרטיס ה-SIM החדש</string>
@@ -868,6 +919,7 @@
     <string name="kg_reordering_delete_drop_target_text">הסרה</string>
     <string name="kg_sim_pin_instructions">‏יש להזין את קוד האימות של ה-SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">‏מתבצע ביטול נעילה של כרטיס SIM…</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"הקלדת סיסמה שגויה %1$d פעמים.
 
 אפשר לנסות שוב בעוד %2$d שניות."</string>
@@ -885,6 +937,7 @@
     <string name="language_picker_section_suggested">הצעות</string>
     <string name="language_selection_title">הוספת שפה</string>
     <string name="last_month">בחודש שעבר</string>
+    <string name="last_num_days">{count,plural, =1{ביום האחרון}two{ביומיים האחרונים}many{ב-# הימים האחרונים}other{ב-# הימים האחרונים}}</string>
     <string name="launchBrowserDefault">להפעיל את הדפדפן?</string>
     <string name="launch_warning_original">אפליקציית %1$s הופעלה במקור.</string>
     <string name="launch_warning_replace">האפליקציה %1$s פועלת עכשיו.</string>
@@ -905,7 +958,7 @@
     <string name="lockscreen_access_pattern_detected">הקו לביטול נעילה הושלם</string>
     <string name="lockscreen_access_pattern_start">בתהליך שרטוט הקו לביטול נעילה</string>
     <string name="lockscreen_carrier_default">אין שירות</string>
-    <string name="lockscreen_emergency_call">שיחת חירום</string>
+    <string name="lockscreen_emergency_call">חירום</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">ביצעת %1$d ניסיונות שגויים לביטול נעילת הטלפון. לאחר %2$d ניסיונות כושלים נוספים, הטלפון יעבור איפוס לברירת המחדל של היצרן וכל נתוני המשתמש יאבדו.</string>
     <string name="lockscreen_failed_attempts_almost_glogin">"‏שרטטת את קו ביטול הנעילה באופן שגוי %1$d פעמים. בעוד %2$d ניסיונות כושלים נוספים, יהיה צורך לבטל את נעילת הטלפון באמצעות פרטי הכניסה שלך ל-Google‏.
 
@@ -963,6 +1016,15 @@
     <string name="lockscreen_transport_rew_description">הרצה אחורה</string>
     <string name="lockscreen_transport_stop_description">הפסקה</string>
     <string name="lockscreen_unlock_label">ביטול נעילה</string>
+    <string name="log_access_confirmation_allow">הרשאת גישה חד-פעמית</string>
+    <string name="log_access_confirmation_body">"ביומני המכשיר מתועדת הפעילות במכשיר. האפליקציות יכולות להשתמש ביומנים האלה כדי למצוא בעיות ולפתור אותן.
+
+המידע בחלק מהיומנים יכול להיות רגיש, לכן יש לתת הרשאת גישה לכל יומני המכשיר רק לאפליקציות מהימנות. 
+
+גם אם האפליקציה הזו לא תקבל הרשאת גישה לכל יומני המכשיר, היא תוכל לגשת ליומנים שלה. יכול להיות שליצרן המכשיר עדיין תהיה גישה לחלק מהיומנים או למידע במכשיר שלך. מידע נוסף"</string>
+    <string name="log_access_confirmation_deny">אין אישור</string>
+    <string name="log_access_confirmation_title">לתת לאפליקציה %s הרשאת גישה לכל יומני המכשיר?</string>
+    <string name="log_access_do_not_show_again">אין להציג שוב</string>
     <string name="low_internal_storage_view_text">ייתכן שפונקציות מערכת מסוימות לא יפעלו</string>
     <string name="low_internal_storage_view_text_no_boot">‏אין מספיק מקום אחסון עבור המערכת. עליך לוודא שיש לך מקום פנוי בנפח של 250MB ולהתחיל שוב.</string>
     <string name="low_internal_storage_view_title">מקום האחסון עומד להיגמר</string>
@@ -971,6 +1033,7 @@
     <string name="managed_profile_label_badge">עבודה %1$s</string>
     <string name="managed_profile_label_badge_2">%1$s שני בעבודה</string>
     <string name="managed_profile_label_badge_3">%1$s שלישי בעבודה</string>
+    <string name="matches_found">{count,plural, =1{התאמה אחת}two{# מתוך {total}}many{# מתוך {total}}other{# מתוך {total}}}</string>
     <string name="maximize_button_text">הגדלה</string>
     <string name="me">אני</string>
     <string name="media_route_button_content_description">‏העברה (cast)</string>
@@ -1109,8 +1172,8 @@
     <string name="mime_type_spreadsheet_ext">גיליון אלקטרוני %1$s</string>
     <string name="mime_type_video">סרטון</string>
     <string name="mime_type_video_ext">סרטון %1$s</string>
-    <string name="miniresolver_open_in_personal">לפתוח באפליקציה %s בפרופיל האישי?</string>
-    <string name="miniresolver_open_in_work">לפתוח באפליקציה %s בפרופיל העבודה?</string>
+    <string name="miniresolver_open_in_personal">לפתוח את %s בפרופיל האישי?</string>
+    <string name="miniresolver_open_in_work">לפתוח את %s בפרופיל העבודה?</string>
     <string name="miniresolver_use_personal_browser">בדפדפן האישי</string>
     <string name="miniresolver_use_work_browser">בדפדפן של העבודה</string>
     <string name="minute">דקה</string>
@@ -1132,6 +1195,8 @@
     <string name="mobile_no_internet">לרשת הסלולרית אין גישה לאינטרנט</string>
     <string name="month_day_year" formatted="false">%-e ב%B %Y</string>
     <string name="more_item_label">עוד</string>
+    <string name="mte_override_notification_message">‏יכולה להיות השפעה על הביצועים והיציבות. יש להפעיל מחדש כדי להשבית. אם ההפעלה מתבצעת באמצעות arm64.memtag.bootctl, צריך להגדיר מראש לערך none.</string>
+    <string name="mte_override_notification_title">‏ה-MTE הניסיוני הופעל</string>
     <string name="music_recognition_manager_service">השירות של מנהל זיהוי המוזיקה</string>
     <string name="muted_by">חלק מהצלילים מושתקים על ידי %1$s</string>
     <string name="nas_upgrade_notification_content">‏ההתראות המשופרות מספקות מעכשיו הצעות לפעולות ולתשובות. אין יותר תמיכה בהתראות מותאמות ל-Android.</string>
@@ -1167,12 +1232,14 @@
     <string name="noon">צהריים</string>
     <string name="not_checked">לא מסומן</string>
     <string name="not_selected">לא נבחר</string>
+    <string name="notification_action_check_bg_apps">כדאי לבדוק את האפליקציות הפעילות</string>
     <string name="notification_alerted_content_description">נשלחה התראה</string>
     <string name="notification_app_name_settings">הגדרות</string>
     <string name="notification_app_name_system">מערכת</string>
     <string name="notification_appops_camera_active">מצלמה</string>
     <string name="notification_appops_microphone_active">מיקרופון</string>
     <string name="notification_appops_overlay_active">תצוגה מעל אפליקציות אחרות במסך</string>
+    <string name="notification_channel_abusive_bg_apps">פעילות ברקע</string>
     <string name="notification_channel_accessibility_magnification">הגדלה</string>
     <string name="notification_channel_accessibility_security_policy">שימוש בנגישות</string>
     <string name="notification_channel_account">סטטוס החשבון</string>
@@ -1204,6 +1271,8 @@
     <string name="notification_channel_voice_mail">הודעות קוליות</string>
     <string name="notification_channel_vpn">‏סטטוס ה-VPN</string>
     <string name="notification_channel_wfc">‏שיחות Wi-Fi</string>
+    <string name="notification_content_abusive_bg_apps">%1$s פועלת ברקע. יש להקיש כדי לנהל את השימוש בסוללה.</string>
+    <string name="notification_content_long_running_fgs">האפליקציה %1$s עלולה להשפיע על חיי הסוללה. אפשר להקיש כדי לבדוק את האפליקציות הפעילות.</string>
     <string name="notification_feedback_indicator">שליחת משוב</string>
     <string name="notification_feedback_indicator_alerted">"ההתראה הזו שודרגה ל'ברירת מחדל'. יש להקיש כדי לשלוח משוב."</string>
     <string name="notification_feedback_indicator_demoted">ההתראה הזו דורגה נמוך יותר. יש להקיש כדי לשלוח משוב.</string>
@@ -1212,10 +1281,13 @@
     <string name="notification_hidden_text">התראה חדשה</string>
     <string name="notification_history_title_placeholder">התראות אפליקציה בהתאמה אישית</string>
     <string name="notification_listener_binding_label">מאזין להתראות</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_phishing_alert_content_description">התראה על פישינג</string>
     <string name="notification_ranker_binding_label">שירות של דירוג התראות</string>
     <string name="notification_reply_button_accessibility">תשובה</string>
     <string name="notification_title">שגיאת כניסה עבור %1$s</string>
+    <string name="notification_title_abusive_bg_apps">אחת האפליקציות מרוקנת את הסוללה</string>
+    <string name="notification_title_long_running_fgs">אפליקציה כלשהי עדיין פעילה</string>
     <string name="notification_verified_content_description">מאומת</string>
     <string name="notification_work_profile_content_description">פרופיל עבודה</string>
     <string name="now_string_shortest">עכשיו</string>
@@ -1283,7 +1355,8 @@
     <string name="permdesc_bluetooth_advertise">‏האפליקציה תוכל לפרסם במכשירי Bluetooth בקרבת מקום</string>
     <string name="permdesc_bluetooth_connect">‏מאפשרת לאפליקציה להתחבר למכשירי Bluetooth מותאמים</string>
     <string name="permdesc_bluetooth_scan">‏מאפשרת לאפליקציה לגלות מכשירי Bluetooth בקרבת מקום ולבצע התאמה איתם</string>
-    <string name="permdesc_bodySensors">מאפשרת לאפליקציה לגשת אל נתוני חיישנים העוקבים אחר מצבך הגופני, כמו קצב הלב.</string>
+    <string name="permdesc_bodySensors">ההרשאה מאפשרת לאפליקציה לגשת לנתונים של חיישני גוף, כמו דופק, חום גוף ושיעור החמצן בדם, כשנעשה שימוש באפליקציה.</string>
+    <string name="permdesc_bodySensors_background">ההרשאה מאפשרת לאפליקציה לגשת לנתונים של חיישני גוף, כמו דופק, חום גוף ושיעור החמצן בדם, כשהאפליקציה פועלת ברקע.</string>
     <string name="permdesc_broadcastSticky">מאפשרת לאפליקציה לשלוח שידורים במיקום קבוע, אשר נותרים לאחר סיום השידור. אפליקציות זדוניות עלולות להאט את פעילות הטלפון או להפוך אותה לבלתי יציבה על ידי אילוץ המכשיר להשתמש ביותר מדי זיכרון.</string>
     <string name="permdesc_callCompanionApp">מאפשרת לאפליקציה להציג שיחות נוכחיות ולשלוט בהן במכשיר – כולל פרטים כמו מספרי שיחה של שיחות ומצב השיחה.</string>
     <string name="permdesc_callPhone">מאפשרת לאפליקציה להתקשר למספרי טלפון ללא התערבות המשתמש. הפעולה הזו עשויה לגרום לשיחות או לחיובים לא צפויים. ההרשאה הזו לא מאפשרת לאפליקציה להתקשר למספרי חירום. אפליקציות זדוניות עשויות לגרום לחיובים על ידי ביצוע שיחות ללא האישור שלך.</string>
@@ -1309,7 +1382,7 @@
     <string name="permdesc_handoverStatus">‏מאפשרת לאפליקציה הזו לקבל מידע על העברות Android Beam נוכחיות</string>
     <string name="permdesc_highSamplingRateSensors">האפליקציה תוכל לדגום נתוני חיישנים בתדירות של מעל 200 הרץ</string>
     <string name="permdesc_imagesWrite">מאפשרת לאפליקציה לשנות את אוסף התמונות שלך.</string>
-    <string name="permdesc_install_shortcut">מאפשרת לאפליקציה להוסיף קיצורי דרך במסך דף הבית ללא התערבות המשתמש.</string>
+    <string name="permdesc_install_shortcut">מאפשרת לאפליקציה להוסיף קיצורי דרך במסך הבית ללא התערבות המשתמש.</string>
     <string name="permdesc_invokeCarrierSetup">ההרשאה הזו מאפשרת לבעלים להפעיל את אפליקציית התצורה שסופקה על ידי ספק. לעולם לא אמורה להיות נחוצה עבור אפליקציות רגילות.</string>
     <string name="permdesc_killBackgroundProcesses">מאפשרת לאפליקציה להפסיק תהליכים ברקע שמבצעות אפליקציות אחרות. הדבר עשוי לגרום להפסקת הפעולה של אפליקציות אחרות.</string>
     <string name="permdesc_manageFingerprint">מאפשרת לאפליקציה להפעיל שיטות להוספה ומחיקה של תבניות טביעות אצבעות שבהן ייעשה שימוש.</string>
@@ -1320,17 +1393,23 @@
     <string name="permdesc_mediaLocation">מאפשרת לאפליקציה לקרוא מיקומים מאוסף המדיה שלך.</string>
     <string name="permdesc_modifyAudioSettings">מאפשרת לאפליקציה לשנות הגדרות אודיו גלובליות כמו עוצמת קול ובחירת הרמקול המשמש לפלט.</string>
     <string name="permdesc_modifyNetworkAccounting">ההרשאה הזו מאפשרת לאפליקציה לשנות את אופן החישוב של נתוני שימוש ברשת מול כל אפליקציה. לא מיועדת לשימוש באפליקציות רגילות.</string>
+    <string name="permdesc_nearby_wifi_devices">‏האפליקציה תוכל לפרסם במכשירי Wi-Fi בקרבת מקום, להתחבר אליהם ולהעריך את המיקום היחסי שלהם</string>
     <string name="permdesc_nfc">"‏מאפשרת לאפליקציה נהל תקשורת עם תגים, כרטיסים וקוראים מסוג 'תקשורת מטווח קצר' (NFC)."</string>
     <string name="permdesc_persistentActivity">מאפשרת לאפליקציה להפוך חלקים ממנה לקבועים בזיכרון. הפעולה הזו עשויה להגביל את הזיכרון הזמין לאפליקציות אחרות ולהאט את פעולת הטלפון.</string>
+    <string name="permdesc_postNotification">מאפשרת לאפליקציה להציג התראות</string>
     <string name="permdesc_preferredPaymentInfo">‏מאפשרת לאפליקציה לקבל פרטים על שירות תשלום מועדף ב-NFC, כמו עזרים רשומים ויעד של נתיב.</string>
     <string name="permdesc_processOutgoingCalls">מאפשרת לאפליקציה לראות את המספר המחויג במהלך ביצוע שיחה יוצאת, עם האפשרות להפנות את השיחה למספר אחר או לבטל את השיחה לחלוטין.</string>
     <string name="permdesc_queryAllPackages">מאפשרת לאפליקציה לראות את כל החבילות המותקנות.</string>
+    <string name="permdesc_readBasicPhoneState">ההרשאה מאפשרת לאפליקציה לגשת לתכונות הטלפוניות הבסיסיות של המכשיר.</string>
     <string name="permdesc_readCalendar">האפליקציה הזו יכולה לקרוא את כל אירועי היומן המאוחסנים בטלפון, ולשתף או לשמור את נתוני היומן.</string>
     <string name="permdesc_readCallLog">האפליקציה הזו יכולה לקרוא את היסטוריית השיחות שלך.</string>
     <string name="permdesc_readCellBroadcasts">מאפשרת לאפליקציה לקרוא הודעות שידור סלולרי שהתקבלו במכשיר שלך. התראות שידור סלולרי נשלחות במקומות מסוימים כדי להזהיר אותך מפני מצבי חירום. אפליקציות זדוניות עשויות להפריע לביצועים או לפעולה של המכשיר שלך כאשר מתקבל שידור חירום סלולרי.</string>
     <string name="permdesc_readContacts">מאפשרת לאפליקציה לקרוא נתונים על אנשי הקשר השמורים בטלפון שלך. לאפליקציות תהיה גם גישה לחשבונות בטלפון שדרכם נוצרו אנשי קשר. הפעולה הזו עשויה לכלול חשבונות שנוצרו על ידי אפליקציות שהתקנת. ההרשאה הזו מאפשרת לאפליקציות לשמור נתונים של אנשי הקשר שלך, ואפליקציות זדוניות עלולות לשתף נתונים של אנשי קשר ללא ידיעתך.</string>
     <string name="permdesc_readHistoryBookmarks">‏מאפשרת לאפליקציה לקרוא את ההיסטוריה של כל כתובות ה-URL שאליהן נכנסת באמצעות הדפדפן, ואת כל הסימניות בדפדפן. הערה: אפליקציות אחרות או דפדפני צד שלישי עם יכולות גלישה באינטרנט לא יכולים לאכוף את האישור הזה.</string>
     <string name="permdesc_readInstallSessions">מאפשרת לאפליקציה לקרוא פעילויות התקנה. ההרשאה הזו מאפשרת לה לראות פרטים על התקנות פעילות של חבילות.</string>
+    <string name="permdesc_readMediaAudio">מאפשרת לאפליקציה לקרוא קובצי אודיו מתוך האחסון המשותף.</string>
+    <string name="permdesc_readMediaImages">מאפשרת לאפליקציה לקרוא קובצי תמונה מתוך האחסון המשותף.</string>
+    <string name="permdesc_readMediaVideo">מאפשרת לאפליקציה לקרוא קובצי וידאו מתוך האחסון המשותף.</string>
     <string name="permdesc_readNetworkUsageHistory">מאפשרת לאפליקציה לקרוא נתוני שימוש היסטוריים ברשת עבור רשתות ואפליקציות ספציפיות.</string>
     <string name="permdesc_readPhoneNumbers">מתירה לאפליקציה גישה למספרי הטלפון במכשיר.</string>
     <string name="permdesc_readPhoneState">מאפשרת לאפליקציה לגשת לתכונות הטלפון של המכשיר. ההרשאה הזו מתירה לאפליקציה לגלות את מספר הטלפון ואת מזהי המכשיר, אם השיחה פעילה ואת המספר המרוחק המחובר באמצעות שיחה.</string>
@@ -1362,6 +1441,8 @@
     <string name="permdesc_setWallpaper">מאפשרת לאפליקציה להגדיר את טפט המערכת.</string>
     <string name="permdesc_setWallpaperHints">מאפשרת לאפליקציה להגדיר את סמני הגודל של טפט המערכת.</string>
     <string name="permdesc_sim_communication">‏מאפשרת לאפליקציה לשלוח פקודות ל-SIM. זוהי הרשאה מסוכנת מאוד.</string>
+    <string name="permdesc_startReviewPermissionDecisions">בעלי ההרשאה יוכלו להפעיל את המסך כדי לעיין בהחלטות לגבי הרשאות. ההרשאה לא נחוצה לאפליקציות רגילות בדרך כלל.</string>
+    <string name="permdesc_startViewAppFeatures">בעלי ההרשאה יוכלו להתחיל לצפות בפרטי התכונות של אפליקציות.</string>
     <string name="permdesc_startViewPermissionUsage">מאפשרת לבעלים להפעיל את השימוש בהרשאות עבור אפליקציה מסוימת. הרשאה זו אף פעם לא נדרשת עבור אפליקציות רגילות.</string>
     <string name="permdesc_statusBar">מאפשרת לאפליקציה להשבית את שורת הסטטוס או להוסיף ולהסיר סמלי מערכת.</string>
     <string name="permdesc_statusBarService">מאפשרת לאפליקציה להופיע בשורת הסטטוס.</string>
@@ -1394,10 +1475,13 @@
     <string name="permgroupdesc_location">גישה אל מיקום המכשיר הזה</string>
     <string name="permgroupdesc_microphone">הקלטת אודיו</string>
     <string name="permgroupdesc_nearby_devices">איתור מכשירים שנמצאים בקרבת מקום והתחברות אליהם</string>
+    <string name="permgroupdesc_notifications">הצגת התראות</string>
     <string name="permgroupdesc_phone">ביצוע וניהול של שיחות טלפון</string>
+    <string name="permgroupdesc_readMediaAural">גישה למוזיקה ולאודיו במכשיר</string>
+    <string name="permgroupdesc_readMediaVisual">גישה לתמונות ולסרטונים במכשיר</string>
     <string name="permgroupdesc_sensors">גישה אל נתוני חיישנים של הסימנים החיוניים שלך</string>
     <string name="permgroupdesc_sms">‏שליחה והצגה של הודעות SMS</string>
-    <string name="permgroupdesc_storage">גישה לתמונות, למדיה ולקבצים במכשיר שלך</string>
+    <string name="permgroupdesc_storage">גישה לקבצים במכשיר שלך</string>
     <string name="permgrouplab_activityRecognition">פעילות גופנית</string>
     <string name="permgrouplab_calendar">יומן</string>
     <string name="permgrouplab_calllog">יומני שיחות</string>
@@ -1406,10 +1490,13 @@
     <string name="permgrouplab_location">מיקום</string>
     <string name="permgrouplab_microphone">מיקרופון</string>
     <string name="permgrouplab_nearby_devices">מכשירים בקרבת מקום</string>
+    <string name="permgrouplab_notifications">התראות</string>
     <string name="permgrouplab_phone">טלפון</string>
-    <string name="permgrouplab_sensors">חיישנים גופניים</string>
+    <string name="permgrouplab_readMediaAural">מוזיקה ואודיו</string>
+    <string name="permgrouplab_readMediaVisual">תמונות וסרטונים</string>
+    <string name="permgrouplab_sensors">חיישני גוף</string>
     <string name="permgrouplab_sms">SMS</string>
-    <string name="permgrouplab_storage">קבצים ומדיה</string>
+    <string name="permgrouplab_storage">קבצים</string>
     <string name="permission_request_notification_for_app_with_subtitle">"התבקשה הרשאה על ידי %1$s
 לחשבון %2$s."</string>
     <string name="permission_request_notification_title">בקשת הרשאה</string>
@@ -1446,7 +1533,8 @@
     <string name="permlab_bluetooth_advertise">‏פרסום במכשירי Bluetooth בקרבת מקום</string>
     <string name="permlab_bluetooth_connect">‏התחברות למכשירי Bluetooth מתאימים</string>
     <string name="permlab_bluetooth_scan">‏גילוי מכשירי Bluetooth בקרבת מקום והתאמה ביניהם</string>
-    <string name="permlab_bodySensors">גישה אל חיישני גוף (כמו מוניטורים לקצב לב)</string>
+    <string name="permlab_bodySensors">גישה לנתונים של חיישני גוף, כמו דופק, כשנעשה שימוש באפליקציה</string>
+    <string name="permlab_bodySensors_background">גישה לנתונים של חיישני גוף, כמו דופק, כשהאפליקציה פועלת ברקע</string>
     <string name="permlab_broadcastSticky">שליחת שידור במיקום קבוע</string>
     <string name="permlab_callCompanionApp">הצגת שיחות ושליטה בהן באמצעות המערכת.</string>
     <string name="permlab_callPhone">חיוג ישירות למספרי טלפון</string>
@@ -1483,17 +1571,23 @@
     <string name="permlab_mediaLocation">לקרוא מיקומים מאוסף המדיה שלך</string>
     <string name="permlab_modifyAudioSettings">שינוי הגדרות האודיו שלך</string>
     <string name="permlab_modifyNetworkAccounting">שינוי ניהול החשבונות של שימוש ברשת</string>
+    <string name="permlab_nearby_wifi_devices">‏אינטראקציה עם מכשירי Wi-Fi בקרבת מקום</string>
     <string name="permlab_nfc">שליטה בתקשורת מטווח קצר</string>
     <string name="permlab_persistentActivity">הגדרת האפליקציה לפעול תמיד</string>
+    <string name="permlab_postNotification">הצגת התראות</string>
     <string name="permlab_preferredPaymentInfo">‏פרטים על שירות תשלום מועדף ב-NFC</string>
     <string name="permlab_processOutgoingCalls">ניתוב מחדש של שיחות יוצאות</string>
     <string name="permlab_queryAllPackages">שליחת שאילתות לכל החבילות</string>
+    <string name="permlab_readBasicPhoneState">קריאה של זהות וסטטוס טלפוניים בסיסיים</string>
     <string name="permlab_readCalendar">קריאה של אירועי יומן והפרטים שלהם</string>
     <string name="permlab_readCallLog">קריאת יומן שיחות</string>
     <string name="permlab_readCellBroadcasts">קריאת הודעות שידור סלולרי</string>
     <string name="permlab_readContacts">קריאת אנשי הקשר שלך</string>
     <string name="permlab_readHistoryBookmarks">קריאת סימניות והיסטוריית האינטרנט שלך</string>
     <string name="permlab_readInstallSessions">קריאת סשנים של התקנה</string>
+    <string name="permlab_readMediaAudio">קריאה של קובצי אודיו מתוך האחסון המשותף</string>
+    <string name="permlab_readMediaImages">קריאה של קובצי תמונה מתוך האחסון המשותף</string>
+    <string name="permlab_readMediaVideo">קריאה של קובצי וידאו מתוך האחסון המשותף</string>
     <string name="permlab_readNetworkUsageHistory">קריאת נתוני שימוש היסטוריים ברשת</string>
     <string name="permlab_readPhoneNumbers">גישה למספרי הטלפון</string>
     <string name="permlab_readPhoneState">קריאת הסטטוס והזהות של הטלפון</string>
@@ -1525,6 +1619,8 @@
     <string name="permlab_setWallpaper">הגדרת טפט</string>
     <string name="permlab_setWallpaperHints">התאמת גודל הטפט שלך</string>
     <string name="permlab_sim_communication">‏שליחת פקודות אל ה-SIM</string>
+    <string name="permlab_startReviewPermissionDecisions">ההחלטות לגבי ההרשאות להפעלת התצוגה</string>
+    <string name="permlab_startViewAppFeatures">התחלת צפייה בהרשאות של אפליקציות</string>
     <string name="permlab_startViewPermissionUsage">התחלת צפייה בהרשאות השימוש</string>
     <string name="permlab_statusBar">השבתה או שינוי של שורת הסטטוס</string>
     <string name="permlab_statusBarService">להיות שורת הסטטוס</string>
@@ -1677,6 +1773,10 @@
     <string name="restr_pin_error_too_short">קוד הגישה קצר מדי. חייב להיות באורך 4 ספרות לפחות.</string>
     <string name="restr_pin_incorrect">שגוי</string>
     <string name="restr_pin_try_later">יש לנסות שוב מאוחר יותר</string>
+    <string name="review_notification_settings_dismiss">סגירה</string>
+    <string name="review_notification_settings_remind_me_action">תזכירו לי מאוחר יותר</string>
+    <string name="review_notification_settings_text">‏החל מגרסת Android 13, אפליקציות שיותקנו יוכלו לשלוח התראות רק אם יקבלו ממך הרשאה. אפשר להקיש כדי לשנות את ההרשאה הזו באפליקציות קיימות.</string>
+    <string name="review_notification_settings_title">בדיקת הגדרת ההתראות</string>
     <string name="revoke">ביטול</string>
     <string name="ringtone_default">רינגטון ברירת מחדל</string>
     <string name="ringtone_default_with_actual">ברירת מחדל (%1$s)</string>
@@ -1813,6 +1913,7 @@
     <string name="ssl_ca_cert_noti_by_administrator">על ידי המנהל של פרופיל העבודה שלך</string>
     <string name="ssl_ca_cert_noti_by_unknown">על ידי צד שלישי לא ידוע</string>
     <string name="ssl_ca_cert_noti_managed">על ידי %s</string>
+    <string name="ssl_ca_cert_warning">{count,plural, =1{רשות אישורים הותקנה}two{רשויות אישורים הותקנו}many{רשויות אישורים הותקנו}other{רשויות אישורים הותקנו}}</string>
     <string name="ssl_certificate">אישור אבטחה</string>
     <string name="ssl_certificate_is_valid">האישור הזה תקף.</string>
     <string name="stk_cc_ss_to_dial">‏בקשת SS שונתה לשיחה רגילה</string>
@@ -1830,6 +1931,7 @@
     <string name="storage_usb_drive">‏כונן USB</string>
     <string name="storage_usb_drive_label">‏כונן USB של %s</string>
     <string name="submit">שליחה</string>
+    <string name="supervised_user_creation_label">הוספת משתמש בפיקוח</string>
     <string name="suspended_widget_accessibility">%1$s הושבת</string>
     <string name="sync_binding_label">סנכרון</string>
     <string name="sync_do_nothing">לא לבצע שום פעולה כרגע</string>
@@ -1839,6 +1941,7 @@
     <string name="sync_undo_deletes">ביטול פעולות המחיקה</string>
     <string name="system_error_manufacturer">קיימת בעיה פנימית במכשיר שלך. לקבלת פרטים, יש ליצור קשר עם היצרן.</string>
     <string name="system_error_wipe_data">קיימת בעיה פנימית במכשיר שלך, וייתכן שהוא לא יתפקד כראוי עד שיבוצע איפוס לנתוני היצרן.</string>
+    <string name="system_locale_title">ברירת המחדל של המערכת</string>
     <string name="taking_remote_bugreport_notification_title">עיבוד דוח על באג...</string>
     <string name="terabyteShort">TB</string>
     <string name="test_harness_mode_notification_message">"כדי להשבית את מצב 'מסגרת בדיקה' צריך לאפס להגדרות היצרן."</string>
@@ -1908,9 +2011,10 @@
     <string name="user_switched">המשתמש הנוכחי %1$s.</string>
     <string name="user_switching_message">מעבר אל %1$s…</string>
     <string name="validity_period">חוקיות:</string>
+    <string name="vdm_camera_access_denied">לא ניתן לגשת למצלמה של הטלפון מה‑%1$s</string>
     <string name="view_and_control_notification_content">לשירות %s יש הרשאה להצגת המסך ושליטה בו. אפשר להקיש כדי לבדוק.</string>
     <string name="view_and_control_notification_title">בדיקה של הגדרות הגישה</string>
-    <string name="volume_alarm">עוצמת קול של התראה</string>
+    <string name="volume_alarm">עוצמת הקול של השעון המעורר</string>
     <string name="volume_bluetooth_call">‏עוצמת הקול בשיחה ב-Bluetooth</string>
     <string name="volume_call">עוצמת קול בשיחה</string>
     <string name="volume_dialog_ringer_guidance_silent">שיחות והתראות יושתקו</string>
@@ -2009,9 +2113,18 @@
     <string name="zen_mode_default_weekends_name">סוף השבוע</string>
     <string name="zen_mode_default_weeknights_name">ערב ביום חול</string>
     <string name="zen_mode_downtime_feature_name">זמן השבתה</string>
+    <string name="zen_mode_duration_hours">{count,plural, =1{למשך שעה אחת}two{למשך שעתיים}many{למשך # שעות}other{למשך # שעות}}</string>
+    <string name="zen_mode_duration_hours_short">{count,plural, =1{למשך שעה אחת}two{למשך שעתיים}many{למשך # שע‘}other{למשך # שע‘}}</string>
+    <string name="zen_mode_duration_hours_summary">{count,plural, =1{למשך שעה אחת (עד {formattedTime})}two{למשך שעתיים (עד {formattedTime})}many{למשך # שעות (עד {formattedTime})}other{למשך # שעות (עד {formattedTime})}}</string>
+    <string name="zen_mode_duration_hours_summary_short">{count,plural, =1{למשך שעה (עד {formattedTime})}two{למשך שעתיים (עד {formattedTime})}many{למשך # שע‘ (עד {formattedTime})}other{למשך # שע‘ (עד {formattedTime})}}</string>
+    <string name="zen_mode_duration_minutes">{count,plural, =1{למשך דקה אחת}two{למשך # דקות}many{למשך # דקות}other{למשך # דקות}}</string>
+    <string name="zen_mode_duration_minutes_short">{count,plural, =1{למשך דקה}two{למשך # דק‘}many{למשך # דק‘}other{למשך # דק‘}}</string>
+    <string name="zen_mode_duration_minutes_summary">{count,plural, =1{למשך דקה אחת (עד {formattedTime})}two{למשך # דקות (עד{formattedTime})}many{למשך # דקות (עד{formattedTime})}other{למשך # דקות (עד{formattedTime})}}</string>
+    <string name="zen_mode_duration_minutes_summary_short">{count,plural, =1{למשך דקה (עד {formattedTime})}two{למשך # דק‘ (עד {formattedTime})}many{למשך # דק‘ (עד {formattedTime})}other{למשך # דק‘ (עד {formattedTime})}}</string>
     <string name="zen_mode_feature_name">נא לא להפריע</string>
     <string name="zen_mode_forever">עד הכיבוי</string>
     <string name="zen_mode_forever_dnd">"עד להשבתת התכונה 'נא לא להפריע'"</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">עד %1$s</string>
     <string name="zen_mode_until_next_day">עד %1$s</string>
     <string name="zen_upgrade_notification_content">יש להקיש כדי לבדוק מה חסום.</string>

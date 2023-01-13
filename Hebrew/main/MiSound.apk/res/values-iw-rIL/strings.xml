@@ -115,7 +115,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="four_note">המבדק יערוך כשלוש דקות.</string>
+    <string name="four_note">ייקחו כ-%d דקות להשלים את המבחן הזה.</string>
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
@@ -226,7 +226,7 @@
     <string name="music_audio_effect_settings">הגדרות אפקטים</string>
     <string name="music_audio_visual_wake_lock">השאר את המסך פעיל</string>
     <string name="music_audio_visual_wake_lock_summary">אל תכבה את המסך כאשר אפקטים חזותיים מוצגים</string>
-    <string name="music_below_thirty_years">עד בן 30</string>
+    <string name="music_below_thirty_years">עד גיל %d</string>
     <string name="music_customized_sound_summary">עוצמת שמע מותאמת אישית בהתאם לתפיסת השמיעה שלך</string>
     <string name="music_customized_sound_title">כיוונון עוצמת שמע</string>
     <string name="music_delete">מחק</string>
@@ -323,10 +323,10 @@
     <string name="music_sound_num">קבוע מראש מותאם אישית %s</string>
     <string name="music_sound_sample">קבועים מראש ע\"י המערכת</string>
     <string name="music_sure_to_delete_sound_msg">מחק קבועים מראש שנבחרו?</string>
-    <string name="music_thirty_to_sixty_years">בן 30-60 שנה</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">בגילאי %d-%d</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">אוזניות USB אינן נתמכות</string>
-    <string name="music_upper_sixty_years">יותר מ 60 שנה</string>
+    <string name="music_upper_sixty_years">מעל גיל %d</string>
     <string name="name">שם</string>
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
@@ -427,7 +427,8 @@
     <string name="sound_transmission_start">התחל</string>
     <string name="sound_transmission_stop">השהה</string>
     <string name="sound_transmission_title">מיקרופון אלחוטי</string>
-    <string name="spatial_audio_summary">התאמת הצליל המקיף בהתאם לתנועות הראש</string>
+    <string name="spatial_audio">צליל מקיף</string>
+    <string name="spatial_audio_summary">חוויה של צליל מקיף ותחושת מרחב בהשמעת אודיו דרך אוזניות</string>
     <string name="speaker_scenario_resume">שחזר את האפקטים המקוריים</string>
     <string name="start_test_sound">התחל במבדק</string>
     <string name="sunday">ראשון</string>

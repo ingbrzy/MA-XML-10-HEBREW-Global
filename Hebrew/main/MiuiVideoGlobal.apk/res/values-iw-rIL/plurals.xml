@@ -66,6 +66,12 @@
         <item quantity="two">נבחרו %s כוכבים</item>
         <item quantity="many">נבחרו %s כוכבים</item>
     </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">צפה בסרטונים למשך %s שניות נוספות כדי לצבור נקודות ולממש פרסים</item>
+        <item quantity="one">צפה בסרטון למשך שנייה אחת (%s) נוספת כדי לצבור נקודות ולממש פרסים</item>
+        <item quantity="two">צפה בסרטונים למשך %s שניות נוספות כדי לצבור נקודות ולממש פרסים</item>
+        <item quantity="many">צפה בסרטונים למשך %s שניות נוספות כדי לצבור נקודות ולממש פרסים</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">חוזר לעמוד הבית בעוד %1$dשניות…</item>
         <item quantity="one">חוזר לעמוד הבית בעוד שנייה %1$d…</item>
@@ -77,6 +83,12 @@
         <item quantity="one">לפני חצי שעה</item>
         <item quantity="two">לפני חצי שעה</item>
         <item quantity="many">לפני חצי שעה</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s צפיות</item>
+        <item quantity="one">צפייה אחת (%s)</item>
+        <item quantity="two">%s צפיות</item>
+        <item quantity="many">%s צפיות</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">בעוד שעה אחת</item>
@@ -286,6 +298,12 @@
         <item quantity="two">%d פריטים נבחרו</item>
         <item quantity="many">%d פריטים נבחרו</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d שירים</item>
+        <item quantity="one">שיר %d</item>
+        <item quantity="two">%d שירים</item>
+        <item quantity="many">%d שירים</item>
+    </plurals>
     <plurals name="new_incentive_toast_share_success">
         <item quantity="other">שיתפת בהצלחה. הרווחת %d נקודות. ניתן להשיגן במרכז הנקודות.</item>
         <item quantity="one">שיתפת בהצלחה. הרווחת נקודה %d. ניתן להשיגה במרכז הנקודות.</item>
@@ -411,6 +429,12 @@
         <item quantity="one">הוסף עד סימניה %d</item>
         <item quantity="two">הוסף עד %d סימניות</item>
         <item quantity="many">הוסף עד %d סימניות</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">להסתיר %d קבצים שנבחרו?</item>
+        <item quantity="one">להסתיר קובץ %d שנבחר?</item>
+        <item quantity="two">להסתיר %d קבצים שנבחרו?</item>
+        <item quantity="many">להסתיר %d קבצים שנבחרו?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s אהבתי</item>

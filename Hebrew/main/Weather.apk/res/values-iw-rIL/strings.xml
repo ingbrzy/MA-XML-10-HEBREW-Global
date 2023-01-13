@@ -43,8 +43,8 @@
     <string name="aqi_alert_channel_name">התראות AQI</string>
     <string name="aqi_data_source">מופעל על ידי Colorful Clouds</string>
     <string name="aqi_desc">מדד איכות האויר</string>
-    <string name="aqi_detail_24_hours">תחזית עבור 24 שעות</string>
-    <string name="aqi_detail_5_days">תחזית עבור 5 ימים</string>
+    <string name="aqi_detail_24_hours">תחזית עבור %d שעות</string>
+    <string name="aqi_detail_5_days">תחזית ל-%d ימים</string>
     <string name="aqi_detail_co_unit">יחידה: מק\"ג/מ\"ק</string>
     <string name="aqi_detail_title">מדד איכות אויר</string>
     <string name="aqi_detail_unit">יחידה: מק\"ג/מ\"ק</string>
@@ -117,6 +117,7 @@
     <string name="dynamic_weather">מזג אויר</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="edit_city">ניהול ערים</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">מעדכן…</string>
     <string name="empty_view_net_unavailable">לא ניתן היה להתחבר לרשת</string>
     <string name="empty_view_refresh">נסה שוב</string>
@@ -193,6 +194,7 @@
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
     <string name="hourly_forcast_now">כעת</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">התקן כעת</string>
     <string name="indices_title_chance_of_rain">סיכוי לגשם</string>
@@ -204,15 +206,16 @@
     <string name="indices_wind_direction_north">צ</string>
     <string name="indices_wind_direction_south">ד</string>
     <string name="indices_wind_direction_west">מע</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">מדד UV</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">מפעיל שירותי מיקום</string>
     <string name="location_tag">אתר</string>
     <string name="manager_city_option_add_home">הוספה לעמוד הבית</string>
     <string name="manager_city_option_view_on_home">צפה בעמוד הבית</string>
     <string name="midnight">לילה</string>
     <string name="minute_rain">תחזית משקעים</string>
-    <string name="minute_rain_after_an_hour">בעוד שעה</string>
-    <string name="minute_rain_after_two_hour">בעוד שעתיים</string>
     <string name="minute_rain_feedback_subtitle">ספר לנו מה מצב מזג האויר.</string>
     <string name="minute_rain_feedback_title">נדמה כי פרטי מזג האויר שגויים.</string>
     <string name="minute_rain_now">כעת</string>
@@ -285,7 +288,6 @@
     <string name="morning">בוקר</string>
     <string name="network_unavailable">לא ניתן להתחבר לרשת.</string>
     <string name="night">ערב</string>
-    <string name="night_not_disturb_settings_summary">חסום התראות בין 23:00 ל 7:00</string>
     <string name="night_not_disturb_settings_title">אל תפריע בלילה</string>
     <string name="no_data">אין נתונים</string>
     <string name="no_internet_message">המכשיר שלך צריך להתחבר לרשת כדי שתוכל לבטל את הסכמתך. בדוק את הגדרות הרשת שלך ונסה שוב.</string>
@@ -363,9 +365,10 @@
     <string name="share_menu_title">שיתוף</string>
     <string name="share_subject">שתף</string>
     <string name="share_weather_desc">\#מזג אויר MIUI#היום %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">לא ניתן היה לבצע צילום מסך</string>
-    <string name="shortcut_short_label_24_hour_forecast">תחזית עבור 24 שעות</string>
+    <string name="shortcut_short_label_24_hour_forecast">תחזית עבור %d שעות</string>
     <string name="shortcut_short_label_recent_forecast">בדוק את מזג האוויר</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -480,7 +483,7 @@
     <string name="unit">יחידות</string>
     <string name="unit_temperature">יחידות טמפרטורה</string>
     <string name="unit_wind">יחידות מהירות הרוח</string>
-    <string name="update_night_setting_summary_text">עדכן את המידע אודות מזג האויר בין 23:00 ל-7:00</string>
+    <string name="update_night_setting_summary_text">לעדכן את המידע אודות מזג האויר בין %1$s ל-%2$s</string>
     <string name="update_night_setting_title_text">עדכן באופן אוטומטי בלילה</string>
     <string name="update_notification_info">מעדכן ברקע…</string>
     <string name="updated_a_moment_ago">עודכן לפני חודש</string>
@@ -489,10 +492,8 @@
     <string name="video_banner_weather_forecast">תחזית מזג האוויר</string>
     <string name="video_banner_weather_update">עדכוני מזג אוויר אחרונים</string>
     <string name="view_forecast_item_yesterday">אתמול</string>
-    <string name="view_indexes_item_day_after_tommorrow">בעוד יומיים</string>
     <string name="view_indexes_item_today">היום</string>
     <string name="view_indexes_item_tommorrow">מחר</string>
-    <string name="warning_weather_day_and_night_settings_summary">קבל תקצירים יומיים הכוללים פרטי מזג האוויר מ 7:00 עד 19:00</string>
     <string name="warning_weather_day_and_night_settings_title">תקצירים יומיים</string>
     <string name="weather_alert_channel_name">התראות</string>
     <string name="weather_aqi_full_air_quality_forcast">תחזית איכות אוויר מלאה</string>
@@ -507,6 +508,7 @@
     <string name="wednesday_shortest">"ד'"</string>
     <string name="welcome_app_title">ברוך הבא אל יישום מזג האוויר!</string>
     <string name="wind_direction_no_data">רוח</string>
+    <string name="wind_power">%d</string>
     <string name="wind_unit">%1$s קמ\"ש</string>
     <string name="xiaomi_weather_description_content">"\"מזג אוויר\" הוא יישום מערכת. לאחר הסרתו לא ניתן יהיה לצפות בנתוני מזג האוויר או להשתמש בווידג'טים הקשורים אליו."</string>
     <string name="xiaomi_weather_description_content_remove">"\"מזג אוויר\" הוא יישום מערכת. לאחר הסרת הקיצור ממסך הבית לא ניתן יהיה לצפות בנתוני מזג האוויר או להשתמש בווידג'טים הקשורים אליו."</string>

@@ -43,6 +43,7 @@
     <string name="auto_brightness_on">מצב בהירות אוטומטי מופעל</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">לחצני הניווט מושבתים, הקש פעמיים על לחצן כדי לחזור ולהפעיל אותו.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">לחצי הניווט מאופשרים</string>
+    <string name="auto_saver_okay_action">הבנתי</string>
     <string name="back">חזור</string>
     <string name="battery_meter_percent_sign">%</string>
     <string name="bt_is_off">Bluetooth כבוי</string>
@@ -69,6 +70,9 @@
     <string name="device_locked_without_biometric">לא ניתן לפתוח מכשיר זה באמצעות טביעת אצבע או זיהוי פנים כשאתה משתמש בנעילת מסך של גורם שלישי</string>
     <string name="device_locked_without_biometric_face">לא ניתן לפתוח מכשיר זה באמצעות זיהוי פנים כשאתה משתמש בנעילת מסך של גורם שלישי</string>
     <string name="device_locked_without_biometric_finger">לא ניתן לפתוח מכשיר זה באמצעות טביעת אצבע כשאתה משתמש בנעילת מסך של גורם שלישי</string>
+    <string name="dialog_forget_password_cancel">ביטול</string>
+    <string name="dialog_forget_password_message">אם שכחת את קוד ה-PUK, ניתן להשבית את eSIM זה כדי לא לאבד גישה למכשיר שלך. לאחר מכן אפשר לפנות לספק הרשת שלך לקבלת עזרה.</string>
+    <string name="dialog_forget_password_ok">השבתה</string>
     <string name="digital_clock_dot">:</string>
     <string name="dnd_notification_warnings_title">"מצב 'נא לא להפריע' מופעל. ההתראות מושתקות והרטט מושבת."</string>
     <string name="do_disclosure_generic">המכשיר הזה שייך לארגון שלך</string>
@@ -98,6 +102,8 @@
     <string name="face_unlock_reveal_mouth">גלה את השפתיים שלך</string>
     <string name="face_unlock_success">חסימה בוטלה בהצלחה</string>
     <string name="face_unlock_swipe_up_retry">החלק למעלה כדי לנסות שנית</string>
+    <string name="fgs_manager_dialog_title">יישומים פעילים</string>
+    <string name="finger_error_single_mode">לא ניתן להשתמש בסורק טביעות אצבע במצב יד אחת. יש לצאת ממצב יד אחת ולנסות שנית.</string>
     <string name="fingerprint_add_text">ממשק טביעת האצבע התעדכן. הוסף את טביעת האצבע שלך שוב.</string>
     <string name="fingerprint_add_title">הוספת טביעת אצבע</string>
     <string name="fingerprint_again_identified_msg">טביעת האצבע שלך פעילה כעת. השתמש בה לביטול נעילת המכשיר, או הזן סיסמה.</string>
@@ -119,7 +125,7 @@
     <string name="fingerprint_not_identified_msg_pin">"יותר מדי ניסיונות כושלים.
 עליך להזין את קוד ה-PIN לביטול נעילה."</string>
     <string name="fingerprint_not_identified_title">הזן סיסמה</string>
-    <string name="fingerprint_try_again_msg">לא ניתן היה לאמת את טביעת האצבע, נסה שוב.</string>
+    <string name="fingerprint_try_again_msg">לא ניתן היה לאמת את טביעת האצבע, יש לנסות שנית.</string>
     <string name="fingerprint_try_again_text">נסה שוב</string>
     <string name="float_notification_snooze_strategy">הסתרה זמנית של התראות צפות</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -175,6 +181,7 @@
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="forget_password_string">שכחתי את הסיסמה</string>
+    <string name="forget_password_string_for_esim"><u>שכחתי את קוד ה-PUK</u></string>
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
@@ -182,6 +189,7 @@
     <string name="fs_gesture_back_ready_title">חזרה</string>
     <string name="fs_gesture_final_over">סיימתי</string>
     <string name="fs_gesture_final_restart">עוד פעם אחת</string>
+    <string name="fs_gesture_final_see_more">צפה בהדגמות נוספות תחת הגדרות > מסך הבית > ניווט במערכת</string>
     <string name="fs_gesture_final_summary">"באפשרותך לחזור לשימוש בלחצנים ב'הגדרות' > 'תצוגת מסך מלא'"</string>
     <string name="fs_gesture_final_title">אתה מוכן לצאת לדרך!</string>
     <string name="fs_gesture_finish">יפה!</string>
@@ -240,11 +248,14 @@
     <string name="input_password_after_boot_msg_must_enter_owner_space">"עליך להיכנס ל'שטח ראשון' לאחר שהמכשיר אותחל"</string>
     <string name="input_password_hint_text">הזן סיסמה</string>
     <string name="input_pattern_after_boot_msg">יש לצייר את התבנית לאחר אתחול המכשיר</string>
+    <string name="input_pattern_after_face_not_allowed">עליך להזין את הסיסמה שלך לפחות פעם ב-%d שעות כדי לשמור על ביטחון המכשיר</string>
     <string name="input_pattern_after_restart_msg">יש לאשר את נעילת המסך כדי להמשיך</string>
     <string name="input_pattern_hint_text">צייר את תבנית הפתיחה שלך</string>
+    <string name="input_pattern_or_finger_after_face_not_allowed">עליך להזין את הסיסמה שלך או להשתמש בתביעת האצבע שלך לפחות פעם ב-%d שעות כדי לשמור על ביטחון המכשיר</string>
     <string name="input_pin_after_boot_msg">יש להזין את קוד ה-PIN לאחר אתחול המכשיר</string>
     <string name="input_pin_code">הזן PIN</string>
     <string name="input_puk_code">הכנס PUK</string>
+    <string name="input_second_pattern_after_restart_msg">עליך לאשר את סיסמת \"השטח השני\" כדי להמשיך</string>
     <string name="invalid_confirm_pin_hint">קודי ה-PIN אינם תואמים</string>
     <string name="keyboard_key">\"</string>
     <string name="keyboard_key_back">הקודם</string>
@@ -316,6 +327,8 @@ dd.MM"</string>
     <string name="miui_notification_menu_snooze">נודניק</string>
     <string name="miui_notification_menu_title_not_allow">הגבל</string>
     <string name="miui_notification_menu_unfold">סמן כחשוב</string>
+    <string name="miui_notification_slide_menu_msg_ongoing">Restrict permanent notifications for \"%1$s\" now?</string>
+    <string name="miui_notification_slide_menu_ongoing">Restrict permanent notifications</string>
     <string name="miui_screen_rotation_freeze_message">כיוון המסך ננעל במצב תצוגה לרוחב</string>
     <string name="miui_snooze_always_float">לא להסתיר</string>
     <string name="miui_snooze_cancel">ביטול</string>
@@ -324,8 +337,8 @@ dd.MM"</string>
     <string name="miui_snooze_toast_hint_default">"התראות חדשות יוסתרו למשך דקה %d. "</string>
     <string name="miui_snooze_toast_hint_until_unlock_screen">"התראות חדשות יוסתרו עד שהמכשיר יינעל. "</string>
     <string name="miui_snooze_until_unlock_screen">עד לנעילה</string>
-    <string name="miui_snooze_user_set_fail">לאפשרויות נוספות נא לעבור אל הגדרות > התראות &amp; מרכז הבקרה</string>
-    <string name="miui_snooze_user_set_success">הוחל בהצלחה. לאפשרויות נוספות נא לעבור אל הגדרות > התראות &amp; מרכז הבקרה.</string>
+    <string name="miui_snooze_user_set_fail">לאפשרויות נוספות נא לעבור אל הגדרות > התראות ומרכז הבקרה</string>
+    <string name="miui_snooze_user_set_success">הוחל בהצלחה. לאפשרויות נוספות נא לעבור אל הגדרות > התראות ומרכז הבקרה.</string>
     <string name="miui_unimportant_notifications">התראות לא חשובות</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
@@ -396,9 +409,10 @@ mm"</string>
     <string name="more">עוד</string>
     <string name="morning">בוקר</string>
     <string name="msim_set_sub_not_supported_phone_in_call">לא ניתן להגדיר במהלך שיחה</string>
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
-    <string name="notification_control_center">מרכז בקרה והתראות</string>
+    <string name="notification_control_center">התראות ומרכז הבקרה</string>
     <string name="notification_group_collapse_button_text">קיפול</string>
     <string name="notification_hidden_text">התקבלה הודעה חדשה</string>
     <string name="open_camera_hint_text">גרור את האייקון על מנת לפתוח מצלמה</string>
@@ -421,8 +435,8 @@ mm"</string>
     <string name="pm">PM</string>
     <string name="pref_show_lunar_calendar_title">הצג את לוח השנה הסיני המסורתי במצב נעילת מסך</string>
     <string name="privacy_dialog_title">התראות על פעולות רגישות</string>
-    <string name="privacy_recent_used_title">בשימוש לאחרונה</string>
-    <string name="privacy_using_title">הנוכחיים</string>
+    <string name="privacy_recent_used_title">לאחרונה</string>
+    <string name="privacy_using_title">נוכחי</string>
     <string name="qs_bill_message_balance">נותרו %1$s %2$s</string>
     <string name="qs_bill_message_unit_cny">CNY</string>
     <string name="qs_control_big_tile_state_closed">כבוי</string>
@@ -447,7 +461,9 @@ mm"</string>
     <string name="qs_traffic_message_type_used">נוצלו %1$s%2$s</string>
     <string name="quick_settings_autobrightness_label">בהירות אוטומטית</string>
     <string name="quick_settings_batterysaver_label">חיסכון בסוללה</string>
+    <string name="quick_settings_bluetooth_connected_tip">Connected via Bluetooth successfully</string>
     <string name="quick_settings_bluetooth_detail_empty_text">אין מכשירים מוצמדים זמינים</string>
+    <string name="quick_settings_bluetooth_disconnected_tip">All Bluetooth devices will stay disconnected today</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">נתונים ניידים (WCDMA/LTE) יושבתו. אם לא תשתמש ברשת Wi-Fi, לא תוכל להשתמש ביישומים הדורשים חיבור נתונים. שליחה או קבלה של הודעות מולטימדיה תוגבל.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">נתונים ניידים יופעלו. חיבור לרשתות סלולריות עשוי לגרום לחיובים נוספים בהתאם לתוכנית התשלום שלך לספק.</string>
@@ -462,6 +478,7 @@ mm"</string>
     <string name="quick_settings_flashlight_label">פנס</string>
     <string name="quick_settings_hotspot_label">נקודה חמה</string>
     <string name="quick_settings_location_label">מיקום</string>
+    <string name="quick_settings_low_battery_toast_text">"Can't use flashlight. Battery is too low."</string>
     <string name="quick_settings_more_settings">הגדרות נוספות</string>
     <string name="quick_settings_mute_label">השתקה</string>
     <string name="quick_settings_nightmode_label">מצב מוחשך</string>
@@ -488,7 +505,7 @@ mm"</string>
     <string name="quick_settings_wifi_detail_empty_text">לא קיימת רשת אלחוטית זמינה</string>
     <string name="rapid_charge_mode_tip">טעינה מהירה</string>
     <string name="reboot_info_auto_boot_global">התראה מתקרבת: %s</string>
-    <string name="reboot_info_shutdown_alarm_global">התראת כיבוי: %s</string>
+    <string name="reboot_info_shutdown_alarm_global">כיבוי התראות: %s</string>
     <string name="recent_used_camera">יישום זה השתמש במצלמה</string>
     <string name="recent_used_camera_and_microphone">ישום זה הקליט שמע והשתמש במצלמה</string>
     <string name="recent_used_microphone">יישום זה הקליט שמע</string>
@@ -497,8 +514,8 @@ mm"</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
     <string name="send">שליחה</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content">&lt;Data>לחץ והחזק יחד את הלחצנים &lt;font color=#e6e6e6>[[הפעלה]]&lt;/font> ו-&lt;font color=#e6e6e6>[עוצמת שמע+]&lt;/font> עד שתראה את &lt;img src=\"\">.&lt;/Data></string>
-    <string name="shut_down_password_forget_password_suggesstion_two_content">&lt;Data>בחר &lt;font color=#e6e6e6>[Wipe data]&lt;/font> and tap &lt;font color=#e6e6e6>[Reboot]&lt;/font> לאחר מכן.&lt;/Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content">&lt;Data>לחץ והחזק יחד את הלחצנים &lt;font color=#e6e6e6>[הפעלה]&lt;/font> ו-&lt;font color=#e6e6e6>[עוצמת שמע+]&lt;/font> עד שתראה את &lt;img src=\"\">.&lt;/Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content">&lt;Data>בחר ב-&lt;font color=#e6e6e6>[מחק נתונים (Wipe data)]&lt;/font> ולאחר מכן הקש על &lt;font color=#e6e6e6>[Reboot]&lt;/font>.&lt;/Data></string>
     <string name="sim_state_locked_dialog_title">כרטיס SIM לא חוקי</string>
     <string name="sim_state_locked_puk_dialog_message">הזנת קוד PUK שגוי לפחות %d פעמים. כרטיס ה-SIM שלך אינו חוקי כעת. החלף את כרטיס ה-SIM בכרטיס אחר.</string>
     <string name="start_camera_error_try_again">לא ניתן לפתוח את המצלמה. נא לנסות שוב.</string>
@@ -508,6 +525,8 @@ mm"</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, MMM d</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, d MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, d MMMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 MMM d"</string>
     <string name="status_bar_date_format_12">"E
@@ -565,13 +584,14 @@ MMM d"</string>
     <string name="time_picker_dialog_title">הגדרת זמן</string>
     <string name="time_picker_label_hour">"שע'"</string>
     <string name="time_picker_label_minute">"ד'"</string>
+    <string name="tip_close_flares">בהתחברות זו לא יישלחו התראות על התנהגות היישום</string>
     <string name="today">היום</string>
     <string name="tomorrow">מחר</string>
     <string name="torch_high_temperature_warning">המכשיר שלך חם מדי. לא ניתן להשתמש כרגע בפנס.</string>
     <string name="traffic_unit_byte">בייט</string>
-    <string name="traffic_unit_gigabyte">ג\"ב</string>
-    <string name="traffic_unit_kilobyte">ק\"ב</string>
-    <string name="traffic_unit_megabyte">מ\"ב</string>
+    <string name="traffic_unit_gigabyte">GB</string>
+    <string name="traffic_unit_kilobyte">KB</string>
+    <string name="traffic_unit_megabyte">MB</string>
     <string name="tuesday">שלישי</string>
     <string name="tuesday_short">"ג'"</string>
     <string name="tuesday_shortest">"ג'"</string>

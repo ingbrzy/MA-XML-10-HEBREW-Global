@@ -14,6 +14,5 @@
     <string name="debug_tool_message">אתה עומד 1) ליצור עותק של מסד הנתונים של לוח השנה בכרטיס SD/התקן USB, הניתן לקריאה על ידי כל יישום ו-2) לשלוח אותו בדוא\"ל. זכור למחוק עותק זה מהמכשיר מיד לאחר שהעתקת אותו בהצלחה או לאחר שהדוא\"ל התקבל.</string>
     <string name="debug_tool_start_button">התחל</string>
     <string name="provider_label">יומן</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="upgrade_msg">משדרג את מסד הנתונים של היומן.</string>
 </resources>

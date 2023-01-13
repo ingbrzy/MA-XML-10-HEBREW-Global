@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="access_denied_info">יותר מדיי ניסיונות כניסה. חכה דקה או שתיים ונסה שוב.</string>
+    <string name="access_photos_and_videos">גישה לתמונות ולסרטונים</string>
     <string name="action_collapse">הסתר</string>
     <string name="action_expand">הצג עוד</string>
     <string name="action_folder_description">הצג תיקיות</string>
@@ -14,7 +15,7 @@
     <string name="actionbar_button_up_description">הקודם</string>
     <string name="actionbar_close_description">סגור</string>
     <string name="actionbar_home_description">הקודם</string>
-    <string name="add_account_desc">לסנכרן את הפתקים שלך עם חשבון Mi שלך?</string>
+    <string name="add_account_desc">האם לסנכרן את הפתקים שלך עם חשבון Xiaomi שלך?</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="alarm_bar_title">תזכורת</string>
     <string name="alert_action_edit_anyway">המשך לערוך</string>
@@ -34,6 +35,9 @@
     <string name="app_name">פתקים</string>
     <string name="app_notification_info">\"פתקים\" עובד ברקע כעת</string>
     <string name="app_widget">פתקים</string>
+    <string name="app_widget_name_create_note">יצירת פתקים</string>
+    <string name="app_widget_name_create_todo">יצירת משימות</string>
+    <string name="app_widget_name_fast_entry">קיצורי דרך</string>
     <string name="app_widget_name_new">פתקים</string>
     <string name="application_icon">אייקון יישום</string>
     <string name="audio_btn_mode_meeting">פגישה</string>
@@ -161,7 +165,7 @@
     <string name="empty_folder_import_notes">ייבא פתקים</string>
     <string name="empty_folder_no_notes">אין כאן פתקים</string>
     <string name="enable_sync">סנכרון</string>
-    <string name="enable_sync_desc">לסנכרן את הפתקים שלך עם חשבון Mi שלך (%1$s)?</string>
+    <string name="enable_sync_desc">האם לסנכרן את הפתקים שלך עם חשבון Xiaomi שלך (%1$s)?</string>
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
     <string name="error_contact_not_exist">איש הקשר אינו קיים</string>
@@ -451,6 +455,7 @@
     <string name="new_audio_create_guide_tip">לחץ והחזק כדי לייצר פתק קולי</string>
     <string name="new_audio_create_talkback_des">לחץ כדי לייצר פתק טקסטואלי. לחץ והחזק כדי לייצר פתק קולי. שחרר את הכפתור כדי להפסיק את ההקלטה ולייצר את הפתק, או החלק למעלה כדי לבטל.</string>
     <string name="new_data_empty_note">עדיין אין כאן כלום</string>
+    <string name="new_lite_audio_create_talkback_des">הקש כדי ליצור פתק</string>
     <string name="night">ערב</string>
     <string name="no_network">לא ניתן להתחבר לרשת</string>
     <string name="noon">צהריים</string>
@@ -481,6 +486,7 @@
     <string name="note_write_hint">התחל לכתוב</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">יישום הפתקים הוא יישום מערכת. לא תוכל להשתמש ביישום זה אחרי הסרתו.</string>
     <string name="notes_description_title">להסיר את יישום הפתקים?</string>
     <string name="notification_content_add_todo_from_other_app">הוספת משימה חדשה. הקש כדי לצפות בה.</string>
@@ -540,6 +546,8 @@
     <string name="permission_microphone_desc">להקלטת הערות קוליות</string>
     <string name="permission_network_for_cloud_desc">עליך להתחבר לאינטרנט כדי לסנכרן את הפתקים עם הענן. ייתכן שייעשה שימוש בתעבורת נתונים סלולרית לסנכרון. להתחבר עכשיו?</string>
     <string name="permission_phone_state_desc">להפסקת הקלטה של הערות קוליות בזמן שיחה</string>
+    <string name="permission_photos_desc">להוספת תמונות לפתקים</string>
+    <string name="permission_photos_desc_pad">להוספת תמונות לפתקים</string>
     <string name="permission_read_contact_desc">קישור הפתקים שנוצרו בשיחות לאנשי קשר</string>
     <string name="permission_storage_desc">לשמירת הערות כתמונות</string>
     <string name="permission_storage_desc_new_v12">להוספת תמונות לפתקים ולשמירת פתקים בתור תמונות</string>
@@ -640,6 +648,7 @@
     <string name="search_setting_description">חיפוש טקסט בפתקים שלך</string>
     <string name="select_account_prompt">סנכרן פתקים</string>
     <string name="send">שליחה</string>
+    <string name="send_notifications_for_reminder">לשליחת תזכורות</string>
     <string name="set_alarm_description">הגדרת שעון מעורר</string>
     <string name="setting_big_screen_layout_columns">סרגל צד</string>
     <string name="setting_big_screen_layout_flat">משבצות</string>
@@ -781,6 +790,7 @@
  אפשר לפתקים לקרוא את תוכנו של כרטיס ה SD."</string>
     <string name="toast_refuse_to_use_phone_state">"הרשאות עבור הטלפון מוגבלות.
  אפשר לפתקים לקרוא את סטטוס הטלפון וזהותו."</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">אשר ליישום זה לקבל גישה לתמונות שלך, כדי שתוכל להוסיף תמונות לפתקים</string>
     <string name="toast_refuse_to_use_record_audio">"הרשאות עבור מיקרופון מוגבלות.
  אפשר לפתקים להקליט שמע."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">אפשר לפתקים גישה לאחסון כדי שתוכל להוסיף תמונות לפתקים שלך</string>
@@ -885,6 +895,9 @@
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>
+    <string name="widget_all_notes_name">כל הפתקים</string>
+    <string name="widget_all_todo_name">כל המשימות</string>
+    <string name="widget_click_check">נא להקיש לצפייה</string>
     <string name="widget_content_loading">רק רגע…</string>
     <string name="widget_create_select_size">בחירת גודל</string>
     <string name="widget_empty_content">יש ללחוץ כדי לבחור פתק</string>
@@ -901,5 +914,7 @@
     <string name="widget_size_item_super_big">גדול במיוחד</string>
     <string name="widget_size_not_support">"מכשיר זה אינו תומך בווידג'טים גדולים במיוחד"</string>
     <string name="widget_take_notes_title">פתקים</string>
+    <string name="widget_total_notes">%1$d</string>
+    <string name="widget_total_todo">%1$d</string>
     <string name="yesterday">אתמול</string>
 </resources>

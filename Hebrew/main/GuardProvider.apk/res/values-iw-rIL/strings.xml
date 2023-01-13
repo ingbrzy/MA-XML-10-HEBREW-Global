@@ -19,7 +19,6 @@
     <string name="avast_virus_type_cryportor_description">וירוס זה הינו יישום כופר (cryptor). זוהי תוכנה זדונית המועברת על ידי שכפול עצמי בתוך שטח האחסון.</string>
     <string name="avast_virus_type_dropper_description">"וירוס זה הינו 'דרופר' (dropper). הוא מכיל קוד אשר מתקין וירוסים זדוניים אחרים."</string>
     <string name="avast_virus_type_exploit_description">וירוס זה הינו וירוס נצלן (exploit). הוא מנצל תקלות או רגישויות במערכת שלך על מנת לגרום להתנהגות בלתי רצויה או בלתי צפויה.</string>
-    <string name="avast_virus_type_heuristic_description">הזיהום מתגלה על ידי אביזר זיהוי מסויים. אביזר הזיהוי מצביע על כך שזהו אכן וירוס.</string>
     <string name="avast_virus_type_joke_description">וירוס זה הינו בדיחה. הוא מייצר אפקטים הומוריסטיים או מעצבנים. בדרך כלל קיימת פחות פגיעה מאשר על ידי וירוסים אחרים.</string>
     <string name="avast_virus_type_pup_description">"וירוס זה הינו 'תוכנה לא רצויה פוטנציאלית' (PUP). זוהי תוכנה שעלולה להסב נזק (תוכנת ריגול, פרסום וכו'), למרות העובדה שהמשתמשים נותנים הסכמתם להורדה שלה."</string>
     <string name="avast_virus_type_rootkit_description">וירוס זה הינו rootkit. זהו סוג של תוכנה שתוכננה כך שתוכל להסתיר את העובדה שמערכת ההפעלה נמצאת בסכנה. הוא משתלט על המכשיר על ידי הסתתרות בתוך המערכת. וירוס Rootkits מאפשר לוירוסים ותוכנות זדוניות אחרות להיחבא \"מתחת לרדאר\" על ידי התחזות לקבצים הכרחיים מהם האנטי וירוס יתעלם בדרך כלל.</string>
@@ -28,7 +27,6 @@
     <string name="avast_virus_type_tool_description">וירוס זה הינו כלי זדוני פוטנציאלי הדומה ל-PUP.</string>
     <string name="avast_virus_type_trjan_description">וירוס זה הינו סוס טרויאני. זוהי תוכנה זדונית שתוכננה לאפשר גישה מרחוק, שאינה מורשית למכשיר המשתמש. בדרך כלל אין לסוסים טרויאנים את היכולת לשכפל את עצמם כמו וירוסים. עם זאת, הם יכולים להוביל להתקנת תוכנות זדוניות אחרות על המכשיר, לגניבת נתונים, או פעולות זדוניות אחרות.</string>
     <string name="avast_virus_type_unknown_description">סוג זיהום שאינו מוכר.</string>
-    <string name="avast_virus_type_worm_description">וירוס זה הינו וירוס תולעת. זוהי תוכנה זדונית עצמאית המשכפלת עצמה על מנת להיות מופצת למכשירים אחרים. היא מנצלת תכונות העברה של קבצים או מידע (כגון רשת) במערכת שלך, היא מסוגלת לנוע ללא כל פעולה אנושית. תולעים בדרך כלל גורמות לפחות לנזק מסויים ברשת.</string>
     <string name="avl_dialog_cloudscan" />
     <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_header">תכונה זו מצפינה ומעלה את מזהה המכשיר שלך לשרתי AVL (%s).</string>

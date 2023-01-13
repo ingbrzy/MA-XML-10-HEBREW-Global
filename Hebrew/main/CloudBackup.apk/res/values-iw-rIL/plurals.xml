@@ -54,6 +54,12 @@
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">נראה שלא גיבית פריטים במשך %s שבועות. יש ליצור גיבויים כדי למנוע אובדן של דברים חשובים.</item>
+        <item quantity="one">נראה שלא גיבית פריטים במשך שבוע %s. יש ליצור גיבויים כדי למנוע אובדן של דברים חשובים.</item>
+        <item quantity="two">נראה שלא גיבית פריטים במשך שבועיים. יש ליצור גיבויים כדי למנוע אובדן של דברים חשובים.</item>
+        <item quantity="many">נראה שלא גיבית פריטים במשך %s שבועות. יש ליצור גיבויים כדי למנוע אובדן של דברים חשובים.</item>
+    </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s גיבויים, גודל:%2$s</item>
         <item quantity="one">גיבוי %1$s, גודל: %2$s</item>
@@ -108,22 +114,22 @@
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
     </plurals>
-    <plurals name="restore_app_order_installed">
-        <item quantity="other">%d יישומים על מכשיר זה</item>
-        <item quantity="one">%d יישומים על מכשיר זה</item>
-        <item quantity="two">%d יישומים על מכשיר זה</item>
-        <item quantity="many">%d יישומים על מכשיר זה</item>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">גובו %d יישומים</item>
+        <item quantity="one">גובה יישום אחד (%d)</item>
+        <item quantity="two">גובו %d יישומים</item>
+        <item quantity="many">גובו %d יישומים</item>
     </plurals>
-    <plurals name="restore_app_order_normal">
-        <item quantity="other">בקדימות רגילה: %d אפליקציות</item>
-        <item quantity="one">בקדימות רגילה: אפליקציה %d</item>
-        <item quantity="two">בקדימות רגילה: %d אפליקציות</item>
-        <item quantity="many">בקדימות רגילה: %d אפליקציות</item>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">שוחזרו %d יישומים</item>
+        <item quantity="one">שוחזר יישום אחד (%d)</item>
+        <item quantity="two">שוחזרו %d יישומים</item>
+        <item quantity="many">שוחזרו %d יישומים</item>
     </plurals>
-    <plurals name="restore_app_order_prior">
-        <item quantity="other">בקדימות גבוהה: %d אפליקציות</item>
-        <item quantity="one">בקדימות גבוהה: אפליקציה %d</item>
-        <item quantity="two">בקדימות גבוהה: %d אפליקציות</item>
-        <item quantity="many">בקדימות גבוהה: %d אפליקציות</item>
+    <plurals name="session_time_remain">
+        <item quantity="other">נותרו בערך %s דקות</item>
+        <item quantity="one">נותרה בערך דקה %s</item>
+        <item quantity="two">נותרו בערך %s דקות</item>
+        <item quantity="many">נותרו בערך %s דקות</item>
     </plurals>
 </resources>

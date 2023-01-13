@@ -36,6 +36,10 @@
     <string name="account_user_phone">טלפון לשחזור</string>
     <string name="account_user_region">אזור</string>
     <string name="action_add_phone">הוסף מספר טלפון</string>
+    <string name="action_setting_ab_playing">מנגן ברצף (בלוּפּ)…</string>
+    <string name="action_setting_ab_reset">איפוס</string>
+    <string name="action_setting_ab_set_end">הגדרת נקודת הסיום</string>
+    <string name="action_setting_ab_set_start">הגדרת נקודת ההתחלה</string>
     <string name="action_update_phone">שינוי מספר טלפון</string>
     <string name="actionbar_button_up_description">הקודם</string>
     <string name="activate_email_notice">הקפד להפעיל את החשבון תוך 24 שעות</string>
@@ -107,6 +111,7 @@
     <string name="cloud_online_player">נַגָן</string>
     <string name="cloud_online_switch">המלצות מותאמות אישית</string>
     <string name="cloud_online_switch_open_time">הצג המלצות תוכן מותאמות אישית</string>
+    <string name="cmp_tier_privacy_policy">מדיניות הפרטיות של צדדים שלישיים</string>
     <string name="collect_diagnosis_log">אוסף יומנים</string>
     <string name="columbus_ad_flag_text">פרסומת</string>
     <string name="columbus_skip_ad">דלג</string>
@@ -175,8 +180,11 @@ ID:%s
     <string name="dialog_clearn_title">נקה היסטוריה</string>
     <string name="dialog_confirm">אישור</string>
     <string name="dialog_delete_bookmarks_content">למחוק את הסימנייה עכשיו?</string>
+    <string name="dialog_disagree_continue">המשך</string>
+    <string name="dialog_disagree_info">אם אינך מסכימ/ה למדיניות הפרטיות של וידאו Mi, לא ניתן יהיה להשתמש בשירותים המקוונים שלנו. תוכל/י רק לצפות בסרסטונים המאוחסנים במכשיר שלך. להמשיך בכל זאת?</string>
     <string name="dialog_disagree_privacychange_info">לא תוכל להשתמש בשירותי סטרימינג (הזרמת מדיה) מקוונים של Mi Video אם אינך מסכים למדיניות הפרטיות שלנו. הקש על \"ביטול\" כדי לחזור, או על \"לא מסכים\" כדי להמשיך ולהשתמש ב-Mi Video כנגן מקומי בלבד.</string>
     <string name="dialog_disagree_privacychange_title">לא מסכים?</string>
+    <string name="dialog_disagree_title">מדיניות הפרטיות</string>
     <string name="dialog_edit_bookmarks">ערוך סימנייה</string>
     <string name="dialog_edit_hint_bookmarks_name">שם סימניה</string>
     <string name="dialog_edit_hint_bookmarks_url">כתובת URL</string>
@@ -236,7 +244,6 @@ ID:%s
     <string name="download_paused">הושהתה</string>
     <string name="download_pending">ממתין…</string>
     <string name="download_power_off_tips">מאפיין זה אינו זמין כרגע</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_retry">נסה שוב</string>
     <string name="download_unable_tip">לא ניתן להוריד פריט זה</string>
     <string name="download_video">מתבצעת הורדת סרטון</string>
@@ -256,6 +263,7 @@ ID:%s
     <string name="failed_dup_secure_phone_number">מספר טלפון זה כבר מקושר לחשבון Mi אחר</string>
     <string name="failed_to_fetch_data">לא ניתן היה לטעון את המידע.</string>
     <string name="failure">לא ניתן היה להוריד</string>
+    <string name="fast_channel_popular">ערוצים פופולריים</string>
     <string name="favor_movie">סרטים</string>
     <string name="favor_online_video">סרטונים</string>
     <string name="favor_playlist">רשימת השמעה</string>
@@ -265,6 +273,18 @@ ID:%s
     <string name="favorite_fail">לא ניתן להוסיף למועדפים. נסה שוב.</string>
     <string name="favorite_success">נוסף למועדפים בהצלחה</string>
     <string name="fcm_push_title">סרטונים פופולריים</string>
+    <string name="fcmpts_dialog_continue">צפה</string>
+    <string name="fcmpts_dialog_not_interested">לא תודה</string>
+    <string name="fcmpts_dialog_two" formatted="false">צפה ב-%d שניות נוספות של עוד סרטון אחד (%d) כדי להרוויח קופון של Mi Store</string>
+    <string name="fcmpts_popup_final">קיבלת את הנקודות! הקש כדי לממש פרסים.</string>
+    <string name="fcmpts_popup_final_redeem">מימוש</string>
+    <string name="fcmpts_popup_four" formatted="false">קיבלת את הנקודות! צפה ב-%d שניות נוספות של %d סרטונים כדי להרוויח קופון Mi Store.</string>
+    <string name="fcmpts_popup_one" formatted="false">צפה היום ב-%d סרטונים כדי להרוויח קופון Mi Store בשווי %d נקודות</string>
+    <string name="fcmpts_popup_one_cts">צפה</string>
+    <string name="fcmpts_popup_three" formatted="false">צפית בסרטון למשך %d שניות והרווחת %d נקודות!</string>
+    <string name="fcmpts_popup_three_claim">תבע את הנקודות</string>
+    <string name="fcmpts_popup_three_login_claim">כניסה</string>
+    <string name="fcmpts_popup_two" formatted="false">צפה בסרטון זה למשך %d שניות כדי להרוויח %d נקודות</string>
     <string name="feedback">משוב</string>
     <string name="feedback_activity_title">משוב</string>
     <string name="feedback_contact_empty">הזן את פרטי הקשר שלך</string>
@@ -899,6 +919,7 @@ ID:%s
     <string name="online_play_start_ready_loading_tip_kb">"טוען %.2f KB/שנ'"</string>
     <string name="online_play_start_ready_loading_tip_mb">"טוען %.2f MB/שנ'"</string>
     <string name="online_play_title">הזן כתובת URL</string>
+    <string name="order_alphabet">"א'-ת'"</string>
     <string name="order_recently_subscribe">מינויים חדשים</string>
     <string name="order_recently_updated">עודכנו לאחרונה</string>
     <string name="out_of_memory_background_playback_is_suspended">הניגון ברקע הושהה כי אין מספיק זיכרון</string>
@@ -953,7 +974,7 @@ ID:%s
     <string name="ovp_local_videos_title">סרטונים מקומיים</string>
     <string name="ovp_navigation_category">קטגוריה</string>
     <string name="ovp_navigation_content">שיתוף פעולה בתחום התוכן</string>
-    <string name="ovp_navigation_darkmode">מצב כהה</string>
+    <string name="ovp_navigation_darkmode">מצב מוחשך</string>
     <string name="ovp_navigation_favorites">מועדפים</string>
     <string name="ovp_navigation_feedback">משוב</string>
     <string name="ovp_navigation_history">היסטוריה</string>
@@ -1249,6 +1270,7 @@ ID:%s
     <string name="plus_shortcut_existed">קיצור הדרך קיים כבר</string>
     <string name="plus_sort_title">מיון</string>
     <string name="plus_sort_type_default">בררת מחדל</string>
+    <string name="plus_sort_type_duration">אורך</string>
     <string name="plus_sort_type_name">שם</string>
     <string name="plus_sort_type_size">גודל</string>
     <string name="plus_sort_type_time">זמן</string>
@@ -1293,6 +1315,7 @@ ID:%s
     <string name="recommend_online_switch">המלצות באינטרנט</string>
     <string name="recommend_online_tips">הפעל כדי לקבל המלצות על סרטונים באינטרנט</string>
     <string name="recommend_page_replay">נגן שוב</string>
+    <string name="recommend_slide_to_more">החלק כדי לראות עוד</string>
     <string name="recommend_switch_alert">כדי להסיר את החלק הזה, יש ללכת להגדרות של Mi Video</string>
     <string name="recommend_to_you">מומלץ עבורך</string>
     <string name="reload_sub_title">הקש כדי לנסות שנית.</string>
@@ -1517,12 +1540,14 @@ ID:%s
     <string name="tip_subscribe_guide_hint_a">הצג יוצרים ממינויי Google שלך</string>
     <string name="tip_subscribe_guide_hint_b">צפה ללא פרסומות בעדכונים מערוצי YouTube שאתה מנוי אליהם</string>
     <string name="tip_tap_download_button">%d. הקש על \"הורדה\"</string>
+    <string name="title_ab_loop">לוּפּ A-B</string>
     <string name="title_bookmarks">סימניות</string>
     <string name="title_continue_to_borwser">פתח בדפדפן</string>
     <string name="title_download_setting">הגדרות הורדה</string>
     <string name="title_history">היסטוריה</string>
     <string name="title_mangotv_history_sub" formatted="false">%s (פרק %d)</string>
     <string name="title_mangotv_subtitle_language">שפת כתוביות</string>
+    <string name="title_more_wonderful_smallvideo">יותר סרטונים קצרים</string>
     <string name="title_publisher">יוצרים</string>
     <string name="title_select_directory">בחר תיקייה</string>
     <string name="title_selected">נבחר/ו</string>
@@ -1653,6 +1678,11 @@ ID:%s
     <string name="welcome_tip_into_mivideo">להתחיל</string>
     <string name="welcome_tip_skip">לדלג</string>
     <string name="welcome_tip_title">ברוכים הבאים אל וידאו Mi</string>
+    <string name="widget_add_dialog_button_add">להוסיף</string>
+    <string name="widget_add_dialog_button_cancel">ביטול</string>
+    <string name="widget_add_dialog_desc_local">"ווידג'ט זה מאפשר לנגן קובצי אודיו ווידאו שמאוחסנים במכשירך על-ידי הקשה אחת ממסך הבית שלך. להוסיף אותו עכשיו?"</string>
+    <string name="widget_add_dialog_desc_online">"ווידג'ט זה מאפשר לצפות בסרטונים הפופולריים כיום על-ידי הקשה אחת ממסך הבית שלך. להוסיף אותו עכשיו?"</string>
+    <string name="widget_add_dialog_title">"הוספת ווידג'ט"</string>
     <string name="widget_local_video">סרטונים מקומיים</string>
     <string name="widget_local_video_click">נא להקיש לצפייה בסרטונים המאוחסנים במכשיר שלך</string>
     <string name="widget_more_channel">ערוצים נוספים</string>

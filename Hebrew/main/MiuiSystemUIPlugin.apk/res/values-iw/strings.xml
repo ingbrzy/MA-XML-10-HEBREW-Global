@@ -28,8 +28,10 @@
     <string name="abc_shareactionprovider_share_with_application">שיתוף עם %s</string>
     <string name="abc_toolbar_collapse_description">כיווץ</string>
     <string name="accessibility_airplane_mode">מצב טיסה</string>
+    <string name="accessibility_brightness">בהירות תצוגה</string>
     <string name="airplane_mode">מצב טיסה</string>
     <string name="bt_is_off">‏Bluetooth כבוי</string>
+    <string name="controls_media_title">מדיה</string>
     <string name="copy">העתקה</string>
     <string name="expand_button_title">מתקדם</string>
     <string name="not_set">לא מוגדרת</string>
