@@ -77,11 +77,6 @@
         <item>ת</item>
         <item>\#</item>
     </string-array>
-    <string-array name="customer_service">
-        <item>@string/customer_service_apply</item>
-        <item>@string/customer_service_complain</item>
-        <item>@string/customer_service_station</item>
-    </string-array>
     <string-array name="net_diag_err_link_quality">
         <item>חיבור Wi-Fi גרוע. יש להחליף תדרים אלחוטיים או להפעיל מחדש את הנתב.</item>
         <item>לא ניתן לגשת לרשת. יש להתחבר מחדש ל-Wi-Fi או להפעיל מחדש את הנתב.</item>
@@ -135,11 +130,5 @@
     </string-array>
     <string-array name="net_diag_err_network_topology">
         <item>בדוק את הגדרות ה-DHCP והחיבור קווי של הנתב</item>
-    </string-array>
-    <string-array name="reproductivity">
-        <item>@string/feedback_reproductivity_everytime</item>
-        <item>@string/feedback_reproductivity_often</item>
-        <item>@string/feedback_reproductivity_occasionally</item>
-        <item>@string/feedback_reproductivity_once</item>
     </string-array>
 </resources>

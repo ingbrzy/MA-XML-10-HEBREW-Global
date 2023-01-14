@@ -167,7 +167,6 @@
     <string name="b_contacts_remove_tips">להסיר כתובת זו מרשימת החסומים?</string>
     <string name="back">חזרה</string>
     <string name="bcc">העתק סמוי</string>
-    <string name="bcc_heading">"העתק סמוי: "</string>
     <string name="blank_feedback_toast">עליך לכתוב משוב</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">צור דוא\"ל</string>
@@ -178,7 +177,6 @@
     <string name="cancel">ביטול</string>
     <string name="cancel_action">ביטול</string>
     <string name="cc">העתק</string>
-    <string name="cc_attribution">העתק: %1$s&lt;br></string>
     <string name="cc_bcc">העתק/העתק סמוי</string>
     <string name="cc_heading">"העתק: "</string>
     <string name="certificate_add_failed">לא ניתן היה להוסיף את התעודה \"%s\"</string>
@@ -202,7 +200,6 @@
     <string name="click_to_reload">הקש על המסך על מנת לרענן</string>
     <string name="close">סגירה</string>
     <string name="collapse_recipient_details">צמצם את פרטי הנמען</string>
-    <string name="colon">:</string>
     <string name="compose">צור הודעה</string>
     <string name="compose_event">הזמנה</string>
     <string name="compose_paste_address_oob">יותר מידי תוים</string>
@@ -435,7 +432,6 @@
     <string name="info_item_hide">מחיקה</string>
     <string name="inline_picture_deleted">מוריד תמונה חסרה…</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="load_from_remote">חיפוש בתיבת הדואר בשרת</string>
     <string name="load_more">טען עוד</string>
     <string name="loading_conversation">טוען…</string>

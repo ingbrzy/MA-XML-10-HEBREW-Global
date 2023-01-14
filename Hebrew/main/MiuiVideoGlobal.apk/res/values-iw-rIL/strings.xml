@@ -919,7 +919,6 @@ ID:%s
     <string name="online_play_start_ready_loading_tip_kb">"טוען %.2f KB/שנ'"</string>
     <string name="online_play_start_ready_loading_tip_mb">"טוען %.2f MB/שנ'"</string>
     <string name="online_play_title">הזן כתובת URL</string>
-    <string name="order_alphabet">"א'-ת'"</string>
     <string name="order_recently_subscribe">מינויים חדשים</string>
     <string name="order_recently_updated">עודכנו לאחרונה</string>
     <string name="out_of_memory_background_playback_is_suspended">הניגון ברקע הושהה כי אין מספיק זיכרון</string>
