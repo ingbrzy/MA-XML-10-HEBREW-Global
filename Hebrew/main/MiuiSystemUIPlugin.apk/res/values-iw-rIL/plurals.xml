@@ -55,10 +55,10 @@
         <item quantity="many">לפני %d דקות</item>
     </plurals>
     <plurals name="controls_number_of_favorites">
-        <item quantity="other">נוספו %s בקרות.</item>
-        <item quantity="one">נוספה בקרה %s.</item>
-        <item quantity="two">נוספו %s בקרות.</item>
-        <item quantity="many">נוספו %s בקרות.</item>
+        <item quantity="other">%s controls added.</item>
+        <item quantity="one">%s control added.</item>
+        <item quantity="two">%s controls added.</item>
+        <item quantity="many">%s controls added.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>

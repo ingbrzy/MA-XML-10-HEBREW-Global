@@ -103,7 +103,7 @@
     <string name="adb_install_open_error">לא ניתן היה לאפשר, בדוק את החיבור שלך לרשת</string>
     <string name="adb_install_reject_notiy">התקנת %s באמצעות USB לא אופשרה</string>
     <string name="adb_install_reject_notiy_desc">"באפשרותך לאפשר התקנה באמצעות USB באפשרויות 'מפתחים'"</string>
-    <string name="adb_login_xiaomi_account">קודם עליך להתחבר לחשבון Xiaomi שלך</string>
+    <string name="adb_login_xiaomi_account">היכנס לחשבון Mi שלך תחילה</string>
     <string name="add_bill_reminder_alarm">הגדר אזהרת יתרת טלפון</string>
     <string name="add_done">נוסף בהצלחה</string>
     <string name="add_game">הוספת משחק</string>
@@ -532,14 +532,14 @@
     <string name="applock_add_account">הוספה</string>
     <string name="applock_add_account_ignore">לא עכשיו</string>
     <string name="applock_add_account_ignore_with_seconds">לא עכשיו (%d)</string>
-    <string name="applock_add_account_info">יש להוסיף חשבון Xiaomi שלך כדי שניתן יהיה לאפס את הסיסמה אם תשכח/י אותה.</string>
+    <string name="applock_add_account_info">הוסף את חשבון Mi שלך על מנת שתוכל לאפס את סיסמתך במקרה ותשכח אותה.</string>
     <string name="applock_add_account_setting">חשבון ופרטיות</string>
-    <string name="applock_add_account_tips">חשבון Xiaomi מאפשר לך לשחזר את נועל היישומים אם שכחת את הסיסמה.</string>
-    <string name="applock_add_account_title">הוספת חשבון Xiaomi שלך</string>
+    <string name="applock_add_account_tips">חשבון Mi מאפשר לך לשחזר את נועל היישומים, אם תשכח את הסיסמה.</string>
+    <string name="applock_add_account_title">הוסף את חשבון ה-Mi שלך</string>
     <string name="applock_already_add_account">החשבון הנוכחי: %s</string>
     <string name="applock_app_recommend_lock_title">באפשרותך לנעול את היישומים הבאים</string>
-    <string name="applock_bind_account_dialog_content">חשבון Xiaomi הוא הדרך היחידה לשחזר את נועל היישומים אם שכחת את הסיסמה. יש להתחבר כדי להוסיף חשבון Xiaomi.</string>
-    <string name="applock_bind_account_dialog_title">הוספת חשבון Xiaomi שלך</string>
+    <string name="applock_bind_account_dialog_content">חשבון ה-Mi הוא הדרך היחידה לשחזר את נועל היישומים אם תשכח את הסיסמה. התחבר כדי להוסיף את חשבון ה-Mi שלך.</string>
+    <string name="applock_bind_account_dialog_title">הוסף את חשבון ה-Mi שלך</string>
     <string name="applock_bind_account_title">שכחתי את הסיסמה</string>
     <string name="applock_close_dialog_summary">הסיסמה שלך לנעילת יישומים תימחק. להשבית את נעילת היישומים עכשיו?</string>
     <string name="applock_close_dialog_title">"לכבות את 'נועל היישומים'?"</string>
@@ -561,7 +561,7 @@
     <string name="applock_guide_tip1_without_face">קיימים סוגים רבים של אפשרויות סיסמה. בטל נעילה של יישומים באמצעות טביעת אצבע או הזנת סיסמה.</string>
     <string name="applock_guide_tip1_without_finger">קיימים סוגים רבים של אפשרויות סיסמה. בטל נעילה של יישומים באמצעות טביעת אצבע, זיהוי פנים, או הזנת סיסמה.</string>
     <string name="applock_guide_tip1_without_finger_face">קיימים סוגים רבים של אפשרויות סיסמה.</string>
-    <string name="applock_guide_tip2">יש להוסיף את חשבון Xiaomi שלך כדי שניתן יהיה לאפס את הסיסמה.</string>
+    <string name="applock_guide_tip2">הוסף את חשבון Mi שלך על מנת שתוכל לאפס את הסיסמה.</string>
     <string name="applock_guide_tip3">הסתר תוכן התראה.</string>
     <string name="applock_guide_tip3_global">הסתר תוכן התראה.</string>
     <string name="applock_guide_title">"הגן על הנתונים שלך באמצעות 'נועל היישומים'"</string>
@@ -573,7 +573,7 @@
     <string name="applock_login_and_add_account">כניסה והוספה</string>
     <string name="applock_mixtype_hidepwd_icon">הסתר</string>
     <string name="applock_mixtype_showpwd_icon">הצג</string>
-    <string name="applock_no_account_login">לא התחברת לחשבון Xiaomi שלך</string>
+    <string name="applock_no_account_login">אינך מחובר לחשבון ה-Mi שלך</string>
     <string name="applock_not_add_account"><u>לא כעת</u></string>
     <string name="applock_not_login_account">אינך מחובר</string>
     <string name="applock_numeric_pwd_type_line">מספר כולל של ספרות בסיסמה: %1$d. ספרות שהוקשו: %2$d.</string>
@@ -849,10 +849,10 @@
     <string name="bill_traffic_reminder_instruction_text">הפרטים האמיתיים של התוכניות שסופקו על ידי ספקי סלולר עשויים להיות שונים וייתכנו עיכובים בחיוב. המידע המסופק כאן הוא לעיונך בלבד.</string>
     <string name="bind_xiaomi_account_cancel">ביטול</string>
     <string name="bind_xiaomi_account_confirm">הוסף</string>
-    <string name="bind_xiaomi_account_dialog_summery">הנך עומד/ת להוסיף חשבון Xiaomi %s. אם תשכח/י את הסיסמה, ניתן יהיה להשתמש בחשבון זה כדי לאפס אותה. לאחר התנתקות מהחשבון, החשבון יוסר באופן אוטומטי.</string>
-    <string name="bind_xiaomi_account_success">חשבון Xiaomi נוסף בהצלחה</string>
-    <string name="bind_xiaomi_account_summary">יש להשתמש בחשבון Xiaomi לאיפוס הסיסמה שלך</string>
-    <string name="bind_xiaomi_account_title">הוספת חשבון Xiaomi</string>
+    <string name="bind_xiaomi_account_dialog_summery">הינך עומד להוסיף חשבון Mi %s במידה ותשכח את סיסמתך, תוכל להשתמש בחשבון זה על מנת לאפס אותה. החשבון יוסר באופן אוטומטי במידה ותצא.</string>
+    <string name="bind_xiaomi_account_success">חשבון Mi נוסף בהצלחה</string>
+    <string name="bind_xiaomi_account_summary">הוסף חשבון Mi על מנת לאפס את סיסמתך</string>
+    <string name="bind_xiaomi_account_title">הוסף חשבון Mi</string>
     <string name="birthday">יום הולדת</string>
     <string name="bl_no_blacklist">אין מספרים חסומים.</string>
     <string name="bl_no_block_call">אין שיחות חסומות.</string>
@@ -960,6 +960,7 @@
     <string name="card_main_private_space_summary">"השימוש ב'שטח שני' דומה לשימוש בשני מכשירים"</string>
     <string name="card_main_private_space_title">שטח שני</string>
     <string name="card_main_sectool_title">כלים</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">צור</string>
     <string name="card_main_xspace_summary">צור חשבונות משוכפלים לכל יישום שתבחר</string>
     <string name="card_main_xspace_title">יישומים משוכפלים</string>
@@ -1021,7 +1022,7 @@
     <string name="confirmSecondSpacePassword">"אשר את סיסמת 'שטח שני'"</string>
     <string name="confirm_ai_allow_all_permission">האם לשנות את סטטוס ההרשאה אל \"להחליט בשבילי\" עבור כל היישומים?</string>
     <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
-    <string name="confirm_bind_xiaomi_account_dialog_title">מוסיף חשבון Xiaomi</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">מוסיף חשבון Mi</string>
     <string name="confirm_close">כבה</string>
     <string name="confirm_fingerprint_msg">אמת את טביעת האצבע שלך</string>
     <string name="confirm_leave">לא, תודה</string>
@@ -1240,6 +1241,7 @@
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="edit_phone_num">ערוך את מספר הטלפון של ה-SIM</string>
+    <string name="ellipsis">…</string>
     <string name="email">דוא\"ל</string>
     <string name="empty" />
     <string name="empty_app">אין יישומים</string>
@@ -1274,6 +1276,7 @@
     <string name="exit_dialog_garbage_clean_title">פנה נפח אחסון</string>
     <string name="exit_dialog_homepage_optimise_message">הניקוד עבור הביצועים של מכשירך נמוך מ-80 נקודות. לייעל כעת?</string>
     <string name="exit_dialog_release_memory_positive_button">סגור</string>
+    <string name="exit_dialog_release_memory_title">&lt;Data>האץ את מהירות המכשיר שלך ב-&lt;font color=#0099ff>%d%%&lt;/font>&lt;/Data></string>
     <string name="exit_dialog_release_memory_title_new">&lt;Data>האצת מכשירך ב-&lt;font color=#0099ff>%s&lt;/font>&lt;/Data></string>
     <string name="exit_dialog_release_storage_message">מעל 80% משטח האחסון של מכשירך נמצא בשימוש. פנה שטח אחסון על ידי הסרת יישומים שאינם בשימוש.</string>
     <string name="exit_dialog_release_storage_message_new">למעלה מ-%s משטח האחסון של המכשיר שלך תפוסים. עליך לפנות שטח אחסון על ידי הסרת ההתקנה של יישומים שבהם לא השתמשת אף פעם.</string>
@@ -1822,7 +1825,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_voice_changer_recommend">מומלצים</string>
     <string name="gb_voice_changer_renew_dailog">חדש את המינוי שלך כדי שתוכל להשתמש באפקט זה.</string>
     <string name="gb_voice_changer_robot">רובוט</string>
-    <string name="gb_voice_changer_setting_account_title">חשבון Xiaomi</string>
+    <string name="gb_voice_changer_setting_account_title">חשבון Mi</string>
     <string name="gb_voice_changer_setting_become_vip">הרשמה</string>
     <string name="gb_voice_changer_setting_gender_subtitle">התאם את האפקטים וההמלצות לפי המגדר שנבחר</string>
     <string name="gb_voice_changer_setting_gender_title">מגדר</string>
@@ -1838,7 +1841,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_voice_changer_user_status_expired">פג תוקף המינוי</string>
     <string name="gb_voice_changer_user_status_get_trial_card_dialog">"קבל %d ימי התנסות בחינם
 וחקור את משנה הקול שלנו!"</string>
-    <string name="gb_voice_changer_user_status_no_login">התחברות לחשבון Xiaomi</string>
+    <string name="gb_voice_changer_user_status_no_login">היכנס לחשבון Mi</string>
     <string name="gb_voice_changer_user_status_remain_time">תאריך תפוגה: %s</string>
     <string name="gb_voice_changer_user_status_renew">חידוש</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">פג תוקף המינוי שלך. חדש את המינוי עכשיו כדי לקבל הטבות!</string>
@@ -1950,10 +1953,10 @@ Record sequences and use them anytime!"</string>
     <string name="gtb_dialog_btn_close">כבה</string>
     <string name="gtb_dialog_btn_open">הפעל</string>
     <string name="gtb_dialog_hint_smart_5g">תוכל להפעיל ולהשבית את המאפיין הזה תחת מאיץ המשחקים > הגדרות.</string>
-    <string name="gtb_dialog_privacy_speed_message">את/ה עומד/ת להשתמש במאיץ המשחקים של Xunyou. שירות זה יאסוף את מזהה חשבון Xiaomi שלך כדי לתעד את משך החברות שלך.</string>
+    <string name="gtb_dialog_privacy_speed_message">אתה עומד להשתמש במאיץ המשחקים של Xunyou. שירות זה יאסוף את מזהה חשבון Mi שלך כדי לרשום את משך החברות שלך.</string>
     <string name="gtb_dialog_privacy_speed_tips">&lt;Data>קראתי ואני מסכים ל&lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> של מאיץ המשחקים של Xunyou.&lt;/Data></string>
     <string name="gtb_dialog_privacy_speed_title">מאיץ המשחקים של Xunyou</string>
-    <string name="gtb_dialog_privacy_voice_message">את/ה עומד/ת להשתמש במשנה קול במשחק של Xunyou. שירות זה יאסוף את מזהה חשבון Xiaomi שלך כדי לתעד את משך החברות שלך.</string>
+    <string name="gtb_dialog_privacy_voice_message">"אתה עומד להשתמש ב'שינוי קול במשחק' של Xunyou. שירות זה יאסוף את מזהה חשבון Mi שלך כדי לרשום את משך החברות שלך."</string>
     <string name="gtb_dialog_privacy_voice_tips">"&lt;Data>קראתי ואני מסכים ל&lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> של 'שינוי קול במשחק' של Xunyou.&lt;/Data>"</string>
     <string name="gtb_dialog_privacy_voice_title">"'שינוי קול במשחק' של Xunyou"</string>
     <string name="gtb_dialog_summary_smart_5g">כאשר מאיץ המשחקים מזהה רשת 5G, הוא יכול לחבר את המכשיר שלך לרשת הטובה ביותר מבין הרשתות הזמינות כדי לצמצם השהיות ברשת. להפעיל את המאפיין עכשיו?</string>
@@ -2262,6 +2265,8 @@ Record sequences and use them anytime!"</string>
     <string name="memory_check_content">%s התפנו</string>
     <string name="memory_clean_memory_size_tip">מטמון</string>
     <string name="memory_clean_no_need_clean">הכל נראה תקין</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">"נוקו %s.
+עכשיו המכשיר שלך מהיר יותר ב-%d%%."</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"פונו %s.
 כעת המכשיר שלך מהיר יותר ב-%s."</string>
     <string name="memory_clear_unused">ניקוי מטמון (%s)</string>
@@ -2286,6 +2291,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_item_notification_antispam_text_avail">רשימת החסומים</string>
     <string name="menu_item_notification_antispam_text_normal">רשימת החסומים</string>
     <string name="menu_item_notification_garbage_text">%s</string>
+    <string name="menu_item_notification_optimize_text">%d%% בשימוש</string>
     <string name="menu_item_notification_optimize_text_new">%s תפוסים</string>
     <string name="menu_item_notification_power_text">אופטימיזציית (ייעול) סוללה</string>
     <string name="menu_item_notification_title">הצג תפריט בלוח ההתראות</string>
@@ -2313,6 +2319,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_summary_networkassistants_3">נותר מספיק נפח גלישה</string>
     <string name="menu_summary_networkassistants_4">חבילת הגלישה נגמרת</string>
     <string name="menu_summary_optimize_manage">נקה זיכרון</string>
+    <string name="menu_summary_optimize_manage_1">האץ את מכשירך ב-%d%%</string>
     <string name="menu_summary_optimize_manage_1_new">האצת המכשיר %s</string>
     <string name="menu_summary_power_manager">מצב חיסכון בסוללה מאפשר זמן שימוש ארוך יותר בין טעינות</string>
     <string name="menu_summary_power_manager_1">הסוללה טעונה במלואה</string>
@@ -2328,6 +2335,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_license_manager">הרשאות</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2336,6 +2344,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_optimize_manage">האצת מהירות</string>
     <string name="menu_text_optimize_manage_1">האצת מהירות</string>
     <string name="menu_text_power_manager">סוללה</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">הסרה מרשימת החריגים</string>
     <string name="menu_white">הוספה לרשימת החריגים</string>
     <string name="mi_ime_not_used">השתמש במקלדת שאושרה ע\"י שיאומי</string>
@@ -2574,6 +2583,7 @@ Record sequences and use them anytime!"</string>
     <string name="notification_link_cleaner_3001">נקה אשפה של WeChat כדי להאיץ את מהירות המכשיר</string>
     <string name="notification_link_cleaner_3002">נקה אשפה של WeChat</string>
     <string name="notification_link_cleaner_4000">נקה אשפה של QQ</string>
+    <string name="notification_link_optimizemanage_1011">%d%% מהזיכרון מלא. נקה עכשיו.</string>
     <string name="notification_link_optimizemanage_1011_new">%s מהזיכרון תפוס. לנקות כעת.</string>
     <string name="notification_low_battery_need_charge">חברו מטען</string>
     <string name="notification_low_battery_open_save_mode">הפעל את מצב חיסכון בסוללה</string>
@@ -2590,6 +2600,7 @@ Record sequences and use them anytime!"</string>
     <string name="notification_masked_subtitle">נועל היישומים יכול לעשות את העבודה</string>
     <string name="notification_optimize_button_text">נקה</string>
     <string name="notification_optimize_message">נקה זיכרון כדי להאיץ מהירות</string>
+    <string name="notification_optimize_title">%d%% מהזיכרון מלא</string>
     <string name="notification_optimize_title_new">%s מהזיכרון תפוס</string>
     <string name="notification_power_consume_issue_summary">צריכת חשמל גבוהה</string>
     <string name="notification_power_consume_suggest_summary">טפל בבעיות לחיסכון בסוללה</string>
@@ -2733,9 +2744,9 @@ Record sequences and use them anytime!"</string>
     <string name="password_forget_pattern_message_none">היישומים אינם נעולים. באפשרותך לאפס את סיסמתך.</string>
     <string name="password_forget_pattern_reset">איפוס</string>
     <string name="password_forget_pattern_title">שים לב</string>
-    <string name="password_promotion_not_login_xiaomi_account_message">יש להוסיף חשבון Xiaomi שלך כדי שניתן יהיה לאפס את הסיסמה אם תשכח/י אותה.</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">הוסף את חשבון Mi שלך על מנת שתוכל לאפס את סיסמתך במקרה ותשכח אותה.</string>
     <string name="password_promotion_postbutton_text">הוספה</string>
-    <string name="password_promotion_title">הוספת חשבון Xiaomi</string>
+    <string name="password_promotion_title">הוספת חשבון Mi</string>
     <string name="password_type">שינוי סיסמה</string>
     <string name="password_type_underline"><u>שינוי סיסמה</u></string>
     <string name="password_xspace_forget_pattern_message">"על מנת שתוכל לשנות את סיסמת 'שטח שני', עליך למחוק את 'שטח שני' הנוכחי שלך וליצור אחד חדש."</string>
@@ -2982,6 +2993,11 @@ Record sequences and use them anytime!"</string>
     <string name="power_center_dialog_msg_top">כאשר צריכת הבטריה מופעלת, MIUI יבצע את פעולות האופטימיזציה הבאות:</string>
     <string name="power_center_hints_scan_danger_result">ניתן לתקן בעיות בסוללה עכשיו</string>
     <string name="power_center_list_item_auto_brightness">התאמת בהירות אוטומטית</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">V %s</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_capacity">מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">"ש'"</string>
     <string name="power_center_list_item_close_bluetooth">כיבוי Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">הגדרות מתקדמות</string>
@@ -3267,6 +3283,7 @@ Record sequences and use them anytime!"</string>
     <string name="pref_normal_traffic_limit">כאשר תכנית הנתונים מנוצלת עד לתומה</string>
     <string name="pref_open_adjust_traffic">עדכן את השימוש בנתונים בכל יום על פי סטטיסטיקות מספק הרשת שלך</string>
     <string name="pref_operator_not_set">ספק הרשת אינו מוגדר</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">כאשר הינך חורג מתכנית הנתונים שלך</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_pkg_begin_date">תאריך איפוס שימוש</string>
@@ -3413,9 +3430,9 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_pop_record">הקליטה שמע היום</string>
     <string name="privacy_pop_storage">קיבלה גישה לאחסון היום</string>
     <string name="privacy_prompt_tc_sms_report_message">מספר הטלפון שלך ופרטי ספק הרשת יוצפנו ויועלו לשרתי Mi על מנת לעדכן את פרטי השימוש שלך בנתונים.</string>
-    <string name="privacy_prompt_traffic_adjust_message">"לאחר תחילת הכיול, מערכת MIUI תתחבר לאינטרנט, תקודד את פרטי ספק הרשת שלך, מספר הטלפון, ה-IMEI, וחשבון ה-Xiaomi ותעלה את הנתונים האלה לשרתי Mi. זה מתבצע כדי לקבל את תבנית הכיול של ספק הרשת וללמוד האם ניתן לרכוש גלישת נתונים במיקומך.
+    <string name="privacy_prompt_traffic_adjust_message">"לאחר התחלת הכיול, מערכת MIUI תבצע חיבור לרשת, תקודד את פרטי ספק הרשת שלך, מספר הטלפון, IMEI, וחשבון Mi ותעלה פריטים אלה לשרתי Mi. תהליך זה מתבצע על מנת להשיג את תבנית הכיול של ספק הרשת וללמוד האם ניתן לרכוש נתונים במיקומך.
 
-במהלך הכיול, MIUI תשלח הודעת טקסט לספק הרשת שלך כדי לקבל את תבנית הכיול."</string>
+במהלך הכיול, MIUI תשלח הודעת טקסט לספק הרשת שלך על מנת לקבל את תבנית הכיול."</string>
     <string name="privacy_prompt_upload">העלה</string>
     <string name="privacy_protect_summary">הגן על הפרטים האישיים שלך</string>
     <string name="privacy_protect_title">הגנת פרטיות</string>
@@ -3541,6 +3558,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_using_record">הקלטת שמע</string>
     <string name="privacyapp_number_masked_text">תוכן ההתראות מוסתר</string>
     <string name="privacyapp_number_unmasked_text">ניתן להסתיר את תוכן ההתראות</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="process_vpnsdkmanager_label">מאיץ המשחקים</string>
     <string name="promotion">פרסומת</string>
@@ -3610,7 +3628,7 @@ Record sequences and use them anytime!"</string>
     <string name="report_warning_title">שים לב</string>
     <string name="required_permissions">הרשאות חובה</string>
     <string name="required_permissions_desc">הרשאות אלה נדרשות כדי שהתכונות והשירותים הבסיסיים של האפליקציה יהיו זמינים.</string>
-    <string name="reset_data_dialog_message">מכשיר זה אינו מקושר לחשבון Xiaomi שלך. לא ניתן לשחזר או לאפס את הסיסמה. יש לגבות את כל התכנים החשובים ולבצע איפוס להגדרות היצרן. באיפוס להגדרות היצרן כל הנתונים יימחקו לצמיתות וכרטיס ה-SD שלך יפורמט.</string>
+    <string name="reset_data_dialog_message">מכשיר זה אינו מקושר לחשבון Mi שלך. לא ניתן לשחזר או לאפס את הסיסמה. גבה את כל הנתונים החשובים ובצע איפוס להגדרות היצרן. האיפוס כולל מחיקה לצמיתות של כל הנתונים שלך ואתחול כרטיס ה-SD להגדרות היצרן.</string>
     <string name="reset_data_dialog_ok">איפוס להגדרות היצרן</string>
     <string name="reset_data_title">לא ניתן לשחזר את הסיסמה</string>
     <string name="result_autoscan_header">ניטור תשלומים</string>
@@ -3681,6 +3699,7 @@ Record sequences and use them anytime!"</string>
     <string name="scan_open_shut_down_password_title">אישור כיבוי</string>
     <string name="scan_status_risk">מסוכן</string>
     <string name="scan_status_safe">בטוח</string>
+    <string name="scanning_bar_number">%d%%</string>
     <string name="scanning_bar_number_new">%s</string>
     <string name="screenrecord_not_find">התקן את הגרסה האחרונה של מקליט המסך ונסה שוב.</string>
     <string name="sd_eject">בטל טעינת כרטיס SD</string>
@@ -3723,7 +3742,7 @@ Record sequences and use them anytime!"</string>
     <string name="set_now">הגדרות</string>
     <string name="set_numeric_password_name">הגדרת PIN</string>
     <string name="set_package_tips">אנו נשלח הודעת טקסט חינמית לספק שלך כדי לבדוק את תוכנית הנתונים שלך. המידע שתמסור יוצפן ויועלה לשרתים שלנו על מנת ליצור הודעה זו.</string>
-    <string name="set_package_tips_detail">המידע שיועלה לשרתי Xiaomi יכלול את פרטי הספק שלך וכן את מספר הטלפון, ה-IMEI ומזהה חשבון Xiaomi שלך.</string>
+    <string name="set_package_tips_detail">המידע שיועלה לשרתי Xiaomi יכלול את פרטי הספק שלך, וכן את מספר הטלפון, ה-IMEI וחשבון Mi שלך.</string>
     <string name="set_pattern_password_name">הגדרת תבנית</string>
     <string name="set_traffic_tips">הגדר את תוכנית הנתונים שלך לניהול השימוש בנתונים ניידים והימנע מחיובים נוספים מצד הספק שלך</string>
     <string name="setting">הגדרות</string>
@@ -4162,7 +4181,7 @@ Record sequences and use them anytime!"</string>
     <string name="storage_item_doc_name">מסמכים</string>
     <string name="storage_item_other_name">אחר</string>
     <string name="storage_item_picture_name">תמונות</string>
-    <string name="storage_item_system_data">קובצי מערכת</string>
+    <string name="storage_item_system_data">מערכת</string>
     <string name="storage_item_system_name">מערכת</string>
     <string name="storage_item_video_name">סרטונים</string>
     <string name="storage_menu_mount">טען</string>
@@ -4241,6 +4260,7 @@ Record sequences and use them anytime!"</string>
     <string name="superpower_dialog_button_ok">אישור</string>
     <string name="superpower_dialog_massage">חיסכון קיצוני בסוללה יגביל את רוב תכונות צריכת החשמל ותקטין את ביצועי המכשיר בכדי לאפשר שמירה על פונקציונליות בסיסית (למשל שיחות, SMS, וחיבור לרשת) לזמן ארוך ככל שניתן. האם להפעיל חיסכון קיצוני בסוללה?</string>
     <string name="superpower_dialog_title">חיסכון קיצוני בסוללה</string>
+    <string name="superpower_notification_new_title">פחות מ%d%% נותרו מהסוללה</string>
     <string name="superpower_notification_new_title_new">אחוז הסוללה שנותר הוא פחות מ-%s</string>
     <string name="superpower_notification_summary">טענו את המכשיר, או הפעילו את המצב של חיסכון קיצוני בסוללה</string>
     <string name="superpower_notification_time_12">EEEE, d MMMM</string>
@@ -4444,7 +4464,7 @@ Record sequences and use them anytime!"</string>
     <string name="title_block_calls_from_strangers">מפספס שיחות חשובות?</string>
     <string name="title_chain_start">הגבל הפעלת שרשרת</string>
     <string name="title_cleaner_cloudscan">סריקת אשפה בענן</string>
-    <string name="title_cloud_account">חשבון Xiaomi</string>
+    <string name="title_cloud_account">חשבון Mi</string>
     <string name="title_cloud_service">Xiaomi Cloud</string>
     <string name="title_cloud_space_almost_full">אחסון הענן כמעט מלא, יתכן כי לא יתבצע סנכרון לפריטים מסויימים</string>
     <string name="title_cloud_space_full">הענן מלא</string>

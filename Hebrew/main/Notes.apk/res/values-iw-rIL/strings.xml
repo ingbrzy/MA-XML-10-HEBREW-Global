@@ -35,9 +35,6 @@
     <string name="app_name">פתקים</string>
     <string name="app_notification_info">\"פתקים\" עובד ברקע כעת</string>
     <string name="app_widget">פתקים</string>
-    <string name="app_widget_name_create_note">יצירת פתקים</string>
-    <string name="app_widget_name_create_todo">יצירת משימות</string>
-    <string name="app_widget_name_fast_entry">קיצורי דרך</string>
     <string name="app_widget_name_new">פתקים</string>
     <string name="application_icon">אייקון יישום</string>
     <string name="audio_btn_mode_meeting">פגישה</string>
@@ -486,6 +483,7 @@
     <string name="note_write_hint">התחל לכתוב</string>
     <string name="notealert_enter">פתח פתק</string>
     <string name="notealert_ok">התעלם</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">יישום הפתקים הוא יישום מערכת. לא תוכל להשתמש ביישום זה אחרי הסרתו.</string>
     <string name="notes_description_title">להסיר את יישום הפתקים?</string>
     <string name="notification_content_add_todo_from_other_app">הוספת משימה חדשה. הקש כדי לצפות בה.</string>

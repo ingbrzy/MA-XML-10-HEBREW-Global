@@ -102,6 +102,8 @@
     <string name="cloud_drive_settings">הגדרות Mi Drive</string>
     <string name="cloud_empty_hint_text">"עדיין אין כאן כלום.
 מומלץ לנסות להעביר קבצים מהמכשיר שלך אל Mi Drive."</string>
+    <string name="cloud_empty_hint_text_pad">"עדיין אין כאן כלום.
+נסה להעביר קבצים מהמכשיר שלך ל-Mi Drive."</string>
     <string name="cloud_guide_summary_text">סנכרון אוטומטי של כל הפריטים בין כל המכשירים שלך</string>
     <string name="cloud_guide_title_text">סנכרון עם Mi Drive</string>
     <string name="cloud_permission_storage_desc">לשמירת תמונות ומסמכים למכשירך</string>
@@ -217,6 +219,9 @@
     <string name="evening">לפנות ערב</string>
     <string name="exception_net_not_available">נא לבדוק את הגדרות הרשת ולנסות שוב</string>
     <string name="exit">יציאה</string>
+    <string name="extend_service_setting">שירותים נוספים</string>
+    <string name="extend_service_summary">אם תכבה את השירות הזה, לא תוכל להשתמש בתכונות הקשורות ל-Mi Drive</string>
+    <string name="extend_service_title">ניהול קבצים ב-Mi Drive</string>
     <string name="extended_storage_file_can_not_open">לא ניתן לפתוח את הקובץ. אנא העתק את הקובץ לאחסון הפנימי.</string>
     <string name="extract">חלץ</string>
     <string name="fab_menu_ball">פעולות מהירות</string>
@@ -227,6 +232,7 @@
     <string name="favorite_photo">תמונות מצלמה</string>
     <string name="favorite_ringtone">צלצולים</string>
     <string name="favorite_screen_cap">צילומי מסך</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">ניתן לקריאה: </string>
     <string name="file_info_canwrite">ניתן לכתיבה: </string>
     <string name="file_info_ishidden">מוסתר: </string>
@@ -599,6 +605,9 @@
     <string name="otg_data_transferring">מעביר קבצים… אל תנתק את האחסון החיצוני.</string>
     <string name="otg_file_security_note">OGTSecurity</string>
     <string name="overwrite_msg">\"%s\" קיים כבר. לחץ על מנת להחליפו עם קובץ אחר.</string>
+    <string name="pad">טאבלט</string>
+    <string name="pad_homepage_tab_file_view_phone">טאבלט</string>
+    <string name="pad_start_phone">אחסון</string>
     <string name="partial_cancel_successful">לא ניתן היה להעביר קבצים מסויימים. יתר הקבצים עברו אל %s.</string>
     <string name="partial_delete_failure">לא ניתן היה למחוק קבצים מסוימים. נסה שוב.</string>
     <string name="partial_encrypt_success">לא ניתן היה להפוך קבצים מסוימים לפרטיים. נסה שוב</string>
@@ -722,6 +731,7 @@
     <string name="set_pattern">עדכון הסיסמה</string>
     <string name="set_pattern_btn">הגדר</string>
     <string name="set_pattern_msg">הגדר שוב את הסיסמה שלך. סיסמת הגנת הפרטיות עובדת גם עבור תמונות, הודעות ופתקים.</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">קטן מ-%d KB</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
@@ -742,6 +752,9 @@
     <string name="start_server">התחלה</string>
     <string name="stay_awake_summary">אל תאפשר למסך להחשיך בעת שימוש ב-FTP</string>
     <string name="stay_awake_title">השאר את המסך דולק</string>
+    <string name="stop_extend_service_dialog_confirm">כיבוי</string>
+    <string name="stop_extend_service_dialog_summary">אם תכבה את התכונה הזו, לא תוכל לנהל את הקבצים שלך המאוחסנים ב-Mi Drive. לכבות בכל זאת?</string>
+    <string name="stop_extend_service_dialog_tilte">שירותים נוספים</string>
     <string name="stop_server">עצירה</string>
     <string name="storage_cloned_app">אחסון עבור יישומים משוכפלים</string>
     <string name="storage_info_detail">פנוי: %1$s סך הכל: %2$s</string>

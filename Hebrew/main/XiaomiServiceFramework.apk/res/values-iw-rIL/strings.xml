@@ -6,7 +6,7 @@
 על מזהה המכשיר להיות מספר IMEI חוקי או כתובת MAC חוקית. ללא מזהה מכשיר מאפיינים מסוימים של חשבון Xiaomi ו-Xiaomi Cloud לא יהיו זמינים."</string>
     <string name="error_device_id_title">לא ניתן לקבל מזהה מכשיר חוקי</string>
     <string name="explain_send_sms_permission_button">אמת</string>
-    <string name="explain_send_sms_permission_msg">"על מנת להפעיל את %s, 'מסגרת שירותי Xiaomi' ישלח מסרון לאימות מספר הטלפון שלך. תחויב עבור מסרון רגיל על ידי ספק הרשת שלך."</string>
+    <string name="explain_send_sms_permission_msg">כדי הפעיל את %s, מסגרת שירותי Xiaomi תשלח מסרון כדי לאמת את מספר הטלפון שלך. ספק הרשת יחייב אותך עבור מסרון רגיל.</string>
     <string name="explain_send_sms_permission_title">אמת את מספר הטלפון שלך</string>
     <string name="pop_up_allow_notify_dialog">אשר</string>
     <string name="pop_up_deny_notify_dialog">דחה</string>

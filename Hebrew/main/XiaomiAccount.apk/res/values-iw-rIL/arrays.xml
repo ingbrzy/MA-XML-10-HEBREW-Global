@@ -4,28 +4,6 @@
         <item>זכר</item>
         <item>נקבה</item>
     </string-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>א</item>
-        <item>ב</item>
-        <item>ג</item>
-        <item>ח</item>
-        <item>ט</item>
-        <item>י</item>
-        <item>כ</item>
-        <item>ל</item>
-        <item>מ</item>
-        <item>נ</item>
-        <item>ס</item>
-        <item>ע</item>
-        <item>פ</item>
-        <item>צ</item>
-        <item>ק</item>
-        <item>ר</item>
-        <item>ש</item>
-        <item>ת</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="alphabet_table">
         <item>א</item>
         <item>ב</item>
@@ -91,16 +69,6 @@
         <item>שינוי סיסמה</item>
         <item>שינוי סיסמת חשבון Xiaomi</item>
         <item>שנה סיסמה;עדכן סיסמה;חשבון Mi;חשבון;חשבון Xiaomi</item>
-    </string-array>
-    <string-array name="settings_search_cloud_space_share">
-        <item>שטח אחסון משפחתי</item>
-        <item>הצג/הפעל שטח אחסון משפחתי</item>
-        <item>שטח אחסון משפחתי;שיתוף אחסון</item>
-    </string-array>
-    <string-array name="settings_search_family_service">
-        <item>שירותי משפחה</item>
-        <item>הצג/הפעל את שירותי המשפחה</item>
-        <item>משפחה;שירותי משפחה;שיתוף משפחתי</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>עזרה</item>

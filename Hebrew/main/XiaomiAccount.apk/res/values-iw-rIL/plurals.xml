@@ -60,12 +60,6 @@
         <item quantity="two">נמצאו %d תוצאות</item>
         <item quantity="many">נמצאו %d תוצאות</item>
     </plurals>
-    <plurals name="family_service_member_count">
-        <item quantity="other">%d אנשים</item>
-        <item quantity="one">אדם אחד (%d)</item>
-        <item quantity="two">%d אנשים</item>
-        <item quantity="many">%d אנשים</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
         <item quantity="one">לפני חצי שעה</item>

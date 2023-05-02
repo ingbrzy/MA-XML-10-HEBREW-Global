@@ -60,6 +60,18 @@
         <item quantity="two">%1s מטבעות</item>
         <item quantity="many">%1s מטבעות</item>
     </plurals>
+    <plurals name="confirm_delete_tasks">
+        <item quantity="other">למחוק %d משימות כעת?</item>
+        <item quantity="one">למחוק משימה %d כעת?</item>
+        <item quantity="two">למחוק %d משימות כעת?</item>
+        <item quantity="many">למחוק %d משימות כעת?</item>
+    </plurals>
+    <plurals name="delete_tasks_successfully">
+        <item quantity="other">%d משימות נמחקו בהצלחה</item>
+        <item quantity="one">משימה %d נמחקה בהצלחה</item>
+        <item quantity="two">%d משימות נמחקו בהצלחה</item>
+        <item quantity="many">%d משימות נמחקו בהצלחה</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
         <item quantity="one">לפני חצי שעה</item>
@@ -123,6 +135,30 @@
         <item quantity="one">עבודה אחת (%d)</item>
         <item quantity="two">%d עבודות</item>
         <item quantity="many">%d עבודות</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_one">
+        <item quantity="other">"ל-%d הזמנות ניתן החזר בהצלחה. "</item>
+        <item quantity="one">"להזמנה אחת (%d) ניתן החזר בהצלחה. "</item>
+        <item quantity="two">"ל-%d הזמנות ניתן החזר בהצלחה. "</item>
+        <item quantity="many">"ל-%d ניתן החזר בהצלחה. "</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_two">
+        <item quantity="other">המטבעות שלך יופקדו בתוך %d שעות.</item>
+        <item quantity="one">המטבעות שלך יופקדו בתוך שעה אחת (%d).</item>
+        <item quantity="two">המטבעות שלך יופקדו בתוך %d שעות.</item>
+        <item quantity="many">המטבעות שלך יופקדו בתוך %d שעות.</item>
+    </plurals>
+    <plurals name="purchase_refund_success_notice">
+        <item quantity="other">ההחזר שלך עובד. המטבעות שלך יופקדו בתוך %d שעות.</item>
+        <item quantity="one">ההחזר שלך עובד. המטבעות שלך יופקדו בתוך שעה אחת (%d)</item>
+        <item quantity="two">ההחזר שלך עובד. המטבעות שלך יופקדו בתוך שעתיים (%d).</item>
+        <item quantity="many">ההחזר שלך עובד. המטבעות שלך יופקדו בתוך %d שעות.</item>
+    </plurals>
+    <plurals name="purchased_authorizing_dialog_content">
+        <item quantity="other">הפעולה עשויה להימשך זמן מה. אם לא תקבל את הפריטים שרכשת במהלך %d השעות הקרובות, שלח לנו משוב כדי ליידע אותנו על הבעיה.</item>
+        <item quantity="one">הפעולה עשויה להימשך זמן מה. אם לא תקבל את הפריטים שרכשת במהלך השעה (%d) הקרובה, שלח לנו משוב כדי ליידע אותנו על הבעיה.</item>
+        <item quantity="two">הפעולה עשויה להימשך זמן מה. אם לא תקבל את הפריטים שרכשת במהלך %d השעות הקרובות, שלח לנו משוב כדי ליידע אותנו על הבעיה.</item>
+        <item quantity="many">הפעולה עשויה להימשך זמן מה. אם לא תקבל את הפריטים שרכשת במהלך %d השעות הקרובות, שלח לנו משוב כדי ליידע אותנו על הבעיה.</item>
     </plurals>
     <plurals name="purchased_instructions">
         <item quantity="other">&lt;Data>השלמת התשלום מהווה הסכמה עם נוסח &lt;a href=\"%1$s\">ההודעה על רכישות בתוך יישום&lt;/a>.&lt;br>ניתן לקבל החזר במשך &lt;xliff:g id=time>%2$d&lt;/xliff:g> שעות מהרכישה.&lt;/Data></item>

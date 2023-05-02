@@ -111,11 +111,6 @@
     <string name="cloud_member_vipname_premium">פרימיום</string>
     <string name="cloud_member_vipname_ultra">אולטרה</string>
     <string name="cloud_service">Xiaomi Cloud</string>
-    <string name="cloud_service_cloud_open">הפעל</string>
-    <string name="cloud_service_space_full">שטח האחסון מלא</string>
-    <string name="cloud_service_space_not_enough">אין מספיק שטח אחסון פנוי</string>
-    <string name="cloud_service_space_used">תפוס</string>
-    <string name="cloud_service_state_error">לא ניתן היה לטעון</string>
     <string name="cloud_service_status_backup_not_open">הגיבוי מושבת</string>
     <string name="cloud_service_status_cloud_not_open">כבוי</string>
     <string name="cloud_service_status_storage_full">שטח האחסון מלא</string>
@@ -153,8 +148,6 @@
     <string name="diagnosis_log_sent_format">"יומן נשלח בהצלחה.
 ID:%s
 שלח קוד זה לאחראי."</string>
-    <string name="dind_device_service_not_open">כבוי</string>
-    <string name="dind_device_service_opened">פועל</string>
     <string name="download_file">מתבצעת הורדת %s…</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="empty" />
@@ -172,7 +165,6 @@ ID:%s
     <string name="facebook_login">היכנס באמצעות Facebook</string>
     <string name="failed_dup_secure_phone_number">מספר הטלפון הזה כבר משויך לחשבון Xiaomi אחר</string>
     <string name="family_service">שירותי משפחה</string>
-    <string name="family_service_not_open">הזמן חברים</string>
     <string name="family_share">שיתוף משפחתי</string>
     <string name="find_device">איתור המכשיר</string>
     <string name="find_device_access_denied">לא ניתן לקבל סטטוס, הגישה נדחתה</string>
@@ -304,7 +296,6 @@ ID:%s
     <string name="login_with_other">אפשרויות נוספות</string>
     <string name="logout_account">צא</string>
     <string name="logout_failed">לא ניתן לצאת</string>
-    <string name="mi_account">החשבון שלי</string>
     <string name="mi_account_identity_title">אמת את זהותך.</string>
     <string name="mi_finance">המימון שלי</string>
     <string name="mi_finance_info">בונוסים למשתמשים חדשים</string>
@@ -700,11 +691,6 @@ ID:%s
     <string name="push_notify_dialog_title">אימות חשבון</string>
     <string name="pwd_width_phone_number_or_mail_num">הסיסמה לא יכולה להכיל את מספר הטלפון, הדוא\"ל או מזהה חשבון Xiaomi שלך</string>
     <string name="qq">QQ</string>
-    <string name="qrcode_login_entry_text">&lt;Data>נכנסת במכשיר אחר? השתמש ב&lt;a href=>כניסה מהירה&lt;/a>&lt;/Data></string>
-    <string name="qrcode_login_load_refresh">&lt;Data>פג התוקף של קוד ה-QR הזה. הקש כדי &lt;a href=>לרענן&lt;/a>.&lt;/Data></string>
-    <string name="qrcode_login_load_retry">&lt;Data>לא ניתן היה לטעון. &lt;a href=>נסה שוב&lt;/a>.&lt;/Data></string>
-    <string name="qrcode_login_message">כדי להיכנס, סרוק את הקוד עם יישום הסורק של טלפון או טאבלט Xiaomi, Mi Home או יישום אחר של Xiaomi.</string>
-    <string name="qrcode_login_title">סרוק כדי להיכנס</string>
     <string name="recycle_phone_notification_msg">נראה כי מספר הטלפון שלך מוחזר. לחץ לעדכון.</string>
     <string name="recycle_phone_notification_title">סיכון אבטחה בחשבון Xiaomi</string>
     <string name="removing_account">יוצא…</string>
@@ -836,8 +822,6 @@ ID:%s
     <string name="two_factor_auth_need_code_summary">תוכל לראות קוד במכשירי Mi מחוברים. הזן קוד זה על המכשיר החדש בכדי להיכנס.</string>
     <string name="two_factor_auth_summary">כאשר אתה מנסה להיכנס באמצעות התקן חדש או במיקום חדש, תקבל הודעה על כך בהתקנים אחרים המחוברים. יהיה עליך לאשר אם נסיונות כניסה אלו אושרו על-ידך.</string>
     <string name="unbind_sns_description">לאחר ניתוק החשבון, לא תוכל להיכנס לחשבון Xiaomi שלך באמצעות פרטי החשבון שלך ב-%s.</string>
-    <string name="unit_gb">" GB"</string>
-    <string name="unit_mb">" MB"</string>
     <string name="unknown_error_info">שגיאה לא ידועה</string>
     <string name="unlock_help_notice">"עזרה:
 1. במידה ושכחת את סיסמתך, עבור אל id.mi.com על מנת לאפס אותה.
@@ -889,6 +873,5 @@ ID:%s
     <string name="weixin">WeChat</string>
     <string name="weixin_login">היכנס באמצעות WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
-    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="yesterday">אתמול</string>
 </resources>
