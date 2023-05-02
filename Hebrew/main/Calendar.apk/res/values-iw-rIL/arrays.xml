@@ -2,9 +2,9 @@
 <resources>
     <string-array name="additional_cal_dialog_labels">
         <item>ללא</item>
-        <item>"לוח שנה היג'רי"</item>
-        <item>שאקה סמבט (הינדי)</item>
-        <item>ויקראם סמבט (נפאל)</item>
+        <item>לוח שנה אסלאמי</item>
+        <item>לוח השנה הלאומי של הודו</item>
+        <item>לוח שנה ויקרמי</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>א</item>
@@ -81,6 +81,10 @@
         <item>אירוע זה בלבד</item>
         <item>כל האירועים בסדרה</item>
     </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>לכבות פעם אחת</item>
+        <item>תמיד כבוי</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>קדימה</item>
         <item>אחורה</item>
@@ -129,6 +133,10 @@
         <item>libra</item>
         <item>מאזניים</item>
         <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>להפעיל פעם אחת</item>
+        <item>פועל תמיד</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>ראשון</item>
@@ -316,7 +324,7 @@
         <item>שעון מרכזי (CT)</item>
         <item>מקסיקו סיטי</item>
         <item>"ססקצ'ואן"</item>
-        <item>Bogotá</item>
+        <item>בוגוטה</item>
         <item>שעון מזרחי (ET)</item>
         <item>ונצואלה</item>
         <item>שעון אטלנטי (ברבדוס)</item>
@@ -330,7 +338,7 @@
         <item>מונטבידאו</item>
         <item>אזור המיד-אטלנטיק</item>
         <item>האיים האזוריים</item>
-        <item>Cape Verde</item>
+        <item>כף ורדה</item>
         <item>קזבלנקה</item>
         <item>לונדון, דבלין</item>
         <item>אמסטרדם, ברלין</item>

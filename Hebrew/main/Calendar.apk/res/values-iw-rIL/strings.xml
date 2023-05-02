@@ -18,10 +18,11 @@
     <string name="add_holiday_desc">הוסף חג או חופשה כאן</string>
     <string name="add_holiday_title">הוסף יום חופש או חג</string>
     <string name="additional_cal_dialog_title">בחר לוח שנה</string>
-    <string name="additional_cal_pref_title">לוח שנה נוסף</string>
+    <string name="additional_cal_pref_title">לוחות שנה נוספים</string>
     <string name="additional_calendar_note">ייתכן כי לוחות שנה נוספים לא יהיו זמינים או יהיו שונים מכל מיני סיבות</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="agenda_month_empty_hint">אין אירועים היום</string>
+    <string name="agenda_not_today_empty_hint">אין כאן עדיין אירועים. לחצו כדי ליצור אירוע.</string>
     <string name="agenda_tomorrow">מחר, %1$s</string>
     <string name="agenda_view">אירועים</string>
     <string name="alarm_label">התעלם</string>
@@ -128,6 +129,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">לוח שנה סיני מסורתי</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="date_today">" (היום)"</string>
     <string name="date_view">תאריך</string>
@@ -140,6 +142,8 @@
     <string name="delete_this_event_title">למחוק אירוע זה?</string>
     <string name="description_calendar">יישומי מערכת/לוח שנה</string>
     <string name="description_calendar_edit_event">יישומי מערכת/לוח שנה/לו\"ז</string>
+    <string name="description_calendar_huangli" />
+    <string name="description_calendar_subscribe_group" />
     <string name="directory_searching_fmt">מחפש אחר %s…</string>
     <string name="discard_label">ביטול</string>
     <string name="display_to_calendar">הצג בלוח השנה</string>
@@ -215,6 +219,7 @@
     <string name="event_info_when">מתי</string>
     <string name="event_info_where">איפה</string>
     <string name="event_reminder_allday_day_zero">ביום האירוע ב- %2$s</string>
+    <string name="event_reminder_custom">בהתאמה אישית</string>
     <string name="event_reminder_value_zero">לפני האירוע</string>
     <string name="event_title">כותרת</string>
     <string name="event_view">הצג אירוע</string>
@@ -333,6 +338,7 @@
     <string name="holidays_title">ימי חופשה או חגים</string>
     <string name="horoscope">הורוסקופ</string>
     <string name="horoscope_card_title">ההורוסקופ היומי</string>
+    <string name="horoscope_partner" />
     <string name="horoscope_select_activity_label">בחר מזל</string>
     <string name="hour_1">שעה אחת (%d)</string>
     <string name="image_processing">התמונה עדיין לא מכונה</string>
@@ -366,6 +372,8 @@
     <string name="long_holiday_week_off">ימי חופשה שבועיים</string>
     <string name="long_month_date_format">dd MMMM yyyy</string>
     <string name="lunar_date">תאריך ירחי</string>
+    <string name="lunar_day" />
+    <string name="lunar_to_solar" />
     <string name="manage_holidays">נהל ימי חופשה או חגים</string>
     <string name="manage_title">נהל</string>
     <string name="mark_end">הווסת הסתיימה</string>
@@ -522,7 +530,7 @@
     <string name="no_visiable_calendar_title">הוספת חשבון</string>
     <string name="none">אין</string>
     <string name="noon">צהריים</string>
-    <string name="not_more_than_three_weekday">תוכל לבחור עד 3 ימים</string>
+    <string name="not_more_than_three_weekday">ניתן לבחור עד %d ימים</string>
     <string name="notes_hint">הקש כדי להוסיף משימה</string>
     <string name="notes_reminders_channel">תזכורות לפתקים</string>
     <string name="notes_settings_summary">הוסף את המשימות והפתקים היומיים שלך ליומן</string>
@@ -536,6 +544,10 @@
     <string name="notes_weekly">שבועי</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">לוח תזכורות</string>
+    <string name="notification_open_setting_button_exit">לא, תודה</string>
+    <string name="notification_open_setting_button_ok">לאפשר</string>
+    <string name="notification_open_setting_message">יש לאפשר ללוח השנה לשלוח לך התראות כדי לקבל התראות על אירועים.</string>
+    <string name="notification_open_setting_title">לאפשר התראות לוח שנה?</string>
     <string name="numbers">%d</string>
     <string name="pack_up">收起</string>
     <string name="panchang_amanta">אמנטה</string>
@@ -563,6 +575,7 @@
     <string name="panchang_yog">יוג</string>
     <string name="partner_compatibility">התאמת בן זוג</string>
     <string name="path_calendar_settings">יישומי מערכת/לוח שנה/הגדרות</string>
+    <string name="permission_denial">יש לתת את ההרשאות הנדרשות כדי להשתמש במאפיין זה</string>
     <string name="permission_description">פרטי הרשאות</string>
     <string name="picker_day">היום שנבחר:%1$d החליקי אנכית כדי לבחור.</string>
     <string name="picker_month">החודש שנבחר:%1$d החליקי אנכית כדי לבחור.</string>
@@ -575,7 +588,6 @@
     <string name="pref_title_alarm_remind">הצג תזכורות כשעון מעורר</string>
     <string name="pref_title_no_remind">ללא תזכורת</string>
     <string name="pref_title_notification_remind">הצג תזכורת כהתראה</string>
-    <string name="preferences_additional_cal_default">0</string>
     <string name="preferences_alarms_category_title">תזכורות שעון מעורר</string>
     <string name="preferences_alarms_sound">צליל</string>
     <string name="preferences_alarms_vibrateWhen">רטט</string>
@@ -594,9 +606,9 @@
     <string name="preferences_title">לוח שנה</string>
     <string name="preferences_use_home_tz_descrip">מציג זמני לוח שנה ואירועים באזור הזמן הביתי שלך במהלך נסיעות</string>
     <string name="preferences_use_home_tz_title">השתמש באזור הזמן הביתי</string>
-    <string name="preferences_week_start_day_default">1-</string>
     <string name="preferences_week_start_day_dialog">יום בו מתחיל השבוע</string>
     <string name="preferences_week_start_day_title">יום בו מתחיל השבוע</string>
+    <string name="premission_description_notice">לשליחת התראות על אירועים וחגים</string>
     <string name="privacy_and_permissions">פרטיות והרשאות</string>
     <string name="privacy_card_description">עליך להסכים למדיניות הפרטיות שלנו כדי לקבל גישה לכל המאפיינים</string>
     <string name="privacy_policy_dialog_agree">מסכים</string>
@@ -622,6 +634,8 @@
     <string name="remind_title_menstruation_start">תזכורת להתחלת הווסת</string>
     <string name="remind_title_record">תזכורת לתעד</string>
     <string name="repeat_activity_label">חזרה</string>
+    <string name="repeat_alarm_close_title">זה אירוע חוזר. לכבות שעון מעורר לתזכורת?</string>
+    <string name="repeat_alarm_open_title">זה אירוע חוזר. להגדיר שעון מעורר לתזכורת?</string>
     <string name="repeat_custom_activity_label">מותאם אישית</string>
     <string name="repeat_custom_prompt_daily">בכל%1$s</string>
     <string name="repeat_custom_prompt_sentence">האירוע יחזור%1$s</string>
@@ -643,6 +657,7 @@
     <string name="repeat_label_frequency">תדירות</string>
     <string name="repeat_label_interval">בכל</string>
     <string name="repeat_label_week">שבוע</string>
+    <string name="repeat_lunar_yearly" />
     <string name="repeat_month_day_splitter">" "</string>
     <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">חזרה</string>
@@ -663,7 +678,9 @@
     <string name="saving_event">האירוע נשמר</string>
     <string name="saving_event_with_guest">שולח עדכונים…</string>
     <string name="search_calendar_edit_event">פגישה;תזכורת;לו\"ז</string>
+    <string name="search_calendar_huangli" />
     <string name="search_calendar_settings">לוח שנה;לו\"ז;תזכורת</string>
+    <string name="search_calendar_subscribe_group" />
     <string name="search_events">חיפוש אירועים</string>
     <string name="search_history">היסטוריית חיפוש</string>
     <string name="second_saturday_holiday">כל שבת שניה היא יום חופשי</string>
@@ -680,7 +697,7 @@
     <string name="setting_about_summary">גרסה:</string>
     <string name="setting_accounts">חשבונות לוח שנה</string>
     <string name="setting_change_language">בחר שפת לוח שנה</string>
-    <string name="setting_desc_import_todo">ייבא משימות מתוזמנות מפתקים</string>
+    <string name="setting_desc_import_todo">ייבוא משימות רגישות לזמן מ-Notes</string>
     <string name="setting_features_title">הגדרות תכונה</string>
     <string name="setting_holiday_display_desc">כרטיסי הברכה ממוקמים מתחת לסדר היום שלך בעמוד הבית</string>
     <string name="setting_holiday_reminder">תזכורת חג</string>
@@ -717,6 +734,10 @@
     <string name="size_tera_byte">TB</string>
     <string name="skip">דלג</string>
     <string name="small_week_date_format">EEE dd.MM.yyyy</string>
+    <string name="solar_lunar_convert_date" />
+    <string name="solar_lunar_convert_description" />
+    <string name="solar_lunar_convert_tab" />
+    <string name="solar_to_lunar" />
     <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
     <string name="spec_agenda_view">אירועים מיוחדים</string>
     <string name="start_date_calculate">חישוב</string>

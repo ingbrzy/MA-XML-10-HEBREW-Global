@@ -60,6 +60,10 @@
     <string name="confirm">אישור</string>
     <string name="confirm_pin_msg">הזן PIN פעם נוספת</string>
     <string name="control_center_notification_switch_guide">החלק כדי לעבור בין מרכז הבקרה ללוח ההתראות</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">הבנתי</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"לאחר השבתת מיטוב MIUI והפעלת חסכון בסוללה, מצב מוחשך יופעל באופן אוטומטי.
+כדי להשבית את המצב המוחשך יש לכבות את המצב של חסכון בסוללה או להפעיל את מיטוב MIUI תחת הגדרות > אפשרויות מפתח > הפעלת מיטוב MIUI."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">מצב מוחשך</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -409,6 +413,7 @@ mm"</string>
     <string name="more">עוד</string>
     <string name="morning">בוקר</string>
     <string name="msim_set_sub_not_supported_phone_in_call">לא ניתן להגדיר במהלך שיחה</string>
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
     <string name="notification_control_center">התראות ומרכז הבקרה</string>
@@ -505,9 +510,9 @@ mm"</string>
     <string name="rapid_charge_mode_tip">טעינה מהירה</string>
     <string name="reboot_info_auto_boot_global">התראה מתקרבת: %s</string>
     <string name="reboot_info_shutdown_alarm_global">כיבוי התראות: %s</string>
-    <string name="recent_used_camera">יישום זה השתמש במצלמה</string>
-    <string name="recent_used_camera_and_microphone">ישום זה הקליט שמע והשתמש במצלמה</string>
-    <string name="recent_used_microphone">יישום זה הקליט שמע</string>
+    <string name="recent_used_camera">יישום זה קיבל גישה למצלמה</string>
+    <string name="recent_used_camera_and_microphone">יישום זה קיבל גישה למצלמה ולמיקרופון</string>
+    <string name="recent_used_microphone">יישום זה קיבל גישה למיקרופון</string>
     <string name="return_to_incall_screen">חזרה לשיחה</string>
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
@@ -524,6 +529,8 @@ mm"</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, MMM d</string>
     <string name="status_bar_clock_date_weekday_format">EEEE, d MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE, d MMMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 MMM d"</string>
     <string name="status_bar_date_format_12">"E
@@ -598,9 +605,9 @@ MMM d"</string>
     <string name="unlockscreen_low_battery">חבר מטען כעת</string>
     <string name="unlockscreen_recharge_completed">סוללה טעונה</string>
     <string name="unlockscreen_recharging_message">טוען %d%%</string>
-    <string name="using_camera">יישום זה משתמש במצלמה</string>
-    <string name="using_camera_and_microphone">יישום זה מקליט שמע ומשתמש במצלמה</string>
-    <string name="using_microphone">יישום זה מקליט שמע</string>
+    <string name="using_camera">יישום זה מקבל גישה למצלמה</string>
+    <string name="using_camera_and_microphone">יישום זה מקבל גישה למצלמה ולמיקרופון</string>
+    <string name="using_microphone">יישום זה מקבל גישה למיקרופון</string>
     <string name="wallpaper_global_des_drop_down_notify_text">שחרר לצפיה בפרטים</string>
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
