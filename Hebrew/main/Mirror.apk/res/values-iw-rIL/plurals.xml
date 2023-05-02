@@ -54,6 +54,24 @@
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
     </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">%2$d קבצים נדחו, כולל %1$s</item>
+        <item quantity="one">קובץ %2$d נדחה, כולל %1$s</item>
+        <item quantity="two">%2$d קבצים נדחו, כולל %1$s</item>
+        <item quantity="many">%2$d קבצים נדחו, כולל %1$s</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">%2$d קבצים התקבלו, כולל %1$s</item>
+        <item quantity="one">קובץ %2$d התקבל, כולל %1$s</item>
+        <item quantity="two">%2$d קבצים התקבלו, כולל %1$s</item>
+        <item quantity="many">%2$d קבצים התקבלו, כולל %1$s</item>
+    </plurals>
+    <plurals name="download_title_multi">
+        <item quantity="other">%2$d קבצים, כולל %1$s</item>
+        <item quantity="one">קובץ %2$d, כולל %1$s</item>
+        <item quantity="two">%2$d קבצים, כולל %1$s</item>
+        <item quantity="many">%2$d קבצים, כולל %1$s</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
         <item quantity="one">לפני חצי שעה</item>

@@ -38,7 +38,7 @@
     <string name="dialog_connect_verify_perssion_fail">לא ניתן לאשר את השידור במכשיר הטלוויזיה שלך. המתן דקה או שתיים ונסה שוב.</string>
     <string name="dialog_connected">התחבר</string>
     <string name="dialog_connecting">מתחבר…</string>
-    <string name="dialog_location_permission_message">יישום זה זקוק לגישה למיקום שלך כדי שהוא יוכל לאתר מסכים חיצוניים בסביבה הקרובה. יש לבחור באפשרות \"אפשר כל הזמן\" במתן הרשאה זו כדי למנוע שגיאות אפשריות.</string>
+    <string name="dialog_location_permission_message">יישום זה זקוק לגישה למיקום שלך כדי שהוא יוכל לאתר מסכים חיצוניים בסביבה הקרובה. יש לבחור באפשרות \"לאפשר תמיד\" במתן הרשאה זו כדי למנוע שגיאות אפשריות.</string>
     <string name="dialog_location_permission_title">נדרשת הרשאה</string>
     <string name="dialog_miplay_permission_message">אפשר למקרין להקליט שמע, לגשת לקבצים באחסון הפנימי ולגשת למיקום שלך כדי שתוכל להשתמש בתכונה זו באופן רגיל. הקש על \"הגדרות\" ובחר \"הרשאות אפליקציה\" כדי להמשיך.</string>
     <string name="dialog_miplay_permission_positive">הגדרות</string>
@@ -474,7 +474,6 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="toast_msg_for_multi_window">לא ניתן להשתמש במאפיין זה עם מסך מפוצל</string>
     <string name="toast_msg_for_small_window">ניתן למזער את החלון המשודר כדי להשתמש במאפיינים אחרים בטלפון שלך, בלי לפגוע בתהליך השידור.</string>
     <string name="toast_nfc_dont_move">אל תרחיק את הטלפון שלך</string>
-    <string name="toast_nfc_same_wifi">חבר גם את הטלוויזיה וגם את המכשיר הזה לאותה רשת</string>
     <string name="toast_title_for_small_window">בחר ב-\"מזער חלון\" באפליקציה</string>
     <string name="toast_turn_off_hotspot_before_cast">כבה את הנקודה החמה לפני השידור</string>
     <string name="today">היום</string>

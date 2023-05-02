@@ -363,7 +363,6 @@
     <string name="some_files_receive_completed">צפה בקבצים שכבר קיבלת ב-%1$s.</string>
     <string name="somepc_send_muchfile_files">%1$s שולח אליך יותר מ-%2$d קבצים…</string>
     <string name="start_receive_much_files_from_pc">מקבל יותר מ-%2$d קבצים מ-%1$s…</string>
-    <string name="sub_title_mishare_switch">מאפיין זה יושבת לאחר %d דקות.</string>
     <string name="success_receive_much_file_from_pc">התקבלו יותר מ-%2$d קבצים מ-%1$s. הקש כדי להציג.</string>
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
@@ -424,19 +423,15 @@
     <string name="tips_p2p_support_use5g_china">For best results, use a 5 GHz WLAN network.</string>
     <string name="tips_prompt_enable_midrop">שיתוף Mi</string>
     <string name="to_feedback">דווח</string>
-    <string name="toast_auto_close_in_minutes">שיתוף Mi יושבת לאחר %d דקות.</string>
-    <string name="toast_transfering">מעביר פריטים. נא לנסות שוב מאוחר יותר.</string>
     <string name="today">היום</string>
     <string name="tomorrow">מחר</string>
     <string name="transfer_intercept_to_remote">לא ניתן לשלוח: %1$s</string>
     <string name="transfer_to_pc_summary">הגרסה האחרונה של תוכנת AIoT המותקנת על Mi Notebooks תואמת ל-Mi Share. באתר MIUI ניתן לבדוק את רשימת דגמי המחשבים הניידים הנתמכים. אם המחשב הנייד שלך מופיע ברשימה, אך AIoT אינו מותקן עליו, עדכן את מנהל ההתקן של ה-BIOS ומתאם הרשת של המחשב הנייד והורד את AIoT.</string>
     <string name="transfer_to_pc_summary_new">&lt;Data>הגרסה האחרונה של MIUI+ המותקנת במחשבים הניידים של Mi מתאימה ל-Mi Share. באתר MIUI+ ניתן לבדוק את רשימת דגמי המחשבים הניידים הנתמכים (&lt;a href=%1$s>%2$s&lt;/a>). אם המחשב הנייד שלך מופיע ברשימה, אך MIUI+ לא מותקנת בו, עליך לעדכן ה-BIOS ואת מתאם הרשת של המחשב הנייד ולהוריד את MIUI+.&lt;/Data></string>
     <string name="transfer_to_pc_title">שלח קבצים למחשבים</string>
-    <string name="transfer_to_phone_summary">יש להפעיל את Mi שיתוף באמצעות המתג בלוח ההתראות. לאחר מכן ניתן יהיה לראות מכשירים בסביבה הקרובה כשמתחילים לשתף תמונה או קובץ. יש להקיש על המכשיר של הנמען כדי לשלוח את הפריט המיועד לשיתוף.</string>
-    <string name="transfer_to_phone_summary_new">יש להפעיל את שיתוף Mi במרכז הבקרה כדי לשלוח ולקבל קבצים בקלות. לאחר הפעלת מאפיין זה ניתן לשתף קבצים עם מכשירים בסביבה הקרובה במשך %d דקות, ואז הוא מושבת אוטומטית.</string>
+    <string name="transfer_to_phone_summary">"הפעל את 'Mi שיתוף' באמצעות הכפתור שבלוח ההתראות. לאחר מכן תוכל לראות מכשירים קרובים כשאתה מתחיל לשתף תמונה או קובץ. הקש על המכשיר של הנמען כדי לשלוח אליו את הפריט שאתה משתף."</string>
     <string name="transfer_to_phone_title">שלח קבצים לטלפון</string>
-    <string name="transfer_to_summary">יש להפעיל את Mi שיתוף באמצעות המתג בלוח ההתראות. לאחר מכן ניתן יהיה לראות מכשירים בסביבה הקרובה כשמתחילים לשתף תמונה או קובץ. יש להקיש על המכשיר של הנמען כדי לשלוח את הפריט המיועד לשיתוף.</string>
-    <string name="transfer_to_summary_new">יש להפעיל את שיתוף Mi במרכז הבקרה כדי לשלוח ולקבל קבצים בקלות. לאחר הפעלת מאפיין זה ניתן לשתף קבצים עם מכשירים בסביבה הקרובה במשך %d דקות, ואז הוא מושבת אוטומטית.</string>
+    <string name="transfer_to_summary">הפעל את Mi שיתוף באמצעות המתג שבלוח ההתראות. לאחר מכן תוכל לראות מכשירים קרובים כשאתה מתחיל לשתף תמונה או קובץ. הקש על המכשיר של הנמען כדי לשלוח אליו את הפריט שאתה משתף.</string>
     <string name="transfer_to_title">שליחת קבצים למכשירים ניידים</string>
     <string name="tuesday">שלישי</string>
     <string name="tuesday_short">"ג'"</string>
