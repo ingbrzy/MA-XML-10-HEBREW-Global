@@ -1094,7 +1094,6 @@
     <string name="monitoring_description_personal_profile_named_vpn">‏האפליקציות האישיות שלך מחוברות לאינטרנט דרך %1$s. הפעילויות שלך ברשת, כולל האימיילים ונתוני הגלישה, גלויות לספק ה-VPN.</string>
     <string name="monitoring_description_two_named_vpns">‏המכשיר הזה מחובר לאינטרנט דרך %1$s ו-%2$s. הפעילויות שלך ברשת, כולל האימיילים ונתוני הגלישה, גלויות למנהל ה-IT.</string>
     <string name="monitoring_description_vpn_settings">‏להגדרות ה-VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"ל-%1$s תהיה אפשרות לגשת לנתונים המשויכים למכשיר הזה, לנהל אפליקציות ולשנות את הגדרות המכשיר.
 
 אם יש לך שאלות, ניתן ליצור קשר עם %2$s."</string>
@@ -1134,7 +1133,6 @@
     <string name="mtrl_picker_a11y_next_month">מעבר לחודש הבא</string>
     <string name="mtrl_picker_a11y_prev_month">מעבר לחודש הקודם</string>
     <string name="mtrl_picker_announce_current_selection">הבחירה הנוכחית: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">יש לבחור תאריך</string>
     <string name="mtrl_picker_date_header_unselected">התאריך הנבחר</string>
@@ -1342,7 +1340,6 @@
     <string name="private_dns_mode_provider">‏שם מארח של ספק DNS פרטי</string>
     <string name="private_dns_mode_provider_failure">לא ניתן היה להתחבר</string>
     <string name="private_dns_mode_provider_hostname_hint">‏צריך להזין את שם המארח של ספק DNS</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">יש בעיה בחיבור. עליך לכבות את המכשיר ולהפעיל אותו מחדש</string>
     <string name="profile_info_settings_title">פרטי פרופיל</string>
     <string name="qr_code_scanner_title">‏סריקת קוד QR</string>

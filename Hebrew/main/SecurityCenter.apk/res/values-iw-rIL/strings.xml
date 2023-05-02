@@ -960,7 +960,6 @@
     <string name="card_main_private_space_summary">"השימוש ב'שטח שני' דומה לשימוש בשני מכשירים"</string>
     <string name="card_main_private_space_title">שטח שני</string>
     <string name="card_main_sectool_title">כלים</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">צור</string>
     <string name="card_main_xspace_summary">צור חשבונות משוכפלים לכל יישום שתבחר</string>
     <string name="card_main_xspace_title">יישומים משוכפלים</string>
@@ -1241,7 +1240,6 @@
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="edit_phone_num">ערוך את מספר הטלפון של ה-SIM</string>
-    <string name="ellipsis">…</string>
     <string name="email">דוא\"ל</string>
     <string name="empty" />
     <string name="empty_app">אין יישומים</string>
@@ -2335,7 +2333,6 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_license_manager">הרשאות</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2344,7 +2341,6 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_optimize_manage">האצת מהירות</string>
     <string name="menu_text_optimize_manage_1">האצת מהירות</string>
     <string name="menu_text_power_manager">סוללה</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">הסרה מרשימת החריגים</string>
     <string name="menu_white">הוספה לרשימת החריגים</string>
     <string name="mi_ime_not_used">השתמש במקלדת שאושרה ע\"י שיאומי</string>
@@ -2993,11 +2989,6 @@ Record sequences and use them anytime!"</string>
     <string name="power_center_dialog_msg_top">כאשר צריכת הבטריה מופעלת, MIUI יבצע את פעולות האופטימיזציה הבאות:</string>
     <string name="power_center_hints_scan_danger_result">ניתן לתקן בעיות בסוללה עכשיו</string>
     <string name="power_center_list_item_auto_brightness">התאמת בהירות אוטומטית</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">V %s</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s מיליאמפר</string>
-    <string name="power_center_list_item_battery_status_capacity">מיליאמפר</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">"ש'"</string>
     <string name="power_center_list_item_close_bluetooth">כיבוי Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">הגדרות מתקדמות</string>
@@ -3283,7 +3274,6 @@ Record sequences and use them anytime!"</string>
     <string name="pref_normal_traffic_limit">כאשר תכנית הנתונים מנוצלת עד לתומה</string>
     <string name="pref_open_adjust_traffic">עדכן את השימוש בנתונים בכל יום על פי סטטיסטיקות מספק הרשת שלך</string>
     <string name="pref_operator_not_set">ספק הרשת אינו מוגדר</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">כאשר הינך חורג מתכנית הנתונים שלך</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_pkg_begin_date">תאריך איפוס שימוש</string>
@@ -3558,7 +3548,6 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_using_record">הקלטת שמע</string>
     <string name="privacyapp_number_masked_text">תוכן ההתראות מוסתר</string>
     <string name="privacyapp_number_unmasked_text">ניתן להסתיר את תוכן ההתראות</string>
-    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="process_vpnsdkmanager_label">מאיץ המשחקים</string>
     <string name="promotion">פרסומת</string>
