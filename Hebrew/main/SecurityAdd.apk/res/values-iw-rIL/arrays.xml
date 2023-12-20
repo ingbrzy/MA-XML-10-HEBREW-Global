@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>א</item>
         <item>ב</item>
@@ -77,6 +99,20 @@
     <string-array name="gb_gpu_custom_cut_texture">
         <item>מאוזן</item>
         <item>איכות גבוהה</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_fps_gear">
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Low</item>
+        <item>Standard</item>
+        <item>High</item>
+        <item>Highest</item>
+        <item>Default</item>
     </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>מהירות גבוהה</item>

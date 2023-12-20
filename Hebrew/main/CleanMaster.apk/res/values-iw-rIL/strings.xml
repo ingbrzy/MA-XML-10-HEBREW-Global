@@ -25,6 +25,7 @@
     <string name="activity_title_uninstall_apps">יישומים</string>
     <string name="activity_title_video">מחק סרטונים</string>
     <string name="activity_title_white_list">חריגים</string>
+    <string name="ad_flag_text">פרסומת</string>
     <string name="ad_install_success_dialog_lunch">פתח</string>
     <string name="ad_install_success_dialog_title">%1$s הותקן בהצלחה. לפתוח כעת?</string>
     <string name="afternoon">אחר הצהריים</string>
@@ -192,6 +193,7 @@
     <string name="dc_item_title_wechat_chat">נקה את היסטוריית WeChat</string>
     <string name="dc_storage_cleaned">פינית נפח אחסון של %s</string>
     <string name="dc_storage_info">נפח אחסון זמין %1$s | סה\"כ %2$s</string>
+    <string name="dc_storage_info_new">%1$s פנוי</string>
     <string name="deep_clean_completed_tips">נוקה בהצלחה</string>
     <string name="deep_clean_data_path_clean_title">נקה מטמון</string>
     <string name="deep_clean_uninstall_completed_tips">הוסר בהצלחה</string>
@@ -255,6 +257,7 @@
     <string name="download">הורדה</string>
     <string name="downloading">מוריד</string>
     <string name="early_morning">מוקדם בבוקר</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">ריק</string>
     <string name="empty_content_no_privacy">ריק</string>
     <string name="empty_content_no_similar_image">אין תמונות</string>
@@ -402,7 +405,6 @@
     <string name="guide_dc_dialog_negative">ביטול</string>
     <string name="guide_dc_dialog_positive">אישור</string>
     <string name="guide_dc_dialog_title">נפח האחסון אוזל</string>
-    <string name="guide_secure_dialog_message">ניקוד הייעול של מכשירך נמוך מ-80 נקודות. לייעל כעת?</string>
     <string name="guide_secure_dialog_message_new">ניקוד האופטימיזציה של מכשירך נמוך מ-%d נקודות. לבצע אופטימיזציה כעת?</string>
     <string name="guide_secure_dialog_negative">ביטול</string>
     <string name="guide_secure_dialog_positive">ייעול</string>
@@ -430,6 +432,7 @@
     <string name="hints_garbage_cleanup_result_safe">הכל נראה תקין</string>
     <string name="hints_garbage_handle_item_content">%1$d פריטים, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">ריק</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">בשימוש נדיר</string>
     <string name="hints_installed_app_near">בשימוש לאחרונה</string>
     <string name="hints_installed_app_never">מעולם לא היה בשימוש</string>
@@ -479,6 +482,7 @@
     <string name="last_check_canceled">הסריקה הקודמת בוטלה</string>
     <string name="load_only_under_wlan">טען באמצעות רשת אלחוטית בלבד</string>
     <string name="location_not_found">לא ניתן היה למצוא את הקובץ</string>
+    <string name="lock_device_toast">מכשיר זה נעול. יש לבטל את הנעילה כדי להשתמש ביישום הניקוי.</string>
     <string name="login_immediately">היכנס</string>
     <string name="long_click_dialog_summary">לחץ לחיצה ארוכה על מנת להוסיף לרשימת החריגים.</string>
     <string name="long_click_dialog_title">התראה</string>
@@ -506,14 +510,14 @@
     <string name="menu_view">הצג בתיקיה</string>
     <string name="midnight">לילה</string>
     <string name="miuix_access_state_desc">נבחר</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
+    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
@@ -675,12 +679,7 @@
     <string name="pref_title_manual_check_cleanup_db_update">בדוק זמינות עדכונים</string>
     <string name="pref_title_open_optimizer_cloud_scan">העלה שמות קבצים</string>
     <string name="pref_title_open_optimizer_memory_scan">סרוק את זכרון היישום</string>
-    <string name="privacy_app_desc">חשבון וסיסמה</string>
-    <string name="privacy_app_desc_message">חשבונות, סיסמאות, והודעות</string>
-    <string name="privacy_app_desc_search">חשבון, סיסמאות, והסטורית חיפוש</string>
-    <string name="privacy_app_desc_setting">חשבון, סיסמאות, והגדרות</string>
     <string name="privacy_browser_desc">פריטי חיפוש</string>
-    <string name="privacy_cache_desc">חשבון, סיסמה, הסטוריה, הגדרות ועוד</string>
     <string name="privacy_cache_empty">אין נתונים פרטיים</string>
     <string name="privacy_cache_scaning">בודק…</string>
     <string name="privacy_cache_title">פרטים אישיים</string>
@@ -730,6 +729,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="skip_ad">דלג</string>
     <string name="sponsored">ממומן</string>
     <string name="start_downloading_app">מתחיל הורדה: %1$s</string>
     <string name="start_install">התקן כעת</string>
@@ -789,9 +789,7 @@
     <string name="time_picker_label_hour">"שע'"</string>
     <string name="time_picker_label_minute">"ד'"</string>
     <string name="tips_low_storage_dialog_cancel">ביטול</string>
-    <string name="tips_low_storage_dialog_msg_qq">גודל המטמון של QQ הגיע ל-3GB. הדבר עשוי להאט את מכשירך. להסיר את המטמון של QQ כעת?</string>
     <string name="tips_low_storage_dialog_msg_qq_new">גודל המטמון של QQ הגיע ל-%d ג\"ב. זה עלול להאט את מכשירך. לנקות את המטמון של QQ כעת?</string>
-    <string name="tips_low_storage_dialog_msg_storage">הינך משתמש ב-90% משטח האחסון שלך. הסר את היישומים בהם אינך משתמש.</string>
     <string name="tips_low_storage_dialog_msg_storage_new">אתה משתמש ב-%s משטח האחסון. עליך להסיר את ההתקנה של יישומים שבהם אתה לא משתמש.</string>
     <string name="tips_low_storage_dialog_msg_wechat_new">גודל המטמון של WeChat הגיע ל-%d ג\"ב. זה עלול להאט את מכשירך. לנקות את המטמון של WeChat כעת?</string>
     <string name="tips_low_storage_dialog_ok">ניקוי</string>

@@ -144,6 +144,9 @@
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
     <string name="gigabyteShort_per_seconds">ג\"ב/ייט</string>
+    <string name="icon_create_failure">לא ניתן להוסיף את קיצור הדרך</string>
+    <string name="icon_create_success">קיצור הדרך נוסף בהצלחה</string>
+    <string name="icon_restore">יש להקיש להוספת קיצור דרך להורדות למסך הבית</string>
     <string name="info_download_progress">הצג את התקדמות ההורדה</string>
     <string name="info_flow_show">הצג תוכן מומלץ</string>
     <string name="insufficient_space">אין מספיק שטח אחסון</string>
@@ -166,14 +169,14 @@
     <string name="midnight">לילה</string>
     <string name="missing_title">&lt;לא ידוע></string>
     <string name="miuix_access_state_desc">נבחר</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
+    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
@@ -251,6 +254,7 @@
     <string name="preferences_title">הגדרות</string>
     <string name="privacy_agree_dialog_msg">"&lt;Data>ברוך הבא ל'הורדות'! תוכל להשתמש ביישום זה כדי להוריד קבצים.&lt;BR>'הורדות' צריך לאסוף מידע אישי הדרוש כדי לספק לך את השירותים המייצרים סטטיסטיקות הורדה. תוכל ללמוד כיצד אנו מטפלים במידע שאנו אוספים ב&lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> שלנו.&lt;BR>קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> שלנו לפני השימוש ב'הורדות'.&lt;BR>בכל זמן, תוכל לעבור להגדרות ולבטל את הסכמתך למדיניות הפרטיות של 'הורדות'. אם אינך מסכים למדיניות הפרטיות שלנו, לא תוכל להשתמש בתכונות מסוימות של יישום זה; עם זאת, התפקוד הבסיסי שלו עדיין יהיה זמין עבורך.&lt;/Data>"</string>
     <string name="privacy_agree_dialog_title">תנאי השימוש</string>
+    <string name="privacy_policy">מדיניות הפרטיות</string>
     <string name="privacy_revoke_dialog_later">ביטול</string>
     <string name="privacy_revoke_dialog_msg">"על ידי כיבוי המתג, אתה מבטל את הסכמתך למדיניות הפרטיות של 'הורדות'. אנו נפסיק לאסוף את המידע האישי שלך. המידע האישי שכבר נאסף ונשמר יימחק תוך פרק הזמן הנדרש על פי החוקים החלים. 'הורדות' צריך לאסוף מידע אישי הדרוש כדי לספק לך שירותים המייצרים סטטיסטיקות הורדה. ביטול הסכמתך למדיניות הפרטיות שלו ייחשב כסירוב לקבל את שירותים כאלו המבוססים על מידע אישי שנאסף."</string>
     <string name="privacy_revoke_dialog_ok">ביטול הסכמה</string>

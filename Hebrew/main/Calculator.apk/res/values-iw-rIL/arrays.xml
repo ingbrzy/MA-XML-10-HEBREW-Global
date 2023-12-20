@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>א</item>
         <item>ב</item>
@@ -51,42 +73,15 @@
         <item>ת</item>
         <item>\#</item>
     </string-array>
-    <string-array name="height_array">
-        <item>ס\"מ</item>
-        <item>מטר</item>
-        <item>רגל</item>
-        <item>"אינץ'"</item>
-    </string-array>
     <string-array name="mortgage_repayment">
         <item>תשלומים זהים</item>
         <item>תשלומים מופחתים</item>
     </string-array>
-    <string-array name="operatorDescs">
-        <item>סוגר שמאלי</item>
-        <item>סוגר ימני</item>
-        <item>עצרת</item>
-        <item>לוגריתם טבעי</item>
-        <item>לוגריתם</item>
-        <item>שורש ריבועי</item>
-        <item>חלקי</item>
-        <item>כפול</item>
-        <item>ועוד</item>
-        <item>פחות</item>
-        <item>נקודה</item>
-        <item>בחזקת</item>
-        <item>טנגנס</item>
-        <item>סינוס</item>
-        <item>קוסינוס</item>
-        <item>פאי</item>
-        <item>שווה</item>
-    </string-array>
     <string-array name="unit_data_order_currency_">
         <item>USD</item>
         <item>EUR</item>
+        <item>HKD</item>
         <item>JPY</item>
-    </string-array>
-    <string-array name="weight_array">
-        <item>ק\"ג</item>
-        <item>פאונדים</item>
+        <item>CNY</item>
     </string-array>
 </resources>

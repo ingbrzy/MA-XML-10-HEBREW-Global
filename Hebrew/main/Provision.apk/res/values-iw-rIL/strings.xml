@@ -6,6 +6,8 @@
     <string name="activate_esim_tips">לא ניתן היה להפעיל. נא לנסות שוב.</string>
     <string name="activating_esim_tips">מפעיל…</string>
     <string name="address_dialing_introduction">תוכל להשתמש ביישום זה כדי לבצע שיחות, לצפות ביומן השיחות ולנהל אנשי קשר.</string>
+    <string name="after_sales_support">After-sales support</string>
+    <string name="after_sales_support_introduction">This service allows you to get support and assistance regarding your purchased devices.</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="agree">מסכים</string>
     <string name="agree_and_next">מסכים</string>
@@ -27,6 +29,7 @@
     <string name="app_name">אספקה</string>
     <string name="application_package_introduction">מתקין החבילות משמש להתקנת יישומים של ספקים חיצוניים, כולל שירותי סריקה לפני התקנה והמלצות על יישומים לאחר התקנה.</string>
     <string name="application_permissions">הרשאות של יישומים</string>
+    <string name="authority_introduction">权限管理服务是您对应用进行权限管理的基础服务。</string>
     <string name="back">הקודם</string>
     <string name="backup_introduction">ניתן להשתמש באפליקציה הזו כדי לגבות ולשחזר פריטים על מכשירך.</string>
     <string name="bluetooth_introduction">"המערכת משתמשת בבלוטות' לצורך תקשורת אלחוטית. כדי לתפקד כנדרש, פונקציית בלוטות' זקוקה להרשאות הבאות:"</string>
@@ -42,8 +45,8 @@
     <string name="carousel_privacy"><Data>עליך לקרוא את &lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> ואת &lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> של ספק התוכן החיצוני המהימן שלנו ולהסכים אתם כדי להשתמש בטפט מתחלף.</Data></string>
     <string name="carousel_setting">הגדרת מסך הנעילה שלך</string>
     <string name="carousel_setting_sub">טפט מתחלף יציג לך סיפורים חדשים בכל ביטול נעילה של המכשיר שלך</string>
-    <string name="carrier_introduction_china">"In order to provide you with better services, processes running on your device (including SystemHelper, RegService, and Carrier Services) may periodically send the information related to your device and SIM card (including IMEI, IMSI, MSISDN, MEID, ICCID, MAC address, MIUI version, Android version, device model, and basic hardware specifications), as well as approximate location information (including region, coordinates, area identifier, and base station ID) to the carrier via WLAN, mobile data network, or free SMS. The carrier promises to analyze relevant information only to improve the quality of services or to provide customized services or technologies, and won't disclose relevant information to third parties in any form that identifies you personally. The specific carrier statement shall prevail. Consult your carrier regarding the cost of using this service."</string>
-    <string name="check_box_label"><Data>"By turning on this feature, you're agreeing to &lt;a href=%1$s>Xiaomi Interconnectivity Services Privacy Policy&lt;/a >."</Data></string>
+    <string name="carrier_introduction_china">על מנת לספק לכם שירותים טובים יותר, תהליכים שפועלים במכשיר שלכם (כולל SystemHelper, RegService ושירותי ספק הרשת) עשויים מדי פעם לשלוח לספק הרשת באמצעות WLAN, רשת סלולרית או הודעת טקסט חינמית נתונים הקשורים למכשיר ולכרטיס ה-SIM שלכם (כולל כתובת IMEI, IMSI, MSISDN, MEID, ICCID ו-MAC, גרסת המערכת, גרסת אנדרואיד, דגם המכשיר ומפרט חומרה בסיסי) וגם מידע על המיקום המקורב (כולל אזור, קואורדינטות, מזהה אזור ומזהה תחנת בסיס). ספק הרשת מבטיח לנתח את המידע הרלוונטי רק לצורך שיפור איכות השירותים או אספקת שירותים או טכנולוגיות בהתאמה אישית, ולא יחשוף את המידע הרלוונטי לצדדים שלישיים בכל צורה שהיא שמאפשרת זיהוי אישי. הצהרת ספק הרשת הספציפי היא הקובעת. יש להתייעץ עם ספק הרשת בנוגע לעלות של שירות זה.</string>
+    <string name="check_box_label">"&lt;Data>By turning on this feature, you're agreeing to the &lt;a href=%1$s>Mi Smart Hub Privacy Policy&lt;/a >.&lt;/Data>"</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="clock_introduction">תוכל להשתמש ביישום כדי לראות מה השעה, וכן להשתמש בטיימר, שעון עולמי, שעון עצר, להגדיר שעונים מעוררים ועוד.</string>
     <string name="close">סגירה</string>
@@ -69,10 +72,12 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">לוח שנה סיני מסורתי</string>
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
+    <string name="default_font">ברירת המחדל</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">השתמש בטביעת האצבע שלך על מנת לבטל את נעילת המכשיר, על מנת לאמת עסקאות Mi Pay, או על מנת להיכנס ליישומים ושירותים.</string>
     <string name="desc_international_fingerprint">השתמש בטביעת האצבע שלך לביטול נעילת המכשיר, או על מנת להיכנס ליישומים ושירותים.</string>
+    <string name="device_information_usage_desc">This service allows you to view device info, connect your device to networks, and set up its features.</string>
     <string name="diagnose_report">שלח נתוני אבחון כדי לאתר ולנתח בעיות מערכת ולשפר את חווית המשתמש. נתונים כאלה עשויים לכלול מידע אישי (למשל IP, מיקום וכדומה)</string>
     <string name="disageement_abnormal_download">אם אינך מסכים להעניק הרשאות כאלה או לשתף ולהעלות את המידע האישי שלך, לא תוכל להשתמש בשירות זה.</string>
     <string name="disagree">ביטול</string>
@@ -89,7 +94,9 @@
     <string name="disagreement_location_service_abnormal">אם לא תסכים להעניק הרשאות אלה, לא תוכל להשתמש בשירותי מיקום. ניתן להפעיל או לבטל שירותי מיקום בכל עת בהגדרות > הגנת הפרטיות.</string>
     <string name="disagreement_mi_account_abnormal">אם לא תסכים להעניק הרשאות אלה, לא תוכל להשתמש בשירותי חשבון Mi. ניתן להפעיל או לבטל את שירותי חשבון Mi בכל עת בהגדרות > חשבון Mi.</string>
     <string name="disagreement_service_not_working_properly">אם לא תסכים להעניק הרשאות אלה, לא תוכל להשתמש ביישום זה.</string>
-    <string name="disagreement_terminate_bluetooth">"אם אינך רוצה לתת את ההרשאות הללו, לא תוכל להשתמש בבלוטות'. ניתן להפעיל ולהשבית בלוטות', ולהוסיף מכשירי בלוטות' בהגדרות."</string>
+    <string name="disagreement_service_not_working_properly_settings">"If you don't agree to grant these permissions, this service won't be able to work normally."</string>
+    <string name="disagreement_service_not_working_properly_with_media_storage">אם בחרת שלא לתת את ההרשאות האלה, השירות הזה לא יוכל לעבוד כנדרש.</string>
+    <string name="disagreement_terminate_bluetooth">אם אינך רוצה לתת את ההרשאות הללו, לא תהיה לך האפשרות להשתמש ב-Bluetooth. באפשרותך להפעיל ולהשבית את ה-Bluetooth ולהוסיף מכשירי Bluetooth בהגדרות > Bluetooth.</string>
     <string name="disagreement_terminate_miuidaemon">אנו נשתמש בהרשאות רק כאשר תתחיל להעביר נתונים מהמכשיר שלך כאשר המסך שלו פגום. אם לא תסכים להעניק הרשאות אלה, לא תוכל להשתמש ביישום זה.</string>
     <string name="disagreement_terminate_service">אם אינך מסכים להעניק הרשאות כאלה או לשתף ולהעלות את המידע האישי שלך, לא תוכל להשתמש ביישום זה. במקרים כאלו, תוכל להסיר את ההתקנה, לצאת מהיישום או להיכנס להגדרות כדי להגביל הרשאות.</string>
     <string name="download_introduction">הורדות הוא יישום המסופק על ידי Xunlei והוא משמש עבור משתמשים במכשירי Xiaomi כדי להוריד ולנהל תוכן שהורד (כולל תוכן חנות היישומים, סרטונים, עדכוני מערכת, ערכות נושא ותוכן דפדפן).</string>
@@ -104,7 +111,7 @@
     <string name="eras_bc">לפנה\"ס</string>
     <string name="evening">לפנות ערב</string>
     <string name="fast_application_introduction">מסגרת שירות של יישומים מהירים היא מסגרת שירות בסיסית התומכת בהפצה ותפעול מהירים של יישומים.</string>
-    <string name="fast_pairing_introduction">Mi Link משתמש ביכולות Bluetooth של MIUI כדי לאפשר לך להתחבר במהירות למכשירי Bluetooth סמוכים.</string>
+    <string name="fast_pairing_introduction">Mi Link lets you quickly connect to Bluetooth devices.</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -159,12 +166,21 @@
     <string name="fmt_weekday_timezone">W z</string>
     <string name="font_hint_large">גודל ברירת מחדל של הטקסט</string>
     <string name="font_hint_normal">הגדל את גודל הטקסט</string>
-    <string name="framework_introduction">מסגרת שירותי Mi מאפשרת לך להשתמש בחשבון Mi, Mi Push, Analytics ו-MIUI BI.</string>
-    <string name="framwork_base_service">כדי לספק לך את השירותים האלה, מסגרת שירותי Mi (חשבון Mi, Mi Push, Analytics, MIUI BI) צריכה להתחבר לאינטרנט, לגשת למיקום, למספר הטלפון, ל-IMEI ול-IMSI שלך, ולאפשר למכשיר שלך לקבל הודעות בדחיפה</string>
+    <string name="font_settings_sub_title">בחירת גופן מערכת</string>
+    <string name="font_settings_title">הגדרות גופן</string>
+    <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
+    <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
+    <string name="font_use_case_text_example">גוף</string>
+    <string name="font_use_case_title_example">כותרת</string>
+    <string name="framework_introduction">Xiaomi service framework (Mi Push, Analytics, and MIUIBI) is a basic system service that provides push notifications, risk prevention, statistics, and analytics capabilities. In order to provide these services, we need to collect and process relevant and necessary personal information. When collecting and processing such information, we will comply with applicable laws, regulations, and other normative documents.</string>
+    <string name="framwork_base_service">"In order to provide push notification functionality, we need to collect device identifiers (OAID and encrypted Android ID), information about the apps that use the push service (e.g. app package name, version, and runtime status), device manufacturer, device model, device memory, operating system version, region, name of the SIM card carrier name, current network type, and the Wi-Fi status. You can change the way you receive push notifications in Settings, and we'll provide you with push notifications based on your preferences, for which we'll also collect the information about your preferences including whether you choose to block notifications or not, and whether you allow them to appear on Lock screen.
+For the purposes of risk prevention, statistics, and analytical processing, we need permission to connect to the network and access your location, device IMEI, device IMSI, device identifiers (OAID, MAC address, and encrypted Android ID), device manufacturer, device model, device memory, operating system version, region, and current network type. The above information will be collected once a day for as long as you use this device."</string>
     <string name="friday">שישי</string>
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
     <string name="game_introduction">"הרחבת 'משחקים' מאפשרת לך להיכנס, ליצור הזמנות, לבצע תשלומים, להשתמש בקופונים ולהשתתף באירועי קידום מכירות."</string>
+    <string name="get_imei_information">Access IMEI</string>
+    <string name="get_imei_information_settings">Access device unique identifier (IMEI)</string>
     <string name="google_service_introduction">To be able to work normally, Google Play needs to connect to the internet, access your location, be able to send SMS and MMS, record audio, make calls, access calendar events, call history, sensors, storage, camera, device info, and accounts.</string>
     <string name="home_settings_miui_home">קלאסי</string>
     <string name="home_settings_poco_launcher">מגירת היישומים</string>
@@ -176,37 +192,79 @@
     <string name="input_method_setting">בחר מקלדת</string>
     <string name="install_preinstall_app">טוען יישומים…</string>
     <string name="interconnection_communication_introduction">שירותי תקשורת האינטרנט של Xiaomi מאפשרים לך לגלות, להתחבר ולתקשר עם מכשירי Xiaomi אחרים.</string>
-    <string name="interconnection_service_summary">"Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. These services include Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share, and casting.
-To be able to work normally, these service need to connect to the internet and require the following permissions:
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Turn Wi-Fi on and off
-\u0009\u0009For transferring items over Wi-Fi
-\u0009\u0009Record audio
-\u0009\u0009For transferring audio playback to connected devices during casting or screen mirroring
-\u0009\u0009Access storage
-\u0009\u0009For transferring and receiving files wirelessly
-\u0009\u0009Mi Share:
-\u0009\u0009Access and save files and photos on your device
-\u0009\u0009For transferring and receiving files wirelessly
-\u0009\u0009Access location
-\u0009\u0009For transferring items to nearby devices over Wi-Fi and Bluetooth
-\u0009\u0009Turn Bluetooth on and off
-\u0009\u0009For finding devices nearby
-\u0009\u0009Turn Wi-Fi on and off
-\u0009\u0009For finding devices nearby and transferring files wirelessly
-\u0009\u0009Connect to nearby devices
-\u0009\u0009For finding devices nearby and connecting to them
-\u0009\u0009Casting:
-\u0009\u0009Turn Bluetooth on and off
-\u0009\u0009For finding devices nearby
-\u0009\u0009Turn Wi-Fi on and off
-\u0009\u0009For finding devices nearby
-\u0009\u0009Access location
-\u0009\u0009For getting the info about nearby devices
-\u0009\u0009Record audio
-\u0009\u0009For transferring audio playback to connected during casting
-If you don't agree to grant such permissions, you won't be able to use Xiaomi Interconnectivity Services.
-Features are subject to change. Some of the features above may not be available on all device models or for all system versions. Refer to the MIUI website (www.miui.com) to check compatibility."</string>
+    <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
+\u0009\u0009互传：
+\u0009\u0009读写设备上的照片及文件
+\u0009\u0009用于发送和接收传输的文件
+\u0009\u0009获取位置信息
+\u0009\u0009用于实现蓝牙/WLAN状态下的文件传输功能
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描附近可互传文件的设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描周围设备并传输文件
+\u0009\u0009连接附近的设备
+\u0009\u0009发现并连接到附近的设备
+\u0009\u0009影音互联（小米妙播、投屏）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009向其他设备传输数据
+\u0009\u0009用于在两台设备间建立蓝牙连接并交换数据
+\u0009\u0009获取设备的位置信息
+\u0009\u0009用于获取附近可投屏的设备信息
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009读取设备MAC地址
+\u0009\u0009用于互联设备的识别
+\u0009\u0009获取屏幕上的信息
+\u0009\u0009在录制或投屏时，提供此功能的服务会获取在您的屏幕上显示或从您的设备播放的任何敏感信息，包括音频、密码、付款信息、照片和消息等
+\u0009\u0009应用生态融合（应用接力、妙享桌面）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读取设备MAC地址
+\u0009\u0009用于互联设备的识别
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009向其他设备传输数据
+\u0009\u0009用于在两台设备间建立蓝牙连接并交换数据
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009获取屏幕上的信息
+\u0009\u0009在录制或投屏时，提供此功能的服务会获取在您的屏幕上显示或从您的设备播放的任何敏感信息，包括音频、密码、付款信息、照片和消息等
+\u0009\u0009文件系统（跨设备剪贴板、笔记跨设备拍照）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009读取剪切板
+\u0009\u0009允许应用读取复制的内容
+\u0009\u0009硬件协同（网络协同、键鼠协同、相机协同）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009相机
+\u0009\u0009调用相机拍摄照片和录制视频
+\u0009\u0009设备中心：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
+因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">אם המכשיר שלך ייעלם, לא תוכל למנוע מאנשים אחרים להשתמש בו ולגשת לנתונים שלך אלא אם תגדיר נעילת מסך. לדלג בכל זאת?</string>
     <string name="item_facerecognition">פתיחה עם זיהוי פנים</string>
@@ -227,6 +285,8 @@ Features are subject to change. Some of the features above may not be available 
     <string name="location_introduction_qcom">Location services use positioning for providing location-specific services. When location services are used by your device, QCC module will connect to the network to speed up the positioning process.</string>
     <string name="location_location">ארגוני חילוץ בשעת חירום יכולים לקבל את פרטי המיקום הנוכחי שלך לפי בקשה</string>
     <string name="lockscreen_introduction">טפט קרוסלה מאפשר לך לקבל בכל יום תמונות מרעננות למסך הנעילה.</string>
+    <string name="media_storage_devices">התקני אחסון מדיה</string>
+    <string name="media_storage_introduction">השירות הזה מאפשר ליישומים לקבל גישה ולשמור תמונות, סרטונים, שמע וקבצים.</string>
     <string name="message_introduction">תוכל להשתמש ביישום זה כדי לשלוח ולקבל הודעות SMS.</string>
     <string name="mi_account_introduction">חשבון Mi מאפשר לך להירשם, להיכנס ולנהל חשבונות מערכת.</string>
     <string name="midnight">לילה</string>
@@ -235,16 +295,17 @@ Features are subject to change. Some of the features above may not be available 
     <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
     <string name="miui_privacy_policy_no_network">"אין ברשותך חיבור לאינטרנט. הצג את 'מדיניות הפרטיות' ב-%s."</string>
     <string name="miui_provision">הגדרה ראשונית</string>
+    <string name="miui_settings">Settings</string>
     <string name="miui_terms_no_network">"מכשירך אינו מחובר לאינטרנט. ניתן לצפות ב'תנאי השירות' ב-%s."</string>
     <string name="miuix_access_state_desc">נבחר</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
+    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
@@ -319,17 +380,22 @@ Features are subject to change. Some of the features above may not be available 
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
     <string name="note_introduction">יישום זה מאפשר ליצור, להציג ולערוך פתקים.</string>
+    <string name="official_website_real">hyperos.mi.com</string>
     <string name="other_settings">הגדרות בסיסיות</string>
     <string name="other_settings_ad_dialog_agree">הפעל</string>
     <string name="other_settings_ad_dialog_content">כשהמאפיין של המלצות לפרסומות מותאמות אישית מושבת, עדיין תראה את אותו מספר הפרסומות, כמו כשהמאפיין הזה פעיל. עם זאת, הפרסומות שיופיעו לא יהיו רלוונטיות בשבילך, שכן הן לא יהיו מבוססות על ההעדפות האישיות שלך.</string>
-    <string name="other_settings_ad_dialog_content_for_global">כאשר המאפיין של המלצות מותאמות אישית עבור פרסומות מושבת עדיין יוצג ביישומי המערכת של MIUI אותו מספר הפרסומות, כמו כאשר מאפיין הזה פעיל. אבל הפרסומות מ-Xiaomi ומפלטפורמות צד שלישי לא יהיו עוד רלוונטיות עבורך, שכן הן לא יהיו מבוססות על ההעדפות האישיות שלך.</string>
+    <string name="other_settings_ad_dialog_content_for_global">כאשר המאפיין של המלצות מותאמות אישית עבור פרסומות מושבת, עדיין יוצג ביישומי המערכת אותו מספר הפרסומות, כמו כשהמאפיין הזה פעיל. עם זאת, הפרסומות מ-Xiaomi ומפלטפורמות חיצוניות לא יהיו יותר רלוונטיות עבורכם, שכן הן לא יהיו מבוססות על ההעדפות האישיות שלכם.</string>
     <string name="other_settings_ad_dialog_disagree">השבת</string>
     <string name="other_settings_ad_disable_summary">הפעל להתאמה אישית של פרסומות</string>
-    <string name="other_settings_ad_enable">פרסומות מותאמות אישית</string>
+    <string name="other_settings_ad_enable">התאמה אישית של מודעות</string>
     <string name="other_settings_ad_enable_summary">התאם את הפרסומות לתחומי העניין שלך</string>
+    <string name="other_settings_alarm_assistance">מיקום במצב חירום</string>
+    <string name="other_settings_alarm_assistance_privacy">מדיניות הפרטיות</string>
+    <string name="other_settings_alarm_assistance_summary">באפשרותך לשלוח את פרטי המיקום שלך למשטרה באמצעות SMS או נתונים ניידים באופן אוטומטי בזמן התקשרות למספר 110, 120, 119 או 122. קרא והסכם ל&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו לפני השימוש בתכונה זו.</string>
+    <string name="other_settings_alarm_assistance_user">הסכם משתמש</string>
     <string name="other_settings_auto_update">עדכון מערכת אוטוטמי</string>
-    <string name="other_settings_auto_update_summary">MIUI יבחר את הזמן הטוב ביותר עבור הורדה והתקנה של עדכונים. המכשיר יאותחל באופן אוטומטי בכדי להחיל שינויים.</string>
-    <string name="other_settings_auto_update_summary_v1">אפשר ל-MIUI לבחור את הזמן הטוב ביותר להורדה והתקנה של עדכונים. המכשיר יופעל מחדש באופן אוטומטי כדי להחיל שינויים.</string>
+    <string name="other_settings_auto_update_summary">המערכת תבחר את הזמן הטוב ביותר להורדה והתקנה של עדכונים. המכשיר שלך יאותחל באופן אוטומטי כדי להחיל שינויים.</string>
+    <string name="other_settings_auto_update_summary_v1">אפשר למערכת לבחור את הזמן הטוב ביותר להורדה והתקנה של עדכונים. המכשיר שלך יאותחל באופן אוטומטי כדי להחיל שינויים.</string>
     <string name="other_settings_enhanced_lockscreen">טפט קרוסלה</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Glance ל-Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">מדיניות הפרטיות</string>
@@ -340,23 +406,25 @@ Features are subject to change. Some of the features above may not be available 
 תוכל לבטל עדכונים אוטומטיים ב-GetApps > הגדרות > עדכונים אוטומטיים."</string>
     <string name="other_settings_location">מיקום</string>
     <string name="other_settings_location_summary">לאפשר ליישומים ולאתרי אינטרנט גישה לפרטי המיקום שלך על מנת לספק שירותים מבוססי מיקום</string>
-    <string name="other_settings_quality_service">הרשאות MIUI Daemon</string>
-    <string name="other_settings_quality_service_summary">MIUI Daemon משמש לשיפור יציבות וביצועי המערכת. כדי להיות מסוגל לפעול כרגיל, שירות זה זקוק להרשאות כדי לגשת ולשמור פריטים באחסון המכשיר.</string>
-    <string name="other_settings_upload_debug_log_detail">"עזור לשפר את חוויית מכשיר ה-MIUI שלך על ידי שליחה אוטומטית של נתוני אבחון, מכשיר ויישומים ל-Xiaomi. פעולה זו תסייע לשפר את חיי הסוללה, את יציבות המערכת של MIUI, את היציבות של יישומים, ועוד.
-הנתונים שתשלח יכילו מידע כללי על המכשיר שלך ועל אופן השימוש שלך בו (למשל רמת הטעינה של הסוללה, פעילויות מערכת ויישומים, וכן פרטי שגיאות). הנתונים ישמשו לצורך שיפור מכשירי MIUI.
- כיבוי תכונה זו אינו משפיע על יכולת המכשיר שלך לשלוח את המידע הדרוש עבור שירותים חיוניים כגון עדכוני מערכת ואבטחה.
-כדי לשלוט בתכונה זו, חפש \"שימוש ואבחונים\" בהגדרות."</string>
-    <string name="other_settings_upload_debug_log_summary">עזור לשפר את חווית השימוש במכשיר ה-MIUI שלך על ידי שליחה אוטומטית של נתוני אבחון, מכשיר ויישומים ל-Xiaomi. זה יעזור לשפר את חיי הסוללה, את יציבות המערכת של MIUI, את היציבות של יישומים, ועוד.</string>
+    <string name="other_settings_quality_service">הרשאות Daemon המערכת</string>
+    <string name="other_settings_quality_service_summary">Daemon המערכת משמש לשיפור יציבות וביצועי המערכת. כדי לפעול כרגיל, שירות זה זקוק להרשאות לקבלת גישה לאחסון המכשיר ושמירת תוכן באחסון המכשיר.</string>
+    <string name="other_settings_upload_debug_log_detail">"עזרו לשפר את חוויית השימוש שלכם במכשיר על-ידי שליחה אוטומטית של נתוני אבחון, נתוני המכשיר ונתוני השימוש ביישומים ל-Xiaomi. זה יעזור לשפר את חיי הסוללה, יציבות המערכת והיישומים ועוד.
+הנתונים שיישלחו יכילו מידע כללי על המכשיר שלכם ואופן השימוש בו (למשל, רמת הסוללה, פעילות המערכת והיישומים ושגיאות). הנתונים ישמשו לשיפור המכשירים של Xiaomi.
+השבתת מאפיין זה לא תשפיע על יכולת המכשיר שלכם לשלוח את המידע הנדרש עבור שירותים חיוניים כמו עדכוני מערכת ואבטחה.
+ניתן לשלוט במאפיין זה תחת הגדרות > סיסמאות ואבטחה > פרטיות > שימוש ואבחון."</string>
+    <string name="other_settings_upload_debug_log_summary">עזרו לשפר את חוויית השימוש שלכם על-ידי שליחה אוטומטית של נתוני אבחון, נתוני המכשיר ונתוני השימוש ביישומים ל-Xiaomi. זה יעזור לשפר את חיי הסוללה, את יציבות המערכת והיישומים, ועוד.</string>
     <string name="other_settings_upload_debug_log_title">שלח נתוני שימוש ואבחון</string>
     <string name="other_settings_user_experience">תכנית חווית המשתמש</string>
     <string name="other_settings_user_experience_summary">עזור לנו לשפר את המוצרים והשירותים שלנו על-ידי שיתוף נתוני השימוש וניתוח הנתונים שלך איתנו.</string>
     <string name="other_settings_user_experience_summary_index">הצג פרטים</string>
-    <string name="permission_MIUIDaemon_introduction">MIUI Daemon מאפשר לך להעביר מידע מהמכשיר שלך כשהמסך שלו ניזוק.</string>
+    <string name="permission_MIUIDaemon_introduction">System Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_access_calendar">גישה ללוח השנה</string>
     <string name="permission_access_calendar_fast_application_summary">כדי לאשר ליישומים מהירים לגשת ללוח השנה;</string>
     <string name="permission_account">גישה לחשבונות במכשירך</string>
     <string name="permission_account_introduction">להיכנס באמצעות חשבון Mi</string>
     <string name="permission_application_package_introduction">כדי לגשת לאחסון במטרה לנתח ולסרוק חבילות התקנה</string>
+    <string name="permission_authority_describe">读取应用列表</string>
+    <string name="permission_authority_describe_applist_summary">用于管理应用权限。</string>
     <string name="permission_backup">גישה לאחסון</string>
     <string name="permission_backup_introduction">כדי לגשת ולשמור גיבויים על מכשירך</string>
     <string name="permission_call_records">לגשת ליומן השיחות</string>
@@ -383,6 +451,8 @@ Features are subject to change. Some of the features above may not be available 
     <string name="permission_download_introduction">כדי לאחסן במטמון פריטים שהורדו ולשמור אותם במכשיר</string>
     <string name="permission_enable_disable_bluetooth_summary">לאיתור מכשירים בסביבה הקרובה כדי לאסוף ולהעביר נתונים</string>
     <string name="permission_fast_pairing">כדי ש-Mi Link יוכל למצוא מכשירים בקרבת מקום, עליו להתחבר לאינטרנט ולקבל את ההרשאות הבאות:</string>
+    <string name="permission_get_imei_information_summary">For identifying device activation time</string>
+    <string name="permission_get_imei_information_summary_settings">For displaying device info and specs</string>
     <string name="permission_imei_service">כדי לגשת ל-IMEI לצורך אספקת שירותים הקשורים למכשירך</string>
     <string name="permission_interaction_introduction">כדי לשמור תמונות ווידאו במכשיר</string>
     <string name="permission_location">לגשת למידע המיקום:</string>
@@ -397,7 +467,10 @@ Features are subject to change. Some of the features above may not be available 
     <string name="permission_login_introduction">כדי להיכנס ולנהל חשבונות מערכת</string>
     <string name="permission_make_a_call">ביצוע שיחות</string>
     <string name="permission_make_a_call_fast_application_summary">כדי לאשר ליישומים מהירים לבצע שיחות;</string>
+    <string name="permission_media_storage_summary">כדי לבדוק איך יישומים משתמשים בהרשאות הקשורות לפרטיות בזמן קבלת גישה לקבצים</string>
     <string name="permission_message_introduction">כדי לשלוח הודעות לאנשי קשר שנחסמו</string>
+    <string name="permission_number">读取本机号码</string>
+    <string name="permission_number_introduction">用于支持连接系统蓝牙并实现车载或蓝牙耳机通话；</string>
     <string name="permission_phone_imei_device">כדי לגשת ל-IMEI לצורך זיהוי מכשירים</string>
     <string name="permission_phone_network">כדי לגשת לסוג הרשת במטרה לייעל ולהתאים פריטים שניתנים להורדה</string>
     <string name="permission_phone_service">לגשת למספר הטלפון, IMEI ו-IMSI</string>
@@ -405,6 +478,8 @@ Features are subject to change. Some of the features above may not be available 
     <string name="permission_photo_video">לצלם תמונות ולהקליט וידאו:</string>
     <string name="permission_photo_video_introduction">כדי לצלם תמונות, להקליט סרטונים ולהשתמש במבזק</string>
     <string name="permission_picture_introduction">כדי לשמור, לערוך ולסנכרן תמונות ווידאו</string>
+    <string name="permission_qualcomm_describe_summary">用于针对不同类型应用动态调整系统参数，完成系统组件及应用的进程调度。</string>
+    <string name="permission_quality_describe_summary">用于收集应用崩溃信息。</string>
     <string name="permission_read_app_list">גישה לרשימת היישומים המותקנים במכשיר זה</string>
     <string name="permission_read_application_list_summary">כדי לעדכן יישומים שהורדו ולאשר מידע יישום המשמש את מתקין החבילות;</string>
     <string name="permission_read_call_records">לערוך היסטוריית שיחות</string>
@@ -456,6 +531,7 @@ Features are subject to change. Some of the features above may not be available 
     <string name="permission_write_device_store">שמירת פריטים באחסון המכשיר</string>
     <string name="permission_write_device_store_summary">כדי לשמור במטמון קובצי תצורת מקור שהורדו.</string>
     <string name="permission_xunlei_introduction">לצורך כניסה וניהול חשבונות מערכת על מנת לספק שירותי Xunlei</string>
+    <string name="phone_service_introduction">电话服务是一项基础通讯服务，为通话、短信、上网等功能提供底层通讯能力支撑。</string>
     <string name="pm">PM</string>
     <string name="poco_agree_terms_other">(מדיניות האבטחה והסכם המשתמש כוללים את השימוש ב POCO LAUNCHER)</string>
     <string name="poco_launcher_privacy_policy">מדיניות פרטיות של משגר היישומים POCO</string>
@@ -478,10 +554,17 @@ Features are subject to change. Some of the features above may not be available 
     <string name="provision_inputmethod_policy_description1">מדיניות הפרטיות</string>
     <string name="provision_next">הבא</string>
     <string name="provision_skip_underline">דלג</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier提供系统进程调度服务。</string>
+    <string name="recommend_font">MiSans</string>
+    <string name="recommended_font_mark">מומלצים</string>
     <string name="recorder_introduction">תוכל להשתמש ביישום כדי להקליט שמע ולגבות הקלטות לענן.</string>
     <string name="refuse_cookie">סרב לקוקיות</string>
     <string name="require_authority_list_statement">כדי שהשירות יוכל לפעול כרגיל, יש להעניק לו את ההרשאות הבאות:</string>
     <string name="require_authority_statement">כדי לאפשר לנו לספק לך שירותים בסיסיים, עליך להעניק את ההרשאות הבאות על מנת שנוכל לאסוף את המידע האישי שלך:</string>
+    <string name="require_base_authority_statement">"为实现基本服务，需要调用您的如下权限：
+\u0009\u0009\u0009读取本机号码、IMEI及IMSI"</string>
+    <string name="require_basic_applist_and_authority_statement">为实现基本功能，需要调用您的如下权限：</string>
+    <string name="require_device_information_statement">To be able to provide basic services, the following permissions are required:</string>
     <string name="require_miuidaemon_authority_statement">על מנת לאפשר לנו לספק לך את השירות הזה, עליך להעניק לנו את ההרשאות הבאות כדי שנוכל לאסוף את הפרטים האישיים שלך:</string>
     <string name="require_network_and_authority_statement">כדי ששירות זה יוכל לפעול כרגיל, עליו להתחבר לאינטרנט ולקבל את ההרשאות הבאות:</string>
     <string name="require_network_authority_statement">כדי ששירות זה יוכל לפעול כרגיל, עליו להתחבר לאינטרנט ולקבל את ההרשאות הבאות:</string>
@@ -492,6 +575,7 @@ Features are subject to change. Some of the features above may not be available 
     <string name="screen_recording_introduction">יישום זה מאפשר להקליט את מה שקורה על המסך שלך.</string>
     <string name="security_introduction">ניתן להשתמש באפליקציה זו כדי לנקות קובצי זבל, לאתר ולנטרל וירוסים, למטב את ביצועי המכשיר עבור משחקים, להאריך את חיי הסוללה, לנהל אפליקציות, הרשאות ועוד.</string>
     <string name="security_mobile_account_introduction">כדי להיכנס ולנהל חשבונות מערכת</string>
+    <string name="select_font_modele_tips">תמיד ניתן לבחור גופן חדש בערכות נושא</string>
     <string name="send">שליחה</string>
     <string name="service_agreement">קראתי ואני מסכים לתנאי השימוש.</string>
     <string name="service_company_adjust_content">הסכם משתמש של שירותי הרשת של Xunlei</string>
@@ -499,10 +583,11 @@ Features are subject to change. Some of the features above may not be available 
     <string name="service_interconnection_communication">שירותי תקשורת האינטרנט של Xiaomi</string>
     <string name="service_location_share_policy">&lt;Data>קרא והסכם ל&lt;a href=%1$s>הצהרת הפרטיות של שירותי המיקום&lt;/a > לפני שתמשיך.&lt;/Data></string>
     <string name="service_mi_account">חשבון Mi</string>
-    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
+    <string name="service_name_MIUIDaemon">System Daemon</string>
     <string name="service_name_address_dialing">אנשי קשר וטלפון</string>
     <string name="service_name_album">גלריה</string>
     <string name="service_name_application_package">מתקין החבילות</string>
+    <string name="service_name_authority">权限管理服务</string>
     <string name="service_name_backup">גיבויים</string>
     <string name="service_name_bluetooth">"בלוטות'"</string>
     <string name="service_name_calculator">מחשבון</string>
@@ -521,6 +606,8 @@ Features are subject to change. Some of the features above may not be available 
     <string name="service_name_lockscreen">טפט קרוסלה</string>
     <string name="service_name_message">שליחת הודעות</string>
     <string name="service_name_note">פתקים</string>
+    <string name="service_name_phone_service">电话服务</string>
+    <string name="service_name_qualcomm">com.qualcomm.qti.workloadclassifier</string>
     <string name="service_name_recorder">רשמקול</string>
     <string name="service_name_screen_recording">מקליט המסך</string>
     <string name="service_name_security">אבטחה</string>
@@ -535,7 +622,7 @@ Features are subject to change. Some of the features above may not be available 
     <string name="servicestate_title">הצהרה אודות שירותים בסיסיים</string>
     <string name="setting_locale">מגדיר אזור…</string>
     <string name="shut_down">כיבוי</string>
-    <string name="sim_activation_introduction">"שירות הפעלת כרטיס SIM מאמת את המידע של כרטיס ה-SIM המוכנס כעת כדי לוודא ששירותי MIUI יכולים לפעול כרגיל. שירותים אלה כוללים את 'איתור המכשיר', 'הודעת Mi', יצירת חשבונות Mi באמצעות מספרי טלפון וסנכרון הודעות ויומן שיחות."</string>
+    <string name="sim_activation_introduction">The SIM card activation service verifies the information of the currently inserted SIM card to make sure that system services can work normally. These services include Find device, Mi Message, creating Xiaomi Accounts using phone numbers, and syncing messages and call history.</string>
     <string name="sim_card_detecting">מחפש כרטיס SIM…</string>
     <string name="sim_card_detecting_check">לא ניתן היה למצוא את כרטיס ה-SIM. ודא כי כרטיס ה-SIM מותקן כראוי וכי יתרתך מספקת.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">לאפשר חיבור לרשתות נתונים סלולריות? במידה ותאפשר, כרטיס ה-SIM שתכניס ישמש לחיבור לרשתות נתונים סלולריות.</string>
@@ -562,6 +649,8 @@ Features are subject to change. Some of the features above may not be available 
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
     <string name="system_navigation_mode">מצב ניווט המערכת</string>
+    <string name="system_update_statement">In order to perform a system update, we need to collect the device IMEI, device IMSI, device identifiers (OAID and encrypted Android ID), Xiaomi Account, device manufacturer, device model, network operator, device memory, operating system version, region, language, connectivity, network type, and IP address.</string>
+    <string name="system_update_title">System updates</string>
     <string name="systemdesktop_introduction">הרחבת השירות של מסך הבית מספקת לך תכונות בסיסיות כגון מסך הבית, ממשק המשתמש של המערכת וצילומי מסך.</string>
     <string name="term_condition_detail">"קבל תמונות מהממות וסיפורים מלהיבים למסך הנעילה שלך על בסיס יומיומי. המאפיין הזה לא ישתמש בנתונים שלך לצורך התאמה אישית ללא הסכמתך. עליך לקרוא את &lt;a href =%1$s>מדיניות הפרטיות&lt;/a> ואת &lt;a href =%2$s>הסכם המשתמש&lt;/a> של ספק התוכן צד ג' ולהסכים אתם כדי להשתמש במאפיין זה."</string>
     <string name="terms_of_label_period">". "</string>
@@ -577,9 +666,9 @@ Features are subject to change. Some of the features above may not be available 
     <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
     <string name="terms_of_use_label_communication_service">שירותי תקשורת האינטרנט של Xiaomi</string>
     <string name="terms_of_use_label_config_updater">ConfigUpdater</string>
-    <string name="terms_of_use_label_finddevice">Find device</string>
+    <string name="terms_of_use_label_finddevice">איתור המכשיר</string>
     <string name="terms_of_use_label_game">משחקים</string>
-    <string name="terms_of_use_label_home">Home screen</string>
+    <string name="terms_of_use_label_home">מסך הבית</string>
     <string name="terms_of_use_label_htmlViewer">מציג HTML</string>
     <string name="terms_of_use_label_htmlviewer">HTML Viewer</string>
     <string name="terms_of_use_label_info_assistant">Mi Link</string>
@@ -587,25 +676,27 @@ Features are subject to change. Some of the features above may not be available 
     <string name="terms_of_use_label_landscape">תצוגה לרוחב</string>
     <string name="terms_of_use_label_mab">MAB</string>
     <string name="terms_of_use_label_mi_account">חשבון Mi</string>
-    <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
-    <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
+    <string name="terms_of_use_label_miuiDaemon">System Daemon</string>
+    <string name="terms_of_use_label_miuisdk">System SDK</string>
     <string name="terms_of_use_label_os">הגדרת OS AI</string>
     <string name="terms_of_use_label_package">מתקין החבילות</string>
     <string name="terms_of_use_label_parallel_windows">חלונות מקבילים</string>
     <string name="terms_of_use_label_phrase">ביטויים שכיחים</string>
     <string name="terms_of_use_label_power_detection">גלאי כוח</string>
-    <string name="terms_of_use_label_power_performance">Battery and performance</string>
+    <string name="terms_of_use_label_power_performance">סוללה וביצועים</string>
     <string name="terms_of_use_label_quickapp">יישומים מהירים</string>
+    <string name="terms_of_use_label_remote_provisioner">RemoteProvisioner</string>
     <string name="terms_of_use_label_secure">יישום רכיב מאובטח</string>
     <string name="terms_of_use_label_simcard">שירותי הפעלת SIM</string>
     <string name="terms_of_use_label_smart_service">שירותים חכמים</string>
     <string name="terms_of_use_label_statistics">סטטיסטיקות</string>
+    <string name="terms_of_use_label_system_quality_monitoring">系统质量监测</string>
     <string name="terms_of_use_label_systemhelper">שירות רישום עצמי</string>
     <string name="terms_of_use_label_translation">שירות תרגום</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">שירות עדכון מערכת (בודק אם יש עדכונים מקוונים ומודיע על גרסאות חדשות)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">לפני השימוש ב-MIUI, עליך לקרוא ולהסכים להסכם המשתמש ולמדיניות הפרטיות שלנו. אנו נגן על המידע האישי שלך בהתאם לחוקים, לתקנות ולמדיניות הפרטיות המתאימים. כאשר המכשיר מופעל, השירותים הבאים יתחברו לרשת וייגשו למיקום שלך:</string>
-    <string name="terms_of_use_label_use_network_china">לפני השימוש ב-MIUI, עליך לקרוא ולהסכים להסכם המשתמש ולמדיניות הפרטיות שלנו. אנו נגן על המידע האישי שלך בהתאם לחוקים, לתקנות ולמדיניות הפרטיות המתאימים. כאשר המכשיר מופעל, השירותים הבאים יתחברו לרשת:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">לפני שימוש במערכת, עליכם לקרוא את הסכם המשתמש ומדיניות הפרטיות שלנו ולהסכים אתם. אנו נגן על המידע האישי שלכם על-פי החוקים, התקנות ונהלי הפרטיות הרלוונטיים. כאשר המכשיר מופעל, השירותים הבאים יתחברו לרשת ויקבלו גישה למיקום שלכם:</string>
+    <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">טפט</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
@@ -676,10 +767,6 @@ Features are subject to change. Some of the features above may not be available 
     <string name="tuesday_short">"ג'"</string>
     <string name="tuesday_shortest">"ג'"</string>
     <string name="user_agreement">הסכם משתמש</string>
-    <string name="voice_assist_advice">MI AI מאפשר לך להשתמש בפקודות קוליות, אבל שימוש באפשרות זו תגרור צריכה מוגברת של בטריה (+1% בכל שעה).</string>
-    <string name="voice_assist_condition">"תוכל להשתמש ב Mi AI במקרים הבאים:r
-. כאשר המסך פועל. r
- כאשר אתה מאזין למוזיקה והמסך כבוי."</string>
     <string name="voice_assist_desp">אמור \"Mi AI\" אל תוך מיקרופון הטלפון שלך. Mi AI יזהה את הקול שלך ויוכל לשלוט על המכשיר.</string>
     <string name="voice_assist_title">הער באמצעות קול</string>
     <string name="wc_dialog_agree">מסכים</string>

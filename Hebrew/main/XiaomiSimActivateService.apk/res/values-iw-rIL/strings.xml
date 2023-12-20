@@ -9,9 +9,9 @@
     <string name="activate_feature_mi_roaming">נדידת Mi</string>
     <string name="activate_feature_mms_sync">סנכרון הודעות</string>
     <string name="activate_feature_mx">הודעות Mi</string>
-    <string name="activate_feature_register_xiaomi_account">התקנת חשבון Mi</string>
+    <string name="activate_feature_register_xiaomi_account">הגדרת חשבון Xiaomi</string>
     <string name="activate_feature_remote_assist">סיוע מרחוק</string>
-    <string name="activate_feature_verify_mx_token">אימות חשבון Mi</string>
+    <string name="activate_feature_verify_mx_token">אימות חשבון Xiaomi</string>
     <string name="activate_feature_voip">הודעות Mi ב-VoIP</string>
     <string name="activate_history_canceled_overview">הפעלת כרטיס ה-SIM בוטלה. ההפעלה מבוצעת על ידי \"%1$s\".</string>
     <string name="activate_history_multisim_canceled_overview">הפעלת כרטיס ה-SIM %2$d בוטלה. ההפעלה מבוצעת על ידי \"%1$s\".</string>
@@ -20,8 +20,8 @@
     <string name="activate_history_success_overview">כרטיס ה-SIM הופעל בהצלחה. ההפעלה מבוצעת על ידי \"%1$s\".</string>
     <string name="activate_history_title">הפעלת כרטיס SIM</string>
     <string name="activate_phone_failed_notif_title_sim">לא ניתן היה להפעיל את \"%2$s\" באמצעות SIM %1$d</string>
-    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">חשבון Mi נוצר בהצלחה באמצעות SIM %d</string>
-    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">לא ניתן היה ליצור חשבון Mi באמצעות SIM %d</string>
+    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">חשבון Xiaomi נוצר בהצלחה באמצעות SIM %d</string>
+    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">לא ניתן היה ליצור חשבון Xiaomi באמצעות SIM %d</string>
     <string name="activate_phone_server_failed_notif_title">לא ניתן היה להפעיל את \"%s\"</string>
     <string name="activate_phone_server_success_notif_title">\"%s\" הופעל בהצלחה</string>
     <string name="activate_phone_success_notif_title_sim">\"%2$s\" הופעל בהצלחה באמצעות SIM %1$d</string>
@@ -33,8 +33,8 @@
     <string name="activate_popup_confirm_failed_receive_sms">נסה שוב</string>
     <string name="activate_popup_confirm_failed_send_sms">שלח שוב</string>
     <string name="activate_popup_confirm_failed_server">נסה שוב</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">כדי להפעיל את \"%2$s\", תישלח &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>הודעת SMS בינלאומית בתשלום&lt;/b>. הספק שלך יחייב אותך עבור הודעות אלו.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">כדי להפעיל את \"%2$s\", יישלחו &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>הודעות SMS מקומיות בתשלום&lt;/b>. הספק שלך יחייב אותך עבור הודעות אלו.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">כדי להפעיל את \"%2$s\", יש לשלוח &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>הודעת SMS בינלאומית בתשלום&lt;/font>. הספק שלך יחייב אותך עבור הודעות אלה.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">כדי להפעיל את \"%2$s\", יישלחו &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>הודעות SMS מקומיות בתשלום&lt;/font>. הספק שלך יחייב אותך עבור הודעות אלו.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"לא ניתן היה למצוא את מספר הטלפון שלך. ודא כי כרטיס ה-SIM שלך הופעל.
 הזן את מספר הטלפון המקושר לכרטיס ה-SIM החדש שלך כדי להפעיל מחדש את %s."</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"לא ניתן היה לשלוח הודעת הפעלה. ודא שכרטיס ה-SIM שלך הופעל.
@@ -47,21 +47,22 @@
     <string name="activate_popup_desc_failed_receive_sms">ודא כי מספר הטלפון שהזנת נכון וכי כרטיס ה-SIM שלך הופעל.</string>
     <string name="activate_popup_desc_failed_server">בדוק את חיבור הרשת שלך ונסה שוב.</string>
     <string name="activate_popup_desc_failed_server_msg">אירעה שגיאת שרת. בדוק את הגדרות הרשת ונסה שוב.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg">%1$s. כדי להפעיל את \"%3$s\", הזן את מספר הטלפון של SIM %2$d. אם תחליף את כרטיס ה-SIM, יישלח SMS הפעלה נוסף.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. כדי להפעיל את \"%2$s\", הזן את מספר הטלפון שלך. אם תחליף את כרטיס ה-SIM, יישלח SMS הפעלה נוסף.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">כדי להפעיל את \"%2$s\", תישלח &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>הודעת SMS בינלאומית בתשלום&lt;/b>. הספק שלך יחייב אותך עבור הודעה זו.</string>
-    <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data>עיין ב&lt;a href=https://account.xiaomi.com/helpcenter/faq>מדריך למשתמש בחשבון Mi&lt;/a> אם יש לך שאלות כלשהן.&lt;/Data></string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">כדי להפעיל את \"%3$s\", יישלחו &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>הודעת SMS מקומית בתשלום&lt;/b> ו-&lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>הודעת SMS בינלאומית בתשלום&lt;/b>. הספק שלך יחייב אותך עבור הודעות אלו.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg">%1$s להפעלת \"%3$s\" יש להזין את מספר הטלפון של ה-SIM %2$d. לאחר החלפת כרטיס SIM זה יישלח מסרון הפעלה נוסף.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s להפעלת \"%2$s\" יש להזין את מספר הטלפון שלך. לאחר החלפת כרטיס SIM זה יישלח מסרון הפעלה נוסף.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">כדי להפעיל את \"%2$s\", יש לשלוח &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>הודעת SMS בינלאומית בתשלום&lt;/font>. הספק שלך יחייב אותך עבור הודעה זו.</string>
+    <string name="activate_popup_desc_mi_account_user_manual">"%1$s
+&lt;Data>ראה/י &lt;a href=https://account.xiaomi.com/helpcenter/faq>מדריך למשתמש בחשבון Xiaomi &lt;/a> אם יש לך שאלות.&lt;/Data>"</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">כדי להפעיל את \"%3$s\", יישלחו &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>הודעת SMS מקומית בתשלום&lt;/font> ו-&lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>הודעת SMS בינלאומית בתשלום&lt;/font>. הספק שלך יחייב אותך עבור הודעות אלו.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">הזן את מספר הטלפון של SIM %1$d כדי להפעיל את \"%2$s\".</string>
     <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">כדי להפעיל את %s, הזן את מספר הטלפון שלך.</string>
     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">כדי להפעיל את \"%2$s\", תישלח &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>הודעת SMS בתשלום&lt;/font>. הספק שלך יחייב אותך עבור הודעה זו.</string>
-    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. כדי להפעיל את \"%3$s\", הזן את מספר הטלפון של SIM %2$d. תמיכה טכנית ניתנת בחלקה על ידי Weihuitel. לפרטים, עיין במדיניות הפרטיות של Weihuitel.</string>
-    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. כדי להפעיל את \"%2$s\", הזן את מספר הטלפון שלך. תמיכה טכנית ניתנת בחלקה על ידי Weihuitel. לפרטים נוספים, עיין במדיניות הפרטיות של Weihuitel.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s להפעלת \"%3$s\" יש להזין את מספר הטלפון של ה-SIM %2$d. תמיכה טכנית ניתנת, בין היתר, על-ידי Weihuitel. לפרטים ראה/י את מדיניות הפרטיות של Weihuitel.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s להפעלת \"%2$s\" יש להזין את מספר הטלפון שלך. תמיכה טכנית ניתנת, בין היתר, על-ידי Weihuitel. לפרטים ראה/י את מדיניות הפרטיות של Weihuitel.</string>
     <string name="activate_popup_failed_send_sms_desc">לא ניתן היה לשלוח SMS להפעלה. ודא ש-SIM %d פועל כראוי ונסה שוב.</string>
     <string name="activate_popup_failed_send_sms_desc_one_sim">לא ניתן היה לשלוח SMS להפעלה. ודא שכרטיס ה-SIM פועל כראוי ונסה שוב.</string>
     <string name="activate_progress_status_title">מפעיל את \"%s\"…</string>
-    <string name="activate_registered_xiaomi_account_failed_notif_title">לא ניתן היה ליצור חשבון Mi</string>
-    <string name="activate_registered_xiaomi_account_success_notif_title">חשבון Mi נוצר בהצלחה</string>
+    <string name="activate_registered_xiaomi_account_failed_notif_title">לא ניתן היה ליצור חשבון Xiaomi</string>
+    <string name="activate_registered_xiaomi_account_success_notif_title">חשבון Xiaomi נוצר בהצלחה</string>
     <string name="activate_status_desc_acquire_phone_number">מאמת את מספר הטלפון…</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">לא ניתן היה לאמת את מספר הטלפון. ודא ש-SIM %d עובד כראוי ונסה שוב.</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">לא ניתן היה לאמת את מספר הטלפון. ודא שכרטיס ה-SIM פועל כראוי ונסה שוב.</string>
@@ -75,8 +76,8 @@
     <string name="activate_status_desc_sending_sms">שולח מסרון הפעלה…</string>
     <string name="activate_status_desc_wait_for_sms">ממתין לקבלת מסרון הפעלה מהשרת…</string>
     <string name="activate_status_title_activating_sim">מפעיל את \"%2$s\" באמצעות SIM %1$d…</string>
-    <string name="activate_status_title_registering_xiaomi_account">יוצר חשבון Mi…</string>
-    <string name="activate_status_title_registering_xiaomi_account_sim">יוצר חשבון Mi באמצעות SIM %d…</string>
+    <string name="activate_status_title_registering_xiaomi_account">יוצר חשבון Xiaomi…</string>
+    <string name="activate_status_title_registering_xiaomi_account_sim">יוצר חשבון Xiaomi באמצעות SIM %d…</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="am">AM</string>
     <string name="app_name">שירות הפעלת ה-SIM של Xiaomi</string>
@@ -99,7 +100,7 @@
     <string name="error_sim_not_in_service_tip">SIM %d אינו יכול להתחבר לרשת. ודא שכרטיס ה-SIM פועל כראוי ונסה שוב.</string>
     <string name="error_sim_not_in_service_tip_one_sim">לא ניתן היה להתחבר לרשת. ודא שכרטיס ה-SIM פועל כראוי ונסה שוב.</string>
     <string name="evening">לפנות ערב</string>
-    <string name="explain_activate_register_xiaomi_account_title">צור חשבון Mi</string>
+    <string name="explain_activate_register_xiaomi_account_title">יצירת חשבון Xiaomi</string>
     <string name="explain_activate_send_sms_permission_msg">כדי להפעיל את %s, המכשיר שלך זקוק להרשאות כדי לשלוח SMS להפעלה. הספק שלך יחייב אותך בגין הודעה זו.</string>
     <string name="explain_send_sms_permission_button">אמת</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -159,14 +160,14 @@
     <string name="friday_shortest">"ו'"</string>
     <string name="midnight">לילה</string>
     <string name="miuix_access_state_desc">נבחר</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
+    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
@@ -237,7 +238,7 @@
     <string name="sim_activated_failed_msg">לא ניתן היה להפעיל את השירות. הקש כדי לנסות שוב.</string>
     <string name="sim_unactivated_feature_title">\"%s\" לא הופעל</string>
     <string name="sim_unactivated_msg">שירות זה אינו מופעל. הקש כדי לנסות שוב.</string>
-    <string name="sim_unactivated_register_xiaomi_account_feature_title">חשבון Mi לא נוצר</string>
+    <string name="sim_unactivated_register_xiaomi_account_feature_title">חשבון Xiaomi לא נוצר</string>
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>

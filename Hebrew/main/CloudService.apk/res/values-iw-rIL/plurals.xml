@@ -7,10 +7,10 @@
         <item quantity="many">לפני שעה אחת</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">לפני שעה אחת</item>
-        <item quantity="one">לפני שעה אחת</item>
-        <item quantity="two">לפני שעה אחת</item>
-        <item quantity="many">לפני שעה אחת</item>
+        <item quantity="other">לפני %d שעות</item>
+        <item quantity="one">לפני שעה %d</item>
+        <item quantity="two">לפני %d שעות</item>
+        <item quantity="many">לפני %d שעות</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
@@ -19,10 +19,10 @@
         <item quantity="many">לפני חצי שעה</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">בעוד שעה אחת</item>
-        <item quantity="one">בעוד שעה אחת</item>
-        <item quantity="two">בעוד שעה אחת</item>
-        <item quantity="many">בעוד שעה אחת</item>
+        <item quantity="other">בעוד (%d) שעות</item>
+        <item quantity="one">בעוד שעה (%d)</item>
+        <item quantity="two">בעוד (%d) שעות</item>
+        <item quantity="many">בעוד (%d) שעות</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">בעוד חצי שעה</item>
@@ -38,7 +38,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">בעוד %d דקות</item>
-        <item quantity="one">בעוד דקה אחת</item>
+        <item quantity="one">בעוד דקה %d</item>
         <item quantity="two">בעוד %d דקות</item>
         <item quantity="many">בעוד %d דקות</item>
     </plurals>
@@ -50,9 +50,15 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">לפני %d דקות</item>
-        <item quantity="one">לפני דקה אחת</item>
+        <item quantity="one">לפני דקה %d</item>
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
+    </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">אין מספיק שטח אחסון. סנכרון של %d תמונות נכשל.</item>
+        <item quantity="one">אין מספיק שטח אחסון. סנכרון של תמונה %d נכשל.</item>
+        <item quantity="two">אין מספיק שטח אחסון. סנכרון של %d תמונות נכשל.</item>
+        <item quantity="many">אין מספיק שטח אחסון. סנכרון של %d תמונות נכשל.</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d כניסות לרשימת החסומים</item>
@@ -162,6 +168,12 @@
         <item quantity="two">נסה שוב בעוד %d שניות</item>
         <item quantity="many">נסה שוב בעוד %d שניות</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">לא ניתן היה לסנכרן &lt;font color=#F22424>%s פריטים&lt;/font></item>
+        <item quantity="one">לא ניתן היה לסנכרן פריט &lt;font color=#F22424>%s&lt;/font></item>
+        <item quantity="two">לא ניתן היה לסנכרן &lt;font color=#F22424>%s פריטים&lt;/font></item>
+        <item quantity="many">לא ניתן היה לסנכרן &lt;font color=#F22424>%s פריטים&lt;/font></item>
+    </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
         <item quantity="other">לא ניתן היה לסנכרן %s פריטים</item>
         <item quantity="one">לא ניתן היה לסנכרן פריט אחד (%s)</item>
@@ -233,6 +245,12 @@
         <item quantity="one">פריט %d נבחר</item>
         <item quantity="two">%d פריטים נבחרו</item>
         <item quantity="many">%d פריטים נבחרו</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">שטח האחסון מלא. לא ניתן היה לסנכרן &lt;font color=#F22424>%d יישומים&lt;/font>.</item>
+        <item quantity="one">שטח האחסון מלא. לא ניתן היה לסנכרן יישום &lt;font color=#F22424>%d&lt;/font>.</item>
+        <item quantity="two">שטח האחסון מלא. לא ניתן היה לסנכרן &lt;font color=#F22424>%d יישומים&lt;/font>.</item>
+        <item quantity="many">שטח האחסון מלא. לא ניתן היה לסנכרן &lt;font color=#F22424>%d יישומים&lt;/font>.</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">לפני %d דקות</item>

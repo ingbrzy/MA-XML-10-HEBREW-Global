@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessible_cancel">ביטול</string>
+    <string name="accessible_cancel">ביטל</string>
     <string name="accessible_ellipse">אליפסה</string>
     <string name="accessible_irregular">צורה מותאמת אישית</string>
     <string name="accessible_rect">מלבן</string>
     <string name="actionbar_button_up_description">הקודם</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="am">AM</string>
+    <string name="annotation_open">הצגת כלים</string>
+    <string name="annotation_stow">הסתרת כלים</string>
     <string name="app_name">צילום מסך</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
@@ -31,6 +33,10 @@
     <string name="close">סגור</string>
     <string name="confirm_cancel_task_files">האם לבטל את שליחת הקבצים ל %1$s?</string>
     <string name="confirm_cancel_task_images">בטל את שליחת התמונות ל %1$s?</string>
+    <string name="copy_dialog_confirm">הבנתי</string>
+    <string name="copy_dialog_content">צילומי מסך יתווספו ללוח העריכה באופן אוטומטי ולאחר מכן ניתן להדביק אותם. ניתן לכבות את המאפיין הזה בהגדרות על-ידי חיפוש \"הוספת פריטים ללוח העריכה\".</string>
+    <string name="copy_dialog_title">שים לב</string>
+    <string name="copy_success_toast">הועתק בהצלחה</string>
     <string name="cta_agree_desc">אפשר ליישום זה להתחבר לאינטרנט והענק לו את הרשאות החובה המפורטות למעלה.</string>
     <string name="cta_btn_agree">מסכים</string>
     <string name="cta_btn_disagree">לא מסכים</string>
@@ -138,7 +144,7 @@
     <string name="long_screenshot_error">אירעה שגיאה. נסה שוב.</string>
     <string name="long_screenshot_guide_text">"לחץ על מנת ליצור
  צילום מסך נגלל"</string>
-    <string name="long_screenshot_intercepted_error">לא ניתן היה לצלם את המסך. נסה שוב.</string>
+    <string name="long_screenshot_intercepted_error">אירעה הפרעה. צילום המסך נשמר בגלריה.</string>
     <string name="long_screenshot_out_of_memory_error">התמונה גדולה מדי</string>
     <string name="long_screenshot_processing">מעבד…</string>
     <string name="long_screenshot_processing_description_accessibility">מעבד</string>
@@ -165,14 +171,14 @@
     <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
     <string name="midnight">לילה</string>
     <string name="miuix_access_state_desc">נבחר</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
+    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
@@ -243,7 +249,7 @@
     <string name="oppo_phone">OPPO</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="partial_screenshot_edit">ערוך</string>
-    <string name="partial_screenshot_failed_to_capture_title">האפליקציה הזו אינה מאפשרת צילום תמונות מסך</string>
+    <string name="partial_screenshot_failed_to_capture_title">לא ניתן לצלם תמונות מסך של העמוד הזה</string>
     <string name="partial_screenshot_failed_to_save_title">לא ניתן היה לשמור. אין מספיק שטח אחסון.</string>
     <string name="partial_screenshot_insert_failed">לא ניתן היה לשמור</string>
     <string name="partial_screenshot_repaint">התחל מחדש</string>
@@ -272,6 +278,12 @@
     <string name="photo_font_download_failed_for_notwork">לא ניתן היה להוריד. התחבר לרשת ונסה שוב.</string>
     <string name="photo_save_to_msg">נשמר ב-%s</string>
     <string name="pm">PM</string>
+    <string name="privacy_mosaic_result_done">מידע אישי חסום</string>
+    <string name="privacy_mosaic_result_fail">לא הצלחנו לחסום מידע פרטי. יש לנסות שנית.</string>
+    <string name="privacy_mosaic_result_none">לא נמצא מידע אישי</string>
+    <string name="privacy_mosaic_tip">לחצו כדי לחסום מידע פרטי</string>
+    <string name="privacy_mosaic_tip_long">צילומי מסך נגללים אינם נתמכים</string>
+    <string name="privacy_mosaic_tip_partial">צילומי מסך חלקיים אינם נתמכים</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
     <string name="redmi_10x">Redmi 10X</string>
@@ -321,12 +333,17 @@
     <string name="screen_editor_btn_save">שמור</string>
     <string name="screen_editor_btn_shell_off">הסר את מסגרת המכשיר</string>
     <string name="screen_editor_btn_shell_on">הוסף מסגרת למכשיר</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">למחוק את צילום המסך הזה?</string>
     <string name="screen_editor_delete_dialog_picture_msg">למחוק את התמונה הזו עכשיו?</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">בוצע</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">לא ניתן להוסיף מסגרת לתמונה חתוכה</string>
     <string name="screen_editor_shell_net_error">התחבר לרשת להורדת מסגרת מכשיר</string>
     <string name="screen_editor_shell_res_downloading">מוריד מסגרת מחשיר…</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ביטול</string>
     <string name="screen_save_dialog_btn_delete">מחיקת צילום מסך</string>
     <string name="screen_save_dialog_btn_save">"שמור ב'גלריה'"</string>
@@ -345,6 +362,8 @@
     <string name="screen_talkback_shape">צורה</string>
     <string name="screen_talkback_small">קטן במיוחד</string>
     <string name="screen_talkback_text">טקסט</string>
+    <string name="screenshot_detected_multiple_template">יישומים רבים, כולל %1$s, זיהו את צילום המסך הזה</string>
+    <string name="screenshot_detected_template">%1$s זיהה את צילום המסך הזה</string>
     <string name="screenshot_edit">עריכה</string>
     <string name="screenshot_failed_in_landscape_mode">לא ניתן לצלם צילומי מסך עם גלילה במצב אופקי</string>
     <string name="screenshot_feedback_txt">משוב</string>
@@ -353,6 +372,9 @@
     <string name="screenshot_save">שמירה</string>
     <string name="screenshot_send">שליחה</string>
     <string name="screenshot_thumbnail">תמונה מוקטנת של צילום המסך</string>
+    <string name="scroll_annotation">גלילה וכתיבת הערות</string>
+    <string name="scroll_annotation_btn_quit">יציאה מההערות</string>
+    <string name="scroll_annotation_quit_dialog_picture_msg">האם לשמור את ההערות לפני היציאה?</string>
     <string name="send">שליחה</string>
     <string name="send_files_by">שתף קבצים באמצעות</string>
     <string name="send_files_to">שלח פריטים ל</string>

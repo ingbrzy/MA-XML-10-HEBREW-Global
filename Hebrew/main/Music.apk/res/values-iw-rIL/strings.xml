@@ -37,10 +37,15 @@
     <string name="actionbar_button_up_description">הקודם</string>
     <string name="ad_close">סגור</string>
     <string name="ad_data_exception">שגיאת נתוני פרסומת</string>
+    <string name="ad_flag_text">פרסומת</string>
     <string name="ad_recommend">הצג פרסומות</string>
     <string name="ad_setting">הגדרות נוספות</string>
     <string name="add">הוספה</string>
     <string name="add_music">הוסף שירים</string>
+    <string name="add_songs_manually_bottom">להוסיף</string>
+    <string name="add_songs_manually_home">להוסיף שירים באופן ידני</string>
+    <string name="add_songs_manually_setting">להוסיף שירים באופן ידני</string>
+    <string name="add_songs_to_playlist">הוספה לרשימת ההשמעה</string>
     <string name="add_to_last_of_playlist">הוסף לסוף רשימת ההשמעה</string>
     <string name="add_to_playlist">הוסף לתור</string>
     <string name="add_to_playlist_successful">נוסף בהצלחה</string>
@@ -71,6 +76,13 @@
     <string name="app_disable_description_content">Mi Music הוא יישום מערכת. השבתה שלו עשויה להשפיע על השימוש ביישומים אחרים. האם להשבית בכל זאת?</string>
     <string name="app_disable_description_title">האם להשבית את יישום המערכת?</string>
     <string name="app_label">הורדות</string>
+    <string name="app_notify_dialog_btn_desc">הגדרות</string>
+    <string name="app_notify_dialog_check_desc">"הפעל את ווידג'ט לוח ההתראות, אך אל תאפשר התראות קבועות"</string>
+    <string name="app_notify_dialog_path">הגדרות > התראות ושורת המצב > התראות יישומים > מוסיקה</string>
+    <string name="app_notify_dialog_path_10">הגדרות > התראות ושורת המצב > התראות יישומים > מוסיקה</string>
+    <string name="app_notify_dialog_path_8">הגדרות > התראות ושורת המצב > התראות יישומים > מוסיקה</string>
+    <string name="app_notify_dialog_subtitle">יש להפעיל התראות עבור Mi מוסיקה כדי לשלוט בניגון המוסיקה בלוח ההתראות.</string>
+    <string name="app_notify_dialog_title">נדרשות הרשאות</string>
     <string name="app_permission_confirm">הבנתי</string>
     <string name="app_permission_optional">הרשאות אופציונליות</string>
     <string name="app_permission_require">הרשאות חובה</string>
@@ -81,8 +93,10 @@
     <string name="app_permission_use_group_phone_desc">עבור שירותי גוגל \"פוש\"</string>
     <string name="app_permission_use_group_storage">אחסון</string>
     <string name="app_permission_use_group_storage_desc">עבור מציאת והשמעת מוסיקה הנמצאת על מכשירך</string>
+    <string name="app_resident_push_switch">אפשר התראות קבועות</string>
     <string name="apply_for_the_following_permissions">יישום זה מבקש את ההרשאות הבאות:</string>
     <string name="apply_permissions_greater_than_pie">תוכל להעניק הרשאה זו בהגדרות > יישומים > הרשאות > הרשאות > קבצים ומדיה > מוזיקה.</string>
+    <string name="apply_permissions_greater_than_tiramisu">באפשרותך להעניק הרשאה זו בהגדרות > יישומים > הרשאות > הרשאות > הרשאות > מוזיקה ושמע/תמונות וסרטונים > מוזיקה.</string>
     <string name="apply_permissions_less_than_pie">תוכל להעניק הרשאה זו בהגדרות > יישומים > הרשאות > הרשאות > גישה ושינוי קבצים באחסון פנימי > מוזיקה.</string>
     <string name="apply_permissions_tips_content">אפשר ליישום זה לגשת לקבצים כדי לגלות מוזיקה במכשיר שלך.</string>
     <string name="artist">אמנים</string>
@@ -114,7 +128,7 @@
     <string name="avoid_to_use_traffic_summary">אל תשתמש ברשת סלולרית על מנת להזרים מוסיקה</string>
     <string name="avoid_to_use_traffic_title">התרע בעת שימוש בנתונים סלולריים לנגינת שירים</string>
     <string name="back">חזרה</string>
-    <string name="back_confirm">לחץ שוב על מנת לדחוף את היישום לרקע</string>
+    <string name="back_confirm">לחץ שוב ליציאה</string>
     <string name="best_experience">החוויה הכי טובה</string>
     <string name="billion_char">%sB</string>
     <string name="bluetooth_device">התקן שמע Bluetooth</string>
@@ -156,6 +170,7 @@
     <string name="create_playlist">צור רשימת השמעה</string>
     <string name="create_playlist_failure">לא ניתן היה ליצור רשימת השמעה</string>
     <string name="create_playlist_input_hint">הזן שם לרשימת השמעה</string>
+    <string name="create_shortcut_for_playlist">האם ליצור קיצור דרך לרשימת ההשמעה במסך הבית?</string>
     <string name="current_album">עטיפת אלבום נוכחית</string>
     <string name="current_lyric">מילות שיר נוכחיות</string>
     <string name="current_version">גרסה נוכחית</string>
@@ -276,7 +291,9 @@
     <string name="download_method">הורדה</string>
     <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
     <string name="download_paused_in_power_save_mode">"ההורדות מופסקות בעת שימוש במצב 'חסכון בסוללה'"</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">מוריד…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">איכות הורדה</string>
     <string name="download_quality_summary">הגדרות נוספות עבור הורדות שירים</string>
     <string name="download_queued">בתור</string>
@@ -449,9 +466,11 @@
     <string name="get_more_favorite_content_after_login">היכנס כדי לגלות שירים וסרטונים נוספים.</string>
     <string name="get_one_day_vip">יש לך מינוי אח\"מ ליום %d!</string>
     <string name="get_one_hour_vip">יש לך מינוי אח\"מ לשעה %d!</string>
+    <string name="get_one_minute_vip">הרווחת מינוי אח\"מ של %d דקות!</string>
     <string name="get_vip">קבלת אח\"מ</string>
     <string name="go_agree">אישור</string>
     <string name="google_account_login">היכנס באמצעות גוגל</string>
+    <string name="google_download_music">הורד %1$s עם Google</string>
     <string name="goto_local_search">חפש במכשירך</string>
     <string name="goto_online_search">חפש באינטרנט</string>
     <string name="handle_later">לא כעת</string>
@@ -459,11 +478,19 @@
     <string name="headset_and_audio_effect_category">אוזניות ואפקטים קוליים</string>
     <string name="headset_and_audio_effect_summary">אוזניות ואקולייזר</string>
     <string name="headset_and_audio_effect_title">אוזניות ואפקטים קוליים</string>
+    <string name="hgm_failed_to_connect_hint">נא לבדוק את הגדרות הרשת ולנסות שוב. אם הבעיה היא שגיאה בשרת hungama, נטפל בה בהקדם האפשרי.</string>
+    <string name="hgm_has_offline">לא ניתן להשמיע מוזיקה שסופקה על ידי hungama</string>
+    <string name="hgm_network_request_error_toast">לא ניתן היה להתחבר לשירותי hungama. נא לנסות שוב.</string>
     <string name="hgm_vip_btn_desc">להתחיל ניסיון בחינם</string>
     <string name="hgm_vip_high_quality">הורדות באיכות גבוהה</string>
     <string name="hgm_vip_no_ads">בלי פרסומות או הגבלות</string>
     <string name="hide_album">הסתרת עטיפת האלבום</string>
     <string name="hide_lyric">הסתרת מילות השיר</string>
+    <string name="hide_or_add_songs_manually">צפייה בשירים מוסתרים</string>
+    <string name="hide_reason_folder">תיקייה מוסתרת</string>
+    <string name="hide_reason_other">סיבה אחרת</string>
+    <string name="hide_reason_size">יותר מ-%1$s</string>
+    <string name="hide_songs_title">שירים מוסתרים</string>
     <string name="hifi_quality">איכות Hi-Fi</string>
     <string name="high_sound_quality">גבוה</string>
     <string name="higher_quality_music">שמע באיכות גבוהה</string>
@@ -477,6 +504,7 @@
     <string name="home_tab_recommend">מקוון</string>
     <string name="home_tab_search">חיפוש</string>
     <string name="hot_icon_in_fast_indexer">חם</string>
+    <string name="hot_recommend">פופולרי כרגע</string>
     <string name="hungama_batch_download_alert_summary">רק מנויי זהב יכולים להוריד שירים מרובים. האם לרכוש מינוי זהב כעת?</string>
     <string name="hungama_batch_download_alert_summary_toast">קבל מינוי להורדת כל רשימת ההשמעה.</string>
     <string name="hungama_download_subscription_toast">עליך להצטרף ל-hungama Music כמנוי כדי להוריד שיר זה</string>
@@ -553,6 +581,10 @@
     <string name="joox_search_result_more">עוד</string>
     <string name="joox_vip_check_to_pay">רכישה</string>
     <string name="joox_vip_expired_hint">פג תוקף החברות שלך ב-VIP. השירים שהורדו מ-JOOX יוצגו רק בהורדות שלך.</string>
+    <string name="jump_to_ytb_dialog_cancel">ביטול</string>
+    <string name="jump_to_ytb_dialog_desc">אתם עומדים לצאת מ-Mi מוסיקה ולפתוח את YouTube. לפתוח את YouTube עכשיו?</string>
+    <string name="jump_to_ytb_dialog_ok">אישור</string>
+    <string name="jump_to_ytb_dialog_title">יוצא מ-Mi מוסיקה</string>
     <string name="just_hit_next">פשוט לחץ/י על \"הבא\"</string>
     <string name="keep_queued_download">השאר</string>
     <string name="ktv_playlist">רשימת השמעה לקריוקי</string>
@@ -569,9 +601,19 @@
     <string name="loading_hint">רק רגע…</string>
     <string name="loading_reached_the_bottom">זה הכל לעת עתה.</string>
     <string name="loading_text">רק רגע…</string>
+    <string name="local_download_download">הורדה</string>
+    <string name="local_download_hint">נא להפעיל Wi-Fi לפני ההורדה</string>
+    <string name="local_download_item">הורדה בחינם</string>
+    <string name="local_download_title">בחירת שירים להורדה</string>
+    <string name="local_download_toast">מוריד…</string>
+    <string name="local_download_toast_notify">ההורדה מתבצעת. ניתן לבדוק התקדמות בלוח ההתראות.</string>
     <string name="local_header_title">מוסיקה מקומית</string>
     <string name="local_music">שירים מקומיים</string>
     <string name="local_music_is_not_available">אין לך שירים על גבי המכשיר שלך.</string>
+    <string name="local_out_dialog_cancel">ביטול</string>
+    <string name="local_out_dialog_desc">אתם עומדים לעבור ליישום אחר שאינו קשור ל-Mi מוסיקה.</string>
+    <string name="local_out_dialog_ok">אישור</string>
+    <string name="local_out_dialog_title">יציאה מ-Mi מוסיקה</string>
     <string name="local_page_album_more">הצג הכל</string>
     <string name="local_page_artist_more">שירים נוספים מאת %s</string>
     <string name="local_page_playlist">רשימות השמעה</string>
@@ -589,6 +631,13 @@
     <string name="lyric_label">מילות שירים</string>
     <string name="lyric_open_other_connect">הורד מילות שירים באמצעות הרשת הסלולרית</string>
     <string name="lyric_setting">הגדרות מילות שירים</string>
+    <string name="lyrics_guide_button_text">נסה את זה</string>
+    <string name="lyrics_guide_four">חזור לדף מילות השיר כדי לצפות בהן</string>
+    <string name="lyrics_guide_one">הקש על תוצאת חיפוש כדי לבחור בה</string>
+    <string name="lyrics_guide_three">ערוך ושמור את מילות השיר</string>
+    <string name="lyrics_guide_title">איך לחפש ולשמור מילות שירים</string>
+    <string name="lyrics_guide_two">בחר והעתק את מילות השיר שתרצה</string>
+    <string name="lyrics_popup_title">הקש כדי לחפש מילות שירים</string>
     <string name="menu_title_pause_all">עצור הכל</string>
     <string name="menu_title_resume_all">התחל הכל</string>
     <string name="message_delete_playlist">למחוק את רשימת ההשמעה %s?</string>
@@ -620,14 +669,14 @@
     <string name="miuishare_title_more">עוד</string>
     <string name="miuishare_title_share">שיתוף</string>
     <string name="miuix_access_state_desc">נבחר</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
+    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
@@ -765,6 +814,7 @@
     <string name="ok">אישור</string>
     <string name="one_day_vip">אח\"מ ליום %d</string>
     <string name="one_hour_vip">אח\"מ לשעה %d</string>
+    <string name="one_minute_vip">מינוי אח\"מ של %d דקות</string>
     <string name="online_apk_acquired">טען %d%%</string>
     <string name="online_apk_acquiring">טוען…%d%%</string>
     <string name="online_apk_download_error_no_enough_space">שטח האחסון לא מספיק, ההורדה נכשלה.</string>
@@ -1026,9 +1076,10 @@
     <string name="privacy_authorize_revoking">שולל הרשאה…</string>
     <string name="privacy_desc">מדיניות פרטיות</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
-    <string name="privacy_request_desc">"&lt;Data>Mi Music צריך לאסוף מידע האישי הדרוש כדי לספק לך שירותי סטרימינג (הזרמה) מקוונים. מידע לגבי האופן בו אנו מטפלים במידע שאנו אוספים מופיע ב&lt;a href=\"%1$s\">מדיניות הפרטיות &lt;/a> שלנו. תוכל לבטל את הסכמתך למדיניות הפרטיות של Mi Music בכל עת בהגדרות.
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=iw_IL</string>
+    <string name="privacy_request_desc"><Data>"Mi Music צריך לאסוף מידע האישי הדרוש כדי לספק לך שירותי סטרימינג (הזרמה) מקוונים. מידע לגבי האופן בו אנו מטפלים במידע שאנו אוספים מופיע ב&lt;a href=\"%1$s\">מדיניות הפרטיות &lt;/a> שלנו. תוכל לבטל את הסכמתך למדיניות הפרטיות של Mi Music בכל עת בהגדרות.
 קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%1$s\">מדיניות פרטיות&lt;/a> שלנו לפני השימוש ב-Mi Music.
-אם אינך מסכים להשתמש בשירותים האמורים, לא תוכל להשתמש בתכונות מסוימות של יישום זה; עם זאת, התפקוד הבסיסי שלו עדיין יהיה זמין עבורך.&lt;/Data>"</string>
+אם אינך מסכים להשתמש בשירותים האמורים, לא תוכל להשתמש בתכונות מסוימות של יישום זה; עם זאת, התפקוד הבסיסי שלו עדיין יהיה זמין עבורך."</Data></string>
     <string name="privacy_request_subtitle">"ברוך הבא ל-Mi Music! יישום זה מספק את השירותים הבאים:
 - נגן שמע מקומי
 - שירותי הזרמה מקוונים"</string>
@@ -1041,9 +1092,9 @@
     <string name="pulluprefreshrecyclerview_loading_finished">נטען בהצלחה</string>
     <string name="pulluprefreshrecyclerview_loading_running">טוען…</string>
     <string name="queue_is_empty">תור ההשמעה ריק.</string>
-    <string name="read_and_agree_hungama_protocol">&lt;Data>קראתי את &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">מדיניות הפרטיות של hungama&lt;/a> והסכמתי אתה.&lt;/font>&lt;/Data></string>
-    <string name="read_and_agree_joox_protocol">&lt;Data>קראתי והסכמתי ל&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">מדיניות הפרטיות של JOOX&lt;/a>&lt;/font>&lt;/Data></string>
-    <string name="read_and_agree_mi_protocol">&lt;Data>קראתי והסכמתי ל&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a>&lt;/font> ול&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a>&lt;/font> של Xiaomi&lt;/Data></string>
+    <string name="read_and_agree_hungama_protocol"><Data>קראתי את &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">מדיניות הפרטיות של hungama&lt;/a> והסכמתי אתה.&lt;/font></Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>קראתי והסכמתי ל&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">מדיניות הפרטיות של JOOX&lt;/a>&lt;/font></Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>קראתי והסכמתי ל&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a>&lt;/font> ול&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a>&lt;/font> של Xiaomi</Data></string>
     <string name="read_and_agree_protocol">קרא והסכם להסכם המשתמש ולמדיניות הפרטיות שלנו לפני שתמשיך.</string>
     <string name="ready_to_play">הבא</string>
     <string name="recently_played">נוגן לאחרונה</string>
@@ -1051,7 +1102,6 @@
     <string name="recommend_songs_when_playing_audio_files">קבל המלצות על שירים בזמן האזנה למוזיקה</string>
     <string name="recommended_file_size_download_in_mobile">להשתמש ב- %s של נתונים סלולריים על מנת להוריד קובץ זה?</string>
     <string name="recommended_no_file_size_download_in_mobile">להשתמש בחיבור הנתונים הסלולריים על מנת להוריד קובץ זה?</string>
-    <string name="refresh">רענון</string>
     <string name="remove">הסרה</string>
     <string name="remove_download">הסר</string>
     <string name="remove_user_privacy_dialog_message">על ידי כיבוי המתג, אתה מבטל את הסכמתך למדיניות הפרטיות של Mi Music. אנו נפסיק לאסוף את המידע האישי שלך. הנתונים האישיים שכבר נאספו ונשמרים יימחקו במהלך התקופה הנדרשת על פי החוקים החלים. Mi Music צריך לאסוף מידע אישי הכרחי כדי לספק לך את שירותיו הבסיסיים. ביטול הסכמתך למדיניות הפרטיות שלו תיחשב כסירוב לקבל את שירותיו המבוססים על נתונים אישיים שנאספו.</string>
@@ -1068,6 +1118,7 @@
     <string name="retry_after_network_available">לא ניתן להתחבר לרשת. בדוק את החיבור ונסה שוב.</string>
     <string name="retry_download">נסה שוב</string>
     <string name="revoke_upload_playlist_to_hungama_toast">שירים מקוונים לא יסונכרנו עם hungama</string>
+    <string name="reward_received">הרווחת מינוי אח\"מ!</string>
     <string name="ringtone_editing">עורך הרינגוטנים</string>
     <string name="ringtone_not_support">הפורמט של שיר זה אינו נתמך</string>
     <string name="ringtone_selected">נבחר</string>
@@ -1110,6 +1161,7 @@
     <string name="select_local_cover">בחירת עטיפה מקומית</string>
     <string name="select_local_lyric">בחר קובץ</string>
     <string name="select_local_lyric_file">בחירת קובץ מלל מקומי</string>
+    <string name="select_lyrics_copy">בחר והעתק את מילות השיר</string>
     <string name="select_none">הסר בחירה מהכל</string>
     <string name="select_one_language">בחר לפחות שפה אחת (%d)</string>
     <string name="select_three_languages">ניתן לבחור עד %d שפות</string>
@@ -1153,6 +1205,7 @@
     <string name="similar_songs">שירים דומים</string>
     <string name="similar_videos">סרטונים דומים</string>
     <string name="skip">דלג</string>
+    <string name="skip_ad">דלג</string>
     <string name="sleep_mode">"טיימר 'מצב שינה'"</string>
     <string name="sleep_mode_canceled">"'מצב שינה' כובה"</string>
     <string name="sleep_mode_summary">עצור את הנגן לאחר פרק זמן מסוים</string>
@@ -1168,6 +1221,7 @@
     <string name="song_offline">שיר זה אינו זמין עוד.</string>
     <string name="song_picker_complete">סיים</string>
     <string name="song_quality_category">מוזיקה</string>
+    <string name="song_swipe_navigation">יש להעביר אצבע שמאלה או ימינה למעבר בין השירים</string>
     <string name="songgroup_pick_album">אלבומים</string>
     <string name="songgroup_pick_playlist">רשימות השמעה</string>
     <string name="sort_by_name">שם</string>
@@ -1336,6 +1390,7 @@
     <string name="upload_playlist_to_hungama_title">סנכרון שירים מקוונים עם hungama כדי שניתן יהיה לקבל גישה אליהם ממכשירים אחרים בזמן שימוש בחשבון Xiaomi שלך.</string>
     <string name="upload_playlist_to_hungama_toast">שירים מקוונים יסונכרנו עם hungama</string>
     <string name="user_agreement">הסכם משתמש</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=iw_IL</string>
     <string name="user_experience_program_open">בגלל הגבלות של זכויות יוצרים עליך להירשם לתכנית חווית המשתמש כדי להשמיע שירם שהורדו. ניתן לעשות את זה על-ידי מעבר אל הגדרות > סיסמאות ואבטחה > פרטיות > הירשם לתוכנית חוויית המשתמש.</string>
     <string name="user_playlist_plaza">רשימות השמעה</string>
     <string name="user_privacy_dialog_negative_text">ביטול</string>
@@ -1347,6 +1402,7 @@
     <string name="user_profile_fans_count">עוקבים: %s</string>
     <string name="user_profile_follow_count">עוקב אחר: %s</string>
     <string name="version_info">גרסה</string>
+    <string name="video_loading_fail">לא ניתן היה לטעון את הסרטון</string>
     <string name="video_play_cellular">מכשירך אינו מחובר ל-Wi-Fi. להשתמש בנתונים סלולריים?</string>
     <string name="video_replay_btn">נגן שוב</string>
     <string name="video_retry_btn">נסה שוב</string>
@@ -1355,10 +1411,22 @@
     <string name="vip_required_with_song">%s זמין למנויי זהב בלבד. כרגע דילגנו על השיר הזה.</string>
     <string name="voice_search_first_hint">נסה חיפוש קולי!</string>
     <string name="watch_video">צפייה בווידאו</string>
+    <string name="web_reward_dialog_cancle">ביטול</string>
+    <string name="web_reward_dialog_ok">יציאה</string>
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>
     <string name="welcome_to_entertainment">התרשם/י ממאפיין הבידור החדש כדי ליהנות ממשחקי מוזיקה ועוד</string>
+    <string name="whitelist_add_exist">חלק מהשירים כבר רשומים תחת \"שירים מקומיים\", ואינם מוצגים כאן</string>
+    <string name="whitelist_add_failed">לא ניתן היה להוסיף את הקבצים</string>
+    <string name="whitelist_desc_1">אם Mi מוסיקה לא מצליח למצוא את השירים שחיפשת במכשיר שלך, ניתן להוסיף אותם באופן ידני.</string>
+    <string name="whitelist_desc_2">קבצים אלה יוצגו אפילו אם גודל הקובץ ואורך השיר אינם תואמים, או אם הם נמצאים בתיקיות מוסתרות.</string>
+    <string name="whitelist_dialog_content">קבצים שהוסרו לא יופיעו יותר בין הקבצים החריגים של Mi מוסיקה, אך הם לא יימחקו מהמכשיר שלך. להסיר עכשיו?</string>
+    <string name="whitelist_dialog_title">להסיר את הקבצים?</string>
+    <string name="whitelist_entrance_desc">להוסיף ידנית קבצים אותם Mi מוסיקה לא מצליח לאתר באופן אוטומטי</string>
+    <string name="whitelist_entrance_text_1">"לא הצלחת למצוא שיר? "</string>
+    <string name="whitelist_multi_add_tips">%1$s. %2$s.</string>
+    <string name="whitelist_title">קבצים חריגים</string>
     <string name="wifi_required_body" formatted="false">"\"התחבר לרשת אלחוטית על מנת להשלים הורדה זו %s.
 
  לחץ על %s על מנת להתחיל הורדה זו בפעם הבאה שתהיה מחובר לרשת אלחוטית.\""</string>
@@ -1367,6 +1435,10 @@
     <string name="you_can_switch_mode_in_settings">ניתן להחליף בין המצבים בהגדרות</string>
     <string name="you_may_like">יתכן שתאהב גם</string>
     <string name="you_might_like_it">ייתכן שיימצא חן בעיניך גם</string>
+    <string name="youtube_delete_dialog_cancel">ביטול</string>
+    <string name="youtube_delete_dialog_desc">להסיר את השיר הזה מהמועדפים עכשיו?</string>
+    <string name="youtube_delete_dialog_ok">הסרה</string>
+    <string name="youtube_delete_dialog_title">הסרה מהמועדפים</string>
     <string name="youtube_download_canl">ביטול</string>
     <string name="youtube_download_fail_net">לא ניתן להתחבר לאינטרנט. יש לבדוק את הגדרות הרשת ולנסות שוב.</string>
     <string name="youtube_download_fail_source">אירעה שגיאה. יש להמתין דקה או שתיים ולנסות שוב.</string>
@@ -1378,6 +1450,12 @@
     <string name="youtube_download_suc">ההורדה הושלמה בהצלחה</string>
     <string name="youtube_play_history">היסטורית צפייה/האזנה</string>
     <string name="youtube_share_guide_tip">כעת באפשרותך לשתף סרטונים עם חברים</string>
+    <string name="youtube_store_dialog_desc">כאן ניתן למצוא את הסרטונים המקוונים שהוספת למועדפים. אם סרטון כלשהו הועלה בעבר, לא יהיה צורך להשתמש בגלישה סלולרית כדי לצפות בו שוב בהמשך.</string>
+    <string name="youtube_store_dialog_ok">הבנתי</string>
     <string name="youtube_tab_explore">לגלות</string>
     <string name="youtube_tab_playlist">פלייליסטים</string>
+    <string name="youtube_tab_popular">פופולרי</string>
+    <string name="youtube_tab_radar">רדאר</string>
+    <string name="youtube_tab_shorts">קצרים</string>
+    <string name="youtube_tab_trend">פופולרי</string>
 </resources>

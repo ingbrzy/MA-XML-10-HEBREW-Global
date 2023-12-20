@@ -4,6 +4,28 @@
         <item>זכר</item>
         <item>נקבה</item>
     </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>א</item>
         <item>ב</item>
@@ -55,6 +77,10 @@
         <item>ת</item>
         <item>\#</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>זכר</item>
+        <item>נקבה</item>
+    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>חשבונות</item>
         <item>הוסף ונהל חשבונות של צד שלישי</item>
@@ -70,15 +96,20 @@
         <item>שינוי סיסמת חשבון Xiaomi</item>
         <item>שנה סיסמה;עדכן סיסמה;חשבון Mi;חשבון;חשבון Xiaomi</item>
     </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>אזור אחסון למשפחה</item>
+        <item>הצג/הפעל אזור אחסון למשפחה</item>
+        <item>אזור אחסון למשפחה;שיתוף אחסון</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>שירותי משפחה</item>
+        <item>הצג/הפעל את שירותי המשפחה</item>
+        <item>משפחה;שירותי משפחה;שיתוף משפחתי</item>
+    </string-array>
     <string-array name="settings_search_help_center">
         <item>עזרה</item>
         <item>קבל עזרה ותמיכה עבור חשבון Xiaomi</item>
         <item>חשבון Mi;חשבון;חשבון Xiaomi;עזרה בחשבון;מרכז עזרה</item>
-    </string-array>
-    <string-array name="settings_search_login_2_step_verify">
-        <item>אימות דו-שלבי</item>
-        <item>הגדר אימות דו-שלבי עבור חשבון Xiaomi שלך</item>
-        <item>התחברות;כניסה;אימות דו-שלבי;Xiaomi;חשבון;חשבון Mi;חשבון;חשבון Xiaomi</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>אבטחת החשבון</item>

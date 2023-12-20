@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">אישור</string>
+    <string name="apm_enabled_first_time_message">‏חיבור ה-Wi‑Fi במכשיר יישאר מופעל במצב טיסה. אפשר להשבית את ה-Wi-Fi אם לא רוצים שהוא יפעל.</string>
+    <string name="apm_enabled_first_time_title">‏חיבור ה-Wi‑Fi יישאר מופעל</string>
     <string name="decline">דחייה</string>
     <string name="dlg_ok">אישור</string>
+    <string name="notification_channel_apm_alerts">‏התראות APM</string>
     <string name="notification_channel_network_alerts">התראות רשת</string>
     <string name="notification_channel_network_available">יש רשת זמינה</string>
     <string name="notification_channel_network_status">סטטוס הרשת</string>
@@ -21,6 +24,10 @@
 %1$s
 
 "</string>
+    <string name="wifi_ca_cert_dialog_message_expiration_text">"תוקף האישור יפוג בתאריך:
+%1$s
+
+"</string>
     <string name="wifi_ca_cert_dialog_message_hint">"יש לאשר את ההתחברות לרשת הזו רק אם המידע שבהמשך נראה נכון.
 
 "</string>
@@ -36,12 +43,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"חתימה:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"‏טביעת אצבע SHA-256:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">אין להתחבר</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">יש להתחבר בכל זאת</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">ניתוק</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">שמירה על החיבור</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">חסר אישור לרשת %1$s.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">הוראות להוספת אישורים</string>
     <string name="wifi_ca_cert_dialog_preT_title">לא ניתן לאמת את הרשת הזו</string>
@@ -82,14 +89,29 @@
     <string name="wifi_enable_request_dialog_negative_button">אין אישור</string>
     <string name="wifi_enable_request_dialog_positive_button">אישור</string>
     <string name="wifi_enable_request_dialog_title">‏לאפשר לאפליקציה %1$s להפעיל את ה-Wi‑Fi?</string>
+    <string name="wifi_enabled_apm_first_time_message">‏אם חיבור ה-Wi‑Fi נשאר מופעל, המכשיר יזכור להשאיר אותו מופעל בפעם הבאה שהוא יועבר למצב טיסה</string>
+    <string name="wifi_enabled_apm_first_time_title">‏Wi‑Fi מופעל במצב טיסה</string>
     <string name="wifi_interface_priority_approve">אישור</string>
+    <string name="wifi_interface_priority_interface_name_ap">‏נקודת Wi-Fi לשיתוף אינטרנט (Hotspot)</string>
+    <string name="wifi_interface_priority_interface_name_ap_bridge">‏נקודת Wi-Fi לשיתוף אינטרנט (Hotspot)</string>
+    <string name="wifi_interface_priority_interface_name_nan">Wi‑Fi Aware</string>
+    <string name="wifi_interface_priority_interface_name_p2p">‏Wi-Fi ישיר</string>
+    <string name="wifi_interface_priority_interface_name_sta">STA</string>
     <string name="wifi_interface_priority_message">הפעולה עלולה לגרום לבעיות ב‑%3$s.</string>
     <string name="wifi_interface_priority_message_plural">כתוצאה מכך, ייתכנו בעיות באפליקציות הבאות: %3$s.</string>
     <string name="wifi_interface_priority_reject">אין אישור</string>
     <string name="wifi_interface_priority_title">האפליקציה %1$s מבקשת להשתמש במשאב רשת</string>
+    <string name="wifi_network_disabled_by_admin_button">סגירה</string>
+    <string name="wifi_network_disabled_by_admin_message">האדמין השבית את %1$s.</string>
+    <string name="wifi_network_disabled_by_admin_title">רשת לא זמינה</string>
+    <string name="wifi_network_switch_dialog_negative_button">לא לעבור</string>
+    <string name="wifi_network_switch_dialog_positive_button">מעבר</string>
+    <string name="wifi_network_switch_dialog_title_bad_internet">האיכות של %1$s היא נמוכה. לעבור אל %2$s?</string>
+    <string name="wifi_network_switch_dialog_title_no_internet">נראה שאין חיבור של %1$s לאינטרנט. לעבור אל %2$s?</string>
     <string name="wifi_p2p_enter_pin_message">יש להקליד את קוד האימות הנדרש:</string>
     <string name="wifi_p2p_frequency_conflict_message">‏הטלפון יתנתק מרשת ה-Wi-Fi באופן זמני כשהוא מחובר אל %1$s</string>
     <string name="wifi_p2p_from_message">מאת:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0,plural, =1{עליך לאשר תוך שנייה אחת.}one{עליך לאשר תוך # שניות.}two{עליך לאשר תוך # שניות.}other{עליך לאשר תוך # שניות.}}</string>
     <string name="wifi_p2p_invitation_sent_title">ההזמנה נשלחה</string>
     <string name="wifi_p2p_invitation_to_connect_title">הזמנה להתחבר</string>
     <string name="wifi_p2p_show_pin_message">קוד אימות:</string>

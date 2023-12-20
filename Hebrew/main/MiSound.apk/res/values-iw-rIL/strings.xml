@@ -4,6 +4,7 @@
     <string name="add_sound">הוסף למותאם אישית קבוע מראש</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="am">AM</string>
+    <string name="app_disable_description_title">להשבית יישום זה?</string>
     <string name="app_name">אוזניות</string>
     <string name="apply_sound">החל</string>
     <string name="can_you_here">האם אתה יכול לשמוע קול?</string>
@@ -32,8 +33,14 @@
     <string name="effect_3dsurround">צליל מקיף</string>
     <string name="effect_3dsurround_summary">הגדלת עומק השמעת הצליל עבור אוזניות ורמקולים</string>
     <string name="effect_3dsurround_summary_headphone">הגדלת עומק השמעת הצליל עבור אוזניות</string>
+    <string name="effect_dolby">Dolby Atmos</string>
+    <string name="effect_misound">Xiaomi Sound</string>
+    <string name="effect_none">Original</string>
+    <string name="effect_selection">אפקטים של צליל</string>
+    <string name="effect_selection_headset">אפקטים של אוזניות</string>
     <string name="effect_virtual_surround">צליל מקיף וירטואלי</string>
     <string name="effect_virtual_surround_summary">העשרת עומק הצליל בניגון שמע ווידאו דרך אוזניות (מאפיין זה לא יעבוד בהשמעת שמע מסוג %.1f)</string>
+    <string name="effect_virtual_surround_summary_spk">העשרת עומק הצליל עבור ניגון שמע ווידאו</string>
     <string name="empty" />
     <string name="end_wireless_transmission">הפסק</string>
     <string name="eq_auto">מותאם אישית</string>
@@ -152,14 +159,14 @@
     <string name="midnight">לילה</string>
     <string name="misound_effect_setting">Mi Sound</string>
     <string name="miuix_access_state_desc">נבחר</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
+    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
@@ -334,6 +341,9 @@
     <string name="not_support_sound_transmission_prompt">שים לב</string>
     <string name="now_here">וכעת?</string>
     <string name="original_sound">נגן צליל מקורי</string>
+    <string name="permission_go_to_settings">הגדרות</string>
+    <string name="permission_requesr_content">ניתן לאפשר לאפליקציה הזו להתחבר למכשירים בסביבה בהגדרות.</string>
+    <string name="permission_requesr_title">הרשאות נדרשות</string>
     <string name="personal_sound">נגן והחל עם קבוע מראש</string>
     <string name="pm">PM</string>
     <string name="retry_test">התחל מחדש</string>
@@ -372,18 +382,13 @@
     <string name="sound_id_function_description">התאמה אישית של עקומת EQ בהתבסס על ההעדפות שלך</string>
     <string name="sound_id_function_name">צליל מותאם אישית</string>
     <string name="sound_id_headset_status">אוזניות נוכחיות</string>
-    <string name="sound_id_hz_high">"גבוה (Treble)
-%d הרץ"</string>
-    <string name="sound_id_hz_low">"בס
-%d הרץ"</string>
-    <string name="sound_id_hz_media">"טווח בינוני
-%d הרץ"</string>
+    <string name="sound_id_hz"> %d הרץ</string>
+    <string name="sound_id_hz_high">טרבל %d הרץ</string>
+    <string name="sound_id_hz_low">בס %d הרץ</string>
+    <string name="sound_id_hz_media">תדרי ביניים %d הרץ</string>
     <string name="sound_id_music_one_description">"קל | %d שנ'"</string>
-    <string name="sound_id_music_one_title">Rainy city</string>
     <string name="sound_id_music_three_description">"מלודי | %d שנ'"</string>
-    <string name="sound_id_music_three_title">Trace</string>
     <string name="sound_id_music_two_description">"קצבי | %d שנ'"</string>
-    <string name="sound_id_music_two_title">Night fever</string>
     <string name="sound_id_no_effect_msg">אל תשתמש בצליל מותאם אישית</string>
     <string name="sound_id_notice_headset_change_msg">נראה שאתה משתמש בזוג אוזניות אחר. הבדיקה הופסקה.</string>
     <string name="sound_id_notice_headset_change_msg2">נראה שאתה משתמש בזוג אוזניות אחר. ודא שצליל מותאם אישית זה תואם לזוג אוזניות זה.</string>
@@ -429,6 +434,7 @@
     <string name="sound_transmission_title">מיקרופון אלחוטי</string>
     <string name="spatial_audio">צליל מקיף</string>
     <string name="spatial_audio_summary">חוויה של צליל מקיף ותחושת מרחב בהשמעת אודיו דרך אוזניות</string>
+    <string name="spatial_audio_summary_spk">חוויה של צליל מקיף ותחושת מרחב בהשמעת שמע</string>
     <string name="speaker_scenario_resume">שחזר את האפקטים המקוריים</string>
     <string name="start_test_sound">התחל במבדק</string>
     <string name="sunday">ראשון</string>

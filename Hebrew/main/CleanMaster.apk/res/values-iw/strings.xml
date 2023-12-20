@@ -60,6 +60,9 @@
     <string name="fallback_menu_item_copy_link">העתקת הקישור</string>
     <string name="fallback_menu_item_open_in_browser">פתיחה בדפדפן</string>
     <string name="fallback_menu_item_share_link">לשיתוף הקישור</string>
+    <string name="native_body">גוף המודעה</string>
+    <string name="native_headline">כותרת</string>
+    <string name="native_media_view">תצוגת המדיה</string>
     <string name="not_set">לא מוגדרת</string>
     <string name="offline_notification_text">יש להקיש כדי לפתוח את המודעה</string>
     <string name="offline_notification_title">צפייה במודעה ששמרת כשלא היה לך חיבור לאינטרנט</string>
@@ -81,4 +84,5 @@
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="v7_preference_off">כבוי</string>
     <string name="v7_preference_on">מופעל</string>
+    <string name="watermark_label_prefix">AdMob –</string>
 </resources>

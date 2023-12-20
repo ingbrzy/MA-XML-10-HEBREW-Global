@@ -21,6 +21,9 @@
     <string name="back">חזרה</string>
     <string name="barcode_into_rectangle">מקם את הקוד בתוך המסגרת</string>
     <string name="birthday">יום הולדת:</string>
+    <string name="btn_add_schedule">הוספת אירוע</string>
+    <string name="btn_send_email">שליחת הודעת דוא\"ל</string>
+    <string name="btn_send_message">שליחת SMS</string>
     <string name="camera_error_title">שגיאת מצלמה</string>
     <string name="cancel">ביטול</string>
     <string name="choose_open_code_app">בחר אפליקציה</string>
@@ -33,14 +36,16 @@
     <string name="common_save">שמור</string>
     <string name="company">חברה:</string>
     <string name="confirm">אישור</string>
-    <string name="connect_wifi">התחבר לרשת זו</string>
+    <string name="connect_wifi">התחברות</string>
     <string name="contact_details">איש קשר קוד QR:</string>
     <string name="continue_access_web_url">עבור לאתר</string>
     <string name="continue_to_website">עבור לאתר</string>
     <string name="copy_text">העתק טקסט</string>
     <string name="copy_text_success">הטקסט הועתק</string>
+    <string name="copy_web_url">העתקת כתובת URL</string>
     <string name="crop_cancel_description">ביטול</string>
     <string name="crop_done_description">בוצע</string>
+    <string name="cta_purpose">הסורק צריך להשתמש במצלמת המכשיר שלך ולעבד את התמונות שצולמו באמצעות האפליקציה. אין להשתמש בסורק כדי לצלם תמונות של חפצים המכילים מידע אישי שלך. הקשה על \"הסכמה\" מהווה הסכמתך עם מדיניות הפרטיותשלנו, ותאפשר לסורק להתחבר לאינטרנט.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -67,6 +72,8 @@
     <string name="drag_barcode_into_frame">גרור את המסגרת כך שתתאים לקוד</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="email">דוא\"ל:</string>
+    <string name="email_message">גוף</string>
+    <string name="email_sub">נושא</string>
     <string name="empty" />
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
@@ -75,9 +82,10 @@
     <string name="error_get_image">לא ניתן היה להשיג את התמונה</string>
     <string name="error_media_storage_failure">לא ניתן היה לשמור את התמונה</string>
     <string name="error_permissions">"אין לסורק את ההרשאה הנדרשת על מנת לעבוד כראוי. עבור אל 'הגדרות' ובדוק הרשאות על מנת להמשיך."</string>
+    <string name="error_permissions_location">יש לאפשר ליישום זה גישה למיקום המדויק כדי שהוא יעבוד כנדרש</string>
     <string name="error_permissions_storage">אפשר גישה לתמונות שלך כדי שתוכל להשתמש בתכונה זו</string>
     <string name="evening">לפנות ערב</string>
-    <string name="feed_search_fail">אין תוצאות, נסה שוב</string>
+    <string name="feed_search_fail">לא ניתן למצוא את התוצאות</string>
     <string name="feedback_description_camera_access">הסורק לא יכול להתחבר למצלמה</string>
     <string name="feedback_description_save_photo">לא ניתן היה לשמור את התמונה או הסרטון</string>
     <string name="feedback_phone">phone</string>
@@ -142,12 +150,12 @@
     <string name="friday_shortest">"ו'"</string>
     <string name="got_it">הבנתי</string>
     <string name="import_contact">ייבא איש קשר</string>
-    <string name="impunity_declaration_content">הסורק צריך להשתמש במצלמת המכשיר שלך ולעבד את התמונות שצולמו באמצעות האפליקציה. אל תשתמש בסורק כדי לצלם תמונות של חפצים המכילים מידע אישי. הקשה על \"מסכים\" מהווה הסכמה עם &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">מדיניות הפרטיות&lt;/a>&lt;/font> שלנו, ותאפשר לסורק להתחבר לאינטרנט.</string>
+    <string name="impunity_declaration_content">הסורק צריך להשתמש במצלמת המכשיר שלך ולעבד את התמונות שצולמו באמצעות האפליקציה. אין להשתמש בסורק כדי לצלם תמונות של חפצים המכילים מידע אישי שלך. הקשה על \"הסכמה\" מהווה הסכמתך עם &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">מדיניות הפרטיות&lt;/a>&lt;/font> שלנו, ותאפשר לסורק להתחבר לאינטרנט.</string>
     <string name="impunity_declaration_negative_text">יציאה</string>
     <string name="jingdong">JD</string>
     <string name="kuaidi100_data">מופעל על ידי Kuaidi 100</string>
     <string name="label_choose_picture">בחירת תמונה</string>
-    <string name="label_flash_light">פנס</string>
+    <string name="label_flash_light">מבזק</string>
     <string name="language_entry_chinese_cn">סינית מפושטת</string>
     <string name="language_entry_english">אנגלית</string>
     <string name="language_entry_french">צרפתית</string>
@@ -156,7 +164,7 @@
     <string name="language_entry_korean">קוריאנית</string>
     <string name="language_entry_spanish">ספרדית</string>
     <string name="logistics">משלוח אקספרס</string>
-    <string name="low_version_tip">"עדכן את MIUI לגרסתו החדשה ביותר על מנת שתוכל להשתמש ב'סורק'."</string>
+    <string name="low_version_tip">יש לעדכן לגרסה האחרונה של המערכת כדי שניתן יהיה להשתמש בסורק.</string>
     <string name="midnight">לילה</string>
     <string name="mihome_goto_install">התקן</string>
     <string name="mihome_goto_update">עדכן</string>
@@ -169,7 +177,7 @@
     <string name="mipayin_dialog_more">עוד</string>
     <string name="mipayin_dialog_title">פתח באמצעות</string>
     <string name="miracast_connect">הקרנה</string>
-    <string name="miracast_connect_fail">לא ניתן היה להקרין, נסה שוב</string>
+    <string name="miracast_connect_fail">לא ניתן היה לשדר. נא לנסות שוב.</string>
     <string name="miracast_connecting">מקרין…</string>
     <string name="miracast_details">סרוק את קוד ה-QR על מנת להקרין</string>
     <string name="miracast_message">להקרין אל %s?</string>
@@ -252,6 +260,7 @@
     <string name="note">הערה:</string>
     <string name="now_state">"מיקום נוכחי: "</string>
     <string name="once">פעם אחת בלבד</string>
+    <string name="open_web_url">פתיחה בדפדפן</string>
     <string name="pay_save_this_choose">זכור את הבחירה שלי</string>
     <string name="payment_text">פתיחה באמצעות %s</string>
     <string name="phone">טלפון:</string>
@@ -259,7 +268,7 @@
     <string name="pm">PM</string>
     <string name="preparing_sd">מכין אחסון פנימי…</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
-    <string name="qr_code_details">פרטי קוד QR:</string>
+    <string name="qr_code_details">טקסט</string>
     <string name="queryNum">בדוק הזמנה</string>
     <string name="query_faile">סטטוס ופרטי ההזמנה עדיין לא סונכרנו. בדוק את ההזמנה שלך ידנית.</string>
     <string name="query_more">מידע נוסף</string>
@@ -270,6 +279,10 @@
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>
     <string name="scan_result">תוצאה</string>
+    <string name="schedule_date">תאריך</string>
+    <string name="schedule_description">תיאור</string>
+    <string name="schedule_location">מיקום</string>
+    <string name="schedule_title">כותרת</string>
     <string name="sdk_not_ready">מכין את SDK. נסה שוב מאוחר יותר.</string>
     <string name="secure_access_web_url">עבור לאתר</string>
     <string name="see_app_details">הצג את פרטי היישום</string>
@@ -289,6 +302,7 @@
     <string name="sunday_shortest">"א'"</string>
     <string name="switch_open">הפעלה</string>
     <string name="taobao">Taobao</string>
+    <string name="text_search">חיפוש</string>
     <string name="the_anniversary_of_lifting_martial_law">יום השנה לביטול החוק הצבאי</string>
     <string name="the_anti_aggression_day">יום המאבק באלימות</string>
     <string name="the_arbor_day">יום העץ</string>
@@ -337,7 +351,9 @@
     <string name="time_picker_label_minute">"ד'"</string>
     <string name="title">כותרת:</string>
     <string name="to_install_title">קוד QR זה מעביר לאפליקציה שהוסרה. להוריד את האפליקציה הזו עכשיו?</string>
+    <string name="to_message">תוכן SMS</string>
     <string name="to_pay">השלמת התשלום</string>
+    <string name="to_person">נמען</string>
     <string name="today">היום</string>
     <string name="toinstall">הורדה</string>
     <string name="tomorrow">מחר</string>
@@ -356,16 +372,17 @@
     <string name="vender_info_translation_kingsoft">מופעל על ידי Kingsoft</string>
     <string name="waybill_num">"הזמנה: "</string>
     <string name="web">אתר:</string>
-    <string name="website_details">אתר:</string>
+    <string name="website_details">כתובת URL</string>
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>
     <string name="wifi_details">רשת אלחוטית:</string>
     <string name="wifi_exist_fail">כבר קיימת נקודה חמה \"%1$s\". מחק אותה ולאחר מכן סרוק את הקוד שוב כדי להתחבר.</string>
     <string name="wifi_open_fail">"לא ניתן להפעיל את 'רשתות אלחוטיות'"</string>
+    <string name="wifi_password">סיסמה</string>
     <string name="wifi_psd_toolong">הסיסמה ארוכה מדיי. הזן את הסיסמה באופן ידני.</string>
     <string name="wifi_pwd">סיסמה:</string>
-    <string name="wifi_security">אבטחה:</string>
-    <string name="wifi_ssid">SSID:</string>
+    <string name="wifi_security">הצפנה</string>
+    <string name="wifi_ssid">שם הרשת</string>
     <string name="yesterday">אתמול</string>
 </resources>
