@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="acc_category_color_description">
-        <item>לבן</item>
-        <item>כחול כהה</item>
-        <item>כחול בהיר</item>
-        <item>אדום</item>
-        <item>ירוק</item>
-        <item>ורוד</item>
-        <item>חום</item>
-        <item>אפור</item>
-    </string-array>
-    <string-array name="acc_magic_matting_background_description">
-        <item>בחר תמונה</item>
-        <item>רקע שקוף</item>
+    <string-array name="account_user_gender_name">
+        <item>זכר</item>
+        <item>נקבה</item>
     </string-array>
     <string-array name="activities_title">
         <item>יום מיוחד</item>
         <item>לזכור את היום הזה</item>
         <item>רגעים מרהיבים</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>א</item>
@@ -42,10 +54,6 @@
         <item>ר</item>
         <item>ש</item>
         <item>ת</item>
-        <item>\#</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
         <item>\#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
@@ -73,23 +81,19 @@
         <item>ש</item>
         <item>ת</item>
         <item>\#</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
     </string-array>
     <string-array name="annual_foods_title">
-        <item>A delicious year</item>
-        <item>Three courses. Four seasons.</item>
+        <item>שנה מתוקה</item>
+        <item>שלוש מנות. ארבע עונות.</item>
     </string-array>
     <string-array name="annual_travel_title">
-        <item>Hello world!</item>
-        <item>On the road</item>
-        <item>A kaleidoscope of places</item>
+        <item>שלום עולם!</item>
+        <item>בדרכים</item>
+        <item>גלילור של מקומות</item>
     </string-array>
     <string-array name="autumn_season_title">
-        <item>Autumn splendor</item>
-        <item>Radiant fall</item>
+        <item>הדר הסתיו</item>
+        <item>מפל קורן</item>
     </string-array>
     <string-array name="baby_sexy">
         <item>ילד</item>
@@ -99,211 +103,80 @@
         <item>גבה תמונות</item>
         <item>סנכרן תמונות עם הענן</item>
     </string-array>
-    <string-array name="card_last_week_day">
-        <item>Last Monday</item>
-        <item>Last Tuesday</item>
-        <item>Last Wednesday</item>
-        <item>Last Thursday</item>
-        <item>Last Friday</item>
-    </string-array>
-    <string-array name="chinese_holiday_last_year">
-        <item>"Last Chinese New Year's Eve"</item>
-        <item>Last Chinese New Year</item>
-        <item>Last Lantern Festival</item>
-        <item>Last Dragon Boat Festival</item>
-        <item>Last Qixi Festival</item>
-        <item>Last Mid-Autumn Festival</item>
-    </string-array>
-    <string-array name="chinese_holiday_past_year">
-        <item>"Chinese New Year's Eve through the years"</item>
-        <item>Chinese New Year through the years</item>
-        <item>Lantern Festival through the years</item>
-        <item>Dragon Boat Festival through the years</item>
-        <item>Qixi Festival through the years</item>
-        <item>Mid-Autumn Festival through the years</item>
-    </string-array>
     <string-array name="chinese_new_year_eve_title">
-        <item>A night to remember</item>
-        <item>New page</item>
-        <item>Fireworks</item>
+        <item>לילה שייזכר</item>
+        <item>דף חדש</item>
+        <item>זיקוקים</item>
     </string-array>
     <string-array name="chinese_new_year_title">
-        <item>Happy New Year!</item>
-        <item>Dawn of the new year</item>
+        <item>שנה אזרחית טובה!</item>
+        <item>תחילתה של שנה חדשה</item>
     </string-array>
     <string-array name="chinese_zodiac_year">
-        <item>Year of the Monkey</item>
-        <item>Year of the Rooster</item>
-        <item>Year of the Dog</item>
-        <item>Year of the Pig</item>
-        <item>Year of the Rat</item>
-        <item>Year of the Ox</item>
-        <item>Year of the Tiger</item>
-        <item>Year of the Rabbit</item>
-        <item>Year of the Dragon</item>
-        <item>Year of the Snake</item>
-        <item>Year of the Horse</item>
-        <item>Year of the Goat</item>
+        <item>שנת הקוף</item>
+        <item>שנת התרנגול</item>
+        <item>שנת הכלב</item>
+        <item>שנת החזיר</item>
+        <item>שנת העכברוש</item>
+        <item>שנת השור</item>
+        <item>שנת הטיגריס</item>
+        <item>שנת הארנב</item>
+        <item>שנת הדרקון</item>
+        <item>שנת הנחש</item>
+        <item>שנת הסוס</item>
+        <item>שנת התיש</item>
     </string-array>
     <string-array name="city_title">
-        <item>Cityscapes</item>
-        <item>Streets and corners</item>
-    </string-array>
-    <string-array name="color_value">
-        <item>\#FFFFFFFF</item>
-        <item>\#FF3D3D3D</item>
-        <item>\#FFFF4F57</item>
-        <item>\#FFFF6A56</item>
-        <item>\#FFFF8832</item>
-        <item>\#FFFACE34</item>
-        <item>\#FFDFAB47</item>
-        <item>\#FFD9FF86</item>
-        <item>\#FF85F573</item>
-        <item>\#FF93FDD7</item>
-        <item>\#FF3AE1EB</item>
-        <item>\#FF69B7FF</item>
-        <item>\#FF47A6FE</item>
-        <item>\#FF94ADEF</item>
-        <item>\#FFF4AFFF</item>
-        <item>\#FFEC46EF</item>
-        <item>\#FF6C7B,#FFA683</item>
-        <item>\#FF6C7B,#FFC683</item>
-        <item>\#FF6A87,#DBA7E9</item>
-        <item>\#59F2F7,#30C9FD</item>
-        <item>\#7DB0FC,#FD9EA2</item>
-        <item>\#F973B7,#95A3FB</item>
-        <item>\#3DAAFB,#60DBFA</item>
-        <item>\#98E6CB,#82A2E8</item>
-        <item>\#8C96FE,#47B6FE</item>
-        <item>\#7DE7A1,#A3DD7A</item>
-        <item>\#F2ED75,#82E8E8</item>
-        <item>\#FEAC92,#AFB1D4</item>
-        <item>\#6CB8FF,#FFEEB4</item>
-    </string-array>
-    <string-array name="doodle_color_selector_array">
-        <item>\#FFFFFF</item>
-        <item>\#3D3D3D</item>
-        <item>\#F5330F</item>
-        <item>\#FF6A56</item>
-        <item>\#FF8832</item>
-        <item>\#FACE34</item>
-        <item>\#DFAB47</item>
-        <item>\#D9FF86</item>
-        <item>\#85F573</item>
-        <item>\#93FDD7</item>
-        <item>\#3AE1EB</item>
-        <item>\#69B7FF</item>
-        <item>\#187BFD</item>
-        <item>\#94ADEF</item>
-        <item>\#865AFF</item>
-        <item>\#F4AFFF</item>
-        <item>\#EC46EF</item>
+        <item>נופים עירוניים</item>
+        <item>רחובות ופינות</item>
     </string-array>
     <string-array name="flowers_title">
-        <item>Gentle petals</item>
-        <item>In full bloom</item>
+        <item>עלי כותרת עדינים</item>
+        <item>בשיא הפריחה</item>
     </string-array>
     <string-array name="forest_title">
-        <item>Into the wild</item>
-        <item>Wild and free</item>
-    </string-array>
-    <string-array name="frame_color_selector_array">
-        <item>\#FFFFFF</item>
-        <item>\#3D3D3D</item>
-        <item>\#636363</item>
-        <item>\#FF8832</item>
-        <item>\#FACE34</item>
-        <item>\#D9FF86</item>
-        <item>\#85F573</item>
-        <item>\#93FDD7</item>
-        <item>\#3AE1EB</item>
-        <item>\#69B7FF</item>
-        <item>\#47A6FE</item>
-        <item>\#865AFF</item>
-        <item>\#F4AFFF</item>
-        <item>\#FFC86B</item>
-        <item>\#BFE1E8</item>
-        <item>\#8AA5D5</item>
-        <item>\#B7B2D1</item>
-        <item>\#FFD1D1</item>
-        <item>\#975B50</item>
-        <item>\#7D6456</item>
-        <item>\#8F7C5D</item>
-        <item>\#5E7966</item>
-        <item>\#6A7D81</item>
-        <item>\#5C687F</item>
-        <item>\#5B576F</item>
-        <item>\#937373</item>
+        <item>טבע פראי</item>
+        <item>פראי וחופשי</item>
     </string-array>
     <string-array name="group_people_title">
-        <item>Our get-togethers</item>
-        <item>In the company of friends</item>
-        <item>Long time no see</item>
-    </string-array>
-    <string-array name="holiday_last_year">
-        <item>"Last New Year's Day"</item>
-        <item>"Last Valentine's Day"</item>
-        <item>Last Labor Day</item>
-        <item>"Last Children's Day"</item>
-        <item>Last National Day</item>
-        <item>Last Christmas</item>
-    </string-array>
-    <string-array name="holiday_past_year">
-        <item>"New Year's Day through the years"</item>
-        <item>"Valentine's Day through the years"</item>
-        <item>Labor Day through the years</item>
-        <item>"Children's Day through the years"</item>
-        <item>National Day through the years</item>
-        <item>Christmas through the years</item>
+        <item>המפגשים שלנו</item>
+        <item>עם חברים</item>
+        <item>לא התראינו זמן רב</item>
     </string-array>
     <string-array name="important_people_title">
-        <item>Your favorite subjects</item>
-        <item>Kindred spirits</item>
-        <item>"Life's bright moments"</item>
-    </string-array>
-    <string-array name="last_month">
-        <item>January</item>
-        <item>February</item>
-        <item>March</item>
-        <item>April</item>
-        <item>May</item>
-        <item>June</item>
-        <item>July</item>
-        <item>August</item>
-        <item>September</item>
-        <item>October</item>
-        <item>November</item>
-        <item>December</item>
+        <item>הדברים האהובים עליך</item>
+        <item>נשמות קרובות</item>
+        <item>הרגעים השמחים של החיים</item>
     </string-array>
     <string-array name="last_some_day_babies_title">
-        <item>Busy growing up</item>
-        <item>Cuter and cuter</item>
-        <item>Little explorer</item>
+        <item>עסוקים בגדילה</item>
+        <item>יותר ויותר חמוד</item>
+        <item>חוקר קטן</item>
     </string-array>
     <string-array name="last_some_day_fit_title">
-        <item>Fitness diary</item>
-        <item>Stronger and stronger</item>
+        <item>יומן כושר</item>
+        <item>מתחזקים יותר ויותר</item>
     </string-array>
     <string-array name="last_some_day_foods_title">
-        <item>Bon appétit!</item>
-        <item>Another bite?</item>
-        <item>Enjoy your meal!</item>
+        <item>בתיאבון!</item>
+        <item>עוד נגיסה?</item>
+        <item>תיהנו מהארוחה!</item>
     </string-array>
     <string-array name="last_some_day_playground_title">
-        <item>Smile and wave!</item>
-        <item>Playtime</item>
+        <item>מחייכים ומנופפים!</item>
+        <item>זמן לשחק</item>
     </string-array>
     <string-array name="last_some_day_ski_title">
-        <item>The great outdoors</item>
-        <item>Tracks in the snow</item>
+        <item>בחיק הטבע</item>
+        <item>מסלולים בשלג</item>
     </string-array>
     <string-array name="last_some_day_sports_title">
-        <item>Unstoppable</item>
-        <item>Staying fit</item>
+        <item>אי-אפשר לעצור אותם</item>
+        <item>שומרים על כושר</item>
     </string-array>
     <string-array name="last_some_day_wedding_title">
-        <item>A big day</item>
-        <item>Down the aisle!</item>
+        <item>יום גדול</item>
+        <item>אל החופה!</item>
     </string-array>
     <string-array name="last_week_baby_title">
         <item>Time to play</item>
@@ -319,241 +192,10 @@
         <item>New friends and old pals</item>
         <item>"Last year's get-togethers"</item>
     </string-array>
-    <string-array name="magic_effects_audio_titles">
-        <item></item>
-        <item></item>
-        <item>פנאי</item>
-        <item>בריזה</item>
-        <item>חלומות</item>
-        <item>עננים</item>
-        <item>מחשבות</item>
-        <item>ניצנים</item>
-        <item>מטמורפוזה</item>
-        <item>עומק</item>
-        <item>השתקפויות</item>
-        <item>מינימליסטי</item>
-        <item>מסתורין</item>
-        <item>ערפל כבד</item>
-    </string-array>
-    <string-array name="magic_effects_description">
-        <item>הפוך את הרקע לסקיצות</item>
-        <item>רקעים בסגנון צבעי מים</item>
-        <item>סייברפאנק רטרו</item>
-        <item>קווים אנכיים לא במקום</item>
-        <item>טשטוש</item>
-        <item>הרגשה עתידנית</item>
-    </string-array>
-    <string-array name="magic_effects_icon">
-        <item>magic_special_sketch</item>
-        <item>magic_special_watercolour</item>
-        <item>magic_special_rbg</item>
-        <item>magic_special_window_shades</item>
-        <item>magic_special_window_fog</item>
-        <item>magic_special_fault_style</item>
-    </string-array>
-    <string-array name="magic_effects_icon_thumb">
-        <item>magic_special_thumb_sketch</item>
-        <item>magic_special_thumb_watercolour</item>
-        <item>magic_special_thumb_rbg</item>
-        <item>magic_special_thumb_window_shades</item>
-        <item>magic_special_thumb_window_fog</item>
-        <item>magic_special_thumb_fault_style</item>
-    </string-array>
-    <string-array name="magic_effects_title">
-        <item>סקיצה</item>
-        <item>צבע מים</item>
-        <item>RGB</item>
-        <item>תריסים</item>
-        <item>חלון עם אדים</item>
-        <item>טק</item>
-    </string-array>
-    <string-array name="magic_effects_video_titles">
-        <item></item>
-        <item>קו מתאר בצבע</item>
-        <item>קו מתאר מקווקו</item>
-        <item>קו מתאר פלוריסנטי</item>
-        <item>צל בצבע</item>
-        <item>גל חשמלי</item>
-        <item>זרם</item>
-        <item>גלים</item>
-        <item>חלקיקים</item>
-        <item>טקסט</item>
-        <item>כנפיים</item>
-        <item>מלאך</item>
-    </string-array>
-    <string-array name="magic_id_photo_edit_hint_mm_array">
-        <item>10-120</item>
-        <item>10-120</item>
-    </string-array>
-    <string-array name="magic_id_photo_edit_hint_px_array">
-        <item>100-1024</item>
-        <item>100-1024</item>
-    </string-array>
-    <string-array name="magic_idp_color_common">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-    </string-array>
-    <string-array name="magic_idp_size_category">
-        <item>General</item>
-        <item>Travel</item>
-        <item>Work</item>
-        <item>Documents</item>
-        <item>Education</item>
-        <item>Exams</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_certificates">
-        <item>Social security</item>
-        <item>Statement of health</item>
-        <item>Medical insurance</item>
-        <item>ID</item>
-        <item>Residence permit</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_certificates_value">
-        <item>358×441+26×32</item>
-        <item>295×413+25×35</item>
-        <item>358×441+26×32</item>
-        <item>358×441+26×32</item>
-        <item>358×441+26×32</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_common">
-        <item></item>
-        <item>One cun</item>
-        <item>Teo cuns</item>
-        <item>Smaller one cun</item>
-        <item>Smaller two cuns</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_common_value">
-        <item>100-1024+25-87</item>
-        <item>295×413+25×35</item>
-        <item>413×579+35×49</item>
-        <item>260×378+22×32</item>
-        <item>413×531+35×45</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_education">
-        <item>Admission application</item>
-        <item>Student network</item>
-        <item>Student network for primary schools</item>
-        <item>Student network profile</item>
-        <item>University admission</item>
-        <item>NCEE</item>
-        <item>Resume</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_education_value">
-        <item>295×413+25×35</item>
-        <item>472×630+80×107</item>
-        <item>300×420+25×36</item>
-        <item>390×480+33×41</item>
-        <item>413×531+35×45</item>
-        <item>390×567+33×48</item>
-        <item>295×413+25×35</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_examination">
-        <item>College English Test 1</item>
-        <item>College English Test 2</item>
-        <item>College English Test 3</item>
-        <item>Putonghua Proficiency Test 1</item>
-        <item>Putonghua Proficiency Test 2</item>
-        <item>Degree English Test</item>
-        <item>PET for colleges</item>
-        <item>PETS Level 3</item>
-        <item>National Computer Rank Examination 1</item>
-        <item>National Computer Rank Examination 2</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_examination_value">
-        <item>144×192+12×16</item>
-        <item>240×320+20×27</item>
-        <item>150×200+13×17</item>
-        <item>144×192+12×16</item>
-        <item>390×567+33×48</item>
-        <item>140×180+12×15</item>
-        <item>295×413+25×35</item>
-        <item>144×192+33×48</item>
-        <item>240×320+20×27</item>
-        <item>144×192+33×48</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_profession">
-        <item>Primary and secondary school teacher certification</item>
-        <item>Teacher certification</item>
-        <item>"Driver's license"</item>
-        <item>Guide permit</item>
-        <item>Electronic guide permit</item>
-        <item>National judicial examination</item>
-        <item>Electronic first-class constructor certificate</item>
-        <item>Second-class constructor certificate</item>
-        <item>Junior accounting title examination</item>
-        <item>Certified public accountant</item>
-        <item>Beijing guide permit</item>
-        <item>Intermediate accounting title examination</item>
-        <item>Senior accounting title examination</item>
-        <item>Accounting qualification certificate</item>
-        <item>Certified public accountant examination</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_profession_value">
-        <item>295×413+25×35</item>
-        <item>180×240+15×20</item>
-        <item>260×378+22×32</item>
-        <item>285×385+23×33</item>
-        <item>413×626+35×53</item>
-        <item>413×626+35×53</item>
-        <item>295×413+25×35</item>
-        <item>215×300+18×25</item>
-        <item>295×413+25×35</item>
-        <item>178×220+15×19</item>
-        <item>413×531+35×45</item>
-        <item>114×156+10×13</item>
-        <item>114×156+10×13</item>
-        <item>500×700+42×59</item>
-        <item>295×413+25×35</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_visa">
-        <item>United States</item>
-        <item>Vietnam</item>
-        <item>Japan</item>
-        <item>Hong Kong and Macau</item>
-        <item>South Korea</item>
-        <item>Thailand (tourist)</item>
-        <item>Thailand (on arrival)</item>
-        <item>India</item>
-        <item>Israel</item>
-        <item>Taiwan</item>
-        <item>Malaysia</item>
-        <item>New Zealand</item>
-        <item>Italy</item>
-        <item>Argentina</item>
-        <item>Brazil</item>
-        <item>Iceland</item>
-        <item>Kenya</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_visa_value">
-        <item>600×600+51×51</item>
-        <item>413×531+35×45</item>
-        <item>531×531+45×45</item>
-        <item>390×567+33×48</item>
-        <item>413×531+35×45</item>
-        <item>413×531+35×45</item>
-        <item>472×708+40×60</item>
-        <item>591×591+51×51</item>
-        <item>591×591+51×51</item>
-        <item>413×531+35×45</item>
-        <item>413×531+35×45</item>
-        <item>900×1200+76×102</item>
-        <item>413×472+35×40</item>
-        <item>472×472+40×40</item>
-        <item>413×531+40×50</item>
-        <item>413×531+40×50</item>
-        <item>591×591+50×50</item>
-    </string-array>
-    <string-array name="magic_system_model">
-        <item>Mi 10</item>
-        <item>Mi 10 Pro</item>
-        <item>Mi 11</item>
-        <item>Mi 11 Pro</item>
+    <string-array name="menu_copy_or_move">
+        <item>העבר</item>
+        <item>העתק</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>ינואר</item>
@@ -569,32 +211,18 @@
         <item>נובמבר</item>
         <item>דצמבר</item>
     </string-array>
-    <string-array name="month_last_year">
-        <item>Last January</item>
-        <item>Last February</item>
-        <item>Last March</item>
-        <item>Last April</item>
-        <item>Last May</item>
-        <item>Last June</item>
-        <item>Last July</item>
-        <item>Last August</item>
-        <item>Last September</item>
-        <item>Last October</item>
-        <item>Last November</item>
-        <item>Last December</item>
-    </string-array>
     <string-array name="monthly_babies_title">
-        <item>"You've grown up!"</item>
-        <item>"You've grown up again!"</item>
+        <item>גדלת!</item>
+        <item>שוב גדלת!</item>
     </string-array>
     <string-array name="monthly_foods_title">
-        <item>My personal menu</item>
-        <item>Tasty memories</item>
-        <item>Second helping, please!</item>
+        <item>התפריט האישי שלי</item>
+        <item>זיכרונות טעימים</item>
+        <item>עוד מנה בבקשה!</item>
     </string-array>
     <string-array name="mountain_title">
-        <item>"World's best views"</item>
-        <item>Keep climbing</item>
+        <item>הנופים הטובים בעולם</item>
+        <item>ממשיכים לטפס</item>
     </string-array>
     <string-array name="owner_relation">
         <item>אבא</item>
@@ -610,20 +238,20 @@
         <item>שם האלבום</item>
     </string-array>
     <string-array name="people_travel_title">
-        <item>Where the road takes us</item>
-        <item>Journeys well shared</item>
+        <item>זורמים עם הדרך</item>
+        <item>טוב לשתף מסעות</item>
     </string-array>
     <string-array name="quarterly_babies_title">
-        <item>A cheerful spring</item>
-        <item>A joyful summer</item>
-        <item>A happy autumn</item>
-        <item>A jolly winter</item>
+        <item>אביב עליז</item>
+        <item>קיץ שמח</item>
+        <item>סתיו מאושר</item>
+        <item>חורף כיפי</item>
     </string-array>
     <string-array name="quarterly_foods_title">
-        <item>Spring meals</item>
-        <item>Summer treats</item>
-        <item>Autumn feasts</item>
-        <item>Winter tuck-ins</item>
+        <item>ארוחות באביב</item>
+        <item>פינוקי קיץ</item>
+        <item>חגיגות סתיו</item>
+        <item>מתכרבלים בחורף</item>
     </string-array>
     <string-array name="recent_group_people">
         <item>Together</item>
@@ -638,24 +266,11 @@
         <item>חברים</item>
         <item>לא בקבוצה</item>
     </string-array>
-    <string-array name="search_voice_assistant_suggestion">
-        <item>帮我找出身份证的照片</item>
-        <item>我想看在三亚拍的照片</item>
-        <item>找出有小米文字的图片</item>
-        <item>搜索去年春节的照片</item>
-        <item>帮我搜我和妈妈上个月在海边的合影</item>
-    </string-array>
     <string-array name="season">
         <item>אביב</item>
         <item>קיץ</item>
         <item>סתיו</item>
         <item>חורף</item>
-    </string-array>
-    <string-array name="season_last_year">
-        <item>Last spring</item>
-        <item>Last summer</item>
-        <item>Last autumn</item>
-        <item>Last winter</item>
     </string-array>
     <string-array name="sharer_relation_addressive">
         <item>אבא</item>
@@ -665,39 +280,29 @@
         <item>סבא מצד האמא</item>
         <item>סבתא מצד האמא</item>
     </string-array>
-    <string-array name="spinner_list">
-        <item>px</item>
-        <item>mm</item>
-    </string-array>
     <string-array name="sports_title">
         <item>נע קדימה</item>
         <item>מלא באנרגיה</item>
     </string-array>
     <string-array name="spring_season_title">
-        <item>Blooms of spring</item>
-        <item>Spring is in the air</item>
-        <item>Hello spring!</item>
+        <item>פריחת האביב</item>
+        <item>אביב באוויר</item>
+        <item>שלום לך אביב!</item>
     </string-array>
     <string-array name="summer_season_title">
-        <item>A bit of summer</item>
-        <item>Where summer never ends</item>
+        <item>קצת קיץ</item>
+        <item>מקום שבו קיץ אף פעם לא נגמר</item>
     </string-array>
     <string-array name="sunrise_sunset_title">
-        <item>Golden hours</item>
-        <item>Rays of gold</item>
+        <item>שעות הזהב</item>
+        <item>קרני זהב</item>
     </string-array>
     <string-array name="three_month_baby_title">
         <item>They grow so fast</item>
         <item>"Kiddo's photos"</item>
     </string-array>
-    <string-array name="weekend_title">
-        <item>Past weekends</item>
-        <item>Days to remember</item>
-        <item>Daily events</item>
-        <item>Ordinary &amp; Extraordinary</item>
-    </string-array>
     <string-array name="winter_season_title">
-        <item>Winter days</item>
-        <item>Winter wonderland</item>
+        <item>ימים חורפיים</item>
+        <item>ארץ פלאי החורף</item>
     </string-array>
 </resources>

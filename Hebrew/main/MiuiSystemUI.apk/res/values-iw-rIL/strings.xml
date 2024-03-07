@@ -275,6 +275,8 @@
     <string name="keyguard_charging_super_quick_and_level_tip">טעינה מהירה %d%%</string>
     <string name="keyguard_editor_super_save_mode_toast">לא ניתן לערוך את מסך הנעילה כאשר מצב חיסכון קיצוני בסוללה מופעל</string>
     <string name="keyguard_left_mi_wallet">ארנק Mi</string>
+    <string name="keyguard_left_remotecentral">שלט Mi</string>
+    <string name="keyguard_left_smarthome">‫Mi Home</string>
     <string name="keyguard_left_torch">פנס</string>
     <string name="keyguard_left_view_lock_wallpaper">טפט קרוסלה</string>
     <string name="keyguard_loading_to_editor_tips">פותח את עורך מסך הנעילה…</string>
@@ -411,8 +413,6 @@ mm"</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>בחר &lt;font color=#a5220e>\"הסרה ואיפוס\"&lt;/font> והמתן לביצוע אתחול של המכשיר.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">כיצד למחוק נתונים?</string>
     <string name="phone_locked_string">מכשיר זה נעול</string>
-    <string name="phone_locked_string_owner_user">יותר מדי ניסיונות כושלים להזין את סיסמת שטח ראשון. כעת המכשיר נעול.</string>
-    <string name="phone_locked_string_second_user">יותר מדי ניסיונות כושלים להזין את סיסמת שטח שני. כעת המכשיר נעול.</string>
     <string name="pm">PM</string>
     <string name="privacy_dialog_title">התראות על פעולות רגישות</string>
     <string name="privacy_recent_used_title">לאחרונה</string>
@@ -543,6 +543,8 @@ mm"</string>
     <string name="status_bar_clock_date_format_12">E, MMM d</string>
     <string name="status_bar_clock_date_time_format">H:mm E, MMM d</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, MMM d</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="strong_toast_charging">טוען</string>
     <string name="strong_toast_quick_charging">טעינה מהירה</string>
     <string name="sunday">ראשון</string>

@@ -8,14 +8,17 @@
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
+    <string name="cast_auth_count_down">יש להזין את הקוד מ-\"%1$s\" כדי להתחיל לשדר (%2$d)</string>
+    <string name="cast_auth_title">נא להזין קוד</string>
     <string name="cast_image_des">מדריך שידור</string>
     <string name="casting_tips">משדר…</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="close">סגירה</string>
+    <string name="close_auxiliary_wifi_hint">יש להשבית את \"האצת מהירות Wi-Fi עם תדר כפול\" כדי לשדר</string>
+    <string name="close_auxiliary_wifi_hint_china">Turn off \"Dual band WLAN speed boost\" to be able to cast</string>
+    <string name="close_dp_casting_hint">יש לנתק את הכבל ולנסות שוב</string>
     <string name="close_hotspot_hint">כבה את הנקודה החמה לפני השידור</string>
     <string name="close_hotspot_hint_DFS">כדי להעביר פריטים לטלוויזיה, עליך לכבות קודם את הנקודה החמה.</string>
-    <string name="close_slave_wifi_hint">נתק את רשתות העזר של ה-Wi-Fi לפני השידור</string>
-    <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">Wi-Fi של Xiaomi Conference Tapcast</string>
     <string name="connect_device_fail">לא ניתן היה להתחבר למכשיר</string>
@@ -32,6 +35,7 @@
     <string name="device_desc_trust">מכשירים מהימנים</string>
     <string name="dialog_can_not_find_device">לא ניתן למצוא מכשירים בסביבה הקרובה</string>
     <string name="dialog_cancle">ביטול</string>
+    <string name="dialog_close">להשבית</string>
     <string name="dialog_connect_fail">לא ניתן להתחבר</string>
     <string name="dialog_connect_retry">הקש כדי לנסות שוב</string>
     <string name="dialog_connect_verify_perssion">קודם אשר שידור מסך במכשיר הטלוויזיה שלך</string>
@@ -46,8 +50,8 @@
     <string name="dialog_nearbydevice_permission_message">יש לאפשר למכשיר זה גישה למכשירים בסביבה הקרובה כדי להשתמש במאפייני השידור.</string>
     <string name="dialog_nearbydevice_permission_title">נדרשות הרשאות</string>
     <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
-    <string name="dialog_no_device_message">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. חבר גם את המכשיר הנייד שלך וגם את הטלוויזיה לאותה רשת Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. בדגמי טלוויזיה מסוימים תכונה זו זמינה רק כאשר שיקוף המסך מופעל. היכנס ל&lt;a href=milink://com.milink.service/specification>\"עזרה\"&lt;/a> לקבלת למידע נוסף.&lt;/Data></string>
-    <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
+    <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. חבר גם את המכשיר הנייד שלך וגם את הטלוויזיה לאותה רשת Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. בדגמי טלוויזיה מסוימים תכונה זו זמינה רק כאשר שיקוף המסך מופעל. היכנס ל&lt;a href=milink://com.milink.service/specification>\"עזרה\"&lt;/a> לקבלת למידע נוסף.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.</Data></string>
     <string name="dialog_ok">אישור</string>
     <string name="dialog_only_suport_content">הזרם תמונות, סרטונים או מוזיקה</string>
     <string name="dialog_open_wifi_bt">הפעל</string>
@@ -61,6 +65,9 @@
     <string name="dialog_scan_message_china">"%1$d. Connect both your mobile device and TV to the same WLAN network.
 
 %2$d. View \"Help\" to learn more."</string>
+    <string name="dialog_scanning_close_dual_wifi_china">Turn off \"Dual band WLAN speed boost\" to be able to cast. Turn this feature off now?</string>
+    <string name="dialog_scanning_close_dual_wifi_global">יש להשבית את \"האצת מהירות Wi-Fi עם תדר כפול\" כדי לשדר. להשבית את המאפיין הזה עכשיו?</string>
+    <string name="dialog_scanning_close_tethering">יש להשבית את הנקודה החמה כדי שניתן יהיה לשדר. להשבית את הנקודה החמה עכשיו?</string>
     <string name="dialog_scanning_device">מחפש מכשירים בסביבה הקרובה…</string>
     <string name="dialog_scanning_precondition">"הפעל אינטרנט אלחוטי ובלוטות' בטלפון שלך כדי להשתמש בשידור מסך אלחוטי."</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
@@ -68,11 +75,13 @@
     <string name="dialog_select_tv">בחר מכשיר (%1$d)</string>
     <string name="dialog_show_help">עזרה</string>
     <string name="disconnect">הפסק את השידור</string>
+    <string name="dp_casting_start_hint">מחובר באמצעות כבל. השידור הסתיים.</string>
     <string name="dual_wifi_warning_china">Turn off dual WLAN and try again</string>
     <string name="dual_wifi_warning_global">יש להשבית Wi-Fi כפול ולנסות שוב</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="empty" />
     <string name="enable_screen_projection_summary">הקרנת תוכן המסך לצג חיצוני</string>
+    <string name="enable_screen_projection_summary_new">שידור של מסך המכשיר הנייד לטלוויזיות ולמסכים חיצוניים אחרים שנמצאים בסביבה</string>
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
     <string name="evening">לפנות ערב</string>
@@ -132,24 +141,32 @@
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
     <string name="global_privacy">תנאים והגבלות</string>
-    <string name="global_privacy_detail">&lt;Data>עליך לקרוא את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a> שלנו ולהסכים אתם כדי להשתמש ביישום זה.&lt;br>אם אינך מסכים לשימוש בשירותים הנל, לא תוכל להשתמש בחלק ממאפייני היישום. עם זאת, הפונקציות הבסיסיות שלו עדיין יהיו זמינות עבורך.&lt;/Data></string>
+    <string name="global_privacy_detail"><Data>עליך לקרוא את &lt;a href=%1$s>הסכם המשתמש&lt;/a> ואת &lt;a href=%2$s>מדיניות הפרטיות&lt;/a> שלנו ולהסכים אתם כדי להשתמש ביישום זה.&lt;br>אם אינך מסכים לשימוש בשירותים הנל, לא תוכל להשתמש בחלק ממאפייני היישום. עם זאת, הפונקציות הבסיסיות שלו עדיין יהיו זמינות עבורך.</Data></string>
     <string name="global_privacy_explain">ברוך הבא ל-Casting! יישום זה מספק את השירותים הבאים:</string>
     <string name="global_privacy_feature">שימוש בחלונות ממוזערים, שידור כאשר המסך כבוי והסתרת פריטים פרטיים.</string>
     <string name="global_privacy_main">הצגת הפריטים שמופיעים על מסך הטלפון שלך על צג חיצוני גדול יותר.</string>
     <string name="global_privacy_negative">לא מסכים</string>
     <string name="global_privacy_positive">מסכים</string>
     <string name="global_privacy_screencast">בזמן ההקלטה או השידור, השירות המספק תכונה זו יכול לתפוס כל מידע רגיש שמוצג על המסך שלך או מושמע מהמכשיר שלך, כולל מידע רגיש כגון שמע, סיסמאות, פרטי תשלום, תמונות והודעות.</string>
-    <string name="global_privacy_tip">&lt;Data>עלינו לאסוף את הנתונים האישיים הנדרשים כדי לספק לך את השירותים הבסיסיים ולמטב את תהליך השידור. ניתן למצוא מידע נוסף לגבי אופן הטיפול שלנו במידע שאנו אוספים &lt;a href=%1$s>במדיניות הפרטיות&lt;/a> שלנו. באפשרותך למשוך את הסכמתך למדיניות הפרטיות בכל עת, תחת ההגדרות.&lt;/Data></string>
+    <string name="global_privacy_tip"><Data>עלינו לאסוף את הנתונים האישיים הנדרשים כדי לספק לך את השירותים הבסיסיים ולמטב את תהליך השידור. ניתן למצוא מידע נוסף לגבי אופן הטיפול שלנו במידע שאנו אוספים &lt;a href=%1$s>במדיניות הפרטיות&lt;/a> שלנו. באפשרותך למשוך את הסכמתך למדיניות הפרטיות בכל עת, תחת ההגדרות.</Data></string>
     <string name="hang_up">שדר כשהמסך כבוי</string>
     <string name="hang_up_alert_dialog_content">המשך לשדר את המסך כשמסך המכשיר כבוי. מאפיין זה מפחית את צריכת האנרגיה. לחץ על כפתור ההפעלה כדי להפעיל את המסך שוב.</string>
     <string name="hang_up_alert_dialog_neg">ביטול</string>
     <string name="hang_up_alert_dialog_pos">אישור</string>
     <string name="hang_up_alert_dialog_title">אודות שידור עם מסך כבוי…</string>
+    <string name="head_toast_connecting">מתחבר…</string>
+    <string name="head_toast_fail">לא ניתן היה להתחבר</string>
+    <string name="head_toast_success">התחבר בהצלחה</string>
+    <string name="help_page_question_1st_01_international">"%1$d כשהמכשיר שאליו מתבצע השידור הוא טלוויזיה של Xiaomi, יש להפעיל בה את Miracast.
+%2$d כשהמכשיר שאליו מתבצע השידור הוא טלוויזיה שאינה של Xiaomi, יש לוודא שהטלוויזיה תומכת ב-Miracast והפונקציה הזו מופעלת. בדגמי טלוויזיה מסוימים יכול להיות שם אחר לפוונקציה הזאת, כמו תצוגה אלחוטית, שיקוף מסך או מסכים מרובים."</string>
+    <string name="help_page_setp_1st_02_international">%1$d. בטלוויזיות של מותגים מסוימים פונקציית Miracast מופעלת באופן אוטומטי.</string>
+    <string name="help_page_step_1st_01_international">%1$d. יש להפעיל את Miracast בטלוויזיית Xiaomi שלך.</string>
     <string name="help_page_text_01">עזרה</string>
     <string name="help_page_text_02">מהו שידור?</string>
     <string name="help_page_text_03">שידור הוא הקרנת התוכן של מסך הטלפון שלך לצג חיצוני גדול יותר. זה מאפשר לשתף תמונות וסרטונים עם חברים ובני משפחה, בלי שימוש בתעבורה סלולרית.</string>
     <string name="help_page_text_04">איך לשדר תוכן למסך גדול יותר?</string>
     <string name="help_page_text_05">שלב %1$d: בדוק את המכשירים ואת סביבת העבודה שלך</string>
+    <string name="help_page_text_05_new">שלב %1$d: בדיקת את המכשירים ואת סביבת הרשת שלך</string>
     <string name="help_page_text_06">"%1$d. Xiaomi TVs, set-top boxes, projectors:
 Connect both your mobile device and external monitor to the same WLAN network for best effect. If they are connected to different networks, it might take more time to find the external monitor and connect.
 Note: Older TV models might not support casting across different networks.
@@ -160,13 +177,33 @@ If the two devices can't be connected to the same network, turn on Miracast on y
 הערה: ייתכן שדגמי טלוויזיה ישנים יותר לא תומכים בשידור דרך רשתות שונות.
 %2$d. אם אתה משתמש במכשיר טלוויזיה, ממיר או מקרן של מותגים אחרים, חבר גם את המכשיר הנייד וגם את המסך החיצוני לאותה רשת Wi-Fi.
 אם לא ניתן לחבר את שני המכשירים לאותה הרשת, הפעל את Miracast במסך החיצוני שלך. שם הפונקציה Miracast עשוי להיות שונה במסכים שונים."</string>
+    <string name="help_page_text_06_new_1">טלוויזיות, ממירי טלוויזיה ומקרנים של Xiaomi:</string>
+    <string name="help_page_text_06_new_2">"%1$d. יש לוודא שהמכשיר הנייד והמסך החיצוני שלך מחוברים לאותה רשת Wi-Fi.
+%2$d. בטלוויזיות מסוימות של Xiaomi ניתן להגדיר שידור מהטלוויזיה וגם לבצע התאמה אישית של שיטות האימות והחיפוש במכשיר."</string>
+    <string name="help_page_text_06_new_3">*ניתן להגדיר את העדפות השידור עבור הטלוויזיה שלך תחת הגדרות השידור.</string>
+    <string name="help_page_text_06_new_4">טלוויזיות, ממירי טלוויזיה ומקרנים שאינם של Xiaomi:</string>
+    <string name="help_page_text_06_new_5">"%1$d. יש לוודא שהמכשיר הנייד והמסך החיצוני שלך מחוברים לאותה רשת Wi-Fi
+%2$d. בטלוויזיות של מותגים מסוימים צריך להפעיל את Miracast כדי לאפשר שידור."</string>
+    <string name="help_page_text_06_new_6">מידע נוסף</string>
     <string name="help_page_text_08">שלב %1$d: הפעל שידור</string>
+    <string name="help_page_text_08_new">שלב %1$d: הפעלת שידור</string>
     <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both WLAN and Bluetooth for a more stable connection."</string>
     <string name="help_page_text_09_global">הקש על המתג \"Cast\" (\"שידור\") בלוח ההתראות במכשירך. לחיבור יציב יותר יש להפעיל גם את ה-Wi-Fi וגם את ה-Bluetooth.</string>
+    <string name="help_page_text_09_new_1">יש להפעיל שידור במרכז הבקרה של המכשיר, ולאחר מכן לחפש מסך חיצוני.</string>
     <string name="help_page_text_10">אם ברצונך לשדר תמונות, סרטונים, משחקים או מצגות, אפשר להשתמש במאפייני השידור המובנים של היישומים הרלוונטיים.</string>
     <string name="help_page_text_11">שלב %1$d: בחר מכשיר</string>
+    <string name="help_page_text_11_new">שלב %1$d: בחירת מכשיר</string>
     <string name="help_page_text_12">בחר מכשיר חיצוני מרשימת המכשירים הזמינים כדי להתחיל לשדר.</string>
+    <string name="help_page_text_12_new_1">נא לבחור מכשיר חיצוני מרשימת המכשירים הזמינים כדי להתחיל שידור.</string>
     <string name="help_page_text_13">אי אפשר להתחבר למכשיר חיצוני?</string>
+    <string name="help_page_text_13_act_label_1">שאלות נפוצות</string>
+    <string name="help_page_text_13_desc_1">"%1$d. יש לוודא שהמכשיר הנייד והמסך החיצוני שלך מחוברים לאותה רשת Wi-Fi או לאותה נקודה חמה.
+%2$d. יש לוודא שסביבת הרשת יציבה. אם לא, יש לנסות לאתחל את הנתב או לעבור לתדר של %3$d GHz.
+%4$d. בזמן שידור לטלוויזיה של Xiaomi יש להפעיל את מאפיין השידור האלחוטי בטלוויזיה. בזמן הההתחברות יש להישאר בדף השידור.
+%5$d. רשתות LAN ציבוריות גדולות מסוימות, כמו רשתות של חברות ובתי ספר, לא תומכות באפשרות של גילוי מכשירים באותה רשת LAN."</string>
+    <string name="help_page_text_13_desc_2">מכשירי טלוויזיה מסוימים משתמשים בחיבורים שאינם חיבורי LAN בזמן שידור. מכשירים מסוג זה יכולים להתנתק מהרשת, זו תופעה נורמלית. בדרך כלל הם יתחברו מחדש תוך %1$d-%2$d שניות אחרי סיום השידור.</string>
+    <string name="help_page_text_13_summary_1">לא ניתן להתחבר למכשיר חיצוני</string>
+    <string name="help_page_text_13_summary_2">שיבושי רשת בזמן שידור</string>
     <string name="help_page_text_14">"%1$d. If you want to use a Xiaomi device, but can't find it in the list of available devices, try the following:
 Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If there aren't any networks available or you can't connect both devices to the same network, check whether the casting features on your external monitor are up to date, turn on Bluetooth both on your mobile device and the external monitor, and turn on Miracast on your TV.
 %2$d. If you're casting on a Xiaomi device for the first time, you need to complete verification.
@@ -182,6 +219,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="help_page_text_17">"אפשר להקרין תוכן מטלפון Mi שלך לרוב דגמי הטלוויזיה Mi TV עם פונקציית בלוטות', ללא הפעלה ידנית של Miracast.
 אם עליך להפעיל את Miracast, לחץ על הכפתור [MENU] ובחר ב-\"אפליקציות שלי\" > \"שידור\" > Miracast."</string>
     <string name="help_page_text_17_1">שירות הלקוחות של Xiaomi: 400-100-5678</string>
+    <string name="help_page_text_17_content">You can project items from your Xiaomi phone on most Xiaomi TV models with Bluetooth capabilities without turning on Miracast manually. If you need to turn on Miracast, press the [MENU] button and start casting by using the option for other Android phones.</string>
     <string name="help_page_text_18">Samsung TV</string>
     <string name="help_page_text_19">ראשית, ודא שהמכשיר שלך תומך ב-Miracast. בדגמים מסוימים ניתן ללחוץ על הכפתור [SOURCE] בשלט הרחוק, ולאחר מכן לבחור באפשרות \"שיקוף מסך\". בדגמים מסוימים המאפיין הזה מופעל כהגדרת ברירת המחדל.</string>
     <string name="help_page_text_20">שירות הלקוחות של Samsung: 400-810-5858</string>
@@ -230,14 +268,14 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="keyguard_security_setting_privacy_policy">מדיניות הפרטיות</string>
     <string name="midnight">לילה</string>
     <string name="miuix_access_state_desc">נבחר</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
+    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
@@ -314,20 +352,20 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="paipai_connect_tv2_text">נתונים שהועברו</string>
     <string name="paipai_error_dialog_msg">נא לבדוק את הגדרות הרשת ולנסות שוב.</string>
     <string name="paipai_error_dialog_negative">הבנתי</string>
-    <string name="path_setting_cast">חיבור ושיתוף/הקרנה</string>
-    <string name="path_setting_cast_demo">חיבור ושיתוף/הקרנה/הדגמות</string>
-    <string name="path_setting_cast_demo_document">חיבור ושיתוף/הקרנה/הדגמות/מסמכים</string>
-    <string name="path_setting_cast_demo_gallery">חיבור ושיתוף/הקרנה/הדגמות/תמונות וסרטונים</string>
-    <string name="path_setting_cast_demo_game">חיבור ושיתוף/הקרנה/הדגמות/משחקים</string>
-    <string name="path_setting_cast_feature">חיבור ושיתוף/הקרנה/תכונות מיוחדות</string>
-    <string name="path_setting_cast_help">חיבור ושיתוף/הקרנה/עזרה</string>
+    <string name="path_setting_cast">אפשרויות קישוריות נוספות/שידור</string>
+    <string name="path_setting_cast_demo">אפשרויות קישוריות נוספות/שידור/הדגמות</string>
+    <string name="path_setting_cast_demo_document">אפשרויות קישוריות נוספות/שידור/הדגמות/מסמכים</string>
+    <string name="path_setting_cast_demo_gallery">אפשרויות קישוריות נוספות/שידור/הדגמות/תמונות וסרטונים</string>
+    <string name="path_setting_cast_demo_game">אפשרויות קישוריות נוספות/שידור/הדגמות/משחקים</string>
+    <string name="path_setting_cast_feature">אפשרויות קישוריות נוספות/שידור/מאפיינים מיוחדים</string>
+    <string name="path_setting_cast_help">אפשרויות קישוריות נוספות/שידור/עזרה</string>
     <string name="permission_allowed">ניתן</string>
     <string name="permission_uballowed">לא ניתן</string>
     <string name="pm">PM</string>
     <string name="pre_privacy_setting_title">פרטיות</string>
     <string name="privacy_agree">מסכים</string>
     <string name="privacy_detail">אפשר ליישום זה להתחבר לאינטרנט ותן לו את ההרשאות הנדרשות כדי להמשיך.</string>
-    <string name="privacy_detail_extra">"&lt;Data>מאפיינים מסוימים ניתנים על-ידי ספק שירותים צד ג', HappyCast. לפני שימוש במאפיין זה, עליך לקרוא את &lt;a href=%1$s>מדיניות הפרטיות&lt;/a> וגם את &lt;a href=%2$s>ההצהרה המשפטית&lt;/a> של HappyCast ולהסכים אתם.&lt;/Data>"</string>
+    <string name="privacy_detail_extra"><Data>"מאפיינים מסוימים ניתנים על-ידי ספק שירותים צד ג', HappyCast. לפני שימוש במאפיין זה, עליך לקרוא את &lt;a href=%1$s>מדיניות הפרטיות&lt;/a> וגם את &lt;a href=%2$s>ההצהרה המשפטית&lt;/a> של HappyCast ולהסכים אתם."</Data></string>
     <string name="privacy_explain">ברוך הבא אל Casting! היישום Casting מאפשר להקרין את תצוגת מסך הטלפון שלך אל מסך חיצוני גדול יותר. היישום הזה צריך להתחבר לאינטרנט וזקוק להרשאות הבאות כדי לעבוד כנדרש:</string>
     <string name="privacy_negative">יציאה</string>
     <string name="privacy_permission_ble">"הפעלה וכיבוי בלוטות'"</string>
@@ -369,11 +407,11 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="privacy_setting_show_lelink_policy">צפייה במדיניות פרטיות של HappyCast</string>
     <string name="privacy_setting_show_policy">צפה במדיניות הפרטיות</string>
     <string name="privacy_setting_show_user_agreement">צפייה בהסכם המשתמש</string>
-    <string name="privacy_text_1">"&lt;Data>ברוך הבא למאפיין השידור! שידור מאפשר לשדר את תוכן מסך הטלפון שלך על צג חיצוני גדול יותר.
+    <string name="privacy_text_1"><Data>"ברוך הבא למאפיין השידור! שידור מאפשר לשדר את תוכן מסך הטלפון שלך על צג חיצוני גדול יותר.
 אנו נגן על המידע האישי שלך בהתאם לחוקים, לתקנות, ולמסמכי מדיניות הפרטיות המתאימים. תכונות מסוימות ניתנות על ידי ספק צד שלישי בשם HappyCast. לפני השימוש בתכונה זו, קרא והסכם ל&lt;a href=%2$s>הצהרה המשפטית של HappyCast&lt;/a> ול&lt;a href=%1$s>מדיניות הפרטיות של HappyCast&lt;/a>.
-לפעילות תקינה של היישום עליו להתחבר לאינטרנט ולקבל את ההרשאות הבאות לצורך איסוף המידע האישי שלך:&lt;/Data>"</string>
-    <string name="privacy_text_2">"&lt;Data>לא תוכל להשתמש ביישום זה אם אינך מסכים להעניק הרשאות כאלו או לשיתוף והעלאה של מידע אישי. במקרים כאלו תוכל לבחור להסיר את היישום, לצאת, או לעבור ל'הגדרות' ולהגביל את ההרשאות.
-לפני השימוש בתכונה זו עליך לקרוא ולהסכים ל&lt;a href=%1$s>הסכם המשתמש&lt;/a> ול&lt;a href=%2$s>מדיניות הפרטיות&lt;/a>שלנו.&lt;/Data>"</string>
+לפעילות תקינה של היישום עליו להתחבר לאינטרנט ולקבל את ההרשאות הבאות לצורך איסוף המידע האישי שלך:"</Data></string>
+    <string name="privacy_text_2"><Data>"לא תוכל להשתמש ביישום זה אם אינך מסכים להעניק הרשאות כאלו או לשיתוף והעלאה של מידע אישי. במקרים כאלו תוכל לבחור להסיר את היישום, לצאת, או לעבור ל'הגדרות' ולהגביל את ההרשאות.
+לפני השימוש בתכונה זו עליך לקרוא ולהסכים ל&lt;a href=%1$s>הסכם המשתמש&lt;/a> ול&lt;a href=%2$s>מדיניות הפרטיות&lt;/a>שלנו."</Data></string>
     <string name="privacy_text_pemission">"　　•גישה לתמונות במכשירך ושמירת תמונות, על מנת להגן עליהן בשידור לצגים חיצוניים
 　　•הקלטת שיחות ושמע, על מנת לשדר שמע למכשירים חיצוניים
 　　•גישה למספר הטלפון, ל-IMEI ול-IMSI, על מנת לזהות את מכשירך
@@ -395,22 +433,38 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="scan_wifi_label_global">התחבר ל-Wi-Fi</string>
     <string name="screen_projection">הקרנה</string>
     <string name="screen_projection_characteristics">תכונות מיוחדות</string>
+    <string name="screen_projection_characteristics_cast_summary">לשדר את תוכן המסך לטלוויזיה בסביבה הקרובה</string>
+    <string name="screen_projection_characteristics_hang_up_summary_new">כיבוי מסך המכשיר הנייד בזמן שידור כדי לחסוך סוללה ולמנוע התחממות יתר</string>
     <string name="screen_projection_characteristics_off_screen_summary">ניתן להמשיך לשדר גם כשמסך המכשיר כבוי. אפשרות זו מצמצמת את צריכת החשמל.</string>
     <string name="screen_projection_characteristics_off_screen_title">הקרנה כשהמסך כבוי</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">אל תציג התראות צפות, שיחות נכנסות ופריטים אישיים על גבי המסך החיצוני.</string>
     <string name="screen_projection_characteristics_privacy_protect_title">הסתר פריטים אישיים</string>
+    <string name="screen_projection_characteristics_private_summary_new">הגנה על פרטיותך: בזמן שידור המכשיר שלך לא יציג התראות צפות, שיחות נכנסות ותכנים פרטיים אחרים</string>
     <string name="screen_projection_characteristics_small_window_summary">ממזער את החלון ששודר על מנת לאפשר לתכונות אחרות לפעול על המכשיר.</string>
+    <string name="screen_projection_characteristics_small_window_summary_new">שידור המסך ותצוגת התוכן שלו בחלון צף בזמן שימוש ביישומים אחרים</string>
     <string name="screen_projection_characteristics_small_window_title">מזעור חלון</string>
+    <string name="screen_projection_entrance_list">צפייה במכשירים הזמינים</string>
+    <string name="screen_projection_entrance_list_new">צפייה ברשימת המכשירים הזמינים לשידור</string>
+    <string name="screen_projection_example_document_hint_miui15">*הפריטים יוצגו על טלוויזיה בסביבה הקרובה</string>
+    <string name="screen_projection_example_document_hint_new"><Data>*לשימוש במאפיין זה יש לעבור אל קבצים > מסמכים ולהקיש על הצלמית &lt;img src=../drawable/ic_cast_icon_photo.png/>.</Data></string>
     <string name="screen_projection_example_document_summary">מציג מצגות על גבי צג חיצוני, בעוד הטלפון משמש למעבר בין השקופיות ולצפייה בהערות. יש לעבור למנהל הקבצים > מסמכים כדי לנסות את האפשרות הזו.</string>
+    <string name="screen_projection_example_document_summary_miui15">להציג שקופיות מצגת על טלוויזיה בזמן שימוש במכשיר זה כשלט רחוק</string>
     <string name="screen_projection_example_document_title">מסמכים</string>
+    <string name="screen_projection_example_gallery_hint_miui15">*כדי לשדר תמונות וסרטונים, יש לבחור פריט בגלריה, להקיש על \"שיתוף\" ואז להקיש על הצלמית \"שידור\".</string>
+    <string name="screen_projection_example_gallery_hint_new"><Data>*לשימוש במאפיין זה יש לעבור אל הגלריה, לבחור תמונה, להקיש על \"שליחה\" בסרגל התחתון ולהקיש על הצלמית &lt;img src=../drawable/ic_cast_icon_photo.png/>.</Data></string>
     <string name="screen_projection_example_gallery_summary">יש ללחוץ על כפתור השיתוף בתחתית הפריט ביישום הגלריה על מנת להציג אותו על גבי המסך החיצוני.</string>
+    <string name="screen_projection_example_gallery_summary_miui15">צפייה בתמונות ובסרטונים שלך על מסך טלוויזיה</string>
     <string name="screen_projection_example_gallery_title">תמונות וסרטונים</string>
+    <string name="screen_projection_example_game_hint_miui15">"*כדי לשדר משחקים, יש להקיש על \"שידור\" במאיץ המשחקים בזמן משחק.
+לפי שידור משחקים, יש לוודא שהפעלת את מאיץ המשחקים."</string>
     <string name="screen_projection_example_game_summary">Game Turbo מאפשר לשדר משחקים לצג חיצוני. השתמש בקיצור בארגז הכלים של Game Turbo כדי להפעיל אפשרות זו.</string>
+    <string name="screen_projection_example_game_summary_miui15">צפייה במשחקים שלך בטלוויזיה</string>
     <string name="screen_projection_example_game_title">משחקים</string>
     <string name="screen_projection_help">עזרה</string>
     <string name="screen_projection_sample_summary">משדר מסמכים, משחקים, תמונות וסרטונים</string>
     <string name="screen_projection_sample_title">הדגמות</string>
     <string name="screen_projection_title">הקרנה</string>
+    <string name="screen_projection_title_miui15">שידור</string>
     <string name="send">שליחה</string>
     <string name="show_result_on_tv">צפייה בתוצאות על גבי טלוויזיה</string>
     <string name="small_window">מזער חלון</string>
@@ -465,6 +519,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="thursday_short">"ה'"</string>
     <string name="thursday_shortest">"ה'"</string>
     <string name="tile_label">שידור</string>
+    <string name="tile_label_v2">שירותי קישוריות הדדית</string>
     <string name="time_picker_dialog_title">הגדרת זמן</string>
     <string name="time_picker_label_hour">"שע'"</string>
     <string name="time_picker_label_minute">"ד'"</string>
@@ -482,7 +537,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="today">היום</string>
     <string name="tomorrow">מחר</string>
     <string name="trust_device_desc">מכשירים אלה יופיעו כאן תחילה כשהם בקרבת מקום</string>
-    <string name="trust_device_dialog_desc">&lt;Data>%sאם תסמן אותו כמהימן, הוא יופיע ראשון ברשימת המכשירים הזמינים כאשר הוא יהיה בקרבת מקום.&lt;br>&lt;br>תוכל &lt;a href=milink://com.milink.service/trust>לנהל מכשירים מהימנים&lt;/a> בהגדרות.&lt;/Data></string>
+    <string name="trust_device_dialog_desc"><Data>%sאם תסמן אותו כמהימן, הוא יופיע ראשון ברשימת המכשירים הזמינים כאשר הוא יהיה בקרבת מקום.&lt;br>&lt;br>תוכל &lt;a href=milink://com.milink.service/trust>לנהל מכשירים מהימנים&lt;/a> בהגדרות.</Data></string>
     <string name="trust_device_dialog_pos">מהימן</string>
     <string name="trust_device_dialog_title">לסמן את המכשיר כמהימן?</string>
     <string name="trust_device_manager">נהל מכשירים מהימנים</string>

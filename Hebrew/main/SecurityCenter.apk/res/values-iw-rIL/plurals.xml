@@ -739,10 +739,10 @@
         <item quantity="many">מחק %d קובצי APK מיותרים</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d בעיות ניצול סוללה</item>
-        <item quantity="one">בעיית ניצול סוללה %d</item>
-        <item quantity="two">%d בעיות ניצול סוללה</item>
-        <item quantity="many">%d בעיות ניצול סוללה</item>
+        <item quantity="other">%d פריטים עם צריכת חשמל גבוהה</item>
+        <item quantity="one">פריט אחד (%d) עם צריכת חשמל גבוהה</item>
+        <item quantity="two">%d פריטים עם צריכת חשמל גבוהה</item>
+        <item quantity="many">%d פריטים עם צריכת חשמל גבוהה</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
         <item quantity="other">בצע מיטוב של %d פריטים לחיסכון בסוללה</item>
@@ -967,10 +967,10 @@
         <item quantity="many">פעמים</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d בעיות ניצול סוללה</item>
-        <item quantity="one">בעיית ניצול סוללה %d</item>
-        <item quantity="two">%d בעיות ניצול סוללה</item>
-        <item quantity="many">%d בעיות ניצול סוללה</item>
+        <item quantity="other">%d פריטים עם צריכת חשמל גבוהה</item>
+        <item quantity="one">פריט אחד (%d) עם צריכת חשמל גבוהה</item>
+        <item quantity="two">%d פריטים עם צריכת חשמל גבוהה</item>
+        <item quantity="many">%d פריטים עם צריכת חשמל גבוהה</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d ימים "</item>
@@ -1015,10 +1015,10 @@
         <item quantity="many">טפל ב- %d בעיות ניצול סוללה</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">ניתן לטפל ב-%d בעיות ניצול סוללה</item>
-        <item quantity="one">ניתן לטפל בבעיית ניצול סוללה %d</item>
-        <item quantity="two">ניתן לטפל ב-%d בעיות ניצול סוללה</item>
-        <item quantity="many">ניתן לטפל ב-%d בעיות ניצול סוללה</item>
+        <item quantity="other">ניתן לבצע מיטוב של צריכת החשמל עבור %d פריטים</item>
+        <item quantity="one">ניתן לבצע מיטוב של צריכת החשמל עבור פריט אחד (%d)</item>
+        <item quantity="two">ניתן לבצע מיטוב של צריכת החשמל עבור %d פריטים</item>
+        <item quantity="many">ניתן לבצע מיטוב של צריכת החשמל עבור %d פריטים</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" ניתן לבצע מיטוב של %d פריטים"</item>
@@ -1097,6 +1097,12 @@
         <item quantity="one">יש להפעיל להוספת דקה %s של זמן מסך</item>
         <item quantity="two">יש להפעיל להוספת %s דקות של זמן מסך</item>
         <item quantity="many">יש להפעיל להוספת %s דקות של זמן מסך</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">הבנתי (%d)</item>
+        <item quantity="one">הבנתי (%d)</item>
+        <item quantity="two">הבנתי (%d)</item>
+        <item quantity="many">הבנתי (%d)</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">הבנתי (%ds)</item>
@@ -1237,10 +1243,10 @@
         <item quantity="many">%d בעיות סוללה התגלו, תקן אותן</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">%d בעיות סוללה נפתרו</item>
-        <item quantity="one">בעית סוללה %d נפתרה</item>
-        <item quantity="two">%d בעיות סוללה נפתרו</item>
-        <item quantity="many">%d בעיות סוללה נפתרו</item>
+        <item quantity="other">בוצע מיטוב של %d פריטים עם צריכת חשמל גבוהה</item>
+        <item quantity="one">בוצע מיטוב של פריט אחד (%d) עם צריכת חשמל גבוהה</item>
+        <item quantity="two">בוצע מיטוב של %d פריטים עם צריכת חשמל גבוהה</item>
+        <item quantity="many">בוצע מיטוב של %d פריטים עם צריכת חשמל גבוהה</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">שחזור הגדרות יצרן (%ds)</item>
@@ -1367,6 +1373,12 @@
         <item quantity="one">וירוס %d הוסר</item>
         <item quantity="two">%d וירוסים הוסרו</item>
         <item quantity="many">%d וירוסים הוסרו</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d וירוסים או יישומים מסוכנים</item>
+        <item quantity="one">וירוס או יישום מסוכן %d</item>
+        <item quantity="two">%d וירוסים או יישומים מסוכנים</item>
+        <item quantity="many">%d וירוסים או יישומים מסוכנים</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d יישומים</item>

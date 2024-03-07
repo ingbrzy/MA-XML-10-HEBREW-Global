@@ -15,6 +15,7 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">לוח שנה סיני מסורתי</string>
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
+    <string name="default_dialer_reset_prompt">נראה שאירעו שגיאות מרובות בשימוש ב-%s. האם להפוך את החייגן של MIUI לחייגן ברירת המחדל של הטלפון כעת?</string>
     <string name="dial_conference_fail_prompt">לא ניתן לבצע שיחת ועידה באופן ישיר מפני שהרשת הנוכחית אינה תומכת ב-VoLTE.</string>
     <string name="dial_vt_fail_prompt">הרשת הנוכחית אינה תומכת ב-VoLTE. להחליף לשיחה קולית רגילה?</string>
     <string name="do_not_show_again">אל תציג שוב</string>
@@ -85,14 +86,14 @@
     <string name="midnight">לילה</string>
     <string name="missedcall_notification_public_version_title">טלפון</string>
     <string name="miuix_access_state_desc">נבחר</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
+    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
@@ -152,8 +153,10 @@
     <string name="noon">צהריים</string>
     <string name="notification_AllMissedCallTitle">כל השיחות שלא נענו</string>
     <string name="notification_channel_missed_call_DND">נא לא להפריע</string>
+    <string name="notification_disconnectedDialing_message">לא ניתן לבצע שיחה, כי כבר מתבצע חיוג של שיחה יוצאת.</string>
     <string name="notification_missedCall_call_back_miui">שיחה</string>
     <string name="pm">PM</string>
+    <string name="redirect_system_dialer_toast">אירעה שגיאה עם %s. עובר לחייגן של המערכת.</string>
     <string name="saturday">שבת</string>
     <string name="saturday_short">"ש'"</string>
     <string name="saturday_shortest">"ש'"</string>

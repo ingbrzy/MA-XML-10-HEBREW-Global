@@ -29,6 +29,13 @@
     <string name="abc_toolbar_collapse_description">כיווץ</string>
     <string name="accessing_notification_title">גישה לקבצים מ-%1$s</string>
     <string name="app_label">‏מארח פרוטוקול העברת מדיה (MTP)</string>
+    <string name="call_notification_answer_action">מענה</string>
+    <string name="call_notification_answer_video_action">וידאו</string>
+    <string name="call_notification_decline_action">דחייה</string>
+    <string name="call_notification_hang_up_action">ניתוק</string>
+    <string name="call_notification_incoming_text">שיחה נכנסת</string>
+    <string name="call_notification_ongoing_text">שיחה פעילה</string>
+    <string name="call_notification_screening_text">סינון שיחה נכנסת</string>
     <string name="downloads_app_label">הורדות</string>
     <string name="error_busy_device">המכשיר השני לא פנוי. ניתן יהיה להעביר קבצים רק לאחר שהוא יהיה זמין.</string>
     <string name="error_locked_device">לא נמצאו קבצים. ייתכן שהמכשיר השני נעול. אם כן, פתח אותו ונסה שוב.</string>

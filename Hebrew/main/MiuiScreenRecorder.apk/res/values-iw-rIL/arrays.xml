@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ח</item>
+        <item>ט</item>
+        <item>י</item>
+        <item>כ</item>
+        <item>ל</item>
+        <item>מ</item>
+        <item>נ</item>
+        <item>ס</item>
+        <item>ע</item>
+        <item>פ</item>
+        <item>צ</item>
+        <item>ק</item>
+        <item>ר</item>
+        <item>ש</item>
+        <item>ת</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>א</item>
         <item>ב</item>
@@ -62,12 +84,6 @@
         <item>4Mbps</item>
         <item>1Mbps</item>
     </string-array>
-    <string-array name="screenrecorder_settings_frames">
-        <item>24fps</item>
-        <item>30fps</item>
-        <item>48fps</item>
-        <item>60fps</item>
-    </string-array>
     <string-array name="screenrecorder_settings_orientation">
         <item>אוטומטי</item>
         <item>דיוקן</item>
@@ -87,6 +103,12 @@
         <item>השתק</item>
         <item>מיקרופון</item>
         <item>צלילי מערכת</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>ללא</item>
+        <item>מיקרופון</item>
+        <item>מערכת</item>
+        <item>גם וגם</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>אחסון פנימי</item>

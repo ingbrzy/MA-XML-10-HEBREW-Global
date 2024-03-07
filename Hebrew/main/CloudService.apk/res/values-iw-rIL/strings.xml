@@ -135,6 +135,8 @@
     <string name="feedback_custom_hint">תאר את הבעיות שבהן נתקלת כאן. אם יש לך הצעות, נודה אם תוכל לפרט!</string>
     <string name="find_device">איתור המכשיר</string>
     <string name="find_device_dspt_provision">אם תאבד את מכשירך תוכל להיכנס לכתובת &lt;font color=#0097FF>%s&lt;/font> כדי לאתר, לנעול או לאפס אותו. ניתן להפעיל או לכבות את המאפיין הזה בכל עת בהגדרות המכשיר.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">על ידי הפעלת איתור המכשיר, אתה מסכים ל<u><a href="app://com.miui.cloudservice.gdpr.license">מדיניות הפרטיות</a></u> שלנו. כבה תכונה זו אם ברצונך לבטל את הסכמתך.</string>
     <string name="find_device_operation_failure_rpc">לא ניתן היה לבצע את הפעולה עקב שגיאת RPC.</string>
     <string name="find_device_permissions_footer">הקש על \"הענק\" כדי להעניק את ההרשאות שבחרת.</string>

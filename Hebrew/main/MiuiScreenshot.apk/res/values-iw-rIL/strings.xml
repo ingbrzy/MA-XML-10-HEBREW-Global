@@ -40,7 +40,7 @@
     <string name="cta_agree_desc">אפשר ליישום זה להתחבר לאינטרנט והענק לו את הרשאות החובה המפורטות למעלה.</string>
     <string name="cta_btn_agree">מסכים</string>
     <string name="cta_btn_disagree">לא מסכים</string>
-    <string name="cta_main_purpose">ברוכים הבאים לעורך צילומי מסך! ניתן להשתמש ביישום זה לחתוך ולערוך צילומי המסך.</string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">Welcome to Screenshot Editor! You can use this app to crop and edit your screenshots. This app needs to connect to the internet and access audio and video files on your device to be able to provide necessary services.</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">כדי לשמור צילומי מסך</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -141,6 +141,10 @@
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
     <string name="loading_text_format" formatted="false">מסיר מידע פרטי מתמונות (%d/%d)…</string>
+    <string name="long_screenshot_content_auto">מבצע צילום מסך…</string>
+    <string name="long_screenshot_content_loading">רק רגע…</string>
+    <string name="long_screenshot_content_manual">התאם ידנית את נקודת הסיום של צילום המסך ולאחר מכן הקש על \"סיום\".</string>
+    <string name="long_screenshot_done">בוצע</string>
     <string name="long_screenshot_error">אירעה שגיאה. נסה שוב.</string>
     <string name="long_screenshot_guide_text">"לחץ על מנת ליצור
  צילום מסך נגלל"</string>
@@ -149,6 +153,7 @@
     <string name="long_screenshot_processing">מעבד…</string>
     <string name="long_screenshot_processing_description_accessibility">מעבד</string>
     <string name="long_screenshot_stop">בוצע</string>
+    <string name="long_screenshot_title">צילום מסך נגלל</string>
     <string name="long_screenshot_top_msg">יוצר צילום מסך…</string>
     <string name="long_screenshot_top_msg_description_accessibility">יוצר צילום מסך</string>
     <string name="long_screenshot_top_msg_manual">חתוך את צילום המסך והקש על הלחצן לסיום</string>
@@ -180,6 +185,7 @@
     <string name="miuix_appcompat_delete_description">מחק</string>
     <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
+    <string name="miuix_appcompat_edit">עריכה</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
     <string name="miuix_appcompat_select_all">בחר הכל</string>
@@ -333,12 +339,17 @@
     <string name="screen_editor_btn_save">שמור</string>
     <string name="screen_editor_btn_shell_off">הסר את מסגרת המכשיר</string>
     <string name="screen_editor_btn_shell_on">הוסף מסגרת למכשיר</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">למחוק את צילום המסך הזה?</string>
     <string name="screen_editor_delete_dialog_picture_msg">למחוק את התמונה הזו עכשיו?</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">בוצע</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">לא ניתן להוסיף מסגרת לתמונה חתוכה</string>
     <string name="screen_editor_shell_net_error">התחבר לרשת להורדת מסגרת מכשיר</string>
     <string name="screen_editor_shell_res_downloading">מוריד מסגרת מחשיר…</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">ביטול</string>
     <string name="screen_save_dialog_btn_delete">מחיקת צילום מסך</string>
     <string name="screen_save_dialog_btn_save">"שמור ב'גלריה'"</string>
@@ -366,6 +377,7 @@
     <string name="screenshot_long_screenshot">גלילה</string>
     <string name="screenshot_save">שמירה</string>
     <string name="screenshot_send">שליחה</string>
+    <string name="screenshot_succeed">צילום המסך בוצע בהצלחה</string>
     <string name="screenshot_thumbnail">תמונה מוקטנת של צילום המסך</string>
     <string name="scroll_annotation">גלילה וכתיבת הערות</string>
     <string name="scroll_annotation_btn_quit">יציאה מההערות</string>

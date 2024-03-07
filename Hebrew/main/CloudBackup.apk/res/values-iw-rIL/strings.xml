@@ -94,7 +94,7 @@
 *  יישומים, מסך הבית, פריסה וטפט 
 *  שעון מעורר, שעון, והגדרות שעון 
 *  גדרת התראות 
-*  Miui והגדרות מערכת 
+*  MIUI והגדרות מערכת 
 \"הערה: נתונים עבור יישומים שהתקנת לא יגובו על גבי שירות Xiaomi Cloud."</string>
     <string name="cloud_back_up_detail_discription_china">"These items will be backed up to Xiaomi Cloud when your device is connected to WLAN: 
 *  Apps, Home screen layout, and wallpapers 
@@ -408,6 +408,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="other_device_main_space">שטח ראשון</string>
     <string name="other_device_second_space">שטח משני</string>
     <string name="page_title_more_backup_options">שירותי גיבוי נוספים</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">לא ניתן לשחזר פריטים במצב מחשב אישי. יש להשבית את מצב המחשב האישי ולנסות שוב.</string>
     <string name="permission_to_use">פרטי הרשאות</string>
     <string name="pm">PM</string>
@@ -418,6 +420,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="provision_error_connect_title">לא ניתן להתחבר</string>
     <string name="provision_next">הבא</string>
     <string name="provision_restore_data">פריטים שזוחזרו</string>
+    <string name="provision_restore_item_backup_name_with_size">%1$s | ≈%2$s</string>
     <string name="provision_skip_underline">דלג</string>
     <string name="query_restore_description">לאחר שחזור של פריסת מסך הבית וההגדרות היישומים שכבר הותקנו יוחזרו למיקום המקורי שלהם במסך הבית. יישומים שאינם חלק מהגיבוי יועברו לעמוד האחרון של מסך הבית.</string>
     <string name="query_restore_summary">"נמצא גיבוי Xiaomi Cloud עבור מכשיר זה. לשחזר את היישומים וההגדרות של 'מסך הבית' או להשתמש במכשיר זה כמכשיר חדש ולמחוק את הגיבויים הקודמים מ- Xiaomi Cloud?"</string>

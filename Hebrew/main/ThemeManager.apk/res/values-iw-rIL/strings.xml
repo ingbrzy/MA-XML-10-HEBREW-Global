@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="UVI_level_0">חלש</string>
+    <string name="UVI_level_1">בינוני</string>
+    <string name="UVI_level_2">חזק</string>
+    <string name="UVI_level_3">חזק מאוד</string>
+    <string name="UVI_level_4">חמור</string>
     <string name="accessibiliy_description_content_account">פרופיל</string>
     <string name="accessibiliy_description_content_ad">פרסומת</string>
     <string name="accessibiliy_description_content_add_resource">הוסף פריטים</string>
     <string name="accessibiliy_description_content_back">הקודם</string>
-    <string name="accessibiliy_description_content_comment">תגובה</string>
     <string name="accessibiliy_description_content_favorite">הוסף למועדפים</string>
     <string name="accessibiliy_description_content_more">עוד</string>
     <string name="accessibiliy_description_content_search">חיפוש</string>
@@ -15,6 +19,7 @@
     <string name="actionbar_button_up_description">הקודם</string>
     <string name="ad_app_download_start">מתחיל הורדה…</string>
     <string name="ad_app_is_downloading">מוריד…</string>
+    <string name="ad_flag_text">פרסומת</string>
     <string name="ad_service">הצג פרסומות</string>
     <string name="add_resource_detail_fail">לא ניתן להוסיף את המשאב</string>
     <string name="add_ringtone">הוספת רינגטון</string>
@@ -26,6 +31,7 @@
     <string name="all_wallpapers">כל הרקעים</string>
     <string name="allow">הגדרות</string>
     <string name="am">AM</string>
+    <string name="aod_screen">תצוגה תמידית</string>
     <string name="app_description_content">\"ערכות הנושא\" הוא יישום מערכת. הוא מציע טפטים ואפשרויות רבות להתאמה אישית. גם לאחר הסרת הקיצור ממסך הבית עדיין תוכל להשתמש בערכות הנושא דרך התפריט.</string>
     <string name="app_description_title">להסיר את \"ערכות הנושא\" ממסך הבית?</string>
     <string name="app_name">ערכות נושא</string>
@@ -38,9 +44,11 @@
     <string name="app_permission_use_group_phone_desc">עבור אימות חשבון והרשאות</string>
     <string name="app_permission_use_group_storage">אחסון</string>
     <string name="app_permission_use_group_storage_desc">עבור שימוש ושמירה של ערכות נושא, טפטים, רינגטונים, וגופנים</string>
+    <string name="application_notify_title">לתשומת לבך</string>
     <string name="applied_success_contine">המשך גלישה</string>
     <string name="applied_success_subtitle_a">היכונו לתחרות %d ערכות הנושא הבינלאומית של Xiaomi!</string>
     <string name="applied_success_subtitle_b">עקוב/עקבי אחר מעצבים כדי להתעדכן על פרסומים חדשים</string>
+    <string name="apply_4k_video_wallpaper_warning">לא ניתן להשתמש בסרטונים באיכות 4K ו-8K בתור טפטי וידאו.</string>
     <string name="apply_by_customize">התאמה אישית</string>
     <string name="apply_default_font_tip">להמשיך להשתמש בגופן הנוכחי של המערכת?</string>
     <string name="apply_font_btn_exclude">לא כעת</string>
@@ -51,11 +59,16 @@
     <string name="apply_selected">החל</string>
     <string name="apply_success_not_enable_aod">קודם יש להפעיל תצוגה תמידית בהגדרות</string>
     <string name="apply_theme_with_ringtones">השתמש בצלצולים של ערכת הנושא</string>
+    <string name="apply_wallpaper_after_three_theme">כרגע הנך משתמש/ת בנושא של צד שלישי. שינוי הטפט של מסך הנעילה יכול לגרום לכך שסגנון השעון של מסך הנעילה יוחזר לברירת המחדל. האם להחיל עכשיו?</string>
     <string name="apply_wallpaper_notice">שים לב</string>
     <string name="apply_wallpaper_notice_cancel">ביטול</string>
     <string name="apply_wallpaper_notice_content">ערכת הנושא שהוחלה מכילה מודול מותאם למסך הנעילה אשר עלול למנוע ממך לבצע שינויים הקשורים במסך הנעילה.</string>
     <string name="apply_wallpaper_notice_lockscreen">ערכת הנושא הנוכחית לשלך כוללת מסך נעילה מותאם אישית. נחליף אותו במסך הנעילה ברירת המחדל אם תיישם את הטפט הזה. האם להשתמש בו בכל זאת?</string>
     <string name="apply_wallpaper_notice_still_apply">החל</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">כרגע הנך משתמש/ת בטפט-על. לאחר בחירת טפט חדש הוא יוחל גם על מסך הבית וגם על מסך הנעילה, והתצוגה התמידית תוחזר להגדרה הקודמת שלה. האם להחיל עכשיו?</string>
+    <string name="apply_wallpaper_warning_use_super_wallpaper">כרגע הנך משתמש/ת בטפט-על. לאחר בחירת טפט חדש הוא יוחל גם על מסך הבית וגם על מסך הנעילה. האם להחיל עכשיו?</string>
+    <string name="aqi_format">AQI %s</string>
+    <string name="aqi_format_desc">מדד איכות האוויר: %s</string>
     <string name="audio_duration_minutes_format">%1$d דקות</string>
     <string name="audio_duration_seconds_format">%1$d שניות</string>
     <string name="author_already_attention">עוקב</string>
@@ -85,13 +98,19 @@
     <string name="card_loading">רק רגע…</string>
     <string name="card_no_network">לא ניתן היה להתחבר לרשת. בדוק את הגדרות הרשת שלך ונסה שוב.</string>
     <string name="card_retry">נסה שוב</string>
+    <string name="carefully_chosen_wallpaper">בחירות העורכים</string>
     <string name="change_host_hint">שנה מארח</string>
     <string name="change_wallpaper">טפט</string>
+    <string name="channel_featured_page">מומלצים</string>
+    <string name="choose_pay_method">בחר אמצעי תשלום</string>
+    <string name="classic_calendar_day_of_week_format">EE</string>
+    <string name="classic_calendar_month_of_year_format">MMM</string>
     <string name="classification_more_understand_you">בחר את הקטגוריה המועדפת עליך</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="close">סגירה</string>
     <string name="columbus_ad_flag_text">פרסומת</string>
     <string name="columbus_skip_ad">דלג</string>
+    <string name="come_and_choose_wallpaper">ניתן לבחור מבין אלפי טפטים מדהימים</string>
     <string name="component_backup_preference_title">גיבוי ערכת הנושא</string>
     <string name="component_category_finest_title">כללי</string>
     <string name="component_category_more_title">מתקדם</string>
@@ -137,6 +156,8 @@
     <string name="dynamic_ringtone">צלצולים דינמיים</string>
     <string name="dynamic_video_wallpaper">טפט %d שעות</string>
     <string name="early_morning">מוקדם בבוקר</string>
+    <string name="editor_apply_message">"מאפיין זה נועד לניפוי שגיאות על-ידי המעצבים. נושא ברירת המחדל ישוחזר אוטומטית כעבור זמן מה. מסלול הקובץ של הנושא הנוכחי: "</string>
+    <string name="editor_apply_toast">בחירה ידנית ב-temp.mtz בתיקיית השורש</string>
     <string name="empty" />
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
@@ -148,6 +169,7 @@
     <string name="exit_extreme_mode_dialog_title">כבה את המצב הקיצוני</string>
     <string name="expect_more">המשך לעקוב אחר עדכונים נוספים!</string>
     <string name="explore_new_and_popular_themes">נסה/י ערכות נושא חדשות ופופולריות</string>
+    <string name="external_wallpaper">טפט של מסך חיצוני</string>
     <string name="extreme_mode_dialog_message">מאפיין זה אינו זמין במצב הקיצוני. כבה את המצב הקיצוני כדי שתוכל להשתמש בו.</string>
     <string name="extreme_mode_dialog_ok">הבנתי</string>
     <string name="extreme_mode_dialog_title">התראה</string>
@@ -159,6 +181,7 @@
     <string name="find_more">מצא עוד</string>
     <string name="find_more_theme">מצא עוד</string>
     <string name="find_more_wallpapers">מצא עוד</string>
+    <string name="fingerprint_style">אפקטים של טביעת אצבע</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -212,6 +235,22 @@
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="follow_designer_notice">לעולם לא תחמיצו ערכת נושא חדשה</string>
+    <string name="format_day_desc">היום של החודש: %s</string>
+    <string name="format_day_week_desc">היום של החודש: %1$s, %2$s</string>
+    <string name="format_lunar_calendar_month_day_desc">תאריך לפי לוח השנה הסיני המסורתי: %s</string>
+    <string name="format_minute_desc">%s</string>
+    <string name="format_month_and_day">%1$s/%2$s</string>
+    <string name="format_month_day_desc">%1$s %2$s</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, תאריך לפי לוח השנה הסיני המסורתי: %3$s, חג: %4$s</string>
+    <string name="format_month_day_style1">d/MMM</string>
+    <string name="format_month_day_style2">M/d</string>
+    <string name="format_month_day_week">MMM dd, EEE</string>
+    <string name="format_month_day_week_desc">%1$s %2$s, %3$s</string>
+    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, תאריך לפי לוח השנה הסיני המסורתי: %4$s</string>
+    <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, חג: %4$s</string>
+    <string name="format_number_hour_desc">%s</string>
+    <string name="format_week_day_style1">EE d</string>
+    <string name="format_week_day_style1_desc">%1$s, היום של החודש: %2$s</string>
     <string name="free_themes">ערכות נושא חינמיות</string>
     <string name="fresh">חדש</string>
     <string name="fresh_first">הצג את החדשים ביותר תחילה</string>
@@ -219,38 +258,19 @@
     <string name="friday_short">"ו'"</string>
     <string name="friday_shortest">"ו'"</string>
     <string name="gallery">גלריה</string>
-    <string name="gift_anonymous">בעילום שם</string>
-    <string name="gift_operation_fail_dlg_abandon">ביטול</string>
-    <string name="gift_operation_fail_dlg_retry">נסה שוב</string>
-    <string name="gift_operation_waiting">רק רגע…</string>
-    <string name="gift_owned">נרכש</string>
-    <string name="gift_present">תן</string>
-    <string name="gift_present_dlg_anonymous">מתנה בעילום שם</string>
-    <string name="gift_present_dlg_input_hint">מזהה חשבון Xiaomi/טלפון</string>
-    <string name="gift_present_dlg_no_fee">לא תחויב על ידי ספק הרשת שלך בגין שליחת מתנות</string>
-    <string name="gift_present_dlg_present_max_limit">לא ניתן לשלוח ערכת נושא כמתנה יותר מ- %1$s פעמים.</string>
-    <string name="gift_present_dlg_share">צור קוד ושתף מתנה</string>
-    <string name="gift_present_fail_dlg_content">"לא ניתן היה לשלוח מתנה זו. "</string>
-    <string name="gift_present_fail_dlg_title">לא ניתן היה לשלוח את המתנה</string>
-    <string name="gift_present_success_dlg_content">מסרון SMS ישלח לאדם זה כאשר ערכת הנושא תתקבל.</string>
-    <string name="gift_present_success_dlg_title">המתנה נשלחה</string>
-    <string name="gift_present_success_no_sms_dlg_content">היסטורית המתנות מופיעה בעמוד החשבון שלך.</string>
-    <string name="gift_presented">שלח</string>
-    <string name="gift_purchase_success_dlg_content">"רכשת את %1$s כמתנה. על מנת לשלוח אותה, עבור אל עמוד 'חשבון ערכות הנושא' שלך."</string>
-    <string name="gift_purchase_success_dlg_title">המתנה נרכשה</string>
-    <string name="gift_purchased_endnote">אל: %1$s</string>
-    <string name="gift_purchased_list_empty">לא העברת כל מתנה.</string>
-    <string name="gift_purchased_list_empty_with_received_list_empty">אין מתנות.</string>
-    <string name="gift_received_endnote">מ: %1$s (קיבל: %2$s)</string>
-    <string name="gift_received_list_empty">לא קיבלת כל מתנה.</string>
-    <string name="gift_received_notification_title">%s העביר לך ערכת נושא.</string>
-    <string name="gift_share">שתף</string>
-    <string name="gift_transfer">העבר</string>
-    <string name="gift_unbind_fail_dlg_title">לא ניתן ליצור קוד</string>
-    <string name="gift_use">תן</string>
-    <string name="gift_use_confirmation_dlg_title">לשלוח מתנה זו?</string>
-    <string name="gift_use_fail_dlg_title">משהו השתבש</string>
-    <string name="gift_used">נשלח</string>
+    <string name="health_chart_calories_schedule_format_desc">%1$s, %2$s</string>
+    <string name="health_chart_calories_unit">קלוריות</string>
+    <string name="health_chart_sleep_time_format">"%1$s שע' %2$s דק'"</string>
+    <string name="health_chart_sleep_time_good">מספיק</string>
+    <string name="health_chart_sleep_time_low">לא מספיק</string>
+    <string name="health_chart_sleep_time_normal">רגיל</string>
+    <string name="health_chart_sleep_time_very_good">טוב</string>
+    <string name="health_chart_sport_time_schedule_format_desc">%1$s, %2$s</string>
+    <string name="health_chart_stand_schedule_format_desc">%1$s, %2$s</string>
+    <string name="health_chart_step_count_schedule_format_desc">%1$s, %2$s</string>
+    <string name="health_chart_step_count_unit">צעדים</string>
+    <string name="health_no_data">אין נתוני בריאות</string>
+    <string name="health_sleep_desc">משך השינה %1$s, איכות השינה %2$s</string>
     <string name="hide_free">הסתרת פריטים חינמיים (%1$s)</string>
     <string name="hide_incompatible_font">הסתר גופנים לא תואמים</string>
     <string name="hide_incompatible_theme">הסתר ערכות נושא לא תואמות</string>
@@ -258,17 +278,23 @@
     <string name="home_apply_failured">"לא ניתן להחיל את טפט 'מסך הבית'"</string>
     <string name="home_apply_success">"טפט 'מסך הבית' הוחל"</string>
     <string name="hot_first">פופולרי ראשון</string>
+    <string name="humidity_format">לחות %s</string>
+    <string name="humidity_format_with_unit">%s</string>
+    <string name="icon_size">גודל הצלמית</string>
     <string name="in_the_end">אין עוד פריטים להצגה</string>
     <string name="incompatible_dialog_cancel">אל תחיל</string>
-    <string name="incompatible_dialog_message">ערכת נושא זו אינו תואמת לגרסת ה-MIUI המותקנת במכשירך. החלת ערכת נושא זו תגרום לכך שייתכן שחלקים מסוימים של MIUI לא יפעלו כראוי.</string>
+    <string name="incompatible_dialog_message">ערכות נושא זו אינה מתאימה לגרסת המערכת של המכשיר שלך. ייתכן שמאפיינים מסוימים לא יעבדו כנדרש לאחר החלת ערכת הנושא הזו.</string>
     <string name="incompatible_dialog_ok">הבנתי</string>
     <string name="incompatible_dialog_title">בעיות התאמה</string>
     <string name="is_setting_wallpaper_message">מגדיר טפט…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">שעון מעורר</string>
     <string name="item_resource_audio_optional_color_ring">צלצול Ringback</string>
     <string name="item_resource_audio_optional_notification_ring">התראות</string>
     <string name="item_resource_audio_optional_phone_ring">צלצול</string>
+    <string name="last_choice">זה שהיה בשימוש בפעם הקודמת</string>
     <string name="later">לא עכשיו</string>
+    <string name="latest_wallpaper">חדשים</string>
     <string name="limit_discount">הצעה מוגבלת</string>
     <string name="live_wallpaper">טפט חי</string>
     <string name="live_wallpapers">רקעים חיים</string>
@@ -277,6 +303,9 @@
     <string name="loading_resource_detail_info">רק רגע…</string>
     <string name="local_photos">תמונות מקומיות</string>
     <string name="local_resouce_creator_name">מפתח: %1$s</string>
+    <string name="lock_screen_edit">עריכת מסך הנעילה</string>
+    <string name="lock_screen_template_unsupported_super_wallpaper_tip">תבנית מסך הנעילה הזו לא תומכת בטפטי-על. לאחר החלת התבנית הזו מסך הבית יחזור לברירת המחדל, והטפטים של מסך הבית ומסך הנעילה יוחלפו. להחיל עכשיו?</string>
+    <string name="lock_screen_template_unsupported_tip">בגלל התבנית בה אתם משתמשים, המשך יחזיר את מסך הנעילה שלכם לברירת המחדל. להמשיך בכל זאת?</string>
     <string name="lockscreen_apply_failured">"לא ניתן להחיל את טפט 'מסך הנעילה'"</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">"טפט 'מסך הבית' הוחל. לא ניתן להחיל את טפט 'מסך הנעילה'."</string>
     <string name="lockscreen_apply_success">"טפט 'מסך הנעילה' הוחל"</string>
@@ -303,29 +332,40 @@
     <string name="midnight">לילה</string>
     <string name="miui_clock_city_name_local">מקומי</string>
     <string name="miui_clock_city_name_second">שעון משני</string>
-    <string name="miui_lock_screen_date">EEEE dd.MM</string>
-    <string name="miui_lock_screen_date_12">EEEE dd.MM</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-dd.MM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd.MM"</string>
+    <string name="miui_lock_screen_date">EEE, MMM dd</string>
+    <string name="miui_lock_screen_date_12">EEE, MMM dd</string>
+    <string name="miui_lock_screen_date_two_lines">"EEE
+MMM dd"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEE
+MMM dd"</string>
     <string name="miui_lock_screen_large_date">"EEE
-dd.MM"</string>
+M/d"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-dd.MM"</string>
+M/d"</string>
+    <string name="miui_magazine_c_clock_style1_week">EEEE</string>
+    <string name="miui_magazine_c_clock_style2_date">M/d EE</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MMM</string>
+    <string name="miui_magazine_clock_date">M/d</string>
+    <string name="miui_magazine_clock_date_content_description">MM.dd</string>
+    <string name="miui_magazine_clock_week">EEE</string>
+    <string name="miui_rhombus_clock_date">dd MMMM</string>
+    <string name="miui_rhombus_clock_week">EEE</string>
+    <string name="miui_rhombus_clock_week_full">EEEE</string>
+    <string name="miui_smart_frame_clock_date">M/d</string>
+    <string name="miui_smart_frame_clock_week">EEE</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
     <string name="miuix_access_state_desc">נבחר</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
+    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
@@ -393,13 +433,16 @@ mm"</string>
     <string name="month_september_short">"ספט'"</string>
     <string name="month_september_shortest">"ספט'"</string>
     <string name="more">עוד</string>
+    <string name="more_personal_setting">הגדרות נוספות</string>
     <string name="more_ringtones">צלצולים נוספים</string>
+    <string name="more_system_wallpaper">טפטים נוספים למערכת</string>
     <string name="more_wallpapers">לחץ על מנת לצפות בטפטים נוספים</string>
     <string name="morning">בוקר</string>
     <string name="multi_sim_ringtone_settings_dialog_message">הצלצול מוחל עבור שני כרטיסי ה-SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">הבנתי</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">אל תציג שוב</string>
     <string name="multi_sim_ringtone_settings_dialog_title">בעיות התאמה</string>
+    <string name="multiwindow_no_support">מאפיין זה לא נתמך בשימוש במסך מפוצל</string>
     <string name="my_attention">המעצבים שאחריהם אתה עוקב</string>
     <string name="my_attention_head">המעצבים שאחריהם אתה עוקב</string>
     <string name="my_fonts">הגופנים שלי</string>
@@ -425,7 +468,9 @@ mm"</string>
     <string name="no_related_wallpaper">לא ניתן היה למצוא תוצאות</string>
     <string name="no_related_wallpaper2">לא ניתן היה למצוא טפטים. בדוק טפטים מומלצים כאן</string>
     <string name="noon">צהריים</string>
+    <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">אל תציג שוב</string>
+    <string name="notify_style">אפקטים של התראות</string>
     <string name="online_no_network">לא ניתן להתחבר לרשת</string>
     <string name="online_precust_abstract">אבסטרקטי</string>
     <string name="online_precust_animal">בעלי חיים</string>
@@ -439,17 +484,19 @@ mm"</string>
     <string name="online_ringtones">צלצולים מקוונים</string>
     <string name="online_search_hint">חפש אחר משאבים מקוונים</string>
     <string name="online_themes">ערכות נושא מקוונות</string>
+    <string name="online_wallpaper_libray">טפטים מקוונים</string>
     <string name="online_wallpapers">רקעים מקוונים</string>
     <string name="ota_theme_default_push_content">לא כדאי לך להחמיץ את אלה!</string>
-    <string name="ota_theme_default_push_content2">מומלץ ל-MIUI %s</string>
-    <string name="ota_theme_default_push_title">ערכות נושא חדשות ל-MIUI %s</string>
+    <string name="ota_theme_default_push_content2">צפייה בהמלצות שלנו</string>
+    <string name="ota_theme_default_push_title">ערכות נושא חדשות בדרך</string>
     <string name="pause_all">להשהות את הכול</string>
     <string name="pay_online">תשלום מקוון</string>
+    <string name="payment_cancel_tip">יציאה עכשיו תגרום לכך שהתשלום לא יבוצע. לצאת בכל זאת?</string>
     <string name="payment_coins">מטבעות</string>
     <string name="payment_coins_balance">(יתרה: %1s)</string>
     <string name="payment_coins_insufficient_balance">(היתרה נמוכה מדי)</string>
     <string name="payment_data_move_tips">נתוני החשבון שלך יועברו לשרתים באזור שלך כדי לציית לתקנות הפרטיות. קיים סיכון לאובדן נתונים במהלך ההעברה.</string>
-    <string name="payment_instructions">&lt;Data>על ידי השלמת התשלום, אתה מסכים ל&lt;a href=\"%1$s\">הודעה על רכישות בתוך היישום&lt;/a>.&lt;/Data></string>
+    <string name="payment_instructions"><Data>על ידי השלמת התשלום, אתה מסכים ל&lt;a href=\"%1$s\">הודעה על רכישות בתוך היישום&lt;/a>.</Data></string>
     <string name="payment_method">אמצעי תשלום</string>
     <string name="permission_desc">לאחסון נושאים שנשמרו ופריטים אחרים</string>
     <string name="permission_pop_desc">כדי לשנות את ההעדפות של התאמה אישית ולשמור פריטים שהורדו קודם עליך לאפשר ליישום ערכות נושא גישה לאחסון.</string>
@@ -502,6 +549,7 @@ mm"</string>
     <string name="purchased_refund_success_dialog_title">החזר הועבר בהצלחה</string>
     <string name="purchased_success_dialog_content">תודה על רכישתך!</string>
     <string name="purchased_success_dialog_title">שולם בהצלחה</string>
+    <string name="rain_probability_desc">הסיכוי לגשם: %s</string>
     <string name="rank_one" formatted="false">%d. %s</string>
     <string name="rank_three" formatted="false">%d. %s</string>
     <string name="rank_two" formatted="false">%d. %s</string>
@@ -537,46 +585,6 @@ mm"</string>
     <string name="resource_category">קטגוריה</string>
     <string name="resource_clear_search_history">נקה את היסטורית החיפוש</string>
     <string name="resource_clear_search_history_dialog">לנקות את כל היסטורית החיפוש?</string>
-    <string name="resource_comment_1_star">כוכב אחד (%d)</string>
-    <string name="resource_comment_2_star">%d כוכבים</string>
-    <string name="resource_comment_3_star">%d כוכבים</string>
-    <string name="resource_comment_4_star">%d כוכבים</string>
-    <string name="resource_comment_5_star">%d כוכבים</string>
-    <string name="resource_comment_all_comments">כל התגובות</string>
-    <string name="resource_comment_average_score">דירוג</string>
-    <string name="resource_comment_bad_comments">שלילי</string>
-    <string name="resource_comment_current_version">גרסה נוכחית</string>
-    <string name="resource_comment_detainment_fail">התעלם</string>
-    <string name="resource_comment_detainment_msg">עדיין לא שלחת את תגובתך. להתעלם מהשינויים?</string>
-    <string name="resource_comment_detainment_success">הישאר</string>
-    <string name="resource_comment_edit_comment">הוסף תגובה</string>
-    <string name="resource_comment_edit_comment_waiting">בודק היסטוריה…</string>
-    <string name="resource_comment_edit_text_default">כאן תוכל לספר לנו מה דעתך.</string>
-    <string name="resource_comment_edit_text_second_hint">המשוב שלך חשוב לנו מאוד.</string>
-    <string name="resource_comment_edit_title">תגובה אודות %1$s</string>
-    <string name="resource_comment_entry_tips">תגובות (%1$s)</string>
-    <string name="resource_comment_expand_full_text">הרחב את כל הטקסט ▼</string>
-    <string name="resource_comment_footer">תגובות ריקות אינן מוצגות.</string>
-    <string name="resource_comment_good_comments">חיובי</string>
-    <string name="resource_comment_invalid">לחץ על הכוכבים לדירוג ערכת הנושא</string>
-    <string name="resource_comment_limit">לא כל-כך מהר! חזור לכאן אחרי שתשתמש בנושא הזה במשך מעט יותר זמן.</string>
-    <string name="resource_comment_loading_list">רק רגע…</string>
-    <string name="resource_comment_name_default">כינוי</string>
-    <string name="resource_comment_no_average_score">לא זמין</string>
-    <string name="resource_comment_no_comment">תוכל להיות הראשון שמשאיר תגובה!</string>
-    <string name="resource_comment_over_limit">התגובה שלך ארוכה מדי. נא לקצר אותה ולנסות שוב.</string>
-    <string name="resource_comment_publish">פרסם</string>
-    <string name="resource_comment_rate">דירוג:</string>
-    <string name="resource_comment_rating_star_tips">הדירוג שלך</string>
-    <string name="resource_comment_sending">שולח תגובה…</string>
-    <string name="resource_comment_title">תגובות אודות %1$s</string>
-    <string name="resource_comment_upload_data_invalid">התגובה שהזנת אינה חוקית</string>
-    <string name="resource_comment_upload_failed">לא ניתן לשלוח תגובה</string>
-    <string name="resource_comment_upload_hint">התגובה שלך תוצג לאחר בדיקה קצרה.</string>
-    <string name="resource_comment_upload_not_bought">עליך להחיל את ערכת הנושא לפני שתוכל להגיב אודותיה</string>
-    <string name="resource_comment_upload_not_logined">עליך להיכנס תחילה</string>
-    <string name="resource_comment_upload_success">התגובה שלך תוצג לאחר בדיקה קצרה.</string>
-    <string name="resource_comment_wonderful_comments">התגובות הפופולריות</string>
     <string name="resource_continue">הבא</string>
     <string name="resource_current_using_title">משאבים נוכחיים</string>
     <string name="resource_data_empty">אין פריטים להצגה.</string>
@@ -612,8 +620,6 @@ mm"</string>
     <string name="resource_exchange_has_used">הקוד שהזנת נוצל כבר.</string>
     <string name="resource_exchange_hint">הזן את קוד המתנה שלך</string>
     <string name="resource_exchange_purchase_unkown_error">איכס! אירעה שגיאה לא מוכרת. היכנס לחשבונך בכתובת http://market.xiaomi.com על מנת לצפות בסטטוס התשלום שלך.</string>
-    <string name="resource_exchange_share_code_content">"קיבלת קוד מתנה (%2$s) עבור ערכת הנושא \"%1$s\" ב'ערכות נושא' של MIUI. לחץ על %3$s על מנת להשתמש בו כעת."</string>
-    <string name="resource_exchange_share_code_dlg_content">קוד מתנה עבור \"%1$s\":%2$s. במידה ותשלח אותו למשתמשי MIUI אחרים, הם יוכלו להשתמש בו להורדת ערכת נושא זו.</string>
     <string name="resource_exchange_share_code_dlg_title">שולח</string>
     <string name="resource_exchange_success">תהנו! :)</string>
     <string name="resource_exchange_unavailable">ערכת הנושא המקושרת לקוד שהזנת אינה זמינה.</string>
@@ -659,6 +665,7 @@ mm"</string>
     <string name="resource_pack_price_info">מחיר מקורי: %1$s</string>
     <string name="resource_pack_warning">רכשת כבר %1$d רכיבים בערכת נושא זו. זול יותר יהיה לרכוש את הרכיבים הנותרים בנפרד.</string>
     <string name="resource_present">מתנה</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">חינם</string>
     <string name="resource_price_unit"> נקודות Mi</string>
     <string name="resource_purchase_common_error">אירעה שגיאה, נסה שוב</string>
@@ -674,7 +681,6 @@ mm"</string>
     <string name="resource_ringtone_default">צלצולים</string>
     <string name="resource_ringtone_playing_error">שגיאה</string>
     <string name="resource_ringtone_volume_mute">הצלצול מושתק</string>
-    <string name="resource_save_to_note">"שמור ב'פתקים'"</string>
     <string name="resource_search_color_hint_blue">כחול</string>
     <string name="resource_search_color_hint_dark">שחור</string>
     <string name="resource_search_color_hint_green">ירוק</string>
@@ -698,12 +704,8 @@ mm"</string>
     <string name="resource_select_ringtone_audio_confirm">בחר צלצול זה?</string>
     <string name="resource_select_ringtone_confirm">בחר צלצול זה?</string>
     <string name="resource_selected">מומלץ</string>
-    <string name="resource_send">שליחה</string>
     <string name="resource_server_alert_dialog_title">תכף נשוב…</string>
     <string name="resource_server_out_of_service">למרבה הצער, השרת שלנו אינו פעיל כרגע.</string>
-    <string name="resource_share_subject">שיתוף ערכת נושא: %1$s</string>
-    <string name="resource_share_text">הנה ערכת נושא שחשבתי שאתה עשוי לאהוב: %1$s! קישור: %2$s</string>
-    <string name="resource_share_title">שיתוף</string>
     <string name="resource_system_title">משאבי מערכת</string>
     <string name="resource_tab_to_view">לחץ להצגה.</string>
     <string name="resource_tip_select_none">לא נבחר דבר</string>
@@ -738,7 +740,7 @@ mm"</string>
     <string name="resource_waiting_download">ממתין</string>
     <string name="resource_waiting_pause">הושהה</string>
     <string name="resource_wallpaper_download">הורדת טפט</string>
-    <string name="restore_last_theme_desc">ייתכן שרכיבים מסוימים בערכת הנושא שהייתה בשימוש לפני כן לא תואמים לגירסה החדשה של MIUI. רכיבים שאינם תואמים יוחלפו על ידי אפשרויות ברירת המחדל.</string>
+    <string name="restore_last_theme_desc">ייתכן שרכיבים מסוימים של ערכת הנושא שהייתה בשימוש קודם לכן לא מתאימים לגרסה החדשה של המערכת. הרכיבים שאינם מתאימים יוחלפו באפשרויות ברירת המחדל.</string>
     <string name="restore_last_theme_title">משחזר את ערכת הנושא המקורית</string>
     <string name="restore_push_content">חזור לערכת הנושא שהשתמשת בה לפני העדכון</string>
     <string name="restore_push_title">שחזר את ערכת הנושא שלך</string>
@@ -789,6 +791,8 @@ mm"</string>
     <string name="sim_one">SIM %d</string>
     <string name="sim_two">SIM %d</string>
     <string name="similar_theme">ערכות נושא זהות</string>
+    <string name="skip_ad">דלג</string>
+    <string name="somatosensory_temperature_format">מרגיש כמו %s°</string>
     <string name="special_topic">קטגוריות</string>
     <string name="start_all">לחדש את הכול</string>
     <string name="still_apply">החל</string>
@@ -796,6 +800,11 @@ mm"</string>
     <string name="sunday">ראשון</string>
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
+    <string name="sunrise_time_format">זריחה %s</string>
+    <string name="sunrise_time_format_desc">זמן הזריחה: %s</string>
+    <string name="sunrise_time_format_tomorrow_desc">הזריחה מחר: %s</string>
+    <string name="sunset_time_format">שקיעה %s</string>
+    <string name="sunset_time_format_desc">זמן השקיעה: %s</string>
     <string name="super_wallpaper_apk_install">התקנה</string>
     <string name="super_wallpaper_list_footer_text">בקרוב יגיעו סוּפּר-טפטים נוספים</string>
     <string name="super_wallpaper_list_label">סוּפּר-טפטים</string>
@@ -811,6 +820,7 @@ mm"</string>
     <string name="system_aod_dialog_title">תצוגה תמידית</string>
     <string name="system_phone">שיחות</string>
     <string name="system_precust">מותקן מראש</string>
+    <string name="text_play">שחק</string>
     <string name="the_anniversary_of_lifting_martial_law">יום השנה לביטול החוק הצבאי</string>
     <string name="the_anti_aggression_day">יום המאבק באלימות</string>
     <string name="the_arbor_day">יום העץ</string>
@@ -910,11 +920,13 @@ mm"</string>
     <string name="theme_favorite_list_empty">לא הוספת ערכות נושא לרשימת המועדפים.</string>
     <string name="theme_favorite_waiting">רק רגע…</string>
     <string name="theme_fresh_man_notifaction">ערכות נושא חדשות זמינות</string>
+    <string name="theme_home_page">דף הבית</string>
     <string name="theme_immediately_apply_tip">להחיל עדכון לערכת הנושא כעת?</string>
     <string name="theme_import_from_sdcard">ייבא</string>
     <string name="theme_is_external_priority_storage">שמור בכרטיס הזכרון</string>
     <string name="theme_is_external_priority_storage_summary">"יישום 'ערכות נושא' יופעל מחדש על מנת להחיל הגדרות אלו."</string>
     <string name="theme_multiple_button_title_customize">התאמה אישית</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">לא</string>
     <string name="theme_on_the_phone_alert">לא ניתן לנגן במהלך שיחות</string>
     <string name="theme_recommend">ערכות נושא זהות</string>
@@ -935,6 +947,7 @@ mm"</string>
     <string name="themes_has_an_updated_version">קיימת גרסה חדשה של ערכות נושא</string>
     <string name="themes_might_like">נושאים שאולי תאהב</string>
     <string name="third_party_pickers_activity_title">הוסף %1$s</string>
+    <string name="third_privacy_policies">מדיניות הפרטיות של צדדים שלישיים</string>
     <string name="thursday">חמישי</string>
     <string name="thursday_short">"ה'"</string>
     <string name="thursday_shortest">"ה'"</string>
@@ -946,6 +959,7 @@ mm"</string>
     <string name="tip_home">שנה את הטפט והשעון של מסך הבית</string>
     <string name="tip_icon">שנה את סמלי מסך הבית</string>
     <string name="tip_lockscreen">שנה את הטפט והשעון של מסך הנעילה</string>
+    <string name="tip_lockscreen2">אתם משתמשים בטפט מתחלף. התאמה אישית של ערכת הנושא תשנה את טפט מסך הנעילה ואת השעון.</string>
     <string name="tip_statusbar">שנה את מרכז הבקרה ואת לוח ההתראות</string>
     <string name="tips_theme_gate_transfer_fail">לא ניתן לפתוח דף זה. נא להמתין כמה דקות ולנסות שוב.</string>
     <string name="title_component">התאמה אישית של ערכת הנושא</string>
@@ -986,20 +1000,23 @@ mm"</string>
     <string name="update_push_content">עדכן עכשיו</string>
     <string name="update_push_title">יש גירסה חדשה של ערכת הנושא שלך</string>
     <string name="update_title">עדכון חדש זמין</string>
+    <string name="used_wallpaper">היו בשימוש בעבר</string>
     <string name="user_agree">מסכימ/ה</string>
     <string name="user_attention_new_theme">תוכן חדש מ-%s</string>
     <string name="user_authorization_dialog_agree">מסכים</string>
     <string name="user_authorization_dialog_agree_a">מסכים</string>
     <string name="user_authorization_dialog_disagree">יציאה</string>
-    <string name="user_authorization_dialog_message">"&lt;Data>עלינו לאסוף מידע אישי הכרחי כדי לספק לך את השירותים הבסיסיים. תוכל ללמוד כיצד אנו מטפלים במידע שאנו אוספים ב&lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> שלנו. קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%3$s\">מדיניות הפרטיות&lt;/a> לפני שתשתמש ב'ערכות נושא'.
-בכל זמן תוכל לעבור להגדרות ולבטל את הסכמתך למדיניות הפרטיות של 'ערכות נושא'&lt;/Data>"</string>
-    <string name="user_authorization_dialog_message_a">&lt;Data>הסכם ל&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו לפני שתמשיך. תוכל לשנות את ההעדפות שלך בכל עת בהגדרות.&lt;/Data></string>
+    <string name="user_authorization_dialog_message"><Data>"עלינו לאסוף מידע אישי הכרחי כדי לספק לך את השירותים הבסיסיים. תוכל ללמוד כיצד אנו מטפלים במידע שאנו אוספים ב&lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> שלנו. קרא והסכם ל&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%3$s\">מדיניות הפרטיות&lt;/a> לפני שתשתמש ב'ערכות נושא'.
+בכל זמן תוכל לעבור להגדרות ולבטל את הסכמתך למדיניות הפרטיות של 'ערכות נושא'"</Data></string>
+    <string name="user_authorization_dialog_message_a"><Data>הסכם ל&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a> שלנו לפני שתמשיך. תוכל לשנות את ההעדפות שלך בכל עת בהגדרות.</Data></string>
     <string name="user_authorization_dialog_title">תנאי השימוש</string>
     <string name="user_know">הבנתי</string>
     <string name="using_theme_has_update_tips">קיים עדכון זמין לערכת נושא זו.</string>
     <string name="using_theme_next_automatic_update">עדכונים אוטומטיים</string>
     <string name="using_theme_next_automatic_update_summary">כאשר המסך נעול, עדכן אוטומטית באמצעות ה-Wi-Fi את ערכות הנושא שהורדו</string>
     <string name="using_theme_show_ad">המלצות</string>
+    <string name="uvi_format">UVI %1$s %2$s</string>
+    <string name="uvi_format_desc">מדד קרינה אולטרה-סגולה: %1$s, %2$s</string>
     <string name="video_audio_apply_success">תצורת הסרטון עם שמע נקבעה בהצלחה</string>
     <string name="video_cancel">ביטול</string>
     <string name="video_data_tips_message">שימוש בנתונים סלולריים עשוי להוביל לחיובים נוספים. להמשיך בכל זאת?</string>
@@ -1008,11 +1025,26 @@ mm"</string>
     <string name="video_not_support_title">וידאו זה גדול מדי</string>
     <string name="video_silence_apply_success">תצורת הסרטון ללא שמע נקבעה בהצלחה</string>
     <string name="wallpaper_agreement_message">כדי להשתמש ברקעים מערכות נושא, עליך לקרוא ולהסכים קודם ל&lt;a href=\"%1$s\">הסכם המשתמש&lt;/a> ול&lt;a href=\"%2$s\">מדיניות הפרטיות&lt;/a>.</string>
+    <string name="wallpaper_and_personal">טפט והתאמה אישית</string>
     <string name="wallpaper_apply">החלה</string>
     <string name="wallpaper_crop">חתוך</string>
     <string name="wallpaper_decoded_error">לא ניתן לטעון את הטפט</string>
     <string name="wallpaper_desc">טפטים מעניקים מראה רענן למסך הבית.</string>
     <string name="wallpaper_detail_load_page_no_network">התחבר לרשת ונסה שוב.</string>
+    <string name="wallpaper_group_black_gobi_title">חולות מדבר גובי</string>
+    <string name="wallpaper_group_color_move_title">צבעים נוזליים</string>
+    <string name="wallpaper_group_concerto_title">"קונצ'רטו"</string>
+    <string name="wallpaper_group_crystallization_title">התגבשות</string>
+    <string name="wallpaper_group_curves_title">קימורים</string>
+    <string name="wallpaper_group_dynamic_nebula_title">ערפילית דינמית</string>
+    <string name="wallpaper_group_geometric_title">גאומטריה</string>
+    <string name="wallpaper_group_light_cycles_title">טבעות אור</string>
+    <string name="wallpaper_group_macaron_title">בועות</string>
+    <string name="wallpaper_group_minimalist_scenery_title">מינימליזם</string>
+    <string name="wallpaper_group_miui_14_title">MIUI 14</string>
+    <string name="wallpaper_group_molten_glass_title">זכוכית מותכת</string>
+    <string name="wallpaper_group_natural_texture_title">תבניות מהטבע</string>
+    <string name="wallpaper_group_sgn_mountain_title">הר סיגוניאנג</string>
     <string name="wallpaper_might_like">תמונות רקע שאולי תאהב</string>
     <string name="wallpaper_scroll_type_tips">גלילת הטפט</string>
     <string name="wallpaper_set_as_both">הגדר כשניהם</string>
@@ -1023,6 +1055,12 @@ mm"</string>
     <string name="wallpaper_settings_no_history">אין היסטוריה</string>
     <string name="wallpaper_settings_pad_more_page_title">טפטים נוספים</string>
     <string name="wallpaper_settings_page_title">טפט</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">הגדרות</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">להחיל</string>
+    <string name="warning_miui_optimization_closed_dialog_message">נראה שלא הפעלת את האופטימיזציה של MIUI. בלעדיה ערכת הנושא הזו לא תפעל כנדרש אחרי החלתה. ניתן להחיל אותה בכל זאת, או להפעיל את האופטימיזציה של MIUI בהגדרות.</string>
+    <string name="warning_miui_optimization_closed_dialog_message2">נראה שלא הפעלת את האופטימיזציה של המערכת. בלעדיה ערכת הנושא הזו לא תפעל כנדרש אחרי החלתה. ניתן להחיל אותה בכל זאת, או להפעיל את האופטימיזציה של המערכת בהגדרות.</string>
+    <string name="warning_miui_optimization_closed_dialog_title">לתשומת לבך</string>
+    <string name="weather_no_data">אין נתוני מזג אוויר</string>
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>
@@ -1030,6 +1068,19 @@ mm"</string>
     <string name="wifi_check_confirm">אישור</string>
     <string name="wifi_check_message">האם להשתמש בנתונים סלולריים כדי להוריד עדכונים?</string>
     <string name="wifi_check_tip">אל תציג שוב</string>
+    <string name="wind_direction_0">"רוח צ'"</string>
+    <string name="wind_direction_1">"רוח צ'-מז'"</string>
+    <string name="wind_direction_1_f">"רוח צ'-מז'"</string>
+    <string name="wind_direction_2">"רוח מז'"</string>
+    <string name="wind_direction_3">"רוח ד'-מז'"</string>
+    <string name="wind_direction_3_f">"רוח ד'-מז'"</string>
+    <string name="wind_direction_4">"רוח ד'"</string>
+    <string name="wind_direction_5">"רוח ד'-מע'"</string>
+    <string name="wind_direction_5_f">"רוח ד'-מע'"</string>
+    <string name="wind_direction_6">"רוח מע'"</string>
+    <string name="wind_direction_7">"רוח צ'-מע'"</string>
+    <string name="wind_direction_7_f">"רוח צ'-מע'"</string>
+    <string name="wind_format">%1$s | רמה %2$s</string>
     <string name="xiaoai_speech_not_installed_download">הורדה</string>
     <string name="xiaoai_speech_not_installed_message">הורד והתקן את הסייע הקולי של Mi AI על מנת להמשיך.</string>
     <string name="xiaoai_speech_not_installed_title">הסייע הקולי Mi AI אינו מותקן.</string>

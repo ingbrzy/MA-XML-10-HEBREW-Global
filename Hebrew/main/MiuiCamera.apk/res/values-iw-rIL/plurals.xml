@@ -54,6 +54,12 @@
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
     </plurals>
+    <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">%d-second timer for Night mode</item>
+        <item quantity="one">%d-second timer for Night mode</item>
+        <item quantity="two">%d-second timer for Night mode</item>
+        <item quantity="many">%d-second timer for Night mode</item>
+    </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">ממוקד. זוהו %d פרצופים</item>
         <item quantity="one">ממוקד. זוהה פרצוף %d</item>
@@ -78,6 +84,18 @@
         <item quantity="two">משך זמן: %d שניות</item>
         <item quantity="many">משך זמן: %d שניות</item>
     </plurals>
+    <plurals name="cinemaster_toast_camera_overflow">
+        <item quantity="other">ניתן לחבר לאותה הרשת עד %d מצלמות</item>
+        <item quantity="one">ניתן לחבר לאותה הרשת עד מצלמה %d</item>
+        <item quantity="two">ניתן לחבר לאותה הרשת עד %d מצלמות</item>
+        <item quantity="many">ניתן לחבר לאותה הרשת עד %d מצלמות</item>
+    </plurals>
+    <plurals name="cinemaster_toast_monitor_overflow">
+        <item quantity="other">ניתן לחבר לאותה הרשת עד %d מסכים</item>
+        <item quantity="one">ניתן לחבר לאותה הרשת עד מסך %d</item>
+        <item quantity="two">ניתן לחבר לאותה הרשת עד %d מסכים</item>
+        <item quantity="many">ניתן לחבר לאותה הרשת עד %d מסכים</item>
+    </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">אפשר ליצור עד %d שיבוטים בכל פעם.</item>
         <item quantity="one">אפשר ליצור עד שיבוט %d בכל פעם</item>
@@ -96,6 +114,12 @@
         <item quantity="two">&lt;Data>כרגע המכשיר הזה חם מדי.&lt;br>היישום ייסגר בעוד &lt;font color=#FFCE16>&lt;b>%1$d שניות&lt;/b>&lt;/font>. ההתקדמות עד כה נשמרה באופן אוטומטי.&lt;/Data></item>
         <item quantity="many">&lt;Data>כרגע המכשיר הזה חם מדי.&lt;br>היישום ייסגר בעוד &lt;font color=#FFCE16>&lt;b>%1$d שניות&lt;/b>&lt;/font>. ההתקדמות עד כה נשמרה באופן אוטומטי.&lt;/Data></item>
     </plurals>
+    <plurals name="exit_version_hint">
+        <item quantity="other">&lt;Data>גרסת המצלמה בה אתם משתמשים אינה תואמת את דגם המכשיר שלכם.&lt;br>היישום ייסגר בעוד &lt;font color=#FFCE16>&lt;b>%1$d שניות&lt;/b>&lt;/font>. יש להסיר את העדכונים למצלמה ולנסות שוב.&lt;/Data></item>
+        <item quantity="one">&lt;Data>גרסת המצלמה בה אתם משתמשים אינה תואמת את דגם המכשיר שלכם.&lt;br>היישום ייסגר בעוד שנייה &lt;font color=#FFCE16>&lt;b>%1$d &lt;/b>&lt;/font>. יש להסיר את העדכונים למצלמה ולנסות שוב.&lt;/Data></item>
+        <item quantity="two">&lt;Data>גרסת המצלמה בה אתם משתמשים אינה תואמת את דגם המכשיר שלכם.&lt;br>היישום ייסגר בעוד &lt;font color=#FFCE16>&lt;b>%1$d שניות&lt;/b>&lt;/font>. יש להסיר את העדכונים למצלמה ולנסות שוב.&lt;/Data></item>
+        <item quantity="many">&lt;Data>גרסת המצלמה בה אתם משתמשים אינה תואמת את דגם המכשיר שלכם.&lt;br>היישום ייסגר בעוד &lt;font color=#FFCE16>&lt;b>%1$d שניות&lt;/b>&lt;/font>. יש להסיר את העדכונים למצלמה ולנסות שוב.&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d דקות</item>
         <item quantity="one">דקה אחת (%1$d)</item>
@@ -107,6 +131,12 @@
         <item quantity="one">שנייה אחת (%1$d)</item>
         <item quantity="two">%1$d שניות</item>
         <item quantity="many">%1$d שניות</item>
+    </plurals>
+    <plurals name="friend_mode_display_first_dialog">
+        <item quantity="other">הופעל טיימר (%1$d שניות). התמונות יועברו למכשיר זה.</item>
+        <item quantity="one">הופעל טיימר (שנייה %1$d). התמונות יועברו למכשיר זה.</item>
+        <item quantity="two">הופעל טיימר (%1$d שניות). התמונות יועברו למכשיר זה.</item>
+        <item quantity="many">הופעל טיימר (%1$d שניות). התמונות יועברו למכשיר זה.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
@@ -161,6 +191,12 @@
         <item quantity="one">לפני דקה אחת</item>
         <item quantity="two">לפני %d דקות</item>
         <item quantity="many">לפני %d דקות</item>
+    </plurals>
+    <plurals name="number_unit_seconds_split">
+        <item quantity="other">"%dשנ'"</item>
+        <item quantity="one">"שנ'%d"</item>
+        <item quantity="two">"%dשנ'"</item>
+        <item quantity="many">"%dשנ'"</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
         <item quantity="other">המכשיר שלך התחמם יותר מדי. המצלמה תיסגר בעוד %d שניות. התמונות או הסרטונים שלך יישמרו באופן אוטומטי.</item>

@@ -73,4 +73,14 @@
         <item>ת</item>
         <item>\#</item>
     </string-array>
+    <string-array name="kg_glass_filters">
+        <item>מקורי</item>
+        <item>טשטוש</item>
+        <item>עיצוב קנים</item>
+        <item>מצולע</item>
+        <item>פריזמה</item>
+        <item>חריצים</item>
+        <item>גלים</item>
+        <item>ריבועים</item>
+    </string-array>
 </resources>

@@ -10,6 +10,7 @@
     <string name="download_queued">בתור</string>
     <string name="download_remaining">%s נותרו</string>
     <string name="download_running">מוריד</string>
+    <string name="download_running_percent">מוריד %s</string>
     <string name="download_unknown_title">&lt;ללא שם></string>
     <string name="notif_title_file_size">%1$d סה\"כ</string>
     <string name="notif_title_single_downloading">מוריד את %1$s</string>
@@ -32,7 +33,6 @@
     <string name="permlab_downloadManager">"גישה ל'הורדות'."</string>
     <string name="permlab_downloadManagerAdvanced">"תכונות מתקדמות של 'הורדות'."</string>
     <string name="permlab_downloadWithoutNotification">הורדת קבצים ללא התראה</string>
-    <string name="permlab_seeAllExternal">צפיה בכל ההורדות באחסון ה-USB</string>
     <string name="root_downloads">הורדות</string>
     <string name="wifi_recommended_body">"התחלת הורדה זו %1$s כעת עשויה לקצר את חיי הסוללה שלך ו/או להוביל לשימוש מופרז בחיבור הנתונים הסלולריים שלך, אשר עשוי להוביל לחיובים נוספים על ידי ספק הרשת שלך בהתאם לחבילת הנתונים שלך.
 

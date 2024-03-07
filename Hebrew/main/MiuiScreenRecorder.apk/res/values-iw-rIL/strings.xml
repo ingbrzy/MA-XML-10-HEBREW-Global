@@ -5,9 +5,8 @@
     <string name="am">AM</string>
     <string name="app_name">מקליט המסך</string>
     <string name="app_notification_channel_record_complete">התראות על הקלטות שהושלמו</string>
-    <string name="app_notification_info">"'מקליט המסך' פועל ברקע"</string>
-    <string name="app_notification_record_saved">"ההקלטה נשמרה בהצלחה
-נא להקיש לצפייה"</string>
+    <string name="app_notification_info">מקליט את המסך כרגע…</string>
+    <string name="app_notification_record_saved">הקלטות המסך נשמרה. נא להקיש לצפייה.</string>
     <string name="app_notification_title">מקליט המסך</string>
     <string name="auto_stop_title">הסרטון נשמר בהצלחה</string>
     <string name="battery_not_allowed_warning">לא ניתן להקליט כאשר רמת הסוללה מתחת ל-%1$s. יש לוודא כי הסוללה טעונה ב-%2$s לפחות.</string>
@@ -35,7 +34,7 @@
     <string name="date_year">/</string>
     <string name="description_content">"'מקליט המסך' מספק יכולות הקלטה ברמת המערכת. לא תוכל להשתמש ב'מקליט המסך' במידה ותמשיך. אשר על מנת להמשיך."</string>
     <string name="description_title">"אודות 'מקליט המסך'"</string>
-    <string name="deselect_all">הסר בחירה מהכל</string>
+    <string name="deselect_all">נקה הכל</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="empty" />
     <string name="eras_ad">לספירה</string>
@@ -129,14 +128,14 @@
     <string name="mic_sound">מיקרופון</string>
     <string name="midnight">לילה</string>
     <string name="miuix_access_state_desc">נבחר</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
+    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
@@ -197,7 +196,7 @@
     <string name="no_recorder_info2">הקש על הלחצן להתחלת הקלטה</string>
     <string name="no_sound">השתק</string>
     <string name="noon">צהריים</string>
-    <string name="operation_delete">מחיקה</string>
+    <string name="operation_delete">מחק</string>
     <string name="operation_send">שליחה</string>
     <string name="permission_desc">פרטי הרשאות</string>
     <string name="permission_intro_microphone">בעבור הקלטות קול כאשר מקור הקול מופעל ומוגדר באמצעות המיקרפון</string>
@@ -205,7 +204,9 @@
     <string name="permission_microphone_desc">שימוש במיקרופון כמקור השמע בהקלטות מסך</string>
     <string name="pm">PM</string>
     <string name="privacy_settings">פרטיות</string>
+    <string name="protect_oneself_when_recording">מקליט את השיחה. הגנו על הפרטיות שלכם ושל אנשים אחרים בזמן שימוש במאפיין זה.</string>
     <string name="quit_recording">"יציאה מ'מקליט המסך'"</string>
+    <string name="record_time_too_short">הווידאו שהוקלט קצר מדי</string>
     <string name="recording_failure">לא ניתן היה להקליט, התחל מחדש</string>
     <string name="recording_max_size">ההקלטה נעצרה ונשמרה כיוון שקובץ הוידאו הגיע לתקרת מגבלת הגודל שלו. התחל להקליט מהמקום בו היא נעצרה במידה ועדיין לא סיימת.</string>
     <string name="recording_without_mic">המיקרופון נמצא בשימוש, אינך יכול להקליט שמע.</string>
@@ -224,12 +225,12 @@
     <string name="settings_other">אחר</string>
     <string name="settings_privacy">מדיניות הפרטיות</string>
     <string name="show_hard_key">הצג לחצני ניווט</string>
-    <string name="show_hard_key_new">הצג הקשות על כפתורים</string>
+    <string name="show_hard_key_new">להציג הקשות על כפתורים</string>
     <string name="show_hard_key_summary">"הצג התראות בעת הקשה על לחצני 'בית', 'תפריט' ו-'חזרה'"</string>
     <string name="show_hard_key_summary_new">המחשה חזותית של הקשות על כפתורי ניווט</string>
     <string name="show_screen_touch">הצג מחוות נגיעה</string>
     <string name="show_screen_touch_summary">הצג מחוות באמצעות נקודה לבנה</string>
-    <string name="size_byte">בייט</string>
+    <string name="size_byte">"ב'"</string>
     <string name="size_gigabyte">GB</string>
     <string name="size_kilobyte">KB</string>
     <string name="size_megabyte">MB</string>

@@ -32,6 +32,13 @@
     <string name="add_ringtone_text">רינגטון חדש</string>
     <string name="alarm_sound_default">צליל ברירת המחדל לשעון מעורר</string>
     <string name="app_label">צלילים</string>
+    <string name="call_notification_answer_action">מענה</string>
+    <string name="call_notification_answer_video_action">וידאו</string>
+    <string name="call_notification_decline_action">דחייה</string>
+    <string name="call_notification_hang_up_action">ניתוק</string>
+    <string name="call_notification_incoming_text">שיחה נכנסת</string>
+    <string name="call_notification_ongoing_text">שיחה פעילה</string>
+    <string name="call_notification_screening_text">סינון שיחה נכנסת</string>
     <string name="delete_ringtone_text">מחיקה</string>
     <string name="notification_sound_default">צליל ברירת מחדל להתראות</string>
     <string name="ringtone_default">רינגטון ברירת מחדל</string>

@@ -31,7 +31,7 @@
     <string name="feedback">משוב</string>
     <string name="float_notification_snooze_strategy">הסתרה זמנית</string>
     <string name="float_notification_snooze_summary">יש להחליק אצבע על התראה צפה להסתרה זמנית של ההתראות הבאות</string>
-    <string name="float_notification_snooze_summary_1_min">Swipe up on a floating notification to hide upcoming ones for %d minute</string>
+    <string name="float_notification_snooze_summary_1_min">יש להחליק למעלה על התראה צפה כדי להסתיר את ההתראות הבאות למשך דקה %d</string>
     <string name="float_notification_snooze_summary_always_float">תמיד להציג התראות צפות</string>
     <string name="float_notification_snooze_summary_until_unlock">ניתן להחליק למעלה על התראה צפה כדי להסתיר התראות קרובות עד נעילת המכשיר</string>
     <string name="float_notifications">התראות צפות</string>

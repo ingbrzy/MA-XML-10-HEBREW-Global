@@ -940,6 +940,7 @@
     <string name="card_main_private_space_summary">"השימוש ב'שטח שני' דומה לשימוש בשני מכשירים"</string>
     <string name="card_main_private_space_title">שטח שני</string>
     <string name="card_main_sectool_title">כלים</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">ניהול סרטונים</string>
     <string name="card_main_whatsappclean_title">מנקה WhatsApp</string>
     <string name="card_main_xspace_action">צור</string>
@@ -1287,6 +1288,7 @@
     <string name="dynamic_performance_optimization_title">ביצועים דינמיים</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="edit_phone_num">ערוך את מספר הטלפון של ה-SIM</string>
+    <string name="ellipsis">…</string>
     <string name="email">דוא\"ל</string>
     <string name="empty" />
     <string name="empty_app">אין יישומים</string>
@@ -2019,8 +2021,8 @@ Record sequences and use them anytime!"</string>
     <string name="group_clipboard">לוח גזירים</string>
     <string name="group_connect_device">קישוריות</string>
     <string name="group_file">קבצים ומסמכים</string>
+    <string name="group_file_less_t">Access files and media</string>
     <string name="group_head_data_ai_clipboard">הגנת לוח העריכה</string>
-    <string name="group_head_data_ai_clipboard_desc">לאפשר למערכת להחליט האם יישומים יכולים לקבל גישה לתוכן לוח העריכה</string>
     <string name="group_head_data_camera_desc">השביתו כדי להגביל גישה למצלמה עבור כל היישומים</string>
     <string name="group_head_data_clipboard_desc">השביתו כדי להגביל גישה ללוח העריכה עבור כל היישומים</string>
     <string name="group_head_data_location_desc">השביתו כדי להגביל גישה למיקום עבור כל היישומים</string>
@@ -2482,6 +2484,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_license_manager">הרשאות</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2490,6 +2493,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_optimize_manage">האצת מהירות</string>
     <string name="menu_text_optimize_manage_1">האצת מהירות</string>
     <string name="menu_text_power_manager">סוללה</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">הסרה מרשימת החריגים</string>
     <string name="menu_white">הוספה לרשימת החריגים</string>
     <string name="mi_ime_not_used">השתמש במקלדת שאושרה ע\"י שיאומי</string>
@@ -2498,6 +2502,9 @@ Record sequences and use them anytime!"</string>
     <string name="mi_service_traffic_detail">פרטי המסגרת</string>
     <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Tap to top up open Mi Sim.&lt;/U>&lt;/font>"</string>
     <string name="mi_sim_link_custom">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>%2$s&lt;/U>&lt;/font>"</string>
+    <string name="mic_noise_reduction_mode_standard">סטנדרטית</string>
+    <string name="mic_noise_reduction_mode_ultimate">בחירה</string>
+    <string name="mic_noise_reduction_voiceprint_desc">לשמור שמע רק ממשתמש ספציפי</string>
     <string name="midnight">לילה</string>
     <string name="midrop_post_notification_contentTitle">צריך לשתף קבצים?</string>
     <string name="miui_blur_location">לאפשר לכל היישומים גישה למיקום מקורב</string>
@@ -2952,6 +2959,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_battery_history_total_consumption_title">צריכת החשמל הכוללת</string>
     <string name="pc_battery_history_usetime_title">פעיל</string>
     <string name="pc_battery_low_health_reminder">הגיע הזמן להחליף את הסוללה</string>
+    <string name="pc_button_go_to_setting">הגדרות</string>
     <string name="pc_category_charge_settings">הגדרות טעינה</string>
     <string name="pc_charged_auto_close_summary">לכבות כאשר הסוללה מגיעה ל-%1$s או נטענת במלואה</string>
     <string name="pc_charged_auto_close_title">לכבות במהלך טעינה</string>
@@ -2991,6 +2999,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_going_to_exit_extreme_mode">יוצא ממצב שינה עמוקה</string>
     <string name="pc_going_to_exit_extreme_mode_summary">המכשיר בטעינה. מצב שינה עמוקה כבוי.</string>
     <string name="pc_going_to_extreme_mode">נכנס למצב שינה עמוקה</string>
+    <string name="pc_handle_battery_level">תופסן</string>
     <string name="pc_have_no_battery_issue">אין בעיות</string>
     <string name="pc_hide_more_power_rank_apps">הסתר</string>
     <string name="pc_hidemode_normal">מאוזן</string>
@@ -3050,11 +3059,14 @@ Record sequences and use them anytime!"</string>
     <string name="pc_performance_mode_dialog_title">מצב ביצועים</string>
     <string name="pc_performance_mode_noti_summary">מצב ביצועים עשוי להגדיל את צריכת החשמל ולהוביל לבעיות התחממות יתר</string>
     <string name="pc_performance_mode_noti_title">שיפור ביצועי המכשיר</string>
+    <string name="pc_phone_battery_level">טלפון</string>
     <string name="pc_power_consume_check">בדיקת סוללה</string>
     <string name="pc_power_consume_check_ing">בודק…</string>
+    <string name="pc_power_mode_has_performance">"מצב 'ביצועים' מופעל"</string>
     <string name="pc_power_save_settings_new">הגדרות חיסכון בסוללה</string>
     <string name="pc_remind_close_cover_to_charge_summary">יש לקפל את המכשיר לפני הטעינה לחוויית טעינה מהירה ויציבה יותר.</string>
     <string name="pc_remind_close_cover_to_charge_title">יש לקפל כדי לטעון</string>
+    <string name="pc_reminder_always_protect_summary">מעבר לטעינה מוגבלת כדי לצמצם את בלאי הסוללה</string>
     <string name="pc_save_charge">טוען</string>
     <string name="pc_save_other_setting">הגדרות נוספות</string>
     <string name="pc_save_power">חיסכון בסוללה</string>
@@ -3084,6 +3096,11 @@ Record sequences and use them anytime!"</string>
     <string name="pc_wait_device_cools_down">נא להמתין עד שהמכשיר שלך יתקרר במידה מספקת כדי להשתמש במאפיין זה.</string>
     <string name="pc_wireless_charge_adjust_position_summary">יש להניח אותו על מטען אלחוטי</string>
     <string name="pc_wireless_charge_adjust_position_title">טען את המכשיר שלך מהר יותר</string>
+    <string name="pc_wireless_charging_special_stand_summary1">יש להציב את המכשיר שלך על המעמד שהגיע עם המטען האלחוטי</string>
+    <string name="pc_wireless_charging_special_stand_summary2">לטעינה מיטבית, יש להציב את המכשיר שלך על המעמד שהגיע עם המטען האלחוטי</string>
+    <string name="pc_wireless_charging_special_stand_title">שימוש במעמד הטעינה המסופק</string>
+    <string name="pc_wireless_handle_connected">המכשיר מחובר</string>
+    <string name="pc_wireless_handle_title">תופסן למצלמה אלחוטית</string>
     <string name="pc_work_in_save_mode">חיסכון בסוללה</string>
     <string name="pc_work_in_super_save_mode">חיסכון קיצוני בסוללה</string>
     <string name="pc_xiaoai_create_auto_task">משימה חדשה מ-Mi AI</string>
@@ -3144,6 +3161,7 @@ Record sequences and use them anytime!"</string>
     <string name="permission_group_camera">הרשאה זו מאפשרת ליישומים להשתמש במצלמה כדי לצלם תמונות או להקליט סרטונים.</string>
     <string name="permission_group_contact">הרשאה זו מאפשרת ליישומים לקבל גישה לאנשי הקשר או לערוך אותם וגם לצפות באנשי הקשר של היישומים שנוצרו במכשיר זה.</string>
     <string name="permission_group_file">הרשאה זו מאפשרת ליישומים לקבל גישה לכל הקבצים המאוחסנים במכשיר זה.</string>
+    <string name="permission_group_file_less_t">This permission allows apps to access photos, videos, audio, and other files stored on this device.</string>
     <string name="permission_group_image_video">הרשאה זו מאפשרת ליישומים לקבל גישה לתמונות ולסרטונים המאוחסנים במכשיר זה.</string>
     <string name="permission_group_location">הרשאה זו מאפשרת ליישומים לקבל גישה לפרטי המיקום באמצעות הרשת או לוויינים.</string>
     <string name="permission_group_microphone">הרשאה זו מאפשרת ליישומים להשתמש במיקרופון כדי להקליט שמע.</string>
@@ -3308,7 +3326,7 @@ Record sequences and use them anytime!"</string>
     <string name="power_center_batteryrank_all">כל נתוני השימוש בסוללה</string>
     <string name="power_center_batteryrank_hardware">ניצול סוללה על-ידי חומרה %s</string>
     <string name="power_center_batteryrank_software">ניצול סוללה על-ידי תוכנה %s</string>
-    <string name="power_center_batteryscan_normal">אין בעיות עם ניצול סוללה. הצג את התוצאות.</string>
+    <string name="power_center_batteryscan_normal">הכל נראה טוב. צפה בתוצאות.</string>
     <string name="power_center_charge_status">בטעינה</string>
     <string name="power_center_charge_time">%1$s לטעינה מלאה</string>
     <string name="power_center_consume_fast">מרוקן את הסוללה</string>
@@ -3318,6 +3336,11 @@ Record sequences and use them anytime!"</string>
     <string name="power_center_dialog_msg_top">כאשר מופעל מצב חיסכון בסוללה, יתבצעו האופטימיזציות הבאות:</string>
     <string name="power_center_hints_scan_danger_result">ניתן לתקן בעיות בסוללה עכשיו</string>
     <string name="power_center_list_item_auto_brightness">התאמת בהירות אוטומטית</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">V %s</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_capacity">מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">"ש'"</string>
     <string name="power_center_list_item_close_bluetooth">כיבוי Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">הגדרות מתקדמות</string>
@@ -3340,7 +3363,7 @@ Record sequences and use them anytime!"</string>
     <string name="power_center_optimize_title">הצעות</string>
     <string name="power_center_power_save_summary_text">"הגדל את יתרת הזמן עד %1$d ש' %2$d ד'"</string>
     <string name="power_center_power_save_title_text">חסכון בסוללה</string>
-    <string name="power_center_problem_title">טפל בבעיות</string>
+    <string name="power_center_problem_title">צריכת חשמל גבוהה</string>
     <string name="power_center_reduce_dpi_summary">רזולוציית QHD+ צורכת יותר חשמל</string>
     <string name="power_center_reduce_resolution">הנמך את רזולוציית התצוגה</string>
     <string name="power_center_repeat">חזרה</string>
@@ -3431,6 +3454,9 @@ Record sequences and use them anytime!"</string>
     <string name="power_main_battery_last_hour_minute">"%1$s ש' %2$s ד' נותרו"</string>
     <string name="power_main_battery_last_hour_minute_screen_on">נותרו %1$s%2$s של זמן מסך</string>
     <string name="power_main_open_last_hour_minute_screen_on">יש להפעיל להוספת זמן מסך של %1$s %2$s</string>
+    <string name="power_ntc_dialog_btn_finish">הבנתי</string>
+    <string name="power_ntc_dialog_msg">נא לנתק את המטען עכשיו. יש לנקות ולייבש את פתחת הטעינה לפני שימוש חוזר בו.</string>
+    <string name="power_ntc_dialog_title">זוהה חפץ זר או נוזל</string>
     <string name="power_off_warning_button_ok">הבנתי</string>
     <string name="power_off_warning_message">רמת הסוללה נמוכה. המכשיר ייכבה בעוד %d שניות. חבר אותו למטען.</string>
     <string name="power_off_warning_notification_title">המכשיר עומד להיכבות</string>
@@ -3573,11 +3599,16 @@ Record sequences and use them anytime!"</string>
     <string name="pp_app_warning_permission_tips">תזכורות על הרשאות רגישות</string>
     <string name="pp_app_warning_permission_tips_detail">להציג תזכורת כאשר יישום מבקש הרשאות גישה למיקום, מצלמה או מיקרופון</string>
     <string name="pp_clipboard">לוח גזירים</string>
+    <string name="pp_none_read_clipboard_item">אל תודיע</string>
+    <string name="pp_privacy_lab_clipboard_summary">אפשר למכשיר להחליט אם יישום יכול לגשת ללוח ולקבל התראות כאשר הוא עושה זאת</string>
     <string name="pp_privacy_lab_operator_get_number_summary">לדרוש מהיישומים לבקש הרשאה כשהם רוצים לקבל גישה למספר הטלפון שלך לצורך התחברות.</string>
     <string name="pp_privacy_protection">הגנה</string>
+    <string name="pp_protect_read_clipboard_item">הגן</string>
     <string name="pp_read_phone_info_summary">גישה לפרטי כרטיס SIM</string>
     <string name="pp_sms_and_contacts">אנשי קשר והודעות</string>
     <string name="pp_special_permission_settings">הרשאות מיוחדות</string>
+    <string name="pp_toast_read_clipboard">הצג הודעה כאשר יישומים ניגשים לפריטים בלוח</string>
+    <string name="pp_toast_read_clipboard_item">שאל</string>
     <string name="precise_location_title">מיקום מדויק</string>
     <string name="pref_about_traffic_title">הגדרות שימוש בנתונים</string>
     <string name="pref_adjust_data_usage">תבנית הודעה של ספק הרשת</string>
@@ -3622,6 +3653,7 @@ Record sequences and use them anytime!"</string>
     <string name="pref_normal_traffic_limit">כאשר תכנית הנתונים מנוצלת עד לתומה</string>
     <string name="pref_open_adjust_traffic">עדכן את השימוש בנתונים בכל יום על פי סטטיסטיקות מספק הרשת שלך</string>
     <string name="pref_operator_not_set">ספק הרשת אינו מוגדר</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">כאשר הינך חורג מתכנית הנתונים שלך</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_pkg_begin_date">תאריך איפוס שימוש</string>
@@ -3853,6 +3885,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_risk_result_protection">הגנת פרטיות</string>
     <string name="privacy_risk_result_screen_fuzzy">טשטש תצוגות מקדימות של יישומים</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">"טשטש תצוגות מקדימות של יישומים רגישים המוצגים ב'אחרונים'"</string>
+    <string name="privacy_risk_result_screen_shield_msg">יישומים המכילים מידע אישי רגיש יוצגו ב\"אחרונים\" עם תצוגה מקדימה מוסתרת</string>
     <string name="privacy_risk_result_set_btn">הגדרות</string>
     <string name="privacy_risk_result_success_empty_msg">הכול נראה מצוין!</string>
     <string name="privacy_risk_result_success_msg">כל הבעיות תוקנו. יש!</string>
@@ -3920,6 +3953,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_using_record">הקלטת שמע</string>
     <string name="privacyapp_number_masked_text">תוכן ההתראות מוסתר</string>
     <string name="privacyapp_number_unmasked_text">ניתן להסתיר את תוכן ההתראות</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="process_vpnsdkmanager_label">מאיץ המשחקים</string>
     <string name="promotion">פרסומת</string>
@@ -3933,10 +3967,10 @@ Record sequences and use them anytime!"</string>
     <string name="qucick_replay_instrument">השתמש בתגובות מהירות באמצעות יישומים נבחרים לשליחת מסרים מידיים (לדוגמא: WhatApp, WeChat,QQ)</string>
     <string name="quick_optimize_checking">סורק</string>
     <string name="quick_optimize_no_fix_issue_subtitle">לא ניתן היה להאריך את חיי הסוללה</string>
-    <string name="quick_optimize_no_fix_issue_title">לא ניתן היה לתקן את בעיות הסוללה</string>
+    <string name="quick_optimize_no_fix_issue_title">לא ניתן היה לבצע מיטוב של פריטים עם צריכת חשמל גבוהה</string>
     <string name="quick_optimize_no_issue">אין בעיות סוללה</string>
     <string name="quick_optimize_no_issue_subtitle">הכל נראה תקין</string>
-    <string name="quick_optimize_no_issue_title">לא התגלו בעיות סוללה</string>
+    <string name="quick_optimize_no_issue_title">אין פריטים עם צריכת חשמל גבוהה</string>
     <string name="quick_optimize_sub_battery_text">נותרו בערך %s</string>
     <string name="quick_optimize_sub_summary_text">%s נוספו לחיי הסוללה</string>
     <string name="quick_optimize_sub_summary_with_battery_text">התווסף %1$s, נותרו בערך %2$s</string>
@@ -4115,7 +4149,7 @@ Record sequences and use them anytime!"</string>
     <string name="settings">הגדרות שימוש בנתונים</string>
     <string name="settings_battery_consume_abnormal_summary">קבל התראות כאשר הסוללה מתרוקנת במהירות</string>
     <string name="settings_battery_consume_abnormal_title">התראות התרוקנות הסוללה</string>
-    <string name="settings_battery_power_save_suggest_title">הצעות ואזהרות לגבי חיסכון בסוללה</string>
+    <string name="settings_battery_power_save_suggest_title">הצעות לחיסכון בסוללה</string>
     <string name="settings_camera_subtitle_no">אין מטא-נתונים</string>
     <string name="settings_category_other">הגדרות נוספות</string>
     <string name="settings_category_overheat">התחממות</string>
@@ -4536,6 +4570,8 @@ Record sequences and use them anytime!"</string>
     <string name="storage_dialog_unsupported">"מכשיר זה לא תומך ב-^1 זה.
 
 כדי להשתמש ב-^1 זה עם מכשירך, עליך להגדיר אותו קודם."</string>
+    <string name="storage_fbo_clear">רענון האחסון</string>
+    <string name="storage_fbo_des">האחסון הפנימי סובל מקיטוע (פרגמנטציה), שעלול להאט את עבודת המכשיר שלך במידה משמעותית. רענון האחסון פועל באופן אוטומטי כשהמכשיר לא נמצא בשימוש. הוא מסדר את הקבצים שלך בצורה פיזית כך שמספר הקטעים יהיה מינימלי, מה שמצמצם עיכובים.</string>
     <string name="storage_fbo_number_tip">עובד ב-%1$s</string>
     <string name="storage_fbo_tools">טיוב אחסון</string>
     <string name="storage_file_delete_tip">למחוק לצמיתות את הפריטים שנבחרו? חלקם עשויים להיטען שוב בעת הצורך.</string>
@@ -4626,6 +4662,7 @@ Record sequences and use them anytime!"</string>
     <string name="summary_usb">מנע זליגה של תוכנות זדוניות דרך USB</string>
     <string name="summary_virus">מחק וירוסים על מנת לשמור על מכשירך מאובטח</string>
     <string name="summary_virus_cloudscan">העלה את שמות ופרטי היישומים וסרוק באמצעות הגדרות וירוסים מקוונות</string>
+    <string name="summary_virus_scan_model">יש למחוק את סיכוני האבטחה האלה בהקדם האפשרי</string>
     <string name="summary_virus_update">קבל הגדרות וירוסים עדכניות באופן אוטומטי</string>
     <string name="summary_xiaomi_roaming">0.01 CNY/MB עבור נדידת נתונים סלולריים.</string>
     <string name="sunday">ראשון</string>
@@ -5081,6 +5118,7 @@ Rolled over extra data"</string>
     <string name="vb_movie_power_hint">"מצב קולנוע מספק חוויית צפייה סוחפת.
 המכשיר שלך עשוי להתחמם ולצרוך יותר חשמל."</string>
     <string name="vb_movie_subtitle">מחייב ביצועים גבוהים</string>
+    <string name="vb_mv_style_close_toast">הסגנון כבוי</string>
     <string name="vb_power_performance_mode_conflict_toast">לא ניתן להשתמש במאפיין זה כאשר מופעל מצב ביצועים</string>
     <string name="vb_power_save_mode_conflict_toast">לא ניתן להשתמש במאפיין זה כאשר מופעל מצב חיסכון בסוללה</string>
     <string name="vb_quick_func_auto_bgm">זיהוי מוזיקת רקע</string>
@@ -5154,6 +5192,7 @@ Rolled over extra data"</string>
 הפעלת אחד משני המאפיינים האלה תביא להשבתת המאפיין השני."</string>
     <string name="vb_video_super_division_tips">"התמונה לא חדה מספיק?
 נסה לשדרג את הרזולוציה!"</string>
+    <string name="vb_vison_dynamic_enhance_close_toast">אנימציות משופרות כבויות</string>
     <string name="vb_voice_adjust">שמע לקולנוע</string>
     <string name="video_repeat">נגן שוב</string>
     <string name="videobox_hangup_tips_content">כאשר תכונה זו פועלת, המסך שלך יינעל, אך האפליקציה עדיין תפעל ברקע. לחץ על לחצן ההפעלה כדי להפעיל שוב את המסך. להפעיל את התכונה הזו עכשיו?</string>

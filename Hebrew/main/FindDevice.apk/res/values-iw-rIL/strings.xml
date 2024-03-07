@@ -20,7 +20,7 @@
     <string name="date_time_picker_dialog_title">הגדר תאריך ושעה</string>
     <string name="default_debt_msg_words">"מכשיר זה ננעל עקב איחור בתשלום.
 צור קשר עם סוכן המכירות שלך לקבלת פרטים."</string>
-    <string name="default_lock_msg_words">מכשיר זה מקושר לחשבון Mi קיים. מטעמי אבטחה, עליך להזין סיסמה על מנת לאמת את המכשיר.</string>
+    <string name="default_lock_msg_words">מכשיר זה מקושר לחשבון Xiaomi קיים. מטעמי אבטחה, עליך להזין סיסמה על מנת לאמת את המכשיר.</string>
     <string name="default_lock_msg_words_with_phone">היי! איבדתי את המכשיר שלי. אפשר בבקשה ליצור איתי קשר? תודה!</string>
     <string name="device_locked">מכשיר זה נעול</string>
     <string name="device_lost">מכשיר זה אבד</string>
@@ -35,15 +35,14 @@
     <string name="eras_ad">לספירה</string>
     <string name="eras_bc">לפנה\"ס</string>
     <string name="evening">לפנות ערב</string>
-    <string name="find_device">איתור המכשיר</string>
     <string name="find_device_capture_done_notification_content">צפייה בתמונה ב-i.mi.com</string>
     <string name="find_device_capture_done_notification_title">\"איתור המכשיר\" צילם תמונה מרחוק</string>
     <string name="find_device_capture_notification_content">נשלחה מחשבונך בקשה לצלם תמונה מרחוק באמצעות מכשיר זה</string>
     <string name="find_device_capture_notification_title">\"איתור המכשיר\" עומד לצלם תמונה</string>
     <string name="find_device_crash">"'איתור המכשיר' נסגר באופן לא צפוי."</string>
     <string name="find_device_error_access_denied">הגישה נדחתה.</string>
-    <string name="find_device_error_account_sys_timeout">"לא ניתן היה להתחבר לחשבון Mi. "</string>
-    <string name="find_device_error_account_unknown_error">שגיאת חשבון Mi (%s).</string>
+    <string name="find_device_error_account_sys_timeout">לא ניתן היה להתחבר לחשבון Xiaomi.</string>
+    <string name="find_device_error_account_unknown_error">שגיאת חשבון Xiaomi (%s).</string>
     <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">שגיאת רשת.</string>
     <string name="find_device_error_password_changed">סיסמת החשבון שונתה לאחרונה.</string>
@@ -60,44 +59,44 @@
     <string name="find_device_telephony_fault">איתור המכשיר: תקלת טלפוניה (%s).</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"ש'מ\"ש'"</string>
+    <string name="fmt_time_minute">"ד'דק'"</string>
+    <string name="fmt_time_minute_second">"ד'דקה' שנ'שנ'"</string>
+    <string name="fmt_time_minute_second_millis">"ד'דק' ש.ש'מ\"ש'"</string>
+    <string name="fmt_time_second">"שנ'שנ'"</string>
+    <string name="fmt_time_second_millis">"ש.ש'מ\"ש'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -118,14 +117,15 @@
     <string name="login_extra_steps">אימות כניסה</string>
     <string name="login_failed">לא ניתן היה להיכנס. %s.</string>
     <string name="midnight">לילה</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_access_state_desc">נבחר</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
+    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
@@ -183,7 +183,8 @@
     <string name="morning">בוקר</string>
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
-    <string name="open_wifi_settings">פתיחת הגדרות הרשת האלחוטית</string>
+    <string name="open_wifi_settings">Open WLAN settings</string>
+    <string name="open_wifi_settings_china">Open WLAN settings</string>
     <string name="passport_checking_vcode">בודק סיסמה…</string>
     <string name="passport_error_empty_vcode">הזן קוד אימות</string>
     <string name="passport_notification_need_unlock_again">נסה שוב לבטל את הנעילה</string>
@@ -192,7 +193,7 @@
     <string name="passport_vcode_prompt_long">הזן קוד אימות</string>
     <string name="passport_verify">אימות</string>
     <string name="password">הזן סיסמה</string>
-    <string name="phone_locked">המכשיר הזה מקושר לחשבון Mi (%s). הזן סיסמה כדי להפעיל את המכשיר.</string>
+    <string name="phone_locked">המכשיר הזה מקושר לחשבון Xiaomi (%s). נא להזין סיסמה כדי להפעיל את המכשיר.</string>
     <string name="phone_locked_account_email">, כתובת דוא\"ל מקושרת: %s</string>
     <string name="phone_locked_account_phone">, מספר טלפון מקושר: %s</string>
     <string name="pm">PM</string>
@@ -273,27 +274,33 @@
     <string name="unlock_error_device_id">לא ניתן להשיג את מזהה המכשיר</string>
     <string name="unlock_error_interrupted">אירעה שגיאה</string>
     <string name="unlock_error_network">לא ניתן להתחבר לרשת</string>
-    <string name="unlock_error_passport_sdk_timeout">SDK של חשבון Mi אינו מגיב</string>
     <string name="unlock_error_rpc">שגיאת RPC</string>
     <string name="unlock_error_server">שגיאת שרת</string>
-    <string name="unlock_error_ssl_hand_shake">לא ניתן היה להתחבר לשרת. עליך לנסות להגדיר את התאריך והשעה באופן ידני.</string>
     <string name="unlock_error_unknown">לא ניתן להיכנס</string>
     <string name="unlock_error_user_name">שם משתמש לא חוקי</string>
     <string name="unlock_error_wrong_vcode">הקוד שהזנת שגוי</string>
-    <string name="unlock_help">"התחבר לרשת.
-הכנס כרטיס סים פעיל ואל תתחבר לרשתות Wi-Fi לא חוקיות.
+    <string name="unlock_help">"Connect to the network.
+Insert a working SIM card and don't connect to invalid WLAN networks.
 
-שכחת את הסיסמה?
-עבור לכתובת id.mi.com, בחר באפשרות \"שכחת סיסמה?\" ובצע את ההוראות.
+Forgot password?
+Go to id.mi.com, select \"Forgot password?\", and follow the instructions.
 
-לא מצליח להפעיל את המכשיר?
-עבור לכתובת i.mi.com/ss ושלח בקשה לביטול נעילת המכשיר."</string>
+Can't activate device?
+Go to i.mi.com/ss and submit your application to unlock the device."</string>
+    <string name="unlock_help_china">"Connect to the network.
+Insert a working SIM card and don't connect to invalid WLAN networks.
+
+Forgot password?
+Go to id.mi.com, select \"Forgot password?\", and follow the instructions.
+
+Can't activate device?
+Go to i.mi.com/ss and submit your application to unlock the device."</string>
     <string name="unlock_help_title">עזרה בביטול הנעילה:</string>
     <string name="unlock_number">קוד ביטול נעילה: %s</string>
     <string name="unlock_wrong_captcha">הקוד שהזנת שגוי</string>
     <string name="unlocking">מפעיל…</string>
     <string name="verifing_account">מאמת סיסמה…</string>
-    <string name="verify_password_failed">לא ניתן היה לאמת את מזהה חשבון Mi. %s.</string>
+    <string name="verify_password_failed">לא ניתן היה לאמת את מזהה חשבון Xiaomi. %s.</string>
     <string name="wednesday">רביעי</string>
     <string name="wednesday_short">"ד'"</string>
     <string name="wednesday_shortest">"ד'"</string>

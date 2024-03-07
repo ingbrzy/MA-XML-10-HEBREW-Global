@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_furture">
-        <item>השעון המעורר מוגדר לעוד פחות מדקה מעכשיו</item>
+    <string-array name="alarm_in_furture_new_array">
+        <item>שעון מעורר בעוד פחות מדקה אחת (%d)</item>
         <item>שעון מעורר בעוד %1$s</item>
         <item>שעון מעורר בעוד %2$s</item>
         <item>שעון מעורר בעוד %1$s ו-%2$s</item>
         <item>שעון מעורר בעוד %3$s</item>
         <item>שעון מעורר בעוד %1$s ו-%3$s</item>
         <item>שעון מעורר בעוד %2$s ו-%3$s</item>
-        <item>שעון מעורר בעוד %1$s %2$s ו-%3$s</item>
+        <item>"שעון מעורר בעוד %1$s %2$s ו-%3$s "</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>פעם אחת</item>
@@ -24,15 +24,15 @@
         <item>שני עד שישי</item>
         <item>מותאם אישית</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>השעון המעורר יופעל בעוד פחות מדקה 1.</item>
-        <item>השעון המעורר יכבה בעוד %1$s.</item>
-        <item>השעון המעורר יכבה בעוד %2$s.</item>
-        <item>השעון המעורר יכבה בעוד %1$s ו- %2$s.</item>
-        <item>השעון המעורר יכבה בעוד %3$s.</item>
-        <item>השעון המעורר יכבה בעוד %1$s ו- %3$s.</item>
-        <item>השעון המעורר יכבה בעוד %2$s ו- %3$s.</item>
-        <item>השעון המעורר יכבה בעוד %1$s %2$s ו- %3$s.</item>
+    <string-array name="alarm_set_new_array">
+        <item>השעון המעורר יפעל בעוד פחות מדקה אחת (%d)</item>
+        <item>השעון המעורר יפעל בעוד %1$s.</item>
+        <item>השעון המעורר יפעל בעוד %2$s.</item>
+        <item>השעון המעורר יפעל בעוד %1$s ו- %2$s.</item>
+        <item>השעון המעורר יפעל בעוד %3$s.</item>
+        <item>השעון המעורר יפעל בעוד %1$s ו- %3$s.</item>
+        <item>השעון המעורר יפעל בעוד %2$s ו- %3$s.</item>
+        <item>השעון המעורר יפעל בעוד %1$s %2$s ו- %3$s.</item>
     </string-array>
     <string-array name="alphabet_sub_table_with_starred">
         <item>!</item>
@@ -115,20 +115,19 @@
         <item>דל מאוד</item>
         <item>חמור</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>לעולם לא</item>
-        <item>דקה 1</item>
-        <item>5 דקות</item>
-        <item>10 דקות</item>
-        <item>15 דקות</item>
-        <item>20 דקות</item>
-        <item>25 דקות</item>
-        <item>30 דקות</item>
-    </string-array>
     <string-array name="bedtime_guide_repeat_type">
         <item>בימים שני עד שישי</item>
         <item>בכל יום</item>
         <item>בימי עבודה</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>שני עד שישי</item>
+        <item>כל יום</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>כל יום</item>
+        <item>שני עד שישי</item>
+        <item>בהתאמה אישית</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>בכל יום</item>
@@ -323,7 +322,7 @@
         <item>סופיה</item>
         <item>שטוקהולם</item>
         <item>טאלין</item>
-        <item>הוותיקן</item>
+        <item>הותיקן</item>
         <item>וינה</item>
         <item>וילנה</item>
         <item>ורשה</item>
@@ -423,11 +422,6 @@
         <item>טגוסיגלפה</item>
         <item>פרמריבו</item>
         <item>קיטו</item>
-    </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>לבן</item>
-        <item>שחור</item>
-        <item>אוטמטי</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>חוף השנהב</item>
@@ -595,7 +589,7 @@
         <item>גיברלטר</item>
         <item>פינלנד</item>
         <item>האי מאן</item>
-        <item>טורקיה</item>
+        <item>טורקית</item>
         <item>פורטוגל</item>
         <item>בריטניה</item>
         <item>לוקסמבורג</item>
@@ -684,7 +678,7 @@
         <item>איטליה</item>
         <item>גרמניה</item>
         <item>ויאטנם</item>
-        <item>טורקיה</item>
+        <item>טורקית</item>
         <item>הודו</item>
         <item>ברזיל</item>
         <item>דרום אפריקה</item>
@@ -717,40 +711,6 @@
         <item>סורינאם</item>
         <item>אקוודור</item>
     </string-array>
-    <string-array name="days_of_week">
-        <item>ראשון</item>
-        <item>שני</item>
-        <item>שלישי</item>
-        <item>רביעי</item>
-        <item>חמישי</item>
-        <item>שישי</item>
-        <item>שבת</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>בשעה שהוגדרה</item>
-        <item>15 דקות לפני</item>
-        <item>30 דקות לפני</item>
-        <item>שעה לפני</item>
-        <item>ללא</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>דקה 1</item>
-        <item>5 דקות</item>
-        <item>10 דקות</item>
-        <item>15 דקות</item>
-        <item>20 דקות</item>
-        <item>25 דקות</item>
-        <item>30 דקות</item>
-    </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="time">
         <item>%1$s</item>
         <item>%2$s</item>
@@ -773,10 +733,5 @@
         <item>אל תעשה דבר</item>
         <item>נודניק</item>
         <item>התעלם</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>

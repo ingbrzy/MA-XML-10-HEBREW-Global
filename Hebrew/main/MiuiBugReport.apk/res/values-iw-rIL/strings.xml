@@ -52,6 +52,7 @@
     <string name="bugreport_dump_start_notification_title">יוצר דו\"ח שגיאה…</string>
     <string name="bugreport_tool_log_dumping_desc">זה עשוי להארך כדקה</string>
     <string name="bugreport_tool_log_dumping_title">יוצר דו\"ח שגיאה</string>
+    <string name="can_not_add_more_image">לא ניתן להוסיף יותר תמונות או סרטונים</string>
     <string name="catch_full_log_action_cancel">ביטול</string>
     <string name="catch_full_log_action_complete">סיים והעלה</string>
     <string name="catch_full_log_action_start">התחלה</string>
@@ -127,6 +128,15 @@ ID:%s
     <string name="discard_draft_dialog_content">כל שינוי שביצעת בדו\"ח זה יאבד.</string>
     <string name="discard_draft_dialog_title">להשליך את הטיוטה?</string>
     <string name="doing_query_account">בודק את פרטי החשבון…</string>
+    <string name="dynamic_dialog_content">אתם עומדים להתחיל לייצר יומנים דינמיים. הם מכילים תיעוד של פעולות תוכנה (כמו קריאות מערכת). בזמן שנוצרים יומנים דינמיים המכשיר שלכם עלול שלא להגיב או להתחמם. זה תקין. לאחר יצירת היומנים, מאפיין זה יושבת. זכרו לשלוח את המשוב שלכם בזמן אם הבעיה חוזרת על עצמה. הקשה על \"מסכימ/ה\" למטה מהווה הסכמה לכך שנאסוף את הנתונים הנ\"ל בזמן ייצור יומנים, ונעלה את היומנים לשרתים שלנו כדי לסייע באבחון ובפתרון הבעיות עליהן דיווחתם.</string>
+    <string name="dynamic_dialog_negative_text">לא מסכימ/ה</string>
+    <string name="dynamic_dialog_notification_text">מאפיין זה יושבת לאחר יצירת היומנים</string>
+    <string name="dynamic_dialog_notification_title">מייצר יומנים דינמייםi…</string>
+    <string name="dynamic_dialog_positive_text">מסכימ/ה</string>
+    <string name="dynamic_dialog_title">הצהרת פרטיות</string>
+    <string name="dynamic_log_load_text">רק רגע…</string>
+    <string name="dynamic_log_restore_toast_text">משחזר יומנים דינמייםi…</string>
+    <string name="dynamic_log_title">יומנים דינמיים</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="empty" />
     <string name="eras_ad">לספירה</string>
@@ -157,7 +167,7 @@ ID:%s
     <string name="facebook_login_btn_content_description">התחברות עם Facebook</string>
     <string name="failed_to_fetch_fql">לא ניתן היה לקבל את השאלות הנפוצות, בדוק את החיבור לרשת</string>
     <string name="feedback_account_inconsistent_login_hint">נראה שהחלפת חשבון. יש להתחבר לחשבון ה-Xiaomi הקודם.</string>
-    <string name="feedback_account_login_hint">קודם עליך להתחבר לחשבון Xiaomi שלך</string>
+    <string name="feedback_account_login_hint">היכנס לחשבון Xiaomi!</string>
     <string name="feedback_answer_detail_feedback_resolved">כן</string>
     <string name="feedback_answer_detail_feedback_result">תודה לך על המשוב!</string>
     <string name="feedback_answer_detail_feedback_title">האם זה היה מועיל?</string>
@@ -182,7 +192,7 @@ ID:%s
 %1$d. באיזה יישום או באיזה דף נתקלת בבעיה?
 %2$d. מה היו הפעולות שאחריהן הופיעה הבעיה?
 %3$d. מסור לנו מידע נוסף שעשוי לעזור לנו לפתור את הבעיה."</string>
-    <string name="feedback_description_hint_suggestion">ספר לנו איך אתה רוצה לשפר את MIUI.</string>
+    <string name="feedback_description_hint_suggestion">ספר לנו איך אנחנו יכולים להשתפר.</string>
     <string name="feedback_description_suggest_hint">ברצוני להוסיף תכונה חדשה () מכיוון שאני זקוק ל ().</string>
     <string name="feedback_detail_copy_toast">הועתק ללוח</string>
     <string name="feedback_detail_feedback_attach">קבצים מצורפים</string>
@@ -209,13 +219,13 @@ ID:%s
     <string name="feedback_evaluation_success_dialog_content">תודה על המשוב!</string>
     <string name="feedback_evaluation_success_dialog_title">דורג בהצלחה</string>
     <string name="feedback_guess">הניחוש שלנו:</string>
-    <string name="feedback_history_remind_login_desc">היכנס לחשבון Mi שלך על מנת לצפות בפרטים ובהתקדמות הדיווח שלך</string>
+    <string name="feedback_history_remind_login_desc">היכנס לחשבון Xiaomi שלך על מנת לצפות בפרטים ובהתקדמות הדיווח שלך</string>
     <string name="feedback_id">מזהה: %d</string>
     <string name="feedback_jira_key">קוד JIRA: %s</string>
     <string name="feedback_jira_key_place_holder">יוצר Jira…</string>
     <string name="feedback_package_log_failed">לא ניתן היה לדחוס את היומנים</string>
     <string name="feedback_remind_login_btn">היכנס</string>
-    <string name="feedback_report_remind_login_desc">היכנס לחשבון Mi שלך על מנת שהמתכנתים שלנו יוכלו ליצור איתך קשר.</string>
+    <string name="feedback_report_remind_login_desc">היכנס לחשבון Xiaomi שלך על מנת שהמתכנתים שלנו יוכלו ליצור איתך קשר.</string>
     <string name="feedback_report_remind_login_desc2">תוכל לצפות בהתקדמות הדיווח שלך גם ב\"המשוב שלי\".</string>
     <string name="feedback_reproductivity_everytime">בכל פעם</string>
     <string name="feedback_reproductivity_occasionally">מדי פעם</string>
@@ -336,6 +346,10 @@ ID:%s
     <string name="hint_feedback_main">תאר את הבעיה</string>
     <string name="i_get_it">הבנתי</string>
     <string name="i_know">הבנתי</string>
+    <string name="icon_add_description">הוסף קיצור דרך למסך הבית</string>
+    <string name="icon_remove_confirm">הסר</string>
+    <string name="icon_remove_description_content">\"שירותים ומשוב\" הוא יישום מערכת. אחרי הסרת קיצור הדרך ממסך הבית עדיין ניתן יהיה להשתמש בו דרך ההגדרות.</string>
+    <string name="icon_remove_description_title">להסיר את \"שירותים ומשוב\" ממסך הבית</string>
     <string name="input_email_address_notice">אנו נשתמש בכתובת דוא\"ל זו על מנת לאמת את חשבונך</string>
     <string name="issue_search">חיפוש</string>
     <string name="jump_full_log_dialog_cancel">ביטול</string>
@@ -343,8 +357,8 @@ ID:%s
     <string name="jump_full_log_dialog_content">יומנים יעזרו לנו לאתר ולתקן את הבעיה שאתה עומד לדווח עליה הרבה יותר מהר. צור יומנים וצרף אותם למשוב שלך.</string>
     <string name="jump_full_log_dialog_title">צור יומנים</string>
     <string name="kr_authorization_agree">קבל</string>
-    <string name="kr_authorization_contact">חשבונות</string>
-    <string name="kr_authorization_contact_desc">על מנת לגשת לפרטי חשבון Mi לזיהוי המכשיר</string>
+    <string name="kr_authorization_contact">חשבון</string>
+    <string name="kr_authorization_contact_desc">על מנת לגשת לפרטי חשבון Xiaomi לזיהוי המכשיר</string>
     <string name="kr_authorization_exit">יציאה</string>
     <string name="kr_authorization_function">הגש משוב, חולל יומנים, צפה בשאלות נפוצות</string>
     <string name="kr_authorization_log_protocol">יומן פרוטוקול (אופציונלי)</string>
@@ -370,20 +384,115 @@ ID:%s
     <string name="logout_account">צא</string>
     <string name="menu_copy">העתק</string>
     <string name="message_label">הודעה</string>
+    <string name="mi_service_app_name">שירותים ומשוב</string>
+    <string name="mi_service_back">חזרה</string>
     <string name="mi_service_dialog_cancel">יציאה</string>
     <string name="mi_service_dialog_confirm">פתיחה</string>
     <string name="mi_service_dialog_content">כל תכונות המשוב יעברו ליישום \"שירותים ומשוב\". יישום המשוב יוסר ממסך הבית. לחץ על \"פתח\" על מנת לנסות את \"שירותים ומשוב\".</string>
     <string name="mi_service_dialog_title">מציג \"שירותים ומשוב\"</string>
     <string name="midnight">לילה</string>
+    <string name="miui_feedback_answer_detail_community">ניתן למצוא תשובות לשאלות שלך ב-Xiaomi Community</string>
+    <string name="miui_feedback_answer_detail_feedback_resolved">כן</string>
+    <string name="miui_feedback_answer_detail_feedback_result">תודה לך על המשוב!</string>
+    <string name="miui_feedback_answer_detail_feedback_title">האם המידע עזר?</string>
+    <string name="miui_feedback_answer_detail_feedback_unresolved">לא</string>
+    <string name="miui_feedback_answer_detail_menu_online_service">קבל תמיכה מקוונת</string>
+    <string name="miui_feedback_answer_detail_menu_phone_service">צור קשר עם שירות הלקוחות</string>
+    <string name="miui_feedback_answer_detail_relative_tip">פרטים קשורים</string>
+    <string name="miui_feedback_answer_detail_title">פרטים</string>
+    <string name="miui_feedback_edit_action_submit">לשלוח</string>
+    <string name="miui_feedback_edit_add_original_images">הוסף תמונה</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">אם הבעיה עליה דיווחת קשורה לאיכות התמונה של המצלמה, שלח דוגמה לצילום מקורי (לא חתוך או ערוך), על מנת שנוכל לאתר את הבעיה. האם תרצה להוסיף תמונה כעת?</string>
+    <string name="miui_feedback_edit_choose_module">בחר פריט</string>
+    <string name="miui_feedback_edit_choose_module_hint">נדרש</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">זמן</string>
+    <string name="miui_feedback_edit_choose_reproductivity">רפרודוקציה</string>
+    <string name="miui_feedback_edit_choose_third_app_name">בחר את שם היישום</string>
+    <string name="miui_feedback_edit_contact_info_hint">מספר טלפון/דוא\"ל</string>
+    <string name="miui_feedback_edit_delete_images">מחיקת תמונות</string>
+    <string name="miui_feedback_edit_desc_hint">תאר את הבעיה בה נתקלת</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">ספר לנו איך אתה רוצה לשפר את MIUI</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">הישאר כאן</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_discard">בטל</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_content">כל שינוי שביצעת בדו\"ח זה יאבד.</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_title">להשליך את הטיוטה?</string>
+    <string name="miui_feedback_edit_hint">דווח על שגיאות בכל פעם שהינך נתקל בהן על מנת לעזור לנו לפתור אותן מהר יותר</string>
+    <string name="miui_feedback_edit_hint_gone">הודעה שנסגרה</string>
+    <string name="miui_feedback_edit_hint_optional">בחר</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">המתן לחיבור רשת אלחוטית</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">העלאה</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_content">נראה שאתה מחובר לרשת בתשלום. העלאת יומנים עשויה לגרום לחיובים נוספים.</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_title">אזהרת שימוש בנתונים</string>
+    <string name="miui_feedback_edit_need_phone_state_permission">אפשר ליישום לגשת לפרטי המכשיר על מנת לקרוא את מספר IMEI, העוזר לאתר בעיות. לחץ על \"אישור\" על מנת לפתוח את הגדרות.</string>
+    <string name="miui_feedback_edit_need_storage_permission">אפשר ליישום לגשת לאחסון המכשיר שלך על מנת להוסיף תמונות ווידאו למשוב שלך. לחץ על \"אישור\" בכדי לפתוח את הגדרות המכשיר.</string>
+    <string name="miui_feedback_edit_permission_denied_title">הגבל הרשאות: %1$s</string>
+    <string name="miui_feedback_edit_phone_state_permission_name">גש למידע אודות המכשיר</string>
+    <string name="miui_feedback_edit_reproductivity_everytime">בכל פעם</string>
+    <string name="miui_feedback_edit_reproductivity_occasionally">מדי פעם</string>
+    <string name="miui_feedback_edit_reproductivity_often">לעיתים קרובות</string>
+    <string name="miui_feedback_edit_reproductivity_once">פעם אחת</string>
+    <string name="miui_feedback_edit_select_images">הוסף תמונה או סרטון קצר</string>
+    <string name="miui_feedback_edit_select_modem_log">הוספת יומני מודם</string>
+    <string name="miui_feedback_edit_select_modem_log_not_select_desc">אפשרות \"הוספת יומני מודם\" לא נבחרה</string>
+    <string name="miui_feedback_edit_select_modem_log_select_desc">אפשרות \"הוספת יומני מודם\" נבחרה</string>
+    <string name="miui_feedback_edit_select_original_images">הוסף תמונה מקורית או סרטון קצר</string>
+    <string name="miui_feedback_edit_select_problem">תקלות</string>
+    <string name="miui_feedback_edit_select_problem_not_select_desc">אפשרות \"תקלות\" לא נבחרה</string>
+    <string name="miui_feedback_edit_select_problem_select_desc">אפשרות \"תקלות\" נבחרה</string>
+    <string name="miui_feedback_edit_select_suggestion">הצעות</string>
+    <string name="miui_feedback_edit_select_suggestion_not_select_desc">אפשרות \"הצעות\" לא נבחרה</string>
+    <string name="miui_feedback_edit_select_suggestion_select_desc">אפשרות \"הצעות\" נבחרה</string>
+    <string name="miui_feedback_edit_select_upload_log">הוספת יומנים</string>
+    <string name="miui_feedback_edit_select_upload_log_not_select_desc">אפשרות \"הוספת יומנים\" לא נבחרה</string>
+    <string name="miui_feedback_edit_select_upload_log_select_desc">אפשרות \"הוספת יומנים\" נבחרה</string>
+    <string name="miui_feedback_edit_storage_permission_name">גש לאחסון המכשיר</string>
+    <string name="miui_feedback_edit_submit_dialog_cancel">לא מסכים</string>
+    <string name="miui_feedback_edit_submit_dialog_confirm">מסכים</string>
+    <string name="miui_feedback_edit_submit_dialog_content">"&lt;Data>You must agree to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">User Agreement&lt;/a> to be able to use Feedback. The issues you report along with the items you attach (might contain personal information, as well as the information about your device and network) will be uploaded to MIUI's servers. This will help us locate and solve the problems you report.&lt;/Data>"</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">"&lt;Data>Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers. Logs may contain personal info and your location data. Selecting \"Agree\" means that you've read and agreed to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">User Agreement&lt;/a>.&lt;/Data>"</string>
+    <string name="miui_feedback_edit_submit_dialog_not_show_again">אל תציג שוב</string>
+    <string name="miui_feedback_edit_submit_dialog_title">שלח דו\"ח</string>
+    <string name="miui_feedback_edit_submit_directly">פרסם</string>
+    <string name="miui_feedback_edit_title_occurrence_time">בחר זמן</string>
+    <string name="miui_feedback_edit_title_reproductivity">בחר רפרודוקציה</string>
+    <string name="miui_feedback_edit_toast_description_required">קודם עליך לתאר את הבעיה</string>
+    <string name="miui_feedback_edit_toast_module_required">בחר פריט</string>
+    <string name="miui_feedback_edit_toast_more_desc_required">התיאור אינו זמין יותר</string>
+    <string name="miui_feedback_edit_toast_problem_class_required">בחר קטגוריה</string>
+    <string name="miui_feedback_edit_toast_third_packagename_required">הזן שם יישום</string>
+    <string name="miui_feedback_main_answer_title">ישנה תשובה לשאלה זו</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"מוקד שירות: 0120-300-521
+שעות המשרד: 9:00 - 18:00 (למעט חגים וימי שבתון)
+דוא\"ל: service.jp@xiaomi.com"</string>
+    <string name="miui_feedback_main_frequent_question_title">שאלות נפוצות</string>
+    <string name="miui_feedback_main_item_catch_full_log">יומנים</string>
+    <string name="miui_feedback_main_item_customer_service">שירותים לאחר מכירה</string>
+    <string name="miui_feedback_main_item_feedback_list">המשוב שלי</string>
+    <string name="miui_feedback_main_item_official_progress">Repair progress</string>
+    <string name="miui_feedback_main_item_official_progress_hint">Update repair progress regularly in Xiaomi Community</string>
+    <string name="miui_feedback_main_menu_view_privacy">מדיניות הפרטיות</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">ביטול הסכמה</string>
+    <string name="miui_feedback_main_search_footer">אלו אינן השאלות אשר ברצונך לשאול?</string>
+    <string name="miui_feedback_main_search_footer_submit">שלח משוב</string>
+    <string name="miui_feedback_main_search_issue">הזן מילות מפתח לחיפוש</string>
+    <string name="miui_feedback_main_search_no_answer">לא ניתן היה למצוא תוצאות</string>
+    <string name="miui_feedback_main_start_submit">שליחת משוב</string>
+    <string name="miui_feedback_main_submit_dialog_confirm">פרסם</string>
+    <string name="miui_feedback_main_submit_dialog_content">נראה כאילו אינך יכול למצוא פתרון לתקלה. תוכל להגיש לנו את המשוב.</string>
+    <string name="miui_feedback_main_submit_dialog_title">שליחת משוב</string>
+    <string name="miui_feedback_main_title">משוב</string>
+    <string name="miui_feedback_main_withdraw">ביטול הסכמה</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">המשך מהווה ביטול של הסכמתך למדיניות הפרטיות של %1$s. המידע האישי שכבר נאסף ונשמר, יימחק תוך פרק הזמן הנדרש על-פי החוקים והתקנות הרלוונטיים, אלא אם קיימת דרישה אחרת. מאחר ששירותי %2$s מבוססים על איסוף המידע האישי הנדרש, ביטול הסכמתך ייחשב כסירוב לקבל את השירותים של %3$s. האם לבטל את הסכמתך כעת?</string>
+    <string name="miui_feedback_note_install_xiaomi_community">Install Xiaomi Community to be able to use this feature.</string>
     <string name="miuix_access_state_desc">נבחר</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">נקה בחירה מהכל</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_action_mode_select_all">בחר הכל</string>
     <string name="miuix_appcompat_action_mode_title_empty">בחר פריטים</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">עוד</string>
     <string name="miuix_appcompat_cancel_description">ביטול</string>
     <string name="miuix_appcompat_confirm_description">אישור</string>
     <string name="miuix_appcompat_delete_description">מחק</string>
-    <string name="miuix_appcompat_deselect_all">בטל בחירה</string>
+    <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
@@ -465,6 +574,7 @@ ID:%s
     <string name="month_september_shortest">"ספט'"</string>
     <string name="more">עוד</string>
     <string name="morning">בוקר</string>
+    <string name="net_daig_network_repair">תיקון הרשת</string>
     <string name="net_diag_cancel">ביטול</string>
     <string name="net_diag_continue">המשך</string>
     <string name="net_diag_dialog_msg">בדיקת הרשת תסייע לזהות בעיות ולשפר את החיבור שלך.</string>
@@ -479,9 +589,15 @@ ID:%s
     <string name="net_diag_entry_network_protocol">פרוטוקול רשת</string>
     <string name="net_diag_entry_network_rssi">איכות אות</string>
     <string name="net_diag_entry_router_topology">ניתוב רשת</string>
+    <string name="net_diag_fix_guide_window_msg">אירעה שגיאת רשת, נא ללחוץ לטיפול בבעיות.</string>
+    <string name="net_diag_fixing">מתקן את הרשת. זה עשוי לקחת כמה רגעים.</string>
     <string name="net_diag_header_internet">אינטרנט</string>
     <string name="net_diag_header_router">נתב</string>
     <string name="net_diag_header_this_device">מכשיר זה</string>
+    <string name="net_diag_repair_msg">בתהליך זה רשת ה-Wi-Fi תנותק ואז תחובר שוב. לתקן עכשיו?</string>
+    <string name="net_diag_repair_msg_china">בתהליך זה רשת ה-WLAN תנותק ואז תחובר שוב. לתקן עכשיו?</string>
+    <string name="net_diag_repair_static_ip_msg">ייתכן שבתהליך זה יתבצע איפוס של תצורות הרשת. לתקן עכשיו?</string>
+    <string name="net_diag_repair_title">לתקן את הרשת?</string>
     <string name="net_diag_title">בדיקת רשת</string>
     <string name="net_diag_toast_cellular_data">כדי לבצע בדיקת רשת יש לכבות קודם את הנתונים הסלולריים.</string>
     <string name="net_diag_toast_other_networks">כדי לבצע בדיקת רשת יש להתחבר קודם ל-Wi-Fi ולהתנתק מרשתות אחרות.</string>
@@ -499,6 +615,7 @@ ID:%s
     <string name="no_account">לא מחובר</string>
     <string name="non_system_app_select">יישומים שהורדו</string>
     <string name="noon">צהריים</string>
+    <string name="not_support_service_in_maintenance_mode">שירות זה אינו זמין במצב תחזוקה</string>
     <string name="nothing">--</string>
     <string name="open_feedback_main">עוד</string>
     <string name="open_settings">הגדרות</string>
@@ -595,6 +712,26 @@ ID:%s
     <string name="passport_wrong_phone_number_format">תבנית מספר הטלפון שהזנת אינה חוקית</string>
     <string name="passport_wrong_vcode">הקוד שהזנת שגוי</string>
     <string name="passport_wrong_voice">הקוד שהזנת שגוי</string>
+    <string name="permission_agree">מסכים</string>
+    <string name="permission_china_version_msg">&lt;Data>לפני שתשתמש \"שירותים ומשוב\", עליך לקרוא ולהסכים ל &lt;a href=%1$s>הסכם משתמש&lt;/a> ו &lt;a href=%2$s>מדיניות פרטיות&lt;/a>. יישום זה גם זקוק לחיבור אינטרנט על מנת לעבוד באופן תקין.&lt;/Data></string>
+    <string name="permission_complete">בוצע</string>
+    <string name="permission_contacts_info">גישה לפרטי חשבון</string>
+    <string name="permission_contacts_introduce">בעבור כניסה באמצעות חשבון Xiaomi</string>
+    <string name="permission_device_info">גש למידע אודות המכשיר</string>
+    <string name="permission_device_introduce">בעבור קביעת תקופת אחריות מוגבלת</string>
+    <string name="permission_exit">צא</string>
+    <string name="permission_external_storage_introduce">לשמירה והעלאת המשוב שלך</string>
+    <string name="permission_first_start_network_title">תנאי השימוש</string>
+    <string name="permission_imei_disable_desc">אפשר ליישום זה להתחבר לאינטרנט.</string>
+    <string name="permission_imei_enable_desc">אפשר ליישום זה להתחבר לאינטרנט תן לה את הרשאות החובה המפורטות למעלה.</string>
+    <string name="permission_location_introduce">לתצוגת נקודות שירות קרובות</string>
+    <string name="permission_main_purpose">תצוגת הדגמות של מאפיינים, שליחת משוב והגשת בקשה לשירותים שלאחר מכירה.</string>
+    <string name="permission_privacy">מדיניות פרטיות (חובה)</string>
+    <string name="permission_region_version_msg">&lt;Data>לפני שתשתמש \"שירותים ומשוב\", עליך לקרוא ולהסכים ל &lt;a href=%1$s>הסכם משתמש&lt;/a> ו &lt;a href=%2$s>מדיניות פרטיות&lt;/a>.&lt;/Data></string>
+    <string name="permission_select_all">בחר הכל</string>
+    <string name="permission_storage">אחסון</string>
+    <string name="permission_storage_introduce">בעבור שמירת פריטים על גבי המכשיר</string>
+    <string name="permission_user_protocol">חשבון משתמש (חובה)</string>
     <string name="phone_auto_login_register_with_local_number">יצירת חשבון</string>
     <string name="photoPickerNotFoundText">אין תמונות זמינות.</string>
     <string name="please_download_gallery">לצפייה יש להתקין גלריה</string>
@@ -609,6 +746,14 @@ ID:%s
     <string name="progressbar_title">בודק שגיאות אבטחה…</string>
     <string name="protocal_dialog_confirm">מסכים</string>
     <string name="protocal_dialog_title">שים לב</string>
+    <string name="public_authorize_now">הגדרות</string>
+    <string name="public_loading_text">רק רגע…</string>
+    <string name="public_net_error_retry">נסה שוב</string>
+    <string name="public_net_error_sub_title">בדוק את הגדרות הרשת ונסה שוב</string>
+    <string name="public_net_error_title">לא ניתן היה להתחבר לרשת</string>
+    <string name="public_open_feedback_service">התחל</string>
+    <string name="public_please_authorize">נדרשות הרשאות כדי להמשיך</string>
+    <string name="public_welcome_use_feedback_service">ברוך הבא לשירותים ומשוב! ניתן להשתמש ביישום זה כדי לשלוח משוב, לצפות בשאלות נפוצות, להגיש בקשות להחזרה והחלפה של מוצרים, ועוד.</string>
     <string name="qq_login_btn_content_description">התחברות עם QQ</string>
     <string name="refresh">רענון</string>
     <string name="register_by_local_phone_long_text">צור חשבון</string>
@@ -618,7 +763,7 @@ ID:%s
     <string name="reply_option_log_hint">אפשרי</string>
     <string name="reply_select_log_hint">בחר יומן</string>
     <string name="reply_successful">הושב בהצלחה</string>
-    <string name="report_miui">דווח על שגיאה</string>
+    <string name="report_miui">שלח משוב</string>
     <string name="request_agree">אשר</string>
     <string name="request_camera_permission_message">אנו נגן על המידע האישי שלך בהתאם לתקנות ולחוקים הרלוונטיים. כדי לעבוד כנדרש, יישום זה זקוק להרשאות הבאות:&lt;br>&lt;br>&lt;b>שימוש במצלמה (להגדרת תמונת פרופיל)&lt;/b>&lt;br>&lt;br>אם אינך מסכים להעניק את ההרשאות הללו, לא תוכל להשתמש בחלק ממאפייני היישום. עם זאת, הפונקציות הבסיסיות עדיין יהיו זמינות עבורך. תמיד ניתן להגביל את ההרשאות או לבטל אותן בהגדרות.</string>
     <string name="request_cancel">ביטול</string>
@@ -651,9 +796,9 @@ ID:%s
     <string name="stop_full_log_dialog_title">מייצר יומנים…</string>
     <string name="submit_dialog_cancel">לא מסכים</string>
     <string name="submit_dialog_confirm">מסכים</string>
-    <string name="submit_dialog_content">&lt;Data>עליך לקרוא את &lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> ואת &lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> שלנו לפני שליחת משוב. הבעיות שעליהן דיווחת, לצד הפריטים שצירפת (כולל היומנים שעשויים להכיל מידע אישי, וגם מידע לגבי המכשיר והרשת שלך) יועלו לשרתי MIUI. זה יעזור לנו לאתר ולפתור את הבעיות שעליהן דיווחת. אם ברצונך לדווח על בעיות הקשורות למכשירים מרובים, יועלו גם היומנים מהמכשירים האחרים שמהם התחברת לחשבון ה-Mi שלך.&lt;/Data></string>
-    <string name="submit_dialog_content_global">&lt;Data>המשוב שלך, לצד הקבצים המצורפים (אם ישנם) והיומנים(תוכל לבטל את הסימון בתיבות הבחירה לגבי הפריטים שאינם אתה רוצה שיישלחו), יישלחו לשרתי MIUI. ייתכן שהחומר שנשלח יכיל מידע אישי יחד עם פרטי המיקום שלך. המשמעות של בחירה באפשרות \"מסכים\" היא שקראת והסכמת &lt;a href=\"%1$s\">למדיניות הפרטיות&lt;/a> וגם &lt;a href=\"%2$s\">להסכם המשתמש&lt;/a> שלנו.&lt;/Data></string>
-    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>המשוב שלך, יחד עם קבצים מצורפים (אם יש), היומנים (תוכל לבטל את הסימון בתיבות המתאימות לפריטים שאינך רוצה להעלות), מספר הטלפון או הדואל שלך יישלחו אל השרתים של MIUI. יומנים עשויים להכיל מידע אישי ואת נתוני המיקום שלך. בחירה ב\"מסכים\" פירושה שקראת והסכמת ל&lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> ול&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> שלנו.&lt;/Data></string>
+    <string name="submit_dialog_content">&lt;Data>קרא והסכם ל&lt;a href=\"%1$s\">מדיניות הפרטיות&lt;/a> ול&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> שלנו לפני שליחת משוב. הבעיות שאתה מדווח עליהן והפריטים שאתה מצרף (כולל היומנים שעשויים להכיל מידע אישי, וכן מידע על המכשיר והרשת שלך) יועלו לשרתים שלנו. זה יעזור לנו לאתר ולפתור את הבעיות הכלולות בדיווח שלך. אם הדיווח הוא על בעיות הקשורות למספר מכשירים, יועלו גם היומנים מהמכשירים האחרים שבהם נעשה שימוש בחשבון Xiaomi שלך.&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>המשוב שלך, יחד עם קבצים מצורפים (אם ישנם) ויומנים (ניתן לבטל את הסימון בתיבות המתאימות כדי לא להעלות פריטים שאינך רוצה) יישלח לשרתים שלנו. יומנים עשויים להכיל מידע אישי ואת נתוני המיקום שלך. בחירה ב\"מסכים\" פירושה שקראת והסכמת ל&lt;a ​​href=\"%1$s\">מדיניות הפרטיות&lt;/a> ול&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> שלנו.&lt;/Data></string>
+    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>המשוב שלך, יחד עם קבצים מצורפים (אם ישנם) ויומנים (ניתן לבטל את הסימון בתיבות המתאימות כדי לא להעלות פריטים שאינך רוצה) יישלח לשרתים שלנו. יומנים עשויים להכיל מידע אישי ואת נתוני המיקום שלך. בחירה ב\"מסכים\" פירושה שקראת והסכמת ל&lt;a ​​href=\"%1$s\">מדיניות הפרטיות&lt;/a> ול&lt;a href=\"%2$s\">הסכם המשתמש&lt;/a> שלנו.&lt;/Data></string>
     <string name="submit_dialog_not_show_again">אל תציג שוב</string>
     <string name="submit_dialog_title">שלח דו\"ח</string>
     <string name="submit_feedback_info_failed">לא ניתן היה לשלוח את הדו\"ח</string>

@@ -4,6 +4,7 @@
     <string name="about_mi_account">אודות חשבון Xiaomi</string>
     <string name="accept">אפשר</string>
     <string name="account_and_password">סיסמה</string>
+    <string name="account_auth_failed_message">פג התוקף של אישורי הכניסה של חשבון Xiaomi %1$s. נסה שוב.</string>
     <string name="account_bind_devices">מכשירים</string>
     <string name="account_bind_secure_email_title">הוסף דוא\"ל</string>
     <string name="account_bind_secure_phone_title">הוסף מספר טלפון</string>
@@ -138,6 +139,23 @@
     <string name="failed_dup_secure_phone_number">מספר הטלפון הזה כבר משויך לחשבון Xiaomi אחר</string>
     <string name="family_service">שירותי משפחה</string>
     <string name="family_service_not_open">הזמן חברים</string>
+    <string name="fido2_client_for_fingerprint_auth">נא להקיש כדי לאמת באמצעות טביעת אצבע</string>
+    <string name="fido2_close_fingerprint_auth">מכבה</string>
+    <string name="fido2_close_fingerprint_auth_desc">לכבות אימות על-ידי טביעת אצבע כעת?</string>
+    <string name="fido2_err_already_registered">מאפיין זה כבר מופעל בחשבון הזה</string>
+    <string name="fido2_err_def">אירעה שגיאה. נא להמתין דקה או שתיים ולנסות שוב.</string>
+    <string name="fido2_err_not_regisetered">מאפיין זה עדיין לא מופעל בחשבון הזה</string>
+    <string name="fido2_err_not_support">מאפיין זה אינו נתמך במכשיר הזה</string>
+    <string name="fido2_err_security">זוהו סיכוני אבטחה. לא ניתן להשתמש במאפיין זה.</string>
+    <string name="fido2_err_service_exception">אירעה שגיאת שרת. נא להמתין דקה או שתיים ולנסות שוב.</string>
+    <string name="fido2_err_timeout">תם הזמן המוקצב לבקשה. נא להמתין דקה או שתיים ולנסות שוב.</string>
+    <string name="fido2_fingerprint_auth">אימות על-ידי טביעת אצבע</string>
+    <string name="fido2_fingerprint_auth_desc">&lt;Data>להשתמש בטביעת אצבע להתחברות לחשבון Xiaomi ולאימות הזהות שלך &lt;a href=>למידע נוסף&lt;/a>&lt;/Data></string>
+    <string name="fido2_fingerprint_changed_and_afresh_register">טביעת האצבע של המכשיר שלך השתנתה. נא לאמת את החשבון מחדש כדי להפעיל אימות באמצעות טביעת אצבע.</string>
+    <string name="fido2_fingerprint_verify">אימות על-ידי טביעת אצבע</string>
+    <string name="fido2_psw_changed_and_afresh_register">הסיסמה שלך שונתה. נא לאמת את טביעת האצבע מחדש.</string>
+    <string name="fido2_setting_ps_notify">יש להגדיר סיסמה לחשבון כדי שניתן יהיה להשתמש באימות על-ידי טביעת אצבע. ניתן לעשות את זה תחת הגדרות > חשבון Xiaomi > אבטחת חשבון > סיסמה.</string>
+    <string name="fido2_verify_fingerprint">לאמת את טביעת האצבע</string>
     <string name="find_device">איתור המכשיר</string>
     <string name="find_device_access_denied">לא ניתן לקבל סטטוס, הגישה נדחתה</string>
     <string name="find_device_account_error">לא ניתן לקבל סטטוס עקב בעיה בחשבון</string>
@@ -228,6 +246,7 @@
     <string name="get_identity_auth_url_failed">לא ניתן לאמת את המזהה</string>
     <string name="get_phone_bind_exceed_limit">ניתן לקשר עד %d חשבונות Xiaomi למספר טלפון אחד. לא ניתן להוסיף חשובנות חדשים.</string>
     <string name="get_phone_verifycode_exceed_limit">לא ניתן לשלוח קודי אימות נוספים למספר טלפון זה.</string>
+    <string name="go_to_setting">הגדרות</string>
     <string name="google">גוגל</string>
     <string name="google_login">היכנס באמצעות Google</string>
     <string name="has_no_new_version">הכל מעודכן</string>
@@ -245,6 +264,7 @@
     <string name="inconsistent_pwd">הסיסמאות אינן תואמות</string>
     <string name="input_email_address_notice">נשלח הודעת דוא\"ל עם קוד אימות לכתובת שמסרת.</string>
     <string name="input_new_pwd">הזן את סיסמתך</string>
+    <string name="input_ps">נא להזין סיסמה</string>
     <string name="io_error_title">אשר את הרשת שלך</string>
     <string name="just_a_second">רק רגע…</string>
     <string name="keep_phone_ticket_login">התחברות עם קוד אימות</string>
@@ -261,6 +281,7 @@
     <string name="login_notification_button_text">כניסה</string>
     <string name="login_notification_desc">תהנה משירותי ענן, שטח אחסון משפחתי ועוד</string>
     <string name="login_notification_title">היכנס לחשבון Xiaomi שלך</string>
+    <string name="login_or_register_by_other_way">להשתמש בשיטה אחרת</string>
     <string name="login_with_other">אפשרויות נוספות</string>
     <string name="logout_account">צא</string>
     <string name="logout_failed">לא ניתן לצאת</string>
@@ -379,8 +400,8 @@
     <string name="passport_account_empty_user_name">עליך להזין את שמך</string>
     <string name="passport_account_error_all_space_user_name">"השם לא יכול להכיל תווי 'רווח' בלבד"</string>
     <string name="passport_account_error_invalid_user_name">השם אינו יכול להכיל &lt;, > או /</string>
-    <string name="passport_account_error_longer_user_name">"Name can't be longer than %d characters"</string>
-    <string name="passport_account_error_shorter_user_name">Name must be longer than %d characters</string>
+    <string name="passport_account_error_longer_user_name">שם לא יכול להכיל יותר מ-%d תווים</string>
+    <string name="passport_account_error_shorter_user_name">שם חייב להכיל יותר מ-%d תווים</string>
     <string name="passport_account_error_user_name">כינוי זה אינו חוקי. יש לנסות כינוי אחר.</string>
     <string name="passport_account_hint_text">דוא\"ל/מספר טלפון/מזהה חשבון Xiaomi</string>
     <string name="passport_account_invalid_user_avatar">תמונה זו אינה חוקית. יש לנסות תמונה אחרת.</string>
@@ -698,6 +719,7 @@
     <string name="recycle_phone_notification_msg">נראה כי מספר הטלפון שלך מוחזר. לחץ לעדכון.</string>
     <string name="recycle_phone_notification_title">סיכון אבטחה בחשבון Xiaomi</string>
     <string name="removing_account">יוצא…</string>
+    <string name="reopen">להפעיל</string>
     <string name="request_open_permission">נדרשות הרשאות</string>
     <string name="request_use_camera_message">האם לאפשר לחשבון Xiaomi לגשת למצלמה של הטלפון שלך?</string>
     <string name="request_use_camera_title">גישה למצלמה</string>
@@ -736,6 +758,7 @@
     <string name="send">שליחה</string>
     <string name="service_error">שגיאת שירות</string>
     <string name="set_success">שונה בהצלחה</string>
+    <string name="setting_ps">הגדרות סיסמה</string>
     <string name="sign_in">כניסה</string>
     <string name="sim_card">כרטיס SIM</string>
     <string name="sim_changed_notification_msg">לחץ לעדכון מספר הטלפון לשחזור שלך על מנת לשמור על אבטחת חשבונך.</string>

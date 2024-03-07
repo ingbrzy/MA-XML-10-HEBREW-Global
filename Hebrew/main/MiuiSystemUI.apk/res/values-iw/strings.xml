@@ -885,6 +885,7 @@
     <string name="monitoring_description_personal_profile_named_vpn">‏האפליקציות האישיות שלך מחוברות לאינטרנט דרך %1$s. הפעילויות שלך ברשת, כולל האימיילים ונתוני הגלישה, גלויות לספק ה-VPN.</string>
     <string name="monitoring_description_two_named_vpns">‏המכשיר הזה מחובר לאינטרנט דרך %1$s ו-%2$s. הפעילויות שלך ברשת, כולל האימיילים ונתוני הגלישה, גלויות למנהל ה-IT.</string>
     <string name="monitoring_description_vpn_settings">‏להגדרות ה-VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"ל-%1$s תהיה אפשרות לגשת לנתונים המשויכים למכשיר הזה, לנהל אפליקציות ולשנות את הגדרות המכשיר.
 
 אם יש לך שאלות, ניתן ליצור קשר עם %2$s."</string>

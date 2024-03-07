@@ -82,7 +82,7 @@
         <item>לא ניתן לגשת לרשת. יש להתחבר מחדש ל-Wi-Fi או להפעיל מחדש את הנתב.</item>
     </string-array>
     <string-array name="net_diag_err_link_quality_china">
-        <item>Poor WLAN connection. Switch wireless bands or reboot the router.</item>
+        <item>חיבור Wi-Fi גרוע. יש להחליף תדרים אלחוטיים או להפעיל מחדש את הנתב.</item>
         <item>"Can't access network. Reconnect to WLAN or reboot the router."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity">
@@ -90,7 +90,7 @@
         <item>הגישה לרשת מוגבלת. יש לכוון את השעה במכשיר זה ולבדוק את הגדרות הרשת של הנתב.</item>
         <item>שגיאת רשת. יש לבדוק את הגדרות ה-proxy של ה-HTTP.</item>
         <item>שגיאת רשת. יש לבדוק אם הנתב יכול לגשת לאינטרנט.</item>
-        <item>לא ניתן להתחבר לרשת. יש להתחבר מחדש ל-Wi-Fi או להפעיל מחדש את הנתב.</item>
+        <item>לא ניתן לגשת לרשת. יש להתחבר מחדש ל-Wi-Fi או להפעיל מחדש את הנתב.</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
         <item>נדרש אימות לצורך גישה לרשת</item>
@@ -102,7 +102,7 @@
     <string-array name="net_diag_err_network_dns">
         <item>שגיאת שרת DNS. יש לבדוק את תצורת ה-DNS של הנתב.</item>
         <item>עיכובים גדולים משרת DNS. יש לבדוק את תצורת ה-DNS של הנתב.</item>
-        <item>לא ניתן לגשת לשער. יש להתחבר מחדש ל-Wi-Fi או להפעיל מחדש את הנתב.</item>
+        <item>לא ניתן לגשת לרשת. יש להתחבר מחדש ל-Wi-Fi או להפעיל מחדש את הנתב.</item>
     </string-array>
     <string-array name="net_diag_err_network_dns_china">
         <item>שגיאת שרת DNS. יש לבדוק את תצורת ה-DNS של הנתב.</item>

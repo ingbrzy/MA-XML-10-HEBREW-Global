@@ -56,6 +56,7 @@
     <string name="mtrl_picker_a11y_next_month">מעבר לחודש הבא</string>
     <string name="mtrl_picker_a11y_prev_month">מעבר לחודש הקודם</string>
     <string name="mtrl_picker_announce_current_selection">הבחירה הנוכחית: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">יש לבחור תאריך</string>
     <string name="mtrl_picker_date_header_unselected">התאריך הנבחר</string>
@@ -86,6 +87,7 @@
     <string name="password_toggle_content_description">הצגת סיסמה</string>
     <string name="preference_copied">\"%1$s\" הועתק ללוח.</string>
     <string name="search_menu_title">חיפוש</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="v7_preference_off">כבוי</string>
     <string name="v7_preference_on">מופעל</string>

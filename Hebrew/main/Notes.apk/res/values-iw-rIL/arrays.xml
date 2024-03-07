@@ -77,10 +77,9 @@
         <item>מצלמה</item>
         <item>גלריה</item>
     </string-array>
-    <string-array name="common_folder_operations">
-        <item>新建</item>
-        <item>重命名</item>
-        <item>删除</item>
+    <string-array name="big_screen_layouts">
+        <item>@string/setting_big_screen_layout_columns</item>
+        <item>@string/setting_big_screen_layout_flat</item>
     </string-array>
     <string-array name="contact_entries">
         <item>שם</item>
@@ -95,20 +94,6 @@
         <item>כתובת</item>
         <item>פתק</item>
     </string-array>
-    <string-array name="first_guide_contents">
-        <item>"ברוכים הבאים אל 'פתקים'!"</item>
-        <item>כתוב פתקים</item>
-        <item>ניתן להשתמש בפתקים שלך בטקסט, בתמונות ובהקלטות קוליות. ספרייה עשירה של סגנונות וגופנים תעניק לשירבוטים שלך מראה מדהים.</item>
-        <item>רשימות ותזכורות עוזרות לך כשאתה צריך כלים בסיסיים ויעילים לתכנון הטיול הבא שלך או כדי לרשום רשימת קניות.</item>
-        <item>שתף פתקים</item>
-        <item>"היישום 'פתקים' מאפשר ליצור אוטומטית צילומי מסך נגללים שתוכל לשתף אותם עם החברים שלך."</item>
-        <item>יצירה ומעבר בין תיקיות</item>
-        <item>לחץ על החץ למטה כדי ליצור תיקייה חדשה או כדי לעבור בין תיקיות קיימות.</item>
-    </string-array>
-    <string-array name="folder_operations">
-        <item>שנה שם</item>
-        <item>מחק</item>
-    </string-array>
     <string-array name="font_size_names">
         <item>קטן</item>
         <item>בינוני</item>
@@ -119,15 +104,8 @@
         <item>לפי תאריך יצירה</item>
         <item>לפי תאריך שינוי</item>
     </string-array>
-    <string-array name="second_guide_contents">
-        <item>פתקים קוליים</item>
-        <item>צור פתקים באמצעות המנוע המובנה שלנו להמרת דיבור לטקסט המצמיד את ההקלטות המקוריות של הקול שלך להערות.</item>
-    </string-array>
-    <string-array name="second_guide_contents_pad_or_inter">
-        <item>פתקים קוליים</item>
-        <item>באפשרותך ליצור הערות קוליות עכשיו. פשוט הקש על הסמל, הקלט את הקול שלך, ושמור את קובץ השמע בתוך הפתק.</item>
-    </string-array>
-    <string-array name="system_folder_operations">
-        <item>新建</item>
+    <string-array name="setting_phone_note_layout_way">
+        <item>@string/action_mode_switcher_list_description</item>
+        <item>@string/action_mode_switcher_grid_description</item>
     </string-array>
 </resources>

@@ -88,8 +88,8 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>חשבונות</item>
-        <item>הוסף ונהל חשבונות של צד שלישי</item>
-        <item>חשבונות;SNS;WeChat;QQ;חשבון Mi;חשבון;חשבון Xiaomi</item>
+        <item>צפייה בחשבון WeChat מחובר ובחשבונות SNS אחרים</item>
+        <item>הרשאות;SNS;WeChat;חשבון Xiaomi;חשבון</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>שינוי סיסמה</item>
