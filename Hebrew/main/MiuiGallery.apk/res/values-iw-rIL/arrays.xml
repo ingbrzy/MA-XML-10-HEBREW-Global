@@ -192,11 +192,6 @@
         <item>New friends and old pals</item>
         <item>"Last year's get-togethers"</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>העבר</item>
-        <item>העתק</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="month">
         <item>ינואר</item>
         <item>פברואר</item>

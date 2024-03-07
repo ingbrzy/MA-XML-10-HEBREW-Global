@@ -73,14 +73,6 @@
         <item>ת</item>
         <item>\#</item>
     </string-array>
-    <string-array name="buffer_size_values">
-        <item>\@null</item>
-        <item>%1$d KB</item>
-        <item>%1$d KB</item>
-        <item>%1$d KB</item>
-        <item>%1$d KB</item>
-        <item>%1$d MB</item>
-    </string-array>
     <string-array name="miui15_settings_search_mirror">
         <item>שירותי קישוריות בין מכשירים</item>
         <item>חיבור ושיתוף/שירותי קישוריות בין מכשירים</item>

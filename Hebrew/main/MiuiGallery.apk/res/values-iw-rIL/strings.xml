@@ -817,7 +817,6 @@ ID:%s
     <string name="face_name_edit">עריכה</string>
     <string name="face_name_input">הזן שם</string>
     <string name="face_recommend">המלצות</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="facebook_login_btn_content_description">התחברות עם Facebook</string>
     <string name="fail_hint">לא ניתן היה להשלים את התהליך</string>
     <string name="fail_reason_migrate">מעבד פריטים… המתן דקה או שתיים ונסה שוב.</string>
@@ -833,7 +832,6 @@ ID:%s
     <string name="feedback_my_reports">משוב</string>
     <string name="feedback_problem">דווח על בעיה</string>
     <string name="feedback_suggest">שליחת הצעה</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_cannot_print">לא ניתן להדפיס פריט זה.</string>
     <string name="file_cannot_screen_throw">לא ניתן לשדר פריט זה.</string>
     <string name="file_sending">מעביר קבצים…</string>
@@ -930,7 +928,6 @@ ID:%s
     <string name="grant_permission_go_and_set">הגדר</string>
     <string name="grant_permission_go_and_set_2">הגדרות</string>
     <string name="grant_permission_go_and_set_3">הגדרות</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">נדרשות הרשאות</string>
     <string name="grant_permission_manage_storage_unlock">יש לבטל את נעילת המכשיר שלך ולאשר ליישום זה גישה לכל הקבצים כדי שניתן יהיה לצפות בפריטים.</string>
     <string name="grant_permission_shortcut">אפשר קודם ליישום זה ליצור קיצורי דרך במסך הבית.</string>
@@ -1587,7 +1584,6 @@ ID:%s
     <string name="people_page_label">אנשים</string>
     <string name="people_page_photo">תמונה ממוזערת של אדם</string>
     <string name="people_page_unname">ללא שם</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">כדי להיכנס ולנהל חשבון מערכת</string>
     <string name="permission_account_name">גישה לחשבונות</string>
     <string name="permission_clipboard_desc">כדי לגשת ולשמור פריטים בלוח</string>
@@ -2052,7 +2048,6 @@ ID:%s
     <string name="share_album_cancel_share">הפסקת שיתוף</string>
     <string name="share_album_change_background">שנה תמונת רקע</string>
     <string name="share_album_create_failed">לא ניתן היה ליצור אלבום משותף</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">הפסקת שיתוף</string>
     <string name="share_album_exit_confirm">המשך יביא לכך שלא תהיה לך יותר אפשרות לקבל גישה לכל התוכן באלבום זה. נא לשמור את כל התוכן החשוב לפני יציאה.</string>
     <string name="share_album_exit_confirm_title">לצאת מקבוצה זו?</string>
@@ -2139,7 +2134,6 @@ ID:%s
     <string name="share_with_family">שתף עם המשפחה</string>
     <string name="sharer_quota_fulfiled">כבר שיתפת אלבום זה עם מספר האנשים המירבי לשיתוף.</string>
     <string name="show_cloud_albumlist_summary">לאחר ביטול הסנכרון, פריטים חדשים מאלבומים נבחרים לא יועלו לענן.</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">הצג ונהל אלבומים מוסתרים</string>
     <string name="show_hidden_album_title">הצג אלבומים נסתרים</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">הוסר בהצלחה. ניתן כעת לצפות בפריט ב\"אלבומים\".</string>
