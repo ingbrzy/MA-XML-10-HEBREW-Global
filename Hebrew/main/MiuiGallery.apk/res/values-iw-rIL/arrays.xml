@@ -134,10 +134,6 @@
         <item>טבע פראי</item>
         <item>פראי וחופשי</item>
     </string-array>
-    <string-array name="global_backup_display_title">
-        <item>@string/backup_google_name</item>
-        <item>@string/backup_onedrive_single_name</item>
-    </string-array>
     <string-array name="global_backup_display_value">
         <item>1</item>
         <item>2</item>
@@ -195,11 +191,6 @@
     <string-array name="last_year_group_people">
         <item>New friends and old pals</item>
         <item>"Last year's get-togethers"</item>
-    </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>העבר</item>
-        <item>העתק</item>
-        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>ינואר</item>

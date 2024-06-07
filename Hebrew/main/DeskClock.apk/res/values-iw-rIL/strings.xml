@@ -383,7 +383,6 @@
     <string name="shutdown_alarm_alert_title">כיבוי שעון מעורר</string>
     <string name="shutdown_alarm_disable_summary">השעון המעורר ישאר דלוק לאחר כיבוי המכשיר</string>
     <string name="silent_alarm_summary">מצב שקט</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">בטל חד פעמית ב- %s</string>
     <string name="sleep_analysis">סטטיסטיקות</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>

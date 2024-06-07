@@ -791,7 +791,6 @@
     <string name="set_pattern">עדכון הסיסמה</string>
     <string name="set_pattern_btn">הגדר</string>
     <string name="set_pattern_msg">הגדר שוב את הסיסמה שלך. סיסמת הגנת הפרטיות עובדת גם עבור תמונות, הודעות ופתקים.</string>
-    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">קטן מ-%d KB</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
