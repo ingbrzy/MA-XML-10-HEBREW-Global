@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nalbum_total_songs">
-        <item quantity="other">Total %d songs</item>
-        <item quantity="one">%d שירים בסה\"כ</item>
-        <item quantity="two">Total %d songs</item>
-        <item quantity="many">Total %d songs</item>
+        <item quantity="other">בסך הכול %d שירים</item>
+        <item quantity="one">בסך הכול שיר %d</item>
+        <item quantity="two">בסך הכול %d שירים</item>
+        <item quantity="many">בסך הכול %d שירים</item>
     </plurals>
     <plurals name="Nassociate_songs">
         <item quantity="other">מחפש עטיפות אלבומים ומילות שירים (%1$d/%2$d)</item>
@@ -13,60 +13,60 @@
         <item quantity="many">מחפש עטיפות אלבומים ומילות שירים (%1$d/%2$d)</item>
     </plurals>
     <plurals name="Ndialog_renew_content">
-        <item quantity="other">"Your subscription is expiring in %d days.
-Do you want us to help renew it?"</item>
-        <item quantity="one">"תוקפו של המינוי שלך יפוג בעוד%d ימים.
-האם תרצה שנעזור לך לחדש אותו?"</item>
-        <item quantity="two">"Your subscription is expiring in %d days.
-Do you want us to help renew it?"</item>
-        <item quantity="many">"Your subscription is expiring in %d days.
-Do you want us to help renew it?"</item>
+        <item quantity="other">"תוקף המינוי שלך יפוג בעוד %d ימים.
+האם לעזור לך לחדש אותו?"</item>
+        <item quantity="one">"תוקף המינוי שלך יפוג בעוד יום %d.
+האם לעזור לך לחדש אותו?"</item>
+        <item quantity="two">"תוקף המינוי שלך יפוג בעוד %d ימים.
+האם לעזור לך לחדש אותו?"</item>
+        <item quantity="many">"תוקף המינוי שלך יפוג בעוד %d ימים.
+האם לעזור לך לחדש אותו?"</item>
     </plurals>
     <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">You can download %1$d free songs. Download %2$s now?</item>
-        <item quantity="one">באפשרותך להוריד %1$d שירים בחינם. להוריד את %2$s עכשיו?</item>
-        <item quantity="two">You can download %1$d free songs. Download %2$s now?</item>
-        <item quantity="many">You can download %1$d free songs. Download %2$s now?</item>
+        <item quantity="other">ניתן להוריד %1$d שירים בחינם. להוריד את %2$s עכשיו?</item>
+        <item quantity="one">ניתן להוריד שיר %1$d בחינם. להוריד את %2$s עכשיו?</item>
+        <item quantity="two">ניתן להוריד %1$d שירים בחינם. להוריד את %2$s עכשיו?</item>
+        <item quantity="many">ניתן להוריד %1$d שירים בחינם. להוריד את %2$s עכשיו?</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">Player will stop in %d minutes</item>
-        <item quantity="one">הנגן יעצור בעוד %d דקות</item>
-        <item quantity="two">Player will stop in %d minutes</item>
-        <item quantity="many">Player will stop in %d minutes</item>
+        <item quantity="other">הנגן יעצור בעוד %d דקות</item>
+        <item quantity="one">הנגן יעצור בעוד דקה %d</item>
+        <item quantity="two">הנגן יעצור בעוד %d דקות</item>
+        <item quantity="many">הנגן יעצור בעוד %d דקות</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">"Created on %1$s 
-total %2$d songs"</item>
-        <item quantity="one">"נוצרה ב- %1$s 
-סה\"כ %2$d שירים"</item>
-        <item quantity="two">"Created on %1$s 
-total %2$d songs"</item>
-        <item quantity="many">"Created on %1$s 
-total %2$d songs"</item>
+        <item quantity="other">"נוצר ב-%1$s 
+בסך הכול %2$d שירים"</item>
+        <item quantity="one">"נוצר ב-%1$s 
+בסך הכול שיר %2$d"</item>
+        <item quantity="two">"נוצר ב-%1$s 
+בסך הכול %2$d שירים"</item>
+        <item quantity="many">"נוצר ב-%1$s 
+בסך הכול %2$d שירים"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d song added to playlist</item>
-        <item quantity="one">%d song added to playlist</item>
-        <item quantity="two">%d song added to playlist</item>
-        <item quantity="many">%d song added to playlist</item>
+        <item quantity="other">%d שירים נוספו לפלייליסט</item>
+        <item quantity="one">שיר %d נוסף לפלייליסט</item>
+        <item quantity="two">%d שירים נוספו לפלייליסט</item>
+        <item quantity="many">%d שירים נוספו לפלייליסט</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d שירים</item>
-        <item quantity="two">%d songs</item>
-        <item quantity="many">%d songs</item>
+        <item quantity="other">%d שירים</item>
+        <item quantity="one">שיר %d</item>
+        <item quantity="two">%d שירים</item>
+        <item quantity="many">%d שירים</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d songs removed from playlist</item>
-        <item quantity="one">%d שירים הוסרו מרשימת ההשמעה</item>
-        <item quantity="two">%d songs removed from playlist</item>
-        <item quantity="many">%d songs removed from playlist</item>
+        <item quantity="other">%d שירים הוסרו מהפלייליסט</item>
+        <item quantity="one">שיר %d הוסר מהפלייליסט</item>
+        <item quantity="two">%d שירים הוסרו מהפלייליסט</item>
+        <item quantity="many">%d שירים הוסרו מהפלייליסט</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d similar songs</item>
-        <item quantity="one">%d שירים דומים</item>
-        <item quantity="two">%d similar songs</item>
-        <item quantity="many">%d similar songs</item>
+        <item quantity="other">%d שירים דומים</item>
+        <item quantity="one">שיר דומה %d</item>
+        <item quantity="two">%d שירים דומים</item>
+        <item quantity="many">%d שירים דומים</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">לפני שעה אחת</item>
@@ -141,28 +141,28 @@ total %2$d songs"</item>
         <item quantity="many">%1$d שירים</item>
     </plurals>
     <plurals name="comment_count">
-        <item quantity="other">%d comments</item>
-        <item quantity="one">%d הערות</item>
-        <item quantity="two">%d comments</item>
-        <item quantity="many">%d comments</item>
+        <item quantity="other">%d הערות</item>
+        <item quantity="one">הערה %d</item>
+        <item quantity="two">%d הערות</item>
+        <item quantity="many">%d הערות</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">לפני %d ימים</item>
-        <item quantity="two">%d days ago</item>
-        <item quantity="many">%d days ago</item>
+        <item quantity="other">לפני %d ימים</item>
+        <item quantity="one">לפני יום %d</item>
+        <item quantity="two">לפני %d ימים</item>
+        <item quantity="many">לפני %d ימים</item>
     </plurals>
     <plurals name="dialog_delete_descript">
-        <item quantity="other">Delete %d songs?</item>
-        <item quantity="one">למחוק %d שירים?</item>
-        <item quantity="two">Delete %d songs?</item>
-        <item quantity="many">Delete %d songs?</item>
+        <item quantity="other">למחוק %d שירים?</item>
+        <item quantity="one">למחוק שיר %d?</item>
+        <item quantity="two">למחוק %d שירים?</item>
+        <item quantity="many">למחוק %d שירים?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">Remove %d songs?</item>
-        <item quantity="one">להסיר %d שירים?</item>
-        <item quantity="two">Remove %d songs?</item>
-        <item quantity="many">Remove %d songs?</item>
+        <item quantity="other">להסיר %d שירים?</item>
+        <item quantity="one">להסיר שיר %d?</item>
+        <item quantity="two">להסיר %d שירים?</item>
+        <item quantity="many">להסיר %d שירים?</item>
     </plurals>
     <plurals name="dialog_request_delete_permission_descript">
         <item quantity="other">%d שירים שנבחרו מאוחסנים בתיקייה חיצונית. עליך לאשר את ההרשאות הנדרשות כדי למחוק אותם.</item>
@@ -177,10 +177,10 @@ total %2$d songs"</item>
         <item quantity="many">%s צפיות</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">%d free downloads left</item>
-        <item quantity="one">%d הורדות בחינם</item>
-        <item quantity="two">%d free downloads left</item>
-        <item quantity="many">%d free downloads left</item>
+        <item quantity="other">נותרו %d הורדות בחינם</item>
+        <item quantity="one">נותרה הורדה %d בחינם</item>
+        <item quantity="two">נותרו %d הורדות בחינם</item>
+        <item quantity="many">נותרו %d הורדות בחינם</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
@@ -189,10 +189,10 @@ total %2$d songs"</item>
         <item quantity="many">לפני חצי שעה</item>
     </plurals>
     <plurals name="hide_reason_duration">
-        <item quantity="other">Less than %1$ds</item>
-        <item quantity="one">Less than %1$ds</item>
-        <item quantity="two">Less than %1$ds</item>
-        <item quantity="many">Less than %1$ds</item>
+        <item quantity="other">"פחות מ-%1$dשנ'"</item>
+        <item quantity="one">"פחות משנ'%1$d"</item>
+        <item quantity="two">"פחות מ-%1$dשנ'"</item>
+        <item quantity="many">"פחות מ-%1$dשנ'"</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">בעוד שעה אחת</item>
@@ -225,16 +225,16 @@ total %2$d songs"</item>
         <item quantity="many">ממש עכשיו</item>
     </plurals>
     <plurals name="list_header_fans_count">
-        <item quantity="other">%d followers</item>
-        <item quantity="one">%d עוקבים</item>
-        <item quantity="two">%d followers</item>
-        <item quantity="many">%d followers</item>
+        <item quantity="other">%d עוקבים</item>
+        <item quantity="one">עוקב/ת %d</item>
+        <item quantity="two">%d עוקבים</item>
+        <item quantity="many">%d עוקבים</item>
     </plurals>
     <plurals name="list_header_follow_count">
-        <item quantity="other">Following %d people</item>
-        <item quantity="one">עוקב אחר %d אנשים</item>
-        <item quantity="two">Following %d people</item>
-        <item quantity="many">Following %d people</item>
+        <item quantity="other">מעקב אחר %d אנשים</item>
+        <item quantity="one">מעקב אחר אדם %d</item>
+        <item quantity="two">מעקב אחר %d אנשים</item>
+        <item quantity="many">מעקב אחר %d אנשים</item>
     </plurals>
     <plurals name="media_store_new_songs_add">
         <item quantity="other">%d שירים חדשים</item>
@@ -249,10 +249,10 @@ total %2$d songs"</item>
         <item quantity="many">%d פריטים נבחרו</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d פריטים נבחרו</item>
-        <item quantity="two">%d items selected</item>
-        <item quantity="many">%d items selected</item>
+        <item quantity="other">נבחרו %d פריטים</item>
+        <item quantity="one">נבחר פריט %d</item>
+        <item quantity="two">נבחרו %d פריטים</item>
+        <item quantity="many">נבחרו %d פריטים</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">לפני %d דקות</item>
@@ -261,10 +261,10 @@ total %2$d songs"</item>
         <item quantity="many">לפני %d דקות</item>
     </plurals>
     <plurals name="reader_count">
-        <item quantity="other">%d followers</item>
-        <item quantity="one">%d עוקבים</item>
-        <item quantity="two">%d followers</item>
-        <item quantity="many">%d followers</item>
+        <item quantity="other">%d עוקבים</item>
+        <item quantity="one">עוקב/ת %d</item>
+        <item quantity="two">%d עוקבים</item>
+        <item quantity="many">%d עוקבים</item>
     </plurals>
     <plurals name="reward_seconds_remaining">
         <item quantity="other">מינוי אח\"מ בעוד %d שניות</item>
@@ -273,64 +273,64 @@ total %2$d songs"</item>
         <item quantity="many">מינוי אח\"מ בעוד %d שניות</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">%d songs will be sent</item>
-        <item quantity="one">%d שירים ישלחו</item>
-        <item quantity="two">%d songs will be sent</item>
-        <item quantity="many">%d songs will be sent</item>
+        <item quantity="other">יישלחו %d שירים</item>
+        <item quantity="one">יישלח שיר %d</item>
+        <item quantity="two">יישלחו %d שירים</item>
+        <item quantity="many">יישלחו %d שירים</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-        <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
-        <item quantity="one">"%d שירים דולגו. הפעל את השירותים המקוונים ב'הגדרות' על מנת להאזין להם."</item>
-        <item quantity="two">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
-        <item quantity="many">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
+        <item quantity="other">דילג על %d שירים. יש להפעיל שירותים מקוונים בהגדרות כדי להאזין להם.</item>
+        <item quantity="one">דילג על שיר %d. יש להפעיל שירותים מקוונים בהגדרות כדי להאזין לו.</item>
+        <item quantity="two">דילג על %d שירים. יש להפעיל שירותים מקוונים בהגדרות כדי להאזין להם.</item>
+        <item quantity="many">דילג על %d שירים. יש להפעיל שירותים מקוונים בהגדרות כדי להאזין להם.</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">Songs have been favorited.</item>
-        <item quantity="one">השירים נוספו למועדפים.</item>
-        <item quantity="two">Songs have been favorited.</item>
-        <item quantity="many">Songs have been favorited.</item>
+        <item quantity="other">השירים נוספו למועדפים.</item>
+        <item quantity="one">השיר נוסף למועדפים.</item>
+        <item quantity="two">השירים נוספו למועדפים.</item>
+        <item quantity="many">השירים נוספו למועדפים.</item>
     </plurals>
     <plurals name="songs_count">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d שירים</item>
-        <item quantity="two">%d songs</item>
-        <item quantity="many">%d songs</item>
+        <item quantity="other">%d שירים</item>
+        <item quantity="one">שיר %d</item>
+        <item quantity="two">%d שירים</item>
+        <item quantity="many">%d שירים</item>
     </plurals>
     <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">Crossfade between songs: %d seconds</item>
-        <item quantity="one">"קרוספייד (הצלבה) בין שירים: %d שנ'"</item>
-        <item quantity="two">Crossfade between songs: %d seconds</item>
-        <item quantity="many">Crossfade between songs: %d seconds</item>
+        <item quantity="other">עמעום בין שירים: %d שניות</item>
+        <item quantity="one">עמעום בין שירים: שנייה %d</item>
+        <item quantity="two">עמעום בין שירים: %d שניות</item>
+        <item quantity="many">עמעום בין שירים: %d שניות</item>
     </plurals>
     <plurals name="task_guide">
-        <item quantity="other">Earn %1$d coins today</item>
-        <item quantity="one">Earn %1$d coin today</item>
-        <item quantity="two">Earn %1$d coins today</item>
-        <item quantity="many">Earn %1$d coins today</item>
+        <item quantity="other">להרוויח %1$d מטבעות היום</item>
+        <item quantity="one">להרוויח מטבע %1$d היום</item>
+        <item quantity="two">להרוויח %1$d מטבעות היום</item>
+        <item quantity="many">להרוויח %1$d מטבעות היום</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">Videos</item>
-        <item quantity="one">סרטונים</item>
-        <item quantity="two">Videos</item>
-        <item quantity="many">Videos</item>
+        <item quantity="other">סרטונים</item>
+        <item quantity="one">סרטון</item>
+        <item quantity="two">סרטונים</item>
+        <item quantity="many">סרטונים</item>
     </plurals>
     <plurals name="video_play_count">
-        <item quantity="other">%1$s views</item>
-        <item quantity="one">%1$s צפיות</item>
-        <item quantity="two">%1$s views</item>
-        <item quantity="many">%1$s views</item>
+        <item quantity="other">%1$s צפיות</item>
+        <item quantity="one">צפייה %1$s</item>
+        <item quantity="two">%1$s צפיות</item>
+        <item quantity="many">%1$s צפיות</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">%d days remaining</item>
-        <item quantity="one">%d ימים נותרו</item>
-        <item quantity="two">%d days remaining</item>
-        <item quantity="many">%d days remaining</item>
+        <item quantity="other">נותרו %d ימים</item>
+        <item quantity="one">נותר יום %d</item>
+        <item quantity="two">נותרו %d ימים</item>
+        <item quantity="many">נותרו %d ימים</item>
     </plurals>
     <plurals name="web_reward_dialog_title">
-        <item quantity="other">לאחר צפייה במשך %d שניות מקבלים מינוי אח\"מ בתור פרס. לצאת בכל זאת?</item>
-        <item quantity="one">לאחר צפייה במשך שנייה %d מקבלים מינוי אח\"מ בתור פרס. לצאת בכל זאת?</item>
-        <item quantity="two">לאחר צפייה במשך %d שניות מקבלים מינוי אח\"מ בתור פרס. לצאת בכל זאת?</item>
-        <item quantity="many">לאחר צפייה במשך %d שניות מקבלים מינוי אח\"מ בתור פרס. לצאת בכל זאת?</item>
+        <item quantity="other">לאחר צפייה במשך %d שניות, מקבלים מינוי אח\"מ בתור פרס. לצאת בכל זאת?</item>
+        <item quantity="one">לאחר צפייה במשך שנייה %d, מקבלים מינוי אח\"מ בתור פרס. לצאת בכל זאת?</item>
+        <item quantity="two">לאחר צפייה במשך %d שניות, מקבלים מינוי אח\"מ בתור פרס. לצאת בכל זאת?</item>
+        <item quantity="many">לאחר צפייה במשך %d שניות, מקבלים מינוי אח\"מ בתור פרס. לצאת בכל זאת?</item>
     </plurals>
     <plurals name="whitelist_multi_added">
         <item quantity="other">נוספו %d קבצים</item>

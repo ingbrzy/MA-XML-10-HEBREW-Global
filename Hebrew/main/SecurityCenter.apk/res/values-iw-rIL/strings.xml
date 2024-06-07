@@ -316,6 +316,9 @@
     <string name="app_manager_copy_pkg_to_clip">הועתק ללוח</string>
     <string name="app_manager_data_size">נתוני משתמש</string>
     <string name="app_manager_default_cleared">נוקה</string>
+    <string name="app_manager_default_close_summary">לא הוגדרו ברירות מחדל.</string>
+    <string name="app_manager_default_open_summary">בחרת להפעיל יישום זה כברירת המחדל עבור פעולות מסויימות.</string>
+    <string name="app_manager_default_open_title">ניקוי ברירות המחדל</string>
     <string name="app_manager_defaults_setting">יישומי ברירת מחדל</string>
     <string name="app_manager_details_electric_title">סוללה </string>
     <string name="app_manager_details_storage_title">אחסון</string>
@@ -940,6 +943,7 @@
     <string name="card_main_private_space_summary">"השימוש ב'שטח שני' דומה לשימוש בשני מכשירים"</string>
     <string name="card_main_private_space_title">שטח שני</string>
     <string name="card_main_sectool_title">כלים</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">ניהול סרטונים</string>
     <string name="card_main_whatsappclean_title">מנקה WhatsApp</string>
     <string name="card_main_xspace_action">צור</string>
@@ -1287,6 +1291,7 @@
     <string name="dynamic_performance_optimization_title">ביצועים דינמיים</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="edit_phone_num">ערוך את מספר הטלפון של ה-SIM</string>
+    <string name="ellipsis">…</string>
     <string name="email">דוא\"ל</string>
     <string name="empty" />
     <string name="empty_app">אין יישומים</string>
@@ -1498,6 +1503,7 @@
     <string name="fod_finger_notice_title">הנח את האצבע שלך על המסך</string>
     <string name="fod_finger_windows_tips">אמת את טביעת האצבע שלך</string>
     <string name="fod_tips_split_screen_more_than_half">הזן סיסמה</string>
+    <string name="fold_application_mode_name">פריסות היישום</string>
     <string name="forbid_autobright_summary">מצב בהירות תצוגה אוטומטי ינוטרל כאשר אתה משחק. וישוב לפעול כאשר תסיים</string>
     <string name="forbid_autobright_title">תאורת מסך קבועה</string>
     <string name="foreground_traffic">חזית %s</string>
@@ -2019,7 +2025,7 @@ Record sequences and use them anytime!"</string>
     <string name="group_clipboard">לוח גזירים</string>
     <string name="group_connect_device">קישוריות</string>
     <string name="group_file">קבצים ומסמכים</string>
-    <string name="group_file_less_t">Access files and media</string>
+    <string name="group_file_less_t">גישה לקבצים ומדיה</string>
     <string name="group_head_data_ai_clipboard">הגנת לוח העריכה</string>
     <string name="group_head_data_camera_desc">השביתו כדי להגביל גישה למצלמה עבור כל היישומים</string>
     <string name="group_head_data_clipboard_desc">השביתו כדי להגביל גישה ללוח העריכה עבור כל היישומים</string>
@@ -2482,6 +2488,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_license_manager">הרשאות</string>
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2490,6 +2497,7 @@ Record sequences and use them anytime!"</string>
     <string name="menu_text_optimize_manage">האצת מהירות</string>
     <string name="menu_text_optimize_manage_1">האצת מהירות</string>
     <string name="menu_text_power_manager">סוללה</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">הסרה מרשימת החריגים</string>
     <string name="menu_white">הוספה לרשימת החריגים</string>
     <string name="mi_ime_not_used">השתמש במקלדת שאושרה ע\"י שיאומי</string>
@@ -3096,7 +3104,7 @@ Record sequences and use them anytime!"</string>
     <string name="pc_wireless_charging_special_stand_summary2">לטעינה מיטבית, יש להציב את המכשיר שלך על המעמד שהגיע עם המטען האלחוטי</string>
     <string name="pc_wireless_charging_special_stand_title">שימוש במעמד הטעינה המסופק</string>
     <string name="pc_wireless_handle_connected">המכשיר מחובר</string>
-    <string name="pc_wireless_handle_title">תופסן למצלמה אלחוטית</string>
+    <string name="pc_wireless_handle_title">תופסן למצלמה</string>
     <string name="pc_work_in_save_mode">חיסכון בסוללה</string>
     <string name="pc_work_in_super_save_mode">חיסכון קיצוני בסוללה</string>
     <string name="pc_xiaoai_create_auto_task">משימה חדשה מ-Mi AI</string>
@@ -3157,7 +3165,7 @@ Record sequences and use them anytime!"</string>
     <string name="permission_group_camera">הרשאה זו מאפשרת ליישומים להשתמש במצלמה כדי לצלם תמונות או להקליט סרטונים.</string>
     <string name="permission_group_contact">הרשאה זו מאפשרת ליישומים לקבל גישה לאנשי הקשר או לערוך אותם וגם לצפות באנשי הקשר של היישומים שנוצרו במכשיר זה.</string>
     <string name="permission_group_file">הרשאה זו מאפשרת ליישומים לקבל גישה לכל הקבצים המאוחסנים במכשיר זה.</string>
-    <string name="permission_group_file_less_t">This permission allows apps to access photos, videos, audio, and other files stored on this device.</string>
+    <string name="permission_group_file_less_t">הרשאה זו מאפשרת ליישומים לקבל גישה לתמונות, סרטונים, שמע וקבצים אחרים שמאוחסנים במכשיר זה.</string>
     <string name="permission_group_image_video">הרשאה זו מאפשרת ליישומים לקבל גישה לתמונות ולסרטונים המאוחסנים במכשיר זה.</string>
     <string name="permission_group_location">הרשאה זו מאפשרת ליישומים לקבל גישה לפרטי המיקום באמצעות הרשת או לוויינים.</string>
     <string name="permission_group_microphone">הרשאה זו מאפשרת ליישומים להשתמש במיקרופון כדי להקליט שמע.</string>
@@ -3276,7 +3284,7 @@ Record sequences and use them anytime!"</string>
     <string name="pm_remember_choice">זכור את הבחירה שלי</string>
     <string name="pm_root_success_notification_infomation">וודא כי הינך מבין את הסיכונים הנלקחים במתן הרשאות Root</string>
     <string name="pm_root_success_notification_title">ניתנו הרשאות Root</string>
-    <string name="popular_action_anti_spam_title_global">חסימת שיחות והודעות</string>
+    <string name="popular_action_anti_spam_title_global">לחסום שיחות ספאם</string>
     <string name="popular_action_app_lock_title_global">"הגנה על יישומים באמצעות 'נועל היישומים'"</string>
     <string name="popular_action_card_title">מאפיינים פופולריים</string>
     <string name="popular_action_first_aid_title_global">למשתמשים חדשים</string>
@@ -3332,6 +3340,11 @@ Record sequences and use them anytime!"</string>
     <string name="power_center_dialog_msg_top">כאשר מופעל מצב חיסכון בסוללה, יתבצעו האופטימיזציות הבאות:</string>
     <string name="power_center_hints_scan_danger_result">ניתן לתקן בעיות בסוללה עכשיו</string>
     <string name="power_center_list_item_auto_brightness">התאמת בהירות אוטומטית</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">V %s</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_capacity">מיליאמפר</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">"ש'"</string>
     <string name="power_center_list_item_close_bluetooth">כיבוי Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">הגדרות מתקדמות</string>
@@ -3644,6 +3657,7 @@ Record sequences and use them anytime!"</string>
     <string name="pref_normal_traffic_limit">כאשר תכנית הנתונים מנוצלת עד לתומה</string>
     <string name="pref_open_adjust_traffic">עדכן את השימוש בנתונים בכל יום על פי סטטיסטיקות מספק הרשת שלך</string>
     <string name="pref_operator_not_set">ספק הרשת אינו מוגדר</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">כאשר הינך חורג מתכנית הנתונים שלך</string>
     <string name="pref_package_traffic_settings">תכנית נתונים</string>
     <string name="pref_pkg_begin_date">תאריך איפוס שימוש</string>
@@ -3943,6 +3957,7 @@ Record sequences and use them anytime!"</string>
     <string name="privacy_using_record">הקלטת שמע</string>
     <string name="privacyapp_number_masked_text">תוכן ההתראות מוסתר</string>
     <string name="privacyapp_number_unmasked_text">ניתן להסתיר את תוכן ההתראות</string>
+    <string name="process_kernel_label">אנדרואיד</string>
     <string name="process_mediaserver_label">שרת מדיה</string>
     <string name="process_vpnsdkmanager_label">מאיץ המשחקים</string>
     <string name="promotion">פרסומת</string>
@@ -5173,7 +5188,7 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_spatial_summary_new">חוויה של תחושת מרחב וכיוון משופרים עבור שמע נתמך בעת השימוש באוזניות</string>
     <string name="vb_video_effects_srs_premium_sound">צליל</string>
     <string name="vb_video_super_division">שדרג</string>
-    <string name="vb_video_super_division_desc">"שדרג את הרזולוציה באופן אוטומטי כאשר היא ≤720p.
+    <string name="vb_video_super_division_desc">"שדרג את הרזולוציה באופן אוטומטי כאשר היא ≤720P.
 
 שימוש במאפיין זה מגדיל את צריכת החשמל.
 
@@ -5223,6 +5238,7 @@ Rolled over extra data"</string>
     <string name="virus_update_tips_title">אזהרה</string>
     <string name="virus_wait_network_dialog_message">הטלפון שלך אינו מחובר לרשת האלחוטית כעת. להשתמש בחיבור הנתונים הסלולרי?</string>
     <string name="vtb_ai_subtitle">כתוביות</string>
+    <string name="vtb_ai_subtitle_intl">כתוביות בינה מלאכותית</string>
     <string name="vtb_func_desc">אודות מאפיין זה</string>
     <string name="vtb_func_display_style_desc0">AI יכולה לזהות אנשים, בעלי חיים, צמחים, שמיים, מבנים ועצמים אחרים שמופיעים בסרטונים, ולהדגיש אותם באופן דינמי.</string>
     <string name="vtb_func_display_style_desc1">האפקטים שנבחרו לא יוחלו על סרטוני HDR במכשירים שנבחרו.</string>

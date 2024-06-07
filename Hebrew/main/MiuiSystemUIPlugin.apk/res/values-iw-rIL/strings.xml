@@ -159,7 +159,7 @@
     <string name="kddi_miui_toast_zen_standard_to_off">המצב השקט כובה. שיחות והתראות לא יושתקו.</string>
     <string name="kddi_miui_toast_zen_to_standard">עבר למצב שקט. מעכשיו שיחות והתראות יושתקו.</string>
     <string name="loading">סטטוס לא ידוע</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="midnight">לילה</string>
     <string name="miplay_accessibility_cast">בחר מכשיר</string>
     <string name="miplay_accessibility_cover">מעטפת</string>
@@ -172,6 +172,8 @@
     <string name="miplay_bluetooth_share_des_text">"משתמשי אוזניות Xiaomi: פתחו את מארז הטעינה או לחצו והחזיקו את לחצן המארז למשך %d שניות
 משתמשי אוזניות שאינן של Xiaomi: אפסו את האוזניות שלכם בהגדרות ה-Bluetooth ולאחר מכן התחברו"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">הוסף אוזניות כדי לשתף שמע</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">שיתוף השמע הסתיים</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">הוספת אוזניות לשיתוף שמע</string>
     <string name="miplay_bluetooth_share_subTitle_text">שתף שמע של המכשיר עם אדם אחר</string>
     <string name="miplay_bluetooth_share_title_text">שיתוף שמע</string>
     <string name="miplay_detail_divider_title">רמקולים</string>

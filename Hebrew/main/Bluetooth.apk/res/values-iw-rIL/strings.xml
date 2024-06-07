@@ -3,10 +3,14 @@
     <string name="actionbar_button_up_description">הקודם</string>
     <string name="afternoon">אחר הצהריים</string>
     <string name="am">AM</string>
+    <string name="bt_Auracast_audio_share_notification_content">הקש כדי להציג פרטים</string>
+    <string name="bt_Auracast_audio_share_notification_title">משדר שמע מהמכשיר הזה…</string>
+    <string name="bt_audio_share_assistant_notification_title">מקבל שידור ממכשיר הנמצא בסביבה…</string>
     <string name="bt_audio_share_notification_content">הקש כדי להציג אפשרויות</string>
     <string name="bt_audio_share_notification_title">משתף שמע</string>
     <string name="clearable_edittext_clear_description">ניקוי</string>
     <string name="close">סגירה</string>
+    <string name="close_broadcast_audio">עצירה</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -142,6 +146,7 @@
     <string name="morning">בוקר</string>
     <string name="night">ערב</string>
     <string name="noon">צהריים</string>
+    <string name="notice_audio_share_classic_disconnected">שיתוף שמע הופסק</string>
     <string name="notice_audio_share_disconnected">כבר לא משתף שמע עקב הפרעה לחיבור</string>
     <string name="pm">PM</string>
     <string name="saturday">שבת</string>

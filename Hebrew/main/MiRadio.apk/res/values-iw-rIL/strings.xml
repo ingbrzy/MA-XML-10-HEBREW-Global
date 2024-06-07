@@ -57,6 +57,9 @@
     <string name="station_check_favorite">הוסף לרשימת התחנות</string>
     <string name="stations_list">רשימת תחנות</string>
     <string name="stations_list_empty">הרשימה ריקה</string>
+    <string name="talkback_back">הקודם</string>
+    <string name="talkback_close">סגירה</string>
+    <string name="talkback_speed">מהירות</string>
     <string name="toast_added_to_list">נוסף לרשימה</string>
     <string name="toast_added_to_presets">נוסף לרשימת התחנות</string>
     <string name="toast_fm_error_startfailed">שגיאת הקלטה. יתכן שיישום אחר משתמש בפונקצית ההקלטה.</string>
@@ -69,7 +72,6 @@
     <string name="toast_sleep_mode">הרדיו יפסיק לנגן ב- %s</string>
     <string name="toast_sleep_mode_exit">הטיימר בוטל</string>
     <string name="turn_off_fm">כבה את רדיו FM</string>
-    <string name="txt_divider">" | "</string>
     <string name="txt_sleep_mode">מצב שינה</string>
     <string name="using_recorder_cancel">דחיה</string>
     <string name="using_recorder_confirm">אפשר</string>

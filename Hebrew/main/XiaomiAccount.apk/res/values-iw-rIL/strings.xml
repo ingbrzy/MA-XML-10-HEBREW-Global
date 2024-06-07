@@ -301,6 +301,7 @@
     <string name="miuix_appcompat_delete_description">מחק</string>
     <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
+    <string name="miuix_appcompat_edit">עריכה</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
     <string name="miuix_appcompat_select_all">בחר הכל</string>
@@ -838,7 +839,7 @@
 %2$d. אם לא הצלחת לאפס את הסיסמה או מישהו נעל את המכשיר שלך, יש להיכנס לכתובת i.mi.com לביטול הנעילה.
 %3$d. מספר ביטול הנעילה שלך: %4$s"</string>
     <string name="update_apk_version_later">לא עכשיו</string>
-    <string name="update_apk_version_now">עדכן</string>
+    <string name="update_apk_version_now">להתקין</string>
     <string name="update_email_address_dialog_message">עליך לאמת את זהותך לפני שתוכל לעדכן דוא\"ל.</string>
     <string name="update_email_address_dialog_title">עדכן דוא\"ל</string>
     <string name="update_phone_notice">שינוי הגדרות האבטחה</string>
@@ -850,7 +851,6 @@
     <string name="user_agreement_read_phone_permission_desc">להתחברות באמצעות מספר טלפון</string>
     <string name="user_agreement_read_phone_permission_title">לקרוא מספרי טלפון</string>
     <string name="user_agreement_use_account_msg">חשבון Xiaomi מאפשר לקבל גישה לכל השירותים הניתנים על-ידי Xiaomi.</string>
-    <string name="user_agreement_wifi_permission_title">הפעלה וכיבוי של ה-Wi-Fi</string>
     <string name="user_agreement_wlan_permission_desc">כדי לבדוק אם יש בעיות אבטחה בסביבת הכניסה</string>
     <string name="user_agreement_wlan_permission_title_china">הפעלה וכיבוי של ה-WLAN</string>
     <string name="user_avatar_update_title">החלף תמונת פרופיל</string>

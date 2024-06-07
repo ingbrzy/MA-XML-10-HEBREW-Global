@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>זכר</item>
-        <item>נקבה</item>
-    </string-array>
     <string-array name="alphabet_sub_table_with_starred">
         <item>!</item>
         <item>א</item>
@@ -100,6 +96,10 @@
         <item>פרסום ממומן</item>
         <item>אני לא אוהב את זה</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>זכר</item>
+        <item>נקבה</item>
+    </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>קדימה ואחורה</item>
         <item>החלפת תויות</item>
@@ -147,10 +147,6 @@
     <string-array name="pref_web_permissions_sub_two">
         <item>הגבל</item>
         <item>אפשר</item>
-    </string-array>
-    <string-array name="setting_swipe_up_target">
-        <item>חיפוש</item>
-        <item>חדשות</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>מחיקה</item>

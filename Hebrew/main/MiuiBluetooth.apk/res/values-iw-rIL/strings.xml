@@ -59,6 +59,7 @@
     <string name="fast_connect_device_battery">סוללה</string>
     <string name="fast_connect_device_box">מארז</string>
     <string name="fast_connect_device_box_name">%1$s Box</string>
+    <string name="fast_connect_device_button_audio_share_fail">הבנתי</string>
     <string name="fast_connect_device_connect_cancel">ביטול</string>
     <string name="fast_connect_device_connect_ok">התחבר</string>
     <string name="fast_connect_device_connect_retry">נסה שוב</string>
@@ -67,6 +68,12 @@
     <string name="fast_connect_device_headset_l">שמאלה</string>
     <string name="fast_connect_device_headset_r">ימינה</string>
     <string name="fast_connect_device_headset_reset">לחצו לחיצה ממושכת על כפתור המארז</string>
+    <string name="fast_connect_device_message_audio_share">שיתוף השמע של המכשיר הזה עם זוג אוזניות זה</string>
+    <string name="fast_connect_device_replace_current_device">החלפת המכשיר</string>
+    <string name="fast_connect_device_start_audio_share">שיתוף</string>
+    <string name="fast_connect_device_title_audio_share">להאזין ביחד עם %1$s</string>
+    <string name="fast_connect_device_title_audio_share_fail">לא ניתן להתחבר אל %1$s. נא לנסות שוב.</string>
+    <string name="fast_connect_device_title_audio_share_success">מתבצעת האזנה משותפת עם %1$s</string>
     <string name="fast_connect_device_title_connect_fail">לא ניתן היה להתחבר אל %1$s</string>
     <string name="fast_connect_device_title_connecting">מתחבר…</string>
     <string name="fast_connect_device_title_find_headset">מצא %1$s</string>

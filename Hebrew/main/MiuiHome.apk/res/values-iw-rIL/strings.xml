@@ -317,6 +317,7 @@
     <string name="gadget_search_label">חיפוש</string>
     <string name="gadget_weather_title">מזג האויר</string>
     <string name="global_search">חיפוש</string>
+    <string name="global_shelf">מאתר יישומים</string>
     <string name="got_it_botton">הבנתי</string>
     <string name="guide_install_app_msg">היישום אינו מותקן במכשירך. האם למצוא ולהתקין יישום זה כעת?</string>
     <string name="guide_install_app_title">מצא והתקן יישומים?</string>
@@ -324,6 +325,7 @@
     <string name="guide_privacy_dialog_title">תנאי השירות</string>
     <string name="home_gesture_content_center">מרכז תוכן</string>
     <string name="home_gesture_global_search">חיפוש</string>
+    <string name="home_gesture_global_shelf">מאתר יישומים</string>
     <string name="home_gesture_no_action">ללא</string>
     <string name="home_gesture_notification_and_control_center">לוח ההתראות ומרכז הבקרה</string>
     <string name="home_gesture_notification_bar">התראות</string>
@@ -341,7 +343,7 @@
     <string name="international_home_pull_down_sub_content">לחלופין, ניתן להגדיר שהמחווה הזו תפתח את מרכז הבקרה בהגדרות > מסך הבית > החלק כלפי מטה במסך הבית.</string>
     <string name="international_home_pull_down_up_btn_get">הבנתי</string>
     <string name="international_home_pull_up_content">החלק כלפי מעלה במסך הבית כדי לפתוח את מרכז התוכן.</string>
-    <string name="international_home_pull_up_sub_content">כדי לפתוח את החיפוש, החלק כלפי מטה ממרכז מסך הבית שלך.</string>
+    <string name="international_home_pull_up_sub_content">כדי למצוא יישומים והמלצות ליישומים, החליקו כלפי מטה ממרכז מסך הבית.</string>
     <string name="jeejen_description">"רכיבי ממשק משתמש גדולים יותר.
 שיחות נגישות יותר.
 אבטחה משופרת."</string>
@@ -393,7 +395,7 @@
     <string name="mi_wallpaper">ערכות נושא של MIUI</string>
     <string name="midnight">לילה</string>
     <string name="minus_one_screen">כספת היישומים</string>
-    <string name="miui_screen_config_title">"הגדרות 'מסך הבית'"</string>
+    <string name="miui_screen_config_title">"פריסת 'מסך הבית'"</string>
     <string name="miui_setting_config_title">הגדרות מסך הבית</string>
     <string name="miui_widget_menu_replace_text">החלפה</string>
     <string name="miui_widget_toast_for_not_support_by_pa">"כספת היישומים לא תומכת בווידג'טים בגודל זה"</string>
@@ -563,8 +565,9 @@
     <string name="recent_menu_item_info">פרטים</string>
     <string name="recent_menu_item_lock">נעל</string>
     <string name="recent_menu_item_unlock">בטל נעילה</string>
-    <string name="recent_menu_item_worldcirculate">应用流转</string>
-    <string name="recent_menu_item_worldcirculate_disable">应用无法流转</string>
+    <string name="recent_menu_item_worldcirculate">העברת משימות יישומים</string>
+    <string name="recent_menu_item_worldcirculate_disable">לא ניתן להעביר משימות של יישומים בין מכשירים מחוברים</string>
+    <string name="recent_pin_text">הצמד</string>
     <string name="recents_app_info_button_label">פרטי היישום</string>
     <string name="recents_config_title">לאחרונה</string>
     <string name="recents_dimiss_task">נקה</string>
@@ -661,8 +664,10 @@
     <string name="switch_personal_assistant_app_vault">כספת האפליקציות</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">ללא</string>
+    <string name="switch_personal_assistant_summary">לפתיחת Google Discover נא להעביר אצבע ימינה על מסך הבית</string>
     <string name="switch_screen_button_order">החלפת לחצנים</string>
     <string name="switch_screen_button_order_desc">"החלף את מיקום לחצני 'חזרה' ו'תפריט'"</string>
+    <string name="system_sdk_disabled_toast">ה-SDK של המערכת הושבת. הפעל אותו קודם.</string>
     <string name="system_shortcuts_edit">עריכה</string>
     <string name="system_shortcuts_icon_remove">הסרה</string>
     <string name="system_shortcuts_more_operation">פרטי היישום</string>

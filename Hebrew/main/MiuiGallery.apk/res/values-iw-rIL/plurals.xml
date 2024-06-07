@@ -96,6 +96,72 @@
         <item quantity="two">%d שנים</item>
         <item quantity="many">%d שנים</item>
     </plurals>
+    <plurals name="ai_create_image_queue">
+        <item quantity="other">%1d אנשים לפניך</item>
+        <item quantity="one">אדם אחד (%1d) לפניך</item>
+        <item quantity="two">%1d אנשים לפניך</item>
+        <item quantity="many">%1d אנשים לפניך</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_hour">
+        <item quantity="other">זמן המתנה: %s שעות</item>
+        <item quantity="one">זמן המתנה: שעה אחת (%s)</item>
+        <item quantity="two">זמן המתנה: שעתיים (%s)</item>
+        <item quantity="many">זמן המתנה: %s שעות</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_minute">
+        <item quantity="other">זמן המתנה: %s דקות</item>
+        <item quantity="one">זמן המתנה: דקה אחת (%s)</item>
+        <item quantity="two">זמן המתנה: %s דקות</item>
+        <item quantity="many">זמן המתנה: %s דקות</item>
+    </plurals>
+    <plurals name="ai_creation_wait_message_time">
+        <item quantity="other">יוצר… | זמן המתנה: %d שניות</item>
+        <item quantity="one">יוצר… | זמן המתנה: שנייה אחת (%d)</item>
+        <item quantity="two">יוצר… | זמן המתנה: %d שניות</item>
+        <item quantity="many">יוצר… | זמן המתנה: %d שניות</item>
+    </plurals>
+    <plurals name="ai_creation_wait_queue">
+        <item quantity="other">יוצר… | %d אנשים לפניך</item>
+        <item quantity="one">יוצר… | אדם אחד (%d) לפניך</item>
+        <item quantity="two">יוצר… | %d אנשים לפניך</item>
+        <item quantity="many">יוצר… | %d אנשים לפניך</item>
+    </plurals>
+    <plurals name="ai_creation_wait_time_minute">
+        <item quantity="other">זמן המתנה: %d דקות</item>
+        <item quantity="one">זמן המתנה: דקה אחת (%d)</item>
+        <item quantity="two">זמן המתנה: %d דקות</item>
+        <item quantity="many">זמן המתנה: %d דקות</item>
+    </plurals>
+    <plurals name="ai_enhance_bar_waiting">
+        <item quantity="other">יוצר… | נותרו %d שניות</item>
+        <item quantity="one">יוצר… | נותרה שנייה אחת (%d)</item>
+        <item quantity="two">יוצר… | נותרו %d שניות</item>
+        <item quantity="many">יוצר… | נותרו %d שניות</item>
+    </plurals>
+    <plurals name="ai_hour">
+        <item quantity="other">%s שעות</item>
+        <item quantity="one">שעה אחת (%s)</item>
+        <item quantity="two">שעתיים (%s)</item>
+        <item quantity="many">%s שעות</item>
+    </plurals>
+    <plurals name="ai_image_over_limit_msg">
+        <item quantity="other">אדם אחד יכול ליצור עד %d תמונות AI.</item>
+        <item quantity="one">אדם אחד יכול ליצור עד תמונת AI אחת (%d)</item>
+        <item quantity="two">אדם אחד יכול ליצור עד %d תמונות AI.</item>
+        <item quantity="many">אדם אחד יכול ליצור עד %d תמונות AI.</item>
+    </plurals>
+    <plurals name="ai_minute">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה אחת (%d)</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="ai_select_photo_time_count">
+        <item quantity="other">בוחר תמונות (נותרו %d שניות)…</item>
+        <item quantity="one">בוחר תמונות (נותרה שנייה אחת (%d))…</item>
+        <item quantity="two">בוחר תמונות (נותרו %d שניות)…</item>
+        <item quantity="many">בוחר תמונות (נותרו %d שניות)…</item>
+    </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">שותף עם %d אנשים</item>
         <item quantity="one">שותף עם אדם %d</item>
@@ -336,11 +402,29 @@
         <item quantity="two">בוצע דילוג על %1$d תמונות שלא ניתן היה לעבד.</item>
         <item quantity="many">בוצע דילוג על %1$d תמונות שלא ניתן היה לעבד.</item>
     </plurals>
-    <plurals name="file_type_detail_count">
-        <item quantity="other">%1$d קבצים</item>
-        <item quantity="one">קובץ %1$d</item>
-        <item quantity="two">%1$d קבצים</item>
-        <item quantity="many">%1$d קבצים</item>
+    <plurals name="global_cloud_storage_warn_title_link">
+        <item quantity="other">לא ניתן היה לגבות %d פריטים מכיוון שאין מספיק שטח אחסון פנוי בענן</item>
+        <item quantity="one">לא ניתן היה לגבות פריט אחד (%d) מכיוון שאין מספיק שטח אחסון פנוי בענן</item>
+        <item quantity="two">לא ניתן היה לגבות %d פריטים מכיוון שאין מספיק שטח אחסון פנוי בענן</item>
+        <item quantity="many">לא ניתן היה לגבות %d פריטים מכיוון שאין מספיק שטח אחסון פנוי בענן</item>
+    </plurals>
+    <plurals name="global_sync_error_title">
+        <item quantity="other">%d פריטים לא גובו</item>
+        <item quantity="one">פריט אחד (%d) לא גובה</item>
+        <item quantity="two">%d פריטים לא גובו</item>
+        <item quantity="many">%d פריטים לא גובו</item>
+    </plurals>
+    <plurals name="global_syncing_gprs_title_link">
+        <item quantity="other">מגבה %d פריטים באמצעות נתונים סלולריים…</item>
+        <item quantity="one">מגבה פריט אחד (%d) באמצעות נתונים סלולריים…</item>
+        <item quantity="two">מגבה %d פריטים באמצעות נתונים סלולריים…</item>
+        <item quantity="many">מגבה %d פריטים באמצעות נתונים סלולריים…</item>
+    </plurals>
+    <plurals name="global_syncing_title_link">
+        <item quantity="other">מגבה %d פריטים…</item>
+        <item quantity="one">מגבה פריט אחד (%d)…</item>
+        <item quantity="two">מגבה %d פריטים…</item>
+        <item quantity="many">מגבה %d פריטים…</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
@@ -517,10 +601,10 @@
         <item quantity="many">מוריד את %d הקבצים הנותרים</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">לא ניתן היה להוריד %1$d תמונות, התחבר לרשת ונסה שוב</item>
-        <item quantity="one">לא ניתן היה להוריד תמונה אחת (%1$d), התחבר לרשת ונסה שוב</item>
-        <item quantity="two">לא ניתן היה להוריד %1$d תמונות, התחבר לרשת ונסה שוב</item>
-        <item quantity="many">לא ניתן היה להוריד %1$d תמונות, התחבר לרשת ונסה שוב</item>
+        <item quantity="other">לא ניתן היה להוריד %d קבצים. נא להתחבר לרשת ולנסות שוב.</item>
+        <item quantity="one">לא ניתן היה להוריד קובץ %d. נא להתחבר לרשת ולנסות שוב.</item>
+        <item quantity="two">לא ניתן היה להוריד %d קבצים. נא להתחבר לרשת ולנסות שוב.</item>
+        <item quantity="many">לא ניתן היה להוריד %d קבצים. נא להתחבר לרשת ולנסות שוב.</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">לא ניתן היה להוריד %1$d קבצים (%2$d מ\"ב). התחבר לרשת ונסה שוב.</item>
@@ -535,16 +619,16 @@
         <item quantity="many">%1$d קבצים (%2$d מ\"ב) עדיין לא הורדו. להוריד אותם באמצעות גלישה סלולרית?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">לא ניתן היה להוריד %1$d תמונות, לנסות שוב?</item>
-        <item quantity="one">לא ניתן היה להוריד תמונה אחת (%1$d), לנסות שוב?</item>
-        <item quantity="two">לא ניתן היה להוריד %1$d תמונות, לנסות שוב?</item>
-        <item quantity="many">לא ניתן היה להוריד %1$d תמונות, לנסות שוב?</item>
+        <item quantity="other">לא ניתן היה להוריד %d קבצים. לנסות שוב?</item>
+        <item quantity="one">לא ניתן היה להוריד קובץ %d. לנסות שוב?</item>
+        <item quantity="two">לא ניתן היה להוריד %d קבצים. לנסות שוב?</item>
+        <item quantity="many">לא ניתן היה להוריד %d קבצים. לנסות שוב?</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">לא ניתן היה להוריד %1$d תמונות (%2$d מ\"ב), האם לנסות שוב?</item>
-        <item quantity="one">לא ניתן היה להוריד תמונה %1$d (%2$d מ\"ב), האם לנסות שוב?</item>
-        <item quantity="two">לא ניתן היה להוריד %1$d תמונות (%2$d מ\"ב), האם לנסות שוב?</item>
-        <item quantity="many">לא ניתן היה להוריד %1$d תמונות (%2$d מ\"ב), האם לנסות שוב?</item>
+        <item quantity="other">לא ניתן היה להוריד %1$d קבצים (%2$d מ\"ב). לנסות שוב?</item>
+        <item quantity="one">לא ניתן היה להוריד קובץ %1$d (%2$d מ\"ב). לנסות שוב?</item>
+        <item quantity="two">לא ניתן היה להוריד %1$d קבצים (%2$d מ\"ב). לנסות שוב?</item>
+        <item quantity="many">לא ניתן היה להוריד %1$d קבצים (%2$d מ\"ב). לנסות שוב?</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">היישום דילג על %d תמונות שלא נמצאות במכשיר.</item>
@@ -594,113 +678,11 @@
         <item quantity="two">%1$d תמונות הוסרו מ-\"%2$s\".</item>
         <item quantity="many">%1$d תמונות הוסרו מ-\"%2$s\".</item>
     </plurals>
-    <plurals name="send_apk_dialog_desc">
-        <item quantity="other">%2$d חבילות התקנה (%3$s) צ%1$s</item>
-        <item quantity="one">חבילת התקנה %2$d (%3$s) מ%1$s</item>
-        <item quantity="two">%2$d חבילות התקנה (%3$s) צ%1$s</item>
-        <item quantity="many">%2$d חבילות התקנה (%3$s) צ%1$s</item>
-    </plurals>
-    <plurals name="send_apk_dialog_desc_received">
-        <item quantity="other">התקבלו %2$d חבילות התקנה (%3$s) מ%1$s</item>
-        <item quantity="one">התקבלה חבילת התקנה %2$d%3$s מ%1$s</item>
-        <item quantity="two">התקבלו %2$d חבילות התקנה (%3$s) מ%1$s</item>
-        <item quantity="many">התקבלו %2$d חבילות התקנה (%3$s) מ%1$s</item>
-    </plurals>
-    <plurals name="send_apk_dialog_desc_receiving">
-        <item quantity="other">מקבל %2$d חבילות התקנה (%3$s) מ%1$s…</item>
-        <item quantity="one">מקבל חבילת התקנה %2$d%3$s מ%1$s…</item>
-        <item quantity="two">מקבל %2$d חבילות התקנה (%3$s) מ%1$s…</item>
-        <item quantity="many">מקבל %2$d חבילות התקנה (%3$s) מ%1$s…</item>
-    </plurals>
-    <plurals name="send_audio_dialog_desc">
-        <item quantity="other">%2$d קבצי שמע%3$s מ%1$s</item>
-        <item quantity="one">קובץ שמע %2$d (%3$s) מ%1$s</item>
-        <item quantity="two">%2$d קבצי שמע%3$s מ%1$s</item>
-        <item quantity="many">%2$d קבצי שמע%3$s מ%1$s</item>
-    </plurals>
-    <plurals name="send_audio_dialog_desc_received">
-        <item quantity="other">התקבלו %2$d קבצי שמע (%3$s) מ%1$s</item>
-        <item quantity="one">התקבל קובץ שמע %2$d%3$s מ%1$s</item>
-        <item quantity="two">התקבלו %2$d קבצי שמע (%3$s) מ%1$s</item>
-        <item quantity="many">התקבלו %2$d קבצי שמע (%3$s) מ%1$s</item>
-    </plurals>
-    <plurals name="send_audio_dialog_desc_receiving">
-        <item quantity="other">מקבל %2$d קבצי שמע (%3$s) מ%1$s…</item>
-        <item quantity="one">מקבל קובץ שמע %2$d%3$s מ%1$s…</item>
-        <item quantity="two">מקבל %2$d קבצי שמע (%3$s) מ%1$s…</item>
-        <item quantity="many">מקבל %2$d קבצי שמע (%3$s) מ%1$s…</item>
-    </plurals>
-    <plurals name="send_file_dialog_desc">
-        <item quantity="other">%2$d קבצי %3$s (%4$s מ%1$s</item>
-        <item quantity="one">קובץ %3$s%2$d (%4$s) מ%1$s</item>
-        <item quantity="two">%2$d קבצי %3$s (%4$s מ%1$s</item>
-        <item quantity="many">%2$d קבצי %3$s (%4$s מ%1$s</item>
-    </plurals>
-    <plurals name="send_file_dialog_desc_received">
-        <item quantity="other">התקבלו %2$d קבצי %3$s (%4$s מ%1$s</item>
-        <item quantity="one">התקבל קובץ %3$s%2$d (%4$s) מ%1$s</item>
-        <item quantity="two">התקבלו %2$d קבצי %3$s (%4$s מ%1$s</item>
-        <item quantity="many">התקבלו %2$d קבצי %3$s (%4$s מ%1$s</item>
-    </plurals>
-    <plurals name="send_file_dialog_desc_receiving">
-        <item quantity="other">מקבל %2$d קבצי %3$s (%4$s מ%1$s…</item>
-        <item quantity="one">מקבל קובץ %3$s%2$d (%4$s) מ%1$s…</item>
-        <item quantity="two">מקבל %2$d קבצי %3$s (%4$s מ%1$s…</item>
-        <item quantity="many">מקבל %2$d קבצי %3$s (%4$s מ%1$s…</item>
-    </plurals>
-    <plurals name="send_image_dialog_desc">
-        <item quantity="other">%2$d תמונות מ%1$s</item>
-        <item quantity="one">תמונה %2$d מ%1$s</item>
-        <item quantity="two">%2$d תמונות מ%1$s</item>
-        <item quantity="many">%2$d תמונות מ%1$s</item>
-    </plurals>
-    <plurals name="send_image_dialog_desc_received">
-        <item quantity="other">התקבלו %2$d תמונות מ%1$s</item>
-        <item quantity="one">התקבלה תמונה %2$d מ%1$s</item>
-        <item quantity="two">התקבלו %2$d תמונות מ%1$s</item>
-        <item quantity="many">התקבלו %2$d תמונות מ%1$s</item>
-    </plurals>
-    <plurals name="send_image_dialog_desc_receiving">
-        <item quantity="other">מקבל %2$d תמונות מ%1$s…</item>
-        <item quantity="one">מקבל תמונה %2$d מ%1$s…</item>
-        <item quantity="two">מקבל %2$d תמונות מ%1$s…</item>
-        <item quantity="many">מקבל %2$d תמונות מ%1$s…</item>
-    </plurals>
-    <plurals name="send_image_video_dialog_desc">
-        <item quantity="other">%2$d תמונות או סרטונים מ%1$s</item>
-        <item quantity="one">תמונה או סרטון %2$d מ%1$s</item>
-        <item quantity="two">%2$d תמונות או סרטונים מ%1$s</item>
-        <item quantity="many">%2$d תמונות או סרטונים מ%1$s</item>
-    </plurals>
-    <plurals name="send_image_video_dialog_desc_received">
-        <item quantity="other">התקבלו %2$d תמונות וסרטונים מ%1$s</item>
-        <item quantity="one">התקבל/ה סרטון או תמונה %2$d מ%1$s</item>
-        <item quantity="two">התקבלו %2$d תמונות וסרטונים מ%1$s</item>
-        <item quantity="many">התקבלו %2$d תמונות וסרטונים מ%1$s</item>
-    </plurals>
-    <plurals name="send_image_video_dialog_desc_receiving">
-        <item quantity="other">מקבל %2$d תמונות וסרטונים מ%1$s…</item>
-        <item quantity="one">מקבל סרטון או תמונה %2$d מ%1$s…</item>
-        <item quantity="two">מקבל %2$d תמונות וסרטונים מ%1$s…</item>
-        <item quantity="many">מקבל %2$d תמונות וסרטונים מ%1$s…</item>
-    </plurals>
-    <plurals name="send_more_type_file_dialog_desc">
-        <item quantity="other">%2$d קבצים מ%1$s</item>
-        <item quantity="one">קובץ %2$d מ%1$s</item>
-        <item quantity="two">%2$d קבצים מ%1$s</item>
-        <item quantity="many">%2$d קבצים מ%1$s</item>
-    </plurals>
-    <plurals name="send_more_type_file_dialog_desc_received">
-        <item quantity="other">התקבלו %2$d קבצים מ%1$s</item>
-        <item quantity="one">התקבל קובץ %2$d מ%1$s</item>
-        <item quantity="two">התקבלו %2$d קבצים מ%1$s</item>
-        <item quantity="many">התקבלו %2$d קבצים מ%1$s</item>
-    </plurals>
-    <plurals name="send_more_type_file_dialog_desc_receiving">
-        <item quantity="other">מקבל %2$d קבצים מ%1$s…</item>
-        <item quantity="one">מקבל קובץ %2$d מ%1$s…</item>
-        <item quantity="two">מקבל %2$d קבצים מ%1$s…</item>
-        <item quantity="many">מקבל %2$d קבצים מ%1$s…</item>
+    <plurals name="search_title_ai">
+        <item quantity="other">נמצאו %d פריטים</item>
+        <item quantity="one">נמצא פריט %d</item>
+        <item quantity="two">נמצאו %d פריטים</item>
+        <item quantity="many">נמצאו %d פריטים</item>
     </plurals>
     <plurals name="send_processing_files_error">
         <item quantity="other">לא ניתן היה לשתף. עדיין מעבד %d תמונות…</item>
@@ -713,42 +695,6 @@
         <item quantity="one">נא לבחור עד פריט %d לשליחה</item>
         <item quantity="two">נא לבחור עד %d פריטים לשליחה</item>
         <item quantity="many">נא לבחור עד %d פריטים לשליחה</item>
-    </plurals>
-    <plurals name="send_video_dialog_desc">
-        <item quantity="other">%2$d סרטונים מ%1$s</item>
-        <item quantity="one">סרטון %2$d מ%1$s</item>
-        <item quantity="two">%2$d סרטונים מ%1$s</item>
-        <item quantity="many">%2$d סרטונים מ%1$s</item>
-    </plurals>
-    <plurals name="send_video_dialog_desc_received">
-        <item quantity="other">התקבלו %2$d סרטונים מ%1$s</item>
-        <item quantity="one">התקבל סרטון %2$d מ%1$s</item>
-        <item quantity="two">התקבלו %2$d סרטונים מ%1$s</item>
-        <item quantity="many">התקבלו %2$d סרטונים מ%1$s</item>
-    </plurals>
-    <plurals name="send_video_dialog_desc_receiving">
-        <item quantity="other">מקבל %2$d סרטונים מ%1$s…</item>
-        <item quantity="one">מקבל סרטון %2$d מ%1$s…</item>
-        <item quantity="two">מקבל %2$d סרטונים מ%1$s…</item>
-        <item quantity="many">מקבל %2$d סרטונים מ%1$s…</item>
-    </plurals>
-    <plurals name="send_zip_dialog_desc">
-        <item quantity="other">%2$d ארכיונים (%3$s) מ%1$s</item>
-        <item quantity="one">ארכיון %2$d%3$s מ%1$s</item>
-        <item quantity="two">%2$d ארכיונים (%3$s) מ%1$s</item>
-        <item quantity="many">%2$d ארכיונים (%3$s) מ%1$s</item>
-    </plurals>
-    <plurals name="send_zip_dialog_desc_received">
-        <item quantity="other">התקבלו %2$d ארכיונים (%3$s) מ%1$s</item>
-        <item quantity="one">התקבל ארכיון %2$d%3$s מ%1$s</item>
-        <item quantity="two">התקבלו %2$d ארכיונים (%3$s) מ%1$s</item>
-        <item quantity="many">התקבלו %2$d ארכיונים (%3$s) מ%1$s</item>
-    </plurals>
-    <plurals name="send_zip_dialog_desc_receiving">
-        <item quantity="other">מקבל %2$d ארכיונים (%3$s) מ%1$s…</item>
-        <item quantity="one">מקבל ארכיון %2$d%3$s מ%1$s…</item>
-        <item quantity="two">מקבל %2$d ארכיונים (%3$s) מ%1$s…</item>
-        <item quantity="many">מקבל %2$d ארכיונים (%3$s) מ%1$s…</item>
     </plurals>
     <plurals name="share_album_detail_photo_count">
         <item quantity="other">הועלו %d תמונות</item>
@@ -1003,6 +949,24 @@
         <item quantity="one">קובץ %1$d</item>
         <item quantity="two">%1$d קבצים</item>
         <item quantity="many">%1$d קבצים</item>
+    </plurals>
+    <plurals name="video_editor_component_hint_text">
+        <item quantity="other">בחירת %d קטעי וידאו</item>
+        <item quantity="one">בחירת קטע וידאו %d</item>
+        <item quantity="two">בחירת %d קטעי וידאו</item>
+        <item quantity="many">בחירת %d קטעי וידאו</item>
+    </plurals>
+    <plurals name="video_editor_component_imageview_content_description">
+        <item quantity="other">משבצת וידאו %1$d, ממתין להוספת סרטון של %2$s שניות או יותר</item>
+        <item quantity="one">משבצת וידאו %1$d, ממתין להוספת סרטון של שנייה %2$s או יותר</item>
+        <item quantity="two">משבצת וידאו %1$d, ממתין להוספת סרטון של %2$s שניות או יותר</item>
+        <item quantity="many">משבצת וידאו %1$d, ממתין להוספת סרטון של %2$s שניות או יותר</item>
+    </plurals>
+    <plurals name="video_editor_component_next_step_disabled_content_description">
+        <item quantity="other">יש להוסיף עוד %d סרטונים כדי להמשיך</item>
+        <item quantity="one">יש להוסיף עוד סרטון %d כדי להמשיך</item>
+        <item quantity="two">יש להוסיף עוד %d סרטונים כדי להמשיך</item>
+        <item quantity="many">יש להוסיף עוד %d סרטונים כדי להמשיך</item>
     </plurals>
     <plurals name="videos_count">
         <item quantity="other">%d סרטונים</item>

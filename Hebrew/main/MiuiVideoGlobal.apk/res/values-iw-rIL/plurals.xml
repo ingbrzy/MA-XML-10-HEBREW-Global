@@ -66,12 +66,6 @@
         <item quantity="two">נבחרו %s כוכבים</item>
         <item quantity="many">נבחרו %s כוכבים</item>
     </plurals>
-    <plurals name="feed_back_home">
-        <item quantity="other">חוזר לעמוד הבית בעוד %1$dשניות…</item>
-        <item quantity="one">חוזר לעמוד הבית בעוד שנייה %1$d…</item>
-        <item quantity="two">חוזר לעמוד הבית בעוד %1$dשניות…</item>
-        <item quantity="many">חוזר לעמוד הבית בעוד %1$dשניות…</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">לפני חצי שעה</item>
         <item quantity="one">לפני חצי שעה</item>

@@ -48,6 +48,7 @@
     <string name="ad_bar_notification_setting_title">אירועים</string>
     <string name="ad_click_to_play">הקישו לניגון</string>
     <string name="ad_flag_text">פרסומת</string>
+    <string name="ad_topview_repeat_play">נא להקיש כדי לנגן שוב</string>
     <string name="add_local_shortcut_add">הוספה</string>
     <string name="add_local_shortcut_des">הוספת \"הסרטונים שלי\" למסך הבית כדי לקבל גישה לקובצי וידאו מקומיים בהקשה אחת.</string>
     <string name="add_search_channel_link">כתובת URL</string>
@@ -168,7 +169,7 @@ ID:%s
     <string name="dialog_cancel">ביטול</string>
     <string name="dialog_clearn_content">לנקות את היסטוריית הגלישה עכשיו?</string>
     <string name="dialog_clearn_title">נקה היסטוריה</string>
-    <string name="dialog_confirm">אישור</string>
+    <string name="dialog_confirm">הוספה</string>
     <string name="dialog_delete_bookmarks_content">למחוק את הסימנייה עכשיו?</string>
     <string name="dialog_disagree_continue">המשך</string>
     <string name="dialog_disagree_info">אם אינך מסכימ/ה למדיניות הפרטיות של וידאו Mi, לא ניתן יהיה להשתמש בשירותים המקוונים שלנו. תוכל/י רק לצפות בסרסטונים המאוחסנים במכשיר שלך. להמשיך בכל זאת?</string>
@@ -237,6 +238,8 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="download_unable_tip">לא ניתן להוריד פריט זה</string>
     <string name="download_video">מתבצעת הורדת סרטון</string>
     <string name="downloading">מוריד…</string>
+    <string name="draw_ad_button_click_text">יש לנער או להקיש לפתיחה</string>
+    <string name="draw_ad_button_slide_text">יש להחליק לצפייה בפרטים</string>
     <string name="early_morning">מוקדם בבוקר</string>
     <string name="empty" />
     <string name="empty_channels">נהל ערוצים</string>
@@ -263,14 +266,10 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="feedback_activity_title">משוב</string>
     <string name="feedback_contact_empty">הזן את פרטי הקשר שלך</string>
     <string name="feedback_contact_title">פרטי איש קשר</string>
-    <string name="feedback_detail_input_hint">הכנס תוכן להודעה</string>
-    <string name="feedback_hint">תאר את הבעיה בה נתקלת.</string>
     <string name="feedback_hint_contact">טלפון/QQ/כתובת דוא\"ל</string>
     <string name="feedback_hint_text">תאר את הבעיה בה נתקלת.</string>
-    <string name="feedback_input_tip">באפשרותך לתאר בעיות או להציע הצעות כאן.</string>
     <string name="feedback_net_error">לא ניתן להגיש. בדוק את הגדרות האינטרנט ונסה שוב.</string>
     <string name="feedback_sent">שליחה</string>
-    <string name="feedback_success">נשלח בהצלחה</string>
     <string name="feedback_success_toast">הוגש בהצלחה. תודה על המשוב שלך!</string>
     <string name="feedback_tag_title">קטגוריה</string>
     <string name="feedback_text_empty_toast">ראשית, הזן את המשוב שלך.</string>
@@ -491,6 +490,7 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="hidden_channels">הערוצים הבאים לא יוצגו בדף הבית.</string>
     <string name="hide">הסתר</string>
     <string name="hide_video_toast">פריט זה הוסתר. ניתן למצוא ולנהל פריטים מוסתרים ב-Local > תיקיות > פריטים נסתרים.</string>
+    <string name="hiding_dialog_ok">להגדיר</string>
     <string name="hint_icon_ad_title">מומלצים</string>
     <string name="hint_in_mivideo">ניתן לבדוק מאפיינים נוספים בפאנל הצדדי כעת</string>
     <string name="history">היסטוריה</string>
@@ -543,7 +543,6 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="inline_mute_click_tip">הקש כדי לבטל את ההשתקה</string>
     <string name="input_email_address_notice">אנו נשתמש בכתובת דוא\"ל זו על מנת לאמת את חשבונך</string>
     <string name="input_new_pwd">הזן סיסמה חדשה</string>
-    <string name="input_size_tips_new">ניתן להזין עד %d תווים</string>
     <string name="isornot_your_mi_account">האם זה חשבון Mi שלך?</string>
     <string name="item_card_all_replies">כל התגובות</string>
     <string name="item_card_continue_play">השמעה אוטומטית</string>
@@ -646,7 +645,6 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="local_zoom_adjust_button">החלף מצב תצוגה</string>
     <string name="lock_screen">מסך נעילה</string>
     <string name="login">כניסה</string>
-    <string name="login_tip">עליך להתחבר כדי לקבל את התגובות שלנו למשוב שלך.</string>
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
     <string name="logout">התנתק</string>
     <string name="logout_account">צא</string>
@@ -734,6 +732,7 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="manager_request_continue">לאפשר</string>
     <string name="manager_request_tip">לא להציג שוב</string>
     <string name="manager_request_title">לא ניתן לקבל גישה לקובץ זה</string>
+    <string name="mangotv_episode">אפיזודה %d</string>
     <string name="mangotv_feature_list_title3">נוסף פרק %s</string>
     <string name="mangotv_feature_more">עוד</string>
     <string name="mangotv_feature_title1">פרקים</string>
@@ -751,11 +750,13 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="miuix_appcompat_delete_description">מחק</string>
     <string name="miuix_appcompat_deselect_all">לבטל בחירת הכול</string>
     <string name="miuix_appcompat_deselect_all_description">בטל בחירת הכל</string>
+    <string name="miuix_appcompat_edit">עריכה</string>
     <string name="miuix_appcompat_search_action_mode_cancel">ביטול</string>
     <string name="miuix_appcompat_search_input_description">חיפוש</string>
     <string name="miuix_appcompat_select_all">בחר הכל</string>
     <string name="miuix_appcompat_select_all_description">בחר הכל</string>
     <string name="miuix_appcompat_select_item">בחר פריטים</string>
+    <string name="miuix_dialog_ok">אישור</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">משוך כלפי מטה כדי לרענן</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">רוענן בהצלחה</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">מרענן…</string>
@@ -823,7 +824,6 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="music_new_user_dialog_got_it">הבנתי</string>
     <string name="music_new_user_dialog_tip">ברוכים הבאים ל-Mi וידאו! יישום זה מספק נגן וידאו מקומי ושירותי הזרמת מוזיקה ווידאו מקוונים.</string>
     <string name="my_favorite_channels">הערוצים המועדפים עליי</string>
-    <string name="my_feedback_title">המשוב שלי</string>
     <string name="need_update_app">עדכן את וידאו Mi על מנת שתוכל להשתמש בכל תכונותיו</string>
     <string name="network_connect_info">לא ניתן היה להתחבר לרשת.</string>
     <string name="network_error_and_retry_tip">לא ניתן היה להתחבר לרשת. נא לבדוק את הגדרות הרשת ולנסות שוב.</string>
@@ -831,6 +831,7 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="network_failed">לא ניתן היה להתחבר לרשת</string>
     <string name="newyearfestival_go_to_draw_prizes">עבור להגרלה</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">צפה בסרטונים והיכנס להגרלה</string>
+    <string name="next_button">הבא</string>
     <string name="nick_name">כינוי</string>
     <string name="night">ערב</string>
     <string name="no_account">לא מחובר</string>
@@ -869,6 +870,7 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="online_play_start_ready_loading_tip_kb">"טוען %.2f KB/שנ'"</string>
     <string name="online_play_start_ready_loading_tip_mb">"טוען %.2f MB/שנ'"</string>
     <string name="online_play_title">הזן כתובת URL</string>
+    <string name="order_alphabet">"א'-ת'"</string>
     <string name="order_recently_subscribe">מינויים חדשים</string>
     <string name="order_recently_updated">עודכנו לאחרונה</string>
     <string name="out_of_memory_background_playback_is_suspended">הניגון ברקע הושהה כי אין מספיק זיכרון</string>
@@ -1004,6 +1006,8 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="photoPickerNotFoundText">אין תמונות זמינות.</string>
     <string name="pip">תמונה בתוך תמונה</string>
     <string name="pip_not_supported_toast">יש לעדכן לגרסה האחרונה של המערכת כדי להשתמש במאפיין תמונה-בתוך-תמונה (PIP).</string>
+    <string name="play_at_normal_speed">מנגן במהירות 1X</string>
+    <string name="play_at_speed">מנגן במהירות %.1fX</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">צור פלייליסט</string>
     <string name="play_list_save_dialog_title">הוסף לפלייליסט</string>
@@ -1174,6 +1178,7 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="remaining_space_not_enough">לא ניתן להוריד כי נפח האחסון הפנוי אינו מספיק</string>
     <string name="reminder">לתשומת לבך</string>
     <string name="rename">שנה שם</string>
+    <string name="rename_dialog_ok">אישור</string>
     <string name="rename_word_out">שם הקובץ ארוך מדי</string>
     <string name="report">דוח</string>
     <string name="report_content_dislike">אלימות או התנהגות בלתי הולמת</string>
@@ -1219,7 +1224,7 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="sending">שולח…</string>
     <string name="service_error">שגיאת שרת</string>
     <string name="set_success">שונה בהצלחה</string>
-    <string name="setting_privacy_title">Terms and conditions</string>
+    <string name="setting_privacy_title">תנאים והגבלות</string>
     <string name="settings_inline_auto_play">תמיד לנגן אוטומטית</string>
     <string name="settings_inline_auto_play_close">ניגון אוטומטי מושבת</string>
     <string name="settings_inline_auto_play_tip_close_forever">תמיד כבוי</string>
@@ -1234,6 +1239,7 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="shake_to_open_ad">נא לנער למידע נוסף</string>
     <string name="share">שתף</string>
     <string name="share_text_before_link">צפייה והורדת סרטונים נהדרים בחינם בווידאו Mi</string>
+    <string name="share_title">שיתוף</string>
     <string name="share_ugc_waitting">מייצר קישור…</string>
     <string name="shorts_assemble_ad_recommend">מומלץ</string>
     <string name="show_the_location">סוגי התראות</string>
@@ -1248,6 +1254,7 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="slide_or_click_to_open_ad">נא להחליק אצבע או להקיש למידע נוסף</string>
     <string name="slide_save_message">יוצר וידאו…</string>
     <string name="slide_to_open_ad">נא להחליק אצבע למידע נוסף</string>
+    <string name="small_mango_play_next_episode">הפרק הבא</string>
     <string name="small_video_load_more_hint">החלק למעלה כדי לנגן סרטונים נוספים</string>
     <string name="small_video_report">דיווח</string>
     <string name="small_video_report_dialog_title">נא לבחור סיבה</string>
@@ -1262,7 +1269,6 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="start_download_tip">נוסף לתור. בדוק את ההתקדמות בפרופיל > הורדות</string>
     <string name="storage_external_sdcard">כרטיס SD</string>
     <string name="storage_internal_sdcard">אחסון פנימי</string>
-    <string name="submit">להגיש</string>
     <string name="subscribe">הירשם</string>
     <string name="subscribe_author_recommend_btn">הרשמה</string>
     <string name="subscribe_author_recommend_title">הירשם/י לצפייה בסרטונים חדשים מיוצרים אלה</string>
@@ -1281,6 +1287,7 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="sunday_short">"א'"</string>
     <string name="sunday_shortest">"א'"</string>
     <string name="sure_to_logout">האם לצאת מהחשבון כעת?</string>
+    <string name="swipe_to_exit">נא להחליק שוב כדי לצאת</string>
     <string name="switch_ratio_pause">מהירות ההשמעה אינה יציבה. יש לחזור למהירות ברירת המחדל.</string>
     <string name="sync_favorites_limit_new">במועדפים שלך שמורים למעלה מ-%d סרטונים. נצטרך למחוק כמה מהסרטונים הקודמים כדי שנוכל להמשיך לסנכרן.</string>
     <string name="sync_favorites_message">האם ברצונך לסנכרן את המועדפים מהמכשיר הזה לחשבונך? פריטים שאינם זמינים עוד יוסרו.</string>
@@ -1407,7 +1414,6 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">הפרס הזה אינו זמין כעת. נא לנסות שוב מאוחר יותר.</string>
     <string name="toast_m3u8_download_path_tip">לא ניתן לשנות את נתיב ההורדה עבור תוכן בתבנית M3U8</string>
     <string name="toast_play_error_tip">לא ניתן לנגן קובץ זה</string>
-    <string name="toast_request_too_frequently">לא כל כך מהר!</string>
     <string name="toast_share_failed">לא ניתן לשתף. נא להמתין כמה דקות ולנסות שוב.</string>
     <string name="today">היום</string>
     <string name="tomorrow">מחר</string>
@@ -1416,9 +1422,6 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="tuesday">שלישי</string>
     <string name="tuesday_short">"ג'"</string>
     <string name="tuesday_shortest">"ג'"</string>
-    <string name="type_content">תוכן</string>
-    <string name="type_issue">בעיה</string>
-    <string name="type_suggestion">הצעה</string>
     <string name="ugc_no_net">לא ניתן להתחבר לאינטרנט. נא לבדוק את הגדרות הרשת ולנסות שוב.</string>
     <string name="ui_common_title_back">הקודם</string>
     <string name="unknow">לא מוכר</string>
@@ -1441,7 +1444,7 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="v_menu_hide">הסתרה</string>
     <string name="v_more">עוד</string>
     <string name="v_next">הבא</string>
-    <string name="v_ok">אישור</string>
+    <string name="v_ok">הבא</string>
     <string name="v_online_play">הזרם באינטרנט</string>
     <string name="v_pw_need_update_app">עדכן את וידאו Mi על מנת שתוכל להשתמש בכל תכונותיו</string>
     <string name="v_save">שמור</string>
@@ -1452,6 +1455,7 @@ Mi Video צריך לאסוף מידע אישי הכרחי כדי לספק לך �
     <string name="video_download_fail">לא ניתן היה להוריד את הסרטון</string>
     <string name="video_download_fail_hint">לא ניתן היה להוריד</string>
     <string name="video_download_floating_guide">הורד סרטונים בחינם</string>
+    <string name="video_download_folder">סרטונים שהורדו</string>
     <string name="video_download_folder_title">הורדות וידאו Mi</string>
     <string name="video_download_forbidden">לא ניתן להוריד מאתר זה</string>
     <string name="video_download_login_guide">התחבר ל-%s כדי שתוכל להוריד סרטונים</string>

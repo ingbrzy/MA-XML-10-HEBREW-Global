@@ -202,7 +202,7 @@
     <string name="encrypt_prefix">פרטי</string>
     <string name="encrypt_setting">הצפנה</string>
     <string name="encrypt_success">הפריטים שנבחרו פרטיים עכשיו</string>
-    <string name="encrypt_success_first_five">"הפריט פרטי עכשיו. תוכל להציג קבצים פרטיים על ידי ביצוע משיכה כלפי מטה בעמוד הראשי של 'מנהל הקבצים'."</string>
+    <string name="encrypt_success_first_five">עכשיו התוכן הזה פרטי. יש למשוך כלפי מטה בעמוד הבית של מנהל הקבצים כדי לצפות בו.</string>
     <string name="encrypting">מצפין…</string>
     <string name="enter">פתח את מנהל הקבצים</string>
     <string name="entry_phone_storage_internal">אחסון פנימי</string>
@@ -238,6 +238,7 @@
     <string name="favorite_photo">תמונות מצלמה</string>
     <string name="favorite_ringtone">צלצולים</string>
     <string name="favorite_screen_cap">צילומי מסך</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">ניתן לקריאה: </string>
     <string name="file_info_canwrite">ניתן לכתיבה: </string>
     <string name="file_info_ishidden">מוסתר: </string>
@@ -631,6 +632,14 @@
     <string name="partial_delete_failure">לא ניתן היה למחוק קבצים מסוימים. נסה שוב.</string>
     <string name="partial_encrypt_success">לא ניתן היה להפוך קבצים מסוימים לפרטיים. נסה שוב</string>
     <string name="path_name_email">דוא\"ל</string>
+    <string name="pattern_hour_minute_12">hh:mm a</string>
+    <string name="pattern_hour_minute_24">HH:mm</string>
+    <string name="pattern_month_day">MM.dd</string>
+    <string name="pattern_month_day_hh_mm_12">MM.dd hh:mm a</string>
+    <string name="pattern_month_day_hh_mm_24">MM.dd HH:mm</string>
+    <string name="pattern_year_month_day">yyyy.MM.dd</string>
+    <string name="pattern_year_month_day_hh_mm_12">yyyy.MM.dd hh:mm a</string>
+    <string name="pattern_year_month_day_hh_mm_24">yyyy.MM.dd HH:mm</string>
     <string name="perm_manage_external_storage">גישה לכל הקבצים</string>
     <string name="permission_account_desc">לקבלת גישה לפרטי החשבון המאוחסנים במכשירך</string>
     <string name="permission_account_desc_pad">לקבלת גישה לפרטי החשבון המאוחסנים במכשירך</string>
@@ -762,6 +771,7 @@
     <string name="set_pattern">עדכון הסיסמה</string>
     <string name="set_pattern_btn">הגדר</string>
     <string name="set_pattern_msg">הגדר שוב את הסיסמה שלך. סיסמת הגנת הפרטיות עובדת גם עבור תמונות, הודעות ופתקים.</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">קטן מ-%d KB</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
